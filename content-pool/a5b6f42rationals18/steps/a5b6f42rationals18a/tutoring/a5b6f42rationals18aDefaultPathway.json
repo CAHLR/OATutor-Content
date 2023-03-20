@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Definition",
-        "text": "The y intercept value is the value that results when all the values of x are 0",
-        "variabilization": {}
+        "text": "The $$y$$ intercept value is the value that results when all the values of $$x$$ are $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals18a-h2",
@@ -19,8 +20,9 @@
             "a5b6f42rationals18a-h1"
         ],
         "title": "Putting it Together",
-        "text": "What is the y intercept",
-        "variabilization": {}
+        "text": "What is the $$y$$ intercept",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals18a-h3",
@@ -29,8 +31,9 @@
             "a5b6f42rationals18a-h2"
         ],
         "title": "Definition",
-        "text": "The x intercept is the value of x that makes f(x) $$=$$ 0",
-        "variabilization": {}
+        "text": "The $$x$$ intercept is the value of $$x$$ that makes f(x) $$=$$ $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals18a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Putting it Together",
         "text": "What value(s) of the numerator makes the whole expression 0?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

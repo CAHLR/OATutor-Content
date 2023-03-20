@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write in Expanded Form",
         "text": "We start by writing out the expression in its expanded form: $${\\left(-2\\right)}^4=\\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$, and we will simplify $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$ by performing multiplication three times.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "aafc2dcMultiply5a-h1"
         ],
         "title": "First Multiplication",
         "text": "We now multiply the first $$\\left(-2\\right) \\left(-2\\right)$$ pair together and substitute the value back into the expression. What is $$\\left(-2\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h3",
@@ -29,8 +31,9 @@
             "aafc2dcMultiply5a-h2"
         ],
         "title": "First Multiplication",
-        "text": "$$2\\times2=4$$, and since -2 and -2 have the same signs, our final answer is positive: $$\\left(-2\\right) \\left(-2\\right)=4$$.",
-        "variabilization": {}
+        "text": "$$2\\times2=4$$, and since $$-2$$ and $$-2$$ have the same signs, our final answer is positive: $$\\left(-2\\right) \\left(-2\\right)=4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h4",
@@ -39,8 +42,9 @@
             "aafc2dcMultiply5a-h3"
         ],
         "title": "Current Expression",
-        "text": "Substituting 4 back, the orignal expression now becomes $$4\\left(-2\\right) \\left(-2\\right)$$.",
-        "variabilization": {}
+        "text": "Substituting $$4$$ back, the orignal expression now becomes $$4\\left(-2\\right) \\left(-2\\right)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "aafc2dcMultiply5a-h4"
         ],
         "title": "Second Multiplication",
         "text": "What is $$4\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h6",
@@ -64,8 +69,9 @@
             "aafc2dcMultiply5a-h5"
         ],
         "title": "Second Multiplication",
-        "text": "$$4\\times2=8$$, and since 4 and -2 have different signs, our final answer is negative: $$4\\left(-2\\right)=-8$$.",
-        "variabilization": {}
+        "text": "$$4\\times2=8$$, and since $$4$$ and $$-2$$ have different signs, our final answer is negative: $$4\\left(-2\\right)=-8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h7",
@@ -74,8 +80,9 @@
             "aafc2dcMultiply5a-h6"
         ],
         "title": "Current Expression",
-        "text": "Substituting -8 back, the orignal expression now becomes $$-8\\left(-2\\right)$$.",
-        "variabilization": {}
+        "text": "Substituting $$-8$$ back, the orignal expression now becomes $$-8\\left(-2\\right)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h8",
@@ -83,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "aafc2dcMultiply5a-h7"
         ],
         "title": "Third Multiplication",
         "text": "What is $$-8\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply5a-h9",
@@ -99,7 +107,8 @@
             "aafc2dcMultiply5a-h8"
         ],
         "title": "Third Multiplication",
-        "text": "$$8\\times2=16$$, and since -8 and -2 have the same signs, our final answer is positive: $$-8\\left(-2\\right)=16$$.",
-        "variabilization": {}
+        "text": "$$8\\times2=16$$, and since $$-8$$ and $$-2$$ have the same signs, our final answer is positive: $$-8\\left(-2\\right)=16$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

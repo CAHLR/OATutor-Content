@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying the Formula",
         "text": "What is the continuous growth formula?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog3a-h2",
@@ -14,8 +15,9 @@
             "af69facexpolog3a-h1"
         ],
         "title": "Substitute Known Values",
-        "text": "Substitute $$0.2A_0$$ for f(t) and 0.2 for r",
-        "variabilization": {}
+        "text": "Substitute $$0.2A_0$$ for f(t) and $$0.2$$ for $$r$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog3a-h3",
@@ -23,8 +25,9 @@
         "dependencies": [
             "af69facexpolog3a-h2"
         ],
-        "title": "Solve for t",
-        "text": "Rearrange the equation using algebraic methods to solve for t",
-        "variabilization": {}
+        "title": "Solve for $$t$$",
+        "text": "Rearrange the equation using algebraic methods to solve for $$t$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

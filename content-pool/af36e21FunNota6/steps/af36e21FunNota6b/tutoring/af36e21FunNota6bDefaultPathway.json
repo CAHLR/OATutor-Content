@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Evaluating functions",
         "text": "Given the equation for a function, we should replace the input variable in the equation with the value provided and then calculate the result.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota6b-h2",
@@ -14,7 +15,8 @@
             "af36e21FunNota6b-h1"
         ],
         "title": "Replacement",
-        "text": "Replace the variable x with the a. We get the expression $$a^2+3a-4$$.",
-        "variabilization": {}
+        "text": "Replace the variable $$x$$ with the a. We get the expression $$a^2+3a-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

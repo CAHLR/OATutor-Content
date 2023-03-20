@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Find the Greatest Common Factor",
         "text": "Find the greatest common factor of all terms in the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring3a-h2",
@@ -25,7 +26,8 @@
         ],
         "title": "Factor out common factor",
         "text": "(16*x**3)-36*x=4*x*(?)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring3a-h3",
@@ -39,8 +41,9 @@
             "a746c1bFactoring3a-h2"
         ],
         "title": "Difference of square",
-        "text": "We observe that 9 can be rewrite $$3^2$$. $$4x^2$$ can be rewritten as square of ?",
-        "variabilization": {}
+        "text": "We observe that $$9$$ can be rewrite $$3^2$$. $$4x^2$$ can be rewritten as square of ?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring3a-h4",
@@ -56,6 +59,7 @@
         "title": "Formula",
         "text": "Recall that $$\\left(a+b\\right) \\left(a-b\\right)=a^2-b^2$$. How do we factor $$4x^2-9^2$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a746c1bFactoring3a-h4-s1",
@@ -68,7 +72,8 @@
                 "dependencies": [],
                 "title": "Rewrite",
                 "text": "We can rewrite $$4x^2-9^2$$ as $${\\left(2x\\right)}^2-3^2$$. Use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. How do you factor $$4x^2-9$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -85,6 +90,7 @@
         ],
         "title": "Put together all factors",
         "text": "$$16x^3-36x=4x \\left(4x^2-9\\right)$$ and $$4x^2-9=\\left(2x+3\\right) \\left(2x-3\\right)$$. What is the linear factor form of $$16x^3-36x$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

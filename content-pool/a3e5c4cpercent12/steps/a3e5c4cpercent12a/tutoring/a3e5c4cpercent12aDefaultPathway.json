@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the Difference",
         "text": "Find the difference between the two numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent12a-h2",
@@ -14,8 +15,9 @@
             "a3e5c4cpercent12a-h1"
         ],
         "title": "The Difference",
-        "text": "The difference is 3.71-3.64, or 0.07.",
-        "variabilization": {}
+        "text": "The difference is $$3.71-3.64$$, or $$0.07$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Find the Percent",
         "text": "Divide the difference by the original value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent12a-h4",
@@ -34,8 +37,9 @@
             "a3e5c4cpercent12a-h3"
         ],
         "title": "The Percentage",
-        "text": "0.07 divided by 3.71 is 0.019. Change this to percent form.",
-        "variabilization": {}
+        "text": "$$0.07$$ divided by $$3.71$$ is $$0.019$$. Change this to percent form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent12a-h5",
@@ -44,7 +48,8 @@
             "a3e5c4cpercent12a-h4"
         ],
         "title": "The Answer",
-        "text": "Multiply by 100 to change to percentage. The percentage is 1.9%.",
-        "variabilization": {}
+        "text": "Multiply by $$100$$ to change to percentage. The percentage is $$1.9\\%$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

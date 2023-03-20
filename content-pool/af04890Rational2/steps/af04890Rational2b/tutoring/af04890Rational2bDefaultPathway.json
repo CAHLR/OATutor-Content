@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The rational will be undefined when the $$denominator=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational2b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "af04890Rational2b-h1"
         ],
-        "title": "Setting equal to 0",
+        "title": "Setting equal to $$0$$",
         "text": "Set the $$denominator=0$$, $$3n+1=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational2b-h3",
@@ -29,7 +31,8 @@
             "af04890Rational2b-h2"
         ],
         "title": "Finding values",
-        "text": "What is n?",
-        "variabilization": {}
+        "text": "What is $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

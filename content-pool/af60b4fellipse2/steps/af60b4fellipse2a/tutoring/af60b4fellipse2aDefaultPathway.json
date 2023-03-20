@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Vertice and Foci",
-        "text": "Consider whether the major axis lies on the x- or y-axis.",
-        "variabilization": {}
+        "text": "Consider whether the major axis lies on the $$x-$$ or y-axis.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Standard Equation Form",
         "text": "The form of the standard equation is $$c^2=a^2-b^2$$, given $$a=vertices$$ and $$c=foci$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse2a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "af60b4fellipse2a-h2"
         ],
         "title": "Solving for a",
         "text": "What is a equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse2a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Solving for c",
         "text": "What is c equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse2a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "af60b4fellipse2a-h4"
         ],
-        "title": "Solving for b",
-        "text": "What is $$b^2$$ equal to using the relationship between a, b, and c?",
-        "variabilization": {}
+        "title": "Solving for $$b$$",
+        "text": "What is $$b^2$$ equal to using the relationship between a, $$b$$, and c?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse2a-h6",
@@ -74,7 +79,8 @@
             "af60b4fellipse2a-h5"
         ],
         "title": "Plugging in the Values",
-        "text": "Plug in the values for a and b into the standard form equation.",
-        "variabilization": {}
+        "text": "Plug in the values for a and $$b$$ into the standard form equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

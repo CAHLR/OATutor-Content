@@ -5,15 +5,17 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The addition and subtraction can only happen in the term with same degree",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial10a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Organizing",
-        "text": "It has the common terms of $$x^2$$, x, and constant",
-        "variabilization": {}
+        "text": "It has the common terms of $$x^2$$, $$x$$, and constant",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial10a-h3",
@@ -21,12 +23,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [],
         "title": "Addition",
         "text": "What is $$7+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial10a-h4",
@@ -34,12 +37,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-11"
+            "$$-11$$"
         ],
         "dependencies": [],
         "title": "Addition",
         "text": "What is $$\\left(-4\\right)+\\left(-7\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial10a-h5",
@@ -47,12 +51,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [],
         "title": "Addition",
         "text": "What is $$5+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial10a-h6",
@@ -60,6 +65,7 @@
         "dependencies": [],
         "title": "Addition",
         "text": "Add all the terms up",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

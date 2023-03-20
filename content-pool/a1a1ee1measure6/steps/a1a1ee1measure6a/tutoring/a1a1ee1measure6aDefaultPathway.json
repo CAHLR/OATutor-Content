@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply",
         "text": "We will multiply the length of one plank to find the total length.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply the inches and then the feet.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure6a-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "24 feet, 16 inches"
+            "$$24$$ feet, $$16$$ inches"
         ],
         "dependencies": [
             "a1a1ee1measure6a-h2"
@@ -31,10 +33,11 @@
         "title": "Multiply",
         "text": "What do we get after multiplying the length of the plank by 4?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "24 feet",
-            "24 feet, 16 inches",
-            "24 feet, 18 inches"
+            "$$24$$ feet",
+            "$$24$$ feet, $$16$$ inches",
+            "$$24$$ feet, $$18$$ inches"
         ]
     },
     {
@@ -44,8 +47,9 @@
             "a1a1ee1measure6a-h3"
         ],
         "title": "Convert",
-        "text": "We then need to convert the 16 inches to feet.",
-        "variabilization": {}
+        "text": "We then need to convert the $$16$$ inches to feet.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure6a-h5",
@@ -53,7 +57,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "1 foot, 4 inches"
+            "$$1$$ foot, $$4$$ inches"
         ],
         "dependencies": [
             "a1a1ee1measure6a-h4"
@@ -61,10 +65,11 @@
         "title": "Convert",
         "text": "What do we get after the conversion?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "1 foot, 4 inches",
-            "1 foot, 6 inches",
-            "1 foot, 8 inches"
+            "$$1$$ foot, $$4$$ inches",
+            "$$1$$ foot, $$6$$ inches",
+            "$$1$$ foot, $$8$$ inches"
         ]
     },
     {
@@ -74,8 +79,9 @@
             "a1a1ee1measure6a-h5"
         ],
         "title": "Add",
-        "text": "We then need to add 24 feet with 1 foot, 4 inches.",
-        "variabilization": {}
+        "text": "We then need to add $$24$$ feet with $$1$$ foot, $$4$$ inches.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure6a-h7",
@@ -83,7 +89,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "25 feet, 4 inches"
+            "$$25$$ feet, $$4$$ inches"
         ],
         "dependencies": [
             "a1a1ee1measure6a-h6"
@@ -91,11 +97,12 @@
         "title": "Add",
         "text": "What do we get after the addition?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "24 feet, 3 inches",
-            "25 feet, 4 inches",
-            "25 feet, 8 inches",
-            "25 feet"
+            "$$24$$ feet, $$3$$ inches",
+            "$$25$$ feet, $$4$$ inches",
+            "$$25$$ feet, $$8$$ inches",
+            "$$25$$ feet"
         ]
     }
 ]

@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [],
         "title": "Initial Value",
         "text": "What day did the rumor start?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog30a-h2",
@@ -18,13 +19,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "af69facexpolog30a-h1"
         ],
         "title": "Substitution",
         "text": "Substituting $$t=0$$, what is N(0)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

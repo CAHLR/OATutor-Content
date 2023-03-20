@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Is this a real number?",
         "text": "Is the inside of the square root a positive or negative number?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9802fsimproots11a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Real Number",
         "text": "Since it is an imaginary number, can it be further simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

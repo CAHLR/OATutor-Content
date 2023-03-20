@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use22b-h2",
@@ -21,6 +22,7 @@
         "title": "P-Parentheses",
         "text": "Are there any parentheses?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -32,14 +34,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "a4d2b33use22b-h2"
         ],
         "title": "First Operation",
         "text": "What is $$4+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use22b-h4",
@@ -55,6 +58,7 @@
         "title": "E-Exponents",
         "text": "Are there any exponents?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -74,6 +78,7 @@
         "title": "MD-Multiplication or Division",
         "text": "Is there any multiplication or division?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -85,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a4d2b33use22b-h5"
         ],
         "title": "Second Operation",
         "text": "What is $$7\\times7$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use22b-h7",
@@ -108,6 +114,7 @@
         "title": "AS-Addition or Subtraction",
         "text": "Is there any (remaining) addition or subtraction?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use a Variable",
-        "text": "Let the first number be x. Write the second number in relation to the first.",
-        "variabilization": {}
+        "text": "Let the first number be $$x$$. Write the second number in relation to the first.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve24a-h2",
@@ -14,8 +15,9 @@
             "a01e792probsolve24a-h1"
         ],
         "title": "The Second Number",
-        "text": "The second number can be written as x-4.",
-        "variabilization": {}
+        "text": "The second number can be written as $$x-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve24a-h3",
@@ -24,8 +26,9 @@
             "a01e792probsolve24a-h2"
         ],
         "title": "Setting up an Equation",
-        "text": "The sum of the two numbers can be written as $$x+x-4$$, or 2x-4.",
-        "variabilization": {}
+        "text": "The sum of the two numbers can be written as $$x+x-4$$, or $$2x-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve24a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "The Equation",
         "text": "The equation can be set up as $$2x-4=-14$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve24a-h5",
@@ -44,7 +48,8 @@
             "a01e792probsolve24a-h4"
         ],
         "title": "Answer",
-        "text": "The two numbers are -5 and -9.",
-        "variabilization": {}
+        "text": "The two numbers are $$-5$$ and $$-9$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

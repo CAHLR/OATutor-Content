@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing the Problem Algebraically",
         "text": "Use the Pythagorean Theorem to rewrite the problem like $$a^2$$ + $$b^2$$ $$=$$ $$c^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a28722cappquad5a-h1"
         ],
         "title": "Writing the Problem Algebraically",
         "text": "What is the value of c in this scenario?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h3",
@@ -29,8 +31,9 @@
             "a28722cappquad5a-h2"
         ],
         "title": "Rewrite the Problem in Terms of One Unknown",
-        "text": "Currently, there are two unknowns, height of the flag pole (h) and length of the shadow (l). WIth the information given, we can write h in terms of l",
-        "variabilization": {}
+        "text": "Currently, there are two unknowns, height of the flag pole (h) and length of the shadow (l). WIth the information given, we can write $$h$$ in terms of l",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h4",
@@ -44,8 +47,9 @@
             "a28722cappquad5a-h3"
         ],
         "title": "Rewrite the Problem in Terms of One Unknown",
-        "text": "What is h in terms of l?",
-        "variabilization": {}
+        "text": "What is $$h$$ in terms of l?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h5",
@@ -54,8 +58,9 @@
             "a28722cappquad5a-h4"
         ],
         "title": "Simplify",
-        "text": "Now that you have h in terms of l, you can plug that value into the original Pythagorean Theorem equation $$h^2$$ + $$l^2$$ $$=$$ $${20}^2$$, then do the squares and solve",
-        "variabilization": {}
+        "text": "Now that you have $$h$$ in terms of l, you can plug that value into the original Pythagorean Theorem equation $$h^2$$ + $$l^2$$ $$=$$ $${20}^2$$, then do the squares and solve",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Simplify",
         "text": "What is $${\\left(3l\\right)}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Simplify",
         "text": "What is $$9l^2$$ + $$l^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h8",
@@ -93,14 +100,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "400"
+            "$$400$$"
         ],
         "dependencies": [
             "a28722cappquad5a-h7"
         ],
         "title": "Simplify",
         "text": "What is $${20}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h9",
@@ -115,7 +123,8 @@
         ],
         "title": "Simplify",
         "text": "What is l?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h10",
@@ -123,9 +132,10 @@
         "dependencies": [
             "a28722cappquad5a-h9"
         ],
-        "title": "Solving for h",
-        "text": "Now that we have a value of l, we can plug that value back into the equation for h in terms of l, to get h",
-        "variabilization": {}
+        "title": "Solving for $$h$$",
+        "text": "Now that we have a value of l, we can plug that value back into the equation for $$h$$ in terms of l, to get $$h$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad5a-h11",
@@ -133,13 +143,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "19"
+            "$$19$$"
         ],
         "dependencies": [
             "a28722cappquad5a-h10"
         ],
-        "title": "Solving for h",
-        "text": "What is h (rounded to the nearest tenth)?",
-        "variabilization": {}
+        "title": "Solving for $$h$$",
+        "text": "What is $$h$$ (rounded to the nearest tenth)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

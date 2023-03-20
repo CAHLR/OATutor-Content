@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Square Root",
         "text": "Take the square root of both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad36a-h2",
@@ -14,7 +15,8 @@
             "a20771equad36a-h1"
         ],
         "title": "Positive and Negative",
-        "text": "Remember that taking the square root of 36 results in one positive number and one negative number!",
-        "variabilization": {}
+        "text": "Remember that taking the square root of $$36$$ results in one positive number and one negative number!",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

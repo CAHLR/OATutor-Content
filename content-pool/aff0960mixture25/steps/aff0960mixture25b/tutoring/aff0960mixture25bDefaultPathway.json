@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Variables",
-        "text": "Represent the number of each type of ticket using variables.The ice rink sold 95 tickets for the afternoon skating session, so you can represent general admissions tickets(g) as 95-c, and you can represent child tickets simply as c.",
-        "variabilization": {}
+        "text": "Represent the number of each type of ticket using variables.The ice rink sold $$95$$ tickets for the afternoon skating session, so you can represent general admissions tickets(g) as 95-c, and you can represent child tickets simply as c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture25b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the number of each ticket type(in variable form) by its respective value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture25b-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their monetary values into a single equation. This will be $$\\operatorname{10}\\left(95-c\\right)+8c=828$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture25b-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Calculation",
         "text": "Solve the equation for c.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture25b-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Substitution",
         "text": "Plug c into the original relationship between the passes to find g.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture25b-h6",
@@ -54,7 +59,8 @@
             "aff0960mixture25b-h5"
         ],
         "title": "Calculation",
-        "text": "The answer is 34 general and 61 youth.",
-        "variabilization": {}
+        "text": "The answer is $$34$$ general and $$61$$ youth.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

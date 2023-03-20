@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Occurrence of the y-intercept",
-        "text": "The y intercept occurs when the input is zero",
-        "variabilization": {}
+        "text": "The $$y$$ intercept occurs when the input is zero",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h2",
@@ -14,8 +15,9 @@
             "afbe5ccpower4a-h1"
         ],
         "title": "Calculating the y-intercept",
-        "text": "f(0) $$=$$ $$0^4$$ - $${4\\left(0\\right)}^2$$ - 45 $$=$$ -45",
-        "variabilization": {}
+        "text": "f(0) $$=$$ $$0^4$$ - $${4\\left(0\\right)}^2$$ - $$45$$ $$=$$ $$-45$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h3",
@@ -24,8 +26,9 @@
             "afbe5ccpower4a-h2"
         ],
         "title": "Determining the y-intercept",
-        "text": "The y-intercept is (0,-45)",
-        "variabilization": {}
+        "text": "The y-intercept is $$(0,-45)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Occurrence of the x-intercept",
         "text": "The x-intercept occurs when the output is zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Factoring the Polynomial to Determine Zeros",
         "text": "To determine when the output is zero, we will need to factor the polynomial",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h6",
@@ -54,8 +59,9 @@
             "afbe5ccpower4a-h5"
         ],
         "title": "Factorization of the Polynomial",
-        "text": "f(x) $$=$$ (x - 3) (x + 3) (x**2 + 5) $$=$$ 0",
-        "variabilization": {}
+        "text": "f(x) $$=$$ (x - 3) (x + 3) (x**2 + 5) $$=$$ $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h7",
@@ -64,8 +70,9 @@
             "afbe5ccpower4a-h6"
         ],
         "title": "Determing the Zeros",
-        "text": "x $$=$$ 3, x $$=$$ -5",
-        "variabilization": {}
+        "text": "$$x$$ $$=$$ $$3$$, $$x$$ $$=$$ $$-5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower4a-h8",
@@ -74,7 +81,8 @@
             "afbe5ccpower4a-h7"
         ],
         "title": "Determining the x-intercepts",
-        "text": "The x-intercepts are (3,0) adn (-3,0)",
-        "variabilization": {}
+        "text": "The x-intercepts are $$(3,0)$$ adn $$(-3,0)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

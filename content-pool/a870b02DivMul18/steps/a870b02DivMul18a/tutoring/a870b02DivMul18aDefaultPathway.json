@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplification",
         "text": "With these more complicated equations the first step is to simplify both sides of the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul18a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify both sides of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul18a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Isolation",
         "text": "Using multiplication property, division property etc. to isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul18a-h4",
@@ -44,8 +47,9 @@
             "a870b02DivMul18a-h3"
         ],
         "title": "Division",
-        "text": "Divide both sides by 3 to isolate c.",
-        "variabilization": {}
+        "text": "Divide both sides by $$3$$ to isolate c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul18a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul18a-h6",
@@ -69,8 +74,9 @@
             "a870b02DivMul18a-h5"
         ],
         "title": "Verification",
-        "text": "Check whether 18-27 equals $$15\\times3-9\\times3-3\\times3$$.",
+        "text": "Check whether $$18-27$$ equals $$15\\times3-9\\times3-3\\times3$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

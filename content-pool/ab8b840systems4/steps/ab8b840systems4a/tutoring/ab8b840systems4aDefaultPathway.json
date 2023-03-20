@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Addition Method",
-        "text": "Since both equations with x- and y-variables are on the left side of the equal sign and constants on the right, write one equation above the other, lining up corresponding variables.",
-        "variabilization": {}
+        "text": "Since both equations with $$x-$$ and $$y-variables$$ are on the left side of the equal sign and constants on the right, write one equation above the other, lining up corresponding variables.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h2",
@@ -14,8 +15,9 @@
             "ab8b840systems4a-h1"
         ],
         "title": "Addition Method",
-        "text": "Notice that the coefficient of x in the second equation, -1, is the opposite of the coefficient of x in the first equation, 1. Add the two equations to eliminate x.",
-        "variabilization": {}
+        "text": "Notice that the coefficient of $$x$$ in the second equation, $$-1$$, is the opposite of the coefficient of $$x$$ in the first equation, $$1$$. Add the two equations to eliminate $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Addition Method",
         "text": "What is the resulting equation when you add the first and second equation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h4",
@@ -44,8 +47,9 @@
             "ab8b840systems4a-h3"
         ],
         "title": "Isolating Variables",
-        "text": "What is y equal to?",
-        "variabilization": {}
+        "text": "What is $$y$$ equal to?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h5",
@@ -54,8 +58,9 @@
             "ab8b840systems4a-h4"
         ],
         "title": "Substitution",
-        "text": "Substitute this value for y into one of the original equations and solve for x.",
-        "variabilization": {}
+        "text": "Substitute this value for $$y$$ into one of the original equations and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h6",
@@ -69,8 +74,9 @@
             "ab8b840systems4a-h5"
         ],
         "title": "Isolating Variables",
-        "text": "What is x equal to in $$-x+\\frac{2}{3}=3$$?",
-        "variabilization": {}
+        "text": "What is $$x$$ equal to in $$-x+\\frac{2}{3}=3$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "Checking the Solution",
         "text": "Check the solution by substituting (-7/3, 2/3) into the first equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems4a-h8",
@@ -96,6 +103,7 @@
         "title": "Checking the Solution",
         "text": "Does $$\\left(-\\frac{7}{3}\\right)+2\\frac{2}{3}=-1$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

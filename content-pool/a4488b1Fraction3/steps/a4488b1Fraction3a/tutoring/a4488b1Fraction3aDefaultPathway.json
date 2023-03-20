@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The minus signs can be canceled out in multiplication or division",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Dividing $$=$$ multiplying the reciprocal of the second term",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h3",
@@ -21,7 +23,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Find the common factor of numerator and denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h4",
@@ -31,7 +34,8 @@
         ],
         "title": "Factor",
         "text": "Factor the numerator to 3x3x2x2x7",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h5",
@@ -41,7 +45,8 @@
         ],
         "title": "Factor",
         "text": "Factor the denominator to 3x3x3x5x7",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h6",
@@ -49,14 +54,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "63"
+            "$$63$$"
         ],
         "dependencies": [
             "a4488b1Fraction3a-h5"
         ],
         "title": "Organizing",
         "text": "What is the common factor?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction3a-h7",
@@ -66,6 +72,7 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the rest of the factors",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

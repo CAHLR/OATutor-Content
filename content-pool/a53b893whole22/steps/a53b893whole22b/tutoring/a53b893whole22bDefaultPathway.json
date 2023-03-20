@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Focusing on the Digits",
         "text": "Let's only look at the relavant digits. Focus on 407,218.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting the Number",
         "text": "407,218 can be rewritten as 400,000,000+7,000+200+10+8.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22b-h3",
@@ -24,8 +26,9 @@
             "a53b893whole22b-h2"
         ],
         "title": "Rewriting the Number",
-        "text": "This is the same thing as 4 hundred $$thousands+0$$ ten $$thousands+7$$ $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
-        "variabilization": {}
+        "text": "This is the same thing as $$4$$ hundred $$thousands+0$$ ten $$thousands+7$$ $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22b-h4",
@@ -34,7 +37,8 @@
             "a53b893whole22b-h3"
         ],
         "title": "Thinking",
-        "text": "0 is in the ten thousands place.",
-        "variabilization": {}
+        "text": "$$0$$ is in the ten thousands place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

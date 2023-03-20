@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Indicated Answer",
         "text": "The first term $$a_1$$ is given in the formula.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

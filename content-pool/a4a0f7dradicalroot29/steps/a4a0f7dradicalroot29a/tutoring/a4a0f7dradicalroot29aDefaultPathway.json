@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolating the Radical",
         "text": "First you must isolate the radical. If this is already done then think about how we can isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot29a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Isolating the Radical",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot29a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Isolating the Variable",
         "text": "Square both sides of the equation and isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot29a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Isolating the Variable",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot29a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Solving the Equation",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot29a-h6",
@@ -70,6 +75,7 @@
         ],
         "title": "Double Checking",
         "text": "Plug the answer back in to check if the answer is correct. This needs to be done because the radical can lead to some equations having no answers. If it doesn't work then there are no solutions to the equation. The solution does not exist.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Whole Numbers",
         "text": "The set of whole numbers is the set of natural numbers plus zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real3b-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a6f9727real3b-h1"
         ],
         "title": "Zero Fractions",
-        "text": "What does any fraction of the form $$\\frac{0}{x}$$ simplify to? (where x is nonzero)",
-        "variabilization": {}
+        "text": "What does any fraction of the form $$\\frac{0}{x}$$ simplify to? (where $$x$$ is nonzero)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

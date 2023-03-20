@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Convert",
-        "text": "To convert weeks into minutes we will convert weeks into days, days into hours, and then hours into minutes. To do this we will multiply by conversion factors of 1.",
-        "variabilization": {}
+        "text": "To convert weeks into minutes we will convert weeks into days, days into hours, and then hours into minutes. To do this we will multiply by conversion factors of $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure3a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "a1a1ee1measure3a-h1"
         ],
         "title": "Convert",
         "text": "How many days are in a week?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure3a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "24"
+            "$$24$$"
         ],
         "dependencies": [
             "a1a1ee1measure3a-h2"
         ],
         "title": "Convert",
         "text": "How many hours are in a day?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure3a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "60"
+            "$$60$$"
         ],
         "dependencies": [
             "a1a1ee1measure3a-h3"
         ],
         "title": "Convert",
         "text": "How many minutes are in an hour?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure3a-h5",
@@ -59,8 +63,9 @@
             "a1a1ee1measure3a-h4"
         ],
         "title": "Multiply",
-        "text": "Multiply 9 weeks by (7 $$\\frac{days}{1}$$ week)*(24 $$\\frac{hours}{1}$$ day)*(60 $$\\frac{minutes}{1}$$ hour)",
-        "variabilization": {}
+        "text": "Multiply $$9$$ weeks by (7 $$\\frac{days}{1}$$ week)*(24 $$\\frac{hours}{1}$$ day)*(60 $$\\frac{minutes}{1}$$ hour)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure3a-h6",
@@ -68,13 +73,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "90720"
+            "$$90720$$"
         ],
         "dependencies": [
             "a1a1ee1measure3a-h5"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

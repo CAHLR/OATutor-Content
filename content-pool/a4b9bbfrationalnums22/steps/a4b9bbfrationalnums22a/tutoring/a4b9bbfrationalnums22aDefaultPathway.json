@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Form",
         "text": "We want to write each expression in the form $$a^n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b9bbfrationalnums22a-h2",
@@ -14,7 +15,8 @@
             "a4b9bbfrationalnums22a-h1"
         ],
         "title": "Denominator of exponent",
-        "text": "The index of the radical is 7, therefore the denominator of the power should also be 7.",
-        "variabilization": {}
+        "text": "The index of the radical is $$7$$, therefore the denominator of the power should also be $$7$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

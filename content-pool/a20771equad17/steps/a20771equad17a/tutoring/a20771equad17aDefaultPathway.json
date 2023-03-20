@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Coefficients",
         "text": "The first step is to identify the coefficient of each term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad17a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a20771equad17a-h1"
         ],
         "title": "Coefficient of $$x^2$$",
         "text": "What is the coefficient of $$x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad17a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a20771equad17a-h2"
         ],
-        "title": "Coefficient of x",
-        "text": "What is the coefficient of x?",
-        "variabilization": {}
+        "title": "Coefficient of $$x$$",
+        "text": "What is the coefficient of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad17a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a20771equad17a-h3"
         ],
-        "title": "Coefficient of 2",
+        "title": "Coefficient of $$2$$",
         "text": "What is the coefficient of 2?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad17a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Using the Quadratic Formula",
         "text": "Next, subsitute the coefficients of each term into the quadratic formula.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad17a-h6",
@@ -70,6 +75,7 @@
         ],
         "title": "Quadratic Formula Definition",
         "text": "The quadratic formula is $$x=\\frac{\\left(-b\\pm \\sqrt{b^2-4ac}\\right)}{2a}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

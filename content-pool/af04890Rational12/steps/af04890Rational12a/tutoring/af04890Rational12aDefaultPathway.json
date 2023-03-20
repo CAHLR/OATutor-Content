@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring the numerator",
-        "text": "Factor the numerator to $$\\left(2x-3\\right) \\left(x+4\\right)$$ and (x-4)(x-4)",
-        "variabilization": {}
+        "text": "Factor the numerator to $$\\left(2x-3\\right) \\left(x+4\\right)$$ and $$(x-4)(x-4)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational12a-h2",
@@ -14,8 +15,9 @@
             "af04890Rational12a-h1"
         ],
         "title": "Factoring the denominator",
-        "text": "Factor the denominator to $$\\left(x+4\\right) \\left(x-4\\right)$$ and (x-3)(x-5)",
-        "variabilization": {}
+        "text": "Factor the denominator to $$\\left(x+4\\right) \\left(x-4\\right)$$ and $$(x-3)(x-5)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Basic rule",
         "text": "Multiply the rational while remaining in monomial form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational12a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Dividing",
         "text": "Divide by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

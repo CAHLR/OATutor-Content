@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Rules",
         "text": "Multiply the numerator and denominator by the complex conjugate of the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex28a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring Rules",
         "text": "What will our expression look like after multiplying our expression by the complex conjugate of the denominator on the top?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex28a-h2",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "ae8c2acComplex28a-h1"
         ],
         "title": "Factoring Rules",
         "text": "What will our expression look like after multiplying our expression by the complex conjugate of the denominator on the bottom?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex28a-h3",
@@ -50,7 +53,8 @@
         ],
         "title": "Squaring i",
         "text": "If $$i^2=-1$$, what will our top expression be when we simplify i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex28a-h4",
@@ -65,7 +69,8 @@
         ],
         "title": "Like Terms",
         "text": "Combining like terms, what do we get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex28a-h5",
@@ -80,6 +85,7 @@
         ],
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

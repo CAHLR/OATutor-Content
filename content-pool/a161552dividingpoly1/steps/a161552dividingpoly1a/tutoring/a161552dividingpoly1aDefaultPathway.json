@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Division",
         "text": "Divide the leading term in the dividend by the leading term of the divisor. $$\\frac{x^2}{x}=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the result by the divisor. $$x \\left(x+8\\right)=x^2+8x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Subtraction",
         "text": "Subtract the divident from the result. $$x^2+11x+16-x^2+8x=3x+16$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Division",
         "text": "Divide the leading term of the remainder. $$\\frac{3x}{x}=3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the result by the divisor. $$3\\left(x+8\\right)=3x+24$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Subtraction",
         "text": "Subtract the remainder from the new result. $$3x+16-3x+24=-8$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Remainder",
         "text": "Since the degree of the remainder is less than the divisor, our last term is $$\\frac{-8}{x+8}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h8",
@@ -80,7 +87,8 @@
         ],
         "title": "Division",
         "text": "What is our final result after combining all the terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly1a-h9",
@@ -95,6 +103,7 @@
         ],
         "title": "Division",
         "text": "$$x+3-\\frac{8}{x+8}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify what we are looking for.",
         "text": "We are looking for the height and width",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h2",
@@ -14,8 +15,9 @@
             "a28722cappquad15a-h1"
         ],
         "title": "Name what we are looking for.",
-        "text": "Let h $$=$$ the height of the triangle, $$6+2h$$ $$=$$ the width of the triangle",
-        "variabilization": {}
+        "text": "Let $$h$$ $$=$$ the height of the triangle, $$6+2h$$ $$=$$ the width of the triangle",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Translate",
         "text": "We know the area. Write the formula for the area of a triangle $$A=\\frac{1}{2} b h$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Solve the equation. Substitue in the values",
         "text": "$$\\frac{1}{2} \\left(6+2h\\right) h=88$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h5",
@@ -44,8 +48,9 @@
             "a28722cappquad15a-h4"
         ],
         "title": "Distribute",
-        "text": "$$3h+h^2$$ $$=$$ 88",
-        "variabilization": {}
+        "text": "$$3h+h^2$$ $$=$$ $$88$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Rewrite in standard form.",
         "text": "$$h^2+3h-88=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h7",
@@ -64,8 +70,9 @@
             "a28722cappquad15a-h6"
         ],
         "title": "Solve the equation using the Quadratic Formula.",
-        "text": "Idenfity the a, b, c value: $$a=1$$, $$b=3$$, $$c=-88$$.",
-        "variabilization": {}
+        "text": "Idenfity the a, $$b$$, c value: $$a=1$$, $$b=3$$, $$c=-88$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h8",
@@ -75,7 +82,8 @@
         ],
         "title": "Solve the equation using the Quadratic Formula, $$h=\\frac{\\left(-b\\pm \\sqrt{b^2-4a c}\\right)}{2a}$$.",
         "text": "$$h=\\frac{\\left(-3\\pm 19\\right)}{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h9",
@@ -85,7 +93,8 @@
         ],
         "title": "Rewrite to show two solutions.",
         "text": "$$h=-11$$, $$h=8$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h10",
@@ -93,9 +102,10 @@
         "dependencies": [
             "a28722cappquad15a-h9"
         ],
-        "title": "Since h is the height of a triangle, it must be positive",
+        "title": "Since $$h$$ is the height of a triangle, it must be positive",
         "text": "$$h=8$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28722cappquad15a-h11",
@@ -104,7 +114,8 @@
             "a28722cappquad15a-h10"
         ],
         "title": "Solve for width.",
-        "text": "width $$=$$ $$6+2h$$ $$=$$ 22",
-        "variabilization": {}
+        "text": "width $$=$$ $$6+2h$$ $$=$$ $$22$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

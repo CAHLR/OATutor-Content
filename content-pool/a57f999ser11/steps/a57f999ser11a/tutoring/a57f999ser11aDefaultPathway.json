@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify $$a_1$$",
         "text": "The first term is $$a_1=8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser11a-h2",
@@ -18,9 +19,10 @@
         "dependencies": [
             "a57f999ser11a-h1"
         ],
-        "title": "Identify r",
-        "text": "To find r, divide the 2nd term by the 1st term. What is $$r=\\frac{-4}{8}$$?",
-        "variabilization": {}
+        "title": "Identify $$r$$",
+        "text": "To find $$r$$, divide the 2nd term by the 1st term. What is $$r=\\frac{-4}{8}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser11a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "a57f999ser11a-h2"
         ],
-        "title": "Identify n",
+        "title": "Identify $$n$$",
         "text": "We are given that $$n=11$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser11a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a57f999ser11a-h3"
         ],
-        "title": "Formula for the Sum of the first n terms of a Geometric Series",
-        "text": "Substitute values for $$a_1$$, r, and n into the formula: $$S_n=\\frac{a_1 \\left(1-r^n\\right)}{1-r}$$.",
-        "variabilization": {}
+        "title": "Formula for the Sum of the first $$n$$ terms of a Geometric Series",
+        "text": "Substitute values for $$a_1$$, $$r$$, and $$n$$ into the formula: $$S_n=\\frac{a_1 \\left(1-r^n\\right)}{1-r}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser11a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5.336"
+            "$$5.336$$"
         ],
         "dependencies": [
             "a57f999ser11a-h4"
         ],
         "title": "Simplify to find $$S_{11}$$",
         "text": "What is $$S_{11}=\\frac{8\\left(1-{\\left(-\\frac{1}{2}\\right)}^{11}\\right)}{1-\\left(-\\frac{1}{2}\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser11a-h6",
@@ -64,7 +69,8 @@
             "a57f999ser11a-h5"
         ],
         "title": "Partial Sum",
-        "text": "The partial sum is 5.336.",
-        "variabilization": {}
+        "text": "The partial sum is $$5.336$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

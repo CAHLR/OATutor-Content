@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Creating a Perfect Square Trinomial",
         "text": "First identify the coefficient of the term without the square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "121"
+            "$$121$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr5a-h1"
         ],
         "title": "Creating a Perfect Square Trinomial",
-        "text": "Take the coefficient, divide it by 2, then take the answer and square it. This will complete the square. What is the answer?",
-        "variabilization": {}
+        "text": "Take the coefficient, divide it by $$2$$, then take the answer and square it. This will complete the square. What is the answer?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr5a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Creating a Binomial Squared",
         "text": "Rewrite as a binomial squared.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr5a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Creating a Binomial Squared",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

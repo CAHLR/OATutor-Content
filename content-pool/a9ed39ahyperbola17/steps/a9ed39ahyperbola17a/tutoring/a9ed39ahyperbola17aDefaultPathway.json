@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hyperbola Standard Form Equation",
-        "text": "The standard form for a hyperbola not centered at 0 is $$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$$",
-        "variabilization": {}
+        "text": "The standard form for a hyperbola not centered at $$0$$ is $$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola17a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rearrange Coefficients",
         "text": "Change the coefficients into fractions so it can be located in the denoinator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola17a-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Square Denominators",
         "text": "Take the sqare root of the coefficinet and place it within a squared exponent.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

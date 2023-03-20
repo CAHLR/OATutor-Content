@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor the Perfect Square",
         "text": "Does the expression match any of these formats: $${\\left(a x\\right)}^2+2a b x$$ + $$b^2$$ $$=$$ $${\\left(a x+b\\right)}^2$$, $${\\left(a x\\right)}^2-2a b x+b^2$$ $$=$$ $${\\left(a x-b\\right)}^2$$ ? Yes.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factor the Perfect Square",
         "text": "In this case, we can see that $$16n^2+40n+25$$ as $${\\left(a x\\right)}^2+2a b x+b^2={\\left(ax+b\\right)}^2$$ where $$ax=4n$$ and $$b=5$$. We can factor $$16n^2+40n+25$$ as $${\\left(4n+5\\right)}^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rewrite the Equation",
         "text": "We can rewrite $$16n^2+40n+25=4$$ as $${\\left(4n+5\\right)}^2=4$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h4",
@@ -34,8 +37,9 @@
             "a5e282bSolvquad25a-h3"
         ],
         "title": "Solve for Unknown Variable",
-        "text": "$${\\left(4n+5\\right)}^2=4$$. What is n?",
-        "variabilization": {}
+        "text": "$${\\left(4n+5\\right)}^2=4$$. What is $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h5",
@@ -44,8 +48,9 @@
             "a5e282bSolvquad25a-h4"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(4n+5\\right)}^2=4$$, we can take square root both sides and get $$4n+5=-2$$ or $$4n+5=2$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(4n+5\\right)}^2=4$$, we can take square root both sides and get $$4n+5=-2$$ or $$4n+5=2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h6",
@@ -58,9 +63,10 @@
         "dependencies": [
             "a5e282bSolvquad25a-h5"
         ],
-        "title": "Solve for n in $$4n+5=-2$$",
-        "text": "What is n when $$4n+5=-2$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$4n+5=-2$$",
+        "text": "What is $$n$$ when $$4n+5=-2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h7",
@@ -73,9 +79,10 @@
         "dependencies": [
             "a5e282bSolvquad25a-h6"
         ],
-        "title": "Solve for n in $$4n+5=2$$",
-        "text": "What is n when $$4n+5=2$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$4n+5=2$$",
+        "text": "What is $$n$$ when $$4n+5=2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad25a-h8",
@@ -85,6 +92,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$16n^2+40n+25=4$$ has two solutions which are $$n=\\frac{-7}{4}$$ and $$n=\\frac{-3}{4}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

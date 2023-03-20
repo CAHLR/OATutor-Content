@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Same Denominators",
         "text": "Make sure the fractions have the same denominator before adding them.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22addsubrational1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Divide Rational Expressions",
         "text": "Since the denominators are the same, put both of the numerators of the rational expression over a single denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22addsubrational1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Finding Numerators",
         "text": "Think about what the numerators are.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22addsubrational1a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Adding and Subtracting the Numerators",
         "text": "Add the numerators together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22addsubrational1a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Simplify",
         "text": "Can $$\\frac{9}{15}$$ be simplified further?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Standard form",
         "text": "The standard form of a conic with directrix $$x=\\pm p$$ is r=(ep)/(1\u00b1ecos\u03b8). The standard form of a conic with directrix $$y=\\pm p$$ is r=(ep)/(1\u00b1esin\u03b8).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply the numerator and denominator by the reciprocal of the constant in the denominator to rewrite the equation in standard form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Identify",
         "text": "Identify the eccentricity e as the coefficient of the trigonometric function in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics1a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Determine",
         "text": "Because $$e>1$$, the focus is at the origin.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

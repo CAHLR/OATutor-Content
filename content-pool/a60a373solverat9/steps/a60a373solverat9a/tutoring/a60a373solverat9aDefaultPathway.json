@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Lowest Common Denominator",
         "text": "The first step is to find the lowest common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat9a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Lowest Common Denominator",
         "text": "What is the lowest common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat9a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Distribute and multiply",
         "text": "Distribute and multiply the lowest common denominator to all the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat9a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Distribute and multiply",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat9a-h5",
@@ -59,8 +63,9 @@
             "a60a373solverat9a-h4"
         ],
         "title": "Simple Algebra",
-        "text": "Solve for y. Please input the answer as $$variable=answer$$.",
-        "variabilization": {}
+        "text": "Solve for $$y$$. Please input the answer as $$variable=answer$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat9a-h6",
@@ -70,6 +75,7 @@
         ],
         "title": "Double Check",
         "text": "Plug answers for a back into the original equation to make the sure answer is correct and not undefined at any point.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Translating into math expression",
-        "text": "The phrase translates into 13-(-21).",
-        "variabilization": {}
+        "text": "The phrase translates into $$13-(-21)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply11a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "34"
+            "$$34$$"
         ],
         "dependencies": [
             "aafc2dcMultiply11a-h1"
         ],
         "title": "Simplify",
-        "text": "What is 13-(-21)?",
-        "variabilization": {}
+        "text": "What is $$13-(-21)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Meaning of $$ \\leq $$",
         "text": "The sign $$\" \\leq \"$$ means \"less than or equal to.\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

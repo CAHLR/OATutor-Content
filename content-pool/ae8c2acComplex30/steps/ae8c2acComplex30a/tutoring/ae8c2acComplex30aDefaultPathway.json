@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Rules",
         "text": "Recall that $$i^2=-1$$, $$i^3=-i$$, $$i^4=1$$, $$i^5=-1$$, and so on so forth.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex30a-h2",
@@ -19,8 +20,9 @@
             "ae8c2acComplex30a-h1"
         ],
         "title": "Factoring Rules",
-        "text": "Divide 86 by 4 and rewrite $$i^{86}$$ in the $$i^n={\\left(i^4\\right)}^q i^r$$ form.",
-        "variabilization": {}
+        "text": "Divide $$86$$ by $$4$$ and rewrite $$i^{86}$$ in the $$i^n={\\left(i^4\\right)}^q i^r$$ form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex30a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Factoring Rules",
         "text": "What will our expression look like after removing our $$i^4$$ term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex30a-h4",
@@ -43,13 +46,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ae8c2acComplex30a-h3"
         ],
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

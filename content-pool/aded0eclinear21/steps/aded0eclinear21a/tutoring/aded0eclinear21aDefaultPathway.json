@@ -5,14 +5,16 @@
         "dependencies": [],
         "title": "General Procedure to Solve Inequalities",
         "text": "To solve an inequality, we must first gather all constants on one side and all variable terms on the other. Then, we can isolate the variable term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear21a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Isolating the Variable Term",
-        "text": "$$-8v \\leq 96$$. We must divide both sides by -8 to isolate v, which requires changing the sign. $$v \\geq -12$$",
-        "variabilization": {}
+        "text": "$$-8v \\leq 96$$. We must divide both sides by $$-8$$ to isolate v, which requires changing the sign. $$v \\geq -12$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

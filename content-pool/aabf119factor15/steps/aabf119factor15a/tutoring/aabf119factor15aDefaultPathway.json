@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [],
         "title": "Factor the expression",
-        "text": "What is the biggest factor of 6, 2, 3, 1",
-        "variabilization": {}
+        "text": "What is the biggest factor of $$6$$, $$2$$, $$3$$, $$1$$",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor15a-h2",
@@ -18,14 +19,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "y"
+            "$$y$$"
         ],
         "dependencies": [
             "aabf119factor15a-h1"
         ],
         "title": "Factor the expression",
-        "text": "What is the biggest factor of $$y^4$$, $$y^3$$, $$y^2$$, y",
-        "variabilization": {}
+        "text": "What is the biggest factor of $$y^4$$, $$y^3$$, $$y^2$$, $$y$$",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor15a-h3",
@@ -33,13 +35,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "y"
+            "$$y$$"
         ],
         "dependencies": [
             "aabf119factor15a-h2"
         ],
         "title": "The greatest common factor",
         "text": "Multiply the two biggest factors previously mentioned",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     }
 ]

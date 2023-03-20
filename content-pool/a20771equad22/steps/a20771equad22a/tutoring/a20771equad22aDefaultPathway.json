@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring a Quadratic Equation",
-        "text": "To factor a quadratic expression $$x^2+bx+c$$, the first step is to find two numbers, p and q, for which $$p q=c$$ and $$p+q=b$$.",
-        "variabilization": {}
+        "text": "To factor a quadratic expression $$x^2+bx+c$$, the first step is to find two numbers, $$p$$ and q, for which $$p q=c$$ and $$p+q=b$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad22a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "18"
+            "$$18$$"
         ],
         "dependencies": [
             "a20771equad22a-h1"
         ],
         "title": "Product of Factors",
         "text": "What is the product of $$\\left(-3\\right) \\left(-6\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad22a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-9"
+            "$$-9$$"
         ],
         "dependencies": [
             "a20771equad22a-h1"
         ],
         "title": "Sum of Factors",
         "text": "What is the sum of $$\\left(-3\\right)+\\left(-6\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad22a-h4",
@@ -47,7 +50,8 @@
         ],
         "title": "Rewriting the Expression",
         "text": "Then, rewrite the equation as $$\\left(x+p\\right) \\left(x+q\\right)=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad22a-h5",
@@ -56,8 +60,9 @@
             "a20771equad22a-h4"
         ],
         "title": "Answers of a Quadratic Equation",
-        "text": "The answers of a quadratic equation are its roots, the p and q values that make the expression 0.",
-        "variabilization": {}
+        "text": "The answers of a quadratic equation are its roots, the $$p$$ and q values that make the expression $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad22a-h6",
@@ -65,8 +70,9 @@
         "dependencies": [
             "a20771equad22a-h5"
         ],
-        "title": "Significance of p and q",
+        "title": "Significance of $$p$$ and q",
         "text": "When $$x=-p$$ and -q, $$\\left(x+p\\right) \\left(x+q\\right)=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

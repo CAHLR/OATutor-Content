@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Radical Index",
         "text": "What is the index of the radical?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6b9f29radfunc28a-h2",
@@ -14,8 +15,9 @@
             "a6b9f29radfunc28a-h1"
         ],
         "title": "Even radical index",
-        "text": "Since the radical index is 2, it is even, so, the radicand must be greater than or equal to 0.",
-        "variabilization": {}
+        "text": "Since the radical index is $$2$$, it is even, so, the radicand must be greater than or equal to $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6b9f29radfunc28a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Solving the Radicand",
         "text": "Solve $$x+1 \\geq 0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6b9f29radfunc28a-h4",
@@ -34,7 +37,8 @@
             "a6b9f29radfunc28a-h3"
         ],
         "title": "Solve the Inequality",
-        "text": "Subtract 1 from both sides of the inequality which gives x is greater than and equal to -1. We can turn it into interval notation as $$[-1,\\infty)$$.",
-        "variabilization": {}
+        "text": "Subtract $$1$$ from both sides of the inequality which gives $$x$$ is greater than and equal to $$-1$$. We can turn it into interval notation as $$[-1,\\infty)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

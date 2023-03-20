@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Radical Powers",
         "text": "Are the radical powers the same? If they are, we can use the quotient property and simply put them underneath the same radical and divide.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8dd20divradexp2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Quotient Property",
         "text": "The quotient property is: $$\\frac{\\sqrt{x}}{\\sqrt{y}}$$ $$=$$ $$\\sqrt{\\frac{x}{y}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8dd20divradexp2a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Common Factors",
         "text": "After we use the quotient property, we try to remove common factors and simplify.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

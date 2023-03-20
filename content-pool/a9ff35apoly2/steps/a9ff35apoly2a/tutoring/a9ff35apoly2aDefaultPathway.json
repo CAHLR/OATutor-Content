@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Product of factors",
-        "text": "The product equals 0, so at least one factor must be equal to 0.",
-        "variabilization": {}
+        "text": "The product equals $$0$$, so at least one factor must be equal to $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly2a-h2",
@@ -18,9 +19,10 @@
         "dependencies": [
             "a9ff35apoly2a-h1"
         ],
-        "title": "Solving for 0",
+        "title": "Solving for $$0$$",
         "text": "Solve: $$4p+3=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly2a-h3",
@@ -33,8 +35,9 @@
         "dependencies": [
             "a9ff35apoly2a-h2"
         ],
-        "title": "Solving for 0",
+        "title": "Solving for $$0$$",
         "text": "Solve: $$4p-3=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

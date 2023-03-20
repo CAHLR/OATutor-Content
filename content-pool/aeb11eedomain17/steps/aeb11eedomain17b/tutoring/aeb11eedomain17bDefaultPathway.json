@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "47"
+            "$$47$$"
         ],
         "dependencies": [],
         "title": "Starting Point",
         "text": "What value is the lowest on the graph?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain17b-h2",
@@ -18,14 +19,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "90"
+            "$$90$$"
         ],
         "dependencies": [
             "aeb11eedomain17b-h1"
         ],
         "title": "Ending point",
         "text": "What value is the highest on the graph?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain17b-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "Interval Notation",
         "text": "Write this in interval notation, inclusive of the number of endpoints, and we get [47,90].",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

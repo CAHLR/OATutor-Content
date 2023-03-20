@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Augumented Matrix",
         "text": "First, write the system of equations as an augumented matrix.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian9a-h2",
@@ -21,6 +22,7 @@
         "title": "Augumented Matrix",
         "text": "How do you write the system as an augumented matrix?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$\\begin{bmatrix} 1 & -1 & 1 & 10 \\\\ 2 & 3 & -1 & -2 \\\\ 5 & -2 & 9 & 9 \\end{bmatrix}$$",
             "$$\\begin{bmatrix} 1 & -1 & 1 & 8 \\\\ 2 & 3 & -1 & -2 \\\\ 3 & -2 & -9 & 9 \\end{bmatrix}$$",
@@ -34,7 +36,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$\\begin{bmatrix} 1 & -1 & 1 & 8 \\\\ 2 & 3 & -1 & -2 \\\\ 3 & -2 & -9 & 9 \\end{bmatrix}$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -46,7 +49,8 @@
         ],
         "title": "Obtain row-echelon form",
         "text": "Now, perform row operations to obtain row-echelon form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian9a-h4",
@@ -62,6 +66,7 @@
         "title": "Obtain row-echelon form",
         "text": "What is the new matrix in row-echelon form?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$\\begin{bmatrix} 1 & -1 & 1 & 8 \\\\ 0 & 0 & -1 & -5 \\\\ 0 & 0 & 1 & 1 \\end{bmatrix}$$",
             "$$\\begin{bmatrix} 1 & -1 & 1 & 8 \\\\ 0 & 1 & -12 & -15 \\\\ 1 & 1 & 1 & 1 \\end{bmatrix}$$",
@@ -75,7 +80,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$\\begin{bmatrix} 1 & -1 & 1 & 8 \\\\ 0 & 1 & -12 & -15 \\\\ 0 & 0 & 1 & 1 \\end{bmatrix}$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -93,6 +99,7 @@
         "title": "Convert to equations",
         "text": "What is the system of equations after converting it from the matrix?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a2a280bgaussian9a-h5-s1",
@@ -100,7 +107,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$x-y+z=8$$ $$y-12z=-15$$ $$z=1$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -112,7 +120,8 @@
         ],
         "title": "Back substitute",
         "text": "Now, back substitute the variables into the system of equations to obtain the final solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian9a-h7",
@@ -121,7 +130,8 @@
             "a2a280bgaussian9a-h6"
         ],
         "title": "Answer",
-        "text": "Therefore, the final solution is (4,-3,1).",
-        "variabilization": {}
+        "text": "Therefore, the final solution is $$(4, -3, 1)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{6} \\sqrt{6}=\\sqrt{36}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root18a-h2",
@@ -14,7 +15,8 @@
             "a3c2b68root18a-h1"
         ],
         "title": "Simplifying the Product",
-        "text": "$$\\sqrt{36}$$ can be simplified to 6",
-        "variabilization": {}
+        "text": "$$\\sqrt{36}$$ can be simplified to $$6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "We must divide each term in the numerator by $$4d^3$$, so we get $$15d^4+6d^2$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

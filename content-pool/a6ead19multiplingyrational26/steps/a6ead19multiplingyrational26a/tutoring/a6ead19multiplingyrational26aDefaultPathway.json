@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor",
         "text": "Factor the denominator and numerator where possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplingyrational26a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply the numerators and the denominators of each fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplingyrational26a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Common Factors",
         "text": "Find common factors between the numerator and denomiator, and group them.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplingyrational26a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Power Rules",
         "text": "Use the power rules to simplify variables, subtracting when powers are divided, and adding powers when they are multiplied.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplingyrational26a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the fractions, such that there is only one instance of a variable in the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

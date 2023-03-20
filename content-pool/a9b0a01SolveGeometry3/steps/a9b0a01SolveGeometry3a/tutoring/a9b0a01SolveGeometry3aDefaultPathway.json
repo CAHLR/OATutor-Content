@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Draw",
         "text": "Try drawing out the geometric shape",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01SolveGeometry3a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Definition",
         "text": "Perimeter is defined as the length around the shape. In this case that is $$2length+2width$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

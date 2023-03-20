@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "We can use the distributive property to simplify our equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex19a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Distributive Property",
         "text": "What will our expression look like after distributing?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex19a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14i-(-10)"
+            "$$14i-(-10)$$"
         ],
         "dependencies": [
             "ae8c2acComplex19a-h2"
         ],
         "title": "Squaring i",
         "text": "If $$i^2=-1$$, what will $$14i-10i^2$$ be when we simplify i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex19a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

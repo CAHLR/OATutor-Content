@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring the denominator",
         "text": "The first step is to factor the denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Using the definition of partial fraction decomposition",
         "text": "The first step is to separate the denominator factors and give each numerator a symbolic label, like A, B, or C.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Removing denominator",
         "text": "The next step is to multiply both sides of the equation by the common denominator to eliminate the fractions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac9a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Simplifying the equation",
         "text": "The next step is to expand the right side of the equation and combine like terms",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac9a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Setting up the Systems of Equations",
         "text": "Set coefficients of like terms from the left side of the equation equal to those on the right side to create a system of equations to solve for the numerators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

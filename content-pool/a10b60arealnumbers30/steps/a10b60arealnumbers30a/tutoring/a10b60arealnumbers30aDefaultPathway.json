@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 4 is -1296?",
-        "variabilization": {}
+        "text": "What number to the power of $$4$$ is -1296?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers30a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers30a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$${\\left(-6\\right)}^4=-1296$$, so our answer is -6.",
-        "variabilization": {}
+        "text": "$${\\left(-6\\right)}^4=-1296$$, so our answer is $$-6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

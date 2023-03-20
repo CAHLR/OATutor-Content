@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor the expression",
         "text": "Factoring is the process to split a product into a group of factors (a multiplication of simpler expressions).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factor the expression",
         "text": "Not all terms can be factored. Factor the terms that can be split further.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h3",
@@ -24,8 +26,9 @@
             "a61c721rational5a-h2"
         ],
         "title": "Factor the expression",
-        "text": "In this case, we can factor all 4 terms.",
-        "variabilization": {}
+        "text": "In this case, we can factor all $$4$$ terms.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2+11x-\\left(+30\\right)$$ factor into?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2+5x+6$$ factor into?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2+7x+12$$ factor into?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2+8x+16$$ factor into?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "Cancel terms",
         "text": "Now that you have factored all possible terms, if you see the same term in the numerator and the denominator of the product, you can cancel it out.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational5a-h9",
@@ -110,6 +118,7 @@
         ],
         "title": "Cancel terms",
         "text": "In this case, we can cancel $$x+3$$ and $$x+4$$. What is our final answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

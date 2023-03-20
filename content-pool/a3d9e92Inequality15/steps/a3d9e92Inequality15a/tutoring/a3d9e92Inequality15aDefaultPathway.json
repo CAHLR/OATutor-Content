@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Interval Notation Overview",
         "text": "Open parentheses \"(\" and \")\" represent excluded bounds, while closed parentheses \"[\" and \"]\" represent included bounds. If two separate ranges don't overlap, then we can use \"U\" (union) to combine them into the same expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d9e92Inequality15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving Each Inequality for X",
         "text": "We can solve each inequality. $$7x-8<6$$ becomes $$x<2$$, and $$5x+7>-3$$ becomes $$x>-2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d9e92Inequality15a-h3",
@@ -24,7 +26,8 @@
             "a3d9e92Inequality15a-h2"
         ],
         "title": "Creating Our Notation",
-        "text": "Using the general guide given in the previous hints, we can write the solution (-2,2)",
-        "variabilization": {}
+        "text": "Using the general guide given in the previous hints, we can write the solution $$(-2,2)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

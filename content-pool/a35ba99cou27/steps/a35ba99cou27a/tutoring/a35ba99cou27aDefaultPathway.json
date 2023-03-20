@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Amount of Distinct Objects",
         "text": "The set contains a total of $$5+4+3=12$$ distinct objects.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou27a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a35ba99cou27a-h1"
         ],
-        "title": "Identify n",
-        "text": "We are looking for the number of subsets of a set with 12 objects.",
-        "variabilization": {}
+        "title": "Identify $$n$$",
+        "text": "We are looking for the number of subsets of a set with $$12$$ objects.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou27a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Formula for the Number of Subsets of a Set",
         "text": "Substitute $$n=12$$ into the formula: $$2^n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou27a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Substitute and Simplify",
         "text": "$$2^{12}=4096$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

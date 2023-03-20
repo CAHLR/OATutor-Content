@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Dimensions of a Matrix",
-        "text": "Matrices are often referred to by their dimensions: mxn indicating m rows and n columns.",
-        "variabilization": {}
+        "text": "Matrices are often referred to by their dimensions: mxn indicating $$m$$ rows and $$n$$ columns.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a41316cmatrices11a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Number of Rows and Columns in Matrix A",
         "text": "Matrix A has three rows and three columns.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

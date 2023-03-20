@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Split",
         "text": "Split the radical into a fraction, since $$\\sqrt{\\frac{a}{b}}$$ $$=$$ $$\\frac{\\sqrt{a}}{\\sqrt{b}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rationalize",
         "text": "Rationalize the denominator by multiplying the numerator and denominator by the radical in the denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Remove common factors",
         "text": "Remove the common factors of the numerator and denominator by dividing them out.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots12a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\frac{\\sqrt{15}}{6}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Square Root",
         "text": "$${\\left(x^3\\right)}^2=x^6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af1a2a0roots9a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplify",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

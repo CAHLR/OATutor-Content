@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Conjugate",
         "text": "If the number is in the form $$a+bi$$, then the conjugate is a-bi",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex23c-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Flip Sign",
         "text": "So, just flip the sign if as is already in the form $$a+bi$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

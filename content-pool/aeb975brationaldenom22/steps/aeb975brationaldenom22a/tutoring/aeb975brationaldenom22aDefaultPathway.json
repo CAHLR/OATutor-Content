@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Creating a Common Denominator",
-        "text": "We must find the LCD in order to be able to add the fractions. The LCM of (x-3) and (x-2) is (x-3)(x-2)",
-        "variabilization": {}
+        "text": "We must find the LCD in order to be able to add the fractions. The LCM of $$(x-3)$$ and $$(x-2)$$ is $$(x-3)(x-2)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom22a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting Each Fraction",
         "text": "We can rewrite each fraction with a common scaler to get $$\\frac{3\\left(x-2\\right)}{\\left(x-3\\right) \\left(x-2\\right)}+\\frac{2\\left(x-3\\right)}{\\left(x-2\\right) \\left(x-3\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom22a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Adding the Fractions",
         "text": "Adding these two fractions, we get $$\\frac{3\\left(x-2\\right)+2\\left(x-3\\right)}{\\left(x-3\\right) \\left(x-2\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

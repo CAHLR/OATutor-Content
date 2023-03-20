@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Plugging in X and Y",
         "text": "We must plug in $$x=0$$ and $$y=-4$$. Doing this, we get $$-4=0-4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3837e8points13a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Determining Equality",
         "text": "$$-4=0-4$$ can be simplified to $$-4=-4$$, which is a true statement. Thus, the point lies on the line.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

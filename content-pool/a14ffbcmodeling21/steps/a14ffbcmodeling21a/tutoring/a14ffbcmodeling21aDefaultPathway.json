@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
         "title": "Square Root",
-        "text": "What is the square root of x?",
-        "variabilization": {}
+        "text": "What is the square root of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling21a-h2",
@@ -18,13 +19,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a14ffbcmodeling21a-h1"
         ],
         "title": "Multiplying Values",
-        "text": "What value multiplied by x will give you y?",
-        "variabilization": {}
+        "text": "What value multiplied by $$x$$ will give you $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

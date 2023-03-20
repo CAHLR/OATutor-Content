@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplifying Exponent Quotients",
         "text": "If two exponent expressions in a quotient have the same base (ex: (x**a)/(x**b)) then this is the same as $$x^{a-b}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers10a-h2",
@@ -20,14 +21,16 @@
         ],
         "title": "Rewriting the Quotient",
         "text": "What is $$\\frac{m^{13}}{m^7}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers10a-h3",
         "type": "hint",
         "dependencies": [],
         "title": "Simplifying Odd Roots",
-        "text": "When taking the nth root of some integer x $$ \\geq $$ 2, if n is odd, the answer is x",
-        "variabilization": {}
+        "text": "When taking the nth root of some integer $$x$$ $$ \\geq $$ $$2$$, if $$n$$ is odd, the answer is $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

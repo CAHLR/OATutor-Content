@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 4 is 256?",
-        "variabilization": {}
+        "text": "What number to the power of $$4$$ is 256?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers24a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers24a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$$4^4=256$$, so our answer is 4.",
-        "variabilization": {}
+        "text": "$$4^4=256$$, so our answer is $$4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

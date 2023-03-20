@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Check if the trinomial follow the pattern of $$a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14m"
+            "$$14m$$"
         ],
         "dependencies": [
             "ab303f8factoring12a-h1"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$64y^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5n"
+            "$$5n$$"
         ],
         "dependencies": [
             "ab303f8factoring12a-h2"
         ],
         "title": "Square Roots",
         "text": "What is the square root of 9?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$\\left(14m-5n\\right) \\left(14m+5n\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

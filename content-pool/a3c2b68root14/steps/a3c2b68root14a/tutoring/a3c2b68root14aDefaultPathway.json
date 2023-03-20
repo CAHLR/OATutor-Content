@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "Recall the formula of Product of Conjugate: $$\\left(a+b\\right) \\left(a-b\\right)=a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root14a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "As $$a=3$$, $$b=2\\sqrt{5}$$, $$a^2-b^2=-11$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

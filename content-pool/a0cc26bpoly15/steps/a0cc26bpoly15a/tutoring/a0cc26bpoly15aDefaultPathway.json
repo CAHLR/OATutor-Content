@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributing the negative sign",
         "text": "The first step is to distribute the negative sign to remove parentheses. $$6w^2+24w+24-3w^2-6w+3$$ $$=$$ $$6w^2+24w+24-3w^2+6w-3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Grouping like terms",
         "text": "The next step is to group like terms. $$6w^2+24w+24-3w^2+6w-3$$ $$=$$ $$6w^2-3w^2+24w+6w+24-3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly15a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Combining and simplifying",
         "text": "Finally, simplify the expression. $$6w^2-3w^2+24w+6w+24-3$$ $$=$$ $$3w^2+30w+21$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

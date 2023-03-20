@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "We substitute $$x=2$$ and $$y=3$$ into both inequalities.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6a-h2",
@@ -14,8 +15,9 @@
             "acff542gra6a-h1"
         ],
         "title": "Substitute into First Equation",
-        "text": "$$7x+2y>14$$ $$7\\times2+2\\times3>14$$ $$20>14$$",
-        "variabilization": {}
+        "text": "$$7x+2y>14$$\\n$$7\\times2+2\\times3>14$$\\n$$20>14$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6a-h3",
@@ -31,6 +33,7 @@
         "title": "Substitute into First Equation",
         "text": "Is the inequality above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -43,8 +46,9 @@
             "acff542gra6a-h3"
         ],
         "title": "Substitute into Second Equation",
-        "text": "$$5x-y \\leq 8$$ $$5\\times2-3 \\leq 8$$ $$7 \\leq 8$$",
-        "variabilization": {}
+        "text": "$$5x-y \\leq 8$$\\n$$5\\times2-3 \\leq 8$$\\n$$7 \\leq 8$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6a-h5",
@@ -60,6 +64,7 @@
         "title": "Substitute into Second Equation",
         "text": "Is the inequality above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -72,7 +77,8 @@
             "acff542gra6a-h5"
         ],
         "title": "Solutions of a System of Equations",
-        "text": "(2,3) makes both inequalities true. (2,3) is a solution.",
-        "variabilization": {}
+        "text": "$$(2,3)$$ makes both inequalities true. $$(2,3)$$ is a solution.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

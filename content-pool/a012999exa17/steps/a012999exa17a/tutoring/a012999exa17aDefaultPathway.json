@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply",
         "text": "Multiply the outside value with each of the inside parenthesis values",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa17a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6b"
+            "$$6b$$"
         ],
         "dependencies": [
             "a012999exa17a-h1"
         ],
         "title": "Multiply pt2",
-        "text": "What is 6 times b?",
-        "variabilization": {}
+        "text": "What is $$6$$ times $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa17a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "48"
+            "$$48$$"
         ],
         "dependencies": [
             "a012999exa17a-h2"
         ],
         "title": "Multiply pt3",
-        "text": "What is 6 times 8?",
-        "variabilization": {}
+        "text": "What is $$6$$ times 8?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa17a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Combine",
         "text": "Combine the values multiplied",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

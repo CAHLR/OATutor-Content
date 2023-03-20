@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Direction",
         "text": "We can tell whether the parabola goes left or right based on the sign of a in the equation, $$x=a y^2+b y+c$$. If a is negative, then the parabola goes left, if it is positive, it goes right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Direction",
         "text": "Since our a is positive, what does this tell us about our parabola?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Right Direction",
         "text": "Since our a is postitive, we know that our parabola will open up towards the right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Finding the Vertex",
         "text": "To find the vertex, we need to find the axis is symmetry, which is found using the formula, $$y=\\frac{-b}{2} a$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h5",
@@ -44,8 +48,9 @@
             "ad33ee8parabolas25a-h4"
         ],
         "title": "Finding the Axis of Symmetry",
-        "text": "To find the axis of symmetry, we have to find the b and a from our equation.",
-        "variabilization": {}
+        "text": "To find the axis of symmetry, we have to find the $$b$$ and a from our equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h6",
@@ -54,8 +59,9 @@
             "ad33ee8parabolas25a-h5"
         ],
         "title": "Finding the Axis of Symmetry",
-        "text": "Our b and a are 0 and 4 respectively. Our axis of symmetry is $$y=4\\frac{0}{2}$$.",
-        "variabilization": {}
+        "text": "Our $$b$$ and a are $$0$$ and $$4$$ respectively. Our axis of symmetry is $$y=4\\frac{0}{2}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h8",
@@ -64,8 +70,9 @@
             "ad33ee8parabolas25a-h6"
         ],
         "title": "Finding the Vertex",
-        "text": "Now that we have our axis of symmetry, we want to plug it back into the original equation to find the x value of our vertex.",
-        "variabilization": {}
+        "text": "Now that we have our axis of symmetry, we want to plug it back into the original equation to find the $$x$$ value of our vertex.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h8",
@@ -74,8 +81,9 @@
             "ad33ee8parabolas25a-h8"
         ],
         "title": "Finding the Vertex",
-        "text": "Since our y is 0, we plug it into our equation as, $$x=3\\times0^2$$. This gives us $$x=0$$.",
-        "variabilization": {}
+        "text": "Since our $$y$$ is $$0$$, we plug it into our equation as, $$x=3\\times0^2$$. This gives us $$x=0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h9",
@@ -84,8 +92,9 @@
             "ad33ee8parabolas25a-h8"
         ],
         "title": "Vertex",
-        "text": "Since we know that our y is 0 and our x is 0, our vertex is at the coordinates, (0,0).",
-        "variabilization": {}
+        "text": "Since we know that our $$y$$ is $$0$$ and our $$x$$ is $$0$$, our vertex is at the coordinates, $$(0,0)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h10",
@@ -94,8 +103,9 @@
             "ad33ee8parabolas25a-h9"
         ],
         "title": "Intercepts",
-        "text": "Since the vertex is (0,0), the intercepts are also both (0,0), so we need to plot points to graph it.",
-        "variabilization": {}
+        "text": "Since the vertex is $$(0,0)$$, the intercepts are also both $$(0,0)$$, so we need to plot points to graph it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad33ee8parabolas25a-h11",
@@ -105,6 +115,7 @@
         ],
         "title": "Graphing",
         "text": "Note that points are symmetric to each other across the x-axis.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

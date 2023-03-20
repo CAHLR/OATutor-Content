@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Property to use",
         "text": "The Power Property tells us that when we raise a power to a power, we multiply the exponents.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08d293Rational23a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Raise a power to a power",
         "text": "What's the result if we raise a power to a power. Please do not simplify.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08d293Rational23a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a08d293Rational23a-h2"
         ],
         "title": "Simplify the fraction.",
         "text": "What's the result when you simplify the fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08d293Rational23a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Find the result",
         "text": "What's the final result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

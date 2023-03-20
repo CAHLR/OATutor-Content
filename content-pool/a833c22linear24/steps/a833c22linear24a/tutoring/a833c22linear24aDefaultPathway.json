@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewrite",
         "text": "We can rewrite this to C(x) $$=$$ $$1270+37.5x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear24a-h2",
@@ -14,8 +15,9 @@
             "a833c22linear24a-h1"
         ],
         "title": "Plug in Value",
-        "text": "We can plug in 100 for x",
-        "variabilization": {}
+        "text": "We can plug in $$100$$ for $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear24a-h3",
@@ -24,7 +26,8 @@
             "a833c22linear24a-h2"
         ],
         "title": "Solve",
-        "text": "We can solve $$1250+\\operatorname{37.5}\\left(100\\right)$$ $$=$$ 5000",
-        "variabilization": {}
+        "text": "We can solve $$1250+\\operatorname{37.5}\\left(100\\right)$$ $$=$$ $$5000$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

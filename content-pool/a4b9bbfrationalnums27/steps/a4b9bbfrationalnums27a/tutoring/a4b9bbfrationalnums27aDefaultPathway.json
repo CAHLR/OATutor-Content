@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Form",
         "text": "We want to write each expression in the form $$a^n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b9bbfrationalnums27a-h2",
@@ -14,7 +15,8 @@
             "a4b9bbfrationalnums27a-h1"
         ],
         "title": "Denominator of exponent",
-        "text": "The index of the radical is 5, and the exponent inside the root is 3, so the base should be to the power of $$\\frac{3}{5}$$.",
-        "variabilization": {}
+        "text": "The index of the radical is $$5$$, and the exponent inside the root is $$3$$, so the base should be to the power of $$\\frac{3}{5}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

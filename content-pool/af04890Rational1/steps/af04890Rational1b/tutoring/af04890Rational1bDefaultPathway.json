@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The rational will be undefined when the $$denominator=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational1b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "af04890Rational1b-h1"
         ],
-        "title": "Setting equal to 0",
+        "title": "Setting equal to $$0$$",
         "text": "Set the $$denominator=0$$, $$2b+5=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational1b-h3",
@@ -29,7 +31,8 @@
             "af04890Rational1b-h2"
         ],
         "title": "Finding values",
-        "text": "What is b?",
-        "variabilization": {}
+        "text": "What is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [],
         "title": "Getting Rid of Fraction Denominators",
         "text": "What is the LCD (largest common denominator) of $$\\frac{1}{2}$$, $$\\frac{1}{4}$$, and $$\\frac{-2}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec6a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Getting Rid of Fraction Denominators",
         "text": "We must now multiply both sides of the equation by the LCD. We get $$-1\\times12=\\frac{12\\times1}{2} u+\\frac{12\\times1}{4} u-12\\frac{2}{3} u$$. This simplifies to $$6u+3u-8u=-12$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec6a-h3",
@@ -28,13 +30,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-12"
+            "$$-12$$"
         ],
         "dependencies": [
             "a8583b4FracDec6a-h2"
         ],
         "title": "Solving the New Equation",
         "text": "To solve this equation, all we have to do is simplify the left-hand side. We now have $$u=-12$$. What is the value of u?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

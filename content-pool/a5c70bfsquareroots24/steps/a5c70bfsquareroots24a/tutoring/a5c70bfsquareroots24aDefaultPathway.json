@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Operations without Like Radicals",
         "text": "Since the radicals are not like, we cannot subtract them. We leave the expression as is.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

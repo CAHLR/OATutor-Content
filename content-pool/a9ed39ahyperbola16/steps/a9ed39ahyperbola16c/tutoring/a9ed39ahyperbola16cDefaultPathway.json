@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Foci in Standard Form",
         "text": "Foci coordinates can be found through $$c^2=a^2+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola16c-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Identifying \"c\"",
         "text": "What is \"c\"?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

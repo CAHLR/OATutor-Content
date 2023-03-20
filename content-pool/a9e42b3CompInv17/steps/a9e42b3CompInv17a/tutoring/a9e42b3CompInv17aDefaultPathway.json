@@ -3,9 +3,10 @@
         "id": "a9e42b3CompInv17a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reverse functions definition",
+        "title": "inverse functions definition",
         "text": "The functions are inverses of each other if $$g((f(x))=x$$ and $$g(f(x))=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a9e42b3CompInv17a-h1"
         ],
-        "title": "Substitute 4x-3 for f(x)",
-        "text": "Check if g(4x-3) $$=$$ x",
-        "variabilization": {}
+        "title": "Substitute $$4x-3$$ for f(x)",
+        "text": "Check if $$g(4x-3)$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a9e42b3CompInv17a-h2"
         ],
-        "title": "Find g(4x-3) where g(x) $$=$$ $$\\frac{x+3}{4}$$",
+        "title": "Find $$g(4x-3)$$ where g(x) $$=$$ $$\\frac{x+3}{4}$$",
         "text": "$$\\frac{4x-3+3}{4}$$ $$=$$ $$\\frac{4x}{4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h4",
@@ -34,8 +37,9 @@
             "a9e42b3CompInv17a-h3"
         ],
         "title": "Simplify",
-        "text": "$$\\frac{4x}{4}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "$$\\frac{4x}{4}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h5",
@@ -44,8 +48,9 @@
             "a9e42b3CompInv17a-h4"
         ],
         "title": "Substitute $$\\frac{x+3}{4}$$ for g(x)",
-        "text": "Check if $$f{\\left(\\frac{x+3}{4}\\right)}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "Check if $$f{\\left(\\frac{x+3}{4}\\right)}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Find $$f{\\left(\\frac{x+3}{4}\\right)}$$ where $$f(x)=4x-3$$",
         "text": "$$4\\left(\\frac{x+3}{4}\\right)$$ - $$3=$$ $$x+3-3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv17a-h7",
@@ -65,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$x+3-3$$ $$=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

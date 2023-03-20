@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Complex Conjugate",
         "text": "The first step is to find the complex conjugate of the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Complex Conjugate",
         "text": "What is the complex conjugate of the denominator i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Multiplying Complex Conjugate",
         "text": "Multiply the complex conjugate to the denominator and the numerator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h4",
@@ -44,8 +47,9 @@
             "a9cf449complex17a-h3"
         ],
         "title": "Multiplying Complex Numbers",
-        "text": "What is (6)(-i)?",
-        "variabilization": {}
+        "text": "What is $$(6)(-i)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a9cf449complex17a-h3"
         ],
         "title": "Multiplying Complex Numbers",
-        "text": "What is (4i)(-i)? Remember $$i^2=-1$$.",
-        "variabilization": {}
+        "text": "What is $$(4i)(-i)$$? Remember $$i^2=-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a9cf449complex17a-h3"
         ],
         "title": "Multiplying Complex Numbers",
-        "text": "What is (i)(-i)? Remember $$i^2=-1$$.",
-        "variabilization": {}
+        "text": "What is $$(i)(-i)$$? Remember $$i^2=-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex17a-h7",
@@ -86,7 +92,8 @@
             "a9cf449complex17a-h6"
         ],
         "title": "Combine Like Terms",
-        "text": "Add the terms in the numerator, we get 4-6i.",
-        "variabilization": {}
+        "text": "Add the terms in the numerator, we get $$4-6i$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

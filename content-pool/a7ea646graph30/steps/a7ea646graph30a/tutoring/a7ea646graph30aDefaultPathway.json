@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Factoring Expressions",
-        "text": "What is the factorization of $$x^3$$ - $$4x^4$$ + 4x?",
-        "variabilization": {}
+        "text": "What is the factorization of $$x^3$$ - $$4x^4$$ + $$4x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph30a-h2",
@@ -24,8 +25,9 @@
             "a7ea646graph30a-h1"
         ],
         "title": "Finding Zeroes",
-        "text": "What are the values of x that make the expression 0?",
-        "variabilization": {}
+        "text": "What are the values of $$x$$ that make the expression 0?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph30a-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "Definition of Multiplicity",
         "text": "The multiplicity is the power to which each part of the expression is raised",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

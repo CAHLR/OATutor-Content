@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factors",
-        "text": "Take out as many $$i^4$$ ths as you can because $$i^4$$ is just 1",
-        "variabilization": {}
+        "text": "Take out as many $$i^4$$ ths as you can because $$i^4$$ is just $$1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex25a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a9cf449complex25a-h1"
         ],
         "title": "Divide",
-        "text": "How many times does 4 go into 35?",
-        "variabilization": {}
+        "text": "How many times does $$4$$ go into 35?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex25a-h3",
@@ -34,8 +36,9 @@
             "a9cf449complex25a-h2"
         ],
         "title": "Simplify",
-        "text": "What does $$i^{35}$$ simplify to, taking accounr of the number of times 4 goes into 35?",
-        "variabilization": {}
+        "text": "What does $$i^{35}$$ simplify to, taking accounr of the number of times $$4$$ goes into 35?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex25a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "What does the simplified expression equal?",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

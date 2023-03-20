@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 2 into f(x). Do this by replacing every x in the function with 2.",
-        "variabilization": {}
+        "text": "Substitute $$2$$ into f(x). Do this by replacing every $$x$$ in the function with $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4dfunctions1a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the equation into one value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

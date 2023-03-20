@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Parentheses",
         "text": "Start by evaluating everything inside the parentheses.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real19a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a6f9727real19a-h1"
         ],
         "title": "Parentheses",
         "text": "What is $$4^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real19a-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Combining Like Terms",
         "text": "$$2y-16y=-14y$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

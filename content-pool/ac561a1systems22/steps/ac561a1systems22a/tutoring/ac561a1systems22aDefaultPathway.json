@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Solve",
-        "text": "First, solve for y in the second equation.",
-        "variabilization": {}
+        "text": "First, solve for $$y$$ in the second equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h2",
@@ -19,8 +20,9 @@
             "ac561a1systems22a-h1"
         ],
         "title": "Solve",
-        "text": "What does y equal when it is solved in terms of x in the second equation?",
+        "text": "What does $$y$$ equal when it is solved in terms of $$x$$ in the second equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y=-\\left(x^2\\right)$$",
             "$$y=x^2$$",
@@ -36,7 +38,8 @@
         ],
         "title": "Substitute",
         "text": "Next, plug $$y=-\\left(x^2\\right)$$ into the first equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h4",
@@ -45,8 +48,9 @@
             "ac561a1systems22a-h3"
         ],
         "title": "Simplify",
-        "text": "Next, simplify the first equation so that you have one x term. You can add $$x^2$$ to both sides to eliminate it.",
-        "variabilization": {}
+        "text": "Next, simplify the first equation so that you have one $$x$$ term. You can add $$x^2$$ to both sides to eliminate it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h5",
@@ -54,14 +58,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "ac561a1systems22a-h4"
         ],
         "title": "Solve",
-        "text": "Solve for x. What does x equal?",
-        "variabilization": {}
+        "text": "Solve for $$x$$. What does $$x$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h6",
@@ -70,8 +75,9 @@
             "ac561a1systems22a-h5"
         ],
         "title": "Substitute",
-        "text": "Now, substitute $$x=0$$ into either of the original equations to find y.",
-        "variabilization": {}
+        "text": "Now, substitute $$x=0$$ into either of the original equations to find $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h7",
@@ -79,14 +85,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "ac561a1systems22a-h6"
         ],
         "title": "Solve",
-        "text": "What does y equal when $$x=0$$ is plugged in?",
-        "variabilization": {}
+        "text": "What does $$y$$ equal when $$x=0$$ is plugged in?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems22a-h8",
@@ -95,7 +102,8 @@
             "ac561a1systems22a-h7"
         ],
         "title": "Answer",
-        "text": "The final answer is therefore (0,0).",
-        "variabilization": {}
+        "text": "The final answer is therefore $$(0,0)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

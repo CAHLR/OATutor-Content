@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic Term",
-        "text": "We subtract 6 on both sides to get $$r^2$$ by itself which gives $$3r^2=64$$.",
-        "variabilization": {}
+        "text": "We subtract $$6$$ on both sides to get $$r^2$$ by itself which gives $$3r^2=64$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a5e282bSolvquad16a-h1"
         ],
         "title": "Find Leading Coefficient",
         "text": "What's the coefficient of $$u^2$$ now?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $$r^2=\\frac{64}{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h4",
@@ -39,8 +42,9 @@
             "a5e282bSolvquad16a-h3"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $$r^2=\\frac{64}{3}$$, we can take square root both sides and get $$r=\\sqrt{\\frac{64}{3}}$$ or $$r=-\\sqrt{\\frac{64}{3}}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$r^2=\\frac{64}{3}$$, we can take square root both sides and get $$r=\\sqrt{\\frac{64}{3}}$$ or $$r=-\\sqrt{\\frac{64}{3}}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{\\frac{64}{3}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{\\frac{64}{3}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad16a-h7",
@@ -80,6 +86,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$3r^2+6=70$$ has two solutions which are $$r=-8\\sqrt{\\frac{1}{3}}$$, and $$r=8\\sqrt{\\frac{1}{3}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

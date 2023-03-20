@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Translate (-2,2,3) to $$x=-2$$, $$y=2$$, $$z=3$$",
-        "variabilization": {}
+        "text": "Translate $$(-2, 2, 3)$$ to $$x=-2$$, $$y=2$$, $$z=3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute the given value to the first equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5"
+            "$$-5$$"
         ],
         "dependencies": [
             "ac26263ThreeVariables3b-h2"
         ],
         "title": "Substitute",
         "text": "What is $$-2-3\\times2+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the first equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute the given value to the second equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "ac26263ThreeVariables3b-h5"
         ],
         "title": "Substitute",
         "text": "What is $$-3\\left(-2\\right)-2-3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the second equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h8",
@@ -85,7 +92,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute the given value to the third equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h9",
@@ -93,14 +101,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ac26263ThreeVariables3b-h8"
         ],
         "title": "Substitute",
         "text": "What is $$2\\left(-2\\right)-2\\times2+3\\times3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h10",
@@ -110,7 +119,8 @@
         ],
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the third equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables3b-h11",
@@ -121,7 +131,8 @@
             "ac26263ThreeVariables3b-h10"
         ],
         "title": "Conclusion",
-        "text": "(-2,2,3) is not the solution to all three equations.",
-        "variabilization": {}
+        "text": "$$(-2, 2, 3)$$ is not the solution to all three equations.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

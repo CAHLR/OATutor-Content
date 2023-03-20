@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Equations of Rotation",
         "text": "The equations of rotation are $$x=x'cos(\\theta)-y'sin(\\theta)$$ and $$y=\\operatorname{x'sin}\\left(\\theta\\right)+\\operatorname{x'cos}\\left(\\theta\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation16a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "30"
+            "$$30$$"
         ],
         "dependencies": [
             "a5c2168rotation16a-h1"
         ],
         "title": "Interpreting the Problem",
         "text": "What is \ud835\udf03?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation16a-h3",
@@ -29,8 +31,9 @@
             "a5c2168rotation16a-h2"
         ],
         "title": "Plugging in the Angle",
-        "text": "Because $$\\theta=30$$, plug in the value into the equations of rotation for x and y. Simplify so you are left with an algebraic function (with no trignometric functions)",
-        "variabilization": {}
+        "text": "Because $$\\theta=30$$, plug in the value into the equations of rotation for $$x$$ and $$y$$. Simplify so you are left with an algebraic function (with no trignometric functions)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation16a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Substituting Equation of Rotations",
         "text": "Substitute $$x=\\operatorname{x'}\\left(\\frac{\\sqrt{3}}{2}\\right)-\\operatorname{y'}\\left(\\frac{1}{2}\\right)$$ and $$y=\\operatorname{x'}\\left(\\frac{1}{2}\\right)+\\operatorname{y'}\\left(\\frac{\\sqrt{3}}{2}\\right)$$ into $$2x^2+8xy-1=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation16a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Algebraic Simplifications",
         "text": "Using FOIL method, combining like terms, and other simplifications, determine the new representation of the equation. Write the answer so that there are no fractions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

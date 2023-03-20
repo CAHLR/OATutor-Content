@@ -3,9 +3,10 @@
         "id": "afbe5ccpower37a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "The x-intercepts are when y $$=$$ 0.",
+        "title": "The x-intercepts are when $$y$$ $$=$$ $$0$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower37a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "afbe5ccpower37a-h1"
         ],
-        "title": "The x-intercepts are (2,0) and (-2,0)",
+        "title": "The x-intercepts are $$(2,0)$$ and $$(-2,0)$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower37a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "afbe5ccpower37a-h2"
         ],
-        "title": "The y-intercepts are when x $$=$$ 0",
+        "title": "The y-intercepts are when $$x$$ $$=$$ $$0$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower37a-h4",
@@ -33,8 +36,9 @@
         "dependencies": [
             "afbe5ccpower37a-h3"
         ],
-        "title": "The y-intercept is (0,-16)",
+        "title": "The y-intercept is $$(0,-16)$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

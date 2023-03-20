@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "First Step",
         "text": "The first step is to square both sides.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother17a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Result of Squaring Both Sides",
         "text": "What does the equation turn into just after you have squared both sides?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother17a-h3",
@@ -29,8 +31,9 @@
             "a1268beother17a-h2"
         ],
         "title": "Solving a Quadratic Equation",
-        "text": "We see that the resulting equation is quadratic. Set the equation up in qudaratic format, $${ax}^2+bx+c=0$$, and solve for x.",
-        "variabilization": {}
+        "text": "We see that the resulting equation is quadratic. Set the equation up in qudaratic format, $${ax}^2+bx+c=0$$, and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother17a-h4",
@@ -44,8 +47,9 @@
             "a1268beother17a-h3"
         ],
         "title": "Proposed Solutions of the Quadratic Equation",
-        "text": "What are the solutions for x from the quadratic equation?",
+        "text": "What are the solutions for $$x$$ from the quadratic equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x=5, 3$$",
             "$$x=3, 1$$",
@@ -60,8 +64,9 @@
             "a1268beother17a-h4"
         ],
         "title": "Checking for Extraneous Solutions",
-        "text": "Despite the fact that the solutions work in the quadratic equation, they might not work when subsituted for x in the original equation. Next, check each x value to see it it fits the original equation.",
-        "variabilization": {}
+        "text": "Despite the fact that the solutions work in the quadratic equation, they might not work when subsituted for $$x$$ in the original equation. Next, check each $$x$$ value to see it it fits the original equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother17a-h6",
@@ -77,6 +82,7 @@
         "title": "scaffold",
         "text": "When $$x=-5$$, does $$\\sqrt{15-2x}=x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "yes",
             "no"
@@ -96,6 +102,7 @@
         "title": "scaffold",
         "text": "When $$x=3$$, does $$\\sqrt{15-2x}=x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "yes",
             "no"
@@ -109,7 +116,8 @@
             "a1268beother17a-h7"
         ],
         "title": "hint",
-        "text": "If an x value does not work in the original equation, then it is extraneous and not a solution of the original equation.",
-        "variabilization": {}
+        "text": "If an $$x$$ value does not work in the original equation, then it is extraneous and not a solution of the original equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

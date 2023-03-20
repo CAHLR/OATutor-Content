@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition",
         "text": "Remember that $$f+g$$ is the same as $$\\left(f+g\\right) x$$. All we have to do is add the two functions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition20a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Addition",
         "text": "There are no like terms to combine, so the answer is just the sum of the two functions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

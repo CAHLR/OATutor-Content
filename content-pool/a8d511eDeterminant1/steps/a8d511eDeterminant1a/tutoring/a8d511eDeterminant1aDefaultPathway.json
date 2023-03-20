@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Write the matrix in determinant form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Calculation",
         "text": "Subtract the products of the diagonals",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant1a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a8d511eDeterminant1a-h2"
         ],
         "title": "Calculation",
         "text": "What is $$4\\left(-1\\right)-3\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "We substitute $$x=7$$ and $$y=-1$$ into both inequalities.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6b-h2",
@@ -14,8 +15,9 @@
             "acff542gra6b-h1"
         ],
         "title": "Substitute into First Equation",
-        "text": "$$7x+2y>14$$ $$7\\times7+2\\left(-1\\right)>14$$ $$47>14$$",
-        "variabilization": {}
+        "text": "$$7x+2y>14$$\\n$$7\\times7+2\\left(-1\\right)>14$$\\n$$47>14$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6b-h3",
@@ -31,6 +33,7 @@
         "title": "Substitute into First Equation",
         "text": "Is the inequality above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -43,8 +46,9 @@
             "acff542gra6b-h3"
         ],
         "title": "Substitute into Second Equation",
-        "text": "$$5x-y \\leq 8$$ $$5\\times7-\\left(-1\\right) \\leq 8$$ $$36 \\leq 8$$",
-        "variabilization": {}
+        "text": "$$5x-y \\leq 8$$\\n$$5\\times7-\\left(-1\\right) \\leq 8$$\\n$$36 \\leq 8$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra6b-h5",
@@ -60,6 +64,7 @@
         "title": "Substitute into Second Equation",
         "text": "Is the inequality above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -72,7 +77,8 @@
             "acff542gra6b-h5"
         ],
         "title": "Solutions of a System of Equations",
-        "text": "(7,-1) does not make both inequalities true. (7,-1) is not a solution.",
-        "variabilization": {}
+        "text": "$$(7,-1)$$ does not make both inequalities true. $$(7,-1)$$ is not a solution.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

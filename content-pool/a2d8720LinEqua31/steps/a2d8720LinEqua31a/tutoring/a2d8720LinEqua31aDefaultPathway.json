@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the slope",
         "text": "First, we should write the given equation in slope-intercept form to find the slope.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Slope-intercept form",
         "text": "What is the slope-intercept form of equation $$5x-3y+4=0$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h3",
@@ -29,8 +31,9 @@
             "a2d8720LinEqua31a-h2"
         ],
         "title": "Relationship between slopes",
-        "text": "In order to write the equation of a line, we need to calculate its slope. Since the line is perpendicular to $$5x-3y+4=0$$, the product of their slopes is -1.",
-        "variabilization": {}
+        "text": "In order to write the equation of a line, we need to calculate its slope. Since the line is perpendicular to $$5x-3y+4=0$$, the product of their slopes is $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Slope",
         "text": "What is the slope of the target line?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Point-slope formula",
         "text": "Given one point and the slope, the point-slope formula will lead to the equation of a line: $$y-y_1=m\\left(x-x_1\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h6",
@@ -69,8 +74,9 @@
             "a2d8720LinEqua31a-h5"
         ],
         "title": "Substitute",
-        "text": "Given the slope $$\\frac{-3}{5}$$ and the point (-4,1), what equation can we get using the point-slope formula?",
-        "variabilization": {}
+        "text": "Given the slope $$\\frac{-3}{5}$$ and the point $$(-4,1)$$, what equation can we get using the point-slope formula?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua31a-h7",
@@ -85,6 +91,7 @@
         ],
         "title": "Simplification",
         "text": "What is the point-intercept form of equation $$y-1=\\frac{-3}{5\\left(x-\\left(-4\\right)\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

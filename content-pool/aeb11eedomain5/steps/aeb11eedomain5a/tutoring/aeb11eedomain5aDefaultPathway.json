@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Describing the Values",
-        "text": "To describe the values, x, included in the intervals shown, we would say, \u201cx is a real number greater than or equal to 1 and less than or equal to 3, or a real number greater than 5.\u201d",
-        "variabilization": {}
+        "text": "To describe the values, $$x$$, included in the intervals shown, we would say, \u201cx is a real number greater than or equal to $$1$$ and less than or equal to $$3$$, or a real number greater than 5.\u201d",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain5a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Translate to Math Notation",
         "text": "The above statement, translated into inequality notations, is $$1 \\leq x \\leq 3$$ or $$x>5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

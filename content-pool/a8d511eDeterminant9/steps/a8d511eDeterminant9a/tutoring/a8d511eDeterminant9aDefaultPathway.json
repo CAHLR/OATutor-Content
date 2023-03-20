@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Write the determinant using the coefficients of x, y, and z",
-        "variabilization": {}
+        "text": "Write the determinant using the coefficients of $$x$$, $$y$$, and $$z$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Order of Operation",
         "text": "Expand the minor along the first row",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-37"
+            "$$-37$$"
         ],
         "dependencies": [
             "a8d511eDeterminant9a-h3"
         ],
         "title": "Calculation",
         "text": "What is $$3\\left(-7\\right)-\\left(-5\\right) \\left(-12\\right)+4\\times11$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h5",
@@ -49,8 +53,9 @@
             "a8d511eDeterminant9a-h4"
         ],
         "title": "Principle",
-        "text": "Replace the x coefficient with the constant to find Dx",
-        "variabilization": {}
+        "text": "Replace the $$x$$ coefficient with the constant to find Dx",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h6",
@@ -60,7 +65,8 @@
         ],
         "title": "Order of Operation",
         "text": "Expand the minor along the first column",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h7",
@@ -70,7 +76,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h8",
@@ -78,14 +85,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-74"
+            "$$-74$$"
         ],
         "dependencies": [
             "a8d511eDeterminant9a-h7"
         ],
         "title": "Calculation",
         "text": "What is $$5\\left(-7\\right)-0+3\\left(-13\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h9",
@@ -94,8 +102,9 @@
             "a8d511eDeterminant9a-h8"
         ],
         "title": "Principle",
-        "text": "Replace the y coefficient with the constant to find Dy",
-        "variabilization": {}
+        "text": "Replace the $$y$$ coefficient with the constant to find Dy",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h10",
@@ -105,7 +114,8 @@
         ],
         "title": "Order of Operation",
         "text": "Expand the minor along the second column",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h11",
@@ -115,7 +125,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h12",
@@ -123,14 +134,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "111"
+            "$$111$$"
         ],
         "dependencies": [
             "a8d511eDeterminant9a-h11"
         ],
         "title": "Calculation",
         "text": "What is $$-5\\left(-12\\right)+0-3\\left(-17\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h13",
@@ -139,8 +151,9 @@
             "a8d511eDeterminant9a-h12"
         ],
         "title": "Principle",
-        "text": "Replace the z coefficient with the constant to find Dz",
-        "variabilization": {}
+        "text": "Replace the $$z$$ coefficient with the constant to find Dz",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h14",
@@ -150,7 +163,8 @@
         ],
         "title": "Order of Operation",
         "text": "Expand the minor along the third column",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h15",
@@ -160,7 +174,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h16",
@@ -168,14 +183,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "148"
+            "$$148$$"
         ],
         "dependencies": [
             "a8d511eDeterminant9a-h15"
         ],
         "title": "Calculation",
         "text": "What is $$5\\times11-0+3\\times31$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant9a-h17",
@@ -185,6 +201,7 @@
         ],
         "title": "Calculation",
         "text": "Determine the values of the variables with the equation: $$x=\\frac{Dx}{D}$$, $$y=\\frac{Dy}{D}$$, $$z=\\frac{Dz}{D}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

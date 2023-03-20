@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Read the problem.",
         "text": "Make sure all the words and ideas are understood. Draw a diagram to illustrate what is happening.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni22a-h2",
@@ -14,8 +15,9 @@
             "a8e6481uni22a-h1"
         ],
         "title": "Identify and name what we're looking for",
-        "text": "We are asked to find the speed of Helen and Anne. Take the speed of the Anne to be r and $$r+4$$ to be the speed of the Helen.",
-        "variabilization": {}
+        "text": "We are asked to find the speed of Helen and Anne. Take the speed of the Anne to be $$r$$ and $$r+4$$ to be the speed of the Helen.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni22a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Translate into an equation",
         "text": "$$r+4\\times3.2=2.8r$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

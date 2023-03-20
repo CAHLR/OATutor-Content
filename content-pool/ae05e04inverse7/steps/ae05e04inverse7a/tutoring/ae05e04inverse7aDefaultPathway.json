@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute y for f(x)",
-        "variabilization": {}
+        "text": "Substitute $$y$$ for f(x)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse7a-h2",
@@ -14,8 +15,9 @@
             "ae05e04inverse7a-h1"
         ],
         "title": "Swap",
-        "text": "Swap y and x",
-        "variabilization": {}
+        "text": "Swap $$y$$ and $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse7a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply $$y+2$$ to both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse7a-h4",
@@ -41,6 +44,7 @@
         "title": "Result",
         "text": "What is the result?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\left(y+2\\right)=3$$",
             "$$x \\left(y+2\\right)=3x$$",
@@ -55,7 +59,8 @@
         ],
         "title": "Expand",
         "text": "Expand the left hand side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse7a-h6",
@@ -64,8 +69,9 @@
             "ae05e04inverse7a-h5"
         ],
         "title": "Subtract",
-        "text": "Subtract 2x from both sides.",
-        "variabilization": {}
+        "text": "Subtract $$2x$$ from both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse7a-h7",
@@ -81,6 +87,7 @@
         "title": "Result",
         "text": "What is the result?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x=-2x+3$$",
             "$$xy=2x-3$$",
@@ -94,7 +101,8 @@
             "ae05e04inverse7a-h7"
         ],
         "title": "Divide",
-        "text": "Divide x from both sides to get the final answer.",
-        "variabilization": {}
+        "text": "Divide $$x$$ from both sides to get the final answer.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

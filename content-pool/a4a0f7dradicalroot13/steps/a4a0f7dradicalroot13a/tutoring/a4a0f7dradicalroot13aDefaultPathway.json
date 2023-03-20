@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Setup",
         "text": "Simplifying the equation to $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Order of Operation",
         "text": "Solving the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3x-5"
+            "$$3x-5$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot13a-h3"
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{3x-5}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Operation",
         "text": "Square root can be canceled by squaring",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3x-5"
+            "$$3x-5$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot13a-h5"
         ],
         "title": "Operation",
         "text": "What is $$\\sqrt{3x-5}$$ without square root?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h7",
@@ -74,8 +80,9 @@
             "a4a0f7dradicalroot13a-h6"
         ],
         "title": "Principle of Operation",
-        "text": "5 on the right side also has to be squared",
-        "variabilization": {}
+        "text": "$$5$$ on the right side also has to be squared",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h8",
@@ -83,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot13a-h7"
         ],
         "title": "Squaring",
         "text": "What is $$5^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$3x-5=25$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h10",
@@ -109,8 +118,9 @@
             "a4a0f7dradicalroot13a-h9"
         ],
         "title": "Operation",
-        "text": "Add 5 on both side to isolate x term",
-        "variabilization": {}
+        "text": "Add $$5$$ on both side to isolate $$x$$ term",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h11",
@@ -118,7 +128,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3x"
+            "$$3x$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot13a-h10"
@@ -126,6 +136,7 @@
         "title": "Addition",
         "text": "What is $$3x-5+5$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a4a0f7dradicalroot13a-h11-s1",
@@ -133,12 +144,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "30"
+                    "$$30$$"
                 ],
                 "dependencies": [],
                 "title": "Addition",
                 "text": "What is $$25+5$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -150,7 +162,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$3x=30$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h13",
@@ -159,8 +172,9 @@
             "a4a0f7dradicalroot13a-h12"
         ],
         "title": "Dividing",
-        "text": "Diving 3x by 3 to produce a single x",
-        "variabilization": {}
+        "text": "Diving $$3x$$ by $$3$$ to produce a single $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot13a-h14",
@@ -168,13 +182,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot13a-h13"
         ],
         "title": "Dividing",
-        "text": "What is 30 divided by 3?",
-        "variabilization": {}
+        "text": "What is $$30$$ divided by 3?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

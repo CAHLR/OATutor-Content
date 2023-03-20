@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Determine if parabola",
-        "text": "If both the x and the y values or an equation are squared, the equation is not a parabola.",
-        "variabilization": {}
+        "text": "If both the $$x$$ and the $$y$$ values or an equation are squared, the equation is not a parabola.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola12a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a0351f0parabola12a-h1"
         ],
-        "title": "Specify p",
-        "text": "P in this case is 1. Since the form of the parabola is $$y=4{px}^2$$, the equation should specify p.",
-        "variabilization": {}
+        "title": "Specify $$p$$",
+        "text": "P in this case is $$1$$. Since the form of the parabola is $$y=4{px}^2$$, the equation should specify $$p$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola12a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$y=4\\left(1\\right) x^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

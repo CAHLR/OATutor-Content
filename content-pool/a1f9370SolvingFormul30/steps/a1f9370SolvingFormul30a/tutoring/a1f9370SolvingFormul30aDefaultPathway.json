@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "Subtract 8x from both sides to isolate y.",
-        "variabilization": {}
+        "text": "Subtract $$8x$$ from both sides to isolate $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

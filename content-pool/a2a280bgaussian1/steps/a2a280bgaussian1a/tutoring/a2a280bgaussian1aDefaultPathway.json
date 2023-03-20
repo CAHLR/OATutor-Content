@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition",
         "text": "The augmented matrix displays the coefficients of the variables, and an additional column for the constants.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Write",
         "text": "The first row has the values 1,2,-1,3.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian1a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\begin{bmatrix} 1 & 2 & -1 & 3 \\\\ 2 & -1 & 2 & 6 \\\\ 1 & -3 & 3 & 4 \\end{bmatrix}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

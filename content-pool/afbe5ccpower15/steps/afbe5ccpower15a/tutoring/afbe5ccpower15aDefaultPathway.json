@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Visualize the expansion",
         "text": "Think about what would result if you expand it?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower15a-h2",
@@ -21,6 +22,7 @@
         "title": "Verifying Power Function Form",
         "text": "Is the function in the form $${kx}^p$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -40,6 +42,7 @@
         "title": "Drawing Conclusions",
         "text": "Does this mean it is a power function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -59,6 +62,7 @@
         "title": "Verifying Polynomial Form",
         "text": "Is the function in the form $${ax}^p$$ + $${bx}^p-1$$ + c?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

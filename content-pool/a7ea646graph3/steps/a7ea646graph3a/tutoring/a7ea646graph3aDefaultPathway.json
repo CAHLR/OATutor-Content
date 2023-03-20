@@ -3,9 +3,10 @@
         "id": "a7ea646graph3a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Solving for the y-intercept(s)",
-        "text": "Find the y intercept(s) by finding g(0).",
-        "variabilization": {}
+        "title": "Solving for the $$y-intercept(s)$$",
+        "text": "Find the $$y$$ intercept(s) by finding g(0).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph3a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a7ea646graph3a-h1"
         ],
         "title": "Solving for the y-intercept",
         "text": "$$g(0)=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph3a-h3",
@@ -28,18 +30,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "2, $$\\frac{-3}{2}$$"
+            "$$2$$, $$\\frac{-3}{2}$$"
         ],
         "dependencies": [
             "a7ea646graph3a-h2"
         ],
-        "title": "Solving for the x-intercept(s)",
-        "text": "The x-intercept(s) can be found by setting $$g(x)=0$$. $$x=$$?",
+        "title": "Solving for the $$x-intercept(s)$$",
+        "text": "The $$x-intercept(s)$$ can be found by setting $$g(x)=0$$. $$x=$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2-\\frac{3}{2}$$",
             "2,3",
-            "$$\\frac{-2}{3}$$, 3"
+            "$$\\frac{-2}{3}$$, $$3$$"
         ]
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply",
         "text": "Multiply the outside value with each of the inside parenthesis values",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa23a-h2",
@@ -19,8 +20,9 @@
             "a012999exa23a-h1"
         ],
         "title": "Multiply pt2",
-        "text": "What is -8 times j?",
-        "variabilization": {}
+        "text": "What is $$-8$$ times j?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa23a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "40"
+            "$$40$$"
         ],
         "dependencies": [
             "a012999exa23a-h2"
         ],
         "title": "Multiply pt3",
-        "text": "What is -8 times -5?",
-        "variabilization": {}
+        "text": "What is $$-8$$ times -5?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa23a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Combine",
         "text": "Combine the values multiplied",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

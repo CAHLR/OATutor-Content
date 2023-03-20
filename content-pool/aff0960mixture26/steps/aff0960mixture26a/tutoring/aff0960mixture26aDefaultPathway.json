@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Variables",
-        "text": "Represent the speeds using variables, Christopher's speed as $$x+10$$, the speed of his parents as x",
-        "variabilization": {}
+        "text": "Represent the speeds using variables, Christopher's speed as $$x+10$$, the speed of his parents as $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture26a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the speed(in variable form) by its respective value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture26a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their monetary values into a single equation. This will be $$\\operatorname{1.5}\\left(x+10\\right)+1\\left(x\\right)=115$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture26a-h4",
@@ -34,8 +37,9 @@
             "aff0960mixture26a-h3"
         ],
         "title": "Calculation",
-        "text": "Solve the equation for x.",
-        "variabilization": {}
+        "text": "Solve the equation for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture26a-h5",
@@ -44,8 +48,9 @@
             "aff0960mixture26a-h4"
         ],
         "title": "Substitution",
-        "text": "Plug x into the original relationship find $$x+10$$.",
-        "variabilization": {}
+        "text": "Plug $$x$$ into the original relationship find $$x+10$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture26a-h6",
@@ -54,7 +59,8 @@
             "aff0960mixture26a-h5"
         ],
         "title": "Calculation",
-        "text": "The answer is 50 mph for Christopher and 40 mph for his parents.",
-        "variabilization": {}
+        "text": "The answer is $$50$$ mph for Christopher and $$40$$ mph for his parents.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

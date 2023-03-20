@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9x"
+            "$$9x$$"
         ],
         "dependencies": [],
         "title": "Square Root",
         "text": "What is the square root $$81x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses12a-s2",
@@ -18,12 +19,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [],
         "title": "Square Root",
         "text": "What is the square root of 100?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses12a-h2",
@@ -31,7 +33,8 @@
         "dependencies": [],
         "title": "Difference of Squares",
         "text": "Remember: The Difference of Squares formula is $$\\left(a-b\\right) \\left(a+b\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses12a-h3",
@@ -40,7 +43,8 @@
             "a8ffef9inverses12a-h2"
         ],
         "title": "Variable Values",
-        "text": "The value of a is 9x and the value of b is 10",
-        "variabilization": {}
+        "text": "The value of a is $$9x$$ and the value of $$b$$ is $$10$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

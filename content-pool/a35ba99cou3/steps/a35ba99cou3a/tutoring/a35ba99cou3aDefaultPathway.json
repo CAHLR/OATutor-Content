@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Product of the Number of Options",
         "text": "To find the total number of outfits, find the product of the number of skirt options, the number of blouse options, and the number of sweater options.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Product of the Number of Options",
         "text": "\\n##figure1.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou3a-h3",
@@ -24,7 +26,8 @@
             "a35ba99cou3a-h2"
         ],
         "title": "Total Outfits",
-        "text": "There are 16 possible outfits.",
-        "variabilization": {}
+        "text": "There are $$16$$ possible outfits.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

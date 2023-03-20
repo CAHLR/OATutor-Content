@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Rules",
         "text": "Remember the acronym, FOIL, which says to multiply the First, Outer, Inner, and Last terms to multiply the two expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex1a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "First Terms",
         "text": "What will we get when we multiply our first terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex1a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5x-6x"
+            "$$5x-6x$$"
         ],
         "dependencies": [
             "ae8c2acComplex1a-h2"
         ],
         "title": "$$\\frac{Inner}{Outer}$$ Terms",
         "text": "What will we get when we multiply our inner and outer terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex1a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-15"
+            "$$-15$$"
         ],
         "dependencies": [
             "ae8c2acComplex1a-h3"
         ],
         "title": "Last Terms",
         "text": "What will we get when we multiply our last terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex1a-h5",
@@ -65,6 +69,7 @@
         ],
         "title": "Solution",
         "text": "Combining our terms, what will our final expanded answer be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

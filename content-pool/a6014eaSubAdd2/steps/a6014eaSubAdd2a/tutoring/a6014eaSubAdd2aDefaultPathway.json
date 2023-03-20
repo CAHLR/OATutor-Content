@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute the number in for the variable in the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitution",
         "text": "After substituting $$y=\\frac{4}{3}$$ into the equation, we get $$9\\frac{4}{3}+2=6\\frac{4}{3}+3$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the expressions on both sides of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the left side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the right side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Comparison",
         "text": "Determine whether the resulting equation is true.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd2a-h7",
@@ -81,6 +87,7 @@
         "title": "Comparison",
         "text": "Determine whether $$12+2$$ equals $$8+3$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

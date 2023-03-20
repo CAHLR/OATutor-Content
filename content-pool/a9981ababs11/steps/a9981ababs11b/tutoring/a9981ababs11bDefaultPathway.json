@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 0 for x.",
-        "variabilization": {}
+        "text": "Substitute $$0$$ for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs11b-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a9981ababs11b-h1"
         ],
         "title": "Solve the Equation",
-        "text": "What do we get for y after solving $$y=|0|-2$$?",
-        "variabilization": {}
+        "text": "What do we get for $$y$$ after solving $$y=|0|-2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Is this a real number?",
         "text": "Is the inside of the square root a positive or negative number?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9802fsimproots5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Finding Factors",
         "text": "What are some factors that can be multiplied to get to 100?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9802fsimproots5a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Squaring",
         "text": "A number multiplied by itself is squared.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

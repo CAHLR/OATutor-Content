@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplicative inverse",
         "text": "For any real number a, $$\\frac{1}{a}$$ is the multiplicative inverse of a. $$a \\frac{1}{a}=1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties8b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "ac3d94dProperties8b-h1"
         ],
-        "title": "Reciprocal of -1.1",
-        "text": "To find $$\\frac{1}{\\left(-1.1\\right)}$$, it is easier to write -1.1 in fractional form first, and then reverse the fraction. -1.1 written as a fracion is $$\\frac{-11}{10}$$.",
-        "variabilization": {}
+        "title": "Reciprocal of $$-1.1$$",
+        "text": "To find $$\\frac{1}{\\left(-1.1\\right)}$$, it is easier to write $$-1.1$$ in fractional form first, and then reverse the fraction. $$-1.1$$ written as a fracion is $$\\frac{-11}{10}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties8b-h3",
@@ -28,8 +30,9 @@
         "dependencies": [
             "ac3d94dProperties8b-h2"
         ],
-        "title": "Reciprocal of -1.1",
+        "title": "Reciprocal of $$-1.1$$",
         "text": "What is $$\\frac{1}{\\left(-\\frac{11}{10}\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

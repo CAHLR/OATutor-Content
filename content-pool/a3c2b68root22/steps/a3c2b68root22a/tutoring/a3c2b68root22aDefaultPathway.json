@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{6} \\sqrt{12}=\\sqrt{72}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root22a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$\\sqrt{72}=\\sqrt{36\\times2}=6\\sqrt{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

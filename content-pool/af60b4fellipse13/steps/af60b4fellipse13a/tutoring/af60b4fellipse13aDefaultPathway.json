@@ -10,6 +10,7 @@
         "dependencies": [],
         "title": "Use algebra to rewrite the equation in standard form.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

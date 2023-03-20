@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rewrite.",
         "text": "$$\\log_{a}\\left(x\\right)=b$$ is equivalent to $$a^b=x$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

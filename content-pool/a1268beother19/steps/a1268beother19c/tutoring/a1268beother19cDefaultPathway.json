@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolating the Absolute Value",
-        "text": "First, isolate the absolute value by adding 4 to both sides of the equation.",
-        "variabilization": {}
+        "text": "First, isolate the absolute value by adding $$4$$ to both sides of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Writing Two Equations",
         "text": "Then, rewrite the absolute value equation into two equations, $$3x-5=10$$ and $$3x-5=-10$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19c-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a1268beother19c-h2"
         ],
         "title": "Solving Equation One",
         "text": "$$3x-5=10$$, $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19c-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Solving Equation Two",
         "text": "$$3x-5=-10$$, $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19c-h5",
@@ -56,6 +60,7 @@
         ],
         "title": "Final Answer",
         "text": "The answers to the first and second equations are the answer to the original absolute value equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Trinomials",
         "text": "Factor the trinomial in the numerator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the two binomial factors of numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the two binomial factors of denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(2x-1)"
+            "$$(2x-1)$$"
         ],
         "dependencies": [
             "a61c721rational11a-h3"
         ],
         "title": "Common Factor",
         "text": "What is the common factor?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Common Factor",
         "text": "Cancel the common factor from the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "What is remaining in the numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h7",
@@ -90,7 +96,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "What is remaining in the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational11a-h8",
@@ -105,6 +112,7 @@
         ],
         "title": "Simplifying Expressions",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

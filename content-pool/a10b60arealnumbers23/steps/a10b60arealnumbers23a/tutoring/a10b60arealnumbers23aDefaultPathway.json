@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 3 is -512?",
-        "variabilization": {}
+        "text": "What number to the power of $$3$$ is -512?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers23a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers23a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$${\\left(-8\\right)}^3=-512$$, so our answer is -8.",
-        "variabilization": {}
+        "text": "$${\\left(-8\\right)}^3=-512$$, so our answer is $$-8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

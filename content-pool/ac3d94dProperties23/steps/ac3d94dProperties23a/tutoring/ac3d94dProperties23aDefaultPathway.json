@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Commutative Property of Multiplication",
         "text": "Notice that the first and third terms are reciprocals, so use the commutative property of multiplication to re-order the factors. We get $$\\frac{7}{15} \\frac{15}{7} \\frac{8}{23}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties23a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Multiply",
         "text": "What do we get after multiplying from left to right?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

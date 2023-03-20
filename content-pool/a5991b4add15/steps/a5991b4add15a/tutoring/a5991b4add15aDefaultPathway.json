@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Combine like terms",
         "text": "If the monomials are like terms, combine them by adding or subtracting the coefficient.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5991b4add15a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Like terms",
         "text": "There are no like terms in this expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

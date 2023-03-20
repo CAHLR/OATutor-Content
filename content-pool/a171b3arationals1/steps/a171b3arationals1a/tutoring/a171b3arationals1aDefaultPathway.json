@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Dissecting the Denominator",
         "text": "For a fraction, the expression would be undefined if the denominator was zero. Therefore, set the denominator equal to zero then solve for the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a171b3arationals1a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Solving for the Variable",
         "text": "What value(s) would make the equation $$2b+5=0$$ true?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

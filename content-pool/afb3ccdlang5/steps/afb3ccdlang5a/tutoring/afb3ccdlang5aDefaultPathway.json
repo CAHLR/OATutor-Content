@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Parentheses",
         "text": "Since there are parentheses, we do the calculations inside the parentheses first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "afb3ccdlang5a-h1"
         ],
         "title": "Parentheses",
-        "text": "What is 4-2?",
-        "variabilization": {}
+        "text": "What is $$4-2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Parentheses",
         "text": "Since there are still parentheses, we do the calculations inside the parentheses. There are multiplication and subtraction inside the parentheses, we do the multiplication first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "afb3ccdlang5a-h3"
         ],
         "title": "Parentheses",
         "text": "What is $$3\\times2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "afb3ccdlang5a-h4"
         ],
         "title": "Parentheses",
-        "text": "What is 6-6?",
-        "variabilization": {}
+        "text": "What is $$6-6$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Exponents",
         "text": "Outsdie the parentheses, there are exponents, we do the calculation for it.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h7",
@@ -78,14 +84,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "afb3ccdlang5a-h6"
         ],
         "title": "Exponents",
         "text": "What is $$2^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "$$\\frac{Addition}{Subtraction}$$",
         "text": "The last step is to do the addition and subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang5a-h9",
@@ -103,13 +111,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [
             "afb3ccdlang5a-h8"
         ],
         "title": "$$\\frac{Addition}{Subtraction}$$",
-        "text": "What is 5 + 8 + 0?",
-        "variabilization": {}
+        "text": "What is $$5$$ + $$8$$ + 0?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

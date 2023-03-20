@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{3} \\sqrt{18}=\\sqrt{54}$$. $$-2\\times3=-6$$. $$-6\\sqrt{54}$$ is the product.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root26a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$-6\\sqrt{54}=-6\\sqrt{9\\times6}=-18\\sqrt{6}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

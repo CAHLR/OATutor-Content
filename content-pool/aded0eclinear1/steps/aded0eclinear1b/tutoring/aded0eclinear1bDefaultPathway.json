@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing the Right Endpoint",
         "text": "Since the inequality includes a less than symbol, <, we will need to use a parantheses to denote the right endpoint.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear1b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Writing the Left Endpoint",
         "text": "There is no lower end to the solution to this inequality so we express it using the $$\\infty$$ symbol.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear1b-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(-inf, 2.5)"
+            "(-inf, $$2.5)$$"
         ],
         "dependencies": [
             "aded0eclinear1b-h2"
@@ -31,11 +33,12 @@
         "title": "Displaying Final Interval Notation",
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(2.5, inf)",
-            "[-inf, 2.5)",
-            "(-inf, 2.5)",
-            "(-inf, 2.5]"
+            "$$(2.5$$, inf)",
+            "[-inf, $$2.5)$$",
+            "(-inf, $$2.5)$$",
+            "(-inf, $$2.5]$$"
         ]
     }
 ]

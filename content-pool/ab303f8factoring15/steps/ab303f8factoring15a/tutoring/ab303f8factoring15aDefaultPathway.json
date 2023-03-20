@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Consider the binomial as $$a^3+b^3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Formulas",
         "text": "Recall: $$a^3+b^3=\\left(a+b\\right) \\left(a^2-ab+b^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring15a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ab303f8factoring15a-h2"
         ],
         "title": "Find a",
         "text": "What is a?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring15a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ab303f8factoring15a-h3"
         ],
-        "title": "Find b",
-        "text": "What is b?",
-        "variabilization": {}
+        "title": "Find $$b$$",
+        "text": "What is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring15a-h5",
@@ -54,7 +58,8 @@
             "ab303f8factoring15a-h4"
         ],
         "title": "Substitute",
-        "text": "Substitute the value of a and b into the formula",
-        "variabilization": {}
+        "text": "Substitute the value of a and $$b$$ into the formula",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

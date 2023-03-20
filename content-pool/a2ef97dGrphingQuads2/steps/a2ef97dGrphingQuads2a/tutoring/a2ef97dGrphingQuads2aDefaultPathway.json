@@ -3,9 +3,10 @@
         "id": "a2ef97dGrphingQuads2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Finding the y Intercept",
-        "text": "To find the y intercept plug 0 in for x.",
-        "variabilization": {}
+        "title": "Finding the $$y$$ Intercept",
+        "text": "To find the $$y$$ intercept plug $$0$$ in for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads2a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a2ef97dGrphingQuads2a-h1"
         ],
-        "title": "Finding the y Intercept",
+        "title": "Finding the $$y$$ Intercept",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads2a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "a2ef97dGrphingQuads2a-h2"
         ],
-        "title": "Finding the x Intercept",
-        "text": "You find the x intercept by plugging 0 in for y and solving the quadratic equation.",
-        "variabilization": {}
+        "title": "Finding the $$x$$ Intercept",
+        "text": "You find the $$x$$ intercept by plugging $$0$$ in for $$y$$ and solving the quadratic equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads2a-h4",
@@ -43,8 +46,9 @@
         "dependencies": [
             "a2ef97dGrphingQuads2a-h3"
         ],
-        "title": "Finding the x Intercept",
+        "title": "Finding the $$x$$ Intercept",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

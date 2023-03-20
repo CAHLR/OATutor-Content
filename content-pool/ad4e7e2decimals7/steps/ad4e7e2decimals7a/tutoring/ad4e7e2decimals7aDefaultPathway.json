@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Decimal Point",
         "text": "Put a decimal point where it says \"and\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals7a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14"
+            "$$14$$"
         ],
         "dependencies": [
             "ad4e7e2decimals7a-h1"
         ],
         "title": "Before Decimal",
         "text": "What is the number before the decimal point?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals7a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Decimal Place",
         "text": "find the decimal place in the word",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals7a-h4",
@@ -46,11 +49,12 @@
         "title": "Decimal Place Value",
         "text": "What is the decimal place in the word?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "tenth",
             "hundredths",
             "thousandths",
-            "ten-thousandths"
+            "$$ten-thousandths$$"
         ]
     },
     {
@@ -61,7 +65,8 @@
         ],
         "title": "After Decimal",
         "text": "translate the words after the \"and\" into the number to the right of the decimal point, putting the last digit in the thousandths place",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals7a-h6",
@@ -71,6 +76,7 @@
         ],
         "title": "Adding Placeholder 0s",
         "text": "Fill in zeros for empty place holders as needed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use a Variable",
-        "text": "Let the number be x. Set up an equation and solve for x.",
-        "variabilization": {}
+        "text": "Let the number be $$x$$. Set up an equation and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve18a-h2",
@@ -14,8 +15,9 @@
             "a01e792probsolve18a-h1"
         ],
         "title": "Setting up an Equation",
-        "text": "The sum of twice a number and 7 can be represented as $$2x+7$$.",
-        "variabilization": {}
+        "text": "The sum of twice a number and $$7$$ can be represented as $$2x+7$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve18a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "The Equation",
         "text": "The equation can be set up as $$2x+7=15$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve18a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is that $$x=4$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

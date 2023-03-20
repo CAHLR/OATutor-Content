@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Elimination",
-        "text": "To solve the system of equations using elimination, we need to first manipulate our equations so that we are able to cancel out one of the terms. Then we will add the two equations together term by term and use our output to find the value of x or y. We can then use our value to find the other missing one.",
-        "variabilization": {}
+        "text": "To solve the system of equations using elimination, we need to first manipulate our equations so that we are able to cancel out one of the terms. Then we will add the two equations together term by term and use our output to find the value of $$x$$ or $$y$$. We can then use our value to find the other missing one.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Opposite Terms",
         "text": "What is one term that we can cancel out?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Manipulating Equations",
         "text": "How can we change one of our equations to cancel out our term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Term by Term Addition",
         "text": "What will our equation look like once we add our equations together term by term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h5",
@@ -59,8 +63,9 @@
             "a9790f0System16a-h4"
         ],
         "title": "Solving Terms",
-        "text": "What will our value(s) of y be? $$y=0, -1$$",
-        "variabilization": {}
+        "text": "What will our value(s) of $$y$$ be? $$y=0, -1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h6",
@@ -69,8 +74,9 @@
             "a9790f0System16a-h5"
         ],
         "title": "Solving Terms",
-        "text": "What will our value(s) of x be when we plug in y values into an equation? $$x=\\pm 2\\pm \\sqrt{3}$$",
-        "variabilization": {}
+        "text": "What will our value(s) of $$x$$ be when we plug in $$y$$ values into an equation? $$x=\\pm 2\\pm \\sqrt{3}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System16a-h7",
@@ -84,7 +90,8 @@
             "a9790f0System16a-h6"
         ],
         "title": "Solution",
-        "text": "What are our x and y values equal to? Please enter your answer as (a,b). If there is more than one answer, please enter them as (a,b), (c,d) where $$a<c$$.",
-        "variabilization": {}
+        "text": "What are our $$x$$ and $$y$$ values equal to? Please enter your answer as (a,b). If there is more than one answer, please enter them as (a,b), (c,d) where $$a<c$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

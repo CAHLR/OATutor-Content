@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Create Variables",
-        "text": "Let s represent the senior employee's earnings and n represent the new employee's earning.",
-        "variabilization": {}
+        "text": "Let s represent the senior employee's earnings and $$n$$ represent the new employee's earning.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translate Into System",
         "text": "Together they earn $43 per hour, translating into $$s+n=43$$. The senior employee earns $5 less than twice the new employee per hour translating into $$s=2n-5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications21a-h3",
@@ -24,8 +26,9 @@
             "a9ad3f8applications21a-h2"
         ],
         "title": "Solve the System",
-        "text": "Using substitution we can substitute $$s=2n-5$$ into $$s+n=43$$ to solve for n, the new employee's earnings. $$s+n=43$$ $$2n-5+n=43$$ $$3n-5=43$$ $$3n=48$$",
-        "variabilization": {}
+        "text": "Using substitution we can substitute $$s=2n-5$$ into $$s+n=43$$ to solve for $$n$$, the new employee's earnings.\\n$$s+n=43$$\\n$$2n-5+n=43$$\\n$$3n-5=43$$\\n$$3n=48$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications21a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a9ad3f8applications21a-h3"
         ],
         "title": "Finding the New Employee's Earnings",
         "text": "How does the new employee earn per hour?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications21a-h5",
@@ -49,8 +53,9 @@
             "a9ad3f8applications21a-h4"
         ],
         "title": "Finding the Senior Employee's Earnings",
-        "text": "Given $$n=16$$, plug in the known value to solve for s. $$s=2n-5$$ $$s=2\\times16-5$$",
-        "variabilization": {}
+        "text": "Given $$n=16$$, plug in the known value to solve for s.\\n$$s=2n-5$$\\n$$s=2\\times16-5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications21a-h6",
@@ -58,13 +63,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "27"
+            "$$27$$"
         ],
         "dependencies": [
             "a9ad3f8applications21a-h5"
         ],
         "title": "Finding the Senior Employee's Earnings",
         "text": "How does the senior employee earn per hour?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

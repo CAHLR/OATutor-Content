@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply",
         "text": "Multiply the outside value with each of the inside parenthesis values",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa10a-h2",
@@ -19,8 +20,9 @@
             "a012999exa10a-h1"
         ],
         "title": "Multiply pt2",
-        "text": "What is -2y times $$4y^2$$?",
-        "variabilization": {}
+        "text": "What is $$-2y$$ times $$4y^2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa10a-h3",
@@ -34,8 +36,9 @@
             "a012999exa10a-h2"
         ],
         "title": "Multiply pt3",
-        "text": "What is -2y times 3y?",
-        "variabilization": {}
+        "text": "What is $$-2y$$ times $$3y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa10a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10y"
+            "$$10y$$"
         ],
         "dependencies": [
             "a012999exa10a-h3"
         ],
         "title": "Multiply pt4",
-        "text": "What is -2y times -5?",
-        "variabilization": {}
+        "text": "What is $$-2y$$ times -5?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa10a-h5",
@@ -60,6 +64,7 @@
         ],
         "title": "Combine",
         "text": "Combine the values multiplied",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Focusing on the Digits",
-        "text": "Let's start by ignoring the place values larger than the one with 2. Focus on 27.",
-        "variabilization": {}
+        "text": "Let's start by ignoring the place values larger than the one with $$2$$. Focus on $$27$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole26c-h2",
@@ -14,8 +15,9 @@
             "a53b893whole26c-h1"
         ],
         "title": "Rewriting the Number",
-        "text": "27 can be rewritten as $$20+7$$.",
-        "variabilization": {}
+        "text": "$$27$$ can be rewritten as $$20+7$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole26c-h3",
@@ -24,8 +26,9 @@
             "a53b893whole26c-h2"
         ],
         "title": "Rewriting the Number",
-        "text": "This is the same thing as 2 $$tens+7$$ ones.",
-        "variabilization": {}
+        "text": "This is the same thing as $$2$$ $$tens+7$$ ones.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole26c-h4",
@@ -34,7 +37,8 @@
             "a53b893whole26c-h3"
         ],
         "title": "Thinking",
-        "text": "2 is in the tens place.",
-        "variabilization": {}
+        "text": "$$2$$ is in the tens place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

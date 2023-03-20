@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [],
         "title": "Getting Rid of Fraction Denominators",
         "text": "What is the LCD (largest common denominator) of $$\\frac{1}{2}$$ and $$\\frac{1}{4}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec13a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Getting Rid of Fraction Denominators",
         "text": "Now, we must multiply by the LCD on both sides of the equation. We now have $$\\frac{4\\times1}{2\\left(y-5\\right)}=\\frac{4\\times1}{4\\left(y-1\\right)}$$. This simplifies to $$2(y-5)=(y-1)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec13a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Distributive Property",
         "text": "We can now use the distributive property to simplify the left-hand side of the equation. We now have $$2y-10=y-1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec13a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Solving the New Equation",
         "text": "Now, we must isolate the \"y\" term to solve the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec13a-h5",
@@ -49,8 +53,9 @@
             "a8583b4FracDec13a-h4"
         ],
         "title": "Solving the New Equation",
-        "text": "We can isolate the \"y\" term by adding 10 to both sides of the equation. We now have $$2y=y+9$$.",
-        "variabilization": {}
+        "text": "We can isolate the \"y\" term by adding $$10$$ to both sides of the equation. We now have $$2y=y+9$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8583b4FracDec13a-h6",
@@ -58,13 +63,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a8583b4FracDec13a-h5"
         ],
         "title": "Solving the New Equation",
-        "text": "Now, we can subtract y from both sides of the equation. What is the value of y?",
-        "variabilization": {}
+        "text": "Now, we can subtract $$y$$ from both sides of the equation. What is the value of $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

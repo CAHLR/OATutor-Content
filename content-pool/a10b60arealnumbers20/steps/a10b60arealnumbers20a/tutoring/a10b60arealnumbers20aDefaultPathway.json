@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 3 is -8?",
-        "variabilization": {}
+        "text": "What number to the power of $$3$$ is -8?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers20a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers20a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$${\\left(-2\\right)}^3=-8$$, so our answer is -2.",
-        "variabilization": {}
+        "text": "$${\\left(-2\\right)}^3=-8$$, so our answer is $$-2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

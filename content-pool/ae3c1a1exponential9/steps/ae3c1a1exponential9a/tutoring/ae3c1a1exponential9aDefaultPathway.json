@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Locating $$e^x$$",
         "text": "Press the button labeled $$e^x$$ on the calculator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential9a-h2",
@@ -14,7 +15,8 @@
             "ae3c1a1exponential9a-h1"
         ],
         "title": "Subsituting Values",
-        "text": "Input the value 3.14 as the exponent and press enter.",
-        "variabilization": {}
+        "text": "Input the value $$3.14$$ as the exponent and press enter.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

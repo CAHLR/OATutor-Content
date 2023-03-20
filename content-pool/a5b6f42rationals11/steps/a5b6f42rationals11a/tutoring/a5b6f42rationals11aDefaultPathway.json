@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Finding Undefined Values",
         "text": "What values make the function undefined?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals11a-h2",
@@ -24,8 +25,9 @@
             "a5b6f42rationals11a-h1"
         ],
         "title": "Questioning your answer",
-        "text": "Do all other values for x return a real number?",
+        "text": "Do all other values for $$x$$ return a real number?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

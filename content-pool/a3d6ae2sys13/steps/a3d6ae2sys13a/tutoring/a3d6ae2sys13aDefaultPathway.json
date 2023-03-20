@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Compare Slopes and Intercepts",
         "text": "We will compare the slopes and intercepts of the two lines:\\n##figure1.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h2",
@@ -14,8 +15,9 @@
             "a3d6ae2sys13a-h1"
         ],
         "title": "Slope-Intercept Form",
-        "text": "Write the first equation in slope-intercept form: $$3x-2y=4$$ $$-2y=-3x+4$$ $$\\frac{-2y}{-2}=\\frac{\\left(-3x+4\\right)}{-2}$$ $$y=\\frac{3}{2} x-2$$",
-        "variabilization": {}
+        "text": "Write the first equation in slope-intercept form:\\n$$3x-2y=4$$\\n$$-2y=-3x+4$$\\n$$\\frac{-2y}{-2}=\\frac{\\left(-3x+4\\right)}{-2}$$\\n$$y=\\frac{3}{2} x-2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h3",
@@ -29,8 +31,9 @@
             "a3d6ae2sys13a-h2"
         ],
         "title": "Identify the Slope",
-        "text": "What is m in the equation?",
-        "variabilization": {}
+        "text": "What is $$m$$ in the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a3d6ae2sys13a-h3"
         ],
         "title": "Identify Y-Intercept",
-        "text": "What is b in the equation?",
-        "variabilization": {}
+        "text": "What is $$b$$ in the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Slope-Intercept Form",
         "text": "The second equation is already in slope-intercept form: $$y=\\frac{3}{2} x-2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h6",
@@ -69,8 +74,9 @@
             "a3d6ae2sys13a-h5"
         ],
         "title": "Identify the Slope",
-        "text": "What is m in the equation?",
-        "variabilization": {}
+        "text": "What is $$m$$ in the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h7",
@@ -78,14 +84,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a3d6ae2sys13a-h6"
         ],
         "title": "Identify Y-Intercept",
-        "text": "What is b in the equation?",
-        "variabilization": {}
+        "text": "What is $$b$$ in the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h8",
@@ -98,7 +105,8 @@
         ],
         "title": "Same Lines",
         "text": "Since the slopes and y-intercept are the same, the equations have the same line.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys13a-h9",
@@ -108,6 +116,7 @@
         ],
         "title": "Same Lines",
         "text": "A system of equations whose graphs are coincident lines has $$infinitely$$ many solutions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

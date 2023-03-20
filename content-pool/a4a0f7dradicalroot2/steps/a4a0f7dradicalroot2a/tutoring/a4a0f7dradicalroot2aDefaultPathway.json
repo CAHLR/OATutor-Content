@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Setup",
         "text": "Simplifying the equation to $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Order of Operation",
         "text": "Solving the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x-1"
+            "$$2x-1$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h3"
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{2x-1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Operation",
         "text": "Square root can be canceled by squaring",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x-1"
+            "$$2x-1$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h5"
         ],
         "title": "Operation",
         "text": "What is $$\\sqrt{2x-1}$$ without square root?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h7",
@@ -74,8 +80,9 @@
             "a4a0f7dradicalroot2a-h6"
         ],
         "title": "Principle of Operation",
-        "text": "7 on the right side also has to be squared",
-        "variabilization": {}
+        "text": "$$7$$ on the right side also has to be squared",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h8",
@@ -83,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h7"
         ],
         "title": "Squaring",
         "text": "What is $$7^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$2x-1=49$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h10",
@@ -109,8 +118,9 @@
             "a4a0f7dradicalroot2a-h9"
         ],
         "title": "Operation",
-        "text": "Add 1 on both side",
-        "variabilization": {}
+        "text": "Add $$1$$ on both side",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h11",
@@ -118,14 +128,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x"
+            "$$2x$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h10"
         ],
         "title": "Addition",
         "text": "What is $$2x-1+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h12",
@@ -133,14 +144,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "50"
+            "$$50$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h11"
         ],
         "title": "Addition",
         "text": "What is $$49+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h13",
@@ -150,7 +162,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$2x=50$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h14",
@@ -159,8 +172,9 @@
             "a4a0f7dradicalroot2a-h13"
         ],
         "title": "Dividing",
-        "text": "Diving 2x by 2 to produce a single x",
-        "variabilization": {}
+        "text": "Diving $$2x$$ by $$2$$ to produce a single $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot2a-h15",
@@ -168,13 +182,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot2a-h14"
         ],
         "title": "Dividing",
-        "text": "What is 50 divided by 2?",
-        "variabilization": {}
+        "text": "What is $$50$$ divided by 2?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

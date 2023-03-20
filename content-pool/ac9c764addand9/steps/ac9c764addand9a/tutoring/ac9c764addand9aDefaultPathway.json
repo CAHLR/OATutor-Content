@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Numerator",
         "text": "Remember $${\\left(\\frac{1}{2}\\right)}^2$$ means $$\\frac{1}{2} \\frac{1}{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand9a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Numerator",
         "text": "What do we get after simplifying the numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand9a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Denominator",
         "text": "We then need to simplify the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand9a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [
             "ac9c764addand9a-h3"
         ],
         "title": "Denominator",
         "text": "What do we get after simplifying the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand9a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Divide",
         "text": "Finally, we need to divide the numerator by the denominator. Simplify if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand9a-h6",
@@ -70,6 +75,7 @@
         ],
         "title": "Divide",
         "text": "What do we get after the division?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

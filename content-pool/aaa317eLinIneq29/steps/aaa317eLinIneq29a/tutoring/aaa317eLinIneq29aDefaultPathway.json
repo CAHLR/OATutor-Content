@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolation",
         "text": "We can first isolate the absolute value term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "aaa317eLinIneq29a-h1"
         ],
         "title": "Addition",
         "text": "What number should we add on both sides in order to isolate the absolute value term by itself on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h3",
@@ -34,8 +36,9 @@
             "aaa317eLinIneq29a-h2"
         ],
         "title": "Addition",
-        "text": "What do we get after we add -1 on both sides?",
+        "text": "What do we get after we add $$-1$$ on both sides?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$|2x+1| \\leq 5$$",
             "$$|2x-1| \\leq 5$$",
@@ -50,7 +53,8 @@
         ],
         "title": "Absolute Value Inequality",
         "text": "For an algebraic expression X, and $$k>0$$, an absolute value inequality is an inequality of the form $$|X| \\leq k$$ is equivalent to $$-k \\leq X \\leq k$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h5",
@@ -66,6 +70,7 @@
         "title": "Absolute Value Inequality",
         "text": "How can we apply the above principle to our problem?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-5 \\leq 2x+1$$ or $$2x-1 \\leq 5$$",
             "$$-5 \\leq 2x+1 \\leq 5$$",
@@ -80,7 +85,8 @@
         ],
         "title": "Simplification",
         "text": "Let's simplify the inequality by using the addition and multiplication property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h7",
@@ -88,14 +94,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "aaa317eLinIneq29a-h6"
         ],
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable with its coefficient in the middle?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h8",
@@ -109,8 +116,9 @@
             "aaa317eLinIneq29a-h7"
         ],
         "title": "Addition",
-        "text": "What do we get after we add -1 through all three parts?",
-        "variabilization": {}
+        "text": "What do we get after we add $$-1$$ through all three parts?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h9",
@@ -125,7 +133,8 @@
         ],
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself in the middle?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h10",
@@ -133,14 +142,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "aaa317eLinIneq29a-h9"
         ],
         "title": "Right",
         "text": "What do we get for the right-hand side of the inequality after we multiply $$\\frac{1}{2}$$ through all three parts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h11",
@@ -148,14 +158,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "aaa317eLinIneq29a-h10"
         ],
         "title": "Left",
         "text": "What do we get for the left-hand side of the inequality after we multiply $$\\frac{1}{2}$$ through all three parts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq29a-h12",
@@ -164,7 +175,8 @@
             "aaa317eLinIneq29a-h11"
         ],
         "title": "Interval Notation",
-        "text": "[a,b] represents all real numbers between a and b, including a and b.",
-        "variabilization": {}
+        "text": "[a,b] represents all real numbers between a and $$b$$, including a and $$b$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

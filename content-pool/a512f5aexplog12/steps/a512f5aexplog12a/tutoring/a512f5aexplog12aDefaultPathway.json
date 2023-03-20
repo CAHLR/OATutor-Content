@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using substitution",
         "text": "Substitute $$e^x$$ with another variable. What does the equation look like? Substitue that variable into the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog12a-h2",
@@ -14,8 +15,9 @@
             "a512f5aexplog12a-h1"
         ],
         "title": "Factoring",
-        "text": "The next step is to factor the equation by the FOIL method and solve for x.",
-        "variabilization": {}
+        "text": "The next step is to factor the equation by the FOIL method and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog12a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a512f5aexplog12a-h2"
         ],
-        "title": "Solving for x",
-        "text": "The last step is to substitute $$e^x$$ back into the equation and solve for x. Eliminate any extraneous solutions.",
-        "variabilization": {}
+        "title": "Solving for $$x$$",
+        "text": "The last step is to substitute $$e^x$$ back into the equation and solve for $$x$$. Eliminate any extraneous solutions.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog12a-h4",
@@ -39,8 +42,9 @@
             "a512f5aexplog12a-h3"
         ],
         "title": "Extraneous solutions",
-        "text": "What is the range of the function y $$=$$ $$e^x$$?",
+        "text": "What is the range of the function $$y$$ $$=$$ $$e^x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "All real numbers",
             "$$y<0$$",

@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Factoring Expressions",
-        "text": "What is the factorization of $$4x^2$$ - 12x + 9 ?",
-        "variabilization": {}
+        "text": "What is the factorization of $$4x^2$$ - $$12x$$ + $$9$$ ?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph26a-h2",
@@ -24,8 +25,9 @@
             "a7ea646graph26a-h1"
         ],
         "title": "Factoring Expressions",
-        "text": "What is the factorization of $$x^2$$ + 8x + 16?",
-        "variabilization": {}
+        "text": "What is the factorization of $$x^2$$ + $$8x$$ + 16?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph26a-h3",
@@ -39,8 +41,9 @@
             "a7ea646graph26a-h2"
         ],
         "title": "Finding Zeroes",
-        "text": "What are the values of x that make the expression 0?",
-        "variabilization": {}
+        "text": "What are the values of $$x$$ that make the expression 0?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph26a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Definition of Multiplicity",
         "text": "The multiplicity is the power to which each part of the expression is raised",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

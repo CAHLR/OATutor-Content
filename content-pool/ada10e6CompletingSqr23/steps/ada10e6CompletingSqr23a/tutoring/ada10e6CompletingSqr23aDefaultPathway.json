@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Formula",
         "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Identification",
         "text": "$$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Identification",
         "text": "What is 2ab?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h5",
@@ -59,8 +63,9 @@
             "ada10e6CompletingSqr23a-h4"
         ],
         "title": "Substitution",
-        "text": "With the known a and 2ab, b can be calculated",
-        "variabilization": {}
+        "text": "With the known a and 2ab, $$b$$ can be calculated",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h5"
         ],
         "title": "Calculation",
         "text": "$$b=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h6"
         ],
         "title": "Calculation",
-        "text": "$$2c b=4c$$, what is b?",
-        "variabilization": {}
+        "text": "$$2c b=4c$$, what is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h8",
@@ -98,14 +105,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h7"
         ],
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h9",
@@ -113,14 +121,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h8"
         ],
         "title": "Squaring",
         "text": "What is $$2^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h10",
@@ -130,7 +139,8 @@
         ],
         "title": "Organizing",
         "text": "In order to form a perfect square on left side, $$b^2$$ has to be added on both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h11",
@@ -138,14 +148,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h10"
         ],
         "title": "Addition",
         "text": "What will be the number on right side after adding 4?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h12",
@@ -153,14 +164,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr23a-h11"
         ],
         "title": "Addition",
         "text": "What is $$5+4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h13",
@@ -170,7 +182,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$c^2+4c+4=9$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h14",
@@ -180,7 +193,8 @@
         ],
         "title": "Simplifying",
         "text": "It can be simplified to $${\\left(c+2\\right)}^2=9$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h15",
@@ -190,7 +204,8 @@
         ],
         "title": "Square Root",
         "text": "The square can be removed by square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h16",
@@ -205,7 +220,8 @@
         ],
         "title": "Square Root",
         "text": "What is the sqrt[(c+2)**2]?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h17",
@@ -220,7 +236,8 @@
         ],
         "title": "Square Root",
         "text": "What is $$\\sqrt{9}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h18",
@@ -230,7 +247,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$x+2=3$$ or $$x+2=-3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr23a-h19",
@@ -239,7 +257,8 @@
             "ada10e6CompletingSqr23a-h18"
         ],
         "title": "Subtraction",
-        "text": "$$c=1$$ or -5",
-        "variabilization": {}
+        "text": "$$c=1$$ or $$-5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

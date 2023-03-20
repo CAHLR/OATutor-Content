@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the first expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(2h-3)(h-8)"
+            "$$(2h-3)(h-8)$$"
         ],
         "dependencies": [
             "a61c721rational15a-h2"
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the second expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(h-8)(h-8)"
+            "$$(h-8)(h-8)$$"
         ],
         "dependencies": [
             "a61c721rational15a-h4"
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Multiplying Expressions",
         "text": "Multilply numerators and denominators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h9",
@@ -115,7 +123,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h10",
@@ -125,7 +134,8 @@
         ],
         "title": "Common Factor",
         "text": "Cancel the common factors from the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational15a-h11",
@@ -133,13 +143,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a61c721rational15a-h10"
         ],
         "title": "Common Factor",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

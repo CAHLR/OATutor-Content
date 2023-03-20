@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication Property",
         "text": "The multiplication property of inequality: If $$a<b$$ and $$c>0$$, then $$ac<bc$$ if $$a<b$$ and $$c<0$$, then $$ac>bc$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4a-h2",
@@ -14,8 +15,9 @@
             "aaa317eLinIneq4a-h1"
         ],
         "title": "Applying the Multiplication Property",
-        "text": "Our goal is to isolate x (have x on one side and numbers on the other side)",
-        "variabilization": {}
+        "text": "Our goal is to isolate $$x$$ (have $$x$$ on one side and numbers on the other side)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4a-h3",
@@ -29,8 +31,9 @@
             "aaa317eLinIneq4a-h2"
         ],
         "title": "Applying the Multiplication Property",
-        "text": "What number should we multiply to both sides of the inequality to isolate x?",
-        "variabilization": {}
+        "text": "What number should we multiply to both sides of the inequality to isolate $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4a-h3"
         ],
         "title": "Left Side",
         "text": "What is the left side after multiplying $$\\frac{1}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4a-h5",
@@ -53,13 +57,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4a-h4"
         ],
         "title": "Right Side",
         "text": "What is the right side after multiplying by $$\\frac{1}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

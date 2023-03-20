@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Function Notation",
-        "text": "Write the system of equations using y to replace function notation.",
-        "variabilization": {}
+        "text": "Write the system of equations using $$y$$ to replace function notation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h2",
@@ -14,8 +15,9 @@
             "ab8b840systems9a-h1"
         ],
         "title": "Substitution",
-        "text": "Substitute the expression 0.85x+35,000 from the first equation into the second equation and solve for x.",
-        "variabilization": {}
+        "text": "Substitute the expression 0.85x+35,000 from the first equation into the second equation and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "50000"
+            "$$50000$$"
         ],
         "dependencies": [
             "ab8b840systems9a-h2"
         ],
         "title": "Isolating Variables",
-        "text": "What is x equal to?",
-        "variabilization": {}
+        "text": "What is $$x$$ equal to?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute $$x=50, 000$$ into either the cost function or the revenue function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "77500"
+            "$$77500$$"
         ],
         "dependencies": [
             "ab8b840systems9a-h4"
         ],
         "title": "Isolating Variables",
-        "text": "What is y equal to?",
-        "variabilization": {}
+        "text": "What is $$y$$ equal to?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Break-Even Point",
         "text": "The break-even point is (50,000, 77,500).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h7",
@@ -74,8 +80,9 @@
             "ab8b840systems9a-h6"
         ],
         "title": "Profit Function Formula",
-        "text": "The profit function is found using the formula $$P(x)=R(x)-C(x)$$. Plug in the x and y values to find the profit function.",
-        "variabilization": {}
+        "text": "The profit function is found using the formula $$P(x)=R(x)-C(x)$$. Plug in the $$x$$ and $$y$$ values to find the profit function.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems9a-h8",
@@ -90,6 +97,7 @@
         ],
         "title": "Profit Function Formula",
         "text": "What is the profit function?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

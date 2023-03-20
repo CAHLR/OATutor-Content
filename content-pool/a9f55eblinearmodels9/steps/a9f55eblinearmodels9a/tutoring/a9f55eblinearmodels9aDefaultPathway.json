@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of Slope",
         "text": "Slope is the change in output over the change in input.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9f55eblinearmodels9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Output and Input",
         "text": "In this problem, the output is population and the input is time in years.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9f55eblinearmodels9a-h3",
@@ -24,7 +26,8 @@
             "a9f55eblinearmodels9a-h2"
         ],
         "title": "Answer",
-        "text": "Every unit of change for the input, which is a year, corresponds to 2500 units of change for the output, which is the population. Thus, the slope is 2500, and it represents the change in population over change in time.",
-        "variabilization": {}
+        "text": "Every unit of change for the input, which is a year, corresponds to $$2500$$ units of change for the output, which is the population. Thus, the slope is $$2500$$, and it represents the change in population over change in time.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

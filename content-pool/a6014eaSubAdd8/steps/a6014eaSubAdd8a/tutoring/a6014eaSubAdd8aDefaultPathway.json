@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd8a-h2",
@@ -14,8 +15,9 @@
             "a6014eaSubAdd8a-h1"
         ],
         "title": "Addition",
-        "text": "After adding 28 to each side of the equation, we get $$a-28+28=-37+28$$.",
-        "variabilization": {}
+        "text": "After adding $$28$$ to each side of the equation, we get $$a-28+28=-37+28$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd8a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-9"
+            "$$-9$$"
         ],
         "dependencies": [
             "a6014eaSubAdd8a-h2"
         ],
         "title": "Simplification",
         "text": "What do we get for a after simplifying the equation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd8a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd8a-h5",
@@ -54,8 +58,9 @@
             "a6014eaSubAdd8a-h4"
         ],
         "title": "Verification",
-        "text": "Check whether -9-28 equals -37.",
+        "text": "Check whether $$-9-28$$ equals $$-37$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

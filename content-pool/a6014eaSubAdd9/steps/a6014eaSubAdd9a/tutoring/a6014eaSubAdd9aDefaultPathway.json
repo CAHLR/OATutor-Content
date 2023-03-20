@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd9a-h2",
@@ -14,8 +15,9 @@
             "a6014eaSubAdd9a-h1"
         ],
         "title": "Addition",
-        "text": "After adding 61 to each side of the equation, we get $$n-61+61=-75+61$$.",
-        "variabilization": {}
+        "text": "After adding $$61$$ to each side of the equation, we get $$n-61+61=-75+61$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd9a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-14"
+            "$$-14$$"
         ],
         "dependencies": [
             "a6014eaSubAdd9a-h2"
         ],
         "title": "Simplification",
-        "text": "What do we get for n after simplifying the equation?",
-        "variabilization": {}
+        "text": "What do we get for $$n$$ after simplifying the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd9a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd9a-h5",
@@ -54,8 +58,9 @@
             "a6014eaSubAdd9a-h4"
         ],
         "title": "Verification",
-        "text": "Check whether -14-61 equals -75.",
+        "text": "Check whether $$-14-61$$ equals $$-75$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

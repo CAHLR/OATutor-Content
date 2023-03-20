@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Like terms",
         "text": "First, we identify the like terms (terms that have the same exponents).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang14a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Combination",
         "text": "Then, we combine the like terms (adding the coefficient of the like terms), and get $$10y+1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

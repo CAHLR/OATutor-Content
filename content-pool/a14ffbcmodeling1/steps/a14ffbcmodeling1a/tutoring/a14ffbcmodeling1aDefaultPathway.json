@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find General Formula",
         "text": "The first step is to identify what general formula can be used for direction variation with a cube.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling1a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Solve for Constant",
         "text": "Given $$y=25$$ and $$x=2$$, what is the value of constant k from the general formula?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling1a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Find Specific Formula",
         "text": "Use the constant to write an equation that represents the relationship.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling1a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "675"
+            "$$675$$"
         ],
         "dependencies": [
             "a14ffbcmodeling1a-h3"
         ],
         "title": "Substitution",
-        "text": "What is y when $$x=6$$?",
-        "variabilization": {}
+        "text": "What is $$y$$ when $$x=6$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

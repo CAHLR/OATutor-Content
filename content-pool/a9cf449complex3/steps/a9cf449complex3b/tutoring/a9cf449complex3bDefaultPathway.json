@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewriting the Expression by Distributing the Negative Sign",
         "text": "First, distribute the negative sign and rewrite the expression as an addition problem. For example, $$a+b-c+d=a+b-c-d$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Adding Complex Numbers",
         "text": "The next step to add complex numbers is to add real and imaginary parts separately.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h3",
@@ -24,8 +26,9 @@
             "a9cf449complex3b-h2"
         ],
         "title": "i Definition",
-        "text": "i represents the square root of -1, which is an imaginary number.",
-        "variabilization": {}
+        "text": "i represents the square root of $$-1$$, which is an imaginary number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h4",
@@ -34,8 +37,9 @@
             "a9cf449complex3b-h3"
         ],
         "title": "Real Parts in the Expression",
-        "text": "-5 and 11 are the real parts.",
-        "variabilization": {}
+        "text": "$$-5$$ and $$11$$ are the real parts.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Imaginary Parts in the Expression",
         "text": "7i and -2i are the imaginary parts.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h6",
@@ -53,14 +58,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a9cf449complex3b-h5"
         ],
         "title": "Sum of the Real Parts",
         "text": "What is the sum of the real parts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Sum of the Imaginary Parts",
         "text": "What is the sum of the imaginary parts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3b-h8",
@@ -85,6 +92,7 @@
         ],
         "title": "Writing the Final Answer",
         "text": "Finally, write the expression as the sum of sums of the real and imaginary numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

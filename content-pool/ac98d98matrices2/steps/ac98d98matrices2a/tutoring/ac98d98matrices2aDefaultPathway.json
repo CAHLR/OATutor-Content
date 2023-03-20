@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert to Standard Form",
         "text": "All equations are in standard form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac98d98matrices2a-h2",
@@ -14,7 +15,8 @@
             "ac98d98matrices2a-h1"
         ],
         "title": "Writing the Matrix",
-        "text": "We create a matrix such that one row has one equation. mat({6,-5,2,3},{2,1,-4,5},{3,-3,1,-1})",
-        "variabilization": {}
+        "text": "We create a matrix such that one row has one equation. $$mat({6, -5, 2, 3}, {2, 1, -4, 5}, {3, -3, 1, -1})$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

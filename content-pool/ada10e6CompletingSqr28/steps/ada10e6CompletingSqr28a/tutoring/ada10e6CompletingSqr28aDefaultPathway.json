@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "Expand the equation on the left",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$x^2+2x-15=9$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Formula",
         "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h4"
         ],
         "title": "Identification",
         "text": "$$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h6",
@@ -63,14 +68,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x"
+            "$$2x$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h5"
         ],
         "title": "Identification",
         "text": "What is 2ab?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h7",
@@ -79,8 +85,9 @@
             "ada10e6CompletingSqr28a-h6"
         ],
         "title": "Substitution",
-        "text": "With the known a and 2ab, b can be calculated",
-        "variabilization": {}
+        "text": "With the known a and 2ab, $$b$$ can be calculated",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h7"
         ],
         "title": "Calculation",
         "text": "$$b=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h9",
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h8"
         ],
         "title": "Calculation",
-        "text": "$$2x b=2x$$, what is b?",
-        "variabilization": {}
+        "text": "$$2x b=2x$$, what is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h10",
@@ -118,14 +127,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h9"
         ],
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h11",
@@ -133,14 +143,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h10"
         ],
         "title": "Squaring",
         "text": "What is $$1^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h12",
@@ -149,8 +160,9 @@
             "ada10e6CompletingSqr28a-h11"
         ],
         "title": "Organizing",
-        "text": "In order to form a perfect square on left side, 16 has to be added on both sides",
-        "variabilization": {}
+        "text": "In order to form a perfect square on left side, $$16$$ has to be added on both sides",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h13",
@@ -158,14 +170,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h12"
         ],
         "title": "Addition",
         "text": "What will be the number on right side after adding 16?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h14",
@@ -173,14 +186,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr28a-h13"
         ],
         "title": "Addition",
         "text": "What is $$16+9$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h15",
@@ -190,7 +204,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$x^2+2x+1=25$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h16",
@@ -200,7 +215,8 @@
         ],
         "title": "Simplifying",
         "text": "It can be simplified to $${\\left(x+1\\right)}^2=25$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h17",
@@ -210,7 +226,8 @@
         ],
         "title": "Square Root",
         "text": "The square can be removed by square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h18",
@@ -225,7 +242,8 @@
         ],
         "title": "Square Root",
         "text": "What is the sqrt[(x+1)**2]?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h19",
@@ -241,9 +259,10 @@
         "title": "Square Root",
         "text": "What is $$\\sqrt{25}$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "5",
-            "-5",
+            "$$5$$",
+            "$$-5$$",
             "$$\\pm 5$$"
         ]
     },
@@ -255,7 +274,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$x+1=5$$ or $$x+1=-5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr28a-h21",
@@ -264,7 +284,8 @@
             "ada10e6CompletingSqr28a-h20"
         ],
         "title": "Subtraction",
-        "text": "$$x=4$$ or -1",
-        "variabilization": {}
+        "text": "$$x=4$$ or $$-1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

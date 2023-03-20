@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Values",
         "text": "The typical form of the function is f(x). To find the value, find where $$x=\\frac{3\\pi}{2}$$ on the graph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae25c01graphs5a-h2",
@@ -14,7 +15,8 @@
             "ae25c01graphs5a-h1"
         ],
         "title": "y-value",
-        "text": "Then, find the y value of the function at the x value given.",
-        "variabilization": {}
+        "text": "Then, find the $$y$$ value of the function at the $$x$$ value given.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

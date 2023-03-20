@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "We must divide each term in the numerator by $$6p^3$$, so we get $$36p^4-8p^2$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

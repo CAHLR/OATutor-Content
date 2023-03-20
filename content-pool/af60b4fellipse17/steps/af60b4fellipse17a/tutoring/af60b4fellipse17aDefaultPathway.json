@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Not an Ellipse",
-        "text": "Since $$a=b$$, this is a circle of radius 7. This means that there are no $$\\frac{major}{minor}$$ axes or foci. DNE.",
-        "variabilization": {}
+        "text": "Since $$a=b$$, this is a circle of radius $$7$$. This means that there are no $$\\frac{major}{minor}$$ axes or foci. DNE.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Setup",
         "text": "$$d=length$$ of the skid marks in feet, $$s=speed$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot12a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "122"
+            "$$122$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot12a-h1"
         ],
         "title": "Identifying",
         "text": "$$d=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot12a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2928"
+            "$$2928$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot12a-h2"
         ],
         "title": "Substitution",
-        "text": "What is 24d when $$d=190$$?",
-        "variabilization": {}
+        "text": "What is $$24d$$ when $$d=190$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot12a-h4",
@@ -43,13 +46,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "54.1"
+            "$$54.1$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot12a-h3"
         ],
         "title": "Square Root",
         "text": "What is the square root of 4560? (To the nearest tenth)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

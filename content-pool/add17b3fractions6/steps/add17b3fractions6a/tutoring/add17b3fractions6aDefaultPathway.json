@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "LCD",
         "text": "Find the common denominator in both the numerator and denominator. Add the two fractions together. You should now have one rational expression each in the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Seperate",
         "text": "Seperate the numerator and denominator, preparing to divide the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions6a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Divide",
         "text": "Divide the fractions, taking the reciprocal.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions6a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Factor and simplify",
         "text": "Factor the expression, then eliminate any common factors in the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions6a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\frac{1}{x-y}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

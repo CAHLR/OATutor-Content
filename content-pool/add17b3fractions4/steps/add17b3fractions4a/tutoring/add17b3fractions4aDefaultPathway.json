@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add and Subtract",
         "text": "Simplify the numerator and denominator by combining fractions so that the final product is a single fraction over a fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Reciprocal",
         "text": "Rewrite the denominator as a reciprocal and change the sign to multiplication.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Simplify",
         "text": "Multiply and then reduce the two fractions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions4a-h4",
@@ -34,7 +37,8 @@
             "add17b3fractions4a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is 3.",
-        "variabilization": {}
+        "text": "The answer is $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

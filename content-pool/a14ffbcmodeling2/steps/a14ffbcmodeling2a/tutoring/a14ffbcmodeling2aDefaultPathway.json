@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Speed, Distance, and Time Relationship",
-        "text": "Given that v represents speed, t represents time, and d represents distance. What is the relationship between speed, distance, and time?",
+        "text": "Given that v represents speed, $$t$$ represents time, and $$d$$ represents distance. What is the relationship between speed, distance, and time?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$d=vt$$",
             "$$d=\\frac{v}{t}$$",
@@ -26,7 +27,8 @@
         ],
         "title": "Plug-in Values",
         "text": "Plug in known value of distance into the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling2a-h3",
@@ -41,6 +43,7 @@
         ],
         "title": "Re-write Equation",
         "text": "What is the equation in terms of velocity?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

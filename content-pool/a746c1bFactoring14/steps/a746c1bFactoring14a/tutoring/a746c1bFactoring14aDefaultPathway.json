@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor out the greatest common term",
         "text": "What is the greatest common factor of all the terms in the expression $$6x^2-12x c+6b x-12b c$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a746c1bFactoring14a-h1"
         ],
         "title": "Finding the GCF",
         "text": "What is the greatest common factor of $$6x^2$$, $$-\\left(12x c\\right)$$, $$6b x$$ and $$-\\left(12b c\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Finding Values",
         "text": "6*x**2-(12*x*c)+(6*b*x)-(12*b*c)=6*(?), what is ?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Group terms",
         "text": "Next, we will group the terms with similar factor together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Group terms",
         "text": "In the expression, $$x^2-2x c+b x-2b c$$, we will group $$x^2$$ and -(2*x*c)) together",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Factor",
         "text": "Factor $$x^2-2x c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h7",
@@ -79,8 +85,9 @@
             "a746c1bFactoring14a-h6"
         ],
         "title": "Factor by grouping",
-        "text": "We will group $$b x$$ and $$-\\left(2b c\\right)$$ together, so we can factor out the common factor of b. $$b x-2b c=b \\left(x-2c\\right)$$",
-        "variabilization": {}
+        "text": "We will group $$b x$$ and $$-\\left(2b c\\right)$$ together, so we can factor out the common factor of $$b$$. $$b x-2b c=b \\left(x-2c\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x-2c"
+            "$$x-2c$$"
         ],
         "dependencies": [
             "a746c1bFactoring14a-h7"
         ],
         "title": "Finding the GCF",
         "text": "Based on the above steps, we yield $$x^2-2x c+b x-2b c=x \\left(x-2c\\right)+b \\left(x-2c\\right)$$. What is the greatest common factor of $$x \\left(x-2c\\right)$$ and $$b \\left(x-2c\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h9",
@@ -109,8 +117,9 @@
             "a746c1bFactoring14a-h8"
         ],
         "title": "Finding Values",
-        "text": "$$x \\left(x-2c\\right)$$ and $$b \\left(x-2c\\right)$$ has the greatest common factor (x-2c), so we can further factor $$x \\left(x-2c\\right)+b \\left(x-2c\\right)$$ into (x-2*c)*(?). what is (?)?",
-        "variabilization": {}
+        "text": "$$x \\left(x-2c\\right)$$ and $$b \\left(x-2c\\right)$$ has the greatest common factor $$(x-2c)$$, so we can further factor $$x \\left(x-2c\\right)+b \\left(x-2c\\right)$$ into (x-2*c)*(?). what is (?)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h10",
@@ -120,7 +129,8 @@
         ],
         "title": "Put together all factors",
         "text": "Based on the above steps, we get $$6x^2-12x c+6b x-12b c=6\\left(x^2-2x c+b x-2b c\\right)=6\\left(x+b\\right) \\left(x-2c\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring14a-h11",
@@ -130,6 +140,7 @@
         ],
         "title": "Final remark",
         "text": "Alternatively, you can also group (x**2 with b*x), (-2*x*c with -2*b*c) then do factoring by grouping. You should yield the same final answer. You can try it as exercise.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

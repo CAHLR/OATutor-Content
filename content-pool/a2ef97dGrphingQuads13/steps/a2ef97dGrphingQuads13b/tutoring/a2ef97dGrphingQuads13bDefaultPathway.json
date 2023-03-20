@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Finding the Vertex of Parabolas",
         "text": "Plug in the axis of symmetry and solve the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

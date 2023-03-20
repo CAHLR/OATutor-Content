@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Combine like terms",
         "text": "If the monomials are like terms, combine them by adding or subtracting the coefficient.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5991b4add9a-h2",
@@ -14,7 +15,8 @@
             "a5991b4add9a-h1"
         ],
         "title": "Coefficients",
-        "text": "The coefficients involved in this expression are -12 and 18.",
-        "variabilization": {}
+        "text": "The coefficients involved in this expression are $$-12$$ and $$18$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

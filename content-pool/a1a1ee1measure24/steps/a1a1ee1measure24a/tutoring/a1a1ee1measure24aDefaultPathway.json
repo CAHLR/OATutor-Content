@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Approach",
         "text": "Since the problem wants the answer in centimeters, we will convert all measurements into centimeters before proceeding with arithmetics.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure24a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a1a1ee1measure24a-h1"
         ],
-        "title": "Relation between m and cm",
-        "text": "The relation between meters and centimeters is 1 $$m=100$$ cm.",
-        "variabilization": {}
+        "title": "Relation between $$m$$ and cm",
+        "text": "The relation between meters and centimeters is $$1$$ $$m=100$$ cm.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure24a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "180"
+            "$$180$$"
         ],
         "dependencies": [
             "a1a1ee1measure24a-h2"
         ],
         "title": "Converting Dad's Height",
-        "text": "We start by converting Matthias' height into centimeters. What is 1.8 m in cm?",
-        "variabilization": {}
+        "text": "We start by converting Matthias' height into centimeters. What is $$1.8$$ $$m$$ in cm?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure24a-h4",
@@ -39,8 +42,9 @@
             "a1a1ee1measure24a-h3"
         ],
         "title": "Applying the Conversion",
-        "text": "To convert 1.8 m into cm, we use the expression 1.8 $$m=(1.8$$ m)*(100 cm)/(1 m)=(1.8)*(100 cm)/(1)=180 cm. The first equality holds because 100 $$cm=1$$ m, and the second equation holds because we can cancel the m.",
-        "variabilization": {}
+        "text": "To convert $$1.8$$ $$m$$ into cm, we use the expression $$1.8$$ $$m=(1.8$$ m)*(100 cm)/(1 m)=(1.8)*(100 cm)/(1)=180 cm. The first equality holds because $$100$$ $$cm=1$$ $$m$$, and the second equation holds because we can cancel the $$m$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure24a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Final Answer",
         "text": "Now that we have both Matthias and his son's heights in centimeters, to find the difference between their heights in centimeters, we can simply subtract the the two numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure24a-h6",
@@ -58,13 +63,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "91"
+            "$$91$$"
         ],
         "dependencies": [
             "a1a1ee1measure24a-h5"
         ],
         "title": "Final Answer",
-        "text": "What is 180-89?",
-        "variabilization": {}
+        "text": "What is $$180-89$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Plugging in Values",
         "text": "You can plug in values of an x-coordinate to each equation to see if the output is the same as in the graph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5ccaf6logarithmsandlogistic15a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Inferring the Shape of the Graph",
         "text": "Think about what conditions have to be true for an exponential, logarithmic, or logistic graph to increase or decrease.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

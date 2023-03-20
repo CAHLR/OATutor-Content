@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "First, we find the prime factors of both number: $$2\\times3\\times3$$ $$=18$$, $$2\\times2\\times3=12$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang3a-h2",
@@ -13,8 +14,9 @@
         "dependencies": [
             "afb3ccdlang3a-h1"
         ],
-        "title": "Then, we multiple the factors: $$2\\times2\\times3\\times3$$ $$=$$ 36",
+        "title": "Then, we multiple the factors: $$2\\times2\\times3\\times3$$ $$=$$ $$36$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

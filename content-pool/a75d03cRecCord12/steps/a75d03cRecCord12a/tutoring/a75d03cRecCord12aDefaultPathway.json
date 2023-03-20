@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distance Formula",
         "text": "Given endpoints $$(x_1,y_1)$$, and $$(x_2,y_2)$$, the distance between two points is given by $$\\sqrt{{\\left(x_2-x_1\\right)}^2+{\\left(y_2-y_1\\right)}^2}$$ .",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h2",
@@ -14,8 +15,9 @@
             "a75d03cRecCord12a-h1"
         ],
         "title": "Plug into the formula",
-        "text": "We should first calculate 3-(-4) and (-4)-1.",
-        "variabilization": {}
+        "text": "We should first calculate $$3-(-4)$$ and $$(-4)-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "a75d03cRecCord12a-h2"
         ],
         "title": "Subtraction",
-        "text": "What is 3-(-4)?",
-        "variabilization": {}
+        "text": "What is $$3-(-4)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5"
+            "$$-5$$"
         ],
         "dependencies": [
             "a75d03cRecCord12a-h2"
         ],
         "title": "Subtraction",
-        "text": "What is (-4)-1?",
-        "variabilization": {}
+        "text": "What is $$(-4)-1$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h5",
@@ -56,7 +60,8 @@
         ],
         "title": "Simplification",
         "text": "We need to simplify the expression $$7^2+{\\left(-5\\right)}^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h6",
@@ -64,14 +69,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a75d03cRecCord12a-h5"
         ],
         "title": "Square",
         "text": "What is $$7^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h7",
@@ -79,14 +85,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a75d03cRecCord12a-h5"
         ],
         "title": "Square",
         "text": "What is $${\\left(-5\\right)}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h8",
@@ -94,7 +101,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "74"
+            "$$74$$"
         ],
         "dependencies": [
             "a75d03cRecCord12a-h6",
@@ -102,7 +109,8 @@
         ],
         "title": "Addition",
         "text": "What is $$49+25$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h9",
@@ -112,7 +120,8 @@
         ],
         "title": "Extraction of square root",
         "text": "The thid step is computing the principal square root.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord12a-h10",
@@ -127,6 +136,7 @@
         ],
         "title": "Square root",
         "text": "What is the principal square root of 74?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

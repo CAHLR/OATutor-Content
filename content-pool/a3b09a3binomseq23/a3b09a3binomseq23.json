@@ -3,7 +3,8 @@
     "title": "Binomial Expansion",
     "body": "Find the tenth term of:",
     "variabilization": {},
-    "oer": "openstax.org",
+    "oer": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "9.6 Binomial Theorem",
     "courseName": "OpenStax: College Algebra"
 }

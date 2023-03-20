@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Definition of the Rational Zero Theorem",
-        "text": "The Rational Zero Theorem tells us that if $$\\frac{p}{q}$$ is a zero of f(x), then p is a factor of 1 and q is a factor of 2. p is a factor of the constant term and q is a factor of the leading coefficient.",
-        "variabilization": {}
+        "text": "The Rational Zero Theorem tells us that if $$\\frac{p}{q}$$ is a zero of f(x), then $$p$$ is a factor of $$1$$ and q is a factor of $$2$$. $$p$$ is a factor of the constant term and q is a factor of the leading coefficient.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c95e8polyzero20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determining Factors",
         "text": "The first step is to determine all factors of the constant term and all factors of the leading coefficient.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c95e8polyzero20a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Determing Values of $$\\frac{p}{q}$$",
         "text": "Next, determine all possible values of $$\\frac{p}{q}$$. Be sure to include both positive and negative candidates.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c95e8polyzero20a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Using Subsitution",
         "text": "Finally, determine which possible zeros are actual zeros by evaluating each case of $$f{\\left(\\frac{p}{q}\\right)}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

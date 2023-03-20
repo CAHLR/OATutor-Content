@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$5\\sqrt{6} \\left(-1\\right) \\sqrt{12}=-5\\sqrt{60}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root28a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$-5\\sqrt{60}=-5\\sqrt{15\\times4}=-10\\sqrt{15}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

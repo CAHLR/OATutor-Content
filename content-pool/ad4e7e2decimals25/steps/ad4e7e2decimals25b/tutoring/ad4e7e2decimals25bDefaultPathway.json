@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Converting into Percent",
         "text": "To convert a decimal to a percent, we move the decimal point two places to the right and then add the percent sign.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Formula",
         "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "t"
+            "$$t$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h2"
         ],
         "title": "Identification",
         "text": "$$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-10t"
+            "$$-10t$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h3"
         ],
         "title": "Identification",
         "text": "What is 2ab?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h5",
@@ -59,8 +63,9 @@
             "ada10e6CompletingSqr25a-h4"
         ],
         "title": "Substitution",
-        "text": "With the known a and 2ab, b can be calculated",
-        "variabilization": {}
+        "text": "With the known a and 2ab, $$b$$ can be calculated",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5"
+            "$$-5$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h5"
         ],
         "title": "Calculation",
         "text": "$$b=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5"
+            "$$-5$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h6"
         ],
         "title": "Calculation",
-        "text": "$$2t b=-10t$$, what is b?",
-        "variabilization": {}
+        "text": "$$2t b=-10t$$, what is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h8",
@@ -98,14 +105,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h7"
         ],
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h9",
@@ -113,14 +121,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h8"
         ],
         "title": "Squaring",
         "text": "What is $${\\left(-5\\right)}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h10",
@@ -130,7 +139,8 @@
         ],
         "title": "Organizing",
         "text": "In order to form a perfect square on left side, $$b^2$$ has to be added on both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h11",
@@ -138,14 +148,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "36"
+            "$$36$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h10"
         ],
         "title": "Addition",
         "text": "What will be the number on right side after adding 25?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h12",
@@ -153,14 +164,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "36"
+            "$$36$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h11"
         ],
         "title": "Addition",
         "text": "What is $$11+25$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h13",
@@ -170,7 +182,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$t^2-10t+25=36$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h14",
@@ -180,7 +193,8 @@
         ],
         "title": "Simplifying",
         "text": "It can be simplified to $${\\left(t-5\\right)}^2=36$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h15",
@@ -190,7 +204,8 @@
         ],
         "title": "Square Root",
         "text": "The square can be removed by square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h16",
@@ -198,14 +213,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "t-5"
+            "$$t-5$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr25a-h15"
         ],
         "title": "Square Root",
         "text": "What is the sqrt[(t-5)**2]?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h17",
@@ -220,7 +236,8 @@
         ],
         "title": "Square Root",
         "text": "What is $$\\sqrt{36}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h18",
@@ -230,7 +247,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$t-5=6$$ or $$t-5=-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr25a-h19",
@@ -239,7 +257,8 @@
             "ada10e6CompletingSqr25a-h18"
         ],
         "title": "Subtraction",
-        "text": "$$t=11$$ or -1",
-        "variabilization": {}
+        "text": "$$t=11$$ or $$-1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

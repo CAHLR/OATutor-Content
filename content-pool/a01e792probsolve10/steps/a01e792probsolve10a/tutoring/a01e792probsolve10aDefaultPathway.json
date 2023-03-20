@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the question",
         "text": "What are we looking for",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify the question",
         "text": "We are looking for the number of boys in the group",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Name",
         "text": "Let's assign a variable to represent the number of boys, such as \"b\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Rewrite",
         "text": "Now, let's rewrite the question to combine all the important information into one sentence.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h5",
@@ -44,8 +48,9 @@
             "a01e792probsolve10a-h4"
         ],
         "title": "Rewrite",
-        "text": "We can rewrite it like \"There are 11 girls which is 3 more than twice the number of boys\"",
-        "variabilization": {}
+        "text": "We can rewrite it like \"There are $$11$$ girls which is $$3$$ more than twice the number of boys\"",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Translate",
         "text": "Now, use the rewritten question to make an equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Translate",
         "text": "We can rewrite it to be $$11=3+2b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h8",
@@ -73,14 +80,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a01e792probsolve10a-h7"
         ],
         "title": "Solve",
         "text": "What number can we subtract from both sides?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h9",
@@ -90,7 +98,8 @@
         ],
         "title": "Simplify",
         "text": "Now, we can simplify the equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h10",
@@ -100,7 +109,8 @@
         ],
         "title": "Simplify",
         "text": "Finally, we can solve the equation $$8=2b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve10a-h11",
@@ -109,7 +119,8 @@
             "a01e792probsolve10a-h10"
         ],
         "title": "Simplify",
-        "text": "We can divide 2 from both sides of the equation",
-        "variabilization": {}
+        "text": "We can divide $$2$$ from both sides of the equation",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

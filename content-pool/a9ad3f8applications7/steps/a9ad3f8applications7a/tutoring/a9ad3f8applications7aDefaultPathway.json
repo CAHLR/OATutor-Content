@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify",
         "text": "We are looking for how much a notebook and how much a thumbdrive each cost.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications7a-h2",
@@ -14,8 +15,9 @@
             "a9ad3f8applications7a-h1"
         ],
         "title": "First equation",
-        "text": "Since Troy bought 4 notebooks and five thumb drives for $116 in total, we can write the first equation as $$4n+5t=116$$.",
-        "variabilization": {}
+        "text": "Since Troy bought $$4$$ notebooks and five thumb drives for $116 in total, we can write the first equation as $$4n+5t=116$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications7a-h3",
@@ -24,8 +26,9 @@
             "a9ad3f8applications7a-h2"
         ],
         "title": "Second equation",
-        "text": "Because Lisa bought 2 notebooks and 3 thumbdrives for $68, we can write the second equation as $$2n+3t=68$$.",
-        "variabilization": {}
+        "text": "Because Lisa bought $$2$$ notebooks and $$3$$ thumbdrives for $68, we can write the second equation as $$2n+3t=68$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications7a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a9ad3f8applications7a-h3"
         ],
         "title": "Solve",
-        "text": "Next, using the system of equations just created, solve for n. What does it equal?",
-        "variabilization": {}
+        "text": "Next, using the system of equations just created, solve for $$n$$. What does it equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications7a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a9ad3f8applications7a-h4"
         ],
         "title": "Solve",
-        "text": "What does t equal?",
-        "variabilization": {}
+        "text": "What does $$t$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications7a-h6",
@@ -65,6 +70,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the notebooks cost $4 while the thumb drives cost $20.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

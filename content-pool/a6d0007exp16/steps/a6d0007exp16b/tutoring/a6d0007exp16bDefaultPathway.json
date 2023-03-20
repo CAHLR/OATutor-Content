@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Power of a Quotient Rule",
-        "text": "For any real numbers a and b and any integer n, the power of a quotient rule of exponents states that $${\\left(\\frac{a}{b}\\right)}^n=\\frac{a^n}{b^n}$$",
-        "variabilization": {}
+        "text": "For any real numbers a and $$b$$ and any integer $$n$$, the power of a quotient rule of exponents states that $${\\left(\\frac{a}{b}\\right)}^n=\\frac{a^n}{b^n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp16b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Power of a Quotient Rule",
         "text": "Use the power of a quotient rule to simplify the expression: $${\\left(\\frac{5}{u^8}\\right)}^4=\\frac{5^4}{{\\left(u^8\\right)}^4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp16b-h3",
@@ -24,8 +26,9 @@
             "a6d0007exp16b-h2"
         ],
         "title": "Power Rule of Exponents",
-        "text": "For any real number a and positive integers m and n, the power rule of exponents states that $${\\left(a^m\\right)}^n=a^{m n}$$",
-        "variabilization": {}
+        "text": "For any real number a and positive integers $$m$$ and $$n$$, the power rule of exponents states that $${\\left(a^m\\right)}^n=a^{m n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp16b-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Power Rule of Exponents",
         "text": "Use the power rule to simplify the expression: $${\\left(\\frac{5}{u^8}\\right)}^4=\\frac{5^4}{{\\left(u^8\\right)}^4}=\\frac{625}{u^{8\\times4}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

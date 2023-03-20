@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "The Least Common Denominator",
         "text": "Find the LCD.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "The Least Common Denominator",
         "text": "What is the LCD?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h3",
@@ -29,8 +31,9 @@
             "a61c721rational17a-h2"
         ],
         "title": "Common Denominator",
-        "text": "Multiply each expression by the appropriate form of 1 to obtain xy as the denominator for each fraction.",
-        "variabilization": {}
+        "text": "Multiply each expression by the appropriate form of $$1$$ to obtain xy as the denominator for each fraction.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Common Denominator",
         "text": "What is the first fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Common Denominator",
         "text": "What is the second fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Adding Fractions",
         "text": "Now that the expressions have the same denominator, we simply add the numerators to find the sum.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational17a-h7",
@@ -85,6 +91,7 @@
         ],
         "title": "Adding Fractions",
         "text": "What is the final fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

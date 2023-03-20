@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Decompose",
         "text": "Use Fraction Multiplication: $$\\frac{30}{48} \\frac{a^5}{a^{10}} \\frac{b^{11}}{b^{14}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly8a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplify",
         "text": "What is $$\\frac{30}{48} \\frac{a^5}{a^{10}} \\frac{b^{11}}{b^{14}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly8a-s1",
@@ -33,7 +35,8 @@
         "dependencies": [],
         "title": "Simplify",
         "text": "What is $$\\frac{30}{48}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly8a-s2",
@@ -46,7 +49,8 @@
         "dependencies": [],
         "title": "Simplify",
         "text": "What is $$\\frac{a^5}{a^{10}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly8a-s3",
@@ -59,6 +63,7 @@
         "dependencies": [],
         "title": "Simplify",
         "text": "What is $$\\frac{b^{11}}{b^{14}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

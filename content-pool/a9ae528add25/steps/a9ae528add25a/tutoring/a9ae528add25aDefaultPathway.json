@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "To evaluate when $$n=4$$ means to substitute 4 for n, so we get the expression -(4).",
-        "variabilization": {}
+        "text": "To evaluate when $$n=4$$ means to substitute $$4$$ for $$n$$, so we get the expression $$-(4)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add25a-h2",
@@ -14,8 +15,9 @@
             "a9ae528add25a-h1"
         ],
         "title": "Evaluating",
-        "text": "-(4) means the opposite of 4.",
-        "variabilization": {}
+        "text": "$$-(4)$$ means the opposite of $$4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add25a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "a9ae528add25a-h2"
         ],
         "title": "Answer",
         "text": "What is the opposite of 4?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

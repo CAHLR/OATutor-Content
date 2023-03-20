@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing a System of Equations",
         "text": "Let c $$=$$ the number of children and a $$=$$ the number of adults in attendance. The total number of people is 2,000. Use this to write an equation for the number of people at the circus that day.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Writing a System of Equations",
         "text": "What is the equation to represent the number of people at the circus that day?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h3",
@@ -29,8 +31,9 @@
             "ab8b840systems10a-h2"
         ],
         "title": "Writing a System of Equations",
-        "text": "The revenue from all children can be found by multiplying $25.00 by the number of children, 25c. The revenue from all adults can be found by multiplying $50.00 by the number of adults, 50a.",
-        "variabilization": {}
+        "text": "The revenue from all children can be found by multiplying $$\\$25.00$$ by the number of children, 25c. The revenue from all adults can be found by multiplying $$\\$50.00$$ by the number of adults, 50a.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "70000"
+            "$$70000$$"
         ],
         "dependencies": [
             "ab8b840systems10a-h3"
         ],
         "title": "Writing a System of Equations",
         "text": "What is the total revenue?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h5",
@@ -54,8 +58,9 @@
             "ab8b840systems10a-h4"
         ],
         "title": "Writing a System of Equations",
-        "text": "We now have a system of linear equations in two variables. In the first equation, the coefficient of both variables is 1. We can quickly solve the first equation for either c or a. We will solve for a.",
-        "variabilization": {}
+        "text": "We now have a system of linear equations in two variables. In the first equation, the coefficient of both variables is $$1$$. We can quickly solve the first equation for either c or a. We will solve for a.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Writing a System of Equations",
         "text": "Rewrite the first equation. What is a equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute the expression 2,000-c in the second equation for a and solve for c.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Isolating Variables",
         "text": "Solve for c in $$25c+\\operatorname{50}\\left(2000-c\\right)=70000$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h9",
@@ -98,14 +106,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12000"
+            "$$12000$$"
         ],
         "dependencies": [
             "ab8b840systems10a-h8"
         ],
         "title": "Isolating Variables",
         "text": "What is c equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h10",
@@ -115,7 +124,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute $$c=1, 200$$ into the first equation to solve for a.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h11",
@@ -123,14 +133,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "800"
+            "$$800$$"
         ],
         "dependencies": [
             "ab8b840systems10a-h10"
         ],
         "title": "Isolating Variables",
         "text": "What is a equal to in $$1200+a=2000$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems10a-h12",
@@ -139,7 +150,8 @@
             "ab8b840systems10a-h11"
         ],
         "title": "Solving a System of Equations in Two Variables by Substitution",
-        "text": "We find that 1,200 children and 800 adults bought tickets to the circus that day.",
-        "variabilization": {}
+        "text": "We find that 1,200 children and $$800$$ adults bought tickets to the circus that day.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

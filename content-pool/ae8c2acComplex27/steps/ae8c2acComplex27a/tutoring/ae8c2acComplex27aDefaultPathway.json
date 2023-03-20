@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Rules",
         "text": "Remember the acronym, FOIL, which says to multiply the First, Outer, Inner, and Last terms to multiply the two expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex27a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring Rules",
         "text": "What will our expression look like after using FOIL?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex27a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Squaring i",
         "text": "If $$i^2=-1$$, what will $$64+16i-16i-4i^2$$ be when we simplify i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex27a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Like Terms",
         "text": "Combining like terms in $$64+4+16i-16i$$, what do we get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex27a-h5",
@@ -58,13 +62,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "68"
+            "$$68$$"
         ],
         "dependencies": [
             "ae8c2acComplex27a-h4"
         ],
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

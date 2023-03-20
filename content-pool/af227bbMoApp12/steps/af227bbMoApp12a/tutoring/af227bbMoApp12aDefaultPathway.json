@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "There are three known quantities, 70 ft, 5, and 2.",
-        "variabilization": {}
+        "text": "There are three known quantities, $$70$$ ft, $$5$$, and $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "The unknown quantities are the dimensions and the area of the game room.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h3",
@@ -24,8 +26,9 @@
             "af227bbMoApp12a-h2"
         ],
         "title": "Assign a variable",
-        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the game room equal to x.",
-        "variabilization": {}
+        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the game room equal to $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h4",
@@ -39,8 +42,9 @@
             "af227bbMoApp12a-h3"
         ],
         "title": "Express other quantities",
-        "text": "What is the length of the game room in terms of x?",
-        "variabilization": {}
+        "text": "What is the length of the game room in terms of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Using the perimeter formula",
         "text": "First, we should use the perimeter formula $$P=2L+2W$$ to find the dimensions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h6",
@@ -64,8 +69,9 @@
             "af227bbMoApp12a-h5"
         ],
         "title": "Using the perimeter formula",
-        "text": "What is the mathematical form of \"a game room has a perimeter of 70 ft\"?",
-        "variabilization": {}
+        "text": "What is the mathematical form of \"a game room has a perimeter of $$70$$ ft\"?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h7",
@@ -73,14 +79,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "af227bbMoApp12a-h6"
         ],
         "title": "Simplify and Solve",
-        "text": "Solve the equation we write. What is x?",
-        "variabilization": {}
+        "text": "Solve the equation we write. What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "af227bbMoApp12a-h7"
         ],
         "title": "Calculate the other quantity",
         "text": "What is $$2x+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h9",
@@ -105,7 +113,8 @@
         ],
         "title": "Using the area formula",
         "text": "The standard formula for area is $$A=LW$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h10",
@@ -113,14 +122,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "250"
+            "$$250$$"
         ],
         "dependencies": [
             "af227bbMoApp12a-h9"
         ],
         "title": "Substitute",
         "text": "What is $$10\\times25$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp12a-h11",
@@ -129,7 +139,8 @@
             "af227bbMoApp12a-h10"
         ],
         "title": "Explain the solution",
-        "text": "The area of the game room is 250 $${ft}^2$$, so 250 ft ** 2 of new carpeting should be ordered.",
-        "variabilization": {}
+        "text": "The area of the game room is $$250$$ $${ft}^2$$, so $$250$$ ft ** $$2$$ of new carpeting should be ordered.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Domain Restrictions",
         "text": "There are no restrictions on the domain, as any real number may be cubed and then subtracted from the result.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain8a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "The domain is $$(-\\infty,\\infty)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

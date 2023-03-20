@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Define the Domain",
         "text": "A rational function is undefined when the denominator is equal to zero. So, let's start by setting the denominator equal to zero. In addition, this function also contains a square root in the numerator which is undefined when the expression under the square root is negative, so we can set the numerator greater than or equal to zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain29a-h2",
@@ -13,22 +14,24 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "aeb11eedomain29a-h1"
         ],
         "title": "Solving For the Denominator",
-        "text": "What is x for $$x-4=0$$?",
+        "text": "What is $$x$$ for $$x-4=0$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aeb11eedomain29a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Solving For the Denominator",
-                "text": "For $$x-4=0$$, add 4 to both sides, and $$x=4$$.",
-                "variabilization": {}
+                "text": "For $$x-4=0$$, add $$4$$ to both sides, and $$x=4$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -44,8 +47,9 @@
             "aeb11eedomain29a-h1"
         ],
         "title": "Solving For the Numerator",
-        "text": "What is x for $$\\sqrt{x+4} \\geq 0$$?",
+        "text": "What is $$x$$ for $$\\sqrt{x+4} \\geq 0$$?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$x \\geq -4$$",
             "$$x \\leq -4$$",
@@ -58,8 +62,9 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Solving For the Numerator",
-                "text": "Set the expression under the numerator greater than or equal to 0, and subtract 4 to both sides. $$x \\geq -4$$.",
-                "variabilization": {}
+                "text": "Set the expression under the numerator greater than or equal to $$0$$, and subtract $$4$$ to both sides. $$x \\geq -4$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -71,7 +76,8 @@
             "aeb11eedomain29a-h3"
         ],
         "title": "Answer",
-        "text": "So, the function is defined for every value greater than or equal to -4 other than 4.The domain of the function is $$[-4,4) \\cup (4,\\infty)$$, with the circle brackets denoting the fact that 4 is not a valid solution, and the U showing that values within the intervals are solutions.",
-        "variabilization": {}
+        "text": "So, the function is defined for every value greater than or equal to $$-4$$ other than 4.The domain of the function is $$[-4,4) \\cup (4,\\infty)$$, with the circle brackets denoting the fact that $$4$$ is not a valid solution, and the U showing that values within the intervals are solutions.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

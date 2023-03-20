@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Eliminant the row and column that contains a1",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Principle",
         "text": "Calculate the 2x2 matrix",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Calculation",
         "text": "Subtract the products of the diagonals",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant4a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a8d511eDeterminant4a-h3"
         ],
         "title": "Calculation",
         "text": "What is $$2\\times3-\\left(-1\\right) \\left(-3\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Formula",
         "text": "The pattern of perfect square $$=$$ $$a^2+2ab+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h2"
         ],
         "title": "Identification",
         "text": "$$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14x"
+            "$$14x$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h3"
         ],
         "title": "Identification",
         "text": "What is 2ab?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h5",
@@ -59,8 +63,9 @@
             "ada10e6CompletingSqr16a-h4"
         ],
         "title": "Substitution",
-        "text": "With the known a and 2ab, b can be calculated",
-        "variabilization": {}
+        "text": "With the known a and 2ab, $$b$$ can be calculated",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h5"
         ],
         "title": "Calculation",
         "text": "$$b=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h6"
         ],
         "title": "Calculation",
-        "text": "$$2x b=14x$$, what is b?",
-        "variabilization": {}
+        "text": "$$2x b=14x$$, what is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h8",
@@ -98,14 +105,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h7"
         ],
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h9",
@@ -113,14 +121,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr16a-h8"
         ],
         "title": "Squaring",
         "text": "What is $$7^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr16a-h10",
@@ -130,6 +139,7 @@
         ],
         "title": "Principle",
         "text": "Recall that $$a^2+2ab+b^2={\\left(a+b\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

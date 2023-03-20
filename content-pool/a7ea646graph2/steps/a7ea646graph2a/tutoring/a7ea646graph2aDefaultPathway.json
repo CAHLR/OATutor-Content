@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "How to Factor",
         "text": "First, factor by grouping.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph2a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Result of Factoring",
         "text": "What is the result after factoring by grouping? $$f(x)=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Continued Factoring",
         "text": "Next, factor out the difference of squares.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph2a-h4",
@@ -39,7 +42,8 @@
             "a7ea646graph2a-h3"
         ],
         "title": "Solving for Zeros",
-        "text": "Finally, set each factor to 0 and solve for x.",
-        "variabilization": {}
+        "text": "Finally, set each factor to $$0$$ and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

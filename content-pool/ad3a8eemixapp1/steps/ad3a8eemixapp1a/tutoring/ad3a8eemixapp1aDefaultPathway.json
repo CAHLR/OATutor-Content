@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Write a mathematical equation",
-        "text": "The first step is to express the number of pounds of raisins and nuts in the 10 pounds of trail mix as a mathematical expression.",
-        "variabilization": {}
+        "text": "The first step is to express the number of pounds of raisins and nuts in the $$10$$ pounds of trail mix as a mathematical expression.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10-x"
+            "$$10-x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp1a-h1"
         ],
         "title": "Assigning variables",
-        "text": "Let the number of pounds of raisins be x. How can you express the number of pounds of nuts as a mathematical expression?",
-        "variabilization": {}
+        "text": "Let the number of pounds of raisins be $$x$$. How can you express the number of pounds of nuts as a mathematical expression?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Writing a mathematical expression",
         "text": "The next step is to express the total price as a mathematical expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Total value for raisins",
         "text": "How would you express the total value for raisins?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Total value for nuts",
         "text": "How would you express the total value for nuts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Total value of trail mix",
         "text": "How would you express the total value of the trail mix?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Combining the values",
         "text": "We can combine our mathematical expressions into $$2x+6\\left(10-x\\right)=10\\times5.2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h8",
@@ -93,9 +100,10 @@
         "dependencies": [
             "ad3a8eemixapp1a-h7"
         ],
-        "title": "Solve for x",
-        "text": "The next step is to solve for x",
-        "variabilization": {}
+        "title": "Solve for $$x$$",
+        "text": "The next step is to solve for $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h9",
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp1a-h8"
         ],
         "title": "Finding pounds for raisins",
         "text": "What did variable did we use for raisins?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp1a-h10",
@@ -118,13 +127,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10-x"
+            "$$10-x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp1a-h9"
         ],
         "title": "Finding pounds for nuts",
         "text": "What mathematical expression did we use for nuts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

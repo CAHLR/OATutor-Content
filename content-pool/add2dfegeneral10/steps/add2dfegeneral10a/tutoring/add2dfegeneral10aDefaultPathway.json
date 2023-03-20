@@ -11,6 +11,7 @@
         "title": "Is there a greatest common factor?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -23,8 +24,9 @@
             "add2dfegeneral10a-h1"
         ],
         "title": "GCF",
-        "text": "Factor out the greatest common factor 5",
-        "variabilization": {}
+        "text": "Factor out the greatest common factor $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral10a-h3",
@@ -40,6 +42,7 @@
         "title": "Is the polynomial a binomial, trinomial, or are there more than three terms?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -54,7 +57,8 @@
         ],
         "title": "Binomial",
         "text": "Since it's a binomial, check to see whether the expression is a sum or difference.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral10a-h5",
@@ -64,7 +68,8 @@
         ],
         "title": "Difference of cubes",
         "text": "$$a^3-b^3=\\left(a-b\\right) \\left(a^2+ab+b^2\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral10a-h6",
@@ -74,6 +79,7 @@
         ],
         "title": "Check",
         "text": "Is it factored completely? Do the factors multiply back to the original polynomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

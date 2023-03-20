@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Largest Perfect Square",
         "text": "You must first identify the largest perfect square factor of the numbers inside the radicals.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical15a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "aaff50dradical15a-h1"
         ],
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the number inside the radical in the numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical15a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "aaff50dradical15a-h2"
         ],
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the number inside the radical in the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical15a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Rewriting the Radical",
         "text": "You must now rewrite the radical as the quotient of two radicals. Both of these radicals must include the perfect squares.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical15a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Rewriting the Radical",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical15a-h6",
@@ -75,6 +80,7 @@
         ],
         "title": "Simplfying the Radicals",
         "text": "What is the result after simplifying both square roots?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

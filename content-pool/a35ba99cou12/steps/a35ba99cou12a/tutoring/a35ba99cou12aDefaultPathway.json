@@ -3,9 +3,10 @@
         "id": "a35ba99cou12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formula for Permutations of n Distinct Objects",
+        "title": "Formula for Permutations of $$n$$ Distinct Objects",
         "text": "Substitute $$n=12$$ and $$r=9$$ into the permutation formula: P(n,r)=n!/(n-r)!.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitute",
         "text": "P(12,9)=12!/(12-9)!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Simplify",
         "text": "P(12,9)=12!/3!=79833600",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou12a-h4",
@@ -34,7 +37,8 @@
             "a35ba99cou12a-h3"
         ],
         "title": "Permutations",
-        "text": "There are 79833600 possible permutations of exam questions.",
-        "variabilization": {}
+        "text": "There are $$79833600$$ possible permutations of exam questions.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

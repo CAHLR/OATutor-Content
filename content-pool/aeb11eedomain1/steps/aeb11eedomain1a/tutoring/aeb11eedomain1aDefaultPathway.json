@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Input Values",
         "text": "The first step is to identify the input values.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Input Value Definition",
         "text": "An input value is the first coordinate in an ordered pair.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Identifying Restrictions",
         "text": "There are no restrictions, since the ordered pairs are simply listed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain1a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Domain Definition",
         "text": "The domain is the first set of coordinates in the ordered pairs.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

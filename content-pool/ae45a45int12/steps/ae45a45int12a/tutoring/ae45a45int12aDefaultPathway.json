@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "64"
+            "$$64$$"
         ],
         "dependencies": [],
         "title": "Exponential",
         "text": "What is $$2^6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int12a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Principle",
         "text": "Negative number with even expoential term results in positive number",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

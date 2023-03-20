@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewrite fraction as a multiplication",
         "text": "Rewrite as the product of the first times the reciprocal of the second",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply and simplify",
         "text": "Multiply and look to factor out common factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions20a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the answer if applicable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

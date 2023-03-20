@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Conjugate",
         "text": "If the number is in the form $$a+bi$$, then the conjugate is a-bi",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex23b-h2",
@@ -14,8 +15,9 @@
             "a9cf449complex23b-h1"
         ],
         "title": "What is a?",
-        "text": "Think of a to be 0, so we get our expression as $$0-\\frac{1}{2} i$$.",
-        "variabilization": {}
+        "text": "Think of a to be $$0$$, so we get our expression as $$0-\\frac{1}{2} i$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex23b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Flip Sign",
         "text": "Now just flip the sign of the expression as it is already in the form $$a+bi$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Equation in Standard Form",
-        "text": "Since the equation is already in standard form, we can identify the a, b, and c values based on $$a x^2+b x+c=0$$.",
-        "variabilization": {}
+        "text": "Since the equation is already in standard form, we can identify the a, $$b$$, and c values based on $$a x^2+b x+c=0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a985d52Square20b-h2",
@@ -14,8 +15,9 @@
             "a985d52Square20b-h1"
         ],
         "title": "Plugging Into Quadratic Formula",
-        "text": "Write the quadratic formula. Then substitute in the value of a, b, and c.",
-        "variabilization": {}
+        "text": "Write the quadratic formula. Then substitute in the value of a, $$b$$, and c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a985d52Square20b-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "3 and -6"
+            "$$3$$ and $$-6$$"
         ],
         "dependencies": [
             "a985d52Square20b-h2"
@@ -31,11 +33,12 @@
         "title": "Isolating the Variable",
         "text": "Simplify the fraction and solve for the variable. What are the value(s) of the variable?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "3 and -6",
-            "4 and 2",
-            "3 and 5",
-            "-2 and 6"
+            "$$3$$ and $$-6$$",
+            "$$4$$ and $$2$$",
+            "$$3$$ and $$5$$",
+            "$$-2$$ and $$6$$"
         ]
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determining the Sign",
         "text": "The first step is to find the sign of the product. Since the signs are the different, the product is negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplying",
         "text": "The next step is to multiply the two numerators and the two demoninators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "80"
+            "$$80$$"
         ],
         "dependencies": [
             "ab3c11fVisualize7a-h2"
         ],
         "title": "Multiplying the Numerators",
         "text": "What is $$10\\times8$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "420"
+            "$$420$$"
         ],
         "dependencies": [
             "ab3c11fVisualize7a-h2"
         ],
         "title": "Multiplying the Denominators",
         "text": "What is $$28\\times15$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h5",
@@ -56,7 +60,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{-80}{420}$$. The next step is to simplify our answer if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h6",
@@ -72,6 +77,7 @@
         "title": "Checking for Common Factors",
         "text": "Is $$\\frac{-80}{420}$$ already in its simplest form?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "ab3c11fVisualize7a-h6"
         ],
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h9",
@@ -108,14 +116,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ab3c11fVisualize7a-h8"
         ],
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{80}{20}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h10",
@@ -123,14 +132,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "21"
+            "$$21$$"
         ],
         "dependencies": [
             "ab3c11fVisualize7a-h8"
         ],
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{420}{20}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize7a-h11",
@@ -141,6 +151,7 @@
         ],
         "title": "Final Answer",
         "text": "So $$\\frac{-4}{21}$$ is our final answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

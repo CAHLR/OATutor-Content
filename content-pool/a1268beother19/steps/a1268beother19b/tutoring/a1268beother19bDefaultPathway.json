@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Requirement of Absolute Value",
         "text": "Absolute Value is always positive.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a1268beother19b-h1"
         ],
-        "title": "Classifying -9",
-        "text": "-9 is a negative number.",
-        "variabilization": {}
+        "title": "Classifying $$-9$$",
+        "text": "$$-9$$ is a negative number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19b-h3",
@@ -26,6 +28,7 @@
         ],
         "title": "Answer",
         "text": "There is no solution if an expression inside absolute value is equated to a negative number, because absolute values cannot be negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

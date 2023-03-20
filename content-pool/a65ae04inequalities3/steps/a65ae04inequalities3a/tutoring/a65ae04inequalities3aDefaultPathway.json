@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write the equivalent equations using the formula. If $$|x|=a$$, then $$u=-a$$ and $$u=a$$. If $$|x|=-a$$, then there is no solution.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities3a-h2",
@@ -14,7 +15,8 @@
             "a65ae04inequalities3a-h1"
         ],
         "title": "Answer",
-        "text": "The answer is $$x=0$$ as 0 is neither positive or negative, and therefore has no sign.",
-        "variabilization": {}
+        "text": "The answer is $$x=0$$ as $$0$$ is neither positive or negative, and therefore has no sign.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Solving for Rate of Growth, k",
         "text": "We previously solve for g where $$g=e^{5k}$$. We can use this equation to obtain k.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog26b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving for Rate of Growth, k",
         "text": "Take natural log on both sides.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog26b-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.06811"
+            "$$0.06811$$"
         ],
         "dependencies": [
             "af69facexpolog26b-h2"
         ],
         "title": "Solving for Rate of Growth, k",
-        "text": "Divide by 5 on both sides. What is k? Round to six decimal places.",
-        "variabilization": {}
+        "text": "Divide by $$5$$ on both sides. What is k? Round to six decimal places.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog26b-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Exponential Growth Model",
         "text": "Now that we've found $$A_0$$ and k, substitute them into the growth model, $$y=A_0 e^{k t}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

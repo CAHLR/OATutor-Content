@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify",
         "text": "We are looking for the age of each sister.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications4a-h2",
@@ -14,8 +15,9 @@
             "a9ad3f8applications4a-h1"
         ],
         "title": "First equation",
-        "text": "Since the sisters ages together are 44, we can write the first equation as $$a+b=44$$",
-        "variabilization": {}
+        "text": "Since the sisters ages together are $$44$$, we can write the first equation as $$a+b=44$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Second equation",
         "text": "Since Alyssa is twelve years older than her sister, we can write the second equatiion as $$a=b+12$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications4a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "28"
+            "$$28$$"
         ],
         "dependencies": [
             "a9ad3f8applications4a-h3"
         ],
         "title": "Solve",
         "text": "Next, using the system of equations just created, solve for a. What does it equal?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications4a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a9ad3f8applications4a-h4"
         ],
         "title": "Solve",
-        "text": "What does b equal?",
-        "variabilization": {}
+        "text": "What does $$b$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications4a-h6",
@@ -64,7 +69,8 @@
             "a9ad3f8applications4a-h5"
         ],
         "title": "Answer",
-        "text": "Alyssa is 28 while Bethany is 16.",
-        "variabilization": {}
+        "text": "Alyssa is $$28$$ while Bethany is $$16$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Let $$x=0$$",
         "text": "Set $$x=0$$ and begin solving the equation. The remaining portion of the equation is $$y=12$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts5b-h2",
@@ -14,8 +15,9 @@
             "aafbadeintercepts5b-h1"
         ],
         "title": "Interpret",
-        "text": "After substituting x, we find that $$y=12$$. Therefore, the x coordinate when $$x=0$$ is $$y=12$$.",
-        "variabilization": {}
+        "text": "After substituting $$x$$, we find that $$y=12$$. Therefore, the $$x$$ coordinate when $$x=0$$ is $$y=12$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts5b-h3",
@@ -24,7 +26,8 @@
             "aafbadeintercepts5b-h2"
         ],
         "title": "Answer",
-        "text": "The answer is (0,12).",
-        "variabilization": {}
+        "text": "The answer is $$(0,12)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

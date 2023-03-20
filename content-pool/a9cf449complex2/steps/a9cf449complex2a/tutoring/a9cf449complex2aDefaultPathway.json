@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Standard Form Definition",
         "text": "The standard form of an imaginary number $$\\sqrt{-a}$$ is $$\\sqrt{a} i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex2a-h2",
@@ -14,8 +15,9 @@
             "a9cf449complex2a-h1"
         ],
         "title": "Rewriting the Expression as a Product",
-        "text": "The first step is to rewrite the expression as a product of the square root of -1 and the square root of another value.",
-        "variabilization": {}
+        "text": "The first step is to rewrite the expression as a product of the square root of $$-1$$ and the square root of another value.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rewriting the Expression as a Product",
         "text": "The expression, $$\\sqrt{-24}$$, can be rewritten as $$\\sqrt{-1} \\sqrt{24}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex2a-h4",
@@ -33,7 +36,8 @@
         "dependencies": [],
         "title": "Definition of i",
         "text": "i represents $$\\sqrt{-1}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex2a-h5",
@@ -46,9 +50,10 @@
         "dependencies": [
             "a9cf449complex2a-h3"
         ],
-        "title": "Square Root of 24",
+        "title": "Square Root of $$24$$",
         "text": "What is $$\\sqrt{24}$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2\\sqrt{6}$$",
             "$$2\\sqrt{3}$$",

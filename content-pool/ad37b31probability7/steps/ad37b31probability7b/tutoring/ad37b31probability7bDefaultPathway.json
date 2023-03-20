@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Complement Rule",
         "text": "We have already found the probability of the complement of this event. Use the complement rule to calculate your answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability7b-h2",
@@ -14,7 +15,8 @@
             "ad37b31probability7b-h1"
         ],
         "title": "Complement Rule",
-        "text": "We can simply subtract $$\\frac{1}{12}$$ from 1 to find the probability that the sum of the numbers rolled is greater than 3.",
-        "variabilization": {}
+        "text": "We can simply subtract $$\\frac{1}{12}$$ from $$1$$ to find the probability that the sum of the numbers rolled is greater than $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

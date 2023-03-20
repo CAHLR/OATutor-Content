@@ -3,9 +3,10 @@
         "id": "a9e42b3CompInv25a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Interchange the variables x and y",
-        "text": "Replace x with y and then y with x.",
-        "variabilization": {}
+        "title": "Interchange the variables $$x$$ and $$y$$",
+        "text": "Replace $$x$$ with $$y$$ and then $$y$$ with $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv25a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a9e42b3CompInv25a-h1"
         ],
-        "title": "What's the equation after replacing x with y and y with x",
-        "text": "x $$=$$ 9y",
-        "variabilization": {}
+        "title": "What's the equation after replacing $$x$$ with $$y$$ and $$y$$ with $$x$$",
+        "text": "$$x$$ $$=$$ $$9y$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv25a-h3",
@@ -23,8 +25,9 @@
         "dependencies": [
             "a9e42b3CompInv25a-h2"
         ],
-        "title": "Solve for y",
-        "text": "Given x $$=$$ 9y, we can solve for y. We can isolate y on one side by dividing 9 on both sides which gives $$y=\\frac{1}{9} x$$. Therefore the final answer is $$y=\\frac{1}{9} x$$.",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Given $$x$$ $$=$$ $$9y$$, we can solve for $$y$$. We can isolate $$y$$ on one side by dividing $$9$$ on both sides which gives $$y=\\frac{1}{9} x$$. Therefore the final answer is $$y=\\frac{1}{9} x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

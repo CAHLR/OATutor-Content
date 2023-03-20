@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Rules",
         "text": "When we have an exponent to the power of something, we can multiply the two exponent terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ade3dRadicals3a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplifying Expression",
         "text": "If we factor the terms, what will our answer be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

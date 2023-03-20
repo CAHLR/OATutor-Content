@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "There are 3 known quantities, 30 min, 10 min and 10 $$\\frac{mi}{h}$$.",
-        "variabilization": {}
+        "text": "There are $$3$$ known quantities, $$30$$ min, $$10$$ min and $$10$$ $$\\frac{mi}{h}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "There are four unknown quantities, the speed Andrew drives in the morning, the speed he drives when he goes home, the distance he drives in the morning and that in the evening.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h3",
@@ -24,8 +26,9 @@
             "af227bbMoApp7a-h2"
         ],
         "title": "Assign a variable",
-        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the speed Andrew drives in the morning and let it equal r.",
-        "variabilization": {}
+        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the speed Andrew drives in the morning and let it equal $$r$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "r-10"
+            "$$r-10$$"
         ],
         "dependencies": [
             "af227bbMoApp7a-h3"
         ],
         "title": "Express other quantities",
-        "text": "If the speed Andrew drives in the morning is r, what is the speed in the evening?",
-        "variabilization": {}
+        "text": "If the speed Andrew drives in the morning is $$r$$, what is the speed in the evening?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h5",
@@ -54,8 +58,9 @@
             "af227bbMoApp7a-h4"
         ],
         "title": "Express other quantities",
-        "text": "How far does Andrew drive to work in the morning in terms of r?",
-        "variabilization": {}
+        "text": "How far does Andrew drive to work in the morning in terms of $$r$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Express other quantities",
         "text": "How far does Andrew drive home in the evening in terms of his speed in the evening?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "Translation to Math Operations",
         "text": "The only thing we can translated into a equation is the distance between Andrew's home and workplace remains unchanged in a day.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "Translation to Math Operations",
         "text": "What is the mathmatical form of the distance both trips covering is the same.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h9",
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "40"
+            "$$40$$"
         ],
         "dependencies": [
             "af227bbMoApp7a-h8"
         ],
         "title": "Simplify and Solve",
-        "text": "Solve the equation we write. What is r?",
-        "variabilization": {}
+        "text": "Solve the equation we write. What is $$r$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h10",
@@ -118,14 +127,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "af227bbMoApp7a-h9"
         ],
         "title": "Calculate the target quantity",
         "text": "What is $$r \\frac{1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp7a-h11",
@@ -134,7 +144,8 @@
             "af227bbMoApp7a-h10"
         ],
         "title": "Explaine the solution",
-        "text": "Andrew dirve at the speed of 40 $$\\frac{mi}{h}$$ in the morning, and it takes him 30 mins to drive to work, so it is 20 miles between his home and work.",
-        "variabilization": {}
+        "text": "Andrew dirve at the speed of $$40$$ $$\\frac{mi}{h}$$ in the morning, and it takes him $$30$$ mins to drive to work, so it is $$20$$ miles between his home and work.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

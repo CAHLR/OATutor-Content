@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "LCD",
         "text": "Find the common denominator in both the numerator and denominator. Multiply both the numerator and denominator by the LCD. Simplify. You should now have one rational expression each in the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression, finding one number in the numerator and one in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions12a-h3",
@@ -24,7 +26,8 @@
             "add17b3fractions12a-h2"
         ],
         "title": "Answer",
-        "text": "The answer is 3.",
-        "variabilization": {}
+        "text": "The answer is $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -3,9 +3,10 @@
         "id": "a9e42b3CompInv18a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reverse functions definition",
+        "title": "Inverse functions definition",
         "text": "The functions are inverses of each other if $$g((f(x))=x$$ and $$g(f(x))=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h2",
@@ -14,8 +15,9 @@
             "a9e42b3CompInv18a-h1"
         ],
         "title": "Substitute $$2x+6$$ for f(x)",
-        "text": "Check if $$g{\\left(2x+6\\right)}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "Check if $$g{\\left(2x+6\\right)}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a9e42b3CompInv18a-h2"
         ],
-        "title": "Find $$g{\\left(2x+6\\right)}$$ where g(x) $$=$$ (x-6)/ 2",
+        "title": "Find $$g{\\left(2x+6\\right)}$$ where g(x) $$=$$ (x-6)/ $$2$$",
         "text": "$$\\frac{2x+6-6}{2}$$ $$=$$ $$\\frac{2x}{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h4",
@@ -34,8 +37,9 @@
             "a9e42b3CompInv18a-h3"
         ],
         "title": "Simplify",
-        "text": "$$\\frac{2x}{x}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "$$\\frac{2x}{x}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h5",
@@ -43,9 +47,10 @@
         "dependencies": [
             "a9e42b3CompInv18a-h4"
         ],
-        "title": "Substitute (x-6)/ 2 for g(x)",
-        "text": "Check if $$f{\\left(\\frac{x-6}{2}\\right)}$$ $$=$$ x",
-        "variabilization": {}
+        "title": "Substitute (x-6)/ $$2$$ for g(x)",
+        "text": "Check if $$f{\\left(\\frac{x-6}{2}\\right)}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Find $$f{\\left(\\frac{x-6}{2}\\right)}$$ where $$f(x)=2x+6$$",
         "text": "$$f{\\left(\\frac{x-6}{2}\\right)}=2\\left(\\frac{x-6}{2}\\right)+6=$$ $$x+6-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv18a-h7",
@@ -65,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$f{\\left(\\frac{x-6}{2}\\right)}=x+6-6$$ $$=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Distributive Property",
-        "text": "If a, b, c are real numbers, then $$a \\left(b+c\\right)=a b+a c$$.",
-        "variabilization": {}
+        "text": "If a, $$b$$, c are real numbers, then $$a \\left(b+c\\right)=a b+a c$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Distribute",
         "text": "What do we get after distributing?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties25a-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "Multiply",
         "text": "What do we get after simplifying the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

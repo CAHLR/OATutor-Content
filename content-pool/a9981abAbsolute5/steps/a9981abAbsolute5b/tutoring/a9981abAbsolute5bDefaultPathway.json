@@ -3,9 +3,10 @@
         "id": "a9981abAbsolute5b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Setting x to zero",
-        "text": "To find the y-intercept of a function, we start by setting the x value to 0.",
-        "variabilization": {}
+        "title": "Setting $$x$$ to zero",
+        "text": "To find the y-intercept of a function, we start by setting the $$x$$ value to $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981abAbsolute5b-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "a9981abAbsolute5b-h1"
         ],
-        "title": "Solving for y",
+        "title": "Solving for $$y$$",
         "text": "What is $$\\frac{1}{2} |0+4|-3$$ equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

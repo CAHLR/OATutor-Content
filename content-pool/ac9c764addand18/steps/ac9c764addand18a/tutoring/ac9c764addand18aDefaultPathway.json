@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add",
         "text": "Add the numerators and place the sum over the common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand18a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Numerator",
         "text": "What do we get for the numerator after adding the two together?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand18a-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "Final Answer",
         "text": "What do we get after placing the sum over the common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

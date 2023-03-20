@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 4 for x and simplify the expression $$2\\left(4^2\\right)+3\\left(4\\right)+8$$.",
-        "variabilization": {}
+        "text": "Substitute $$4$$ for $$x$$ and simplify the expression $$2\\left(4^2\\right)+3\\left(4\\right)+8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use3a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a4d2b33use3a-h1"
         ],
         "title": "Exponent",
         "text": "What is $$4^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use3a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "32"
+            "$$32$$"
         ],
         "dependencies": [
             "a4d2b33use3a-h2"
         ],
         "title": "Multiplication",
         "text": "What is $$2\\left(4^2\\right)$$, giving that $$4^2$$ is 16?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use3a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a4d2b33use3a-h3"
         ],
         "title": "Multiplication",
         "text": "What is 3(4)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use3a-h5",
@@ -58,13 +62,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "52"
+            "$$52$$"
         ],
         "dependencies": [
             "a4d2b33use3a-h4"
         ],
         "title": "Addition",
         "text": "What is $$32+12+8$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

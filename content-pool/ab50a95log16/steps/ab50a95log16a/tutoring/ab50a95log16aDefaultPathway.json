@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Natural Log of Negative Numbers",
         "text": "You can never take the natural log of negative numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

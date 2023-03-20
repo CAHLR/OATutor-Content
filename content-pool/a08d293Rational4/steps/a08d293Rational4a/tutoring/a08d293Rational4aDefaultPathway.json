@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find denominator",
         "text": "What's the denominator of this expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08d293Rational4a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a08d293Rational4a-h1"
         ],
         "title": "Find radical",
         "text": "What's the relationship beweteen the index of radical and denominator ? Once that's clear, you can figure out the question easily!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

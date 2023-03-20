@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Value of the Account in the Equation",
         "text": "The value of the account is A.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

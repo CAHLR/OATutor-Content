@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Terminology - Sum",
         "text": "The word \"sum\" means that two numbers must be added",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int28a-h2",
@@ -19,11 +20,12 @@
             "ae45a45int28a-h1"
         ],
         "title": "Terminology - Sum",
-        "text": "What is the sum of 8 and -12, represented as an equation?",
+        "text": "What is the sum of $$8$$ and $$-12$$, represented as an equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$8+\\left(-12\\right)$$",
-            "(8-(-12))",
+            "$$(8-(-12))$$",
             "$$8\\left(-12\\right)$$",
             "$$\\frac{8}{\\left(-12\\right)}$$"
         ]
@@ -34,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "ae45a45int28a-h2"
         ],
         "title": "Terminology - Sum",
         "text": "What does $$8+\\left(-12\\right)$$ evaluate to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int28a-h4",
@@ -51,7 +54,8 @@
         ],
         "title": "Terminology - Increasing",
         "text": "The word \"increasing\" implies addition",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int28a-h5",
@@ -65,11 +69,12 @@
             "ae45a45int28a-h4"
         ],
         "title": "Terminology - Increasing",
-        "text": "What is -4 increased by 3, represented as an equation?",
+        "text": "What is $$-4$$ increased by $$3$$, represented as an equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(-4+3\\right)$$",
-            "(-4-3)",
+            "$$(-4-3)$$",
             "$$\\left(-4\\times3\\right)$$",
             "$$\\left(-\\frac{4}{3}\\right)$$"
         ]
@@ -80,13 +85,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "ae45a45int28a-h5"
         ],
         "title": "Terminology - Increasing",
         "text": "What does $$\\left(-4+3\\right)$$ evaluate to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

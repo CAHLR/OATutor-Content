@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Solving for one variable",
         "text": "The first step is to pick two equations and solve for one variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving for one variable",
         "text": "The next step is to pick another pair of equations and solve for the same variable",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Solving the resulting system of two equations",
         "text": "Using the resulting equations, sovle the system of two equations to find the values of those variables.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar9a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Back-substitution",
         "text": "Back-substitute the known variables into any one of the original equations and solve for the missing variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

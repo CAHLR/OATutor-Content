@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operation",
         "text": "Calculate the numerator and denominator first",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction7a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "The fraction becomes $$\\frac{\\left(-28\\right)}{\\left(-7\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction7a-h3",
@@ -21,7 +23,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The minus signs can be canceled out in multiplication or division",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction7a-h4",
@@ -29,6 +32,7 @@
         "dependencies": [],
         "title": "Division",
         "text": "Complete the division",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Use the FOIL method for multiplication",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly9b-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the first term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly9b-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the outer term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly9b-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the inner term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly9b-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-55"
+            "$$-55$$"
         ],
         "dependencies": [
             "a251a50MultiplyPoly9b-h4"
         ],
         "title": "Multiplication",
         "text": "What is the last term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly9b-h6",
@@ -75,6 +80,7 @@
         ],
         "title": "Principle",
         "text": "The terms with same degree of variables can add together",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

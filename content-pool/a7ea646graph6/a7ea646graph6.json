@@ -3,7 +3,8 @@
     "title": "Writing a Formula for a Polynomial Function from the Graph",
     "body": "Write a formula for the polynomial function in the graph.\\n##figure1.gif",
     "variabilization": {},
-    "oer": "https://www.openstax.org",
+    "oer": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "5.3 Graphs of Polynomial Functions",
     "courseName": "OpenStax: College Algebra"
 }

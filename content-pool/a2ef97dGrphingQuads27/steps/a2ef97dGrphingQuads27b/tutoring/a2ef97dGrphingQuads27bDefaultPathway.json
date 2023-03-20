@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Defining an y-intercept",
-        "text": "A y-intercept is the point where an equation hits the y-axis. This means the x-coordinate will be 0.",
-        "variabilization": {}
+        "text": "A y-intercept is the point where an equation hits the y-axis. This means the x-coordinate will be $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads27b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a2ef97dGrphingQuads27b-h1"
         ],
-        "title": "Plugging in 0",
-        "text": "Given the definition of a y-intercept, plug in 0 for x to solve for the y-value.",
-        "variabilization": {}
+        "title": "Plugging in $$0$$",
+        "text": "Given the definition of a y-intercept, plug in $$0$$ for $$x$$ to solve for the y-value.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads27b-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a2ef97dGrphingQuads27b-h2"
         ],
-        "title": "Solving for y",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "title": "Solving for $$y$$",
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

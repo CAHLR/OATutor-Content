@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying the Solution",
-        "text": "To isolate b, multiply both sides by the LCD, in this case, 8c.",
-        "variabilization": {}
+        "text": "To isolate $$b$$, multiply both sides by the LCD, in this case, 8c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplifying the Equation",
         "text": "Simplify both sides by reducing and eliminating the denominater under c.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions6a-h3",
@@ -24,8 +26,9 @@
             "a02e810proportions6a-h2"
         ],
         "title": "Divide",
-        "text": "Divide by 13 on both sides to isolate the variable.",
-        "variabilization": {}
+        "text": "Divide by $$13$$ on both sides to isolate the variable.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions6a-h4",
@@ -34,7 +37,8 @@
             "a02e810proportions6a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is 24.",
-        "variabilization": {}
+        "text": "The answer is $$24$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Conjugate Multiplication",
         "text": "Multiply the top and the bottom by the complex conjugate of the denominator:((2+5i)(4+i))/((4-i)(4+i)).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex24a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "17"
+            "$$17$$"
         ],
         "dependencies": [
             "a9cf449complex24a-h1"
         ],
         "title": "Denominator Result",
         "text": "Here we should get $$\\left(a+bi\\right) \\left(a-bi\\right)$$ on the denominator which simplifies to $$a^2+b^2$$. What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex24a-h3",
@@ -36,14 +38,16 @@
         "title": "Numerator result",
         "text": "What does the top simplify to?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9cf449complex24a-h3-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Powers of i",
-                "text": "Remember: $$i^2$$ is -1",
-                "variabilization": {}
+                "text": "Remember: $$i^2$$ is $$-1$$",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -61,6 +65,7 @@
         ],
         "title": "Split",
         "text": "Split the real and imaginary part. What do we get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

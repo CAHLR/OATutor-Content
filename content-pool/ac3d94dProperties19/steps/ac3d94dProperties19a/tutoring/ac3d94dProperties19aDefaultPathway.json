@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Inverse Property of Addition",
         "text": "For any real number a, -a is the additive inverse of a.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties19a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Additive Inverse",
         "text": "What is the additive inverse of $$\\frac{5}{8}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

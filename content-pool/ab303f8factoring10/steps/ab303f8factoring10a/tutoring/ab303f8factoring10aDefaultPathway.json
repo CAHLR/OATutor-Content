@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Check if the trinomial follows the pattern of $$a^2+2ab+b^2$$ or $$a^2-2ab+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring10a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "11m"
+            "$$11m$$"
         ],
         "dependencies": [
             "ab303f8factoring10a-h1"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$64y^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring10a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ab303f8factoring10a-h2"
         ],
         "title": "Square Roots",
         "text": "What is the square root of 9?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring10a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$\\left(11m-1\\right) \\left(11m+1\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

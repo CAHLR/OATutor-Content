@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2y"
+            "$$2y$$"
         ],
         "dependencies": [],
         "title": "Common Factor",
         "text": "What is the common factor of the polynomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factor",
         "text": "Factor out the GCF.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Standard form of a trinomial",
         "text": "Check if the trinomial follows the pattern of $$a^2+2ab+b^2$$ or $$a^2-2ab+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x"
+            "$$2x$$"
         ],
         "dependencies": [
             "ab303f8factoring8a-h4"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$4x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h6",
@@ -63,14 +68,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ab303f8factoring8a-h5"
         ],
         "title": "Square Roots",
         "text": "What is the square root of 9?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring8a-h7",
@@ -80,6 +86,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$2{y\\left(2x-3\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

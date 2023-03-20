@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use focus",
         "text": "The endpoints of the latus rectum have the same x-coordinate at the focus.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola5a-h2",
@@ -13,18 +14,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(6,12) and (6,-12)"
+            "$$(6,12)$$ and $$(6,-12)$$"
         ],
         "dependencies": [
             "a0351f0parabola5a-h1"
         ],
         "title": "Plug in",
-        "text": "Plug x $$=6$$ into the original equation to find the y coordinates of the endpoints of the equation. Submit your answer as 2 coordinate pairs.",
+        "text": "Plug $$x$$ $$=6$$ into the original equation to find the $$y$$ coordinates of the endpoints of the equation. Submit your answer as $$2$$ coordinate pairs.",
         "variabilization": {},
+        "oer": "",
         "choices": [
-            "(6,12) and (6,-12)",
-            "(6,11) and (6,-11)",
-            "(6,10) and (6,-10)"
+            "$$(6,12)$$ and $$(6,-12)$$",
+            "$$(6,11)$$ and $$(6,-11)$$",
+            "$$(6,10)$$ and $$(6,-10)$$"
         ],
         "subHints": [
             {
@@ -32,8 +34,9 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is (6,12) and (6,-12).",
-                "variabilization": {}
+                "text": "The answer is $$(6,12)$$ and $$(6,-12)$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -44,7 +47,8 @@
             "a0351f0parabola5a-h2"
         ],
         "title": "Answer",
-        "text": "Therefore, the answer is (6,12) and (6,-12).",
-        "variabilization": {}
+        "text": "Therefore, the answer is $$(6,12)$$ and $$(6,-12)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

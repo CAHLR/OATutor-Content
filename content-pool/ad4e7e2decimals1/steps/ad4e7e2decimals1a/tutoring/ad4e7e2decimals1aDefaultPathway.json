@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Left Value",
         "text": "Name the number to the left of the decimal: four",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Decimal Point",
         "text": "Write \"and\" for the decimal point",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Right Value",
         "text": "Name the number to the right of the decimal: three",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals1a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Place Value",
         "text": "Name the place of the decimal: tenth",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

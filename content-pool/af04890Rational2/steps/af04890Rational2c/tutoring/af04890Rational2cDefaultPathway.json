@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The rational will be undefined when the $$denominator=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational2c-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "af04890Rational2c-h1"
         ],
-        "title": "Setting equal to 0",
+        "title": "Setting equal to $$0$$",
         "text": "Set the $$denominator=0$$, $$a^2+4a+3=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational2c-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Factoring",
         "text": "Factor the denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

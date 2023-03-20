@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the ratio of $$a_2$$ to $$a_1$$.",
         "text": "The ratio of the second term to the first term is $$\\frac{1.6}{0.8}=0.8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Find the ratio of $$a_3$$ to $$a_2$$.",
         "text": "The ratio of the third term to the second term is $$\\frac{1.28}{1.6}=0.8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Find the ratio of $$a_4$$ to $$a_3$$.",
         "text": "The ratio of the fourth term to the third term is $$\\frac{1.024}{1.28}=0.8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h4",
@@ -34,8 +37,9 @@
             "a57f999ser22a-h3"
         ],
         "title": "Determining if there is a Constant Ratio",
-        "text": "Since there is a common ratio of 0.8, the series is geometric.",
-        "variabilization": {}
+        "text": "Since there is a common ratio of $$0.8$$, the series is geometric.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h5",
@@ -51,6 +55,7 @@
         "title": "Confirm that $$-1<r<1$$",
         "text": "Is $$-1<0.8<1$$ True or False?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -64,7 +69,8 @@
         ],
         "title": "Sum of Infinite Geometric Series",
         "text": "Since $$-1<0.8<1$$ is T, then sum is defined.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h7",
@@ -72,9 +78,10 @@
         "dependencies": [
             "a57f999ser22a-h6"
         ],
-        "title": "Identify $$a_1$$ and r",
+        "title": "Identify $$a_1$$ and $$r$$",
         "text": "The first term is $$a_1=2$$ and $$r=0.8$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h8",
@@ -83,8 +90,9 @@
             "a57f999ser22a-h7"
         ],
         "title": "Formula for the Sum of an Infinite Geometric Series",
-        "text": "Substitute values for $$a_1$$ and r into the formula: $$S=\\frac{a_1}{1-r}$$.",
-        "variabilization": {}
+        "text": "Substitute values for $$a_1$$ and $$r$$ into the formula: $$S=\\frac{a_1}{1-r}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser22a-h9",
@@ -94,6 +102,7 @@
         ],
         "title": "Formula for the Sum of an Infinite Geometric Series",
         "text": "The formula of the sum is $$S=\\frac{2}{1-0.8}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

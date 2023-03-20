@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "52"
+            "$$52$$"
         ],
         "dependencies": [],
         "title": "Division",
         "text": "What is $$\\frac{52}{1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int10d-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Principle",
         "text": "A negative number divided by a negative number results in a positive value",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Expressions",
         "text": "Using the reciprocal of the second expression, rewrite as mutliplication of rational expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the first expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the second expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h7",
@@ -78,14 +84,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(6y-1)(4y-1)"
+            "$$(6y-1)(4y-1)$$"
         ],
         "dependencies": [
             "a61c721rational16a-h6"
         ],
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "Multiplying Expressions",
         "text": "Multilply numerators and denominators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h9",
@@ -110,7 +118,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h10",
@@ -125,7 +134,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h11",
@@ -135,7 +145,8 @@
         ],
         "title": "Common Factor",
         "text": "Cancel the common factors from the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational16a-h12",
@@ -150,6 +161,7 @@
         ],
         "title": "Common Factor",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

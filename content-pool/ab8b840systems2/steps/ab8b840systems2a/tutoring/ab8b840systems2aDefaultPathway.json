@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitution",
-        "text": "Substitute the ordered pair (8,5) into the 1st equation.",
-        "variabilization": {}
+        "text": "Substitute the ordered pair $$(8,5)$$ into the 1st equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems2a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "ab8b840systems2a-h1"
         ],
         "title": "Substitution",
-        "text": "What does 5(8)-4(5) equal?",
-        "variabilization": {}
+        "text": "What does $$5(8)-4(5)$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems2a-h3",
@@ -34,8 +36,9 @@
             "ab8b840systems2a-h2"
         ],
         "title": "Substitution",
-        "text": "Does 20 $$=$$ 20?",
+        "text": "Does $$20$$ $$=$$ 20?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"
@@ -48,8 +51,9 @@
             "ab8b840systems2a-h3"
         ],
         "title": "Substitution",
-        "text": "Substitute the ordered pair (8,5) into 2nd equation.",
-        "variabilization": {}
+        "text": "Substitute the ordered pair $$(8,5)$$ into 2nd equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems2a-h5",
@@ -57,14 +61,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "17"
+            "$$17$$"
         ],
         "dependencies": [
             "ab8b840systems2a-h4"
         ],
         "title": "Substitution",
         "text": "What does $$2\\left(8\\right)+1$$ equal?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems2a-h6",
@@ -80,6 +85,7 @@
         "title": "Substitution",
         "text": "Does 3(5) $$=$$ 17?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

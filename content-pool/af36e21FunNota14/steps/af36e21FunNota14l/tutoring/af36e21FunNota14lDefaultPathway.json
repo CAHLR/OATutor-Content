@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the input values",
-        "text": "When considering y as a function of x, the input variable is x.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the input variable is $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14l-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota14l-h1"
         ],
         "title": "Identify the output values",
-        "text": "When considering y as a function of x, the output variable is y.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the output variable is $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14l-h3",
@@ -24,7 +26,8 @@
             "af36e21FunNota14l-h2"
         ],
         "title": "Classify the relation",
-        "text": "Because each x only leads to one particular y, y is a function of x.",
-        "variabilization": {}
+        "text": "Because each $$x$$ only leads to one particular $$y$$, $$y$$ is a function of $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

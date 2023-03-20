@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "The first step is to subtract both equations from each other, eliminating y, then moving all terms to the left side of the equation.",
-        "variabilization": {}
+        "text": "The first step is to subtract both equations from each other, eliminating $$y$$, then moving all terms to the left side of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems27b-h2",
@@ -21,6 +22,7 @@
         "title": "Subtract and Simplify",
         "text": "After subtracting the two equations and bringing all terms to the left side, what equation do you have?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-\\left(x^2\\right)+4x-3$$",
             "$$x^2-4x+3$$",
@@ -36,7 +38,8 @@
         ],
         "title": "Factor",
         "text": "The next step is to factor the equation and set it equal to zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems27b-h4",
@@ -44,7 +47,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(x-1)(x-3)"
+            "$$(x-1)(x-3)$$"
         ],
         "dependencies": [
             "ac561a1systems27b-h3"
@@ -52,8 +55,9 @@
         "title": "Factor",
         "text": "What is the factored form of the equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(x-1)(x-3)",
+            "$$(x-1)(x-3)$$",
             "$$\\left(x+1\\right) \\left(x-3\\right)$$",
             "$$\\left(x-1\\right) \\left(x+3\\right)$$",
             "None of the Above"
@@ -66,8 +70,9 @@
             "ac561a1systems27b-h4"
         ],
         "title": "Solve",
-        "text": "Next, solve for x.",
-        "variabilization": {}
+        "text": "Next, solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems27b-h6",
@@ -81,8 +86,9 @@
             "ac561a1systems27b-h5"
         ],
         "title": "Substitute and Solve",
-        "text": "Next, plug $$x=1$$ and $$x=3$$ into either of the original equations. Solve for y in both cases. What are the values of y?",
+        "text": "Next, plug $$x=1$$ and $$x=3$$ into either of the original equations. Solve for $$y$$ in both cases. What are the values of $$y$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y=3, 11$$",
             "$$y=-3, 11$$",
@@ -97,7 +103,8 @@
             "ac561a1systems27b-h6"
         ],
         "title": "Answer",
-        "text": "Therefore, the solutions to the nonlinear sysytem are (1,3)(3,11).",
-        "variabilization": {}
+        "text": "Therefore, the solutions to the nonlinear sysytem are $$(1,3)(3,11)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

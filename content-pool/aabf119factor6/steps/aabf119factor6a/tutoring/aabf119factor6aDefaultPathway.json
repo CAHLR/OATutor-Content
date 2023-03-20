@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor the expression",
-        "text": "To factor a trionomial $${ax}^2+bx+c$$, the first step is to find p and q, a pair of factors of ac with a sum of b.",
-        "variabilization": {}
+        "text": "To factor a trionomial $${ax}^2+bx+c$$, the first step is to find $$p$$ and q, a pair of factors of ac with a sum of $$b$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "18"
+            "$$18$$"
         ],
         "dependencies": [
             "aabf119factor6a-h1"
         ],
         "title": "Product of Numbers",
         "text": "What is $$3\\times6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "aabf119factor6a-h2"
         ],
         "title": "Sum of Numbers",
         "text": "What is $$3+6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h4",
@@ -44,8 +47,9 @@
             "aabf119factor6a-h3"
         ],
         "title": "Rewriting the Expression",
-        "text": "The second step is to rewrite the original expression as $$ax2+px+qx+c$$.",
-        "variabilization": {}
+        "text": "The second step is to rewrite the original expression as $${ax}^2+px+qx+c$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Greatest Common Factor (GCF)",
         "text": "Thirdly, pull out the GCF of $${ax}^2+px$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Greatest Common Factor (GCF)",
         "text": "Then, pull out the GCF of $$qx+c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor6a-h7",
@@ -75,6 +81,7 @@
         ],
         "title": "Factoring out the GCF",
         "text": "Lastly, factor out the GCF of the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

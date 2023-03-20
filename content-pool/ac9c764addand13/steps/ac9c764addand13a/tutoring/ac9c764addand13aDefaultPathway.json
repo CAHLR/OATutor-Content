@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute $$\\frac{1}{4}$$ for x and $$\\frac{-2}{3}$$ for y in the expression.",
-        "variabilization": {}
+        "text": "Substitute $$\\frac{1}{4}$$ for $$x$$ and $$\\frac{-2}{3}$$ for $$y$$ in the expression.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitute",
         "text": "We get $$2{\\left(\\frac{1}{4}\\right)}^2 \\left(-\\frac{2}{3}\\right)$$ after the substitution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand13a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Exponents",
         "text": "Simplify exponents first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand13a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Exponents",
         "text": "What do we get for $${\\left(\\frac{1}{4}\\right)}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand13a-h5",
@@ -49,8 +53,9 @@
             "ac9c764addand13a-h4"
         ],
         "title": "Multiply",
-        "text": "Multiply. Divide out the common factors. Notice we write 16 as $$2\\times2\\times4$$ to make it easy to remove common factors.",
-        "variabilization": {}
+        "text": "Multiply. Divide out the common factors. Notice we write $$16$$ as $$2\\times2\\times4$$ to make it easy to remove common factors.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand13a-h6",
@@ -65,6 +70,7 @@
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

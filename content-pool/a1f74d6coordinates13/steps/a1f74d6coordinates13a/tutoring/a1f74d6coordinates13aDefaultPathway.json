@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "Plug $$y=5$$ into the equation. The new equation should be $$5x-20=20$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f74d6coordinates13a-h2",
@@ -14,8 +15,9 @@
             "a1f74d6coordinates13a-h1"
         ],
         "title": "Solve",
-        "text": "Solve the equation for x.",
-        "variabilization": {}
+        "text": "Solve the equation for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f74d6coordinates13a-h3",
@@ -24,7 +26,8 @@
             "a1f74d6coordinates13a-h2"
         ],
         "title": "Answer",
-        "text": "$$x=8$$, so the coordinate pair for the solution to the equation is (8,5).",
-        "variabilization": {}
+        "text": "$$x=8$$, so the coordinate pair for the solution to the equation is $$(8,5)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

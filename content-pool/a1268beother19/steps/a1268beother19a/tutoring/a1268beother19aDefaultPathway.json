@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing Two Equations",
         "text": "The first step is to rewrite the absolute value equation into two equations, $$6x+4=8$$ and $$6x+4=-8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Solving Equation One",
         "text": "$$6x+4=8$$, $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a1268beother19a-h1"
         ],
         "title": "Solving Equation Two",
         "text": "$$6x+4=-8$$, $$x=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1268beother19a-h4",
@@ -46,6 +49,7 @@
         ],
         "title": "Final Answer",
         "text": "The answers to the first and second equations are the answer to the original absolute value equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Algebraic form",
-        "text": "To express the relationship in this form, we need to be able to write the relationship where p is a fucntion of n, which means wirting it as p $$=$$ [expression involving n].",
-        "variabilization": {}
+        "text": "To express the relationship in this form, we need to be able to write the relationship where $$p$$ is a fucntion of $$n$$, which means wirting it as $$p$$ $$=$$ [expression involving n].",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota11a-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota11a-h1"
         ],
         "title": "Subtraction",
-        "text": "Subtract 2n from both sides, and we get $$6p=12-2n$$.",
-        "variabilization": {}
+        "text": "Subtract $$2n$$ from both sides, and we get $$6p=12-2n$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota11a-h3",
@@ -24,8 +26,9 @@
             "af36e21FunNota11a-h2"
         ],
         "title": "Division",
-        "text": "Divide both sides by 6, and we get $$p=\\frac{12-2n}{6}$$.",
-        "variabilization": {}
+        "text": "Divide both sides by $$6$$, and we get $$p=\\frac{12-2n}{6}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota11a-h4",
@@ -40,6 +43,7 @@
         ],
         "title": "Simplification",
         "text": "Simplify the expression. What do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "General Form",
         "text": "We should begin by writing the general form, and then substitute the given functions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9comp1b-h2",
@@ -21,6 +22,7 @@
         "title": "General Form",
         "text": "What is the general form of $$\\frac{g}{f} x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{g{\\left(x\\right)}}{f{\\left(x\\right)}}$$",
             "$$g{\\left(x\\right)}+f{\\left(x\\right)}$$",
@@ -41,6 +43,7 @@
         "title": "Substitution",
         "text": "What do we get after substituting the given functions?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{x^2-1}{x-1}$$",
             "$$x^2-1+x-1$$",
@@ -61,6 +64,7 @@
         "title": "Rearrangement",
         "text": "How can we rewrite $$x^2-1$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(x+1\\right) \\left(x-1\\right)$$",
             "$$x^2$$",
@@ -81,8 +85,9 @@
         "title": "Rearrangement",
         "text": "What do we get after rearranging the equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "x-1",
+            "$$x-1$$",
             "$$x^2+1$$",
             "$$x+1$$"
         ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Settting Up",
         "text": "Begin by setting up the coefficients. Write k and the coefficients.\\n##figure1.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Beginning the Division",
         "text": "Bring down the lead coefficient. Multiply the lead coefficient by k.\\n##figure2.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly3a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Finishing the Division",
         "text": "Continue by adding the numbers in the second column. Multiply the resulting number by k. Write the result in the next column. Then add the numbers in the third column.\\n##figure4.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly3a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "Our result is $$5x+12$$. There is no remainder.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

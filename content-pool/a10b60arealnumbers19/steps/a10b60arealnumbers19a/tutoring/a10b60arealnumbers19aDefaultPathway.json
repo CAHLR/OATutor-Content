@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 3 is 125?",
-        "variabilization": {}
+        "text": "What number to the power of $$3$$ is 125?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers19a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers19a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$$5^3=125$$, so our answer is 5.",
-        "variabilization": {}
+        "text": "$$5^3=125$$, so our answer is $$5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

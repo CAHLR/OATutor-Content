@@ -3,9 +3,10 @@
         "id": "a9e42b3CompInv16a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reverse functions definition",
+        "title": "inverse functions definition",
         "text": "The functions are inverses of each other if $$g((f(x))=x$$ and $$g(f(x))=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a9e42b3CompInv16a-h1"
         ],
-        "title": "Substitute 5x-1 for f(x)",
-        "text": "Check if g(5x-1) $$=$$ x",
-        "variabilization": {}
+        "title": "Substitute $$5x-1$$ for f(x)",
+        "text": "Check if $$g(5x-1)$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a9e42b3CompInv16a-h2"
         ],
-        "title": "Find g(5x-1) where g(x) $$=$$ $$\\frac{x+1}{5}$$",
-        "text": "Check if $$\\frac{5x-1+1}{5}$$ $$=$$ x",
-        "variabilization": {}
+        "title": "Find $$g(5x-1)$$ where g(x) $$=$$ $$\\frac{x+1}{5}$$",
+        "text": "Check if $$\\frac{5x-1+1}{5}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h4",
@@ -34,8 +37,9 @@
             "a9e42b3CompInv16a-h3"
         ],
         "title": "Simplify",
-        "text": "$$\\frac{5x-1+1}{5}=\\frac{5x}{5}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "$$\\frac{5x-1+1}{5}=\\frac{5x}{5}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h5",
@@ -44,8 +48,9 @@
             "a9e42b3CompInv16a-h4"
         ],
         "title": "substitute $$\\frac{x+1}{5}$$ for g(x)",
-        "text": "Check if $$f{\\left(\\frac{x+1}{5}\\right)}$$ $$=$$ x",
-        "variabilization": {}
+        "text": "Check if $$f{\\left(\\frac{x+1}{5}\\right)}$$ $$=$$ $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Find f((x+1/5) where $$f(x)=5x-1$$",
         "text": "$$f{\\left(\\frac{x+1}{5}\\right)}=5\\left(\\frac{x+1}{5}\\right)$$ - $$1=x+1-1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv16a-h7",
@@ -65,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$x+1-1$$ $$=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

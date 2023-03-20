@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [],
         "title": "Cube Root",
-        "text": "What is the cube root of x?",
-        "variabilization": {}
+        "text": "What is the cube root of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling26a-h2",
@@ -18,13 +19,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a14ffbcmodeling26a-h1"
         ],
         "title": "Dividing Values",
-        "text": "What value divided by the cube root of x will give you y?",
-        "variabilization": {}
+        "text": "What value divided by the cube root of $$x$$ will give you $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

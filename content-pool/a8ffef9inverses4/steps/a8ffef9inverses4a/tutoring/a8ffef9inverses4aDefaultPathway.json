@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Inverse",
-        "text": "Given a polynomial function, restrict the domain of a function that is not one-to-one and then find the inverse. 1) Restrict the domain by determining a domain on which the original function is one-to-one. 2) Replace f(x) with y. 3) Interchange x and y. 4) Solve for y, and rename the function or pair of function $$f^{-1\\left(x\\right)}$$. 5) Revise the formula for $$f^{-1\\left(x\\right)}$$ by ensuring that the outputs of the inverse function correspond to the restricted domain of the original function.",
-        "variabilization": {}
+        "text": "Given a polynomial function, restrict the domain of a function that is not one-to-one and then find the inverse.\\n1) Restrict the domain by determining a domain on which the original function is one-to-one.\\n2) Replace f(x) with $$y$$.\\n3) Interchange $$x$$ and $$y$$.\\n4) Solve for $$y$$, and rename the function or pair of function $$f^{-1\\left(x\\right)}$$.\\n5) Revise the formula for $$f^{-1\\left(x\\right)}$$ by ensuring that the outputs of the inverse function correspond to the restricted domain of the original function.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Restricting the Domain",
         "text": "We can restrict this function to a domain on which it will be one-to-one.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h3",
@@ -24,8 +26,9 @@
             "a8ffef9inverses4a-h2"
         ],
         "title": "Restricting the Domain",
-        "text": "We can see this is a parabola with vertex at (2,-3) that opens upward. Because the graph will be decreasing on one side of the vertex and increasing on the other side, we can restrict this function to a domain on which it will be one-to-one by limiting the domain to $$x \\geq 2$$.",
-        "variabilization": {}
+        "text": "We can see this is a parabola with vertex at $$(2,-3)$$ that opens upward. Because the graph will be decreasing on one side of the vertex and increasing on the other side, we can restrict this function to a domain on which it will be one-to-one by limiting the domain to $$x \\geq 2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a8ffef9inverses4a-h3"
         ],
-        "title": "Replace f(x) with y",
-        "text": "What does the equation look like after replacing f(x) with y?",
+        "title": "Replace f(x) with $$y$$",
+        "text": "What does the equation look like after replacing f(x) with $$y$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y={\\left(x-2\\right)}^2-3$$",
             "$$f(x)={\\left(x-2\\right)}^2-3$$",
@@ -58,9 +62,10 @@
         "dependencies": [
             "a8ffef9inverses4a-h4"
         ],
-        "title": "Interchange x and y",
-        "text": "What does the equation look like after interchanging x and y.",
+        "title": "Interchange $$x$$ and $$y$$",
+        "text": "What does the equation look like after interchanging $$x$$ and $$y$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y={\\left(x-2\\right)}^2-3$$",
             "$$f(x)={\\left(x-2\\right)}^2-3$$",
@@ -73,9 +78,10 @@
         "dependencies": [
             "a8ffef9inverses4a-h5"
         ],
-        "title": "Solve for y",
-        "text": "Make y the subject.",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Make $$y$$ the subject.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h7",
@@ -83,9 +89,10 @@
         "dependencies": [
             "a8ffef9inverses4a-h6"
         ],
-        "title": "Solve for y",
-        "text": "Add 3 to both sides",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Add $$3$$ to both sides",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "Take the square root",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h9",
@@ -103,9 +111,10 @@
         "dependencies": [
             "a8ffef9inverses4a-h8"
         ],
-        "title": "Add 2 to both sides",
+        "title": "Add $$2$$ to both sides",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h10",
@@ -115,7 +124,8 @@
         ],
         "title": "Rename the function $$f^{-1\\left(x\\right)}$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h11",
@@ -125,7 +135,8 @@
         ],
         "title": "Domain",
         "text": "Now we need to determine which case to use. Because we restricted our original function to a domain of $$x \\geq 2$$, the outputs of the inverse should be the same, i.e. $$f^{-1\\left(x\\right)} \\geq 2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses4a-h12",
@@ -139,8 +150,9 @@
             "a8ffef9inverses4a-h11"
         ],
         "title": "Domain",
-        "text": "Which of the inverse would let us satisfy the initial domain of $$x \\geq 2$$, i.e. for all x in the domain of $$f^{-1\\left(x\\right)}$$, $$f^{-1\\left(x\\right)} \\geq 2$$? Note that $$\\sqrt{x}$$ is always greater than or equal to 0.",
+        "text": "Which of the inverse would let us satisfy the initial domain of $$x \\geq 2$$, i.e. for all $$x$$ in the domain of $$f^{-1\\left(x\\right)}$$, $$f^{-1\\left(x\\right)} \\geq 2$$? Note that $$\\sqrt{x}$$ is always greater than or equal to $$0$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$f^{-1\\left(x\\right)}=2+\\sqrt{x+3}$$",
             "$$f^{-1\\left(x\\right)}=2-\\sqrt{x+3}$$"

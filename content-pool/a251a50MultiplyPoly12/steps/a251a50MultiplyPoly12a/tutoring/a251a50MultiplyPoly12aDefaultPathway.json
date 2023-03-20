@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Consider $$x+5$$ as $$a+b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly12a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the first term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly12a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10x"
+            "$$10x$$"
         ],
         "dependencies": [
             "a251a50MultiplyPoly12a-h2"
         ],
         "title": "Multiplication",
         "text": "What is the second term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly12a-h4",
@@ -43,13 +46,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a251a50MultiplyPoly12a-h3"
         ],
         "title": "Multiplication",
         "text": "What is the third term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

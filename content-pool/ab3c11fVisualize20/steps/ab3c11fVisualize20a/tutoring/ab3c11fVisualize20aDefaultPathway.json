@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "General Approach",
         "text": "To simplify an expression with a fraction bar, we first simplify the expression in the numerator and the expression in the denominator. Second, we simplify the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-34"
+            "$$-34$$"
         ],
         "dependencies": [
             "ab3c11fVisualize20a-h1"
         ],
         "title": "Simplifying Numerator",
         "text": "What is 7(-1)+9(-3)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-17"
+            "$$-17$$"
         ],
         "dependencies": [
             "ab3c11fVisualize20a-h1"
         ],
         "title": "Simplifying Denominator",
-        "text": "What is -5(3)-2?",
-        "variabilization": {}
+        "text": "What is $$-5(3)-2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h4",
@@ -46,7 +49,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting the simplified expressions together, we get the fraction $$\\frac{-34}{\\left(-17\\right)}$$, which we will then try to simplify if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h5",
@@ -56,7 +60,8 @@
         ],
         "title": "Determining the Sign",
         "text": "A negative divided by a negative is positive.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h6",
@@ -70,8 +75,9 @@
             "ab3c11fVisualize20a-h5"
         ],
         "title": "Checking for Common Factors",
-        "text": "Do 34 and 17 have any common factors?",
+        "text": "Do $$34$$ and $$17$$ have any common factors?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "17"
+            "$$17$$"
         ],
         "dependencies": [
             "ab3c11fVisualize20a-h6"
         ],
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h9",
@@ -108,14 +116,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ab3c11fVisualize20a-h8"
         ],
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{34}{17}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h10",
@@ -123,14 +132,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ab3c11fVisualize20a-h8"
         ],
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{17}{17}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize20a-h11",
@@ -141,6 +151,7 @@
         ],
         "title": "Final Answer",
         "text": "So $$\\frac{2}{1}=2$$ is our final answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

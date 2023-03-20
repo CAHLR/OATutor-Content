@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Division of Zero",
         "text": "Zero divided by any real number except itself is zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

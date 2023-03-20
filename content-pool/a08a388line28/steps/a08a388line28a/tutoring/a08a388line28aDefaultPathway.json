@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Slope",
         "text": "Find the slope of the given line. The line is in slope-intercept form, $$y=2x-3$$. The slope is $$m=2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line28a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Slope Value",
         "text": "The slopes of perpendicular lines are negative reciprocals. Slope is $$m=\\frac{-1}{2}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line28a-h3",
@@ -24,8 +26,9 @@
             "a08a388line28a-h2"
         ],
         "title": "Identify the point",
-        "text": "The given point is (-2,1).",
-        "variabilization": {}
+        "text": "The given point is $$(-2,1)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line28a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Substitute",
         "text": "Substitute the values into the point-slope form $$y-y1=m(x-x1)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line28a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression $$y-(1)=\\frac{-1}{2\\left(x+2\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

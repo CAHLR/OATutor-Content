@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies a direct variation formula is needed. This formula is $$P=kn$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation19a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation19a-h1"
         ],
         "title": "Find values",
-        "text": "Since Sally sells 15 necklaces for $150, we can assign P to be 150 and n to be 15.",
-        "variabilization": {}
+        "text": "Since Sally sells $$15$$ necklaces for $150, we can assign P to be $$150$$ and $$n$$ to be $$15$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation19a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation19a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$P=10n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

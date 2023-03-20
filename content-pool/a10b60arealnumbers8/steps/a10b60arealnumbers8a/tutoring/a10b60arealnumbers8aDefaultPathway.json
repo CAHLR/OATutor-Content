@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Normal Root",
-        "text": "What x exists such that $$x^3$$ is -27?",
-        "variabilization": {}
+        "text": "What $$x$$ exists such that $$x^3$$ is -27?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers8a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-27"
+            "$$-27$$"
         ],
         "dependencies": [
             "a10b60arealnumbers8a-h1"
         ],
         "title": "Exponent",
         "text": "What is $${\\left(-3\\right)}^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

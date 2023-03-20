@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "Modify the equation into the form $$m=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h2",
@@ -14,8 +15,9 @@
             "a8b6b9fLinear24a-h1"
         ],
         "title": "Distributive Property I",
-        "text": "Use the distributive property to multiply 22(3m-4)",
-        "variabilization": {}
+        "text": "Use the distributive property to multiply $$22(3m-4)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "66m-88"
+            "$$66m-88$$"
         ],
         "dependencies": [
             "a8b6b9fLinear24a-h2"
         ],
         "title": "Multiplication",
-        "text": "What is 22(3m-4)?",
-        "variabilization": {}
+        "text": "What is $$22(3m-4)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Distributive Property II",
         "text": "Use the distributive property to multiply $$8\\left(2m+9\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Multiplication",
         "text": "What is $$8\\left(2m+9\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Organizing",
         "text": "Use algebra to manipulate the equation into the form $$m=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h7",
@@ -73,14 +79,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "50m"
+            "$$50m$$"
         ],
         "dependencies": [
             "a8b6b9fLinear24a-h6"
         ],
         "title": "Subtraction",
-        "text": "What is 66m-16m?",
-        "variabilization": {}
+        "text": "What is $$66m-16m$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "160"
+            "$$160$$"
         ],
         "dependencies": [
             "a8b6b9fLinear24a-h7"
         ],
         "title": "Subtraction",
-        "text": "What is 72-(-88)?",
-        "variabilization": {}
+        "text": "What is $$72-(-88)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h9",
@@ -110,7 +118,8 @@
         ],
         "title": "Division",
         "text": "What is $$\\frac{160}{50}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear24a-h10",
@@ -120,6 +129,7 @@
         ],
         "title": "Classifying the Equation",
         "text": "Determine if the equation contradicts itself, or only valid under certain condition",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

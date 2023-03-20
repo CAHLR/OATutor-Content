@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Number of Terms",
         "text": "Since there are three terms, the expression is a trinomial.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

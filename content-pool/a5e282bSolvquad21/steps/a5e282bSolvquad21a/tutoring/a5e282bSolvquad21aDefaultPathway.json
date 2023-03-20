@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic term",
-        "text": "We minus 4 on both sides to get $$5{\\left(x-5\\right)}^2$$ isolated by itself which gives $$5{\\left(x-5\\right)}^2=100$$.",
-        "variabilization": {}
+        "text": "We minus $$4$$ on both sides to get $$5{\\left(x-5\\right)}^2$$ isolated by itself which gives $$5{\\left(x-5\\right)}^2=100$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a5e282bSolvquad21a-h1"
         ],
         "title": "Find Leading Coefficient",
         "text": "What's the leading coefficient now?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $${\\left(x-5\\right)}^2=20$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h4",
@@ -39,8 +42,9 @@
             "a5e282bSolvquad21a-h3"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(x-5\\right)}^2=20$$, we can take square root both sides and get $$x-5=\\sqrt{20}$$ or $$x-5=-\\sqrt{20}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(x-5\\right)}^2=20$$, we can take square root both sides and get $$x-5=\\sqrt{20}$$ or $$x-5=-\\sqrt{20}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h5",
@@ -53,9 +57,10 @@
         "dependencies": [
             "a5e282bSolvquad21a-h4"
         ],
-        "title": "Find x in $$x-5=-\\sqrt{20}$$",
-        "text": "What is x?",
-        "variabilization": {}
+        "title": "Find $$x$$ in $$x-5=-\\sqrt{20}$$",
+        "text": "What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h6",
@@ -68,9 +73,10 @@
         "dependencies": [
             "a5e282bSolvquad21a-h5"
         ],
-        "title": "Find x in $$x-5=\\sqrt{20}$$",
-        "text": "What is x?",
-        "variabilization": {}
+        "title": "Find $$x$$ in $$x-5=\\sqrt{20}$$",
+        "text": "What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$5-\\sqrt{20}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$5+\\sqrt{20}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad21a-h9",
@@ -110,6 +118,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$5{\\left(x-5\\right)}^2+4=104$$ has two solutions which are $$x=5-2\\sqrt{5}$$, and $$x=5+2\\sqrt{5}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

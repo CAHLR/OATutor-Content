@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Graphing the function",
         "text": "The first step would be to graph the current function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b7d40expgraph4a-h2",
@@ -15,17 +16,23 @@
         "hintAnswer": [
             "(1,-2)"
         ],
-        "dependencies": [],
+        "dependencies": [
+            "a3b7d40expgraph4a-h1"
+        ],
         "title": "Identifying which coordinate to change",
-        "text": "Say that we want to reflect (1,2) across the x-axis. What will the reflected coordinate look like?",
-        "variabilization": {}
+        "text": "Say that we want to reflect $$(1,2)$$ across the x-axis. What will the reflected coordinate look like?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b7d40expgraph4a-h3",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a3b7d40expgraph4a-h2"
+        ],
         "title": "Reflecting exponential functions",
-        "text": "The function f(x) $$=$$ $$-\\left(b^x\\right)$$ reflects the parent function f(x) $$=$$ $$b^x$$ about the x-axis. The function f(x) $$=$$ $$b^{\\left(-x\\right)}$$ reflects the parent function f(x) $$=$$ $$b^x$$ about the y-axis.",
-        "variabilization": {}
+        "text": "The function f(x) $$=$$ $$-\\left(b^x\\right)$$ reflects the parent function f(x) $$=$$ $$b^x$$ about the x-axis. The function f(x) $$=$$ $$b^{\\left(-x\\right)}$$ reflects the parent function f(x) $$=$$ $$b^x$$ about the y-axis. |newline|",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate",
-        "text": "To isolate y, we can subtract 8x from both sides of the equation, which gives us $$y=15-8x$$.",
-        "variabilization": {}
+        "text": "To isolate $$y$$, we can subtract $$8x$$ from both sides of the equation, which gives us $$y=15-8x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

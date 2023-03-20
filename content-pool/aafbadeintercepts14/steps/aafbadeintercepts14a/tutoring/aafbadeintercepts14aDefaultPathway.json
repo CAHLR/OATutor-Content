@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Let $$x=0$$",
         "text": "Set $$x=0$$ and begin solving the equation. The remaining portion of the equation is $$0+2y=6$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts14a-h2",
@@ -14,8 +15,9 @@
             "aafbadeintercepts14a-h1"
         ],
         "title": "Interpret",
-        "text": "After substituting x, we find that $$y=3$$. Therefore, the x coordinate when $$x=0$$ is $$y=3$$.",
-        "variabilization": {}
+        "text": "After substituting $$x$$, we find that $$y=3$$. Therefore, the $$x$$ coordinate when $$x=0$$ is $$y=3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts14a-h3",
@@ -24,7 +26,8 @@
             "aafbadeintercepts14a-h2"
         ],
         "title": "Answer",
-        "text": "The answer is (0,3).",
-        "variabilization": {}
+        "text": "The answer is $$(0,3)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

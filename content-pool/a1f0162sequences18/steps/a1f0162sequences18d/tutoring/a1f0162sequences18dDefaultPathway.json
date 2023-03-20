@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute $$n=4$$ into the formula",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences18d-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplification",
         "text": "Calculate the expression $$\\frac{{\\left(-1\\right)}^4 4^2}{4+1}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences18d-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a1f0162sequences18d-h2"
         ],
         "title": "Calculate the numerator",
         "text": "What is $${\\left(-1\\right)}^4 4^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences18d-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a1f0162sequences18d-h3"
         ],
         "title": "Calculate the denominator",
         "text": "What is $$4+1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences18d-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Putting It Together",
         "text": "Put the numerator and denominator together to create a fraction",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

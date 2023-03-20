@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Product of Conjugates Pattern",
         "text": "We compare our expression to the product of conjugates pattern formula: $$\\left(a-b\\right) \\left(a+b\\right)=a^2-b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe26a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "ac0c1d3spe26a-h1"
         ],
-        "title": "Compare the Binomials",
-        "text": "$$\\left(a-b\\right) \\left(a+b\\right)$$ $$\\left(x-8\\right) \\left(x+8\\right)$$",
-        "variabilization": {}
+        "title": "Compare the Binomials |newline|",
+        "text": "$$\\left(a-b\\right) \\left(a+b\\right)$$\\n$$\\left(x-8\\right) \\left(x+8\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe26a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ac0c1d3spe26a-h2"
         ],
         "title": "Identify a",
         "text": "What is a in the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe26a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "ac0c1d3spe26a-h3"
         ],
-        "title": "Identify b",
-        "text": "What is b in the expression?",
-        "variabilization": {}
+        "title": "Identify $$b$$",
+        "text": "What is $$b$$ in the expression?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe26a-h5",
@@ -55,8 +59,9 @@
             "ac0c1d3spe26a-h4"
         ],
         "title": "Plug in the Terms",
-        "text": "Substitute $$a=x$$ and $$b=8$$ into the product of conjugates pattern formula: $$\\left(a-b\\right) \\left(a+b\\right)=a^2-b^2$$ $$\\left(x-8\\right) \\left(x+8\\right)=x^2-8^2$$",
-        "variabilization": {}
+        "text": "Substitute $$a=x$$ and $$b=8$$ into the product of conjugates pattern formula:\\n$$\\left(a-b\\right) \\left(a+b\\right)=a^2-b^2$$\\n$$\\left(x-8\\right) \\left(x+8\\right)=x^2-8^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe26a-h6",
@@ -66,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$x^2-64$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

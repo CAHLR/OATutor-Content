@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operation",
         "text": "Start with the operation in the parenthesis",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int2a-h2",
@@ -14,8 +15,9 @@
             "ae45a45int2a-h1"
         ],
         "title": "Absolute Values",
-        "text": "Simplify the value in the absolute value bars further by subtracting 8 from 11",
-        "variabilization": {}
+        "text": "Simplify the value in the absolute value bars further by subtracting $$8$$ from $$11$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int2a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "ae45a45int2a-h2"
         ],
         "title": "Absolute Values Principle",
         "text": "What is |6|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int2a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Absolute Values Principle",
         "text": "The number within absolute sign will always be positive",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int2a-h5",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "ae45a45int2a-h4"
         ],
         "title": "Magnitude of Number",
         "text": "What is the magitude of 6?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

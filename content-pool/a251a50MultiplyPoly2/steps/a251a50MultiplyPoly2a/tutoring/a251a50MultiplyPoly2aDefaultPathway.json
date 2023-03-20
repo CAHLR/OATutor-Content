@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The multiplications of numbers and variables are separate",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly2a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Multiplication on the same variable $$=$$ the addition of exponential term",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly2a-h3",
@@ -21,14 +23,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-35"
+            "$$-35$$"
         ],
         "dependencies": [
             "a251a50MultiplyPoly2a-h2"
         ],
         "title": "Multiplication",
         "text": "What is $$5\\left(-7\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly2a-h4",
@@ -43,6 +46,7 @@
         ],
         "title": "Multiplication",
         "text": "What is $$y^7 y^4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring",
-        "text": "First, we need to factor $$2d^2$$ + 15d + 25.",
-        "variabilization": {}
+        "text": "First, we need to factor $$2d^2$$ + $$15d$$ + $$25$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h2",
@@ -14,8 +15,9 @@
             "a61c721rational22a-h1"
         ],
         "title": "Split",
-        "text": "Split 15d to 10d and 5d.",
-        "variabilization": {}
+        "text": "Split $$15d$$ to $$10d$$ and $$5d$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h3",
@@ -29,8 +31,9 @@
             "a61c721rational22a-h2"
         ],
         "title": "Factoring",
-        "text": "What is the factoring of $$2d^2$$ + 10d?",
-        "variabilization": {}
+        "text": "What is the factoring of $$2d^2$$ + $$10d$$?",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Factoring",
         "text": "What is the factoring of $$5d+25$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Factoring",
         "text": "Factor out the common factor $$d+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h6",
@@ -74,8 +79,9 @@
             "a61c721rational22a-h5"
         ],
         "title": "Factoring",
-        "text": "Factor $$4d^2$$ - 25 using difference of squares.",
-        "variabilization": {}
+        "text": "Factor $$4d^2$$ - $$25$$ using difference of squares.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h7",
@@ -89,8 +95,9 @@
             "a61c721rational22a-h6"
         ],
         "title": "Factoring",
-        "text": "Factor $$25d^2$$ - 1 using difference of squares.",
-        "variabilization": {}
+        "text": "Factor $$25d^2$$ - $$1$$ using difference of squares.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h8",
@@ -99,8 +106,9 @@
             "a61c721rational22a-h7"
         ],
         "title": "Factoring",
-        "text": "Next, we need to factor $$2d^2$$ - 15d + 25.",
-        "variabilization": {}
+        "text": "Next, we need to factor $$2d^2$$ - $$15d$$ + $$25$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h9",
@@ -109,8 +117,9 @@
             "a61c721rational22a-h8"
         ],
         "title": "Split",
-        "text": "Split 15d to -10d and -5d.",
-        "variabilization": {}
+        "text": "Split $$15d$$ to $$-10d$$ and $$-5d$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h10",
@@ -118,14 +127,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2d(d-5)"
+            "$$2d(d-5)$$"
         ],
         "dependencies": [
             "a61c721rational22a-h9"
         ],
         "title": "Factoring",
-        "text": "What is the factoring of $$2d^2$$ - 10d?",
-        "variabilization": {}
+        "text": "What is the factoring of $$2d^2$$ - $$10d$$?",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h11",
@@ -133,14 +143,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5(d-5)"
+            "$$-5(d-5)$$"
         ],
         "dependencies": [
             "a61c721rational22a-h10"
         ],
         "title": "Factoring",
         "text": "What is the factoring of $$-5d+25$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h12",
@@ -148,14 +159,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(2d-5)(d-5)"
+            "$$(2d-5)(d-5)$$"
         ],
         "dependencies": [
             "a61c721rational22a-h11"
         ],
         "title": "Factoring",
-        "text": "Factor out the common factor (d-5).",
-        "variabilization": {}
+        "text": "Factor out the common factor $$(d-5)$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "a61c721rational22a-h13",
@@ -170,6 +182,7 @@
         ],
         "title": "Simplify",
         "text": "Cross out the same factors on top and bottom.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     }
 ]

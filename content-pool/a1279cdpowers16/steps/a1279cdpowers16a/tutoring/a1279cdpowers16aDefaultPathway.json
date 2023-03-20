@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Exponent Property",
         "text": "Use the product property, $$a^m a^n$$ $$=$$ $$a^{m+n}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers16a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplifying the Exponent",
         "text": "What does the exponent evalute to once simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

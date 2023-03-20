@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 0 for y.",
-        "variabilization": {}
+        "text": "Substitute $$0$$ for $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Isolate",
         "text": "Isolate the absolute value on one side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs15a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Absolute Value",
         "text": "$$|x-1|$$ is always non-negative, so we cannot find x-intercepts in this case.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

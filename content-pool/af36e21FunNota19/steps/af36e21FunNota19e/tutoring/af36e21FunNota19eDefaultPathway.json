@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Evaluating functions",
         "text": "Given the equation for a function, we should replace the input variable in the equation with the value provided and then calculate the result.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota19e-h2",
@@ -14,7 +15,8 @@
             "af36e21FunNota19e-h1"
         ],
         "title": "Replacement",
-        "text": "Replace the variable x with a + h, and we get $$f{\\left(a+h\\right)}=|a+h-1|-|a+h+1|$$.",
-        "variabilization": {}
+        "text": "Replace the variable $$x$$ with a + $$h$$, and we get $$f{\\left(a+h\\right)}=|a+h-1|-|a+h+1|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

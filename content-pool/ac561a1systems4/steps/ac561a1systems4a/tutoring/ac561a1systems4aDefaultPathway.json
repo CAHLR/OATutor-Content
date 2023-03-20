@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Eliminating Variables",
         "text": "When both equations in the system have like variables of the second degree, solving them using elimination by addition is often easier than substitution. Generally, elimination is a far simpler method when the system involves only two equations in two variables (a two-by-two system), rather than a three-by-three system, as there are fewer steps.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h2",
@@ -14,8 +15,9 @@
             "ac561a1systems4a-h1"
         ],
         "title": "Common Terms between Equations",
-        "text": "We observe that we can multiply 3 to the first equation, so that $$3x^2$$ becomes a common term in both equations. This would allow us to solve the system by elimination.",
-        "variabilization": {}
+        "text": "We observe that we can multiply $$3$$ to the first equation, so that $$3x^2$$ becomes a common term in both equations. This would allow us to solve the system by elimination.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h3",
@@ -29,8 +31,9 @@
             "ac561a1systems4a-h2"
         ],
         "title": "Adding Equations",
-        "text": "After multiplying 3 to the first equation, we observe that by adding the two equations together, we can remove the $$x^2$$ term. What is the equation obtained after adding the two equations?",
+        "text": "After multiplying $$3$$ to the first equation, we observe that by adding the two equations together, we can remove the $$x^2$$ term. What is the equation obtained after adding the two equations?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$5y^2=35$$",
             "$$y^2=19$$"
@@ -42,9 +45,10 @@
         "dependencies": [
             "ac561a1systems4a-h3"
         ],
-        "title": "Solving for y",
-        "text": "With the equation $$5y^2=35$$, we can solve for y. The y-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
-        "variabilization": {}
+        "title": "Solving for $$y$$",
+        "text": "With the equation $$5y^2=35$$, we can solve for $$y$$. The y-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h5",
@@ -52,9 +56,10 @@
         "dependencies": [
             "ac561a1systems4a-h4"
         ],
-        "title": "Solving for y",
-        "text": "Divide by 5 on both sides.",
-        "variabilization": {}
+        "title": "Solving for $$y$$",
+        "text": "Divide by $$5$$ on both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h6",
@@ -67,12 +72,13 @@
         "dependencies": [
             "ac561a1systems4a-h5"
         ],
-        "title": "Solving for y",
-        "text": "Take the square root on both sides. What are all the possible y coordinates?",
+        "title": "Solving for $$y$$",
+        "text": "Take the square root on both sides. What are all the possible $$y$$ coordinates?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "-sqrt(7),sqrt(7)",
-            "-7,7"
+            "$$-7, 7$$"
         ]
     },
     {
@@ -82,8 +88,9 @@
             "ac561a1systems4a-h6"
         ],
         "title": "Subsituting Possible Values",
-        "text": "We substitute all possible y coordinates back into one of the two equations to find the corresponding x coordinate to each y coordinate. Using any of the two equations work because the y coordinate found is a solution to the system of equations. We usually use the equation that is easier to calculate the other coordinate with.",
-        "variabilization": {}
+        "text": "We substitute all possible $$y$$ coordinates back into one of the two equations to find the corresponding $$x$$ coordinate to each $$y$$ coordinate. Using any of the two equations work because the $$y$$ coordinate found is a solution to the system of equations. We usually use the equation that is easier to calculate the other coordinate with.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h8",
@@ -92,8 +99,9 @@
             "ac561a1systems4a-h7"
         ],
         "title": "Substitution #1",
-        "text": "Substituting $$y=-\\sqrt{7}$$ into $$y^2-x^2=9$$. Find all possible corresponding x coordinates.",
-        "variabilization": {}
+        "text": "Substituting $$y=-\\sqrt{7}$$ into $$y^2-x^2=9$$. Find all possible corresponding $$x$$ coordinates.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h9",
@@ -102,8 +110,9 @@
             "ac561a1systems4a-h8"
         ],
         "title": "Substitution #1",
-        "text": "After substituting in $$-\\sqrt{7}$$ and squaring it, subtract 7 from both sides.",
-        "variabilization": {}
+        "text": "After substituting in $$-\\sqrt{7}$$ and squaring it, subtract $$7$$ from both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h10",
@@ -117,8 +126,9 @@
             "ac561a1systems4a-h9"
         ],
         "title": "Substitution #1",
-        "text": "Multiply by -1 on both sides. We observe that $$x^2$$ is equal to a negative number. Is there a real solution for x to this equation?",
+        "text": "Multiply by $$-1$$ on both sides. We observe that $$x^2$$ is equal to a negative number. Is there a real solution for $$x$$ to this equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -131,8 +141,9 @@
             "ac561a1systems4a-h10"
         ],
         "title": "Substitution #2",
-        "text": "Substituting $$y=\\sqrt{7}$$ into $$y^2-x^2=9$$. Find all possible corresponding x coordinates.",
-        "variabilization": {}
+        "text": "Substituting $$y=\\sqrt{7}$$ into $$y^2-x^2=9$$. Find all possible corresponding $$x$$ coordinates.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h12",
@@ -141,8 +152,9 @@
             "ac561a1systems4a-h11"
         ],
         "title": "Substitution #2",
-        "text": "After substituting in $$\\sqrt{7}$$ and squaring it, subtract 7 from both sides.",
-        "variabilization": {}
+        "text": "After substituting in $$\\sqrt{7}$$ and squaring it, subtract $$7$$ from both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems4a-h13",
@@ -156,8 +168,9 @@
             "ac561a1systems4a-h12"
         ],
         "title": "Substitution #2",
-        "text": "Multiply by -1 on both sides. We observe that $$x^2$$ is equal to a negative number. Is there a real solution for x to this equation?",
+        "text": "Multiply by $$-1$$ on both sides. We observe that $$x^2$$ is equal to a negative number. Is there a real solution for $$x$$ to this equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -177,6 +190,7 @@
         "title": "Verifying the Number Of Intersections",
         "text": "Were we able to find any intersection?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

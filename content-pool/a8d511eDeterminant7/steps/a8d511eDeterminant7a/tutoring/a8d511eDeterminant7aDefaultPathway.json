@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Expanding the rows containing 0 will be easy for calculation",
-        "variabilization": {}
+        "text": "Expanding the rows containing $$0$$ will be easy for calculation",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Order of Operation",
         "text": "Expand the minors along the second row",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant7a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Principle",
         "text": "Remember the sign of the second row is (-,+,-)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant7a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant7a-h5",
@@ -43,13 +47,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a8d511eDeterminant7a-h4"
         ],
         "title": "Calculation",
         "text": "What is $$\\left(-3\\right) \\left(-9\\right)+0-2\\left(-11\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

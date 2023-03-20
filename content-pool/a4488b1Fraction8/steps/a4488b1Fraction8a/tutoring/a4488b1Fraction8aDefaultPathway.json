@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operation",
         "text": "Calculate the numerator and denominator first",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction8a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "The fraction becomes $$\\frac{\\frac{1}{9}}{10}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction8a-h3",
@@ -21,7 +23,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Convert the division to multiplying the reciprocal of the second term: $$\\frac{1}{9} \\frac{1}{10}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction8a-h4",
@@ -36,6 +39,7 @@
         ],
         "title": "Calculation",
         "text": "What is the result of $$\\frac{1}{9} \\frac{1}{10}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

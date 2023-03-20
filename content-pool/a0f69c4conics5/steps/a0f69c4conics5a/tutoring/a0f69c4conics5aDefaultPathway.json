@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Standard form",
         "text": "The standard form of a conic with directrix $$x=\\pm p$$ is r=(ep)/(1\u00b1ecos\u03b8). The standard form of a conic with directrix $$y=\\pm p$$ is r=(ep)/(1\u00b1esin\u03b8).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply the numerator and denominator by the reciprocal of the constant in the denominator to rewrite the equation in standard form(if needed).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics5a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Identify",
         "text": "Identify the eccentricity e as the coefficient of the trigonometric function in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics5a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Determine",
         "text": "Since cos is in the denominator, and there is an addition sign in the denominator, the directrix is in the form $$x=p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conics5a-h5",
@@ -43,22 +47,24 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a0f69c4conics5a-h4"
         ],
         "title": "Set ep",
-        "text": "Set ep equal to the value in the numerator. Plug in e, and solve for p. What is p?",
+        "text": "Set ep equal to the value in the numerator. Plug in e, and solve for $$p$$. What is $$p$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a0f69c4conics5a-h5-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 5.",
-                "variabilization": {}
+                "text": "The answer is $$5$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -70,6 +76,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the directrix is $$x=5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

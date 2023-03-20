@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor out the greatest common factor",
         "text": "What is the greatest common factor of all the terms in the expression $$2p^3+54q^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring12a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a746c1bFactoring12a-h1"
         ],
         "title": "Factor out the greatest common factor",
         "text": "What is the greatest common factor of $$2p^3$$ and $$54q^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring12a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Factor out the greatest common factor",
         "text": "(2*p**3)+(54*q**3)=2*(?) What is (?)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring12a-h4",
@@ -51,6 +54,7 @@
         "title": "Rewrite the individual terms",
         "text": "Are there any ways to write $$27q^3$$ into $$a^3$$? If so, what is a?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a746c1bFactoring12a-h4-s1",
@@ -62,8 +66,9 @@
                 ],
                 "dependencies": [],
                 "title": "Rewrite the individual terms",
-                "text": "Given that $${\\left(a b\\right)}^c$$ where a, b and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$, $$27q^3=27q^3$$ and $$27=3^3$$, we can rewrite the expression as 27*q**3=(3**3)*(q**3)=(?)**3. What is (?)?",
-                "variabilization": {}
+                "text": "Given that $${\\left(a b\\right)}^c$$ where a, $$b$$ and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$, $$27q^3=27q^3$$ and $$27=3^3$$, we can rewrite the expression as 27*q**3=(3**3)*(q**3)=(?)**3. What is (?)?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -75,7 +80,8 @@
         ],
         "title": "Use sum of cube rule",
         "text": "We observe that $$p^3+27q^3=p^3+{\\left(3q\\right)}^3$$ which is the sum of cubes. We can use the sum of cubes rule to factor. Sum of cube rule: $$a^3+b^3$$ can be factored completely into $$\\left(a+b\\right) \\left(a^2-a b+b^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring12a-h6",
@@ -90,7 +96,8 @@
         ],
         "title": "Use sum of cube rule",
         "text": "By using the sum of cube rule, we can factor $$p^3+27q^3$$ as?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring12a-h7",
@@ -100,6 +107,7 @@
         ],
         "title": "Put together all factors",
         "text": "Since there is no way to further factor $$p+3q$$ and $$p^2-p 3q+{\\left(3q\\right)}^2$$, $$2p^3+54q^3$$ can be factored completely into $$2\\left(p+3q\\right) \\left(p^2-p 3q+{\\left(3q\\right)}^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

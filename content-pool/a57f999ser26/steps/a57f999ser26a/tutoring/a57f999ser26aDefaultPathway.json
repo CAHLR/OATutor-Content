@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify $$a_1$$",
         "text": "The first term is $$a_1=248.6$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser26a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.4"
+            "$$0.4$$"
         ],
         "dependencies": [
             "a57f999ser26a-h1"
         ],
-        "title": "Identify r",
-        "text": "To find r, divide the 2nd term by the 1st term. What is $$r=\\frac{99.44}{248.6}$$?",
-        "variabilization": {}
+        "title": "Identify $$r$$",
+        "text": "To find $$r$$, divide the 2nd term by the 1st term. What is $$r=\\frac{99.44}{248.6}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser26a-h3",
@@ -36,6 +38,7 @@
         "title": "Confirm that $$-1<r<1$$",
         "text": "Is $$-1<0.4<1$$ True or False?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -48,8 +51,9 @@
             "a57f999ser26a-h3"
         ],
         "title": "Formula for the Sum of an Infinite Geometric Series",
-        "text": "Substitute values for $$a_1$$ and r into the formula: $$S=\\frac{a_1}{1-r}$$.",
-        "variabilization": {}
+        "text": "Substitute values for $$a_1$$ and $$r$$ into the formula: $$S=\\frac{a_1}{1-r}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser26a-h5",
@@ -57,14 +61,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "414.3"
+            "$$414.3$$"
         ],
         "dependencies": [
             "a57f999ser26a-h4"
         ],
         "title": "Solve for S",
         "text": "What is $$S=\\frac{248.6}{1-0.4}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser26a-h6",
@@ -73,7 +78,8 @@
             "a57f999ser26a-h5"
         ],
         "title": "Sum of Infinite Geometric Series",
-        "text": "The sum of the $$infinite$$ geometric series is 414.3.",
-        "variabilization": {}
+        "text": "The sum of the $$infinite$$ geometric series is $$414.3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

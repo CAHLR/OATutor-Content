@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subsituting Y",
-        "text": "Solve for y in the second equation, and subsitute it into the equation for the circle.",
-        "variabilization": {}
+        "text": "Solve for $$y$$ in the second equation, and subsitute it into the equation for the circle.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems19a-h2",
@@ -14,8 +15,9 @@
             "ac561a1systems19a-h1"
         ],
         "title": "Factoring the Equation",
-        "text": "Then, factor and solve for x.",
-        "variabilization": {}
+        "text": "Then, factor and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems19a-h3",
@@ -24,8 +26,9 @@
             "ac561a1systems19a-h2"
         ],
         "title": "Solving For Y",
-        "text": "Next, substitute the two x-values into the original linear equation to solve for y.",
-        "variabilization": {}
+        "text": "Next, substitute the two x-values into the original linear equation to solve for $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems19a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Verifying the Solution",
         "text": "The solutions can be verified by subsituting these (x,y) values into both of the original equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

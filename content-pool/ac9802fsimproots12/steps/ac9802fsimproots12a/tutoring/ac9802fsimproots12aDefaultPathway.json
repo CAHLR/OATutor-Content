@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying the Root",
         "text": "How many times do we have to multiply a number by itself?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9802fsimproots12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Finding Factors",
         "text": "What are some factors that can be multiplied to get to 64?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9802fsimproots12a-h3",
@@ -24,7 +26,8 @@
             "ac9802fsimproots12a-h2"
         ],
         "title": "Cubing",
-        "text": "A number multiplied by itself 3 times is cubed.",
-        "variabilization": {}
+        "text": "A number multiplied by itself $$3$$ times is cubed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

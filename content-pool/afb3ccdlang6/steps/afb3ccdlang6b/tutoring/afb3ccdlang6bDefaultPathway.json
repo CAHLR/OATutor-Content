@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Exponents",
-        "text": "First, we replace x with 4, so we will be evaluating $$3^4$$.",
-        "variabilization": {}
+        "text": "First, we replace $$x$$ with $$4$$, so we will be evaluating $$3^4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang6b-h2",
@@ -13,11 +14,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "81"
+            "$$81$$"
         ],
         "dependencies": [],
         "title": "Exponents",
         "text": "What is $$3\\times3\\times3\\times3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring Denominators",
         "text": "Factor the denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals17a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "What is the common factor in the numerator and denominator? This is the removable discontinuity",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals17a-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "What is the other factor? This is the vertical asymptote.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

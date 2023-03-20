@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewriting the equation",
         "text": "Remember to fill in missing coefficients with placeholder 0's if possible to make the equation easier to read and work with.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a161552dividingpoly3a-h1"
@@ -21,6 +22,7 @@
         "title": "Division",
         "text": "What is the largest degree in the polynomial?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly3a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "1"
+                    "$$1$$"
                 ],
                 "dependencies": [],
                 "title": "Division",
                 "text": "What is the largest degree in the binomial?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -49,8 +52,9 @@
             "a161552dividingpoly3a-h2"
         ],
         "title": "Multiplication",
-        "text": "What can we multiply x by to get $$2x^3$$?",
+        "text": "What can we multiply $$x$$ by to get $$2x^3$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly3a-h3-s1",
@@ -63,7 +67,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$2x^2 \\left(x+3\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -80,7 +85,8 @@
         ],
         "title": "Subtraction",
         "text": "What is $$2x^3-10x+28-2x^3+6x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h5",
@@ -88,12 +94,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [],
         "title": "Division",
         "text": "What is the largest degree in the remainder?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h6",
@@ -107,8 +114,9 @@
             "a161552dividingpoly3a-h5"
         ],
         "title": "Multiplication",
-        "text": "What can we multiply x by to get $$\\left(-6x^2\\right)$$",
+        "text": "What can we multiply $$x$$ by to get $$\\left(-6x^2\\right)$$",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly3a-h6-s1",
@@ -121,7 +129,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$-6x \\left(x+3\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -138,7 +147,8 @@
         ],
         "title": "Subtraction",
         "text": "What is $$\\left(-6x^2\\right)-10x+28-\\left(-6x^2\\right)-18x$$ ((-6*(x**2))-(10*x)+28 is the remainder from the previous subtraction step.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h8",
@@ -146,14 +156,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a161552dividingpoly3a-h7"
         ],
         "title": "Division",
         "text": "What is the largest degree in the remainder?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h9",
@@ -161,12 +172,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [],
         "title": "Multiplication",
-        "text": "What can we multiply x by to get $$8x$$?",
+        "text": "What can we multiply $$x$$ by to get $$8x$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly3a-h9-s1",
@@ -179,7 +191,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$8\\left(x+3\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -189,14 +202,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a161552dividingpoly3a-h9"
         ],
         "title": "Subtraction",
         "text": "What is $$8x+28-8x+24$$? (8*x+28 is the remainder from the previous subtraction step.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h11",
@@ -210,8 +224,9 @@
             "a161552dividingpoly3a-h10"
         ],
         "title": "Remainder",
-        "text": "What is the remainder? If there is no remainder enter 0.",
-        "variabilization": {}
+        "text": "What is the remainder? If there is no remainder enter $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly3a-h12",
@@ -227,14 +242,16 @@
         "title": "Combining",
         "text": "Combine all the terms that we used to multiply the divisor by into a single expression along with the divisor.",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly3a-h12-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Combining",
-                "text": "Reminder: The terms we had were, $$2x^2$$, $$-6x$$, 8, $$\\frac{4}{x+3}$$",
-                "variabilization": {}
+                "text": "Reminder: The terms we had were, $$2x^2$$, $$-6x$$, $$8$$, $$\\frac{4}{x+3}$$",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Alternating Terms",
         "text": "The terms alternate between positive and negative. Use $${\\left(-1\\right)}^n$$ to make the terms alternate.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences20a-h2",
@@ -14,8 +15,9 @@
             "a1f0162sequences20a-h1"
         ],
         "title": "Pattern Among Terms",
-        "text": "Notice that the absolute values of terms increase by a multiple of 9. 9 is multiplied by 9 to make 81, 81 is multiplied by 9 to make 729 etc. Use $$9^n$$ to represent this.",
-        "variabilization": {}
+        "text": "Notice that the absolute values of terms increase by a multiple of $$9$$. $$9$$ is multiplied by $$9$$ to make $$81$$, $$81$$ is multiplied by $$9$$ to make $$729$$ etc. Use $$9^n$$ to represent this.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences20a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Putting it together",
         "text": "Multiply your two results together to get your answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

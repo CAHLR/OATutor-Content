@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify location",
         "text": "The first thing we should do is to identify ordered pairs to describe each position.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Ordered pairs",
         "text": "Where is her first stop?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Ordered pairs",
         "text": "Where is her second stop?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Ordered pairs",
         "text": "Where is her third stop?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h5",
@@ -65,7 +69,8 @@
         ],
         "title": "Ordered pairs",
         "text": "Where is her fourth stop?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h6",
@@ -78,7 +83,8 @@
         ],
         "title": "Calculate the distance",
         "text": "The number of grid units that Tracie traveled from $$(x_1,y_1)$$ to $$(x_2,y_2)$$ is $$|x_2-x_1|+|y_2-y_1|$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h7",
@@ -86,14 +92,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a75d03cRecCord11a-h6"
         ],
         "title": "Calculate the distance",
         "text": "What is |1-0|+|1-0|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h8",
@@ -101,14 +108,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a75d03cRecCord11a-h6"
         ],
         "title": "Calculate the distance",
         "text": "What is |5-1|+|1-1|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h9",
@@ -116,14 +124,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a75d03cRecCord11a-h6"
         ],
         "title": "Calculate the distance",
         "text": "What is |8-5|+|3-1|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h10",
@@ -131,14 +140,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a75d03cRecCord11a-h6"
         ],
         "title": "Calculate the distance",
         "text": "What is |8-8|+|7-3|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h11",
@@ -146,7 +156,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "a75d03cRecCord11a-h7",
@@ -156,7 +166,8 @@
         ],
         "title": "Total distance",
         "text": "What is $$2+4+5+4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord11a-h12",
@@ -165,7 +176,8 @@
             "a75d03cRecCord11a-h11"
         ],
         "title": "Conversion of Units",
-        "text": "Since each grid unit represents 1000 feet, so the total distance that Tracie traveled is 15000 feet.",
-        "variabilization": {}
+        "text": "Since each grid unit represents $$1000$$ feet, so the total distance that Tracie traveled is $$15000$$ feet.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

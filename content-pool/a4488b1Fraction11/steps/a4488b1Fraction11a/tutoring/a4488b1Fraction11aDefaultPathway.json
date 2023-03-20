@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Find $$c^3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction11a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "The equation becomes $$4{\\left(-\\frac{1}{2}\\right)}^3 \\left(-\\frac{4}{3}\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction11a-h3",
@@ -21,12 +23,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [],
         "title": "Organizing",
         "text": "What is the common factor of the fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction11a-h4",
@@ -34,6 +37,7 @@
         "dependencies": [],
         "title": "Division",
         "text": "Dividing both sides by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

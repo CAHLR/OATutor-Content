@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Axis of Symmetry",
         "text": "To find the axis of symmetry, you use this equation: $$x=\\left(-\\frac{b}{2} a\\right)$$ where $$y=a x^2+b x+c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads1a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Finding the Axis of Symmetry",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads1a-h3",
@@ -29,8 +31,9 @@
             "a2ef97dGrphingQuads1a-h2"
         ],
         "title": "Finding the Vertex",
-        "text": "You find the vertex by plugging in the axis of symmetry as x and finding y.",
-        "variabilization": {}
+        "text": "You find the vertex by plugging in the axis of symmetry as $$x$$ and finding $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads1a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Finding the Vertex",
         "text": "What is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

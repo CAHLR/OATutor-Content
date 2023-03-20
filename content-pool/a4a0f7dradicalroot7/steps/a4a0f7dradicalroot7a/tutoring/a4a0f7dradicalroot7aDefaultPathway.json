@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operation",
         "text": "Solving the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{4q+1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Operation",
         "text": "Apply binomial formula on $${\\left(\\sqrt{q-2}+3\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Substitution",
         "text": "$$a=\\sqrt{q-2}$$, $$b=3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h6",
@@ -66,6 +71,7 @@
         "title": "Substitution",
         "text": "What is $$a^2$$ when $$a=\\sqrt{q-2}$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a4a0f7dradicalroot7a-h6-s1",
@@ -78,7 +84,8 @@
                 "dependencies": [],
                 "title": "Substitution",
                 "text": "What is 2ab when $$a=\\sqrt{q-2}$$, $$b=3$$",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a4a0f7dradicalroot7a-h6-s2",
@@ -86,12 +93,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "9"
+                    "$$9$$"
                 ],
                 "dependencies": [],
                 "title": "Substitution",
                 "text": "What is $$b^2$$ when $$b=3$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -103,7 +111,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$q-2+6\\sqrt{q-2}+9=4q+1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h8",
@@ -113,7 +122,8 @@
         ],
         "title": "Organizing",
         "text": "Isolating the $$\\sqrt{q-2}$$ term to left side",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h9",
@@ -123,7 +133,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$6\\sqrt{q-2}=3q-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h10",
@@ -133,7 +144,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h11",
@@ -149,6 +161,7 @@
         "title": "Squaring",
         "text": "What is the square of $$6\\sqrt{q-2}$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a4a0f7dradicalroot7a-h11-s1",
@@ -161,7 +174,8 @@
                 "dependencies": [],
                 "title": "Squaring",
                 "text": "What is $$6^2 {\\sqrt{q-2}}^2$$",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a4a0f7dradicalroot7a-h11-s2",
@@ -174,7 +188,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$36\\left(q-2\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -186,7 +201,8 @@
         ],
         "title": "Operation",
         "text": "Apply binomial formula on $${\\left(3q-6\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h13",
@@ -196,7 +212,8 @@
         ],
         "title": "Substitution",
         "text": "$$a=3q$$, $$b=-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h14",
@@ -211,7 +228,8 @@
         ],
         "title": "Substitution",
         "text": "What is $$a^2$$ when $$a=3q$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h15",
@@ -226,7 +244,8 @@
         ],
         "title": "Substitution",
         "text": "What is 2ab when $$a=3q$$, $$b=-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h16",
@@ -234,14 +253,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "36"
+            "$$36$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot7a-h15"
         ],
         "title": "Substitution",
         "text": "What is $$b^2$$ when $$b=6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h17",
@@ -251,7 +271,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$36q-72=9q^2-36q+36$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h18",
@@ -261,7 +282,8 @@
         ],
         "title": "Organizing",
         "text": "Move every term to right side",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h19",
@@ -271,7 +293,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$0=9q^2-72q+108$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h20",
@@ -281,7 +304,8 @@
         ],
         "title": "Factoring",
         "text": "The equation can be factored out as $$0=9(q-6)(q-2)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h21",
@@ -290,8 +314,9 @@
             "a4a0f7dradicalroot7a-h20"
         ],
         "title": "Principle",
-        "text": "To make the equation valid, either (q-6) or (q-2) has to be 0",
-        "variabilization": {}
+        "text": "To make the equation valid, either $$(q-6)$$ or $$(q-2)$$ has to be $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h22",
@@ -299,14 +324,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot7a-h21"
         ],
         "title": "Calculation",
         "text": "If $$q-6=0$$, $$q=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot7a-h23",
@@ -314,13 +340,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot7a-h22"
         ],
         "title": "Calculation",
         "text": "If $$q-2=0$$, $$q=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

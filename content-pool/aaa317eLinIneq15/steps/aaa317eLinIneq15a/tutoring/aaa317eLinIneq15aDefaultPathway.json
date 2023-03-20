@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "We start by applying the distributive property of multiplication to the left side. The inequality becomes $$4x+12 \\geq 2x-1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Move Variable Terms",
         "text": "We then move the variable terms to one side of the inequality",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h3",
@@ -31,6 +33,7 @@
         "title": "Move Variable Terms",
         "text": "What inequality do we get after moving the variable terms?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2x+12 \\geq -1$$",
             "$$12 \\geq 2x-1$$"
@@ -42,14 +45,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-12"
+            "$$-12$$"
         ],
         "dependencies": [
             "aaa317eLinIneq15a-h3"
         ],
         "title": "Isolate Variable Term",
         "text": "What number should we add to both sides?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h5",
@@ -65,6 +69,7 @@
         "title": "Isolate Variable Term",
         "text": "What inequality do we get after isolating the variable term?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2x \\geq -13$$",
             "$$2x \\geq 11$$"
@@ -82,8 +87,9 @@
             "aaa317eLinIneq15a-h5"
         ],
         "title": "Apply the Multiplication Property",
-        "text": "To make the coeffient of x be 1, what number should we multiply both sides of the inequality by?",
-        "variabilization": {}
+        "text": "To make the coeffient of $$x$$ be $$1$$, what number should we multiply both sides of the inequality by?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h7",
@@ -91,14 +97,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq15a-h6"
         ],
         "title": "Left Side",
         "text": "What is the left side after multiplying by $$\\frac{1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h8",
@@ -113,7 +120,8 @@
         ],
         "title": "Right Side",
         "text": "What is the right side after multiplying by $$\\frac{1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq15a-h9",
@@ -129,6 +137,7 @@
         "title": "Sign",
         "text": "What is the sign of the inequality after multiplication?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$ \\leq $$",
             "$$ \\geq $$"
@@ -150,6 +159,7 @@
         "title": "Interval Notation",
         "text": "What is $$x \\geq \\frac{-13}{2}$$ written in interval notion?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$[\\frac{-13}{2},\\infty)$$",
             "$$(\\frac{-13}{2},\\infty)$$"

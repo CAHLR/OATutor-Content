@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewriting the equation",
         "text": "Remember to fill in missing coefficients with placeholder 0's if possible to make the equation easier to read and work with.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a161552dividingpoly7a-h1"
@@ -21,6 +22,7 @@
         "title": "Division",
         "text": "What is the largest degree in the polynomial?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly7a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "1"
+                    "$$1$$"
                 ],
                 "dependencies": [],
                 "title": "Division",
                 "text": "What is the largest degree in the binomial?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -51,6 +54,7 @@
         "title": "Multiplication",
         "text": "What can we multiply $$5x$$ by to get $$125x^3$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly7a-h3-s1",
@@ -63,7 +67,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$25x^2 \\left(5x-4\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -80,7 +85,8 @@
         ],
         "title": "Subtraction",
         "text": "What is $$125x^3-64-125x^3-100x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h5",
@@ -88,12 +94,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [],
         "title": "Division",
         "text": "What is the largest degree in the remainder?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h6",
@@ -109,6 +116,7 @@
         "title": "Multiplication",
         "text": "What can we multiply $$5x$$ by to get $$100x^2$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly7a-h6-s1",
@@ -121,7 +129,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$20x \\left(5x-4\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -138,7 +147,8 @@
         ],
         "title": "Subtraction",
         "text": "What is $$100x^2-64-100x^2-80x$$? (((100*(x**2))-64) is the remainder from the previous subtraction step.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h8",
@@ -146,14 +156,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a161552dividingpoly7a-h7"
         ],
         "title": "Division",
         "text": "What is the largest degree in the remainder?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h9",
@@ -161,12 +172,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [],
         "title": "Multiplication",
         "text": "What can we multiply $$5x$$ by to get $$80x$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly7a-h9-s1",
@@ -179,7 +191,8 @@
                 "dependencies": [],
                 "title": "Multiplication",
                 "text": "What is $$16\\left(5x-4\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -189,14 +202,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a161552dividingpoly7a-h9"
         ],
         "title": "Subtraction",
         "text": "What is $$80x-64-80x-64$$? ((80*x)-64 is the remainder from the previous subtraction step.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h11",
@@ -204,14 +218,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a161552dividingpoly7a-h10"
         ],
         "title": "Remainder",
-        "text": "What is the remainder? If there is no remainder enter 0.",
-        "variabilization": {}
+        "text": "What is the remainder? If there is no remainder enter $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552dividingpoly7a-h12",
@@ -227,14 +242,16 @@
         "title": "Combining",
         "text": "Combine all the terms that we used to multiply the divisor by into a single expression along with the divisor.",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552dividingpoly7a-h12-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Combining",
-                "text": "Reminder: The terms we had were, $$25x^2$$, $$20x$$, 16",
-                "variabilization": {}
+                "text": "Reminder: The terms we had were, $$25x^2$$, $$20x$$, $$16$$",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

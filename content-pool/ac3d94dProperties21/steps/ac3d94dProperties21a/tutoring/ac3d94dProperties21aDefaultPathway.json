@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiplication by Zero",
-        "text": "The product of any real number and 0 is 0.",
-        "variabilization": {}
+        "text": "The product of any real number and $$0$$ is $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties21a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "ac3d94dProperties21a-h1"
         ],
         "title": "Multiplication by Zero",
         "text": "What is $$-8\\times0$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

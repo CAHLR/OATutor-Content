@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "What is Domain?",
         "text": "The domain is the set of x-values accepted by the function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae25c01functions14a-h2",
@@ -14,7 +15,8 @@
             "ae25c01functions14a-h1"
         ],
         "title": "Finding the Domain",
-        "text": "Since this function accepts all values of x, its domain is $$(-\\infty,\\infty)$$",
-        "variabilization": {}
+        "text": "Since this function accepts all values of $$x$$, its domain is $$(-\\infty,\\infty)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

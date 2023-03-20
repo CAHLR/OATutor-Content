@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Creating a Common Denominator",
         "text": "We can create fractions with a common denominator by finding the LCD, which is $$84x^2 y^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom19a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting Each Fraction",
         "text": "We can rewrite each fraction with a common scaler to get $$\\frac{35y}{84x^2 y^2}+\\frac{16x}{84x^2 y^2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom19a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Adding the Fractions",
         "text": "Adding the fractions we get $$\\frac{16x+35y}{84x^2 y^2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

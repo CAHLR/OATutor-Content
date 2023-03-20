@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Square Root Property",
-        "text": "Think about what number multiplied by itself results in 81",
-        "variabilization": {}
+        "text": "Think about what number multiplied by itself results in $$81$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afa0cfequadraticeq1a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Square Root Property",
         "text": "Remember the positive and negative cases after the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

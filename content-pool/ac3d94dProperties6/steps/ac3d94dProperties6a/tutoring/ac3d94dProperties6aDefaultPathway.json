@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Commutative Property of Addition",
-        "text": "The commutative property of addition states that if a, b are real numbers, then $$a+b=b+a$$.",
-        "variabilization": {}
+        "text": "The commutative property of addition states that if a, $$b$$ are real numbers, then $$a+b=b+a$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Re-ordering",
         "text": "Using the commutative property of addition on the middle two terms, we can reorder the expression into $$43m+\\left(-16m\\right)+\\left(-12n\\right)+\\left(-9n\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties6a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Add like-temrs",
         "text": "The next step is to add the like terms together. In other words, we need to evaluate $$43m+\\left(-16m\\right)+\\left(-12n\\right)+\\left(-9n\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties6a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "27m"
+            "$$27m$$"
         ],
         "dependencies": [
             "ac3d94dProperties6a-h3"
         ],
-        "title": "m terms",
+        "title": "$$m$$ terms",
         "text": "What is $$43m+\\left(-16m\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties6a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-21n"
+            "$$-21n$$"
         ],
         "dependencies": [
             "ac3d94dProperties6a-h3"
         ],
-        "title": "n terms",
+        "title": "$$n$$ terms",
         "text": "What is $$\\left(-12n\\right)+\\left(-9n\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties6a-h6",
@@ -65,7 +70,8 @@
             "ac3d94dProperties6a-h5"
         ],
         "title": "Final Answer",
-        "text": "The final answer is putting the m term and the n term together, which is 27m-21n.",
-        "variabilization": {}
+        "text": "The final answer is putting the $$m$$ term and the $$n$$ term together, which is $$27m-21n$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplify the Expression in the Absolute Value",
         "text": "First, simplify what's inside the absolute value, until it is a single number",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int17a-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "ae45a45int17a-h1"
@@ -21,6 +22,7 @@
         "title": "Simplify the Expression in the Absolute Value",
         "text": "What is $$19-3\\left(6-2\\right)$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ae45a45int17a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "4"
+                    "$$4$$"
                 ],
                 "dependencies": [],
                 "title": "Simplify the Expression in the Absolute Value",
-                "text": "What is (6-2)?",
-                "variabilization": {}
+                "text": "What is $$(6-2)$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int17a-h2-s2",
@@ -41,14 +44,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "12"
+                    "$$12$$"
                 ],
                 "dependencies": [
                     "ae45a45int17a-h2-s1"
                 ],
                 "title": "Simplify the Expression in the Absolute Value",
                 "text": "What is $$3\\times4$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int17a-h2-s3",
@@ -56,14 +60,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "7"
+                    "$$7$$"
                 ],
                 "dependencies": [
                     "ae45a45int17a-h2-s2"
                 ],
                 "title": "Simplify the Expression in the Absolute Value",
-                "text": "What is 19-12?",
-                "variabilization": {}
+                "text": "What is $$19-12$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -75,7 +80,8 @@
         ],
         "title": "Simplify the Absolute Value",
         "text": "Replace $$|19-3\\left(6-2\\right)|$$ with the absolute value of 7; remember that the absolute value of a positive numer it itself",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int17a-h4",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "ae45a45int17a-h3"
         ],
         "title": "Simplify the Absolute Value",
         "text": "What is $$|7|$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int17a-h5",
@@ -100,7 +107,8 @@
         ],
         "title": "Finishing the Problem",
         "text": "Once the absolute value is replaced, we can solve the problem like normal",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int17a-h6",
@@ -108,13 +116,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "17"
+            "$$17$$"
         ],
         "dependencies": [
             "ae45a45int17a-h5"
         ],
         "title": "Finishing the Problem",
-        "text": "What is 24-7?",
-        "variabilization": {}
+        "text": "What is $$24-7$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

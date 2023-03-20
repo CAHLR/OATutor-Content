@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "Dennis's speed is 7 mph more than Wayne's.",
-        "variabilization": {}
+        "text": "Dennis's speed is $$7$$ mph more than Wayne's.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni2b-h2",
@@ -14,7 +15,8 @@
             "a8e6481uni2b-h1"
         ],
         "title": "The Answer",
-        "text": "Dennis's speed is 28 mph.",
-        "variabilization": {}
+        "text": "Dennis's speed is $$28$$ mph.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rethink",
         "text": "Think of it like $$3^y=\\frac{1}{27}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

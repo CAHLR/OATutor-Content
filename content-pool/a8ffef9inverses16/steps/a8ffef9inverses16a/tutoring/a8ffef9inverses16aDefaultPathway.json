@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [],
         "title": "Cube Root",
         "text": "What is the cube root of $${1000}^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses16a-s1",
@@ -18,12 +19,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [],
         "title": "Cube Root",
         "text": "What is the cube root of 1?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses16a-h2",
@@ -31,7 +33,8 @@
         "dependencies": [],
         "title": "Difference of Cubes Formula",
         "text": "$$\\left(a-b\\right) \\left(a^2+ab+b^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses16a-h3",
@@ -39,8 +42,9 @@
         "dependencies": [
             "a8ffef9inverses16a-h2"
         ],
-        "title": "variable values",
-        "text": "The value of a is 10x and the value of b is 1",
-        "variabilization": {}
+        "title": "Variable Values",
+        "text": "The value of a is $$10x$$ and the value of $$b$$ is $$1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

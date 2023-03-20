@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Difference of Squares",
-        "text": "A difference of squares is an expression with the form $$n^2 x^2-b^2$$, where n and b are positive integers.",
-        "variabilization": {}
+        "text": "A difference of squares is an expression with the form $$n^2 x^2-b^2$$, where $$n$$ and $$b$$ are positive integers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor23a-h2",
@@ -14,8 +15,9 @@
             "aabf119factor23a-h1"
         ],
         "title": "Integer Definition",
-        "text": "Integers are positive and negative whole numbers. For example, 4, 20, and -36 are integers, while 2.31 is not.",
-        "variabilization": {}
+        "text": "Integers are positive and negative whole numbers. For example, $$4$$, $$20$$, and $$-36$$ are integers, while $$2.31$$ is not.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor23a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "11"
+            "$$11$$"
         ],
         "dependencies": [
             "aabf119factor23a-h2"
         ],
-        "title": "Square Root of 121",
+        "title": "Square Root of $$121$$",
         "text": "What is the square root of 121?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor23a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [
             "aabf119factor23a-h3"
         ],
-        "title": "Square Root of 169",
+        "title": "Square Root of $$169$$",
         "text": "What is the square root of 169?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor23a-h5",
@@ -61,6 +65,7 @@
         "title": "Classifying the Expression",
         "text": "Is the expression a difference of squares?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -74,6 +79,7 @@
         ],
         "title": "Factoring a Difference of Squares",
         "text": "A difference of squares $$n^2 x^2-b^2$$ can be factored as $$\\left(nx+b\\right) \\left(nx-b\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

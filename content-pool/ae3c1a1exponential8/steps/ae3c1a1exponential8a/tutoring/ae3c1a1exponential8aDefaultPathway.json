@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Compound Equation Setup",
         "text": "The equation for calculating compound interest is $$A(t)={P\\left(1+\\frac{r}{n}\\right)}^{nt}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Subsituting Values",
         "text": "Substitue the values identified in the problem into the comound interest formula.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential8a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Solve the Equation",
         "text": "Solve the equation using order of operations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

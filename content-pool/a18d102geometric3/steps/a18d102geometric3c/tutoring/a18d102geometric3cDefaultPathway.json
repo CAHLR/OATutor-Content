@@ -7,7 +7,8 @@
         ],
         "title": "Find Ratios of Consecutive Terms",
         "text": "To determine if a sequence is geometric, we find the ratio of the consecutive terms shown.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h16",
@@ -20,9 +21,10 @@
         "dependencies": [
             "a18d102geometric3c-h15"
         ],
-        "title": "Ratio Between 8 and 4",
-        "text": "What is the common ratio between 8 and 4? Effectively, what is $$\\frac{4}{8}$$?",
-        "variabilization": {}
+        "title": "Ratio Between $$8$$ and $$4$$",
+        "text": "What is the common ratio between $$8$$ and 4? Effectively, what is $$\\frac{4}{8}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h17",
@@ -35,9 +37,10 @@
         "dependencies": [
             "a18d102geometric3c-h16"
         ],
-        "title": "Ratio Between 4 and 2",
-        "text": "What is the common ratio between 4 and 2? Effectively, what is $$\\frac{2}{4}$$?",
-        "variabilization": {}
+        "title": "Ratio Between $$4$$ and $$2$$",
+        "text": "What is the common ratio between $$4$$ and 2? Effectively, what is $$\\frac{2}{4}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h18",
@@ -50,9 +53,10 @@
         "dependencies": [
             "a18d102geometric3c-h17"
         ],
-        "title": "Ratio Between 2 and 1",
-        "text": "What is the common ratio between 2 and 1? Effectively, what is $$\\frac{1}{2}$$?",
-        "variabilization": {}
+        "title": "Ratio Between $$2$$ and $$1$$",
+        "text": "What is the common ratio between $$2$$ and 1? Effectively, what is $$\\frac{1}{2}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h19",
@@ -65,9 +69,10 @@
         "dependencies": [
             "a18d102geometric3c-h18"
         ],
-        "title": "Ratio Between 1 and $$\\frac{1}{2}$$",
-        "text": "What is the common ratio between 1 and $$\\frac{1}{2}$$? Effectively, what is $$\\frac{\\frac{1}{2}}{1}$$?",
-        "variabilization": {}
+        "title": "Ratio Between $$1$$ and $$\\frac{1}{2}$$",
+        "text": "What is the common ratio between $$1$$ and $$\\frac{1}{2}$$? Effectively, what is $$\\frac{\\frac{1}{2}}{1}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h20",
@@ -82,7 +87,8 @@
         ],
         "title": "Ratio Between $$\\frac{1}{2}$$ and $$\\frac{1}{4}$$",
         "text": "What is the common ratio between $$\\frac{1}{2}$$ and $$\\frac{1}{4}$$? Effectively, what is $$\\frac{\\frac{1}{4}}{\\frac{1}{2}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric3c-h21",
@@ -98,6 +104,7 @@
         "title": "Determining Commonality in Ratios",
         "text": "Are the ratios between consecutive terms common?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes, the series is geometric. The common ratio is $$r=2$$.",
             "Yes, the series is geometric. The common ratio is $$r=\\frac{1}{2}$$.",

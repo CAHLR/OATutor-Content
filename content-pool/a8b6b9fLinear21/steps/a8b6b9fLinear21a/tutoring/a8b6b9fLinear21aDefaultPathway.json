@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "Use the distributive property to multiply $$4\\left(2-5y\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8-20y"
+            "$$8-20y$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$4\\left(2-5y\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Distributive Property",
         "text": "Use the distributive property to multiply $$-7\\left(y-4\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Multiplication",
         "text": "What is $$-7\\left(y-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h5",
@@ -54,8 +58,9 @@
             "a8b6b9fLinear21a-h4"
         ],
         "title": "Organizing",
-        "text": "Once you've used the distributive property, you get $$-15+8-20y=-7y+28+4$$. Combining the numbers without a y coefficient (through addition and subtraction) will make handling the equation easier",
-        "variabilization": {}
+        "text": "Once you've used the distributive property, you get $$-15+8-20y=-7y+28+4$$. Combining the numbers without a $$y$$ coefficient (through addition and subtraction) will make handling the equation easier",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h6",
@@ -63,14 +68,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-7"
+            "$$-7$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h5"
         ],
         "title": "Addition",
         "text": "What is $$-15+8$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h7",
@@ -78,14 +84,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "32"
+            "$$32$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h6"
         ],
         "title": "Addition",
         "text": "What is $$28+4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h8",
@@ -95,7 +102,8 @@
         ],
         "title": "Organizing",
         "text": "Once both sides have an equation without parantheses, use algebra to manipulate the equation into the form $$y=?$$, given that the current equation is $$-7-20y=-7y+32$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h9",
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "39"
+            "$$39$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h8"
         ],
         "title": "Addition",
         "text": "What is $$32+7$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h10",
@@ -118,14 +127,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-13y"
+            "$$-13y$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h9"
         ],
         "title": "Addition",
         "text": "What is $$-20y+7y$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear21a-h11",
@@ -133,13 +143,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "a8b6b9fLinear21a-h10"
         ],
         "title": "Division",
         "text": "What is $$\\frac{39}{-13}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

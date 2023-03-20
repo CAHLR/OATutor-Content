@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Solving for intercepts",
         "text": "Set the entire equation equal to zero",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads9a-h2",
@@ -14,8 +15,9 @@
             "a2ef97dGrphingQuads9a-h1"
         ],
         "title": "Solving for intercepts",
-        "text": "Factor the equation by thinking about numbers that add to -2, but whose product is negative 8",
-        "variabilization": {}
+        "text": "Factor the equation by thinking about numbers that add to $$-2$$, but whose product is negative $$8$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads9a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Solving for intercepts",
         "text": "Set each of the factors equal to zero",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

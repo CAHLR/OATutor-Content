@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determining Solvability",
         "text": "First, determine if the expression is defined. A matrix operation of addition is defined when the two matrices have the same dimensions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a41316cmatrices25a-h2",
@@ -21,6 +22,7 @@
         "title": "Determining Solvability",
         "text": "Do the two matrices you are working with have the same dimensions?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -34,6 +36,7 @@
         ],
         "title": "Interpreting Solvability",
         "text": "Therefore, the matrix cannot be simplified and is undefined with no solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Definition of an Even Function",
-        "text": "A function is called an even function if for every input x, $$f(x)=f(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an even function if for every input $$x$$, $$f(x)=f(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation6a-h2",
@@ -14,8 +15,9 @@
             "a7dc5fftransformation6a-h1"
         ],
         "title": "Definition of an Odd Function",
-        "text": "A function is called an odd function if for every input x, $$f(x)=-f(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an odd function if for every input $$x$$, $$f(x)=-f(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation6a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a7dc5fftransformation6a-h2"
         ],
-        "title": "How to Find f(-x)",
-        "text": "Find f(-x) by subsituting -x in wherever x appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when n is an even, and $${\\left(-x\\right)}^n=-\\left(x^n\\right)$$ when n is odd-- for example, $${\\left(x+5\\right)}^2$$ $$=$$ $${\\left(-\\left(-x-5\\right)\\right)}^2={\\left(x+5\\right)}^2$$.",
-        "variabilization": {}
+        "title": "How to Find $$f(-x)$$",
+        "text": "Find $$f(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when $$n$$ is an even, and $${\\left(-x\\right)}^n=-\\left(x^n\\right)$$ when $$n$$ is odd-- for example, $${\\left(x+5\\right)}^2$$ $$=$$ $${\\left(-\\left(-x-5\\right)\\right)}^2={\\left(x+5\\right)}^2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation6a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a7dc5fftransformation6a-h3"
         ],
-        "title": "Determining f(-x)",
-        "text": "What is f(-x) equal to?",
+        "title": "Determining $$f(-x)$$",
+        "text": "What is $$f(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-\\left({\\left(x+2\\right)}^2\\right)$$",
             "$${\\left(x+2\\right)}^2$$",
@@ -53,9 +57,10 @@
         "dependencies": [
             "a7dc5fftransformation6a-h4"
         ],
-        "title": "How to Find -f(-x)",
-        "text": "Find -f(-x) by multiplying each term of f(-x) by -1.",
-        "variabilization": {}
+        "title": "How to Find $$-f(-x)$$",
+        "text": "Find $$-f(-x)$$ by multiplying each term of $$f(-x)$$ by $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation6a-h6",
@@ -68,9 +73,10 @@
         "dependencies": [
             "a7dc5fftransformation6a-h5"
         ],
-        "title": "Determining -f(-x)",
-        "text": "What is -f(-x) equal to?",
+        "title": "Determining $$-f(-x)$$",
+        "text": "What is $$-f(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-\\left({\\left(x+2\\right)}^2\\right)$$",
             "$${\\left(x+2\\right)}^2$$",
@@ -91,6 +97,7 @@
         "title": "Checking if f(x) is Even",
         "text": "Does $$f(x)=f(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -110,6 +117,7 @@
         "title": "Checking if f(x) is Odd",
         "text": "Does $$f(x)=-f(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

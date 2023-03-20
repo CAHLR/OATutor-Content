@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Eliminant the row and column that contains c2",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant3c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Principle",
         "text": "Calculate the 2x2 matrix",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant3c-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Calculation",
         "text": "Subtract the products of the diagonals",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant3c-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-20"
+            "$$-20$$"
         ],
         "dependencies": [
             "a8d511eDeterminant3c-h3"
         ],
         "title": "Calculation",
         "text": "What is $$4\\left(-4\\right)-\\left(-2\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

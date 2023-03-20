@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "First, subtract the two equations to eliminate x.",
-        "variabilization": {}
+        "text": "First, subtract the two equations to eliminate $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Subtract",
         "text": "After subtracting, what equation are you left with?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Simplify",
         "text": "Now, simplfiy the equation to eliminate $$x^2$$ by subtracting it from each side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h4",
@@ -46,6 +49,7 @@
         "title": "Simplify",
         "text": "What are you left with after subtracting $$x^2$$ from both sides?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y^2-y=6$$",
             "$$x^2-x=6$$",
@@ -60,8 +64,9 @@
             "ac561a1systems24a-h4"
         ],
         "title": "Simplfiy",
-        "text": "Subtract 6 from both sides to get $$y^2-y-6$$.",
-        "variabilization": {}
+        "text": "Subtract $$6$$ from both sides to get $$y^2-y-6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h6",
@@ -77,6 +82,7 @@
         "title": "Factor",
         "text": "Now, factor the equation. Your answer should be in the form $$\\left(ay+b\\right) \\left(cy+d\\right)$$",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(y-3\\right) \\left(y+2\\right)$$",
             "$$\\left(y+3\\right) \\left(y-2\\right)$$",
@@ -91,8 +97,9 @@
             "ac561a1systems24a-h6"
         ],
         "title": "Find solutions",
-        "text": "This means $$y=3$$ and $$y=-2$$. Plug both of these values into either of the original equations and solve for x.",
-        "variabilization": {}
+        "text": "This means $$y=3$$ and $$y=-2$$. Plug both of these values into either of the original equations and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h8",
@@ -100,14 +107,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "ac561a1systems24a-h7"
         ],
         "title": "Substitute and Solve",
-        "text": "Plug $$y=3$$ into either of the original equations. What does x equal?",
-        "variabilization": {}
+        "text": "Plug $$y=3$$ into either of the original equations. What does $$x$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h9",
@@ -121,8 +129,9 @@
             "ac561a1systems24a-h8"
         ],
         "title": "Substitute and Solve",
-        "text": "Plug $$y=-2$$ into either of the original equations. What does x equal?",
-        "variabilization": {}
+        "text": "Plug $$y=-2$$ into either of the original equations. What does $$x$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems24a-h10",
@@ -132,6 +141,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the final answers are three coordinate points: (0,3)(sqrt(5),-2)(-sqrt(5),-2).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

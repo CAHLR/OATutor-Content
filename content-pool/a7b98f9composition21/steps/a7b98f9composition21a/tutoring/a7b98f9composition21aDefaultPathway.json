@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Division",
         "text": "Remember that $$\\frac{g}{f}$$ is the same as $$\\frac{g}{f} x$$. All we have to do is divide the two functions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Division",
         "text": "Let's write the quotient of these functions as a fraction: $$\\frac{|x-3|}{\\sqrt{x}}$$. Because the bottom of the function is a square root, we need to rationalize the function by getting rid of the square root in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition21a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rationalization",
         "text": "To do this, we need to square $$\\sqrt{x}$$ so that the denominator doesn't have a square root. So, we have to multiply $$\\frac{|x-3|}{\\sqrt{x}}$$ by $$\\frac{\\sqrt{x}}{\\sqrt{x}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition21a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Multiplication",
         "text": "Since there is no way to simplify the product of $$\\sqrt{x} |x-3|$$, this leaves us with $$\\frac{\\sqrt{x} |x-3|}{x}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

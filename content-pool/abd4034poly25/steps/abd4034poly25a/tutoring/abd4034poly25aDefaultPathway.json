@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "We must divide each term in the numerator by $$5y^2$$, so we get $$21y^3+15y$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

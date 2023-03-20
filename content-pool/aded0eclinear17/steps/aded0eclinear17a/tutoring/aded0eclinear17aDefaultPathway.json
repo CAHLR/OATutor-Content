@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "General Procedure to Solve Inequalities",
         "text": "To solve an inequality, we must first gather all constants on one side and all variable terms on the other. Then, we can isolate the variable term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear17a-h2",
@@ -13,6 +14,7 @@
         "dependencies": [],
         "title": "Isolating the Variable Term",
         "text": "$$b+\\frac{7}{8} \\geq \\frac{1}{6}$$. We can subtract by $$\\frac{7}{8}$$ on both sides to get $$b \\geq \\frac{-17}{24}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

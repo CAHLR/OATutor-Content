@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Power of a Product Rule",
-        "text": "For any real numbers a and b and any integer n, the power of a product rule of exponents states that $${ab}^n=a^{{nb}^n}$$",
-        "variabilization": {}
+        "text": "For any real numbers a and $$b$$ and any integer $$n$$, the power of a product rule of exponents states that $${ab}^n=a^n b^n$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp13b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Power of a Product Rule",
         "text": "Use the power of a product rule to simplify the expression: $${\\left(2t\\right)}^{15}=2^{15} t^{15}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "Distribute the equation to $$4y\\left(2y-5\\right)+3\\left(2y-5\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly5b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly5b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Principle",
         "text": "The terms with same degree of variables can add together",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

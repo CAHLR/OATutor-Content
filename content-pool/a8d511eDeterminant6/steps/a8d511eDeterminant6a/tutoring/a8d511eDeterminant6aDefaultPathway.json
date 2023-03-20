@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Expand the minors along the first row to $$3*\\begin{bmatrix} -1 & -2 \\\\ 3 & -1 \\end{bmatrix}-(-2)*\\begin{bmatrix} 0 & -1 \\\\ -2 & 2 \\end{bmatrix}+4*\\begin{bmatrix} 0 & 3 \\\\ -1 & 2 \\end{bmatrix}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinants",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant6a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "21"
+            "$$21$$"
         ],
         "dependencies": [
             "a8d511eDeterminant6a-h2"
         ],
         "title": "Calculation",
         "text": "What is $$3\\times7+2\\times4+4\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,14 +5,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "ad220b3GraphQuadratic12a-h2"
         ],
         "title": "Set f(0) As the y-coordinate",
-        "text": "We know that $$x=0$$ in the y-intercept. We can compute f(0) to find the y coordinate if y-intercept. What is f(0)?",
-        "variabilization": {}
+        "text": "We know that $$x=0$$ in the y-intercept. We can compute f(0) to find the $$y$$ coordinate if y-intercept. What is f(0)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad220b3GraphQuadratic12b-h2",
@@ -21,7 +22,8 @@
             "ad220b3GraphQuadratic12a-h3"
         ],
         "title": "Put The Answer Into (x,y)",
-        "text": "$$f(0)=0^2+5\\times0+6=6$$. We get $$x=0$$ and $$y=6$$ for y-intercept. Put together, we have (0,6) as y-intercept.",
-        "variabilization": {}
+        "text": "$$f(0)=0^2+5\\times0+6=6$$. We get $$x=0$$ and $$y=6$$ for y-intercept. Put together, we have $$(0,6)$$ as y-intercept.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

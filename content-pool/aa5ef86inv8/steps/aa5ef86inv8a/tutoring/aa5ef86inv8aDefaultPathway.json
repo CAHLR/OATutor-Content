@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing the Equation",
         "text": "Write the solution $$AX=B$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa5ef86inv8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Finding the Inverse",
         "text": "Next, find the inverse of A by augmenting with the identity.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa5ef86inv8a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Multiplying Each Side of the Equation",
         "text": "Multiply both sides of the equation with $$A^{\\left(-1\\right)}$$. We want $$A^{\\left(-1\\right)} AX=A^{\\left(-1\\right)} B$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Commas",
         "text": "We know that every comma in the the words indicates a comma in the number form. Then, we write the digits between each comma",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole24a-h2",
@@ -14,7 +15,8 @@
             "a53b893whole24a-h1"
         ],
         "title": "Rewriting the Number",
-        "text": "There needs to be three digits in every comma, so this becomes 8 billion, 246 million, 073 thousand, 189.",
-        "variabilization": {}
+        "text": "There needs to be three digits in every comma, so this becomes $$8$$ billion, $$246$$ million, $$073$$ thousand, $$189$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

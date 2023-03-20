@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
-        "text": "The greatest square factor of 675 is 225",
-        "variabilization": {}
+        "text": "The greatest square factor of $$675$$ is $$225$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical26a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{675}=\\sqrt{225\\times3}=15\\sqrt{3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

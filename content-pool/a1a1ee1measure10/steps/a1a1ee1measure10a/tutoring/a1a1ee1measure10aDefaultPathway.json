@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert",
         "text": "We can convert both measurements to either centimeters or meters. Since meters is the larger unit, we will subtract the lengths in meters.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure10a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "100"
+            "$$100$$"
         ],
         "dependencies": [
             "a1a1ee1measure10a-h1"
         ],
         "title": "Convert",
         "text": "How many centimeters are in one meter?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure10a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.85"
+            "$$0.85$$"
         ],
         "dependencies": [
             "a1a1ee1measure10a-h2"
         ],
         "title": "Convert",
-        "text": "We convert 85 centimeters to meters by moving the decimal 2 places to the left. What do we get after the conversion?",
-        "variabilization": {}
+        "text": "We convert $$85$$ centimeters to meters by moving the decimal $$2$$ places to the left. What do we get after the conversion?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure10a-h4",
@@ -44,8 +47,9 @@
             "a1a1ee1measure10a-h3"
         ],
         "title": "Subtract",
-        "text": "We now want to find the difference between 1.60 and 0.85.",
-        "variabilization": {}
+        "text": "We now want to find the difference between $$1.60$$ and $$0.85$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure10a-h5",
@@ -53,13 +57,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.75"
+            "$$0.75$$"
         ],
         "dependencies": [
             "a1a1ee1measure10a-h4"
         ],
         "title": "Subtract",
         "text": "What do we get after the subtraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

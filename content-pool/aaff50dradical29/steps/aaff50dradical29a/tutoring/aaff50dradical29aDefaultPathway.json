@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$y^{11}$$ is $$y^{10}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical29a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{y^{11}}=\\sqrt{y^{10} y}=y^5 \\sqrt{y}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

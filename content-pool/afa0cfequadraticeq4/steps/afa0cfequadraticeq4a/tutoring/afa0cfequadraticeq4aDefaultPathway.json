@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Square Root Property",
         "text": "Solve for $$x^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afa0cfequadraticeq4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Square Root Property",
         "text": "Square Root both sides of the equation. Remember to include the positive and negative case.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afa0cfequadraticeq4a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "afa0cfequadraticeq4a-h2"
         ],
         "title": "Square Root Property",
         "text": "What is the greatest square in $$\\sqrt{27}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

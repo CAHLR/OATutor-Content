@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Transverse Axis",
         "text": "The transverse axis is on the x-axis",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola21b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Asymptotes in Standard Form",
         "text": "Equations of the asymptotes are $$y=\\pm \\left(\\frac{b}{a}\\right) \\left(x-h\\right)+k$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola21b-h3",
@@ -31,6 +33,7 @@
         "title": "Equation for Asymptote",
         "text": "What is the equation when plugging in known values?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y=\\pm \\left(\\frac{4}{3}\\right) \\left(x-1\\right)+1$$",
             "$$y=\\pm \\left(\\frac{3}{4}\\right) \\left(x-1\\right)+1$$",

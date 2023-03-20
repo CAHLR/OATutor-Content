@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substituting $$t=3$$, what is N(3)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Do the pairs represent a function?",
-        "text": "Think about the condition that makes some x-y pairs a function.",
-        "variabilization": {}
+        "text": "Think about the condition that makes some $$x-y$$ pairs a function.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv5a-h2",
@@ -21,6 +22,7 @@
         "title": "If pairs represent a function, each x-value is matched with only one y-value.",
         "text": "So, are the pairs in this question a function?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "Yes",
             "No"
@@ -35,9 +37,10 @@
                     "(1,8,27)"
                 ],
                 "dependencies": [],
-                "title": "What x values have two ys?",
-                "text": "What x values have two ys? If there is more than one of such x value, please enter it as (a,b,c) where $$a<b<c$$.",
-                "variabilization": {}
+                "title": "What $$x$$ values have two ys?",
+                "text": "What $$x$$ values have two ys? If there is more than one of such $$x$$ value, please enter it as (a,b,c) where $$a<b<c$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

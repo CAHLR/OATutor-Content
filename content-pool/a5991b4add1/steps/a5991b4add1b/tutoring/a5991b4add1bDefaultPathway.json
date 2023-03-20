@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [],
         "title": "Number of terms",
         "text": "How many terms are in this expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5991b4add1b-h2",
@@ -19,7 +20,8 @@
             "a5991b4add1b-h1"
         ],
         "title": "Prefix",
-        "text": "The prefix used for 4 or more is poly-.",
-        "variabilization": {}
+        "text": "The prefix used for $$4$$ or more is poly-.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

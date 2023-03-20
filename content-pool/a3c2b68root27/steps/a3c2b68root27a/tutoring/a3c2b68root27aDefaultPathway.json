@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$-4\\sqrt{5}\\times5 \\sqrt{10}=-20\\sqrt{50}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root27a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "We must simplify the product. $$-20\\sqrt{50}=-20\\sqrt{25\\times2}=-100\\sqrt{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

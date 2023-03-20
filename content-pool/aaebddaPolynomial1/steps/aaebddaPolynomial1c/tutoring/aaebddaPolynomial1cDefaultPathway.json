@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Analysis",
-        "text": "The variable in this equation is x.",
-        "variabilization": {}
+        "text": "The variable in this equation is $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial1c-h2",
@@ -13,12 +14,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [],
         "title": "Counting",
-        "text": "How many different degrees are on x?",
-        "variabilization": {}
+        "text": "How many different degrees are on $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial1c-h3",
@@ -26,11 +28,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [],
         "title": "Principle",
-        "text": "What is the highest degree on x?",
-        "variabilization": {}
+        "text": "What is the highest degree on $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

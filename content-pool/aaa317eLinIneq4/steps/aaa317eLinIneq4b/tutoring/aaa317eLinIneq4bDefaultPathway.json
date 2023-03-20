@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Applying the Properties",
-        "text": "Our goal is to isolate x (have x on one side and numbers on the other side)",
-        "variabilization": {}
+        "text": "Our goal is to isolate $$x$$ (have $$x$$ on one side and numbers on the other side)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Addition Property",
         "text": "The addition property of inequality: if $$a \\geq b$$, then $$a+c \\geq b+c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4b-h2"
         ],
         "title": "Applying the Addition Property",
         "text": "What number should we add to both sides of the inequality?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2x"
+            "$$-2x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4b-h3"
         ],
         "title": "Left side After Addition",
         "text": "What is the left side after adding 1?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4b-h4"
         ],
         "title": "Right side After Addition",
         "text": "What is the right side after adding 1?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Multiplication Property",
         "text": "The multiplication property of inequality: If $$a \\geq b$$ and $$c>0$$, then $$ac \\geq bc;$$ if $$a \\geq b$$ and $$c<0$$, then $$ac \\leq bc$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Applying the Multiplication Property",
         "text": "What number should we multiply to both sides of the inequality?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h8",
@@ -93,14 +100,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4b-h7"
         ],
         "title": "Left Side",
         "text": "What is the left side after multiplying $$\\frac{-1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h9",
@@ -108,14 +116,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "aaa317eLinIneq4b-h8"
         ],
         "title": "Right Side",
         "text": "What is the right side after multiplying by $$\\frac{-1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq4b-h10",
@@ -131,6 +140,7 @@
         "title": "Sign",
         "text": "What is the sign?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$ \\leq $$",
             "$$ \\geq $$"

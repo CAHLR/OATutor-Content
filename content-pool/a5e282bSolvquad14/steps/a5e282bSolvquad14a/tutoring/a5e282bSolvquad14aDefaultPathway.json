@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic Term",
-        "text": "We add 8 on both sides to get $$x^2$$ by itself which gives $$2x^2=49$$.",
-        "variabilization": {}
+        "text": "We add $$8$$ on both sides to get $$x^2$$ by itself which gives $$2x^2=49$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a5e282bSolvquad14a-h1"
         ],
         "title": "Find Leading Coefficient",
         "text": "What's the coefficient of $$u^2$$ now?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $$x^2=\\frac{49}{2}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h4",
@@ -39,8 +42,9 @@
             "a5e282bSolvquad14a-h3"
         ],
         "title": "Use Square root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $$x^2=\\frac{49}{2}$$, we can take square root both sides and get $$x=\\sqrt{\\frac{49}{2}}$$ or $$x=-\\sqrt{\\frac{49}{2}}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$x^2=\\frac{49}{2}$$, we can take square root both sides and get $$x=\\sqrt{\\frac{49}{2}}$$ or $$x=-\\sqrt{\\frac{49}{2}}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{\\frac{49}{2}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{\\frac{49}{2}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad14a-h7",
@@ -80,6 +86,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$2x^2-8=41$$ has two solutions which are $$x=-7\\sqrt{\\frac{1}{2}}$$, and $$x=7\\sqrt{\\frac{1}{2}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

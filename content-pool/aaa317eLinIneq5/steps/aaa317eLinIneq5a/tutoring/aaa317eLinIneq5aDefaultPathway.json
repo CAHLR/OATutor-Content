@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Move Variable Terms",
         "text": "We start by moving variable terms to one side of the inequality",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq5a-h2",
@@ -21,6 +22,7 @@
         "title": "Move Variable Terms",
         "text": "What inequality do we get after grouping variable terms?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$13-17x \\geq -4$$",
             "$$13+3x \\geq -4$$"
@@ -34,7 +36,8 @@
         ],
         "title": "Isolate",
         "text": "We then isolate the variable term",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq5a-h4",
@@ -50,6 +53,7 @@
         "title": "Isolate",
         "text": "What inequlity do we get after isolating the variable term?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-17x \\geq 9$$",
             "$$-17x \\geq -17$$"
@@ -61,14 +65,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-17"
+            "$$-17$$"
         ],
         "dependencies": [
             "aaa317eLinIneq5a-h4"
         ],
         "title": "Applying the Multiplication Property",
-        "text": "To make the coeffient of x be 1, what number should we multiply both sides of the inequality by?",
-        "variabilization": {}
+        "text": "To make the coeffient of $$x$$ be $$1$$, what number should we multiply both sides of the inequality by?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq5a-h6",
@@ -76,14 +81,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq5a-h5"
         ],
         "title": "Left Side",
         "text": "What is the left side after multiplying by -17?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq5a-h7",
@@ -91,14 +97,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "aaa317eLinIneq5a-h5"
         ],
         "title": "Right Side",
         "text": "What is the right side after multiplying by -17?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq5a-h8",
@@ -114,6 +121,7 @@
         "title": "Sign",
         "text": "What is the sign of the inequality after multiplication?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$ \\leq $$",
             "$$ \\geq $$"

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying the First Property",
         "text": "Use the Power Property, $${\\left(a^m\\right)}^n$$ $$=$$ $$a^{m n}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers25a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identifying the Second Property",
         "text": "Since the bases are the same, we can use the Product Property to add the exponents.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers25a-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Simplifying the Exponent",
         "text": "What does the exponent evalute to once simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

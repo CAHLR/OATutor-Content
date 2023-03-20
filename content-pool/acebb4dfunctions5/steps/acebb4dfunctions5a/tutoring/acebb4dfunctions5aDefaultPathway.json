@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute -1 into f(x). Do this by replacing every x in the function with -1.",
-        "variabilization": {}
+        "text": "Substitute $$-1$$ into f(x). Do this by replacing every $$x$$ in the function with $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4dfunctions5a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the equation into one value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

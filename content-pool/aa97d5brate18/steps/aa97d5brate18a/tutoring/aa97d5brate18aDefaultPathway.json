@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "The difference $$y_2-y_1$$",
         "text": "We should first calculate the difference of the function evaluated at the two endpoints.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate18a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "52.148"
+            "$$52.148$$"
         ],
         "dependencies": [
             "aa97d5brate18a-h1"
         ],
         "title": "The difference $$y_2-y_1$$",
-        "text": "What is the difference between k(3) and k(-1)?",
-        "variabilization": {}
+        "text": "What is the difference between k(3) and $$k(-1)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate18a-h3",
@@ -29,8 +31,9 @@
             "aa97d5brate18a-h2"
         ],
         "title": "The difference $$x_2-x_1$$",
-        "text": "We should then calculate the difference of the two endpoints x values.",
-        "variabilization": {}
+        "text": "We should then calculate the difference of the two endpoints $$x$$ values.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate18a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "aa97d5brate18a-h3"
         ],
         "title": "The difference $$x_2-x_1$$",
-        "text": "What is the difference between 3 and -1?",
-        "variabilization": {}
+        "text": "What is the difference between $$3$$ and -1?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate18a-h5",
@@ -54,8 +58,9 @@
             "aa97d5brate18a-h4"
         ],
         "title": "The ratio",
-        "text": "We should last find the ratio of the difference in y and the difference in x.",
-        "variabilization": {}
+        "text": "We should last find the ratio of the difference in $$y$$ and the difference in $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate18a-h6",
@@ -63,13 +68,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13.037"
+            "$$13.037$$"
         ],
         "dependencies": [
             "aa97d5brate18a-h5"
         ],
         "title": "The ratio",
-        "text": "What is the ratio of the difference in y and the difference in x?",
-        "variabilization": {}
+        "text": "What is the ratio of the difference in $$y$$ and the difference in $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

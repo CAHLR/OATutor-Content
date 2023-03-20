@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Do the pairs represent a function?",
-        "text": "Think about the condition that makes some x-y pairs a function.",
-        "variabilization": {}
+        "text": "Think about the condition that makes some $$x-y$$ pairs a function.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv4a-h2",
@@ -21,6 +22,7 @@
         "title": "If pairs represent a function, each x-value is matched with only one y-value.",
         "text": "So, are the pairs in this question a function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -34,7 +36,8 @@
         ],
         "title": "Do the pairs represent a one-to-one function?",
         "text": "A function is one-to-one if each value in the range corresponds to one element in the domain. For each ordered pair in the function, each y-value is matched with only one x-value. There are no repeated y-values.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9e42b3CompInv4a-h4",
@@ -48,8 +51,9 @@
             "a9e42b3CompInv4a-h3"
         ],
         "title": "Determine if it is one-to-one",
-        "text": "Is there a y value that has more than one x paired with that y? If yes, then it is not one-to-one. If no, then it is one-to-one.",
+        "text": "Is there a $$y$$ value that has more than one $$x$$ paired with that $$y$$? If yes, then it is not one-to-one. If no, then it is one-to-one.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

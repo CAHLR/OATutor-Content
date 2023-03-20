@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Determine if parabola",
-        "text": "If both the x and the y values or an equation are squared, the equation is not a parabola.",
-        "variabilization": {}
+        "text": "If both the $$x$$ and the $$y$$ values or an equation are squared, the equation is not a parabola.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola14a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the equation is not a parabola.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

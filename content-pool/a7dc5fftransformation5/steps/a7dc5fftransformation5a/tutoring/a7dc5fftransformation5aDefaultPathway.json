@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Definition of an Even Function",
-        "text": "A function is called an even function if for every input x, $$h(x)=h(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an even function if for every input $$x$$, $$h(x)=h(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation5a-h2",
@@ -14,8 +15,9 @@
             "a7dc5fftransformation5a-h1"
         ],
         "title": "Definition of an Odd Function",
-        "text": "A function is called an odd function if for every input x, $$h(x)=-h(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an odd function if for every input $$x$$, $$h(x)=-h(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation5a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a7dc5fftransformation5a-h2"
         ],
-        "title": "How to Find h(-x)",
-        "text": "Find h(-x) by subsituting -x in wherever x appears in the original equation.",
-        "variabilization": {}
+        "title": "How to Find $$h(-x)$$",
+        "text": "Find $$h(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation5a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a7dc5fftransformation5a-h3"
         ],
-        "title": "Determining h(-x)",
-        "text": "What is h(-x) equal to?",
+        "title": "Determining $$h(-x)$$",
+        "text": "What is $$h(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{-1}{x}-3x$$",
             "$$\\frac{1}{x}+3x$$",
@@ -54,9 +58,10 @@
         "dependencies": [
             "a7dc5fftransformation5a-h4"
         ],
-        "title": "How to Find -h(-x)",
-        "text": "Find -h(-x) by multiplying each term of g(-x) by -1.",
-        "variabilization": {}
+        "title": "How to Find $$-h(-x)$$",
+        "text": "Find $$-h(-x)$$ by multiplying each term of $$g(-x)$$ by $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation5a-h6",
@@ -69,9 +74,10 @@
         "dependencies": [
             "a7dc5fftransformation5a-h5"
         ],
-        "title": "Determining -h(-x)",
-        "text": "What is -h(-x) equal to?",
+        "title": "Determining $$-h(-x)$$",
+        "text": "What is $$-h(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{-1}{x}-3x$$",
             "$$\\frac{1}{x}+3x$$",
@@ -93,6 +99,7 @@
         "title": "Checking if h(x) is Even",
         "text": "Does $$h(x)=h(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -112,6 +119,7 @@
         "title": "Checking if h(x) is Odd",
         "text": "Does $$h(x)=-h(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

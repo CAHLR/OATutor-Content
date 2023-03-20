@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Settting Up",
         "text": "Begin by setting up the coefficients. Write k and the coefficients.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Beginning the Division",
         "text": "Bring down the lead coefficient. Multiply the lead coefficient by k.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Full Solution",
         "text": "If you're stuck, check your work with the full solution below.\\n##figure1.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552divpoly4a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Final Answer",
         "text": "Our result is $$4x^2+2x-10$$. There is no remainder.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

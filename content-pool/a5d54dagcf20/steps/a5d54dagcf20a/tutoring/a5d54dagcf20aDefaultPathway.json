@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Greatest Common Factor",
         "text": "The first step is determining the greatest common factor between the three terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5d54dagcf20a-h2",
@@ -21,6 +22,7 @@
         "title": "GCF",
         "text": "What is the GCF for the three terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf20a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "6"
+                    "$$6$$"
                 ],
                 "dependencies": [],
                 "title": "GCF for Constants",
-                "text": "What is the GCF for 12, 18, and -30?",
-                "variabilization": {}
+                "text": "What is the GCF for $$12$$, $$18$$, and -30?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf20a-h2-s2",
@@ -46,7 +49,8 @@
                 "dependencies": [],
                 "title": "GCF for Variables",
                 "text": "What is the GCF for $$x y^2$$, $$x^2 y^2$$, and $$y^3$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf20a-h2-s3",
@@ -59,7 +63,8 @@
                 "dependencies": [],
                 "title": "Overall GCF",
                 "text": "Multiply the two previous partial GCFS you found to get the overall GCF. What is it?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -77,6 +82,7 @@
         "title": "Factorization",
         "text": "Now, factor each of the terms separately. What is the sum of the terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf20a-h3-s4",
@@ -89,7 +95,8 @@
                 "dependencies": [],
                 "title": "Factor $$3x^2$$",
                 "text": "Factor out $$6y^2$$ from $$12x y^2$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf20a-h3-s5",
@@ -100,9 +107,10 @@
                     "3*x**2"
                 ],
                 "dependencies": [],
-                "title": "Factor 6x",
+                "title": "Factor $$6x$$",
                 "text": "Factor out $$6y^2$$ from $$18x^2 y^2$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf20a-h3-s6",
@@ -113,9 +121,10 @@
                     "$$-5y$$"
                 ],
                 "dependencies": [],
-                "title": "Factor -9",
+                "title": "Factor $$-9$$",
                 "text": "Factor out $$6y$$ from $$-30y^3$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf20a-h3-s7",
@@ -128,7 +137,8 @@
                 "dependencies": [],
                 "title": "Summation of factors",
                 "text": "Using the \"reverse\" Distributive Property, add together the three factors previously found. What is the sum?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -145,6 +155,7 @@
         ],
         "title": "Final Answer",
         "text": "Using knowledge of the distributive property, multiply the GCF with the sum of the factored values to get the final answer for the factorization of $$24x^3-12x^2+15x$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

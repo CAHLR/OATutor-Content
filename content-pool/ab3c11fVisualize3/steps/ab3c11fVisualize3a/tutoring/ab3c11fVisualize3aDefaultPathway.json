@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Defining Simplified Fraction",
         "text": "A fraction is considered simplified if there are no common factors in its numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize3a-h2",
@@ -14,8 +15,9 @@
             "ab3c11fVisualize3a-h1"
         ],
         "title": "General Approach",
-        "text": "Since it is hard to find all the common factors between the numerator and the denominator by observation, we will rewrite 210 and 385 as the product of primes and divide out the common factors from there.",
-        "variabilization": {}
+        "text": "Since it is hard to find all the common factors between the numerator and the denominator by observation, we will rewrite $$210$$ and $$385$$ as the product of primes and divide out the common factors from there.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize3a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "ab3c11fVisualize3a-h2"
         ],
-        "title": "Rewriting 210",
-        "text": "What is 210 written as the product of primes?",
+        "title": "Rewriting $$210$$",
+        "text": "What is $$210$$ written as the product of primes?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$10\\times21$$",
             "$$2\\times5\\times21$$",
@@ -49,9 +52,10 @@
         "dependencies": [
             "ab3c11fVisualize3a-h2"
         ],
-        "title": "Rewriting 385",
-        "text": "What is 385 written as the product of primes?",
+        "title": "Rewriting $$385$$",
+        "text": "What is $$385$$ written as the product of primes?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$5\\times77$$",
             "$$5\\times7\\times11$$",
@@ -68,7 +72,8 @@
         ],
         "title": "Rewriting Fraction",
         "text": "Plug in the prime factoriazation of both the numerator and the denominator, we can rewrite the fraction as $$\\frac{-\\left(2\\times3\\times5\\times7\\right)}{5\\times7\\times11}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize3a-h6",
@@ -77,8 +82,9 @@
             "ab3c11fVisualize3a-h5"
         ],
         "title": "Dividing Common Factors",
-        "text": "We can now divide out the common factors 5 and 7 from both the top and the bottom, which gives us the fraction $$\\frac{-\\left(2\\times3\\right)}{11}$$.",
-        "variabilization": {}
+        "text": "We can now divide out the common factors $$5$$ and $$7$$ from both the top and the bottom, which gives us the fraction $$\\frac{-\\left(2\\times3\\right)}{11}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize3a-h7",
@@ -93,6 +99,7 @@
         ],
         "title": "Final Answer",
         "text": "Multiply the top. What simplified fraction do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

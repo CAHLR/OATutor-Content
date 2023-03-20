@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Perfect Square Trinomials Pattern",
         "text": "The first and last terms are perfect squares but the middle term does not match $$2a b$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a104861trifactor11a-h2",
@@ -14,8 +15,9 @@
             "a104861trifactor11a-h1"
         ],
         "title": "Alternative Method",
-        "text": "Factor using the \"ac\" method. Varibles \"a\" and \"c\" multiply out to 144 and by experimenting with different combinations of the middle term we can see that $$24\\times6=144$$ which comes from $$24+6=144$$.",
-        "variabilization": {}
+        "text": "Factor using the \"ac\" method. Varibles \"a\" and \"c\" multiply out to $$144$$ and by experimenting with different combinations of the middle term we can see that $$24\\times6=144$$ which comes from $$24+6=144$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a104861trifactor11a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Splitting the Middle Term",
         "text": "Split the middle term into the identified numbers before: $$16r^2+24r+6r+9$$. Then factor by grouping: $$8r \\left(2r+3\\right)+3\\left(2r+3\\right)$$ which results in $$\\left(8r+3\\right) \\left(2r+3\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

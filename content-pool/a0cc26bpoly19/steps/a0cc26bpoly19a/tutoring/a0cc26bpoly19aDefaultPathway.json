@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "FOIL Method",
         "text": "Use the FOIL (first, outside, inside, last) method to multiply the binomials.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly19a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "FOIL Method",
         "text": "What is the product of the first two terms of the binomials?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly19a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "FOIL Method",
         "text": "What is the product of the outside two terms of the binomials?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly19a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "FOIL Method",
         "text": "What is the product of the inside two terms of the binomials?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly19a-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "99"
+            "$$99$$"
         ],
         "dependencies": [
             "a0cc26bpoly19a-h4"
         ],
         "title": "FOIL Method",
         "text": "What is the product of the last two terms of the binomials?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly19a-h6",
@@ -75,6 +80,7 @@
         ],
         "title": "Combine Like Terms",
         "text": "Add the products and combine like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

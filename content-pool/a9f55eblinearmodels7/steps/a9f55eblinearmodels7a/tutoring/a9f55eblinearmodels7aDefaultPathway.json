@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Considering Restrictions On Domain and Range",
-        "text": "Consider what makes sense in terms of domain and range. Will negative x and negative y values make sense in this equation?",
-        "variabilization": {}
+        "text": "Consider what makes sense in terms of domain and range. Will negative $$x$$ and negative $$y$$ values make sense in this equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9f55eblinearmodels7a-h2",
@@ -14,7 +15,8 @@
             "a9f55eblinearmodels7a-h1"
         ],
         "title": "Considering Starts and Ends of Domain and Range",
-        "text": "The domain, years would start at 0 and would end at five. Thus, the range would be from the population at the beginning to the population five years later.",
-        "variabilization": {}
+        "text": "The domain, years would start at $$0$$ and would end at five. Thus, the range would be from the population at the beginning to the population five years later.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

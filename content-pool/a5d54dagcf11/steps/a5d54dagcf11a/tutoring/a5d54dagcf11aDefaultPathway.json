@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Break Into Smaller Questions",
         "text": "We can divide up this question by first determining the greatest common factor of the constant (numerical) terms and then looking at the greatest common factor of the variable terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5d54dagcf11a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a5d54dagcf11a-h1"
         ],
         "title": "GCF for Constants",
-        "text": "What is the greatest common factor between 10 and 12?",
+        "text": "What is the greatest common factor between $$10$$ and 12?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf11a-h2-s1",
@@ -31,9 +33,10 @@
                     "$$2\\times5$$"
                 ],
                 "dependencies": [],
-                "title": "Prime Factorization of 10",
+                "title": "Prime Factorization of $$10$$",
                 "text": "What is the prime factorization of 10?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$2\\times5$$",
                     "$$2\\times6$$",
@@ -50,9 +53,10 @@
                     "$$2\\times2\\times3$$"
                 ],
                 "dependencies": [],
-                "title": "Prime Factorization of 12",
+                "title": "Prime Factorization of $$12$$",
                 "text": "What is the prime factorization of 12?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$2\\times2\\times3$$",
                     "$$6\\times3$$",
@@ -66,12 +70,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
                 "title": "Common Factor",
                 "text": "What is the common factor between $$2\\times5$$ and $$2\\times2\\times3$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -81,7 +86,8 @@
         "dependencies": [],
         "title": "GCF for Variables",
         "text": "Knowing the greatest common numerical factor, we can multiply that with the greatest common variable factor. Let's determine the greatest common numerical factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5d54dagcf11a-h4",
@@ -97,6 +103,7 @@
         "title": "GCF for Variables",
         "text": "What is the greatest common factor between $$p^3 q$$ and $$p q^2$$?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$p q$$",
             "$$p q^2$$",
@@ -116,6 +123,7 @@
                 "title": "Expand $$p^3 q$$",
                 "text": "How can we rewrite (\"factorize\") $$p^3 q$$?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$p p p q$$",
                     "$$3p q$$",
@@ -135,6 +143,7 @@
                 "title": "Expand $$p q^2$$",
                 "text": "How can we rewrite (\"factorize\") $$p q^2$$?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$p q q$$",
                     "$$2p q$$",
@@ -154,6 +163,7 @@
                 "title": "Common Factor",
                 "text": "What is the common factor between $$p p p q$$ and $$p q q$$?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$p q$$",
                     "$$p p p q$$",
@@ -176,6 +186,7 @@
         ],
         "title": "Final Answer",
         "text": "We can multiply the constant GCF and the variable GCF to get the final answer. What is the product?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

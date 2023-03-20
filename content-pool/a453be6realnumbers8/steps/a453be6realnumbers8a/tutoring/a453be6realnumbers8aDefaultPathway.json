@@ -3,9 +3,10 @@
         "id": "a453be6realnumbers8a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Writing Numbers as Fractions WIth Denominator 1",
-        "text": "Solve this problem by writing the integer as a fraction with denominator 1.",
-        "variabilization": {}
+        "title": "Writing Numbers as Fractions WIth Denominator $$1$$",
+        "text": "Solve this problem by writing the integer as a fraction with denominator $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a453be6realnumbers8a-h2",
@@ -18,9 +19,10 @@
         "dependencies": [
             "a453be6realnumbers8a-h1"
         ],
-        "title": "Writing Numbers as Fractions WIth Denominator 1",
+        "title": "Writing Numbers as Fractions WIth Denominator $$1$$",
         "text": "Does $$-24=\\frac{-24}{1}$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

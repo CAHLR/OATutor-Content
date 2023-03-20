@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Adding Complex Numbers",
         "text": "The first step to add complex numbers is to add real and imaginary parts separately.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3a-h2",
@@ -14,8 +15,9 @@
             "a9cf449complex3a-h1"
         ],
         "title": "i Definition",
-        "text": "i represents the square root of -1, which is an imaginary number.",
-        "variabilization": {}
+        "text": "i represents the square root of $$-1$$, which is an imaginary number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3a-h3",
@@ -24,8 +26,9 @@
             "a9cf449complex3a-h2"
         ],
         "title": "Real Parts in the Expression",
-        "text": "3 and 2 are the real parts.",
-        "variabilization": {}
+        "text": "$$3$$ and $$2$$ are the real parts.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Imaginary Parts in the Expression",
         "text": "-4i and 5i are the imaginary parts.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3a-h5",
@@ -43,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a9cf449complex3a-h4"
         ],
         "title": "Sum of the Real Parts",
         "text": "What is the sum of the real parts?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex3a-h6",
@@ -66,11 +71,12 @@
         "title": "Sum of the Imaginary Parts",
         "text": "What is the sum of the imaginary parts?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "9i",
             "i",
-            "-i",
-            "1"
+            "$$-i$$",
+            "$$1$$"
         ]
     },
     {
@@ -81,6 +87,7 @@
         ],
         "title": "Writing the Final Answer",
         "text": "Next, write the expression as the sum of the real and imaginary numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

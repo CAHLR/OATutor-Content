@@ -3,9 +3,10 @@
         "id": "a35ba99cou19a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formula for Combinations of n Distinct Objects",
+        "title": "Formula for Combinations of $$n$$ Distinct Objects",
         "text": "Substitute $$n=8$$ and $$r=5$$ into the combination formula: C(n,r)=n!/(r!*(n-r)!).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou19a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitute",
         "text": "C(8,5)=8!/(5!*(8-5)!)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou19a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Simplify",
         "text": "$$C(8,5)=56$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

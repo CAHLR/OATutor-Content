@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewriting Denominators",
         "text": "First, factor each denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Finding the Missing Factor",
         "text": "Find the missing factor in the denominators that would give them the given LCD (least common denominator.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Multiplying each Expression",
         "text": "Multiply each denominator by the 'missing' factor and multiply each numerator by the same factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom2a-h4",
@@ -34,7 +37,8 @@
             "aeb975brationaldenom2a-h3"
         ],
         "title": "Simplifying the Numerator",
-        "text": "Simplify the numerators by multiplying out their factors. For example, $$6\\left(a+3\\right)$$ $$=$$ 6a + 18.",
-        "variabilization": {}
+        "text": "Simplify the numerators by multiplying out their factors. For example, $$6\\left(a+3\\right)$$ $$=$$ 6a + $$18$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

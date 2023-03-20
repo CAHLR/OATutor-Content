@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor out greatest common term",
         "text": "What is the greatest common factor of all the terms in the expression $$24x^3+81y^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring11a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a746c1bFactoring11a-h1"
         ],
         "title": "Factor out greatest common term",
         "text": "What is the greatest common factor of $$24x^3$$ and $$81y^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring11a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Find Values",
         "text": "(24*x**3)+(81*y**3)=3*(?) What is ?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring11a-h4",
@@ -51,6 +54,7 @@
         "title": "Find a",
         "text": "Are there any ways to write $$8x^3$$ into $$a^3$$? If so, what is a?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a746c1bFactoring11a-h4-s1",
@@ -62,8 +66,9 @@
                 ],
                 "dependencies": [],
                 "title": "Find Values",
-                "text": "Given that $${\\left(a b\\right)}^c$$ where a, b and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$. $$8x^3=8x^3$$ and $$8=2^3$$, so 8*x**3=(2**3)*(x**3)=(?)**3. What is (?)?",
-                "variabilization": {}
+                "text": "Given that $${\\left(a b\\right)}^c$$ where a, $$b$$ and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$. $$8x^3=8x^3$$ and $$8=2^3$$, so 8*x**3=(2**3)*(x**3)=(?)**3. What is (?)?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -78,9 +83,10 @@
         "dependencies": [
             "a746c1bFactoring11a-h3"
         ],
-        "title": "Find b",
-        "text": "Are there any ways to rewrite $$27y^3$$ as $$b^3$$? If so, what is b?",
+        "title": "Find $$b$$",
+        "text": "Are there any ways to rewrite $$27y^3$$ as $$b^3$$? If so, what is $$b$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a746c1bFactoring11a-h5-s1",
@@ -92,8 +98,9 @@
                 ],
                 "dependencies": [],
                 "title": "Find Values",
-                "text": "Given that $${\\left(a b\\right)}^c$$ where a, b and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$. $$27y^3=27y^3$$ and $$27=3^3$$, so 27*y**3=(3**3)*(y**3)=(?)**3. What is (?)?",
-                "variabilization": {}
+                "text": "Given that $${\\left(a b\\right)}^c$$ where a, $$b$$ and c are real numbers, $${\\left(a b\\right)}^c=a^c b^c$$. $$27y^3=27y^3$$ and $$27=3^3$$, so 27*y**3=(3**3)*(y**3)=(?)**3. What is (?)?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -106,7 +113,8 @@
         ],
         "title": "Use sum of cube rule",
         "text": "We observe that $$8x^3+27y^3={\\left(2x\\right)}^3+{\\left(3y\\right)}^3$$ which is the sum of cubes. We can use the sum of cubes rule to factor the expression. Sum of cube rule $$\\operatorname{statesv}\\left(a^3\\right)+b^3$$ can be factored completely into $$\\left(a+b\\right) \\left(a^2-a b+b^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring11a-h7",
@@ -121,7 +129,8 @@
         ],
         "title": "Factor using sum of cubes rule",
         "text": "By using the sum of cube rule, we can factor $$8x^3+27y^3$$ as?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a746c1bFactoring11a-h8",
@@ -131,6 +140,7 @@
         ],
         "title": "Put together all factors",
         "text": "Since there is no way to further factor $$2x+3y$$ and $${\\left(2x\\right)}^2-2x 3y+{\\left(3y\\right)}^2$$, $$24x^3+81y^3$$ can be factored completely into $$3\\left(2x+3y\\right) \\left({\\left(2x\\right)}^2-2x 3y+{\\left(3y\\right)}^2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

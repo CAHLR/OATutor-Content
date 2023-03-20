@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the input values",
-        "text": "The domain is {a, b, c}.",
-        "variabilization": {}
+        "text": "The domain is {a, $$b$$, c}.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota3b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify the output values",
         "text": "The range is {b, c}.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota3b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Classify the relation",
         "text": "Because each input value in the domain leads to only one output value in the range, the relation represents a function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "General Approach",
         "text": "To simplify an expression with a fraction bar, we first simplify the expression in the numerator and the expression in the denominator. Second, we simplify the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-9"
+            "$$-9$$"
         ],
         "dependencies": [
             "ab3c11fVisualize18a-h1"
         ],
         "title": "Simplifying Numerator",
-        "text": "What is 6-3(5)?",
-        "variabilization": {}
+        "text": "What is $$6-3(5)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "ab3c11fVisualize18a-h1"
         ],
         "title": "Simplifying Denominator",
         "text": "What is $$3^2+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h4",
@@ -46,7 +49,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting the simplified expressions together, we get the fraction $$\\frac{-9}{12}$$, which we will then try to simplify if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h5",
@@ -56,7 +60,8 @@
         ],
         "title": "Determining the Sign",
         "text": "A negative divided by a positive is negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h6",
@@ -70,8 +75,9 @@
             "ab3c11fVisualize18a-h5"
         ],
         "title": "Checking for Common Factors",
-        "text": "Do 9 and 12 have any common factors?",
+        "text": "Do $$9$$ and $$12$$ have any common factors?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ab3c11fVisualize18a-h6"
         ],
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h9",
@@ -108,14 +116,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ab3c11fVisualize18a-h8"
         ],
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{9}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h10",
@@ -123,14 +132,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ab3c11fVisualize18a-h8"
         ],
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{12}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize18a-h11",
@@ -141,6 +151,7 @@
         ],
         "title": "Final Answer",
         "text": "So $$\\frac{-3}{4}$$ is our final answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

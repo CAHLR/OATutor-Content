@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Dividing the Right Side",
-        "text": "Divide the right hand side by a factor of 2.",
-        "variabilization": {}
+        "text": "Divide the right hand side by a factor of $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Complete the Square",
         "text": "Complete the square to find the vertex and how the graph opens.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic20a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Determining the Equation's New Form",
         "text": "What is the equation after completing the square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic20a-s1",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a35b0d9quadratic20a-h3"
         ],
         "title": "Determining the Coefficient",
         "text": "What is the coefficient of the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic20a-h4",
@@ -55,7 +59,8 @@
         ],
         "title": "Identifying the Shape",
         "text": "If the coefficient is positive, it opens upwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic20a-h5",
@@ -71,6 +76,7 @@
         "title": "Interpreting the Shape",
         "text": "Does this mean that the vertex will be a Minimum or Maximum?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Minimum",
             "Maximum"

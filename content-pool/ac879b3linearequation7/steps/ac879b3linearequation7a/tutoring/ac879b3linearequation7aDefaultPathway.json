@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "The form of a linear equation is $$y=mx+b$$. According ot this, the slope is $$m=3$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

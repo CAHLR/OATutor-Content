@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Focusing on the Digits",
-        "text": "Let's start by ignoring the place values larger than the one with 3. Focus on 3,407,218.",
-        "variabilization": {}
+        "text": "Let's start by ignoring the place values larger than the one with $$3$$. Focus on 3,407,218.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22e-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting the Number",
         "text": "3,407,218 can be rewritten as 3,000,000+400,000+7,000+200+10+8.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22e-h3",
@@ -24,8 +26,9 @@
             "a53b893whole22e-h2"
         ],
         "title": "Rewriting the Number",
-        "text": "This is the same thing as 3 $$millions+4$$ hundred $$thousands+7$$ $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
-        "variabilization": {}
+        "text": "This is the same thing as $$3$$ $$millions+4$$ hundred $$thousands+7$$ $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22e-h4",
@@ -34,7 +37,8 @@
             "a53b893whole22e-h3"
         ],
         "title": "Thinking",
-        "text": "3 is in the millions place.",
-        "variabilization": {}
+        "text": "$$3$$ is in the millions place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

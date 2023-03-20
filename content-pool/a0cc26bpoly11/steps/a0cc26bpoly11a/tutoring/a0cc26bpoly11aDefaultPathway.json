@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Difference of Squares",
         "text": "This expression is in the form of $$\\left(a+b\\right) \\left(a-b\\right)$$. $$\\left(a+b\\right) \\left(a-b\\right)$$ $$=$$ $$a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly11a-h2",
@@ -19,7 +20,8 @@
             "a0cc26bpoly11a-h1"
         ],
         "title": "Substituting",
-        "text": "Let a $$=$$ 9x and b $$=$$ 4. What is $$\\left(9x+4\\right) \\left(9x-4\\right)$$?",
-        "variabilization": {}
+        "text": "Let a $$=$$ $$9x$$ and $$b$$ $$=$$ $$4$$. What is $$\\left(9x+4\\right) \\left(9x-4\\right)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

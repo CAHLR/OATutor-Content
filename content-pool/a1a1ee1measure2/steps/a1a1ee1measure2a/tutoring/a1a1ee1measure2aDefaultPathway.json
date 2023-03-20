@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Convert",
-        "text": "Multiply the measurement to be converted by 1; write 1 as a fraction relating the units given and the units needed.",
-        "variabilization": {}
+        "text": "Multiply the measurement to be converted by 1; write $$1$$ as a fraction relating the units given and the units needed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure2a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2000"
+            "$$2000$$"
         ],
         "dependencies": [
             "a1a1ee1measure2a-h1"
         ],
         "title": "Convert",
         "text": "How many pounds are in a ton?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure2a-h3",
@@ -29,8 +31,9 @@
             "a1a1ee1measure2a-h2"
         ],
         "title": "Multiply",
-        "text": "Multiply 3.2 tons by 2000 $$\\frac{pounds}{1}$$ ton (tons should be in the denominator so that the tons will divide out).",
-        "variabilization": {}
+        "text": "Multiply $$3.2$$ tons by $$2000$$ $$\\frac{pounds}{1}$$ ton (tons should be in the denominator so that the tons will divide out).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure2a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6400"
+            "$$6400$$"
         ],
         "dependencies": [
             "a1a1ee1measure2a-h3"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

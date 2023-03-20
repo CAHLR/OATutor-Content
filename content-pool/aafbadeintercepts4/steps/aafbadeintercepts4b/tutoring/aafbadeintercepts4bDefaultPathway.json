@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Let $$x=0$$",
         "text": "Set $$x=0$$ and begin solving the equation. The remaining portion of the equation is $$0+y=6$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts4b-h2",
@@ -14,8 +15,9 @@
             "aafbadeintercepts4b-h1"
         ],
         "title": "Interpret",
-        "text": "After isolating y, we find that $$y=3$$. Therefore, the x coordinate when $$x=0$$ is $$y=6$$.",
-        "variabilization": {}
+        "text": "After isolating $$y$$, we find that $$y=3$$. Therefore, the $$x$$ coordinate when $$x=0$$ is $$y=6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts4b-h3",
@@ -24,7 +26,8 @@
             "aafbadeintercepts4b-h2"
         ],
         "title": "Answer",
-        "text": "The answer is (0,6).",
-        "variabilization": {}
+        "text": "The answer is $$(0,6)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

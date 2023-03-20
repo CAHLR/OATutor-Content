@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\left(-2\\sqrt{7}\\right) \\left(-2\\sqrt{14}\\right)=4\\sqrt{98}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root30a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$4\\sqrt{98}$$ can be simplified: $$4\\sqrt{98}=4\\sqrt{47\\times2}=27\\sqrt{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

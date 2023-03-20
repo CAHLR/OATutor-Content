@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Split the expression",
-        "text": "Split -73d to -72d and -d",
-        "variabilization": {}
+        "text": "Split $$-73d$$ to $$-72d$$ and $$-d$$",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor20a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9d(d-8)"
+            "$$9d(d-8)$$"
         ],
         "dependencies": [
             "aabf119factor20a-h1"
         ],
         "title": "Factor the expression",
-        "text": "What is the factoring of $$9d^2$$ - 72d?",
-        "variabilization": {}
+        "text": "What is the factoring of $$9d^2-72d$$?",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor20a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1(d-8)"
+            "$$-1(d-8)$$"
         ],
         "dependencies": [
             "aabf119factor20a-h2"
         ],
         "title": "Factor the expression",
         "text": "What is the factoring of $$-d+8$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor20a-h4",
@@ -43,13 +46,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(9d-1)(d-8)"
+            "$$(9d-1)(d-8)$$"
         ],
         "dependencies": [
             "aabf119factor20a-h3"
         ],
         "title": "Factor the expression",
         "text": "Factor out the common term of both $$d+8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     }
 ]

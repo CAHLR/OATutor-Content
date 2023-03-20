@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translation",
         "text": "The first step is translating the sentences into an equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul30a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Translation",
         "text": "Translate it into an equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul30a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Multiplication property of equality",
         "text": "If you multiply both sides of an equation by the same number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul30a-h4",
@@ -44,8 +47,9 @@
             "a870b02DivMul30a-h3"
         ],
         "title": "Multiplication",
-        "text": "Multiple -8 from each side.",
-        "variabilization": {}
+        "text": "Multiple $$-8$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul30a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul30a-h6",
@@ -69,8 +74,9 @@
             "a870b02DivMul30a-h5"
         ],
         "title": "Verification",
-        "text": "Check whether $$\\frac{-576}{\\left(-8\\right)}$$ equals 72.",
+        "text": "Check whether $$\\frac{-576}{\\left(-8\\right)}$$ equals $$72$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

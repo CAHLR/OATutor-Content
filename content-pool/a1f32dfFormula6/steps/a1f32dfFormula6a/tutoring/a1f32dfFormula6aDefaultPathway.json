@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the Unknown",
         "text": "We are looking for the the rate of the journey, and we can name it \"r\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translate",
         "text": "We can use the formula $$distance=rate time$$ --> $$d=rt$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula6a-h3",
@@ -24,8 +26,9 @@
             "a1f32dfFormula6a-h2"
         ],
         "title": "Substitute",
-        "text": "Since we are given that the distance is 168 miles and the time is 3 hours, we can substitute $$d=168$$, $$t=3$$ and get $$168=3r$$.",
-        "variabilization": {}
+        "text": "Since we are given that the distance is $$168$$ miles and the time is $$3$$ hours, we can substitute $$d=168$$, $$t=3$$ and get $$168=3r$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula6a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "56"
+            "$$56$$"
         ],
         "dependencies": [
             "a1f32dfFormula6a-h3"
         ],
         "title": "Solve",
-        "text": "Solve for h in the given equation (hint: divide both sides by 3). What is h?",
-        "variabilization": {}
+        "text": "Solve for $$h$$ in the given equation (hint: divide both sides by 3). What is $$h$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

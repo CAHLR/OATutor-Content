@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Formula",
         "text": "We know that to find if the function is increasing, constant, or decreasing we must find the slope. To do so, we can use our slope formula.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Formula",
         "text": "The formula is (change in output)/(change in input).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear21a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in Values",
         "text": "$$m=\\frac{1-\\left(-2\\right)}{8-3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear21a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Solve",
         "text": "When we solve, we get $$\\frac{3}{5}$$ as our slope",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear21a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Checking for if function is increasing, decreasing, or constant.",
         "text": "We see that our slope is $$\\frac{3}{5}$$, a positive number, which means our function is increasing.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

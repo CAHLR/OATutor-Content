@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operation",
         "text": "Solving the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4z-3"
+            "$$4z-3$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot5a-h2"
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{4z-3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{3z+2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$4z-3=3z+2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h6",
@@ -64,8 +69,9 @@
             "a4a0f7dradicalroot5a-h5"
         ],
         "title": "Organizing",
-        "text": "Isolating the z term to left side",
-        "variabilization": {}
+        "text": "Isolating the $$z$$ term to left side",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$4z-3z=3+2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h8",
@@ -83,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "z"
+            "$$z$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot5a-h7"
         ],
         "title": "Calculation",
-        "text": "What is 4z-3z?",
-        "variabilization": {}
+        "text": "What is $$4z-3z$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot5a-h9",
@@ -98,13 +106,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot5a-h8"
         ],
         "title": "Addition",
         "text": "What is $$3+2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

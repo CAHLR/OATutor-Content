@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.18"
+            "$$0.18$$"
         ],
         "dependencies": [],
         "title": "Conversion",
         "text": "What is the numeric form of 18%?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving26a-h2",
@@ -19,8 +20,9 @@
             "aae6efeSolving26a-h1"
         ],
         "title": "Setup",
-        "text": "Assume the amount of tip as x",
-        "variabilization": {}
+        "text": "Assume the amount of tip as $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving26a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Setup",
         "text": "The equation can be translated in the equation form as $$90.5\\times0.18=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving26a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16.29"
+            "$$16.29$$"
         ],
         "dependencies": [
             "aae6efeSolving26a-h3"
         ],
         "title": "Calculation",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

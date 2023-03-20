@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewriting the Expression",
-        "text": "Adding -5 is the same as subtracting 5",
-        "variabilization": {}
+        "text": "Adding $$-5$$ is the same as subtracting $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int19c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "ae45a45int19c-h1"
         ],
         "title": "Rewriting the Expression",
-        "text": "What is 1-5?",
+        "text": "What is $$1-5$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ae45a45int19c-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "0"
+                    "$$0$$"
                 ],
                 "dependencies": [],
                 "title": "Rewriting the Expression",
-                "text": "What is 1-1?",
-                "variabilization": {}
+                "text": "What is $$1-1$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int19c-h2-s2",
@@ -41,14 +44,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-1"
+                    "$$-1$$"
                 ],
                 "dependencies": [
                     "ae45a45int19c-h2-s1"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is 1-2?",
-                "variabilization": {}
+                "text": "What is $$1-2$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int19c-h2-s3",
@@ -56,14 +60,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-2"
+                    "$$-2$$"
                 ],
                 "dependencies": [
                     "ae45a45int19c-h2-s2"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is 1-3?",
-                "variabilization": {}
+                "text": "What is $$1-3$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int19c-h2-s4",
@@ -71,14 +76,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-3"
+                    "$$-3$$"
                 ],
                 "dependencies": [
                     "ae45a45int19c-h2-s3"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is 1-4?",
-                "variabilization": {}
+                "text": "What is $$1-4$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int19c-h2-s5",
@@ -86,14 +92,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-4"
+                    "$$-4$$"
                 ],
                 "dependencies": [
                     "ae45a45int19c-h2-s4"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is 1-5?",
-                "variabilization": {}
+                "text": "What is $$1-5$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Applicable Property",
         "text": "Use the Commutative Property to rearrange the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers30a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Multiplying the Terms",
         "text": "What do the terms multiply to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

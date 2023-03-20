@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplify the Expression",
         "text": "To isolate the variable, first subtract both sides by one to get $$4x^2=6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify the Expression",
         "text": "Next, divide both sides by 4: $$x^2=\\frac{6}{4}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Square Root",
         "text": "Take the +/- square root of both sides: $$x=\\pm \\sqrt{\\frac{6}{4}}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad12a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Square Root",
         "text": "What is $$\\pm \\sqrt{\\frac{6}{4}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad12a-h5",
@@ -50,6 +54,7 @@
         ],
         "title": "Square Root",
         "text": "$$\\sqrt{6}$$ is in its simplest form, so we can leave it as it is. $$\\sqrt{4}=2$$, so the final answer is $$\\frac{\\pm \\sqrt{6}}{2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

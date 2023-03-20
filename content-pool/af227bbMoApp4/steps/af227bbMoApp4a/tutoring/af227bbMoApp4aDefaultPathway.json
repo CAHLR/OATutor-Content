@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Component of Total Expense",
         "text": "The total expenses should be the sum of operating expenses, salaries and cost for producing the part.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp4a-h2",
@@ -14,8 +15,9 @@
             "af227bbMoApp4a-h1"
         ],
         "title": "Identify known quantities",
-        "text": "The known quantities are 2.50, 350 and 3,300.",
-        "variabilization": {}
+        "text": "The known quantities are $$2.50$$, $$350$$ and 3,300.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "The unknown quantity in this problem is the number of this part produced.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp4a-h4",
@@ -34,8 +37,9 @@
             "af227bbMoApp4a-h3"
         ],
         "title": "Assign a variable",
-        "text": "Let x be the number of parts produced.",
-        "variabilization": {}
+        "text": "Let $$x$$ be the number of parts produced.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp4a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Translation to Math Operations",
         "text": "What is the mathematical form of the sum of this three components?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp4a-h6",
@@ -65,6 +70,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the linear equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

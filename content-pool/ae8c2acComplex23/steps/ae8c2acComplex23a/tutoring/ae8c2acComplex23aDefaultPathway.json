@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring i",
-        "text": "If b is a positive real number, then $$\\sqrt{-b}$$ $$=$$ $$i \\sqrt{b}$$.",
-        "variabilization": {}
+        "text": "If $$b$$ is a positive real number, then $$\\sqrt{-b}$$ $$=$$ $$i \\sqrt{b}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex23a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring i",
         "text": "What will our expression look like when we factor out i in both terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex23a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Simplifying Terms",
         "text": "If we simplify our square roots, what will $$i \\sqrt{36} i \\sqrt{4}$$ be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex23a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Multiplying i",
         "text": "What will we get if we multiply the two terms in $$6i\\times2 i$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex23a-h5",
@@ -58,13 +62,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-12"
+            "$$-12$$"
         ],
         "dependencies": [
             "ae8c2acComplex23a-h4"
         ],
         "title": "Solution",
         "text": "What will our final expression be after simplifying i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

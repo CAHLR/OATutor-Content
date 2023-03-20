@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "How to Verify a Solution",
         "text": "If a point is a solution to a system, then it satisfies both equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fpairs6a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Plugging in the Point",
         "text": "Let us plug in the point. $$1+\\frac{3}{4}=2$$. The first equation is not satisfied, so the point is not a solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

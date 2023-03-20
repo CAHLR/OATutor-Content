@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "What is Range?",
         "text": "Range is the set of y-values of a relation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4ddomain2a-h2",
@@ -14,7 +15,8 @@
             "acebb4ddomain2a-h1"
         ],
         "title": "Finding the Highest Number in the Range",
-        "text": "The highest y-value is 25",
-        "variabilization": {}
+        "text": "The highest y-value is $$25$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

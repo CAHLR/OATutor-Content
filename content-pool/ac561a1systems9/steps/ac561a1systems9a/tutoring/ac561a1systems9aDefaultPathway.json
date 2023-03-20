@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Eliminating Variables",
         "text": "When both equations in the system have like variables of the second degree, solving them using elimination by addition is often easier than substitution. Generally, elimination is a far simpler method when the system involves only two equations in two variables (a two-by-two system), rather than a three-by-three system, as there are fewer steps.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Shifting Terms",
         "text": "We can shift all the terms in the equations to the left hand side to make the equations tidier and to make future steps easier.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h3",
@@ -31,6 +33,7 @@
         "title": "Subtracting Equations",
         "text": "We observe that by subtracting the second equation from the first, we can remove the $$x^2$$ term. What is the equation obtained after subtracting the second equation from the first?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y^2-y-1=0$$",
             "$$y^2+y+1=0$$",
@@ -43,9 +46,10 @@
         "dependencies": [
             "ac561a1systems9a-h3"
         ],
-        "title": "Solving for y",
-        "text": "With the equation $$y^2-y-1=0$$, we can solve for y. The y-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
-        "variabilization": {}
+        "title": "Solving for $$y$$",
+        "text": "With the equation $$y^2-y-1=0$$, we can solve for $$y$$. The y-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h5",
@@ -58,9 +62,10 @@
         "dependencies": [
             "ac561a1systems9a-h4"
         ],
-        "title": "Solving for y",
-        "text": "We can use the quadratic formula $$y=\\frac{\\left(-b+-\\sqrt{b^2-4a c}\\right)}{2a}$$ to obtain the solutions. What are the y coordinates?",
+        "title": "Solving for $$y$$",
+        "text": "We can use the quadratic formula $$y=\\frac{\\left(-b+-\\sqrt{b^2-4a c}\\right)}{2a}$$ to obtain the solutions. What are the $$y$$ coordinates?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "(1-sqrt(5))/2,(1+sqrt(5))/2",
             "(sqrt(5)-1)/2,(1+sqrt(5))/2"
@@ -73,8 +78,9 @@
             "ac561a1systems9a-h5"
         ],
         "title": "Subsituting Possible Values",
-        "text": "We substitute all possible y coordinates back into one of the two equations to find the corresponding x coordinate to each y coordinate. Using any of the two equations work because the y coordinate found is a solution to the system of equations. We usually use the equation that is easier to calculate the other coordinate with.",
-        "variabilization": {}
+        "text": "We substitute all possible $$y$$ coordinates back into one of the two equations to find the corresponding $$x$$ coordinate to each $$y$$ coordinate. Using any of the two equations work because the $$y$$ coordinate found is a solution to the system of equations. We usually use the equation that is easier to calculate the other coordinate with.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h7",
@@ -83,8 +89,9 @@
             "ac561a1systems9a-h6"
         ],
         "title": "Substitution #1",
-        "text": "Substituting $$y=\\frac{1-\\sqrt{5}}{2}$$ into $$y=-\\left(x^2\\right)$$. What is the corresponding x coordinate?",
-        "variabilization": {}
+        "text": "Substituting $$y=\\frac{1-\\sqrt{5}}{2}$$ into $$y=-\\left(x^2\\right)$$. What is the corresponding $$x$$ coordinate?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h8",
@@ -93,8 +100,9 @@
             "ac561a1systems9a-h7"
         ],
         "title": "Substitution #1",
-        "text": "Multiply by -1 on both sides then take square root on both sides. The corresponding x coordinates are $$-\\sqrt{\\frac{\\sqrt{5}-1}{2}}$$, $$\\sqrt{\\frac{\\sqrt{5}-1}{2}}$$.",
-        "variabilization": {}
+        "text": "Multiply by $$-1$$ on both sides then take square root on both sides. The corresponding $$x$$ coordinates are $$-\\sqrt{\\frac{\\sqrt{5}-1}{2}}$$, $$\\sqrt{\\frac{\\sqrt{5}-1}{2}}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h9",
@@ -103,8 +111,9 @@
             "ac561a1systems9a-h8"
         ],
         "title": "Substitution #2",
-        "text": "Substituting $$y=\\frac{19}{20}$$ into $$y=20x^2-1$$. Find all possible corresponding x coordinates.",
-        "variabilization": {}
+        "text": "Substituting $$y=\\frac{19}{20}$$ into $$y=20x^2-1$$. Find all possible corresponding $$x$$ coordinates.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h10",
@@ -113,8 +122,9 @@
             "ac561a1systems9a-h9"
         ],
         "title": "Substitution #2",
-        "text": "Add 1 to both sides.",
-        "variabilization": {}
+        "text": "Add $$1$$ to both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h11",
@@ -123,8 +133,9 @@
             "ac561a1systems9a-h10"
         ],
         "title": "Substitution #2",
-        "text": "Divide by 20 to both sides.",
-        "variabilization": {}
+        "text": "Divide by $$20$$ to both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems9a-h12",
@@ -138,8 +149,9 @@
             "ac561a1systems9a-h11"
         ],
         "title": "Substitution #2",
-        "text": "Take square root on both sides. What are the corresponding x coordinates?",
+        "text": "Take square root on both sides. What are the corresponding $$x$$ coordinates?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "-sqrt(39)/20,sqrt(39)/20",
             "-sqrt(39)/40,sqrt(39)/40"
@@ -151,13 +163,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ac561a1systems9a-h12"
         ],
         "title": "Verifying the Number Of Intersections",
         "text": "We have found the coordinates of all intersections. How many are there?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

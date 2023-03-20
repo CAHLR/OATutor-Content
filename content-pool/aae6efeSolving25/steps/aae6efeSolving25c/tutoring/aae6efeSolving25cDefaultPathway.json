@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Setup",
-        "text": "Assume the fraction is x",
-        "variabilization": {}
+        "text": "Assume the fraction is $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving25c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translation",
         "text": "Transform the question in equation form as $$\\frac{50}{40}=x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving25c-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1.25"
+            "$$1.25$$"
         ],
         "dependencies": [
             "aae6efeSolving25c-h2"
         ],
         "title": "Calculation",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving25c-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "125"
+            "$$125$$"
         ],
         "dependencies": [
             "aae6efeSolving25c-h3"
         ],
         "title": "Conversion",
-        "text": "Translate 1.25 to a percentage (omit the percent sign in your answer)",
-        "variabilization": {}
+        "text": "Translate $$1.25$$ to a percentage (omit the percent sign in your answer)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

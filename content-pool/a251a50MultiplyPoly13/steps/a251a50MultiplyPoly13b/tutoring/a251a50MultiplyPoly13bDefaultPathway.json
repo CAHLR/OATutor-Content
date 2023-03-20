@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Consider (2c-d) as $$a+b$$",
-        "variabilization": {}
+        "text": "Consider $$(2c-d)$$ as $$a+b$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly13b-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the first term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly13b-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Multiplication",
         "text": "What is the second term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly13b-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Multiplication",
         "text": "What is the third term of this binomial square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Using the Power Rule to Simplify",
         "text": "By Power rule, $$\\ln(a^b)=\\operatorname{blog}\\left(a\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

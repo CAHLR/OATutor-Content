@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translating into math expression",
         "text": "The phrase translates into [8+(-12)]+3",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply10a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "aafc2dcMultiply10a-h1"
         ],
         "title": "Simplify",
         "text": "By the orders of operation, we evaluate $$8+\\left(-12\\right)$$ first. What is $$8+\\left(-12\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply10a-h3",
@@ -28,13 +30,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "aafc2dcMultiply10a-h2"
         ],
         "title": "Simplify",
         "text": "The last step: what is $$-4+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

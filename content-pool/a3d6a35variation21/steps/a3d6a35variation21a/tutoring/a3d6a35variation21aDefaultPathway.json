@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies a direct variation formula is needed. This formula is $$p=kg$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation21a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation21a-h1"
         ],
         "title": "Find values",
-        "text": "Since Terri bought 10 gallons of gas for 39.80, we can assign p to be 39.80 and g to be 10.",
-        "variabilization": {}
+        "text": "Since Terri bought $$10$$ gallons of gas for $$39.80$$, we can assign $$p$$ to be $$39.80$$ and g to be $$10$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation21a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the direct variation equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation21a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$p=3.98g$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Composition",
-        "text": "Remember that to solve g(f(x)), we need to plug in the value of f(x) into the value of x in g(x).",
-        "variabilization": {}
+        "text": "Remember that to solve g(f(x)), we need to plug in the value of f(x) into the value of $$x$$ in g(x).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition23b-h2",
@@ -14,8 +15,9 @@
             "a7b98f9composition23b-h1"
         ],
         "title": "Composition",
-        "text": "We need to plug in f(x), or $$x^2+1$$, for the x in the function f: $$\\sqrt{x^2+1+2}$$.",
-        "variabilization": {}
+        "text": "We need to plug in f(x), or $$x^2+1$$, for the $$x$$ in the function f: $$\\sqrt{x^2+1+2}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition23b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Addition",
         "text": "We need to add the constants: $$\\sqrt{x^2+2+1}=\\sqrt{x^2+3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

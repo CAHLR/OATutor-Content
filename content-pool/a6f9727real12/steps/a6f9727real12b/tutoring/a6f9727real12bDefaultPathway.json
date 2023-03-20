@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "The distributive property states that the product of a factor times a sum is the sum of the factor times each term in the sum. $$a \\left(b+c\\right)=a b+a c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real12b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Distributive Property",
         "text": "Using the distributive property the equation can be re-arranged in the form $$2r-15+5r+4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real12b-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Commutative Property of Addition",
         "text": "The equation can be re-arranged in the form $$2r+5r-15+4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real12b-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Like Terms",
         "text": "$$2r+5r=7r$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real12b-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Like Terms",
         "text": "$$-15+4=-11$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

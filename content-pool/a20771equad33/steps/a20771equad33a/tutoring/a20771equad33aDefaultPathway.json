@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Simplify",
-        "text": "Move the term on the right hand side to the left hand side to make the right hand side 0.",
-        "variabilization": {}
+        "text": "Move the term on the right hand side to the left hand side to make the right hand side $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad33a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Difference of Squares",
         "text": "Use difference of squares to rearrange the equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad33a-h3",
@@ -31,6 +33,7 @@
         "title": "Difference of Squares",
         "text": "What do we get after rearranging the equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(2x-3\\right) \\left(2x+3\\right)=0$$",
             "$$\\left(x+3\\right) \\left(2x+3\\right)=0$$",
@@ -49,7 +52,8 @@
             "a20771equad33a-h3"
         ],
         "title": "Factors",
-        "text": "What are the two numbers that make the expression 0",
-        "variabilization": {}
+        "text": "What are the two numbers that make the expression $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

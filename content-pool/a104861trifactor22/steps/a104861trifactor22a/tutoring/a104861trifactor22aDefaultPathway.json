@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor",
-        "text": "In this equation $${ax}^2+bx+c$$ the square root of a is 5",
-        "variabilization": {}
+        "text": "In this equation $${ax}^2+bx+c$$ the square root of a is $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a104861trifactor22a-h2",
@@ -14,8 +15,9 @@
             "a104861trifactor22a-h1"
         ],
         "title": "Factor Pt2.",
-        "text": "In the form $$\\left(px+o\\right) \\left(mx+n\\right)$$. To solve for o and n, they must multiply to the constant in the original equation and $$pn+om$$ is equal to b in $${ax}^2+bx+c$$.",
-        "variabilization": {}
+        "text": "In the form $$\\left(px+o\\right) \\left(mx+n\\right)$$. To solve for o and $$n$$, they must multiply to the constant in the original equation and $$pn+om$$ is equal to $$b$$ in $${ax}^2+bx+c$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a104861trifactor22a-h3",
@@ -29,8 +31,9 @@
             "a104861trifactor22a-h2"
         ],
         "title": "Solve",
-        "text": "What are the values of o and n? (Give answer with coma inbetween with the larger number first Ex. 4,2)",
-        "variabilization": {}
+        "text": "What are the values of o and $$n$$? (Give answer with coma inbetween with the larger number first Ex. 4,2)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a104861trifactor22a-h4",
@@ -38,6 +41,7 @@
         "dependencies": [],
         "title": "Plug in",
         "text": "Plug in the calculated values into the simplified form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

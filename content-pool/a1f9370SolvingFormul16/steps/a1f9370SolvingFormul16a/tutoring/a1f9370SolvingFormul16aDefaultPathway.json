@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Divide",
         "text": "Divide on both sides by WH in order to isolate L.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

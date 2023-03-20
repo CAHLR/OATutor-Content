@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "First, substitute $$y=3$$ into the first equation and simplify.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems26a-h2",
@@ -13,22 +14,24 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "18"
+            "$$18$$"
         ],
         "dependencies": [
             "ac561a1systems26a-h1"
         ],
         "title": "Solve",
-        "text": "Next, solve for x. What does x equal?",
+        "text": "Next, solve for $$x$$. What does $$x$$ equal?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ac561a1systems26a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 18.",
-                "variabilization": {}
+                "text": "The answer is $$18$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,7 +42,8 @@
             "ac561a1systems26a-h2"
         ],
         "title": "Answer",
-        "text": "$$y=3$$ is given, and the x-coordinate is 18, so the solution to the system of equations is (18,3))",
-        "variabilization": {}
+        "text": "$$y=3$$ is given, and the x-coordinate is $$18$$, so the solution to the system of equations is $$(18,3))$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

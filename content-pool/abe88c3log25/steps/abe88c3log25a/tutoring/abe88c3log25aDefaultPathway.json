@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using the Power Property of Logarithms.",
         "text": "Use the Power Property of Logarithms: $$\\log_{a}\\left(M^p\\right)$$ $$=$$ $$p*\\log_{a}\\left(M\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "abe88c3log25a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Applying the rule to this question.",
         "text": "In this case, $$\\log_{7}\\left(5^4\\right)$$ $$=$$ $$4*\\log_{7}\\left(5\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

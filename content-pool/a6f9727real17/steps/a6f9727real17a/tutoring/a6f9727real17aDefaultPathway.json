@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication",
         "text": "The first step is to simplify multiplication and division.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-24"
+            "$$-24$$"
         ],
         "dependencies": [
             "a6f9727real17a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$-12\\times2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Addition",
         "text": "The next step is to simplify addition and subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a6f9727real17a-h3"
         ],
         "title": "Addition",
         "text": "What is $$3-24+19$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

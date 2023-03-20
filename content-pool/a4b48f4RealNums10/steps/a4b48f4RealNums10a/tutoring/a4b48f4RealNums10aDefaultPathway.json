@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Reciprocals",
-        "text": "Notice that the first and last terms are reciprocals of each other meaning they multiply to equal 1.",
-        "variabilization": {}
+        "text": "Notice that the first and last terms are reciprocals of each other meaning they multiply to equal $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b48f4RealNums10a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Identifying Reciprocals",
         "text": "What is $$1\\frac{8}{23}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

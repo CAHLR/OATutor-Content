@@ -3,9 +3,10 @@
         "id": "a28448cslope18a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Solve the first equation for y",
-        "text": "$$6x-3y=9$$ $$-3y=-6x+9$$ $$\\frac{\\left(-3y\\right)}{-3}=\\frac{\\left(-6x+9\\right)}{-3}$$ $$y=2x-3$$",
-        "variabilization": {}
+        "title": "Solve the first equation for $$y$$",
+        "text": "$$6x-3y=9$$\\n$$-3y=-6x+9$$\\n$$\\frac{\\left(-3y\\right)}{-3}=\\frac{\\left(-6x+9\\right)}{-3}$$\\n$$y=2x-3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28448cslope18a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a28448cslope18a-h1"
         ],
-        "title": "Solve the second equation for y",
-        "text": "$$2x-y=3$$ $$-y=-2x+3$$ $$y=2x-3$$",
-        "variabilization": {}
+        "title": "Solve the second equation for $$y$$",
+        "text": "$$2x-y=3$$\\n$$-y=-2x+3$$\\n$$y=2x-3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28448cslope18a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Parallel Lines",
         "text": "Since the lines have the same equation, they are the same line. Therefore, they cannot be parallel.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

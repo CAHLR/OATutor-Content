@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use36a-h2",
@@ -21,6 +22,7 @@
         "title": "P-Parentheses",
         "text": "Are there any parentheses?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -32,14 +34,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a4d2b33use36a-h2"
         ],
         "title": "First Operation",
         "text": "What is $$5+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use36a-h4",
@@ -47,14 +50,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "24"
+            "$$24$$"
         ],
         "dependencies": [
             "a4d2b33use36a-h3"
         ],
         "title": "Second Operation",
-        "text": "What is 4 times the result of the first operation (the value in the inner parentheses)? The answer to this will be the value in the outer parentheses.",
-        "variabilization": {}
+        "text": "What is $$4$$ times the result of the first operation (the value in the inner parentheses)? The answer to this will be the value in the outer parentheses.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use36a-h5",
@@ -70,6 +74,7 @@
         "title": "E-Exponents",
         "text": "Are there any exponents?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -81,14 +86,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a4d2b33use36a-h5"
         ],
         "title": "Third Operation",
         "text": "What is $$7^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use36a-h7",
@@ -104,6 +110,7 @@
         "title": "MD- Multiplication or Division",
         "text": "Is there any multiplication or division?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -115,14 +122,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "48"
+            "$$48$$"
         ],
         "dependencies": [
             "a4d2b33use36a-h7"
         ],
         "title": "Fourth Operation",
-        "text": "What is 2 times the value of the outer parentheses?",
-        "variabilization": {}
+        "text": "What is $$2$$ times the value of the outer parentheses?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use36a-h9",
@@ -138,6 +146,7 @@
         "title": "AS- Addition or Subtraction",
         "text": "Is there any addition or subtraction?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -149,13 +158,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a4d2b33use36a-h9"
         ],
         "title": "Fifth Operation",
-        "text": "What is 49-48?",
-        "variabilization": {}
+        "text": "What is $$49-48$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

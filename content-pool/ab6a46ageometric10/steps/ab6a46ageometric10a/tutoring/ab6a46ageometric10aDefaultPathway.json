@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Divide",
         "text": "First, divide the second term by the first term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageometric10a-h2",
@@ -14,7 +15,8 @@
             "ab6a46ageometric10a-h1"
         ],
         "title": "Answer",
-        "text": "When you divide the second term by the first, r becomes 3.",
-        "variabilization": {}
+        "text": "When you divide the second term by the first, $$r$$ becomes $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

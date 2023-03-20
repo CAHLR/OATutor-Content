@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Interchanging Rows in a Matrix",
-        "text": "Swap rows 1 and 2 with each other.",
-        "variabilization": {}
+        "text": "Swap rows $$1$$ and $$2$$ with each other.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

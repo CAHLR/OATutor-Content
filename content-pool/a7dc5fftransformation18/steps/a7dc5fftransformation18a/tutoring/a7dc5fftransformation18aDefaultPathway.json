@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Horizontal Shift",
         "text": "Let's start with the horizontal shift. Horizontal shifts are denoted as addition (shift to the left) or subtraction (shift to the right) inside of the parentheses, or in this case, the absolute value signs. To shift one unit to the right, we subtract one inside the the absolute value backets.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation18a-h2",
@@ -21,6 +22,7 @@
         "title": "Horizontal Shift",
         "text": "What does the function look like now?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$|x-1|$$",
             "$$|x+1|$$"
@@ -34,7 +36,8 @@
         ],
         "title": "Vertical Shift",
         "text": "Vertical shifts denoted as addition (shift upwards) or subtraction (shift downwards) outside of the absolute value sign. To shift down one unit, we subtract three outside the brackets.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation18a-h4",
@@ -50,6 +53,7 @@
         "title": "Vertical Shift",
         "text": "What does the function look?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$|x-1|-3$$",
             "$$|x+1|-3$$",

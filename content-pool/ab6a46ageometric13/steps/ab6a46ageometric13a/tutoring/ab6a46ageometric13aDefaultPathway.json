@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Divide",
-        "text": "First, divide each term by its previous term. So for the first term, you would divide 2 by 1.",
-        "variabilization": {}
+        "text": "First, divide each term by its previous term. So for the first term, you would divide $$2$$ by $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageometric13a-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ab6a46ageometric13a-h1"
@@ -21,14 +22,16 @@
         "title": "Divide all terms",
         "text": "Divide all of the terms by their previous one. What does the division equal for each term?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ab6a46ageometric13a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 3.",
-                "variabilization": {}
+                "text": "The answer is $$3$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,7 +42,8 @@
             "ab6a46ageometric13a-h2"
         ],
         "title": "Answer",
-        "text": "Therefore, the answer is 3.",
-        "variabilization": {}
+        "text": "Therefore, the answer is $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon17a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Subtraction",
         "text": "Subtract 20k from each side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon17a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon17a-h4",
@@ -46,6 +49,7 @@
         "title": "Verification",
         "text": "Check whether $$21\\left(-11\\right)$$ equals $$20\\left(-11\\right)-11$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

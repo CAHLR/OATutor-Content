@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Translate into Algebra",
-        "text": "Let $$n=number$$. $$n=0.55$$ * 60",
-        "variabilization": {}
+        "text": "Let $$n=number$$. $$n=0.55$$ * $$60$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Of and \"Is\" in math",
         "text": "Of means multiple and \"is\" means equals",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent3a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Multiply.",
         "text": "$$n=33$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

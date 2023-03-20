@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Equation is a Circle",
         "text": "Since $$a=b$$ in this equation, it represents a circle. Thus, the answer is DNE.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

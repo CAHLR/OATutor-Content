@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Define the Domain",
         "text": "A rational function is undefined when the denominator is equal to zero. So, let's start by setting the denominator equal to zero. Then we know every value other than that is a solution. (We can ignore the numerator since there is no value where it is undefined!)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain27a-h2",
@@ -13,20 +14,22 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
         "title": "Solving For the Domain",
-        "text": "What is x for $$x-6=0$$?",
+        "text": "What is $$x$$ for $$x-6=0$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aeb11eedomain27a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Solving For the Domain",
-                "text": "For $$x-6=0$$, add 6 to both sides, and $$x=6$$.",
-                "variabilization": {}
+                "text": "For $$x-6=0$$, add $$6$$ to both sides, and $$x=6$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -37,7 +40,8 @@
             "aeb11eedomain27a-h2"
         ],
         "title": "Answer",
-        "text": "So, the function is defined for every value other than 6.The domain of the function is $$(-\\infty,6) \\cup (6,\\infty)$$, with the circle bracket around 6 denoting the fact that 6 is a not valid solution, and the U showing that both intervals are solutions.",
-        "variabilization": {}
+        "text": "So, the function is defined for every value other than 6.The domain of the function is $$(-\\infty,6) \\cup (6,\\infty)$$, with the circle bracket around $$6$$ denoting the fact that $$6$$ is a not valid solution, and the U showing that both intervals are solutions.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

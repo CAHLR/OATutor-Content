@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{2} \\sqrt{6}=\\sqrt{12}$$. We now have $$15\\sqrt{12}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root24a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$\\sqrt{12}=\\sqrt{4\\times3}=2\\sqrt{3}$$. $$15\\times2 \\sqrt{3}=30\\sqrt{3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "A vertical line is the graph of an equation of the form $$x=a$$. A horizontal line is the graph of an equation of the form $$y=b$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac879b3graph14a-h2",
@@ -13,8 +14,9 @@
         "dependencies": [
             "ac879b3graph14a-h1"
         ],
-        "title": "The expression $$y=-4$$ does not contain the variable x. This equation cannot be a vertical line.",
+        "title": "The expression $$y=-4$$ does not contain the variable $$x$$. This equation cannot be a vertical line.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

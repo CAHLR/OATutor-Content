@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Lowest Common Denominator",
         "text": "The first step is to find the lowest common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Lowest Common Denominator",
         "text": "What is the lowest common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Distribute and multiply",
         "text": "Distribute and multiply the lowest common denominator to all the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Distribute and multiply",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Quadratic Form",
         "text": "Rearrange the equation into the quadratic form and factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Quadratic Form",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h7",
@@ -84,8 +90,9 @@
             "a60a373solverat8a-h6"
         ],
         "title": "Zero Product Property",
-        "text": "Solve for x. If there are two answers, input your answer in the format $$x=a$$, $$x=b$$ where a and b are the values of x.",
-        "variabilization": {}
+        "text": "Solve for $$x$$. If there are two answers, input your answer in the format $$x=a$$, $$x=b$$ where a and $$b$$ are the values of $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat8a-h8",
@@ -95,6 +102,7 @@
         ],
         "title": "Double Check",
         "text": "Plug answers for a back into the original equation to make the sure answer is correct and not undefined at any point.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

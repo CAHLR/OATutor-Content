@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [],
         "title": "Absolute Values Principle",
         "text": "What is |-13|?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int1d-h2",
@@ -18,7 +19,8 @@
         "dependencies": [],
         "title": "Absolute Values Principle",
         "text": "The number within absolute sign will always be positive",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int1d-h3",
@@ -26,11 +28,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [],
         "title": "Magnitude of Number",
         "text": "What is the magitude of -13?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring the numerator",
         "text": "Factor the numerator to $$\\left(x+2\\right) \\left(x+3\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the denominator",
         "text": "Factor the denominator to $$\\left(x+2\\right) \\left(x+6\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational3a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Dividing",
         "text": "Divide by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

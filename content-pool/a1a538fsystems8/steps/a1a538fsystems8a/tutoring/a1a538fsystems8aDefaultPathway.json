@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Slope Intercept form",
         "text": "Put both equations into slope intercept form. This will allow us to compare their characteristics.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fsystems8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Extract slopes and intercepts",
         "text": "Determine the slopes and intercepts of each line.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fsystems8a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Interpret",
         "text": "If the slopes and intercepts of both lines are the same, the system is coincident. If the slopes are the same, but the intercepts are not, the lines are parallel. If neither are the same, the system intersects.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fsystems8a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The system is intersecting.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

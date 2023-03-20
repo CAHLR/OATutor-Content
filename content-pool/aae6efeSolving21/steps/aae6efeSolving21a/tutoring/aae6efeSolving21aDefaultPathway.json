@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Setup",
-        "text": "Assume the second number is x",
-        "variabilization": {}
+        "text": "Assume the second number is $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving21a-h2",
@@ -14,8 +15,9 @@
             "aae6efeSolving21a-h1"
         ],
         "title": "Principle",
-        "text": "The difference between two consecutive even integers is two. Therefore, the other numbers are $$x+2$$ and x-2",
-        "variabilization": {}
+        "text": "The difference between two consecutive even integers is two. Therefore, the other numbers are $$x+2$$ and $$x-2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving21a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Substitution",
         "text": "Rewrite the sum in the equation as $$x+x+2+x-2=222$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving21a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Simplify",
         "text": "The equation can be combined as $$3x=222$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving21a-h5",
@@ -43,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "74"
+            "$$74$$"
         ],
         "dependencies": [
             "aae6efeSolving21a-h4"
         ],
         "title": "Calculation",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving21a-h6",
@@ -59,7 +64,8 @@
             "aae6efeSolving21a-h5"
         ],
         "title": "Substitution",
-        "text": "Use the value of x to find the other numbers",
-        "variabilization": {}
+        "text": "Use the value of $$x$$ to find the other numbers",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

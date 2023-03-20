@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identities",
-        "text": "Useful identities to switch from polar form to rectangular form are $$r=\\sqrt{x^2+y^2}$$ $$x=r cos\\left(\\theta\\right)$$ $$y=r sin\\left(\\theta\\right)$$",
-        "variabilization": {}
+        "text": "Useful identities to switch from polar form to rectangular form are\\n$$r=\\sqrt{x^2+y^2}$$\\n$$x=r cos\\left(\\theta\\right)$$\\n$$y=r sin\\left(\\theta\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Eliminate the fraction",
         "text": "We can eliminate the fraction by multiplying the denominator across both sides of the equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h3",
@@ -24,8 +26,9 @@
             "a0f69c4conic6a-h2"
         ],
         "title": "Distribute",
-        "text": "We can distribute the r that was initially on the LHS into the $$5-5sin\\left(\\theta\\right)$$ that was multiplied to the LHS.",
-        "variabilization": {}
+        "text": "We can distribute the $$r$$ that was initially on the LHS into the $$5-5sin\\left(\\theta\\right)$$ that was multiplied to the LHS.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h4",
@@ -33,9 +36,10 @@
         "dependencies": [
             "a0f69c4conic6a-h3"
         ],
-        "title": "Isolate 5r",
-        "text": "We want to isolate the r terms that are not associated multiplied to a trigonometric function. We do so by adding $$5r sin\\left(\\theta\\right)$$ across both sides.",
-        "variabilization": {}
+        "title": "Isolate $$5r$$",
+        "text": "We want to isolate the $$r$$ terms that are not associated multiplied to a trigonometric function. We do so by adding $$5r sin\\left(\\theta\\right)$$ across both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Square Both Sides",
         "text": "Square both sides of the equation. The goal is to obtain the $$r^2$$ so that we can utilize the identity $$r=\\sqrt{x^2+y^2}$$ without the square root.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Substitution of Identities",
         "text": "Substitute identities $$r=\\sqrt{x^2+y^2}$$ and $$y=r sin\\left(\\theta\\right)$$ into the current equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Distribute and use FOIL",
         "text": "We want to expand out the equation so that we can later rearrange the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0f69c4conic6a-h8",
@@ -73,8 +80,9 @@
         "dependencies": [
             "a0f69c4conic6a-h7"
         ],
-        "title": "Rearrange Terms and Set Constant to 1",
-        "text": "We force out the standard rectangular form by rearranging all the terms with variables x and y to the LHS and ensuring the constant is 1 on the RHS.",
-        "variabilization": {}
+        "title": "Rearrange Terms and Set Constant to $$1$$",
+        "text": "We force out the standard rectangular form by rearranging all the terms with variables $$x$$ and $$y$$ to the LHS and ensuring the constant is $$1$$ on the RHS.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find a pattern",
         "text": "We look for a pattern in the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a391214Sequ12a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "an $$=$$ 5n"
+            "an $$=$$ $$5n$$"
         ],
         "dependencies": [
             "a391214Sequ12a-h1"
         ],
         "title": "Find the result",
-        "text": "The numbers are all multiples of 5. What should the general term be?",
-        "variabilization": {}
+        "text": "The numbers are all multiples of $$5$$. What should the general term be?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

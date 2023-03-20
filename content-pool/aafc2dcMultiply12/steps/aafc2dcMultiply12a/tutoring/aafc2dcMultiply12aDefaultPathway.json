@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translating into math expression",
         "text": "The phrase translates into $$14\\left(-2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply12a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-28"
+            "$$-28$$"
         ],
         "dependencies": [
             "aafc2dcMultiply12a-h1"
         ],
         "title": "Simplify",
         "text": "What is $$14\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Identifying Square Root",
         "text": "$$\\sqrt{-169}$$ is not a real number",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -11,6 +11,7 @@
         "title": "Seeing if the Signs Are Different",
         "text": "Are the signs of the two terms different?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -23,8 +24,9 @@
             "a9ae528add14a-h1"
         ],
         "title": "First Step to Find the Value of the Expression",
-        "text": "Since 31 and 19 have the same sign, we add 31 to 19.",
-        "variabilization": {}
+        "text": "Since $$31$$ and $$19$$ have the same sign, we add $$31$$ to $$19$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add14a-h3",
@@ -34,7 +36,8 @@
         ],
         "title": "Sign of the Answer",
         "text": "The answer will be negative because there are only negatives",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add14a-h4",
@@ -42,13 +45,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-50"
+            "$$-50$$"
         ],
         "dependencies": [
             "a9ae528add14a-h3"
         ],
         "title": "Calculating the Value of the Expression",
         "text": "What is $$-\\left(31+19\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

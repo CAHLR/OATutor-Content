@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies an inverse variation formula. This formula is $$t=\\frac{k}{r}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation26a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation26a-h1"
         ],
         "title": "Find values",
-        "text": "Since it took Janet 5 hours to pump the basement with a 200gpm pump, we can assign t to be 5 and r to be 200.",
-        "variabilization": {}
+        "text": "Since it took Janet $$5$$ hours to pump the basement with a 200gpm pump, we can assign $$t$$ to be $$5$$ and $$r$$ to be $$200$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation26a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the inverse variation equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation26a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$t=\\frac{1000}{r}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

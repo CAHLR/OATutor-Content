@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Exponential Growth and Decay",
         "text": "We are able to use the formula $$y=A_0 e^{k t}$$ where $$A_0$$ is equal to the value at time zero, e is Euler\u2019s constant, and k is a positive constant that determines the rate of growth or decay to model exponential growth or decay respectively. In the case of an exponential growth, the k value is positive while in the case of an exponential decay, the k value is negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rate of $$\\frac{Growth}{Decay}$$",
         "text": "We want to find the rate of decay, k, so that we can obtain the expression. The model for exponential decay is $$y=A_0 e^{k t}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rate of $$\\frac{Growth}{Decay}$$",
         "text": "Divide by $$A_0$$ on both sides.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Rate of $$\\frac{Growth}{Decay}$$",
         "text": "Take the natural log of both sides.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h5",
@@ -49,8 +53,9 @@
             "af69facexpolog23a-h4"
         ],
         "title": "Rate of $$\\frac{Growth}{Decay}$$",
-        "text": "Divide by the time variable. We now obtain an expression for the rate of decay, k. What is k? Express in terms of y, $$A_0$$ and t.",
-        "variabilization": {}
+        "text": "Divide by the time variable. We now obtain an expression for the rate of decay, k. What is k? Express in terms of $$y$$, $$A_0$$ and $$t$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h6",
@@ -59,8 +64,9 @@
             "af69facexpolog23a-h5"
         ],
         "title": "Half-life",
-        "text": "Observe that the expression, $$\\frac{y}{A_0}$$ within the natural log expression is the proportion of the object's mass left. At half-life, this would be 50% or 0.5.",
-        "variabilization": {}
+        "text": "Observe that the expression, $$\\frac{y}{A_0}$$ within the natural log expression is the proportion of the object's mass left. At half-life, this would be 50% or $$0.5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog23a-h7",
@@ -68,13 +74,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-0.0666"
+            "$$-0.0666$$"
         ],
         "dependencies": [
             "af69facexpolog23a-h6"
         ],
         "title": "Substitution",
         "text": "We can substitute $$\\frac{y}{A_0}=0.5$$ and the half-life time, $$t=10.4$$ that is given. What is k? Round to four decimal places.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

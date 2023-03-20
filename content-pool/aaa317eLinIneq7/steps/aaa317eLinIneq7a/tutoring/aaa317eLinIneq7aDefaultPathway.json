@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "We can leave the compound inequality intact, and perform solving procedures on the three parts at the same time.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq7a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "aaa317eLinIneq7a-h1"
         ],
         "title": "Applying the Addition Property",
         "text": "What number should we add to all three parts to isolate the variable term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq7a-h3",
@@ -36,6 +38,7 @@
         "title": "Applying the Addition Property",
         "text": "What does the compound inequality become?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$5 \\leq 2x<4$$",
             "$$1 \\leq 2x<4$$"
@@ -53,8 +56,9 @@
             "aaa317eLinIneq7a-h3"
         ],
         "title": "Applying the Multiplication Property",
-        "text": "What number should we multiply to all three parts to eliminate the coefficient of x?",
-        "variabilization": {}
+        "text": "What number should we multiply to all three parts to eliminate the coefficient of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq7a-h5",
@@ -70,6 +74,7 @@
         "title": "Applying the Multiplication Property",
         "text": "What does the compound inequality become?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{1}{2} \\leq x<2$$",
             "$$2 \\leq x<8$$"
@@ -89,6 +94,7 @@
         "title": "Interval Notation",
         "text": "What is this inequality written in the interval notation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$[\\frac{1}{2},2)$$",
             "$$(\\frac{1}{2},2]$$"

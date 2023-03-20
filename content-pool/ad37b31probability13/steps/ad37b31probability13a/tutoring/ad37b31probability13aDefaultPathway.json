@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Mutually Exclusive Events",
         "text": "The events \u201clanding on green\u201d and \u201clanding on red\u201d are mutually exclusive because they cannot occur at the same time.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability13a-h2",
@@ -14,8 +15,9 @@
             "ad37b31probability13a-h1"
         ],
         "title": "Sample Space",
-        "text": "There are 8 total areas where the arrow can land on.",
-        "variabilization": {}
+        "text": "There are $$8$$ total areas where the arrow can land on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability13a-h3",
@@ -24,8 +26,9 @@
             "ad37b31probability13a-h2"
         ],
         "title": "Landing on Green",
-        "text": "There are 2 slices in the circle that the arrow can land on: the I and the F.",
-        "variabilization": {}
+        "text": "There are $$2$$ slices in the circle that the arrow can land on: the I and the F.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability13a-h4",
@@ -34,8 +37,9 @@
             "ad37b31probability13a-h3"
         ],
         "title": "Landing on Red",
-        "text": "There is only 1 slice in the circle that the arrow can land on.",
-        "variabilization": {}
+        "text": "There is only $$1$$ slice in the circle that the arrow can land on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability13a-h5",
@@ -44,8 +48,9 @@
             "ad37b31probability13a-h4"
         ],
         "title": "Landing on a Green Vowel",
-        "text": "There is only 1 slice in the circle that the arrow can land on: the green I.",
-        "variabilization": {}
+        "text": "There is only $$1$$ slice in the circle that the arrow can land on: the green I.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability13a-h6",
@@ -55,6 +60,7 @@
         ],
         "title": "Addition",
         "text": "Add the probability of landing on green with the probability of landing on red.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

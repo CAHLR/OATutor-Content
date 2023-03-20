@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find $$a_1$$",
         "text": "$$a_1$$ is the first term of the sequence.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "ab6a46ageo5a-h1"
         ],
         "title": "Find $$a_1$$",
         "text": "What is $$a_1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "ab6a46ageo5a-h2"
         ],
-        "title": "Find r",
+        "title": "Find $$r$$",
         "text": "The common ratio can be found by dividing the second term by the first term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "ab6a46ageo5a-h3"
         ],
-        "title": "Find r",
+        "title": "Find $$r$$",
         "text": "What is $$\\frac{2}{-1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h5",
@@ -54,9 +58,10 @@
             "ab6a46ageo5a-h2",
             "ab6a46ageo5a-h4"
         ],
-        "title": "Explicit Formula for a Geometric Sequence",
-        "text": "Since $$a_1=-1$$ and $$r=-2$$, substitute -1 and -2 into the formula: $$a_n=a_1 r^{n-1}$$.",
-        "variabilization": {}
+        "title": "Explicit Formula for a Geometric Sequence |newline|",
+        "text": "Since $$a_1=-1$$ and $$r=-2$$, substitute $$-1$$ and $$-2$$ into the formula: $$a_n=a_1 r^{n-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h6",
@@ -69,9 +74,10 @@
         "dependencies": [
             "ab6a46ageo5a-h5"
         ],
-        "title": "Explicit Formula for a Geometric Sequence",
+        "title": "Explicit Formula for a Geometric Sequence |newline|",
         "text": "What is the explicit formula for this geometric sequence?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h7",
@@ -80,8 +86,9 @@
             "ab6a46ageo5a-h6"
         ],
         "title": "Find $$a_{12}$$",
-        "text": "Since we want to find the 12th term, $$n=12$$. Substitute 12 into $$a_n=-1{\\left(-2\\right)}^{n-1}$$.",
-        "variabilization": {}
+        "text": "Since we want to find the 12th term, $$n=12$$. Substitute $$12$$ into $$a_n=-1{\\left(-2\\right)}^{n-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h8",
@@ -89,14 +96,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2048"
+            "$$2048$$"
         ],
         "dependencies": [
             "ab6a46ageo5a-h7"
         ],
         "title": "Solve for $$a_{12}$$",
         "text": "What is $$-1{\\left(-2\\right)}^{12-1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageo5a-h9",
@@ -106,6 +114,7 @@
         ],
         "title": "12th term",
         "text": "$$a_{12}=2048$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

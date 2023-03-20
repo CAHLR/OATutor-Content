@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "The distributive property states that the product of a factor times a sum is the sum of the factor times each term in the sum. $$a \\left(b+c\\right)=a b+a c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real6a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "48"
+            "$$48$$"
         ],
         "dependencies": [
             "a6f9727real6a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$4\\times12$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real6a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-28"
+            "$$-28$$"
         ],
         "dependencies": [
             "a6f9727real6a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$4\\left(-7\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real6a-h4",
@@ -43,7 +46,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a6f9727real6a-h2",
@@ -51,6 +54,7 @@
         ],
         "title": "Addition",
         "text": "What is $$48+\\left(-28\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

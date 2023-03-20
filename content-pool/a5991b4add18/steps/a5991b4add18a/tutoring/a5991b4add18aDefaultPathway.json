@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Number of Terms",
-        "text": "Since there are 5 terms, the expression is neither a monomial, binomial, nor trinomial.",
-        "variabilization": {}
+        "text": "Since there are $$5$$ terms, the expression is neither a monomial, binomial, nor trinomial.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

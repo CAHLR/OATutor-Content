@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Dividing Exponents",
         "text": "If two exponent expressions in a quotient have the same base (ex: (x**a)/(x**b)) then this is the same as $$x^{a-b}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers9a-h2",
@@ -20,15 +21,17 @@
         ],
         "title": "SImplifying the Quotient",
         "text": "What does $$\\frac{a^8}{a^5}$$ simplify to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers9a-h3",
         "type": "hint",
         "dependencies": [],
         "title": "Simplifying Odd Roots",
-        "text": "When taking the nth root of some integer x $$ \\geq $$ 2, if n is odd, the answer is x",
-        "variabilization": {}
+        "text": "When taking the nth root of some integer $$x$$ $$ \\geq $$ $$2$$, if $$n$$ is odd, the answer is $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers9a-h4",
@@ -43,6 +46,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "What is $$\\sqrt[3]{a^3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

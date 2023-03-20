@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Set of the math equation",
         "text": "The first step is to express the question as a mathematical expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve4a-h2",
@@ -21,6 +22,7 @@
         "title": "Consecutive numbers",
         "text": "The problem states that the integers are consecutive. How can we express that condition?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "n,n+1,n+2",
             "n,n+3,n+5",
@@ -33,14 +35,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-96"
+            "$$-96$$"
         ],
         "dependencies": [
             "a01e792probsolve4a-h2"
         ],
         "title": "Total sum",
         "text": "What should the numbers add up to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve4a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "The next step is to solve the math equation",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

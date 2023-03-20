@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of the General Form",
         "text": "The general form has the formula $$g(x)={ax}^2+bx+c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic9a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Definition of the Standard Form",
         "text": "The standard form is $$g(x)={a\\left(x-h\\right)}^2+k$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

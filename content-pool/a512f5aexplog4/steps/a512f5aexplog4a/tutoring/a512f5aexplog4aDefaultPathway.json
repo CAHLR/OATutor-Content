@@ -11,6 +11,7 @@
         "title": "Determine if terms have a common base.",
         "text": "Do the terms have a common base?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -22,9 +23,10 @@
         "dependencies": [
             "a512f5aexplog4a-h1"
         ],
-        "title": "Using logarithms to solve for x.",
-        "text": "The next step is to take the log of both sides. The choice of the base for the logs does not matter. For this problem, the easiest choice would be log base 9.",
-        "variabilization": {}
+        "title": "Using logarithms to solve for $$x$$.",
+        "text": "The next step is to take the log of both sides. The choice of the base for the logs does not matter. For this problem, the easiest choice would be log base $$9$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h3",
@@ -34,7 +36,8 @@
         ],
         "title": "Using properties of logs to bring the exponent down.",
         "text": "Recall that $${\\ln(a)}^b$$ $$=$$ b*loga).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h4",
@@ -42,9 +45,10 @@
         "dependencies": [
             "a512f5aexplog4a-h3"
         ],
-        "title": "Isolate x.",
-        "text": "The next step is to isolate x on one side of the equation.",
-        "variabilization": {}
+        "title": "Isolate $$x$$.",
+        "text": "The next step is to isolate $$x$$ on one side of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h5",
@@ -54,7 +58,8 @@
         ],
         "title": "Duality between logarithms and exponents.",
         "text": "Recall that $$\\log_{a}\\left(b\\right)=x$$ can be rewritten as $$a^x=b$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h6",
@@ -62,14 +67,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a512f5aexplog4a-h5"
         ],
         "title": "Solving logarithms.",
         "text": "What is $$\\log_{9}\\left(9\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h7",
@@ -77,14 +83,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a512f5aexplog4a-h6"
         ],
         "title": "Solving logarithms.",
         "text": "What is $$\\log_{9}\\left(1\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog4a-h8",
@@ -92,8 +99,9 @@
         "dependencies": [
             "a512f5aexplog4a-h7"
         ],
-        "title": "Solving for x.",
-        "text": "The last step is to solve for x. The equation should be a simple algebraic equation!",
-        "variabilization": {}
+        "title": "Solving for $$x$$.",
+        "text": "The last step is to solve for $$x$$. The equation should be a simple algebraic equation!",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

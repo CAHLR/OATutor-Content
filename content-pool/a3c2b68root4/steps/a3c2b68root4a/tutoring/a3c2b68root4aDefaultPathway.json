@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$6\\sqrt{2x^2}\\times8 \\sqrt{45x^4}$$ $$=$$ $$48\\sqrt{90x^6}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root4a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$\\sqrt{90x^6}=3x^3 \\sqrt{10}$$, so we have $$48\\times3 x^3 \\sqrt{10}=144x^3 \\sqrt{10}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

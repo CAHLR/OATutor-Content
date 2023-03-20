@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtract",
         "text": "Subtract 2W from both sides to isolate L.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f9370SolvingFormul28a-h2",
@@ -14,7 +15,8 @@
             "a1f9370SolvingFormul28a-h1"
         ],
         "title": "Divide",
-        "text": "Divide on both sides by 2.",
-        "variabilization": {}
+        "text": "Divide on both sides by $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

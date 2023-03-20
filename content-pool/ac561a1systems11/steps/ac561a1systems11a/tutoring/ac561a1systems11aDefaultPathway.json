@@ -3,9 +3,10 @@
         "id": "ac561a1systems11a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Solving for x",
-        "text": "Solve the first equation for x and then substitute the resulting expression into the second equation.",
-        "variabilization": {}
+        "title": "Solving for $$x$$",
+        "text": "Solve the first equation for $$x$$ and then substitute the resulting expression into the second equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving for Zeroes",
         "text": "Expand the equation and set it equal to zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems11a-h3",
@@ -24,8 +26,9 @@
             "ac561a1systems11a-h2"
         ],
         "title": "Subsituting Each Y Value",
-        "text": "Next, substitute each value for y into the first equation to solve for x. Always substitute the value into the linear equation to check for extraneous solutions.",
-        "variabilization": {}
+        "text": "Next, substitute each value for $$y$$ into the first equation to solve for $$x$$. Always substitute the value into the linear equation to check for extraneous solutions.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems11a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Verifying the Solution",
         "text": "The solutions can be verified by subsituting these (x,y) values into both of the original equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

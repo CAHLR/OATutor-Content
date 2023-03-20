@@ -5,20 +5,22 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
-        "title": "Find p",
-        "text": "Find p by using the form $$y^2=4px$$. Solve for p. What is it?",
+        "title": "Find $$p$$",
+        "text": "Find $$p$$ by using the form $$y^2=4px$$. Solve for $$p$$. What is it?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a0351f0parabola4a-h1-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 6.",
-                "variabilization": {}
+                "text": "The answer is $$6$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -36,6 +38,7 @@
         "title": "Use $$x=-p$$",
         "text": "The equation of the directrix is $$x=-p$$. Use this to find the directrix.",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a0351f0parabola4a-h2-s1",
@@ -43,7 +46,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$x=-6$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -55,6 +59,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the answer is $$x=-6$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

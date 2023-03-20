@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "What is Domain?",
         "text": "Domain is the set of x-values of a relation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4ddomain3a-h2",
@@ -14,7 +15,8 @@
             "acebb4ddomain3a-h1"
         ],
         "title": "Finding the Highest Number in the Domain",
-        "text": "The highest x-value is 5",
-        "variabilization": {}
+        "text": "The highest x-value is $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

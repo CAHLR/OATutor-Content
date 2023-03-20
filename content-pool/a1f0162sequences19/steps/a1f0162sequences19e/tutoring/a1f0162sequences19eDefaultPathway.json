@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute $$n=5$$ into the formula",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19e-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplification",
         "text": "Calculate the expression $$\\frac{4\\times5}{{\\left(-2\\right)}^5}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19e-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a1f0162sequences19e-h2"
         ],
         "title": "Calculate the numerator",
         "text": "What is $$4\\times5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19e-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-32"
+            "$$-32$$"
         ],
         "dependencies": [
             "a1f0162sequences19e-h3"
         ],
         "title": "Calculate the denominator",
         "text": "What is $${\\left(-2\\right)}^5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19e-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Putting It Together",
         "text": "Put the numerator and denominator together to create a fraction",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

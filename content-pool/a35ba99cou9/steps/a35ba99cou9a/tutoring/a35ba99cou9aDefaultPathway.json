@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Number of Options",
-        "text": "In a coin, there is only 2 sides: heads or tails. We are tossing 2 coins.",
-        "variabilization": {}
+        "text": "In a coin, there is only $$2$$ sides: heads or tails. We are tossing $$2$$ coins.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou9a-h2",
@@ -14,7 +15,8 @@
             "a35ba99cou9a-h1"
         ],
         "title": "Outcomes",
-        "text": "There are 4 outcomes from tossing a pair of coins: HH, HT, TH, TT",
-        "variabilization": {}
+        "text": "There are $$4$$ outcomes from tossing a pair of coins: HH, HT, TH, TT",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

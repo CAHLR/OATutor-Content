@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find $$a_1$$ and $$a_n$$",
         "text": "We are given $$a_1=5$$ and $$a_n=32$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser4a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a57f999ser4a-h1"
         ],
-        "title": "Find n",
+        "title": "Find $$n$$",
         "text": "Count the number of terms in the sequence to find $$n=10$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser4a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a57f999ser4a-h2"
         ],
-        "title": "Formula for Sum of the first n terms of Arithmetic Sequence",
-        "text": "Substitute values for $$a_1$$, $$a_n$$ , and n into the formula: $$S_n=\\frac{n \\left(a_1+a_n\\right)}{2}$$",
-        "variabilization": {}
+        "title": "Formula for Sum of the first $$n$$ terms of Arithmetic Sequence",
+        "text": "Substitute values for $$a_1$$, $$a_n$$ , and $$n$$ into the formula: $$S_n=\\frac{n \\left(a_1+a_n\\right)}{2}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser4a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "185"
+            "$$185$$"
         ],
         "dependencies": [
             "a57f999ser4a-h3"
         ],
-        "title": "Formula for Sum of the first 10 terms of Arithmetic Series",
+        "title": "Formula for Sum of the first $$10$$ terms of Arithmetic Series",
         "text": "What is $$S_{10}=\\frac{10\\left(5+32\\right)}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser4a-h5",
@@ -48,8 +52,9 @@
         "dependencies": [
             "a57f999ser4a-h4"
         ],
-        "title": "Sum of the first 10 terms of Arithmetic Series",
-        "text": "The Sum of the first 10 terms of Arithmetic Series is 185.",
-        "variabilization": {}
+        "title": "Sum of the first $$10$$ terms of Arithmetic Series",
+        "text": "The Sum of the first $$10$$ terms of Arithmetic Series is $$185$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

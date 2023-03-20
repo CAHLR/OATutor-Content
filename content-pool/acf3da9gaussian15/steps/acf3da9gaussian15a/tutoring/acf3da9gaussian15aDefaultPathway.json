@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "The Zero Product Property",
         "text": "The zero product property says if the product of two quantities is zero, it must be that at least one of the quantities is zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acf3da9gaussian15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the Equation",
         "text": "We can factor $$5a^2-26-24=0$$ to use the zero product property. $$5a^2-26a-24=\\left(5a+4\\right) \\left(a-6\\right)=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acf3da9gaussian15a-h3",
@@ -24,7 +26,8 @@
             "acf3da9gaussian15a-h2"
         ],
         "title": "Using the Zero Product Property",
-        "text": "As per the zero product property, if $$\\left(5a+4\\right) \\left(a-6\\right)$$, then either $$5a+4$$ or a-6 is equal to 0. Setting both of these to 0, we get $$a=\\frac{-4}{5}$$ and $$a=6$$. Summing these values, we get 5.2",
-        "variabilization": {}
+        "text": "As per the zero product property, if $$\\left(5a+4\\right) \\left(a-6\\right)$$, then either $$5a+4$$ or a-6 is equal to $$0$$. Setting both of these to $$0$$, we get $$a=\\frac{-4}{5}$$ and $$a=6$$. Summing these values, we get $$5.2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

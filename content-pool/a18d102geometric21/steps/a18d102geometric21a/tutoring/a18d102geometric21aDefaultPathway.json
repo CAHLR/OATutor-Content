@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula for an Infinite Geometric Series",
-        "text": "For an $$infinite$$ geometric series whose first term is $$a_1$$ and common ratio r, if |r|<1, then the sum is $$S=\\frac{a_1}{1-r}$$. If |r|>1, then the $$infinite$$ geometric series does not have a sum and diverges.",
-        "variabilization": {}
+        "text": "For an $$infinite$$ geometric series whose first term is $$a_1$$ and common ratio $$r$$, if |r|<1, then the sum is $$S=\\frac{a_1}{1-r}$$. If |r|>1, then the $$infinite$$ geometric series does not have a sum and diverges.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric21a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "64"
+            "$$64$$"
         ],
         "dependencies": [
             "a18d102geometric21a-h1"
         ],
         "title": "Determine $$a_1$$",
         "text": "What is $$a_1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric21a-h3",
@@ -33,9 +35,10 @@
         "dependencies": [
             "a18d102geometric21a-h2"
         ],
-        "title": "Determine r",
-        "text": "What is r? What is $$\\frac{16}{64}$$? What is $$\\frac{4}{16}$$? What is $$\\frac{1}{4}$$? These should all be the same number.",
-        "variabilization": {}
+        "title": "Determine $$r$$",
+        "text": "What is $$r$$? What is $$\\frac{16}{64}$$? What is $$\\frac{4}{16}$$? What is $$\\frac{1}{4}$$? These should all be the same number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric21a-h4",
@@ -51,6 +54,7 @@
         "title": "Determining if there is a Sum",
         "text": "Is |r|<1? We can only find a sum if |r|<1.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -68,8 +72,9 @@
             "a18d102geometric21a-h4"
         ],
         "title": "Using the Formula",
-        "text": "Substitute $$a_1$$ and r into the summation formula. What is the sum? Do not round your answer.",
+        "text": "Substitute $$a_1$$ and $$r$$ into the summation formula. What is the sum? Do not round your answer.",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a18d102geometric21a-h5-s1",
@@ -82,7 +87,8 @@
                 "dependencies": [],
                 "title": "Using the Formula",
                 "text": "What is $$\\frac{64}{1-\\frac{1}{4}}$$? Do not round your answer.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

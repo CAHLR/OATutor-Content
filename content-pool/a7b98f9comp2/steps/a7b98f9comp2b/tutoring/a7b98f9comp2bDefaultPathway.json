@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Let\u2019s begin by substituting f(x) into g(x).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9comp2b-h2",
@@ -21,6 +22,7 @@
         "title": "Substitution",
         "text": "What do we get after substituting the given functions?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3-2x+1$$",
             "$$2\\left(3+x\\right)-1$$",
@@ -40,6 +42,7 @@
         ],
         "title": "Simplify",
         "text": "What do we get after rearranging and simplifying the above equation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

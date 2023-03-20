@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Graph First Inequality",
         "text": "Graph $$x-2y<5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h2",
@@ -14,8 +15,9 @@
             "acff542grap18a-h1"
         ],
         "title": "Change to Slope-Intercept Form",
-        "text": "$$x-2y<5$$ $$-2y<-x+5$$ $$\\frac{-2y}{-2}<\\frac{\\left(-x+5\\right)}{-2}$$ $$y>\\frac{1}{2} x-\\frac{5}{2}$$",
-        "variabilization": {}
+        "text": "$$x-2y<5$$\\n$$-2y<-x+5$$\\n$$\\frac{-2y}{-2}<\\frac{\\left(-x+5\\right)}{-2}$$\\n$$y>\\frac{1}{2} x-\\frac{5}{2}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Graph the Boundary Line",
         "text": "It is a dashed line because the inequality sign is >.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h4",
@@ -34,8 +37,9 @@
             "acff542grap18a-h3"
         ],
         "title": "Shade in the Side of the Boundary Line",
-        "text": "A test point should be a point not on the line. Choose (0,0) as a test point to see if it is a solution. $$y>\\frac{1}{2} x-\\frac{5}{2}$$ $$0>0\\frac{1}{2}-\\frac{5}{2}$$ $$0>\\frac{-5}{2}$$",
-        "variabilization": {}
+        "text": "A test point should be a point not on the line. Choose $$(0,0)$$ as a test point to see if it is a solution.\\n$$y>\\frac{1}{2} x-\\frac{5}{2}$$\\n$$0>0\\frac{1}{2}-\\frac{5}{2}$$\\n$$0>\\frac{-5}{2}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h5",
@@ -44,8 +48,9 @@
             "acff542grap18a-h4"
         ],
         "title": "Shade in the Side of the Boundary Line",
-        "text": "(0,0) is a solution to $$y<\\frac{1}{2} x-\\frac{5}{2}$$. Since (0,0) is on the left side of the line, we shade the left side of the boundary line in red.\\n##figure4.gif##",
-        "variabilization": {}
+        "text": "$$(0,0)$$ is a solution to $$y<\\frac{1}{2} x-\\frac{5}{2}$$. Since $$(0,0)$$ is on the left side of the line, we shade the left side of the boundary line in red.\\n##figure4.gif##",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Graph Second Inequality",
         "text": "Graph $$y>-4$$ on the same grid. Recognize that it is a horizontal line through $$y=-4$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Graph the Boundary Line",
         "text": "It is a dashed line because the inequality sign is >.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h8",
@@ -74,8 +81,9 @@
             "acff542grap18a-h7"
         ],
         "title": "Shade in the Side of the Boundary Line",
-        "text": "A test point should be a point not on the line. Choose (0,0) as a test point to see if it is a solution. $$y>-4$$ $$0>-4$$",
-        "variabilization": {}
+        "text": "A test point should be a point not on the line. Choose $$(0,0)$$ as a test point to see if it is a solution.\\n$$y>-4$$\\n$$0>-4$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h9",
@@ -84,8 +92,9 @@
             "acff542grap18a-h8"
         ],
         "title": "Shade in the Side of the Boundary Line",
-        "text": "(0,0) is a solution to $$y>-4$$. Since (0,0) is on the top side of the line, so we shade in the top side of the line $$y=-4$$ in green.\\n##figure8.gif##",
-        "variabilization": {}
+        "text": "$$(0,0)$$ is a solution to $$y>-4$$. Since $$(0,0)$$ is on the top side of the line, so we shade in the top side of the line $$y=-4$$ in green.\\n##figure8.gif##",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542grap18a-h10",
@@ -95,6 +104,7 @@
         ],
         "title": "Overlap Shading",
         "text": "The solution is all points in the darker shaded region.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

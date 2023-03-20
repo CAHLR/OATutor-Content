@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Radical Exponent Terms",
-        "text": "Isolate the radical exponent terms on one side of the equation. We can add 3 on both sides get $${\\left(6x+1\\right)}^{\\frac{1}{2}}=7$$ which has radical terms isolated on one side.",
-        "variabilization": {}
+        "text": "Isolate the radical exponent terms on one side of the equation. We can add $$3$$ on both sides get $${\\left(6x+1\\right)}^{\\frac{1}{2}}=7$$ which has radical terms isolated on one side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a81d715SolRadical19a-h2",
@@ -14,8 +15,9 @@
             "a81d715SolRadical19a-h1"
         ],
         "title": "Raise Both Sides Of the Equation To Second Power",
-        "text": "$${\\left(6x+1\\right)}^{\\frac{1}{2}}=7^2$$ After squaring both sides, we get $$6x+1=49$$.",
-        "variabilization": {}
+        "text": "$${\\left(6x+1\\right)}^{\\frac{1}{2}}=7^2$$\\nAfter squaring both sides, we get $$6x+1=49$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a81d715SolRadical19a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Check For Remaining Radicals Exponent Terms",
         "text": "Are there any more radicals? No. We can proceed to the next step.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a81d715SolRadical19a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Solve For Equation",
         "text": "Solve for the equation $$6x+1=49$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a81d715SolRadical19a-h5",
@@ -43,13 +47,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a81d715SolRadical19a-h4"
         ],
         "title": "Solve For Equation",
-        "text": "What is the value of x for $$6x+1=49$$?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$ for $$6x+1=49$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

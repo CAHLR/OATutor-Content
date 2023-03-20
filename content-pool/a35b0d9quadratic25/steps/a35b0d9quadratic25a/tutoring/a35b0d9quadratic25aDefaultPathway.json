@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Determining the Coefficient",
         "text": "What is the coefficient of the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identifying the Shape",
         "text": "If the coefficient is positive, it opens upwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic25a-h3",
@@ -36,6 +38,7 @@
         "title": "Interpreting the Shape",
         "text": "Does this mean that the vertex will be a Minimum or Maximum?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Minimum",
             "Maximum"

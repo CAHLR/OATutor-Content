@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply by Common Ratio",
         "text": "To get the sequence, start with the first term and multiply it by the common ratio. Then we continue to multiply that result by the common ratio to get the next term, and so on.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric6a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-24"
+            "$$-24$$"
         ],
         "dependencies": [
             "a18d102geometric6a-h1"
         ],
-        "title": "Multiply 6 by the Common Ratio",
+        "title": "Multiply $$6$$ by the Common Ratio",
         "text": "What is $$6\\left(-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric6a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "96"
+            "$$96$$"
         ],
         "dependencies": [
             "a18d102geometric6a-h2"
         ],
-        "title": "Multiply -24 by the Common Ratio",
+        "title": "Multiply $$-24$$ by the Common Ratio",
         "text": "What is $$\\left(-24\\right) \\left(-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric6a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-384"
+            "$$-384$$"
         ],
         "dependencies": [
             "a18d102geometric6a-h3"
         ],
-        "title": "Multiply 96 by the Common Ratio",
+        "title": "Multiply $$96$$ by the Common Ratio",
         "text": "What is $$96\\left(-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric6a-h5",
@@ -58,13 +62,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1536"
+            "$$1536$$"
         ],
         "dependencies": [
             "a18d102geometric6a-h4"
         ],
-        "title": "Multiply -384 by the Common Ratio",
+        "title": "Multiply $$-384$$ by the Common Ratio",
         "text": "What is $$\\left(-384\\right) \\left(-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

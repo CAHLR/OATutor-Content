@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Restrictions",
-        "text": "Are there any restrictions on the values we can subsitute for x?",
+        "text": "Are there any restrictions on the values we can subsitute for $$x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -30,6 +31,7 @@
         "title": "Domain",
         "text": "If there are no restrictions, then what is the domain?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\geq 0$$",
             "$$x<0$$",

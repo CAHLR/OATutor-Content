@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Setup",
-        "text": "Assume Marc's wife paid x dollars",
-        "variabilization": {}
+        "text": "Assume Marc's wife paid $$x$$ dollars",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving22a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Organizing",
         "text": "Marc paid 54,000 dollars for the SUV",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving22a-h3",
@@ -24,8 +26,9 @@
             "aae6efeSolving22a-h2"
         ],
         "title": "Organizing",
-        "text": "According to the second statement, Marc paid 2x-7400 dollars",
-        "variabilization": {}
+        "text": "According to the second statement, Marc paid $$2x-7400$$ dollars",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving22a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Combining",
         "text": "The equations represent the same amount of value, so it can be combined as $$54000=2x-7400$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving22a-h5",
@@ -43,13 +47,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "30700"
+            "$$30700$$"
         ],
         "dependencies": [
             "aae6efeSolving22a-h4"
         ],
         "title": "Calculation",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

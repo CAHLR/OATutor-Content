@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 4 is -16?",
-        "variabilization": {}
+        "text": "What number to the power of $$4$$ is -16?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers29a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers29a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$${\\left(-2\\right)}^4=-16$$, so our answer is -2.",
-        "variabilization": {}
+        "text": "$${\\left(-2\\right)}^4=-16$$, so our answer is $$-2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

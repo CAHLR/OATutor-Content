@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Combine like terms",
         "text": "If the monomials are like terms, combine them by adding or subtracting the coefficient.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5991b4add14a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Coefficients",
         "text": "$$2a^2$$ and $$-6a^2$$ are like terms so you may combine the coefficients. $$b^2$$ is not a like term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

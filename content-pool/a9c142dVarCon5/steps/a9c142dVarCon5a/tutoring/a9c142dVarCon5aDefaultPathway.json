@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon5a-h2",
@@ -19,8 +20,9 @@
             "a9c142dVarCon5a-h1"
         ],
         "title": "Addition",
-        "text": "Add 9 to each side of the equation.",
-        "variabilization": {}
+        "text": "Add $$9$$ to each side of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon5a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon5a-h4",
@@ -44,8 +47,9 @@
             "a9c142dVarCon5a-h3"
         ],
         "title": "Division",
-        "text": "Divide 5 from each side.",
-        "variabilization": {}
+        "text": "Divide $$5$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon5a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon5a-h6",
@@ -69,8 +74,9 @@
             "a9c142dVarCon5a-h5"
         ],
         "title": "Verification",
-        "text": "Check whether $$5\\times5-9$$ equals 16.",
+        "text": "Check whether $$5\\times5-9$$ equals $$16$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

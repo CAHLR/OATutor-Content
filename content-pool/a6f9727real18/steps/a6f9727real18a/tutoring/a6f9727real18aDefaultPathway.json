@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "Substitute $$y=3$$ into the equation to obtain $$4\\left(3\\right)+8-2\\left(3\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real18a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a6f9727real18a-h1"
         ],
         "title": "Multiplication",
         "text": "What is 4(3)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real18a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-6"
+            "$$-6$$"
         ],
         "dependencies": [
             "a6f9727real18a-h1"
         ],
         "title": "Multiplication",
-        "text": "What is -2(3)?",
-        "variabilization": {}
+        "text": "What is $$-2(3)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real18a-h4",
@@ -43,7 +46,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14"
+            "$$14$$"
         ],
         "dependencies": [
             "a6f9727real18a-h2",
@@ -51,6 +54,7 @@
         ],
         "title": "Addition",
         "text": "What is $$12+8-6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

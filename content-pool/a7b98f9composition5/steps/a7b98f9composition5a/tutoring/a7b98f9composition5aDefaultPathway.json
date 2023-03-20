@@ -11,6 +11,7 @@
         "title": "First Function",
         "text": "What is the function in which $$\\frac{2x+1}{3x+4}$$ is inserted to get the given function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$f(x)=\\frac{2x-1}{3x+4}$$",
             "$$f(x)=\\sqrt{x}$$",
@@ -26,7 +27,8 @@
         ],
         "title": "Second Function",
         "text": "The other function is what you put into the previous function to get the given function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition5a-h3",
@@ -42,6 +44,7 @@
         "title": "Second Function",
         "text": "What is the second function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$g(x)=\\sqrt{x}$$",
             "$$g(x)=\\frac{2x-1}{3x+4}$$",

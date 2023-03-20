@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Change the Grouping",
         "text": "We should change the grouping to $$6\\times3 x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties18a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "18x"
+            "$$18x$$"
         ],
         "dependencies": [
             "ac3d94dProperties18a-h1"
         ],
         "title": "Multiply",
         "text": "What do we get after multiplying in the parentheses?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

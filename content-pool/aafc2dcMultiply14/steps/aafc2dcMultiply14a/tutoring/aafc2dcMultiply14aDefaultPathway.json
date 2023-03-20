@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Read the Problem",
         "text": "The first step is to make sure all the words and ideas are understood.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply14a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify the Unknown",
         "text": "What we are asked to find is the difference of the morning and afternoon temperatures.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply14a-h3",
@@ -24,8 +26,9 @@
             "aafc2dcMultiply14a-h2"
         ],
         "title": "Rephrase the Question",
-        "text": "To rephrase the questions, we are finding the different of 11 and -9.",
-        "variabilization": {}
+        "text": "To rephrase the questions, we are finding the different of $$11$$ and $$-9$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply14a-h4",
@@ -34,8 +37,9 @@
             "aafc2dcMultiply14a-h3"
         ],
         "title": "Translate into Math",
-        "text": "Translate the phrase into mathematical expression, we get 11-(-9).",
-        "variabilization": {}
+        "text": "Translate the phrase into mathematical expression, we get $$11-(-9)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply14a-h5",
@@ -43,13 +47,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "aafc2dcMultiply14a-h4"
         ],
         "title": "Simplify",
-        "text": "What is 11-(-9)?",
-        "variabilization": {}
+        "text": "What is $$11-(-9)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

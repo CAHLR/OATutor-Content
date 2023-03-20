@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Range Restrictions",
         "text": "Since there are no restrictions on the range, the range is $$(-\\infty,\\infty)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

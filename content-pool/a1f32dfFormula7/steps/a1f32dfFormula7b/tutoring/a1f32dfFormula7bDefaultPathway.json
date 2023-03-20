@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the Unknown",
-        "text": "The formula is $$d=rt$$, and we want to find t",
-        "variabilization": {}
+        "text": "The formula is $$d=rt$$, and we want to find $$t$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula7b-h2",
@@ -14,7 +15,8 @@
             "a1f32dfFormula7b-h1"
         ],
         "title": "Isolate",
-        "text": "To solve for r, we can divide both sides by r to isolate t, so we get $$t=\\frac{d}{r}$$.",
-        "variabilization": {}
+        "text": "To solve for $$r$$, we can divide both sides by $$r$$ to isolate $$t$$, so we get $$t=\\frac{d}{r}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

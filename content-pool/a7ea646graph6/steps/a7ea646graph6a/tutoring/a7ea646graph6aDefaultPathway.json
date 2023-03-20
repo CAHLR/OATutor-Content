@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Intercepts",
-        "text": "This graph has three x-intercepts: $$x=-3, 2$$, and 5. The y-intercept is located at (0,2).",
-        "variabilization": {}
+        "text": "This graph has three x-intercepts: $$x=-3, 2$$, and $$5$$. The y-intercept is located at $$(0,2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identifying Traits of the Factors",
         "text": "At $$x=-3$$ and $$x=5$$, the graph passes through the axis linearly, suggesting the corresponding factors of the polynomial will be linear.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph6a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Identifying the Degree of the Polynomial",
         "text": "At $$x=2$$, the graph bounces at the intercept, suggesting the corresponding factor of the polynomial will be second degree (quadratic).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph6a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Putting Identified Traits Together",
         "text": "Together, this gives us $$f(x)=a\\left(x+3\\right) {\\left(x-2\\right)}^2 \\left(x-5\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph6a-h5",
@@ -44,8 +48,9 @@
             "a7ea646graph6a-h4"
         ],
         "title": "Determing the Stretch Factor",
-        "text": "To determine the stretch factor, we utilize another point on the graph. We will use the y-intercept (0,-2), to solve for a.",
-        "variabilization": {}
+        "text": "To determine the stretch factor, we utilize another point on the graph. We will use the y-intercept $$(0,-2)$$, to solve for a.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph6a-h6",
@@ -60,6 +65,7 @@
         ],
         "title": "Identifying the Stretch Factor",
         "text": "When $$f(x)=-2$$ and $$x=0$$, $$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition",
         "text": "A coefficient is the numeric value that precedes a variable",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower18a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "afbe5ccpower18a-h1"
         ],
         "title": "Finding the Leading Coefficient",
         "text": "What is the leading coefficent?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower18a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Definition",
         "text": "The degree is the value of the highest power a variable has",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower18a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "afbe5ccpower18a-h3"
         ],
         "title": "Finding the Degree",
         "text": "What is the degree?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

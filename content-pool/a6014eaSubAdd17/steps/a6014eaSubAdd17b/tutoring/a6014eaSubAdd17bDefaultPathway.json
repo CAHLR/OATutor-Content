@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17b-h2",
@@ -19,8 +20,9 @@
             "a6014eaSubAdd17b-h1"
         ],
         "title": "Subtraction",
-        "text": "Subtract 45 from each side.",
-        "variabilization": {}
+        "text": "Subtract $$45$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17b-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17b-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17b-h5",
@@ -59,8 +63,9 @@
             "a6014eaSubAdd17b-h4"
         ],
         "title": "Verification",
-        "text": "Check whether $$-111+45$$ equals -66.",
+        "text": "Check whether $$-111+45$$ equals $$-66$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

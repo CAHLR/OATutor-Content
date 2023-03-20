@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Proability of Events with Equally Likely Outcomes",
         "text": "The probability of an event E in an experiment with sample space S with equally likely outcomes is given by: P(E) $$=$$ (# of elements in E)/(# of elements in S)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability22a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "ad37b31probability22a-h1"
         ],
         "title": "Number of Event Elements",
         "text": "How many elements result in no tails at all?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability22a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "ad37b31probability22a-h2"
         ],
         "title": "Number of Sample Space Elements",
         "text": "How many elements are there in the sample space?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability22a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Finding the Probability",
         "text": "What is the probaility of getting not all tails?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

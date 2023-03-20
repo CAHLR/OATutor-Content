@@ -3,9 +3,10 @@
         "id": "afbe5ccpower6a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "The polynomial has a degree of 10",
+        "title": "The polynomial has a degree of $$10$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower6a-h2",
@@ -13,8 +14,9 @@
         "dependencies": [
             "afbe5ccpower6a-h1"
         ],
-        "title": "So, there are at most 10 x-intercepts and at most 9 turning points",
+        "title": "So, there are at most $$10$$ x-intercepts and at most $$9$$ turning points",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

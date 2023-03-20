@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolation",
         "text": "We can isolate the variable term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x-1"
+            "$$x-1$$"
         ],
         "dependencies": [
             "aaa317eLinIneq20a-h1"
         ],
         "title": "Addition",
         "text": "What should we add in order to isolate the variable with its coefficient on the right?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h3",
@@ -34,8 +36,9 @@
             "aaa317eLinIneq20a-h2"
         ],
         "title": "Addition",
-        "text": "What do we get after we add x-1 on both sides?",
-        "variabilization": {}
+        "text": "What do we get after we add $$x-1$$ on both sides?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Isolation",
         "text": "We can leave the variable term by itself on the right by using the multiplication property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Multiplication",
         "text": "What do we get after we multiply $$\\frac{2}{3}$$ on both sides?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq20a-h7",
@@ -84,7 +90,8 @@
             "aaa317eLinIneq20a-h6"
         ],
         "title": "Interval Notation",
-        "text": "$$(b,\\infty)$$ represents all real numbers greater than b, but not including b.",
-        "variabilization": {}
+        "text": "$$(b,\\infty)$$ represents all real numbers greater than $$b$$, but not including $$b$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

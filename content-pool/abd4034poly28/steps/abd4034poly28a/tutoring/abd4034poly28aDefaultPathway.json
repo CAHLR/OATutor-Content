@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "We must divide each term in the numerator by -5xy, so we get $$-3x^2+7y$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

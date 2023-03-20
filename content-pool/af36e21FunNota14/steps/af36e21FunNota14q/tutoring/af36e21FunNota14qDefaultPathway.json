@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the input values",
-        "text": "When considering y as a function of x, the input variable is x.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the input variable is $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14q-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota14q-h1"
         ],
         "title": "Identify the output values",
-        "text": "When considering y as a function of x, the output variable is y.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the output variable is $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14q-h3",
@@ -24,7 +26,8 @@
             "af36e21FunNota14q-h2"
         ],
         "title": "Classify the relation",
-        "text": "When x equals -1, we can get two different y $$\\sqrt{2}$$ and $$-\\sqrt{2}$$, so y is not a function of x.",
-        "variabilization": {}
+        "text": "When $$x$$ equals $$-1$$, we can get two different $$y$$ $$\\sqrt{2}$$ and $$-\\sqrt{2}$$, so $$y$$ is not a function of $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

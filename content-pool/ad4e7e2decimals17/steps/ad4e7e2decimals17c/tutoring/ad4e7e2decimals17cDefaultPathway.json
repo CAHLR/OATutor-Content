@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiply a Decimal by a Power of Ten.",
-        "text": "Move the decimal point to the right the same number of places as the number of zeros in the power of 10.",
-        "variabilization": {}
+        "text": "Move the decimal point to the right the same number of places as the number of zeros in the power of $$10$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals17c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ad4e7e2decimals17c-h1"
         ],
         "title": "Number of Zeros",
         "text": "How many zeros are there in 1000?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals17c-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Adding Zeros",
         "text": "We can add zeros to the end of the number as needed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals17c-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5630"
+            "$$5630$$"
         ],
         "dependencies": [
             "ad4e7e2decimals17c-h3"
         ],
         "title": "Answer",
-        "text": "What number do you get when you move the decimal point in 5.63 to the right by three decimal places and adding zero(s) as needed?",
-        "variabilization": {}
+        "text": "What number do you get when you move the decimal point in $$5.63$$ to the right by three decimal places and adding zero(s) as needed?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Slope",
         "text": "First, we calculate the slope using the slope formula and two points.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h2",
@@ -14,8 +15,9 @@
             "a2d8720LinEqua21a-h1"
         ],
         "title": "Slope Formula",
-        "text": "The slope of a line, m, represents the change in y over the change in x. Given two points, $$(x_1,y_1)$$ and $$(x_2,y_2)$$, the following formula determines the slope of a line containing these points: $$m=\\frac{y_2-y_1}{x_2-x_1}$$.",
-        "variabilization": {}
+        "text": "The slope of a line, $$m$$, represents the change in $$y$$ over the change in $$x$$. Given two points, $$(x_1,y_1)$$ and $$(x_2,y_2)$$, the following formula determines the slope of a line containing these points: $$m=\\frac{y_2-y_1}{x_2-x_1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h3",
@@ -29,8 +31,9 @@
             "a2d8720LinEqua21a-h2"
         ],
         "title": "Calculate the slope",
-        "text": "What is the slope of the line given two points (3,4) and (0,-3)?",
-        "variabilization": {}
+        "text": "What is the slope of the line given two points $$(3,4)$$ and $$(0,-3)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Write the equation",
         "text": "Next, we use the point-slope formula with the slope of $$\\frac{7}{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "The point-slope formula",
         "text": "Given one point and the slope, the point-slope formula will lead to the equation of a line: $$y-y_1=m(x$$ -x_1).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h6",
@@ -59,8 +64,9 @@
             "a2d8720LinEqua21a-h5"
         ],
         "title": "Picking a point",
-        "text": "We can pick either (3,4) or (0,-3) as $$(x_1,y_1)$$.",
-        "variabilization": {}
+        "text": "We can pick either $$(3,4)$$ or $$(0,-3)$$ as $$(x_1,y_1)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h7",
@@ -74,8 +80,9 @@
             "a2d8720LinEqua21a-h6"
         ],
         "title": "Substitute",
-        "text": "Write the point-slope formula using the point (3,4).",
-        "variabilization": {}
+        "text": "Write the point-slope formula using the point $$(3,4)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Parentheses",
         "text": "Using the distributive property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua21a-h9",
@@ -105,6 +113,7 @@
         ],
         "title": "Simplification",
         "text": "Simplify the equation $$y-4=\\frac{7}{3} x-7$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

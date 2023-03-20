@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Determining the Method",
-        "text": "Because one equation is already solved for x, which method should you use to solve the system?",
+        "text": "Because one equation is already solved for $$x$$, which method should you use to solve the system?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "substitution method",
             "subtraction method"
@@ -24,7 +25,8 @@
         ],
         "title": "Substitution",
         "text": "Substitute the first equation into the second one.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h3",
@@ -32,14 +34,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "ab8b840systems7a-h2"
         ],
         "title": "Substitution",
         "text": "What does $$9-2y+2y$$ equal?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h4",
@@ -49,7 +52,8 @@
         ],
         "title": "No Solution Equations",
         "text": "Clearly, this statement is a contradiction because 9\u226013. Therefore, the system has no solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h5",
@@ -59,7 +63,8 @@
         ],
         "title": "Slope-Intercept Form",
         "text": "We can take a different approach to this problem. Manipulate the equations so that they are both in slope-intercept form. $$y=mx+b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h6",
@@ -68,8 +73,9 @@
             "ab8b840systems7a-h5"
         ],
         "title": "Slope-Intercept Form",
-        "text": "Isolate the y-variable in the first equation to find the slope-intercept form.",
-        "variabilization": {}
+        "text": "Isolate the $$y-variable$$ in the first equation to find the slope-intercept form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h7",
@@ -83,8 +89,9 @@
             "ab8b840systems7a-h6"
         ],
         "title": "Slope-Intercept Form",
-        "text": "What does y equal when you manipulate the first equation?",
-        "variabilization": {}
+        "text": "What does $$y$$ equal when you manipulate the first equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h8",
@@ -93,8 +100,9 @@
             "ab8b840systems7a-h7"
         ],
         "title": "Slope-Intercept Form",
-        "text": "Isolate the y-variable in the second equation to find the slope-intercept form.",
-        "variabilization": {}
+        "text": "Isolate the $$y-variable$$ in the second equation to find the slope-intercept form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h9",
@@ -108,8 +116,9 @@
             "ab8b840systems7a-h8"
         ],
         "title": "Slope-Intercept Form",
-        "text": "What does y equal when you manipulate the second equation?",
-        "variabilization": {}
+        "text": "What does $$y$$ equal when you manipulate the second equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h10",
@@ -124,7 +133,8 @@
         ],
         "title": "Slope-Intercept Form",
         "text": "What is the value of the slope for both equations?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systems7a-h11",
@@ -134,6 +144,7 @@
         ],
         "title": "Slope-Intercept Form",
         "text": "Comparing the equations, we see that they have the same slope but different y-intercepts. Therefore, the lines are parallel and do not intersect.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

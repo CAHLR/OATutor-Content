@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Separation",
         "text": "We can separate the compound inequality into two inequalities.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h2",
@@ -21,6 +22,7 @@
         "title": "Separation",
         "text": "What two inequalities do we get after the separation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3y<4-5y$$ and $$4-5y<5+3y$$",
             "$$3y<4-5y$$ and $$4-5y>5+3y$$"
@@ -34,7 +36,8 @@
         ],
         "title": "Isolation for the first inequality",
         "text": "We can isolate the variable term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h4",
@@ -42,14 +45,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5y"
+            "$$5y$$"
         ],
         "dependencies": [
             "aaa317eLinIneq23a-h3"
         ],
         "title": "Addition",
         "text": "What should we add in order to isolate the variable with its coefficient on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h5",
@@ -63,8 +67,9 @@
             "aaa317eLinIneq23a-h4"
         ],
         "title": "Addition",
-        "text": "What do we get after we add 5y on both sides?",
-        "variabilization": {}
+        "text": "What do we get after we add $$5y$$ on both sides?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h6",
@@ -74,7 +79,8 @@
         ],
         "title": "Isolation for the first inequality",
         "text": "We can leave the variable term by itself on the left by using the multiplication property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h7",
@@ -89,7 +95,8 @@
         ],
         "title": "Multiplication",
         "text": "What number should we multiply on both sides in order to isolate the variable by itself on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h8",
@@ -104,7 +111,8 @@
         ],
         "title": "Multiplication",
         "text": "What do we get after we multiply $$\\frac{1}{8}$$ on both sides?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h9",
@@ -114,7 +122,8 @@
         ],
         "title": "Isolation for the second inequality",
         "text": "We can isolate the variable term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h10",
@@ -122,14 +131,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4-3y"
+            "$$-4-3y$$"
         ],
         "dependencies": [
             "aaa317eLinIneq23a-h9"
         ],
         "title": "Addition",
         "text": "What should we add in order to isolate the variable with its coefficient on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h11",
@@ -143,8 +153,9 @@
             "aaa317eLinIneq23a-h10"
         ],
         "title": "Addition",
-        "text": "What do we get after we add -4-3y on both sides?",
-        "variabilization": {}
+        "text": "What do we get after we add $$-4-3y$$ on both sides?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h12",
@@ -154,7 +165,8 @@
         ],
         "title": "Isolation for the second inequality",
         "text": "We can leave the variable term by itself on the left by using the multiplication property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h13",
@@ -169,7 +181,8 @@
         ],
         "title": "Multiplication",
         "text": "What number should we multiply on both sides in order to isolate the variable by itself on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h14",
@@ -184,7 +197,8 @@
         ],
         "title": "Multiplication and Reverse",
         "text": "What do we get after we multiply $$\\frac{-1}{8}$$ on both sides? Remember to reverse the inequality!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h15",
@@ -195,7 +209,8 @@
         ],
         "title": "Putting two inequalities together",
         "text": "We can draw the two inequalities on a number line to visualize their relationship.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq23a-h16",
@@ -211,6 +226,7 @@
         "title": "Putting two inequalities together",
         "text": "What do we get after we put the two inequalities above together?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{1}{8}<y<\\frac{1}{2}$$",
             "$$\\frac{-1}{8}<y<\\frac{1}{2}$$",

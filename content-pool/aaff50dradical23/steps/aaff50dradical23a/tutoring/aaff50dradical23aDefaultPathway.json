@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
-        "text": "The greatest square factor of 252 is 36",
-        "variabilization": {}
+        "text": "The greatest square factor of $$252$$ is $$36$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical23a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{252}=\\sqrt{36\\times7}=6\\sqrt{7}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

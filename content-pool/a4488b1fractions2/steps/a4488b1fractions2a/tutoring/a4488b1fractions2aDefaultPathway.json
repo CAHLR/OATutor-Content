@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewrite",
         "text": "Rewrite the fraction as a product of primes in both the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1fractions2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Eliminate",
         "text": "Eliminate any commonly occuring primes in both the numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1fractions2a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Multiply",
         "text": "Multiply the product back into two terms, one in the numerator, and one in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

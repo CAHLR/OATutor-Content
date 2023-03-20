@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Calculation",
         "text": "Subtract the first equation with the second equation: $$4x+y+z-\\left(-2x-2y+z\\right)=-1-2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Calculating",
         "text": "The equation becomes $$6x+3y=-3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Calculating",
         "text": "Combine the first equation with the third equation: $$4x+y+z+2x+3y-z=\\left(-1\\right)+1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Calculating",
         "text": "The equation becomes $$6x+4y=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Subtracting",
         "text": "Subtract $$6x+4y=0$$ with $$6x+3y=-3$$. $$6x+4y-6x+3y=0-(-3)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Simplifying the equation",
         "text": "The equation becomes $$y=3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Simplifying the equation",
         "text": "Substitute $$y=3$$ into $$6x+3y=-3$$ and get $$x=-2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263ThreeVariables5a-h8",
@@ -75,6 +82,7 @@
         ],
         "title": "Simplifying the equation",
         "text": "Substitute $$x=-2$$ and $$y=3$$ into the first equation to get $$z=4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

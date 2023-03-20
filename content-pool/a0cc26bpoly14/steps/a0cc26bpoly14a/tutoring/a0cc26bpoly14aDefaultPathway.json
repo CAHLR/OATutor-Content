@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributing the negative sign",
         "text": "The first step is to distribute the negative sign to remove parentheses. $$12x^2+3x-8x^2-19$$ $$=$$ $$12x^2+3x-8x^2+19$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly14a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Grouping like terms",
         "text": "The next step is to group like terms. $$12x^2+3x-8x^2+19$$ $$=$$ $$12x^2-8x^2+3x+19$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly14a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Combining and simplifying",
         "text": "Finally, simplify the expression. $$12x^2-8x^2+3x+19$$ $$=$$ $$4x^2+3x+19$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

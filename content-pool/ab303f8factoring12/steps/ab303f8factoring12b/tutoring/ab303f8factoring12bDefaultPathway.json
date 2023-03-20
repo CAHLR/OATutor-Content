@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Difference of Squares Formula",
         "text": "Notice that the problem is a difference of squares and can be factored into the $$\\operatorname{form}\\left(k a+b\\right) \\left(k a-b\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12b-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Finding $$a^2$$",
         "text": "What is $$a^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12b-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ab303f8factoring12b-h2"
         ],
         "title": "Finding $$b^2$$",
         "text": "What is $$b^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12b-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Finding a",
         "text": "What is a?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12b-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ab303f8factoring12b-h4"
         ],
-        "title": "Finding b",
-        "text": "What is b?",
-        "variabilization": {}
+        "title": "Finding $$b$$",
+        "text": "What is $$b$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring12b-h6",
@@ -75,7 +80,8 @@
             "ab303f8factoring12b-h4"
         ],
         "title": "Use formula",
-        "text": "Put a and b in the form $$\\left(a+b\\right) \\left(a-b\\right)$$",
-        "variabilization": {}
+        "text": "Put a and $$b$$ in the form $$\\left(a+b\\right) \\left(a-b\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

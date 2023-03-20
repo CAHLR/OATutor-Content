@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Approach",
         "text": "Since the problem wants the answer in grams, we will convert all measurements into grams before proceeding with arithmetics.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure25a-h2",
@@ -14,8 +15,9 @@
             "a1a1ee1measure25a-h1"
         ],
         "title": "Relation between kg and g",
-        "text": "The relation between grams and kilograms is 1000 $$g=1$$ kg.",
-        "variabilization": {}
+        "text": "The relation between grams and kilograms is $$1000$$ $$g=1$$ kg.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure25a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1200"
+            "$$1200$$"
         ],
         "dependencies": [
             "a1a1ee1measure25a-h2"
         ],
         "title": "Converting the Weight of Duck",
-        "text": "We start by converting the weight of the duck into grams. What is 1.2 kg in g?",
-        "variabilization": {}
+        "text": "We start by converting the weight of the duck into grams. What is $$1.2$$ kg in g?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure25a-h4",
@@ -39,8 +42,9 @@
             "a1a1ee1measure25a-h3"
         ],
         "title": "Applying the Conversion",
-        "text": "To convert 1.2 kg into g, we use the expression 1.2 $$kg=(1.2$$ kg)*(1000 g)/(1 kg)=(1.2)*(1000 g)/(1)=1200 g. The first equality holds because 1000 $$g=1$$ kg, and the second equation holds because we can cancel the kg.",
-        "variabilization": {}
+        "text": "To convert $$1.2$$ kg into g, we use the expression $$1.2$$ $$kg=(1.2$$ kg)*(1000 g)/(1 kg)=(1.2)*(1000 g)/(1)=1200 g. The first equality holds because $$1000$$ $$g=1$$ kg, and the second equation holds because we can cancel the kg.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure25a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Final Answer",
         "text": "Now that we have both the dove's weight and the duck's weight in grams, to find the difference between their weights, we can simply subtract the the two numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure25a-h6",
@@ -58,13 +63,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "855"
+            "$$855$$"
         ],
         "dependencies": [
             "a1a1ee1measure25a-h5"
         ],
         "title": "Final Answer",
-        "text": "What is 1200-345?",
-        "variabilization": {}
+        "text": "What is $$1200-345$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

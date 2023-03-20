@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "Subtract 3x from both sides.",
-        "variabilization": {}
+        "text": "Subtract $$3x$$ from both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear2a-h2",
@@ -14,8 +15,9 @@
             "a833c22linear2a-h1"
         ],
         "title": "Divide",
-        "text": "Divide both sides by 5.",
-        "variabilization": {}
+        "text": "Divide both sides by $$5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Slope",
         "text": "What is the slope of the function?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear2a-s1",
@@ -44,8 +47,9 @@
             "a833c22linear2a-h3"
         ],
         "title": "Constant",
-        "text": "Is this slope constant for every increase in x?",
+        "text": "Is this slope constant for every increase in $$x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -65,6 +69,7 @@
         "title": "Meaning",
         "text": "Does this mean it can be written as a linear function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

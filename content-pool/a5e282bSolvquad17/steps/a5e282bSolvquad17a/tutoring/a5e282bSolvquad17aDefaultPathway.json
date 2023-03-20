@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $${\\left(y-7\\right)}^2=12$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h2",
@@ -14,8 +15,9 @@
             "a5e282bSolvquad17a-h1"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(y-7\\right)}^2=12$$, we can take square root both sides and get $$y-7=\\sqrt{12}$$ or $$y-7=-\\sqrt{12}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(y-7\\right)}^2=12$$, we can take square root both sides and get $$y-7=\\sqrt{12}$$ or $$y-7=-\\sqrt{12}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "a5e282bSolvquad17a-h2"
         ],
-        "title": "Find y in $$y-7=\\sqrt{12}$$",
-        "text": "What is y?",
-        "variabilization": {}
+        "title": "Find $$y$$ in $$y-7=\\sqrt{12}$$",
+        "text": "What is $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h4",
@@ -43,9 +46,10 @@
         "dependencies": [
             "a5e282bSolvquad17a-h3"
         ],
-        "title": "Find y in $$y-7=-\\sqrt{12}$$",
-        "text": "What is y?",
-        "variabilization": {}
+        "title": "Find $$y$$ in $$y-7=-\\sqrt{12}$$",
+        "text": "What is $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{12}+7$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{12}+7$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad17a-h7",
@@ -85,6 +91,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$4{\\left(y-7\\right)}^2=48$$ has two solutions which are $$y=-7+2\\sqrt{3}$$, and $$y=7+2\\sqrt{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

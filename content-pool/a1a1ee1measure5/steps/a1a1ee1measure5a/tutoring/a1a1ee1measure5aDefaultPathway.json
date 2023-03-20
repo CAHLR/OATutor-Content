@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add",
         "text": "We will add the weights of the steaks to find the total weight of the steaks. We first add the ounces, then add the pounds.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure5a-h2",
@@ -13,7 +14,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "2 pounds, 22 ounces"
+            "$$2$$ pounds, $$22$$ ounces"
         ],
         "dependencies": [
             "a1a1ee1measure5a-h1"
@@ -21,10 +22,11 @@
         "title": "Add",
         "text": "What do we get after the addition?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "2 pounds, 20 ounces",
-            "2 pounds",
-            "2 pounds, 22 ounces"
+            "$$2$$ pounds, $$20$$ ounces",
+            "$$2$$ pounds",
+            "$$2$$ pounds, $$22$$ ounces"
         ]
     },
     {
@@ -34,8 +36,9 @@
             "a1a1ee1measure5a-h2"
         ],
         "title": "Convert",
-        "text": "We then need to convert 22 ounces to pounds and ounces.",
-        "variabilization": {}
+        "text": "We then need to convert $$22$$ ounces to pounds and ounces.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure5a-h4",
@@ -43,7 +46,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "1 pound, 6 ounces"
+            "$$1$$ pound, $$6$$ ounces"
         ],
         "dependencies": [
             "a1a1ee1measure5a-h3"
@@ -51,10 +54,11 @@
         "title": "Convert",
         "text": "What do we get after the conversion?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "1 pound, 8 ounces",
-            "1 pound, 3 ounces",
-            "1 pound, 6 ounces"
+            "$$1$$ pound, $$8$$ ounces",
+            "$$1$$ pound, $$3$$ ounces",
+            "$$1$$ pound, $$6$$ ounces"
         ]
     },
     {
@@ -64,8 +68,9 @@
             "a1a1ee1measure5a-h4"
         ],
         "title": "Add",
-        "text": "We then need to add 2 pounds with 1 pound, 6 ounces.",
-        "variabilization": {}
+        "text": "We then need to add $$2$$ pounds with $$1$$ pound, $$6$$ ounces.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure5a-h6",
@@ -73,7 +78,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "3 pounds, 6 ounces"
+            "$$3$$ pounds, $$6$$ ounces"
         ],
         "dependencies": [
             "a1a1ee1measure5a-h5"
@@ -81,11 +86,12 @@
         "title": "Add",
         "text": "What do we get after the addition?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "3 pounds, 6 ounces",
-            "3 pounds, 3 ounces",
-            "2 pounds, 6 ounces",
-            "3 pounds"
+            "$$3$$ pounds, $$6$$ ounces",
+            "$$3$$ pounds, $$3$$ ounces",
+            "$$2$$ pounds, $$6$$ ounces",
+            "$$3$$ pounds"
         ]
     }
 ]

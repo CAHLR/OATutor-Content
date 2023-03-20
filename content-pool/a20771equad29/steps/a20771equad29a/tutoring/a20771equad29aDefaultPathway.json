@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Difference of Squares",
         "text": "Write the two factors by taking the square root of each term, using a minus sign as the operator in one factor and a plus sign as the operator in the other.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad29a-h2",
@@ -13,7 +14,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(x-3) and $$x+3$$"
+            "$$(x-3)$$ and $$x+3$$"
         ],
         "dependencies": [
             "a20771equad29a-h1"
@@ -21,10 +22,11 @@
         "title": "Difference of Squares",
         "text": "What are the factors?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(x-6) and $$x+3$$",
-            "(x-3) and $$x+3$$",
-            "(x-3) and $$x+9$$"
+            "$$(x-6)$$ and $$x+3$$",
+            "$$(x-3)$$ and $$x+3$$",
+            "$$(x-3)$$ and $$x+9$$"
         ]
     },
     {
@@ -35,7 +37,8 @@
         ],
         "title": "Difference of Squares",
         "text": "Use the zero-factor property to solve each factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad29a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a20771equad29a-h3"
         ],
         "title": "Zero-Factor Property",
         "text": "What is the solution of $$(x-3)=0$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad29a-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "a20771equad29a-h3"
         ],
         "title": "Zero-Factor Property",
         "text": "What is the solution of $$x+3=0$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad29a-h6",
@@ -81,6 +86,7 @@
         ],
         "title": "Zero-Factor Property",
         "text": "What are the solutions?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

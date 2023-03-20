@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Asymptotes in Standard Form",
         "text": "Equations of the asymptotes are $$y=\\pm \\left(\\frac{a}{b}\\right) x$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola16d-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Equation for Asymptote",
         "text": "What is the equation when plugging in known values?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

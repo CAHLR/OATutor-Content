@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "Ashley's speed is 7 mph more than that of her parents.",
-        "variabilization": {}
+        "text": "Ashley's speed is $$7$$ mph more than that of her parents.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni6b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "The Answer",
         "text": "The speed of Ashley is $$55+7=62$$ mph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

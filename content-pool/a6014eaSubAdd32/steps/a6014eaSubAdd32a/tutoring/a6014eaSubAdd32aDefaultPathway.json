@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Equals",
         "text": "Locate the \"equals\" word(s). Translate to an equals sign $$(=)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd32a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4x-3x"
+            "$$4x-3x$$"
         ],
         "dependencies": [
             "a6014eaSubAdd32a-h1"
         ],
         "title": "Left Side",
         "text": "Translate the words to the left of the \"equals\" word(s) into an algebraic expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd32a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "14"
+            "$$14$$"
         ],
         "dependencies": [
             "a6014eaSubAdd32a-h2"
         ],
         "title": "Right Side",
         "text": "Translate the words to the right of the \"equals\" word(s) into an algebraic expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd32a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Translation",
         "text": "Translate the sentence to an algebraic equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd32a-h5",
@@ -65,6 +69,7 @@
         ],
         "title": "Solve",
         "text": "Solve the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

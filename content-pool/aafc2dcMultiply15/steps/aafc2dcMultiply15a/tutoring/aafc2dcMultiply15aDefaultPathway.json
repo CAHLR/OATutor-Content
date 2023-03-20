@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Read the Problem",
         "text": "The first step is to make sure all the words and ideas are understood.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify the Unknown",
         "text": "What we are asked to find is the number of yards lost.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply15a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rephrase the Question",
         "text": "To rephrase the questions, we are finding the value of three times a 15-yard penalty.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply15a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Translate into Math",
         "text": "Translate the phrase into mathematical expression, we get $$3\\times15$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply15a-h5",
@@ -43,13 +47,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "45"
+            "$$45$$"
         ],
         "dependencies": [
             "aafc2dcMultiply15a-h4"
         ],
         "title": "Simplify",
         "text": "What is $$3\\times15$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Draw",
         "text": "Draw the figure to try to better understand what the problem is asking",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo13a-h2",
@@ -14,8 +15,9 @@
             "a9b0a01geo13a-h1"
         ],
         "title": "Identify and Name",
-        "text": "We are looking for the third angle of the triangle and we can name it \"x\", we know the second side is 90 because it is a right triangle",
-        "variabilization": {}
+        "text": "We are looking for the third angle of the triangle and we can name it \"x\", we know the second side is $$90$$ because it is a right triangle",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo13a-h3",
@@ -24,8 +26,9 @@
             "a9b0a01geo13a-h2"
         ],
         "title": "Translate",
-        "text": "Each of the three angles added together equals 180 degrees, $$x+90+45=180$$",
-        "variabilization": {}
+        "text": "Each of the three angles added together equals $$180$$ degrees, $$x+90+45=180$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo13a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Solve",
         "text": "Solve the equation using algebra",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo13a-h5",
@@ -43,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "135"
+            "$$135$$"
         ],
         "dependencies": [
             "a9b0a01geo13a-h4"
         ],
         "title": "Solve",
         "text": "First let's simplify the left side of the equation. What is $$45+90$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo13a-h6",
@@ -59,7 +64,8 @@
             "a9b0a01geo13a-h5"
         ],
         "title": "Solve",
-        "text": "Now, we can subtract 135 from both sides of the equation to find x",
-        "variabilization": {}
+        "text": "Now, we can subtract $$135$$ from both sides of the equation to find $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

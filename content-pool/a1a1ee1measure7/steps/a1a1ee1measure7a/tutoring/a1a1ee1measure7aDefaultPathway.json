@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identity property of multiplication",
         "text": "We will convert kilometers to meters using the identity property of multiplication.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure7a-h2",
@@ -14,8 +15,9 @@
             "a1a1ee1measure7a-h1"
         ],
         "title": "Convert",
-        "text": "Multiply the measurement to be converted by 1; write 1 as a fraction relating the units given and the units needed.",
-        "variabilization": {}
+        "text": "Multiply the measurement to be converted by 1; write $$1$$ as a fraction relating the units given and the units needed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure7a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1000"
+            "$$1000$$"
         ],
         "dependencies": [
             "a1a1ee1measure7a-h2"
         ],
         "title": "Convert",
         "text": "How many meters are in one kilometer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure7a-h4",
@@ -39,8 +42,9 @@
             "a1a1ee1measure7a-h3"
         ],
         "title": "Multiply",
-        "text": "Multiply 10K by 1000 $$\\frac{meters}{1}$$ kilometer.",
-        "variabilization": {}
+        "text": "Multiply 10K by $$1000$$ $$\\frac{meters}{1}$$ kilometer.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure7a-h5",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10000"
+            "$$10000$$"
         ],
         "dependencies": [
             "a1a1ee1measure7a-h4"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

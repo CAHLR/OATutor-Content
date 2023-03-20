@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [],
         "title": "Power",
-        "text": "What is the power of the y variable?",
-        "variabilization": {}
+        "text": "What is the power of the $$y$$ variable?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear4a-s1",
@@ -24,8 +25,9 @@
             "a833c22linear4a-h1"
         ],
         "title": "Meaning",
-        "text": "If both the powers of y and x are 1, does this mean you can write this as a linear function?",
+        "text": "If both the powers of $$y$$ and $$x$$ are $$1$$, does this mean you can write this as a linear function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

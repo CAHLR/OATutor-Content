@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor",
         "text": "Factor out the common factor in both",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad35a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "a20771equad35a-h1"
         ],
         "title": "Common Factor",
         "text": "What is the common factor of the two terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad35a-h3",
@@ -36,6 +38,7 @@
         "title": "Factor",
         "text": "What do we get after the factoring?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x\\left(7x^2+3\\right)=0$$",
             "$$x(7x-3)=0$$",
@@ -54,7 +57,8 @@
             "a20771equad35a-h3"
         ],
         "title": "Factors",
-        "text": "Which factors will make the left side zero $$(x=0$$ & 7x - 3 $$=0)$$?",
-        "variabilization": {}
+        "text": "Which factors will make the left side zero $$(x=0$$ & $$7x$$ - $$3$$ $$=0)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

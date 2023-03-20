@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributing the Negative Sign",
         "text": "Because the second part of the expression is being subtracted, we can distribute the negative sign into that part. $$-(6-i)=-6+i$$. The expression is now $$\\left(-5+3i\\right)+\\left(-6+i\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Associative Property",
         "text": "The next step is to group the like terms. We can use the Associative Property to rewrite this expression as $$\\left(-5+\\left(-6\\right)\\right)+3i+i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex10a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Combining Like Terms",
         "text": "Now, we can add numbers in the parentheses to combine like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex10a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-11"
+            "$$-11$$"
         ],
         "dependencies": [
             "a9cf449complex10a-h3"
         ],
         "title": "Combining Like Terms",
         "text": "What is $$-5+\\left(-6\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex10a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Combining Like Terms",
         "text": "What is $$3i+i$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex10a-h6",
@@ -66,6 +71,7 @@
         ],
         "title": "Standard Form",
         "text": "Finally, we can write the expression in $$a+bi$$ form: $$-11+4i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

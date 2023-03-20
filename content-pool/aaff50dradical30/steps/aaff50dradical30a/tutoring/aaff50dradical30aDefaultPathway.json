@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$p^3$$ is $$p^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical30a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{p^3}=\\sqrt{p^2 p}=\\operatorname{psqrt}\\left(p\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

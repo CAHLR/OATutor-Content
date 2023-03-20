@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplify Expression",
         "text": "Simplify the numerator and denominator by finding a common denominator and multiplying each fraction by the denominator over the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Distribute",
         "text": "Distribute the products in the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim9a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim9a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Common Factors",
         "text": "We can then remove common factors after we multiply.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim9a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Simplify Expression",
         "text": "When we simplify, what is our answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Creating a Common Denominator",
         "text": "We must find the LCD in order to be able to add the fractions. The LCM of $$x^2-2x-3$$ and $$x^2+4x+3$$ is $$\\left(x+1\\right) \\left(x-3\\right) \\left(x+3\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom28a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting Each Fraction",
         "text": "We can rewrite each fraction with a common scaler to get $$\\frac{8\\left(x+3\\right)}{\\left(x+1\\right) \\left(x-3\\right) \\left(x+3\\right)}$$ + $$\\frac{3x\\left(x-3\\right)}{\\left(x+1\\right) \\left(x+3\\right) \\left(x-3\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom28a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Adding the Fractions",
         "text": "Adding the fractions, we get $$\\frac{8x+24+3x^2-9x}{\\left(x+1\\right) \\left(x-3\\right) \\left(x+3\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

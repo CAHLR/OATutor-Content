@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the LCD",
         "text": "First, find the least common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting the Expression",
         "text": "Rewrite each fraction as an equivalent fraction with the LCD.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom12a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Combining Terms",
         "text": "Then, add the fractions and simplify if applicable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

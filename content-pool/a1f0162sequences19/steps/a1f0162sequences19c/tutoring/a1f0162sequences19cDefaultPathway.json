@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute $$n=3$$ into the formula",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplification",
         "text": "Calculate the expression $$\\frac{4\\times3}{{\\left(-2\\right)}^3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19c-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a1f0162sequences19c-h2"
         ],
         "title": "Calculate the numerator",
         "text": "What is $$4\\times3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19c-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "a1f0162sequences19c-h3"
         ],
         "title": "Calculate the denominator",
         "text": "What is $${\\left(-2\\right)}^3$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences19c-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Putting It Together",
         "text": "Put the numerator and denominator together to create a fraction",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the Difference",
         "text": "Find the difference between the two numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "The Difference",
         "text": "The difference is $36-$26, or $10.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Find the Percent",
         "text": "Divide the difference by the original value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent9a-h4",
@@ -34,8 +37,9 @@
             "a3e5c4cpercent9a-h3"
         ],
         "title": "The Percentage",
-        "text": "10 divided by 26 is 0.385. Change this to percent form.",
-        "variabilization": {}
+        "text": "$$10$$ divided by $$26$$ is $$0.385$$. Change this to percent form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent9a-h5",
@@ -44,7 +48,8 @@
             "a3e5c4cpercent9a-h4"
         ],
         "title": "The Answer",
-        "text": "Multiply by 100 to change to percentage. The percentage is 38.4%.",
-        "variabilization": {}
+        "text": "Multiply by $$100$$ to change to percentage. The percentage is $$38.4\\%$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -11,6 +11,7 @@
         "title": "Verifying Power Function Form",
         "text": "Is the function in the form $${kx}^p$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -30,6 +31,7 @@
         "title": "Drawing Conclusions",
         "text": "Does this mean it is a power function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

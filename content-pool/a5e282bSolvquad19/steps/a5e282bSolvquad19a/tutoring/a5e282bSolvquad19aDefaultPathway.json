@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $${\\left(a+2\\right)}^2=40$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h2",
@@ -14,8 +15,9 @@
             "a5e282bSolvquad19a-h1"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(a+2\\right)}^2=40$$, we can take square root both sides and get $$a+2=\\sqrt{40}$$ or $$a+2=-\\sqrt{40}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(a+2\\right)}^2=40$$, we can take square root both sides and get $$a+2=\\sqrt{40}$$ or $$a+2=-\\sqrt{40}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Find a in $$a+2=\\sqrt{40}$$",
         "text": "What is a?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Find a in $$a+2=-\\sqrt{40}$$",
         "text": "What is a?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-2+\\sqrt{40}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-2-\\sqrt{40}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad19a-h7",
@@ -85,6 +91,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$2{\\left(a+2\\right)}^2=80$$ has two solutions which are $$a=-2-2\\sqrt{10}$$, and $$a=-2+2\\sqrt{10}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

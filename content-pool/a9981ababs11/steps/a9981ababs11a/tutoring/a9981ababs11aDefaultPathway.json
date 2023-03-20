@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 0 for y.",
-        "variabilization": {}
+        "text": "Substitute $$0$$ for $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Isolate",
         "text": "Isolate the absolute value on one side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs11a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Separate",
         "text": "Break $$2=|x|$$ into two separate equations and solve.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs11a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a9981ababs11a-h3"
         ],
         "title": "Separate",
-        "text": "What do we get for x after solving $$2=x$$?",
-        "variabilization": {}
+        "text": "What do we get for $$x$$ after solving $$2=x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs11a-h5",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a9981ababs11a-h4"
         ],
         "title": "Separate",
-        "text": "What do we get for x after solving $$-2=x$$?",
-        "variabilization": {}
+        "text": "What do we get for $$x$$ after solving $$-2=x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,15 +5,17 @@
         "dependencies": [],
         "title": "Formula",
         "text": "Recall the polynomial calculated in part a",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial15b-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Substitution",
-        "text": "Substitute 3 for x into the polynomial",
-        "variabilization": {}
+        "text": "Substitute $$3$$ for $$x$$ into the polynomial",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial15b-h3",
@@ -21,12 +23,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
         "title": "Substitution",
         "text": "What is the value of $$3\\times3^2-6\\times3+-3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial15b-h4",
@@ -34,11 +37,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
         "title": "Substitution",
-        "text": "What is the value of 27-18-3?",
-        "variabilization": {}
+        "text": "What is the value of $$27-18-3$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

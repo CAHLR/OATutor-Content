@@ -3,7 +3,8 @@
     "title": "Multiply Complex Numbers",
     "body": "Multiply:",
     "variabilization": {},
-    "oer": "https://openstax.org/books/intermediate-algebra-2e/pages/8-8-use-the-complex-number-system",
+    "oer": "https://openstax.org/details/books/intermediate-algebra-2e <OpenStax: Intermediate Algebra>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "8.8 Use the Complex Number System",
     "courseName": "OpenStax: Intermediate Algebra"
 }

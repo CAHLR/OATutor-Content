@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$10\\sqrt{6p^3}\\times3 \\sqrt{18p}=30\\sqrt{108p^4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root5a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Product",
         "text": "$$\\sqrt{108p^4}=6p^2 \\sqrt{3}$$. The simplified form of the above product is $$30\\times6 p^2 \\sqrt{3}$$ $$=$$ $$180p^2 \\sqrt{3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

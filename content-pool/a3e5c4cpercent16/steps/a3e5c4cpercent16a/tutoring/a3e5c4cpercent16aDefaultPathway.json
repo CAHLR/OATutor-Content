@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Percent of Fat",
         "text": "Divide the calories of fat by the total number of calories",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent16a-h2",
@@ -14,8 +15,9 @@
             "a3e5c4cpercent16a-h1"
         ],
         "title": "Answer for Percent of Fat",
-        "text": "76 divided by 190 is 0.4. Change this to percentage.",
-        "variabilization": {}
+        "text": "$$76$$ divided by $$190$$ is $$0.4$$. Change this to percentage.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent16a-h3",
@@ -24,7 +26,8 @@
             "a3e5c4cpercent16a-h2"
         ],
         "title": "The Answer",
-        "text": "Multiply by 100 to change to percentage. The percentage is 40%.",
-        "variabilization": {}
+        "text": "Multiply by $$100$$ to change to percentage. The percentage is 40%.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

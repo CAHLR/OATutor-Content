@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanded Form",
         "text": "This is the same as $$-\\left(2\\times2\\times2\\times2\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a975ae1MultDivInts8b-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-16"
+            "$$-16$$"
         ],
         "dependencies": [
             "a975ae1MultDivInts8b-h1"
         ],
         "title": "Expanded Form",
         "text": "What is $$-\\left(2\\times2\\times2\\times2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

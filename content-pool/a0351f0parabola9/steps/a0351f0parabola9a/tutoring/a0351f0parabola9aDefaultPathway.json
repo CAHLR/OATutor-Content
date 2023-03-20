@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Know form",
         "text": "The form of the endpoints of the latus rectum is: (h+p,k+2p),(h+p,k-2p).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola9a-h2",
@@ -14,8 +15,9 @@
             "a0351f0parabola9a-h1"
         ],
         "title": "Plug in",
-        "text": "Plug in the values for the endpoints, using the the proper h, k, and p values.",
-        "variabilization": {}
+        "text": "Plug in the values for the endpoints, using the the proper $$h$$, k, and $$p$$ values.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0parabola9a-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(-7,-7) and (-7,9)"
+            "$$(-7,-7)$$ and $$(-7,9)$$"
         ],
         "dependencies": [
             "a0351f0parabola9a-h2"
@@ -31,9 +33,10 @@
         "title": "Endpoints",
         "text": "What are the endpoints? Use the given formula.",
         "variabilization": {},
+        "oer": "",
         "choices": [
-            "(-7,-7) and (-7,9)",
-            "(-7,-7) and (-7,9)"
+            "$$(-7,-7)$$ and $$(-7,9)$$",
+            "$$(-7,-7)$$ and $$(-7,9)$$"
         ],
         "subHints": [
             {
@@ -41,8 +44,9 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is (-7,7) and (-7,9).",
-                "variabilization": {}
+                "text": "The answer is $$(-7,7)$$ and $$(-7,9)$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -53,7 +57,8 @@
             "a0351f0parabola9a-h3"
         ],
         "title": "Answer",
-        "text": "Therefore, the endpoints are (-7,7) and (-7,9).",
-        "variabilization": {}
+        "text": "Therefore, the endpoints are $$(-7,7)$$ and $$(-7,9)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

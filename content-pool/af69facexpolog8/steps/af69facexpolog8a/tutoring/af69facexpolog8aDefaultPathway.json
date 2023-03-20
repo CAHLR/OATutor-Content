@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Inserting Exponential and Inverse",
         "text": "Rewrite $$y={ab}^x$$ as $$y=a e^{\\ln(b^x)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af69facexpolog8a-h2",
@@ -14,7 +15,8 @@
             "af69facexpolog8a-h1"
         ],
         "title": "Law of Logs",
-        "text": "Use the power rule of logarithms to rewrite y as $$y=a e^{x \\ln(b)}=a e^{\\ln(b) x}$$",
-        "variabilization": {}
+        "text": "Use the power rule of logarithms to rewrite $$y$$ as $$y=a e^{x \\ln(b)}=a e^{\\ln(b) x}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

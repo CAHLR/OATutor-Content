@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 5i wherever you see x, and we get the expression $$y=\\frac{5i+1}{2-5i}$$.",
-        "variabilization": {}
+        "text": "Substitute 5i wherever you see $$x$$, and we get the expression $$y=\\frac{5i+1}{2-5i}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex28a-h2",
@@ -19,8 +20,9 @@
             "a9cf449complex28a-h1"
         ],
         "title": "Complex Conjugate of Denominator",
-        "text": "To start off, we will need to muliply both the numerator and the denominator by the complex conjugate of the denominator. What is the complex conjugate of the denominator 2-5i?",
-        "variabilization": {}
+        "text": "To start off, we will need to muliply both the numerator and the denominator by the complex conjugate of the denominator. What is the complex conjugate of the denominator $$2-5i$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex28a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Multiply",
         "text": "Multiply the numerator and denominator by the conjugate of the denominator: $$\\frac{\\left(5i+1\\right) \\left(2+5i\\right)}{\\left(2-5i\\right) \\left(2+5i\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex28a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "29"
+            "$$29$$"
         ],
         "dependencies": [
             "a9cf449complex28a-h3"
         ],
         "title": "Denominator Result",
         "text": "The $$\\left(a+bi\\right) \\left(a-bi\\right)$$ on the denominator simplifies to $$a^2+b^2$$. What is the value of the donominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex28a-h5",
@@ -61,6 +65,7 @@
         "title": "Numerator result",
         "text": "What does the top evaluate to? In other words, what is $$\\left(5i+1\\right) \\left(2+5i\\right)$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9cf449complex28a-h5-s1",
@@ -68,7 +73,8 @@
                 "dependencies": [],
                 "title": "Evaluating $$i^2$$",
                 "text": "Remember: $$i^2=-1$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a9cf449complex28a-h5-s2",
@@ -78,7 +84,8 @@
                 ],
                 "title": "Numerator result",
                 "text": "When FOIL out, $$\\left(5i+1\\right) \\left(2+5i\\right)=10i+25i^2+2+5i$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -96,6 +103,7 @@
         ],
         "title": "Split",
         "text": "Split the real and imaginary parts. What do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

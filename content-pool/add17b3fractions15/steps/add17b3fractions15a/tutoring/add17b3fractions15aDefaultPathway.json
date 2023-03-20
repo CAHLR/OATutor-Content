@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "LCD",
         "text": "Find the common denominator in both the numerator and denominator. Multiply both the numerator and denominator by the LCD.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression, finding one number in the numerator and one in the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions15a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\frac{1}{x-y}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

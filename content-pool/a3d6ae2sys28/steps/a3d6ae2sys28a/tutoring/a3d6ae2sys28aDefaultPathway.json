@@ -3,9 +3,10 @@
         "id": "a3d6ae2sys28a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Solve the first equation for y.",
-        "text": "$$3x+y=-1$$ $$y=-3x-1$$\\n##figure1.gif##",
-        "variabilization": {}
+        "title": "Solve the first equation for $$y$$.",
+        "text": "$$3x+y=-1$$\\n$$y=-3x-1$$\\n##figure1.gif##",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys28a-h2",
@@ -14,8 +15,9 @@
             "a3d6ae2sys28a-h1"
         ],
         "title": "Find the slope and y-intercept.",
-        "text": "$$m=-3$$ $$b=-1$$",
-        "variabilization": {}
+        "text": "$$m=-3$$\\n$$b=-1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys28a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a3d6ae2sys28a-h2"
         ],
-        "title": "Solve the second equation for y.",
-        "text": "$$2x+y=0$$ $$y=-2x$$",
-        "variabilization": {}
+        "title": "Solve the second equation for $$y$$.",
+        "text": "$$2x+y=0$$\\n$$y=-2x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys28a-h4",
@@ -34,8 +37,9 @@
             "a3d6ae2sys28a-h3"
         ],
         "title": "Find the slope and y-intercept.",
-        "text": "$$m=-2$$ $$b=0$$",
-        "variabilization": {}
+        "text": "$$m=-2$$\\n$$b=0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys28a-h5",
@@ -46,7 +50,8 @@
         ],
         "title": "Graph the lines",
         "text": "image2",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys28a-h6",
@@ -55,7 +60,8 @@
             "a3d6ae2sys28a-h5"
         ],
         "title": "Determine the point of intersection.",
-        "text": "The lines intersect at (-1,2). Therefore the solution is (-1,2).",
-        "variabilization": {}
+        "text": "The lines intersect at $$(-1,2)$$. Therefore the solution is $$(-1,2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

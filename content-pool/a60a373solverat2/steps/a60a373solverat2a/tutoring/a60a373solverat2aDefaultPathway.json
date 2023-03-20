@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Lowest Common Denominator",
         "text": "The first step is to find the lowest common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Lowest Common Denominator",
         "text": "What is the lowest common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Distribute and multiply",
         "text": "Distribute and multiply the lowest common denominator to all the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Quadratic Form",
         "text": "Rearrange the equation into the quadratic form and factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Quadratic Form",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h6",
@@ -69,8 +74,9 @@
             "a60a373solverat2a-h5"
         ],
         "title": "Zero Product Property",
-        "text": "Solve for b. Please input the answer as $$variable=answer$$. If there are multiple answers, separate them with a comma and a space.",
-        "variabilization": {}
+        "text": "Solve for $$b$$. Please input the answer as $$variable=answer$$. If there are multiple answers, separate them with a comma and a space.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a60a373solverat2a-h7",
@@ -80,6 +86,7 @@
         ],
         "title": "Double Check",
         "text": "Plug answers for a back into the original equation to make the sure answer is correct and not undefined at any point.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Input Values",
         "text": "Identify the input values, or the first value in the coordinate",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

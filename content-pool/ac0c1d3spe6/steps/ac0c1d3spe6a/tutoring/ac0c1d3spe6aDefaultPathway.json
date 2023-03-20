@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtraction Binomial Square Formula",
         "text": "We compare our expression to the subtraction binomial square formula: $${\\left(a-b\\right)}^2=a^2-2a b+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe6a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "ac0c1d3spe6a-h1"
         ],
-        "title": "Compare the Binomial",
-        "text": "$${\\left(a+b\\right)}^2$$ $${\\left(y-3\\right)}^2$$",
-        "variabilization": {}
+        "title": "Compare the Binomial |newline|",
+        "text": "$${\\left(a+b\\right)}^2$$\\n$${\\left(y-3\\right)}^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe6a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "y"
+            "$$y$$"
         ],
         "dependencies": [
             "ac0c1d3spe6a-h2"
         ],
         "title": "Identify a",
         "text": "What is a in the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe6a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ac0c1d3spe6a-h3"
         ],
-        "title": "Identify b",
-        "text": "What is b in the expression?",
-        "variabilization": {}
+        "title": "Identify $$b$$",
+        "text": "What is $$b$$ in the expression?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe6a-h5",
@@ -55,8 +59,9 @@
             "ac0c1d3spe6a-h4"
         ],
         "title": "Plug in the Terms",
-        "text": "Substitute $$a=y$$ and $$b=3$$ into the addition binomial square formula: $${\\left(a-b\\right)}^2=a^2+2a b+b^2$$ $${\\left(y-3\\right)}^2=y^2-2y\\times3+3^2$$",
-        "variabilization": {}
+        "text": "Substitute $$a=y$$ and $$b=3$$ into the addition binomial square formula:\\n$${\\left(a-b\\right)}^2=a^2+2a b+b^2$$\\n$${\\left(y-3\\right)}^2=y^2-2y\\times3+3^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe6a-h6",
@@ -66,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$y^2-6y+9$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

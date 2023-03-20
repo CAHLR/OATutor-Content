@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Midpoint Formula",
         "text": "Given the endpoints of a line segment, $$(x_1,y_1)$$ and $$(x_2,y_2)$$, the midpoint formula states how to find the coordinates of the midpoint M. $$M=($$ $$\\frac{x_1+x_2}{2}$$, $$\\frac{y_1+y_2}{2}$$ ).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord16a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-10"
+            "$$-10$$"
         ],
         "dependencies": [
             "a75d03cRecCord16a-h1"
         ],
         "title": "Addition",
         "text": "What is $$\\left(-2\\right)+\\left(-8\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord16a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-5"
+            "$$-5$$"
         ],
         "dependencies": [
             "a75d03cRecCord16a-h2"
         ],
         "title": "Division",
         "text": "What is $$\\frac{-10}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord16a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a75d03cRecCord16a-h3"
         ],
         "title": "Addition",
         "text": "What is $$-1+6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord16a-h5",
@@ -65,6 +69,7 @@
         ],
         "title": "Division",
         "text": "What is $$\\frac{5}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Since we know $$d=510$$ and $$r=60$$, we can substitute 510 for d and 60 for r into the equation, which gives us $$510=60t$$.",
-        "variabilization": {}
+        "text": "Since we know $$d=510$$ and $$r=60$$, we can substitute $$510$$ for $$d$$ and $$60$$ for $$r$$ into the equation, which gives us $$510=60t$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula18a-h2",
@@ -14,7 +15,8 @@
             "a1f32dfFormula18a-h1"
         ],
         "title": "Isolate",
-        "text": "To isolate t, we can divide both sides by 60.",
-        "variabilization": {}
+        "text": "To isolate $$t$$, we can divide both sides by $$60$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

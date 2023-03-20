@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of the Augmented Matrix",
         "text": "The augmented matrix displays the coefficients of the variables, and an additional column for the constants.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac98d98systemMat9a-h2",
@@ -14,7 +15,8 @@
             "ac98d98systemMat9a-h1"
         ],
         "title": "Rightmost Column of an Augmented Matrix",
-        "text": "The rightmost columns of augmented matrices are constants. For example, in the equation $$2x+y=3$$, 3 would be in the column at the very right.",
-        "variabilization": {}
+        "text": "The rightmost columns of augmented matrices are constants. For example, in the equation $$2x+y=3$$, $$3$$ would be in the column at the very right.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

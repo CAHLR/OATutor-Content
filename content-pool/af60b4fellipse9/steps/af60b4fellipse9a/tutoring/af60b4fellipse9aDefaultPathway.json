@@ -11,6 +11,7 @@
         "title": "Does the equation contain the same variable exponents as the standard equation form of an ellipse?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -29,6 +30,7 @@
         ],
         "title": "Use algebra to rewrite the equation in standard form.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying the Solution",
-        "text": "To isolate y, multiply both sides by the LCD, in this case, 96.",
-        "variabilization": {}
+        "text": "To isolate $$y$$, multiply both sides by the LCD, in this case, $$96$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions3a-h2",
@@ -14,7 +15,8 @@
             "a02e810proportions3a-h1"
         ],
         "title": "Simplifying the Equation",
-        "text": "Simplify both sides by reducing and eliminating the denominater under x.",
-        "variabilization": {}
+        "text": "Simplify both sides by reducing and eliminating the denominater under $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

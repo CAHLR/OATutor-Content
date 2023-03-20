@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Interval Notation Overview",
         "text": "Open parentheses \"(\" and \")\" represent excluded bounds, while closed parentheses \"[\" and \"]\" represent included bounds. If two separate ranges don't overlap, then we can use \"U\" (union) to combine them into the same expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d9e92Inequality13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving Each Inequality for X",
         "text": "We can solve each inequality. $$4x-2 \\leq 4$$ becomes $$x \\leq \\frac{3}{2}$$, and $$7x-1>-8$$ becomes $$x>-1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d9e92Inequality13a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Creating Our Notation",
         "text": "Using the general guide given in the previous hints, we can write the solution as $$[-1,\\frac{3}{2}]$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute and Solve for c",
-        "text": "Substitute $$h=150$$ into one of the original equations and solve for c. $$2h+3c=960$$ $$2\\times150+3c=960$$ $$300+3c=960$$ $$c=220$$",
-        "variabilization": {}
+        "text": "Substitute $$h=150$$ into one of the original equations and solve for c.\\n$$2h+3c=960$$\\n$$2\\times150+3c=960$$\\n$$300+3c=960$$\\n$$c=220$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6614c6sol24b-h2",
@@ -14,7 +15,8 @@
             "a6614c6sol24b-h1"
         ],
         "title": "Substitute and Solve for c",
-        "text": "There are 220 calories in a cup of cottage cheese.",
-        "variabilization": {}
+        "text": "There are $$220$$ calories in a cup of cottage cheese.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

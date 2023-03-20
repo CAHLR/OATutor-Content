@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
-        "text": "The greatest square factor of 27 is 9.",
-        "variabilization": {}
+        "text": "The greatest square factor of $$27$$ is $$9$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical16a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{27}=\\sqrt{9\\times3}=3\\sqrt{3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

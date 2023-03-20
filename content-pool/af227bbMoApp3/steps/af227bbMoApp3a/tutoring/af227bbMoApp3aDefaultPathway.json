@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "The known quantities are 34 and 0.05.",
-        "variabilization": {}
+        "text": "The known quantities are $$34$$ and $$0.05$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "The unknown quantity in this problem is the talk-time.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp3a-h3",
@@ -24,8 +26,9 @@
             "af227bbMoApp3a-h2"
         ],
         "title": "Assign a variable",
-        "text": "Let x equal the talk-time.",
-        "variabilization": {}
+        "text": "Let $$x$$ equal the talk-time.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp3a-h4",
@@ -40,6 +43,7 @@
         ],
         "title": "Translation to Math Operations",
         "text": "What is the mathematical form of \"a monthly service fee of $34 plus $.05/min talk-time\"?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

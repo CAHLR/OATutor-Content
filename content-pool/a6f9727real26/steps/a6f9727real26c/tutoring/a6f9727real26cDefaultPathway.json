@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Parentheses",
         "text": "The first step is to simplify the parentheses.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real26c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a6f9727real26c-h1"
         ],
         "title": "Parentheses",
         "text": "What is $$5+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real26c-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a6f9727real26c-h1"
         ],
         "title": "Parentheses",
         "text": "What is $$2+4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real26c-h4",
@@ -46,7 +49,8 @@
         ],
         "title": "Multiplication",
         "text": "The next step is to simplify multiplication and division.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real26c-h5",
@@ -54,13 +58,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "96"
+            "$$96$$"
         ],
         "dependencies": [
             "a6f9727real26c-h4"
         ],
         "title": "Multiplication",
         "text": "What is $$2\\times8\\times6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

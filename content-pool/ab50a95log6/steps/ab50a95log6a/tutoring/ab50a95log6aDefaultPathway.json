@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rethink",
         "text": "Think of it like $${121}^y=11$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

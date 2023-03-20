@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translate into algebra",
         "text": "Let $$p=the$$ percent. $$144=96p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "$$144=96p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent7a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1.5"
+            "$$1.5$$"
         ],
         "dependencies": [
             "a3e5c4cpercent7a-h2"
         ],
         "title": "Divide",
-        "text": "What do you get for p when you divide by 96 and simplify?",
-        "variabilization": {}
+        "text": "What do you get for $$p$$ when you divide by $$96$$ and simplify?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent7a-h4",
@@ -40,6 +43,7 @@
         ],
         "title": "Convert to percent.",
         "text": "$$150\\%=p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

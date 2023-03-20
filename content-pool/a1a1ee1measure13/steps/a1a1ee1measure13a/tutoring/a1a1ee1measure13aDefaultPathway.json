@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert",
         "text": "Multiply by a unit conversion factor relating km and mi.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure13a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1.61"
+            "$$1.61$$"
         ],
         "dependencies": [
             "a1a1ee1measure13a-h1"
         ],
         "title": "Convert",
         "text": "How many km are in one mile?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure13a-h3",
@@ -29,8 +31,9 @@
             "a1a1ee1measure13a-h2"
         ],
         "title": "Multiply",
-        "text": "Multiply 100 km by 1 $$\\frac{mile}{1.61}$$ km (km should be in the denominator so that km will divide out).",
-        "variabilization": {}
+        "text": "Multiply $$100$$ km by $$1$$ $$\\frac{mile}{1.61}$$ km (km should be in the denominator so that km will divide out).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure13a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "62"
+            "$$62$$"
         ],
         "dependencies": [
             "a1a1ee1measure13a-h3"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

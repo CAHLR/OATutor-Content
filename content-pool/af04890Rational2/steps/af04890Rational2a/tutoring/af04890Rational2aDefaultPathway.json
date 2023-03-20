@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The rational will be undefined when the $$denominator=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational2a-h2",
@@ -13,8 +14,9 @@
         "dependencies": [
             "af04890Rational2a-h1"
         ],
-        "title": "Setting equal to 0",
+        "title": "Setting equal to $$0$$",
         "text": "Set the $$denominator=0$$, $$8x=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

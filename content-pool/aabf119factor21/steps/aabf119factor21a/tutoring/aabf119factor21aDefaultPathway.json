@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring a Trinomial",
-        "text": "To factor a trionomial $${ax}^2+bx+c$$, the first step is to find p and q, a pair of factors of ac with a sum of b.",
-        "variabilization": {}
+        "text": "To factor a trionomial $${ax}^2+bx+c$$, the first step is to find $$p$$ and q, a pair of factors of ac with a sum of $$b$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-156"
+            "$$-156$$"
         ],
         "dependencies": [
             "aabf119factor21a-h1"
         ],
         "title": "Product of Factors",
         "text": "What is the product of $$12\\left(-13\\right)$$ in the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h3",
@@ -28,7 +30,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-156"
+            "$$-156$$"
         ],
         "dependencies": [
             "aabf119factor21a-h1",
@@ -36,7 +38,8 @@
         ],
         "title": "Product of Factors",
         "text": "What is the product of $$13\\left(-12\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h4",
@@ -44,7 +47,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "aabf119factor21a-h1",
@@ -52,7 +55,8 @@
         ],
         "title": "Sum of Factors",
         "text": "What is the sum of $$13+\\left(-12\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h5",
@@ -62,7 +66,8 @@
         ],
         "title": "Rewriting the Expression",
         "text": "The second step is to rewrite the original expression as $${ax}^2+px+qx+c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h6",
@@ -72,7 +77,8 @@
         ],
         "title": "Greatest Common Factor (GCF)",
         "text": "Thirdly, pull out the GCF of $${ax}^2+px$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h7",
@@ -82,7 +88,8 @@
         ],
         "title": "Greatest Common Factor (GCF)",
         "text": "Then, pull out the GCF of $$qx+c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor21a-h8",
@@ -92,6 +99,7 @@
         ],
         "title": "Factoring out the GCF",
         "text": "Lastly, factor out the GCF of the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

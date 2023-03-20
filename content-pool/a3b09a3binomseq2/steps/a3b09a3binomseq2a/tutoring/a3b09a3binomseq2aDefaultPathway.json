@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Equation",
         "text": "Use the equation C(n,r)=(n!)/(r!(n-r)!) to solve",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq2a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Plug In Values",
         "text": "Plug in the values to the equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq2a-h3",
@@ -21,12 +23,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "720"
+            "$$720$$"
         ],
         "dependencies": [],
         "title": "Solve For the Numerator",
         "text": "What is 6!?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq2a-h4",
@@ -34,14 +37,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a3b09a3binomseq2a-h3"
         ],
-        "title": "Solve For the Denominator: Part 1",
+        "title": "Solve For the Denominator: Part $$1$$",
         "text": "What is 2!?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq2a-h5",
@@ -49,14 +53,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "24"
+            "$$24$$"
         ],
         "dependencies": [
             "a3b09a3binomseq2a-h4"
         ],
-        "title": "Solve For the Denominator: Part 2",
-        "text": "What is (6-2)!?",
-        "variabilization": {}
+        "title": "Solve For the Denominator: Part $$2$$",
+        "text": "What is $$(6-2)!$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq2a-h6",
@@ -64,13 +69,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "a3b09a3binomseq2a-h5"
         ],
         "title": "Solve",
         "text": "What is $$\\frac{720}{24\\times2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

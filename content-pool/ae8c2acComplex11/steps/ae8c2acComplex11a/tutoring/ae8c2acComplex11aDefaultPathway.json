@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factoring i",
-        "text": "If b is a positive real number, then $$\\sqrt{-b}$$ $$=$$ $$i \\sqrt{b}$$.",
-        "variabilization": {}
+        "text": "If $$b$$ is a positive real number, then $$\\sqrt{-b}$$ $$=$$ $$i \\sqrt{b}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex11a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring i",
         "text": "What will our expression look like when we factor out i in both terms?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex11a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Simplifying Terms",
         "text": "If we simplify our square roots, what will our expression be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae8c2acComplex11a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Solution",
         "text": "Since we have common terms, we can get our solution by adding the terms together. What will our final solution be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

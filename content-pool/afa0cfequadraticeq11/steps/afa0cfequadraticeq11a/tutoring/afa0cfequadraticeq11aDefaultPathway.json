@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Algebreic Manipulation",
-        "text": "Solve for $$r^2$$ by adding 2 and dividing by 5",
-        "variabilization": {}
+        "text": "Solve for $$r^2$$ by adding $$2$$ and dividing by $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afa0cfequadraticeq11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Square Root Property",
         "text": "Square root both sides of the equation. Remember the negative and positive case.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afa0cfequadraticeq11a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Quadratics",
         "text": "Remember to rationalize the squareroot by multiplying the fraction by the square root in the denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "average rate of change",
-        "text": "To find the average rate of change, we calculate the change in y, the change in x, and the average rate of change is the ratio (change in y)/(change in x).",
-        "variabilization": {}
+        "text": "To find the average rate of change, we calculate the change in $$y$$, the change in $$x$$, and the average rate of change is the ratio (change in y)/(change in x).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brates4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Computing endpoints",
         "text": "We can start by computing the function values at each endpoint of the interval.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brates4a-h3",
@@ -23,7 +25,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "aa97d5brates4a-h2"
@@ -31,6 +33,7 @@
         "title": "Computing left endpoint",
         "text": "What is g(0)?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aa97d5brates4a-h3-s1",
@@ -38,12 +41,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "1"
+                    "$$1$$"
                 ],
                 "dependencies": [],
                 "title": "Computing left endpoint",
-                "text": "To find g(0), we plug in 0 for every t in the equation. What is $$0^2+3\\times0+1$$?",
-                "variabilization": {}
+                "text": "To find g(0), we plug in $$0$$ for every $$t$$ in the equation. What is $$0^2+3\\times0+1$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -61,14 +65,16 @@
         "title": "Computing right endpoint",
         "text": "What is g(a)?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aa97d5brates4a-h4-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Computing right endpoint",
-                "text": "To find g(a), we plug in a for every t in the equation. So we get the expression $$a^2+3a+1$$.",
-                "variabilization": {}
+                "text": "To find g(a), we plug in a for every $$t$$ in the equation. So we get the expression $$a^2+3a+1$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -81,7 +87,8 @@
         ],
         "title": "Average rate of change",
         "text": "The average rate of change =((g(a)-g(0))/(a-0).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brates4a-h6",
@@ -97,6 +104,7 @@
         "title": "Computing average rate of change",
         "text": "What is the average rate of change, plugging in $$g(0)=1$$ and $$g(a)=a^2+3a+1$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aa97d5brates4a-h6-s1",
@@ -104,7 +112,8 @@
                 "dependencies": [],
                 "title": "Computing average rate of change",
                 "text": "g(0) and g(a), the average rate of $$change=\\frac{a^2+3a+1-1}{a-0}=\\frac{a^2+3a}{a}=\\frac{a\\left(a+3\\right)}{a}=a+3$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

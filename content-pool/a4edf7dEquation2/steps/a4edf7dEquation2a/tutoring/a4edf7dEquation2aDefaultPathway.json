@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Assumption",
-        "text": "Assume the number of session is n",
-        "variabilization": {}
+        "text": "Assume the number of session is $$n$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translation",
         "text": "Converting the option A to $$25000+15n$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Translation",
         "text": "Converting the option B to $$10000+40n$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation2a-h4",
@@ -36,7 +39,8 @@
         ],
         "title": "Combination",
         "text": "Set an equation so option A $$=$$ option B, $$25000+15n$$ $$=$$ $$10000+40n$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation2a-h5",
@@ -44,13 +48,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "600"
+            "$$600$$"
         ],
         "dependencies": [
             "a4edf7dEquation2a-h4"
         ],
         "title": "Calculation",
-        "text": "What is the value of m when $$25n=15000$$?",
-        "variabilization": {}
+        "text": "What is the value of $$m$$ when $$25n=15000$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

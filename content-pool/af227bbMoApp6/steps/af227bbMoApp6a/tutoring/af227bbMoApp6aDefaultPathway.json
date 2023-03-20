@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "The known quantities are 20 and 0.05.",
-        "variabilization": {}
+        "text": "The known quantities are $$20$$ and $$0.05$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp6a-h2",
@@ -14,8 +15,9 @@
             "af227bbMoApp6a-h1"
         ],
         "title": "Determine unknown quantities",
-        "text": "The unknown quantity is the talk-time, which has been made x.",
-        "variabilization": {}
+        "text": "The unknown quantity is the talk-time, which has been made $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp6a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.05x"
+            "$$0.05x$$"
         ],
         "dependencies": [
             "af227bbMoApp6a-h2"
         ],
         "title": "Fees charged for calls",
-        "text": "What is the fees charged for calls when calling x minutes for a month?",
-        "variabilization": {}
+        "text": "What is the fees charged for calls when calling $$x$$ minutes for a month?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp6a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Total cost of this plan",
         "text": "What is the total cost of a monthly fee and fees charged for calls?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

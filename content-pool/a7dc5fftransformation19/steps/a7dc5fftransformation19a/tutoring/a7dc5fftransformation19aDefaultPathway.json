@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Horizontal Shift",
-        "text": "Let's start with the horizontal shift. Horizontal shifts are denoted as addition (shift to the left) or subtraction (shift to the right) inside of the parentheses, or in this case, next to the x-value in the denominator. To shift three units to the right, we subtract three from x in the denominator.",
-        "variabilization": {}
+        "text": "Let's start with the horizontal shift. Horizontal shifts are denoted as addition (shift to the left) or subtraction (shift to the right) inside of the parentheses, or in this case, next to the x-value in the denominator. To shift three units to the right, we subtract three from $$x$$ in the denominator.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation19a-h2",
@@ -21,6 +22,7 @@
         "title": "Horizontal Shift",
         "text": "What does the function look like now?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{1}{x+3}$$",
             "$$\\frac{1}{x-3}$$"
@@ -34,7 +36,8 @@
         ],
         "title": "Vertical Shift",
         "text": "Vertical shifts denoted as addition (shift upwards) or subtraction (shift downwards) outside of the fraction. To shift down four units, we subtract four outside of the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation19a-h4",
@@ -50,6 +53,7 @@
         "title": "Vertical Shift",
         "text": "What does the function look?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{1}{x-3}+4$$",
             "$$\\frac{1}{x-3}-4$$"

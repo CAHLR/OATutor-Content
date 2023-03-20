@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute y for f(x)",
-        "variabilization": {}
+        "text": "Substitute $$y$$ for f(x)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse3a-h2",
@@ -14,8 +15,9 @@
             "ae05e04inverse3a-h1"
         ],
         "title": "Swap",
-        "text": "Swap y and x",
-        "variabilization": {}
+        "text": "Swap $$y$$ and $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse3a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Square Root",
         "text": "Take the square root of both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse3a-h4",
@@ -41,6 +44,7 @@
         "title": "Result",
         "text": "What is the result?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x^2=y+7$$",
             "$$x^{\\frac{1}{2}}=y-7$$",
@@ -54,7 +58,8 @@
             "ae05e04inverse3a-h4"
         ],
         "title": "Subtract",
-        "text": "Subtract 7 from both sides",
-        "variabilization": {}
+        "text": "Subtract $$7$$ from both sides",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

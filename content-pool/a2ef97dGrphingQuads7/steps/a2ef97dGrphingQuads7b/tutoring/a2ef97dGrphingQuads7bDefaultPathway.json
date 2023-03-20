@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Parabola Orientation",
         "text": "Consider the parabolic form $${ax}^2+bx+c$$. Find the sign of a.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

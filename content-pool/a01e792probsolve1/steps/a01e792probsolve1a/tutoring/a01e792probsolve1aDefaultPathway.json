@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write the numbers in terms of variables",
         "text": "The first step is to identify what the problem is looking for and define your variable",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h2",
@@ -21,6 +22,7 @@
         "title": "Consecutive numbers",
         "text": "The problem states that the integers are consecutive. How can we express that condition?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "n,2*n,3*n",
             "n,n+1,n+2",
@@ -35,7 +37,8 @@
         ],
         "title": "Setting up the equation",
         "text": "The next step is to convert the statement into a mathematical equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-42"
+            "$$-42$$"
         ],
         "dependencies": [
             "a01e792probsolve1a-h3"
         ],
         "title": "Total sum",
         "text": "What should the numbers add up to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Solving the equation",
         "text": "The last step is to solve the equation and find the three integers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-15"
+            "$$-15$$"
         ],
         "dependencies": [
             "a01e792probsolve1a-h5"
         ],
-        "title": "Value of n",
-        "text": "What is the value for n?",
-        "variabilization": {}
+        "title": "Value of $$n$$",
+        "text": "What is the value for $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-14"
+            "$$-14$$"
         ],
         "dependencies": [
             "a01e792probsolve1a-h6"
         ],
         "title": "Value of $$n+1$$",
         "text": "What is $$n+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve1a-h8",
@@ -98,13 +105,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-13"
+            "$$-13$$"
         ],
         "dependencies": [
             "a01e792probsolve1a-h7"
         ],
         "title": "Value of $$n+2$$",
         "text": "what is $$n+2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

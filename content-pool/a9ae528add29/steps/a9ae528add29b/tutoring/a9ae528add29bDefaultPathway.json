@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplify Both Sides",
         "text": "We want to start by simplifying both sides and comparing the simplified value. Since the left hand side is already simplified, all we need to do is to evaluate the right hand side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add29b-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a9ae528add29b-h1"
@@ -21,14 +22,16 @@
         "title": "Right Hand Side",
         "text": "What does $$-|-2|$$ evaluate to?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9ae528add29b-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Right Hand Side",
-                "text": "We know that $$|-2|=distance$$ from -2 to $$0=2$$, so the opposite of $$|-2|$$ is -2.",
-                "variabilization": {}
+                "text": "We know that $$|-2|=distance$$ from $$-2$$ to $$0=2$$, so the opposite of $$|-2|$$ is $$-2$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,7 +42,8 @@
             "a9ae528add29b-h2"
         ],
         "title": "Comparing Numbers",
-        "text": "Now we are left to compare 2 and -2. Since 2 is to the right of -2 on the number line, we say $$2>-2$$. Therefore, $$2>-|-2|$$.",
-        "variabilization": {}
+        "text": "Now we are left to compare $$2$$ and $$-2$$. Since $$2$$ is to the right of $$-2$$ on the number line, we say $$2>-2$$. Therefore, $$2>-|-2|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

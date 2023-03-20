@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Writing the Inequality",
         "text": "Write the equivalent inequality. For example, if the expression is originally $$|x|<3$$, the equivalent inequality is $$-3<x<3$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities26a-h2",
@@ -14,8 +15,9 @@
             "a65ae04inequalities26a-h1"
         ],
         "title": "Graphing the Solution",
-        "text": "Graph the solution (the possible values of x based on the inequality.)",
-        "variabilization": {}
+        "text": "Graph the solution (the possible values of $$x$$ based on the inequality.)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities26a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Writing the Solution",
         "text": "Lastly, write the solution using interval notation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

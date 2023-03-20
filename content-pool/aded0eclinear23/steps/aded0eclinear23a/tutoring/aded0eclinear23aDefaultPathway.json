@@ -5,14 +5,16 @@
         "dependencies": [],
         "title": "General Procedure to Solve Inequalities",
         "text": "To solve an inequality, we must first gather all constants on one side and all variable terms on the other. Then, we can isolate the variable term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear23a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Isolating the Variable Term",
-        "text": "$$-7d>105$$. We must divide both sides by -7 to isolate d, which requires changing the sign. $$d<-15$$.",
-        "variabilization": {}
+        "text": "$$-7d>105$$. We must divide both sides by $$-7$$ to isolate $$d$$, which requires changing the sign. $$d<-15$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

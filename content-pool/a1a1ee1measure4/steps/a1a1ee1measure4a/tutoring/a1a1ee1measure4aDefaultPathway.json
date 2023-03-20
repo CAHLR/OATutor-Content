@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert",
         "text": "We will convert gallons to ounces by multiplying by several conversion factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a1a1ee1measure4a-h1"
         ],
         "title": "Convert",
         "text": "How many quarts are in a gallon?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a1a1ee1measure4a-h2"
         ],
         "title": "Convert",
         "text": "How many pints are in a quart?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a1a1ee1measure4a-h3"
         ],
         "title": "Convert",
         "text": "How many cups are in a pint?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a1a1ee1measure4a-h4"
         ],
         "title": "Convert",
         "text": "How many ounces are in a cup?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h6",
@@ -74,8 +79,9 @@
             "a1a1ee1measure4a-h5"
         ],
         "title": "Multiply",
-        "text": "Multiply 1 gallon by (4 $$\\frac{quarts}{1}$$ gallon)*(2 $$\\frac{pints}{1}$$ quart)*(2 $$\\frac{cups}{1}$$ pint)*(8 $$\\frac{ounces}{1}$$ cup)",
-        "variabilization": {}
+        "text": "Multiply $$1$$ gallon by (4 $$\\frac{quarts}{1}$$ gallon)*(2 $$\\frac{pints}{1}$$ quart)*(2 $$\\frac{cups}{1}$$ pint)*(8 $$\\frac{ounces}{1}$$ cup)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure4a-h7",
@@ -83,13 +89,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "128"
+            "$$128$$"
         ],
         "dependencies": [
             "a1a1ee1measure4a-h6"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

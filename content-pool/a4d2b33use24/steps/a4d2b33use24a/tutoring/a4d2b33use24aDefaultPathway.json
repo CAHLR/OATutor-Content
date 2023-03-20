@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h2",
@@ -21,6 +22,7 @@
         "title": "P-Parentheses",
         "text": "Are there any parentheses?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -32,14 +34,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h2"
         ],
         "title": "First Operation",
-        "text": "What is 4-2?",
-        "variabilization": {}
+        "text": "What is $$4-2$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h4",
@@ -47,14 +50,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h3"
         ],
         "title": "Second Operation",
-        "text": "What is 3(4-2)?",
-        "variabilization": {}
+        "text": "What is $$3(4-2)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h5",
@@ -62,14 +66,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h4"
         ],
         "title": "Third Operation",
-        "text": "What is 6 subtracted by the result of the second operation? This is equal to 6-3(4-2).",
-        "variabilization": {}
+        "text": "What is $$6$$ subtracted by the result of the second operation? This is equal to $$6-3(4-2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h6",
@@ -85,6 +90,7 @@
         "title": "E-Exponents",
         "text": "Are there any exponents?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -96,14 +102,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h6"
         ],
         "title": "Fourth Operation",
         "text": "What is $$2^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h8",
@@ -119,6 +126,7 @@
         "title": "MD- Multiplication or Division",
         "text": "Is there any multiplication or division?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -130,14 +138,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h8"
         ],
         "title": "Fifth Operation",
-        "text": "What is 3 times the result of the third operation?",
-        "variabilization": {}
+        "text": "What is $$3$$ times the result of the third operation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use24a-h10",
@@ -153,6 +162,7 @@
         "title": "AS- Addition or Subtraction",
         "text": "Is there any addition or subtraction?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -164,13 +174,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [
             "a4d2b33use24a-h10"
         ],
         "title": "Sixth Operation",
         "text": "What is $$5+8+0$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

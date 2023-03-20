@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying the Numerator and Denominator",
         "text": "We can multiply the numerator and denominators to get $$\\frac{\\left(x^2-4x\\right) \\left(x+2\\right)}{x\\left(x^2+5x+6\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplyingrationals10a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying if Necessary",
         "text": "This fraction can be simplified through factoring. $$\\frac{\\left(x^2-4x\\right) \\left(x+2\\right)}{x\\left(x^2+5x+6\\right)}=\\frac{x\\left(x-4\\right) \\left(x+2\\right)}{x\\left(x+3\\right) \\left(x+2\\right)}=\\frac{x-4}{x+3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

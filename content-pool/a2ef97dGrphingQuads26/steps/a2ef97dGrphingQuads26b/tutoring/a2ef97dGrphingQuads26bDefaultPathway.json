@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "X-coordinate",
         "text": "The x-coordinate of the vertex is the axis of symmetry.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads26b-h2",
@@ -14,8 +15,9 @@
             "a2ef97dGrphingQuads26b-h1"
         ],
         "title": "Y-coordinate",
-        "text": "Plug the x-coordinate of the vertex into the quadratic to get the y coordinate of the vertex.",
-        "variabilization": {}
+        "text": "Plug the x-coordinate of the vertex into the quadratic to get the $$y$$ coordinate of the vertex.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads26b-h3",
@@ -24,7 +26,8 @@
             "a2ef97dGrphingQuads26b-h2"
         ],
         "title": "Answer",
-        "text": "The vertex is (1,6).",
-        "variabilization": {}
+        "text": "The vertex is $$(1,6)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

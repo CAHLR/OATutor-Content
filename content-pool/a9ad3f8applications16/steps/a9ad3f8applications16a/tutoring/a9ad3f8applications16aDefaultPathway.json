@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the Numbers",
         "text": "The problem specifies there are \"two numbers.\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications16a-h2",
@@ -14,8 +15,9 @@
             "a9ad3f8applications16a-h1"
         ],
         "title": "Create Variables",
-        "text": "Name the two unknown numbers x and y to represent those quantities. Let $$x=one$$ number and $$y=second$$ number.",
-        "variabilization": {}
+        "text": "Name the two unknown numbers $$x$$ and $$y$$ to represent those quantities. Let $$x=one$$ number and $$y=second$$ number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications16a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Translate Into System",
         "text": "Since the sum of the two number is negative fourteen we can write $$x+y=-14$$. Additionally one number is four less than the other so we can write $$x=y-4$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications16a-h4",
@@ -41,6 +44,7 @@
         "title": "Translate Into System",
         "text": "What is the systems of equation represented in the problem?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x-y=14, y=x+4$$",
             "$$x+y=-14, x=y-4$$",

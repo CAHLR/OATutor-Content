@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Determinant",
-        "text": "The determinant is given by $$a d-b c$$. This evaluates to -6-63 which is -69.",
-        "variabilization": {}
+        "text": "The determinant is given by $$a d-b c$$. This evaluates to $$-6-63$$ which is $$-69$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa5ef86inv15a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Multiplying the Determinant with the Changed Matrix",
         "text": "We must modify the matrix into the form $$\\begin{bmatrix} d & -b \\\\ -c & a \\end{bmatrix}$$. We now have $$/mat{(2,-7),(-9,-3)$$. Dividing this matrix by the determinant, we have $$/mat{(2,-7),(-9,-3)/(-69)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

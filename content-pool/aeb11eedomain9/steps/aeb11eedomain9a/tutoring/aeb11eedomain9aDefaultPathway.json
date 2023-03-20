@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Domain Restrictions",
-        "text": "We cannot evaluate the function at -1 because division by zero is undefined.",
-        "variabilization": {}
+        "text": "We cannot evaluate the function at $$-1$$ because division by zero is undefined.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain9a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "The domain $$is(-\\infty,-1) \\cup (-1,\\infty)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

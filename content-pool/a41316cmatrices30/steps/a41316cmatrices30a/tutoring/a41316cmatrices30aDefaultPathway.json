@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Detemine if Multipliable",
         "text": "Two matrices are Multipliable(able to be multiplied) if their inner dimensions are the same.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a41316cmatrices30a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Determining If Multipliable",
         "text": "The inner dimensions are not the same, therefore the matrix is not multipliable, and no solution exists.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

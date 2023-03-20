@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Setting up the equation",
-        "text": "Set up the equation first by setting r as Jane's speed along the summit.",
-        "variabilization": {}
+        "text": "Set up the equation first by setting $$r$$ as Jane's speed along the summit.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa822f8UniMotion30a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Setting up the equation",
         "text": "Next, understand how the two speeds relate to each other.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa822f8UniMotion30a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Setting up the equation",
         "text": "What is the relationship between the two speeds?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa822f8UniMotion30a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "r $$=$$ 30 or 1"
+            "$$r$$ $$=$$ $$30$$ or $$1$$"
         ],
         "dependencies": [
             "aa822f8UniMotion30a-h3"
         ],
         "title": "Solving the equation",
         "text": "Solve for r; if there are two possible answers, choose the largest",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa822f8UniMotion30a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Double-Checking",
         "text": "Double check that the answer makes sense in terms of the context of the question.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa822f8UniMotion30a-h6",
@@ -63,13 +68,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "30"
+            "$$30$$"
         ],
         "dependencies": [
             "aa822f8UniMotion30a-h5"
         ],
         "title": "Double-Checking",
         "text": "Which speed makes more sense in the context of the question?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to solve $$ln(x)=9$$. Rewrite this expression first into exponential form. Remember that the base for ln functions is e.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af4e405log17b-h2",
@@ -21,6 +22,7 @@
         "title": "Determing the Exponential Form",
         "text": "What is the exponential form of $$ln(x)=9$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$e^9=x$$",
             "$$9^e=x$$",
@@ -39,9 +41,10 @@
         "dependencies": [
             "af4e405log17b-h2"
         ],
-        "title": "Solve for x",
-        "text": "What is the solution for x in the exponential equation $$e^9=x$$?",
+        "title": "Solve for $$x$$",
+        "text": "What is the solution for $$x$$ in the exponential equation $$e^9=x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$e^9$$",
             "$$9^e$$"

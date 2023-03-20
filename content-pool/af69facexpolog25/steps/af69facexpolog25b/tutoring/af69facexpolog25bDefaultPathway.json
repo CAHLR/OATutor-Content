@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "How many minutes are there in three hours? Substitute this in to the model using the exact k value to obtain the population count.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

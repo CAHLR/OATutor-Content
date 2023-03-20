@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subsititute",
-        "text": "Plug in -5 in place of x. You then get the equation $$-5+5$$.",
-        "variabilization": {}
+        "text": "Plug in $$-5$$ in place of $$x$$. You then get the equation $$-5+5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real9a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a6f9727real9a-h1"
         ],
         "title": "Addition",
         "text": "What is $$-5+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

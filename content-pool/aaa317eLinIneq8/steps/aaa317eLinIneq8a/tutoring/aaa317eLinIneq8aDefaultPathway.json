@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Break Down the Compound Inequality",
         "text": "We can simplify the compound inequality by writing it as two separte inequalities: $$3+x>7x-2$$, $$7x-2>5x-10$$. The solution would be their intersection.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq8a-h2",
@@ -21,6 +22,7 @@
         "title": "Solving Simple Inequality",
         "text": "What does solving $$3+x>7x-1$$ give us?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$\\frac{5}{6}>x$$",
             "$$\\frac{5}{6}<x$$",
@@ -40,6 +42,7 @@
                 "title": "Combine Variable Terms",
                 "text": "What inequality do we get after combining the vairable terms?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$3>8x-2$$",
                     "$$3>6x-2$$"
@@ -59,6 +62,7 @@
                 "title": "Isolate Variable Term",
                 "text": "What inequality do we get after isolating the vairable terms?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$5>6x$$",
                     "$$1>6x$$"
@@ -76,8 +80,9 @@
                     "aaa317eLinIneq8a-h2-s2"
                 ],
                 "title": "Eliminate Coefficient",
-                "text": "What inequality do we get after eliminating the coeffienct of x?",
+                "text": "What inequality do we get after eliminating the coeffienct of $$x$$?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$\\frac{5}{6}>x$$",
                     "$$\\frac{5}{6}<x$$"
@@ -99,6 +104,7 @@
         "title": "Solving Simple Inequality",
         "text": "What does solving $$7x-2>5x-10$$ give us?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$x>-6$$",
             "$$x<-6$$",
@@ -118,6 +124,7 @@
                 "title": "Combine Variable Terms",
                 "text": "What inequality do we get after combining the vairable terms?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$2x-2>-10$$",
                     "$$2x-2<-10$$"
@@ -137,6 +144,7 @@
                 "title": "Isolate Variable Term",
                 "text": "What inequality do we get after isolating the vairable terms?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$2x>-8$$",
                     "$$2x>-12$$"
@@ -154,8 +162,9 @@
                     "aaa317eLinIneq8a-h3-s2"
                 ],
                 "title": "Eliminate Coefficient",
-                "text": "What inequality do we get after eliminating the coeffienct of x?",
+                "text": "What inequality do we get after eliminating the coeffienct of $$x$$?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$x>-4$$",
                     "$$x<-4$$"
@@ -172,6 +181,7 @@
         ],
         "title": "Intersection of the Two Simple Inequalities",
         "text": "The intersection of the two simple inequalities is $$-4<x<\\frac{5}{6}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

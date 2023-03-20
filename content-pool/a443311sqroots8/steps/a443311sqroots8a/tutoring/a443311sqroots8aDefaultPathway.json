@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Combine",
         "text": "Combine the radicals into one radical, since $$\\frac{\\sqrt{a}}{\\sqrt{b}}$$ $$=$$ $$\\sqrt{\\frac{a}{b}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Now, simplify the quotient under the radical as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots8a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Reduce",
         "text": "If necessary, simplify the radical further by splitting it apart and reducing it to a constant (or variable) and another radical.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a443311sqroots8a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\frac{2x}{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

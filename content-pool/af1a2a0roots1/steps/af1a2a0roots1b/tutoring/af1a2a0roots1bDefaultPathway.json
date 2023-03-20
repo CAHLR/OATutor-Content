@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Square Root",
         "text": "$${15}^2=225$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af1a2a0roots1b-h2",
@@ -13,7 +14,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "af1a2a0roots1b-h1"
@@ -21,10 +22,11 @@
         "title": "Simplifying Expression",
         "text": "What is the simplified expression?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "25",
-            "15",
-            "-20",
+            "$$25$$",
+            "$$15$$",
+            "$$-20$$",
             "Not a real number"
         ]
     }

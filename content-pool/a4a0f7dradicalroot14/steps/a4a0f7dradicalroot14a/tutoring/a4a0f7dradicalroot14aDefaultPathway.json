@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Setup",
         "text": "Simplifying the equation to $$p=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h2",
@@ -14,8 +15,9 @@
             "a4a0f7dradicalroot14a-h1"
         ],
         "title": "Setup",
-        "text": "Isolating p function",
-        "variabilization": {}
+        "text": "Isolating $$p$$ function",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h3",
@@ -24,8 +26,9 @@
             "a4a0f7dradicalroot14a-h2"
         ],
         "title": "Operation",
-        "text": "Subtracting 3 on both sides to remove the $$+3$$",
-        "variabilization": {}
+        "text": "Subtracting $$3$$ on both sides to remove the $$+3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Order of Operation",
         "text": "Solving the square root",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Calculation",
         "text": "Square root can be removed by squaring both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h6",
@@ -60,7 +65,8 @@
         ],
         "title": "Squaring",
         "text": "What is the square of $$\\sqrt{3p+3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h7",
@@ -70,7 +76,8 @@
         ],
         "title": "Operation",
         "text": "Square root can be canceled by squaring",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h8",
@@ -85,7 +92,8 @@
         ],
         "title": "Operation",
         "text": "What is $$\\sqrt{3p+3}$$ without square root?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h9",
@@ -94,8 +102,9 @@
             "a4a0f7dradicalroot14a-h8"
         ],
         "title": "Principle of Operation",
-        "text": "2 on the right side also has to be squared",
-        "variabilization": {}
+        "text": "$$2$$ on the right side also has to be squared",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h10",
@@ -103,14 +112,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot14a-h9"
         ],
         "title": "Squaring",
         "text": "What is $$2^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h11",
@@ -120,7 +130,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$3p+3=4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h12",
@@ -129,8 +140,9 @@
             "a4a0f7dradicalroot14a-h11"
         ],
         "title": "Operation",
-        "text": "Subtracting 3 on both side",
-        "variabilization": {}
+        "text": "Subtracting $$3$$ on both side",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h13",
@@ -138,14 +150,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3p"
+            "$$3p$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot14a-h12"
         ],
         "title": "Subtraction",
         "text": "What is $$3p+3-3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h14",
@@ -153,14 +166,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a4a0f7dradicalroot14a-h13"
         ],
         "title": "Subtraction",
-        "text": "What is 4-3?",
-        "variabilization": {}
+        "text": "What is $$4-3$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h15",
@@ -170,7 +184,8 @@
         ],
         "title": "Organizing",
         "text": "The equation becomes $$3p=1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h16",
@@ -179,8 +194,9 @@
             "a4a0f7dradicalroot14a-h15"
         ],
         "title": "Dividing",
-        "text": "Diving 3p by 3 to produce a single p",
-        "variabilization": {}
+        "text": "Diving $$3p$$ by $$3$$ to produce a single $$p$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot14a-h17",
@@ -194,7 +210,8 @@
             "a4a0f7dradicalroot14a-h16"
         ],
         "title": "Dividing",
-        "text": "What is 1 divided by 3?",
-        "variabilization": {}
+        "text": "What is $$1$$ divided by 3?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

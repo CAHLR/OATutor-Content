@@ -11,6 +11,7 @@
         "title": "Identifying the GCF",
         "text": "Is there a GCF?",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "Yes",
             "No"
@@ -27,7 +28,8 @@
                 "dependencies": [],
                 "title": "Identifying the GCF",
                 "text": "What is the GCF? Make sure to factor it out.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -45,10 +47,11 @@
         "title": "Identifying Polynomial Type",
         "text": "Is it a binomial, trinomial, or are there more than three terms?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Binomial",
             "Trinomial",
-            "More than 3"
+            "More than $$3$$"
         ]
     },
     {
@@ -64,6 +67,7 @@
         ],
         "title": "Factor Completely",
         "text": "What is the expression when factored completely? Make sure to multiply and check.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

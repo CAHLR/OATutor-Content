@@ -3,9 +3,10 @@
         "id": "a975ae1MultDivInts4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Multiplication by -1",
-        "text": "Multiplying by -1 gives you the same number, with the opposite sign.",
-        "variabilization": {}
+        "title": "Multiplication by $$-1$$",
+        "text": "Multiplying by $$-1$$ gives you the same number, with the opposite sign.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a975ae1MultDivInts4a-h2",
@@ -14,7 +15,8 @@
             "a975ae1MultDivInts4a-h1"
         ],
         "title": "Answer",
-        "text": "The answer is -8.",
-        "variabilization": {}
+        "text": "The answer is $$-8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

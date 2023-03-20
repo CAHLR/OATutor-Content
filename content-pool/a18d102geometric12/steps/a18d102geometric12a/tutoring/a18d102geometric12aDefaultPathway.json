@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula for General Term",
-        "text": "To find the nth term, $$a_n$$, we use the formula with $$a_1$$ being the starting term and r being the common ratio that $$a_n=a_1 r^{n-1}$$.",
-        "variabilization": {}
+        "text": "To find the nth term, $$a_n$$, we use the formula with $$a_1$$ being the starting term and $$r$$ being the common ratio that $$a_n=a_1 r^{n-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric12a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7"
+            "$$7$$"
         ],
         "dependencies": [
             "a18d102geometric12a-h1"
         ],
         "title": "Determine $$a_1$$",
         "text": "What is $$a_1$$ in the formula above? Essentially, what is the starting term?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18d102geometric12a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a18d102geometric12a-h2"
         ],
-        "title": "Determine r",
-        "text": "What is r? What is the common ratio?",
+        "title": "Determine $$r$$",
+        "text": "What is $$r$$? What is the common ratio?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a18d102geometric12a-h3-s1",
@@ -43,12 +46,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
-                "title": "Ratio Between 7 and 14",
-                "text": "What is the common ratio between 7 and 14? Effectively, what is $$\\frac{14}{7}$$?",
-                "variabilization": {}
+                "title": "Ratio Between $$7$$ and $$14$$",
+                "text": "What is the common ratio between $$7$$ and 14? Effectively, what is $$\\frac{14}{7}$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a18d102geometric12a-h3-s2",
@@ -56,12 +60,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
-                "title": "Ratio Between 14 and 28",
-                "text": "What is the common ratio between 14 and 28? Effectively, what is $$\\frac{28}{14}$$?",
-                "variabilization": {}
+                "title": "Ratio Between $$14$$ and $$28$$",
+                "text": "What is the common ratio between $$14$$ and 28? Effectively, what is $$\\frac{28}{14}$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a18d102geometric12a-h3-s3",
@@ -69,12 +74,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
-                "title": "Ratio Between 28 and 56",
-                "text": "What is the common ratio between 28 and 56? Effectively, what is $$\\frac{56}{28}$$?",
-                "variabilization": {}
+                "title": "Ratio Between $$28$$ and $$56$$",
+                "text": "What is the common ratio between $$28$$ and 56? Effectively, what is $$\\frac{56}{28}$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a18d102geometric12a-h3-s4",
@@ -82,12 +88,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
-                "title": "Ratio Between 56 and 112",
-                "text": "What is the common ratio between 56 and 112? Effectively, what is $$\\frac{112}{56}$$?",
-                "variabilization": {}
+                "title": "Ratio Between $$56$$ and $$112$$",
+                "text": "What is the common ratio between $$56$$ and 112? Effectively, what is $$\\frac{112}{56}$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a18d102geometric12a-h3-s5",
@@ -95,12 +102,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
-                "title": "Ratio Between 112 and 224",
-                "text": "What is the common ratio between 112 and 224? Effectively, what is $$\\frac{224}{112}$$?",
-                "variabilization": {}
+                "title": "Ratio Between $$112$$ and $$224$$",
+                "text": "What is the common ratio between $$112$$ and 224? Effectively, what is $$\\frac{224}{112}$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a18d102geometric12a-h3-s6",
@@ -108,12 +116,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "2"
+                    "$$2$$"
                 ],
                 "dependencies": [],
                 "title": "Determining Common Ratio",
-                "text": "What is the common ratio between consecutive terms? What is r?",
-                "variabilization": {}
+                "text": "What is the common ratio between consecutive terms? What is $$r$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -131,6 +140,7 @@
         "title": "Writing the Formula",
         "text": "What is the correct formula for the general term using the terms just determined?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$a_n=7\\times2^{n-1}$$",
             "$$a_n=2\\times7^{n-1}$$",

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolation",
         "text": "First we should isolate the variable on one side of the equation by adding, subtracting, multiplying or dividing the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua2a-h2",
@@ -19,8 +20,9 @@
             "a2d8720LinEqua2a-h1"
         ],
         "title": "Subtraction",
-        "text": "What is the result after subtracting 1 from both sides?",
-        "variabilization": {}
+        "text": "What is the result after subtracting $$1$$ from both sides?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Normalization",
         "text": "When the variable is multiplied by a coefficient in the final stage, multiply both sides fo the equation by the reciprocal of the cofficient.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua2a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Multiplication",
         "text": "What is the result after multiplying both sides by $$\\frac{1}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

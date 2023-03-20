@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "We will substitute 50 degrees Fahrenheit into the formula, $$C=\\frac{5}{9} \\left(F-32\\right)$$, to find C.",
-        "variabilization": {}
+        "text": "We will substitute $$50$$ degrees Fahrenheit into the formula, $$C=\\frac{5}{9} \\left(F-32\\right)$$, to find C.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure14a-h2",
@@ -21,6 +22,7 @@
         "title": "Substitute",
         "text": "What do we get after the substitution?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$C=\\frac{9}{5} \\left(50-32\\right)$$",
             "$$C=\\frac{5}{9} \\left(50-32\\right)$$",
@@ -33,13 +35,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "a1a1ee1measure14a-h2"
         ],
         "title": "Simplify",
         "text": "What do we get for C after simplifying the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

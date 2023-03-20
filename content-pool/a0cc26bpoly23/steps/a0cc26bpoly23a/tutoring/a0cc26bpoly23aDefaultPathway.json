@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Difference of Squares",
         "text": "This expression is in the form of $$\\left(a+b\\right) \\left(a-b\\right)$$. $$\\left(a+b\\right) \\left(a-b\\right)$$ $$=$$ $$a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0cc26bpoly23a-h2",
@@ -19,7 +20,8 @@
             "a0cc26bpoly23a-h1"
         ],
         "title": "Substituting",
-        "text": "Let a $$=$$ 2x and b $$=$$ 7. What is $$\\left(2x+7\\right) \\left(2x-7\\right)$$?",
-        "variabilization": {}
+        "text": "Let $$a=2x$$ and $$b=7$$. What is $$\\left(2x+7\\right) \\left(2x-7\\right)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

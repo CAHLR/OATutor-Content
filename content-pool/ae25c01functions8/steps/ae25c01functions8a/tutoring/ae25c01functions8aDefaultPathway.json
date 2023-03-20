@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Using the Vertical Line Test",
         "text": "Since there exists a vertical line that intersects the graph at more than one point, the graph is not a function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

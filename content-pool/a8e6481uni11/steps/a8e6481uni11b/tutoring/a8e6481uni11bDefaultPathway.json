@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "Suzie's downhill speed is 1.2 mph more than her uphill speed.",
-        "variabilization": {}
+        "text": "Suzie's downhill speed is $$1.2$$ mph more than her uphill speed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni11b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "The Answer",
         "text": "Her downhill speed is $$1.8+1.2=3$$ mph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

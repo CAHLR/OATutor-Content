@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "We substitute $$x=-4$$ and $$y=-1$$ into both inequalities.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra5a-h2",
@@ -14,8 +15,9 @@
             "acff542gra5a-h1"
         ],
         "title": "Substitute into First Equation",
-        "text": "$$y>\\frac{3}{2} x+3$$ $$-1>-4\\frac{3}{2}+3$$ $$-1>-3$$",
-        "variabilization": {}
+        "text": "$$y>\\frac{3}{2} x+3$$\\n$$-1>-4\\frac{3}{2}+3$$\\n$$-1>-3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acff542gra5a-h3",
@@ -31,6 +33,7 @@
         "title": "Substitute into First Equation",
         "text": "Is the inequality above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -43,7 +46,8 @@
             "acff542gra5a-h3"
         ],
         "title": "Solutions of a System of Equations",
-        "text": "Since (-4,-1) does not satisfy the first inequality, then it cannot make both inequalities true. (-4,-1) is not a solution.",
-        "variabilization": {}
+        "text": "Since $$(-4,-1)$$ does not satisfy the first inequality, then it cannot make both inequalities true. $$(-4,-1)$$ is not a solution.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

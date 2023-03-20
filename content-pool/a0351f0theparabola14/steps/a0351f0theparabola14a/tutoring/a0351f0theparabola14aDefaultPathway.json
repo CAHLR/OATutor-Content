@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Writing in Standard Form",
-        "text": "To put the parabola in standard form, we can simply multiply both sides by 8 to get $$8x=y^2$$",
-        "variabilization": {}
+        "text": "To put the parabola in standard form, we can simply multiply both sides by $$8$$ to get $$8x=y^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a0351f0theparabola14a-h2",
@@ -14,7 +15,8 @@
             "a0351f0theparabola14a-h1"
         ],
         "title": "Finding The Characteristics",
-        "text": "From the equation, we know that the vertex is (0,0) and that $$p=2$$. This means that the focus is (2,0) and the directrix is $$x=-2$$",
-        "variabilization": {}
+        "text": "From the equation, we know that the vertex is $$(0,0)$$ and that $$p=2$$. This means that the focus is $$(2,0)$$ and the directrix is $$x=-2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

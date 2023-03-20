@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Greatest Common Factor",
         "text": "The greatest common factor (GCF) of two numbers is the largest number that divides evenly into both numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor2a-h2",
@@ -14,8 +15,9 @@
             "aabf119factor2a-h1"
         ],
         "title": "Example of a GCF",
-        "text": "4 is the GCF of 16 and 20 because it is the largest number that divides evenly into both 16 and 20.",
-        "variabilization": {}
+        "text": "$$4$$ is the GCF of $$16$$ and $$20$$ because it is the largest number that divides evenly into both $$16$$ and $$20$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor2a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Factor of Expression",
         "text": "$$b^2-a$$ divides evenly into both terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor2a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Example of Factoring",
         "text": "$$y\\left(x+2\\right)$$ + $$3\\left(x+2\\right)$$ $$=$$ $$\\left(y+3\\right) \\left(x+2\\right)$$, in which the GCF of the original expression is $$x+2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

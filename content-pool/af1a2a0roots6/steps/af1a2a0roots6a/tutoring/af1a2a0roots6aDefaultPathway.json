@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Square Root",
         "text": "$$5^2=25$$ and $${12}^2=144$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af1a2a0roots6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Order of Operations",
         "text": "$$5+12$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af1a2a0roots6a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "17"
+            "$$17$$"
         ],
         "dependencies": [
             "af1a2a0roots6a-h2"
         ],
         "title": "Simplify",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

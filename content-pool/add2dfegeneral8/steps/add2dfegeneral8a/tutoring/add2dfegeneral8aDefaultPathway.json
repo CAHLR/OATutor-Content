@@ -11,6 +11,7 @@
         "title": "Is there a greatest common factor?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -23,8 +24,9 @@
             "add2dfegeneral8a-h1"
         ],
         "title": "GCF",
-        "text": "Factor out the greatest common factor 3",
-        "variabilization": {}
+        "text": "Factor out the greatest common factor $$3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral8a-h3",
@@ -40,6 +42,7 @@
         "title": "Is the polynomial a binomial, trinomial, or are there more than three terms?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -54,7 +57,8 @@
         ],
         "title": "Trinomial",
         "text": "Since it's a trinomial, check to see whether the expression is in the form of $$x^2+bx+x$$ or $${ax}^2+bx+c$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral8a-h5",
@@ -64,7 +68,8 @@
         ],
         "title": "$$x^2+bx+c$$",
         "text": "Undo using FOIL",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral8a-h6",
@@ -74,6 +79,7 @@
         ],
         "title": "Check",
         "text": "Is it factored completely? Do the factors multiply back to the original polynomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

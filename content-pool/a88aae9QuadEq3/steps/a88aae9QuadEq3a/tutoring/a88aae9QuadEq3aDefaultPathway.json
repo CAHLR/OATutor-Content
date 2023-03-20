@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Positive or Negative?",
         "text": "Since our formula is going to be less than zero, we want to look at the interval on the graph where our line is underneath zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a88aae9QuadEq3a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Solution",
         "text": "When we graph our formula, what part of the graph is going to be less than zero?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

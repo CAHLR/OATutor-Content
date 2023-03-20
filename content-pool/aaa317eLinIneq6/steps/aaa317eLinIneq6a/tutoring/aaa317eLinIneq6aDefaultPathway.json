@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Move Variable Terms",
         "text": "We start by moving variable terms to one side of the inequality",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq6a-h2",
@@ -21,6 +22,7 @@
         "title": "Move Variable Terms",
         "text": "What inequality do we get after moving the variable terms?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-\\left(\\frac{3}{4}\\right) x-\\frac{2}{3} x \\geq \\frac{-5}{8}$$",
             "$$-\\left(\\frac{3}{4}\\right) x+\\frac{2}{3} x \\geq \\frac{-5}{8}$$"
@@ -38,8 +40,9 @@
             "aaa317eLinIneq6a-h2"
         ],
         "title": "Combine Like Terms",
-        "text": "What is the coefficent of x after combining the two variable terms together?",
+        "text": "What is the coefficent of $$x$$ after combining the two variable terms together?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aaa317eLinIneq6a-h3-s1",
@@ -52,7 +55,8 @@
                 "dependencies": [],
                 "title": "Combine Like Terms",
                 "text": "What is $$\\frac{-3}{4}-\\frac{3}{2}$$ (Hint: write fractions with common denominator)",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -68,8 +72,9 @@
             "aaa317eLinIneq6a-h3"
         ],
         "title": "Apply the Multiplication Property",
-        "text": "To make the coeffient of x be 1, what number should we multiply both sides of the inequality by?",
+        "text": "To make the coeffient of $$x$$ be $$1$$, what number should we multiply both sides of the inequality by?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aaa317eLinIneq6a-h4-s1",
@@ -82,7 +87,8 @@
                 "dependencies": [],
                 "title": "Apply the Multiplication Property",
                 "text": "What is the inverse of $$\\frac{-17}{12}$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -92,14 +98,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aaa317eLinIneq6a-h4"
         ],
         "title": "Left Side",
         "text": "What is the left side after multiplying by $$\\frac{-12}{17}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq6a-h6",
@@ -114,7 +121,8 @@
         ],
         "title": "Right Side",
         "text": "What is the right side after multiplying by $$\\frac{-12}{17}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq6a-h7",
@@ -130,6 +138,7 @@
         "title": "Sign",
         "text": "What is the sign of the inequality after multiplication?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$ \\leq $$",
             "$$ \\geq $$"
@@ -149,6 +158,7 @@
         "title": "Interval Notation",
         "text": "What is $$x \\leq \\frac{15}{34}$$ written in interval notion?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$[\\frac{15}{34},\\infty)$$",
             "$$(-\\infty,\\frac{15}{34}]$$"

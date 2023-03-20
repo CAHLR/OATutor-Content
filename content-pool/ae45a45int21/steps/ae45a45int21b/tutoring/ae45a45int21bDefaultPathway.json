@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewriting the Expression",
-        "text": "Adding -9 is the same as subtracting 9, through the subtraction property",
-        "variabilization": {}
+        "text": "Adding $$-9$$ is the same as subtracting $$9$$, through the subtraction property",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int21b-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-26"
+            "$$-26$$"
         ],
         "dependencies": [
             "ae45a45int21b-h1"
         ],
         "title": "Rewriting the Expression",
-        "text": "What is -17-9?",
+        "text": "What is $$-17-9$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ae45a45int21b-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-18"
+                    "$$-18$$"
                 ],
                 "dependencies": [],
                 "title": "Rewriting the Expression",
-                "text": "What is -17-1?",
-                "variabilization": {}
+                "text": "What is $$-17-1$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int21b-h2-s2",
@@ -41,14 +44,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-19"
+                    "$$-19$$"
                 ],
                 "dependencies": [
                     "ae45a45int21b-h2-s1"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is -17-2?",
-                "variabilization": {}
+                "text": "What is $$-17-2$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int21b-h2-s3",
@@ -56,14 +60,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-25"
+                    "$$-25$$"
                 ],
                 "dependencies": [
                     "ae45a45int21b-h2-s2"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is -17-8?",
-                "variabilization": {}
+                "text": "What is $$-17-8$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int21b-h2-s4",
@@ -71,14 +76,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-26"
+                    "$$-26$$"
                 ],
                 "dependencies": [
                     "ae45a45int21b-h2-s3"
                 ],
                 "title": "Rewriting the Expression",
-                "text": "What is -17-9?",
-                "variabilization": {}
+                "text": "What is $$-17-9$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

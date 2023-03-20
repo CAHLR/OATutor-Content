@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subsituting in the Numeric Value",
-        "text": "The first step is to subsitute the value for x in the expression $$|x|$$.",
-        "variabilization": {}
+        "text": "The first step is to subsitute the value for $$x$$ in the expression $$|x|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add8a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a9ae528add8a-h1"
         ],
-        "title": "Value of x",
+        "title": "Value of $$x$$",
         "text": "$$x=-17$$, a negative number.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add8a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Evaluating the Absolute Value of Negative Numbers",
         "text": "If a is negative, then $$|a|=-a$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

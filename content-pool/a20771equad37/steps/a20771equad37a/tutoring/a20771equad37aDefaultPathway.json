@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Square root",
         "text": "Take the square root of both sides",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad37a-h2",
@@ -21,6 +22,7 @@
         "title": "Square root",
         "text": "What do we get after taking the square root of both sides?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x+1=\\sqrt{25}$$",
             "$$x-1=\\sqrt{25}$$",
@@ -35,7 +37,8 @@
         ],
         "title": "Careful!",
         "text": "Remember to be careful about the square root of 36! (remember positve and negative numbers)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad37a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "Square root",
         "text": "What is the square root of 25?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad37a-h5",
@@ -59,7 +63,8 @@
             "a20771equad37a-h4"
         ],
         "title": "Set Equal!",
-        "text": "set x-1 equal to both values and solve for x",
-        "variabilization": {}
+        "text": "set $$x-1$$ equal to both values and solve for $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

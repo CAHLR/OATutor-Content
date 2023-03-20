@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Let $$x=0$$",
         "text": "Set $$x=0$$ and begin solving the equation. The remaining portion of the equation is $$0-4y=8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts12a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "aafbadeintercepts12a-h1"
         ],
-        "title": "Solve for y",
-        "text": "Divide both sides by -4 to get $$y=-2$$.",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Divide both sides by $$-4$$ to get $$y=-2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts12a-h3",
@@ -24,8 +26,9 @@
             "aafbadeintercepts12a-h2"
         ],
         "title": "Interpret",
-        "text": "After substituting x, we find that $$y=-2$$. Therefore, the x coordinate when $$x=0$$ is $$y=-2$$.",
-        "variabilization": {}
+        "text": "After substituting $$x$$, we find that $$y=-2$$. Therefore, the $$x$$ coordinate when $$x=0$$ is $$y=-2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts12a-h4",
@@ -34,7 +37,8 @@
             "aafbadeintercepts12a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is (0,-2).",
-        "variabilization": {}
+        "text": "The answer is $$(0,-2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

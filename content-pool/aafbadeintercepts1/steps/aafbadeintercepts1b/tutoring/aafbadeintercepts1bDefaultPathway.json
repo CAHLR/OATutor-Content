@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Graph crosses y-axis where?",
         "text": "Find where the line in the graph crosses the y-axis.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts1b-h2",
@@ -14,7 +15,8 @@
             "aafbadeintercepts1b-h1"
         ],
         "title": "Answer",
-        "text": "The answer is (0,2).",
-        "variabilization": {}
+        "text": "The answer is $$(0,2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

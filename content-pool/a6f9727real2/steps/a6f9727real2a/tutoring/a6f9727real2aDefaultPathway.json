@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hours in a Day",
-        "text": "The day has 24 hours.",
-        "variabilization": {}
+        "text": "The day has $$24$$ hours.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real2a-h2",
@@ -14,8 +15,9 @@
             "a6f9727real2a-h1"
         ],
         "title": "Number Line",
-        "text": "The problem can be solved by drawing a number line of length 24 and separating it into 5 equal parts.",
-        "variabilization": {}
+        "text": "The problem can be solved by drawing a number line of length $$24$$ and separating it into $$5$$ equal parts.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real2a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Fraction",
         "text": "The separation of the number line can be represented as a fraction or a decimal.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

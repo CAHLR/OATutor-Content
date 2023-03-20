@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Value of $$|q|$$",
         "text": "The first step is to find the value of $$|q|$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add9d-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a9ae528add9d-h1"
@@ -21,6 +22,7 @@
         "title": "Calculating $$|q|$$",
         "text": "$$q=-49$$. What is $$|-49|$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9ae528add9d-h2-s1",
@@ -28,7 +30,8 @@
                 "dependencies": [],
                 "title": "Evaluating the Absolute Value of Negative Numbers",
                 "text": "If a is negative, then $$|a|=-a$$. For example, $$|-11|=11$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,8 +42,9 @@
             "a9ae528add9d-h2"
         ],
         "title": "Finding the Value of $$-|q|$$",
-        "text": "Multiply $$|q|$$ by -1 to find $$-|q|$$.",
-        "variabilization": {}
+        "text": "Multiply $$|q|$$ by $$-1$$ to find $$-|q|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add9d-h4",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-49"
+            "$$-49$$"
         ],
         "dependencies": [
             "a9ae528add9d-h3"
         ],
         "title": "Calculating $$-|q|$$ with the Substituted Value of q",
         "text": "What is $$-1\\times49$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

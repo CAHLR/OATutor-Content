@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Largest Perfect Square",
         "text": "You must first identify the largest perfect square factor of the variable inside the radical.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical5a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the variable inside the radical?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical5a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Rewriting the Radical",
         "text": "You must now rewrite the radical as the product of two radicals. One of these radicals must include the perfect square. This is possible because of the product rule.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical5a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Rewriting the Radical",
         "text": "What is the result?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical5a-h5",
@@ -60,6 +64,7 @@
         ],
         "title": "Simplfying the Radicals",
         "text": "What is the result after simplifying the square root with the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

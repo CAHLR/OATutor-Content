@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determining the Sign",
         "text": "The first step is to find the sign of the product. Since the signs are the same, the product is positive.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplying by an Integer",
         "text": "When multiplying a fraction by an integer, it may be helpful to write the integer as a fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h3",
@@ -24,8 +26,9 @@
             "ab3c11fVisualize8a-h2"
         ],
         "title": "Rewriting Integer",
-        "text": "Rewrite 20x as $$\\frac{20x}{1}$$, so we can multiply $$\\frac{12}{5}$$ and $$\\frac{20x}{1}$$.",
-        "variabilization": {}
+        "text": "Rewrite $$20x$$ as $$\\frac{20x}{1}$$, so we can multiply $$\\frac{12}{5}$$ and $$\\frac{20x}{1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Multiplying Fractions",
         "text": "The next step is to multiply the two numerators and the two demoninators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h5",
@@ -43,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "240x"
+            "$$240x$$"
         ],
         "dependencies": [
             "ab3c11fVisualize8a-h4"
         ],
         "title": "Multiplying the Numerators",
         "text": "What is $$12\\times20 x$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "ab3c11fVisualize8a-h4"
         ],
         "title": "Multiplying the Denominators",
         "text": "What is $$5\\times1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h7",
@@ -76,7 +82,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{240x}{5}$$. The next step is to simplify our answer if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h8",
@@ -92,6 +99,7 @@
         "title": "Checking for Common Factors",
         "text": "Is $$\\frac{240x}{5}$$ not in its simplest form?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "ab3c11fVisualize8a-h8"
         ],
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h10",
@@ -120,7 +129,8 @@
         ],
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h11",
@@ -128,14 +138,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "48x"
+            "$$48x$$"
         ],
         "dependencies": [
             "ab3c11fVisualize8a-h10"
         ],
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{240x}{5}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h12",
@@ -143,14 +154,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ab3c11fVisualize8a-h11"
         ],
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{5}{5}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize8a-h13",
@@ -159,7 +171,8 @@
             "ab3c11fVisualize8a-h12"
         ],
         "title": "Final Answer",
-        "text": "So 48x is our final answer.",
-        "variabilization": {}
+        "text": "So $$48x$$ is our final answer.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

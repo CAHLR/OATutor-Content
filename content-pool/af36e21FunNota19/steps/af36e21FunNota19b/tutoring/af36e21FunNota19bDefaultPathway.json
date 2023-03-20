@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Evaluating functions",
         "text": "Given the equation for a function, we should replace the input variable in the equation with the value provided and then calculate the result.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota19b-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota19b-h1"
         ],
         "title": "Replacement",
-        "text": "Replace the variable x with 2, and we get $$f(2)=|2-1|-|2+1|$$.",
-        "variabilization": {}
+        "text": "Replace the variable $$x$$ with $$2$$, and we get $$f(2)=|2-1|-|2+1|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota19b-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "af36e21FunNota19b-h2"
         ],
         "title": "Calculation",
         "text": "Calculate the expression $$|2-1|-|2+1|$$. What do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

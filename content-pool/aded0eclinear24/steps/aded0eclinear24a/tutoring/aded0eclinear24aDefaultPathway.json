@@ -5,14 +5,16 @@
         "dependencies": [],
         "title": "General Procedure to Solve Inequalities",
         "text": "To solve an inequality, we must first gather all constants on one side and all variable terms on the other. Then, we can isolate the variable term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear24a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Isolating the Variable Term",
-        "text": "$$8x>72$$. We must divide both sides by 8 to isolate x. $$x>9$$",
-        "variabilization": {}
+        "text": "$$8x>72$$. We must divide both sides by $$8$$ to isolate $$x$$. $$x>9$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

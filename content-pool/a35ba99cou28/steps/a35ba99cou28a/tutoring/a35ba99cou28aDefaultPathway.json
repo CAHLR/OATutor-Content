@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Amount of Distinct Objects",
         "text": "The set contains 2,4,6,8,10,12,14,16,18,20,22,24,26,28.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou28a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a35ba99cou28a-h1"
         ],
-        "title": "Identify n",
-        "text": "We are looking for the number of subsets of a set with 14 distinct even numbers.",
-        "variabilization": {}
+        "title": "Identify $$n$$",
+        "text": "We are looking for the number of subsets of a set with $$14$$ distinct even numbers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou28a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Formula for the Number of Subsets of a Set",
         "text": "Substitute $$n=14$$ into the formula: $$2^n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou28a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Substitute and Simplify",
         "text": "$$2^{14}=16384$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

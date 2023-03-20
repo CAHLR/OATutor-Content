@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Calculator",
         "text": "Type the expression into a calculator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

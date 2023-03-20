@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Number of Variables",
-        "text": "Identify the number of variables present. 3 columns indicates 2 variables (x and y).",
-        "variabilization": {}
+        "text": "Identify the number of variables present. $$3$$ columns indicates $$2$$ variables (x and y).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2a280bgaussian13a-h2",
@@ -13,6 +14,7 @@
         "dependencies": [],
         "title": "Aligning Variables",
         "text": "Aligns numbers in same column with the same variable. Last column to the right is the output.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

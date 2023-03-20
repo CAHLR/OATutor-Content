@@ -3,9 +3,10 @@
         "id": "a833c22linear28a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Find b",
-        "text": "We know that the intital value is 1000 so $$b=1000$$",
-        "variabilization": {}
+        "title": "Find $$b$$",
+        "text": "We know that the intital value is $$1000$$ so $$b=1000$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear28a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a833c22linear28a-h1"
         ],
-        "title": "Find m",
-        "text": "We see that the number increases by 80 every 2 weeks, so $$m=40$$",
-        "variabilization": {}
+        "title": "Find $$m$$",
+        "text": "We see that the number increases by $$80$$ every $$2$$ weeks, so $$m=40$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear28a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Rewrite in Slope-Intercept Form",
         "text": "When we rewrite, we get P(w) $$=$$ $$40w+1000$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

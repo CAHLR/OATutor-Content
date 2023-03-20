@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Value of $$|-y|$$",
         "text": "The first step is to find the value inside the absolute value bars.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add9b-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a9ae528add9b-h1"
         ],
-        "title": "Value of y",
+        "title": "Value of $$y$$",
         "text": "$$y=-21$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add9b-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "21"
+            "$$21$$"
         ],
         "dependencies": [
             "a9ae528add9b-h2"
         ],
-        "title": "Calculating -y",
-        "text": "What is -(-21)?",
-        "variabilization": {}
+        "title": "Calculating $$-y$$",
+        "text": "What is $$-(-21)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add9b-h4",
@@ -40,6 +43,7 @@
         ],
         "title": "Absolute Value of a Positive Number",
         "text": "The absolute value of a positive number is just that positive number. For example, $$|24|=24$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

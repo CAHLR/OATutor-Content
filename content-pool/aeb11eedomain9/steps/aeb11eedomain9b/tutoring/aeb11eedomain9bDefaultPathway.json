@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Range Restrictions",
-        "text": "The function is never 0, so we exclude 0 from the range.",
-        "variabilization": {}
+        "text": "The function is never $$0$$, so we exclude $$0$$ from the range.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain9b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "The range is $$(-\\infty,0) \\cup (0,\\infty)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

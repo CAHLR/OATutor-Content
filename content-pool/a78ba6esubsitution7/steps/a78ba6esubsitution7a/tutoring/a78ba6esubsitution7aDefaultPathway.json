@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Step 1: Solving for One Variable",
         "text": "Solve one of the equations for either variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a78ba6esubsitution7a-h2",
@@ -14,8 +15,9 @@
             "a78ba6esubsitution7a-h1"
         ],
         "title": "Step 2: Using Subsitution to Create a One-Variable Equation",
-        "text": "Subsitute the expression from Step 1 into the other equation.",
-        "variabilization": {}
+        "text": "Subsitute the expression from Step $$1$$ into the other equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a78ba6esubsitution7a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Step 3: Solving a One-Variable Equation",
         "text": "Solve the resulting one-variable equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a78ba6esubsitution7a-h4",
@@ -34,8 +37,9 @@
             "a78ba6esubsitution7a-h3"
         ],
         "title": "Step 4: Solving for the Numerical Value of the Other Variable",
-        "text": "Subsitute the solution from Step 3 into the other equation to find the value of the other variable.",
-        "variabilization": {}
+        "text": "Subsitute the solution from Step $$3$$ into the other equation to find the value of the other variable.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a78ba6esubsitution7a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Step 5: Checking Values",
         "text": "Check that the ordered pair is a solution to both equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

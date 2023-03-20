@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Completing the Square",
         "text": "To complete the square, we need to add a term to make the entire expression of the form $$a^2+2ab+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad1a-h2",
@@ -14,8 +15,9 @@
             "a20771equad1a-h1"
         ],
         "title": "Completing the Square",
-        "text": "In this case, we want to add a term to $$6z^2-z$$ to make it a perfect square. Assume $$6z^2$$ is the $$a^2$$ term and -z is the 2ab term.",
-        "variabilization": {}
+        "text": "In this case, we want to add a term to $$6z^2-z$$ to make it a perfect square. Assume $$6z^2$$ is the $$a^2$$ term and $$-z$$ is the 2ab term.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad1a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Completing the Square",
         "text": "What term should we add to both sides of the equation to make this true?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad1a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Simplification",
         "text": "Now that we added $$\\frac{1}{24}$$ to both sides, we get that $${\\left(\\sqrt{6} x-\\frac{\\sqrt{6}}{12}\\right)}^2=2+\\frac{1}{24}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad1a-h5",
@@ -54,7 +58,8 @@
             "a20771equad1a-h4"
         ],
         "title": "Simplification",
-        "text": "By taking the square root of both sides, what two answers do we get for z?",
-        "variabilization": {}
+        "text": "By taking the square root of both sides, what two answers do we get for $$z$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

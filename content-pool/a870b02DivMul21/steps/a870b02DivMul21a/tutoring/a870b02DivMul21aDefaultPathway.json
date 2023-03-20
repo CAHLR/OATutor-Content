@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplification",
         "text": "With these more complicated equations the first step is to simplify both sides of the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify both sides of the equation using the distributive property first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify this equation with addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Isolation",
         "text": "Using multiplication property, division property etc. to isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h5",
@@ -59,8 +63,9 @@
             "a870b02DivMul21a-h4"
         ],
         "title": "Division",
-        "text": "Divide both sides by -4 to isolate q.",
-        "variabilization": {}
+        "text": "Divide both sides by $$-4$$ to isolate q.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul21a-h7",
@@ -84,8 +90,9 @@
             "a870b02DivMul21a-h6"
         ],
         "title": "Verification",
-        "text": "Check whether $$-4\\left(-6-2\\right)-8$$ equals 24.",
+        "text": "Check whether $$-4\\left(-6-2\\right)-8$$ equals $$24$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the Unknown",
         "text": "We are looking for the total distance traveled and we can name it \"d\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translate",
         "text": "We can use the formula $$distance=rate time$$ --> $$d=rt$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula2a-h3",
@@ -24,8 +26,9 @@
             "a1f32dfFormula2a-h2"
         ],
         "title": "Substitute",
-        "text": "Since we are given that the rate is 60 mph and the time is 5.5 hours, we can substitute $$r=60$$, $$t=5.5$$ and get $$d=60\\times5.5$$.",
-        "variabilization": {}
+        "text": "Since we are given that the rate is $$60$$ mph and the time is $$5.5$$ hours, we can substitute $$r=60$$, $$t=5.5$$ and get $$d=60\\times5.5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula2a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "330"
+            "$$330$$"
         ],
         "dependencies": [
             "a1f32dfFormula2a-h3"
         ],
         "title": "Solve",
         "text": "Solve $$60\\times5.5$$ to find the distance in miles. What is the distance?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

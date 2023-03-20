@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Using the Area Formula",
         "text": "The area of an ellipse is given by $$a b \\pi$$. Since $$a=4$$ and $$b=3$$, the area of the ellipse is $$12\\pi$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

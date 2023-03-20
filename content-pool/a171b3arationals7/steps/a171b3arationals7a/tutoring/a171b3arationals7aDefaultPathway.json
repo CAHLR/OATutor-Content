@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substituting Variable Into Expression",
-        "text": "Substitute 1 for y: $$\\frac{1+1}{2\\times1-3}$$",
-        "variabilization": {}
+        "text": "Substitute $$1$$ for y: $$\\frac{1+1}{2\\times1-3}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a171b3arationals7a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "a171b3arationals7a-h1"
         ],
         "title": "Simplifying Expression",
         "text": "What is the result once the expression is simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Evaluating functions",
         "text": "Given the equation for a function, we should replace the input variable in the equation with the value provided and then calculate the result.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota17d-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota17d-h1"
         ],
         "title": "Replacement",
-        "text": "Replace the variable x with a, and we get $$f(a)=\\sqrt{2-a}+5$$.",
-        "variabilization": {}
+        "text": "Replace the variable $$x$$ with a, and we get $$f(a)=\\sqrt{2-a}+5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota17d-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Simplification",
         "text": "Simplify the expression $$-\\left(\\sqrt{2-a}+5\\right)$$. What do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

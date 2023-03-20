@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Looking for an Inner Function",
         "text": "The first step is to look for a function inside a function in the formula for f(x).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition14a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Inner Function",
         "text": "The function contains the expression $$\\frac{8+x^3}{8-x^3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition14a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Outer Function",
         "text": "The expression $$\\frac{8+x^3}{8-x^3}$$ is then raised to the fourth power.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition14a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "$$g(x)=\\frac{8+x^3}{8-x^3}$$, $$f(x)=x^4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

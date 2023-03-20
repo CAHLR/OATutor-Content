@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{2} \\sqrt{6}=\\sqrt{12}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplifying the Product",
         "text": "We can simplify $$\\sqrt{12}$$ to become $$2\\sqrt{3}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "$$4\\sqrt{3}\\times2 \\sqrt{12}$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root1a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Multiplying Each Root",
         "text": "$$4\\sqrt{3}\\times2 \\sqrt{12}$$ $$=$$ $$8\\sqrt{36}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3c2b68root1a-h5",
@@ -44,7 +48,8 @@
             "a3c2b68root1a-h4"
         ],
         "title": "Simplifying the Product",
-        "text": "$$8\\sqrt{36}$$ can be simplified as 48",
-        "variabilization": {}
+        "text": "$$8\\sqrt{36}$$ can be simplified as $$48$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

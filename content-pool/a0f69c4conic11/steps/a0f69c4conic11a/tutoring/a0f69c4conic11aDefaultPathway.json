@@ -5,11 +5,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [],
         "title": "Standard Form of Conic",
         "text": "Since the equation is already in standard form r=(ep)/(1~(esin\u03b8), identify the eccentricity (e).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

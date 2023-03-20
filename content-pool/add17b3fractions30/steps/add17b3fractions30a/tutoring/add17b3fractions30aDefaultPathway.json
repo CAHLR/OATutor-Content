@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "LCD of all the fractions",
         "text": "What is the LCD of all the fractions in the whole expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions30a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Clear the fractions",
         "text": "Clear the fractions by multiplying the numerator and denominator by that LCD",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add17b3fractions30a-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Distribute and Simplify",
         "text": "Distribute and Simplify",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

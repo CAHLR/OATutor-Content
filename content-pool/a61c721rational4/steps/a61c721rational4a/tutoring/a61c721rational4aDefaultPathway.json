@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor the expression",
         "text": "Factoring is the process to split a product into a group of factors (a multiplication of simpler expressions).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factor the expression",
         "text": "Not all terms can be factored. Factor the terms that can be split further.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Factor the expression",
         "text": "In this case, we should factor the denominators since they can be broken into individual factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2+4x+4$$ factor to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Factor the expression",
         "text": "What does $$x^2-4$$ factor to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "The least common multiple",
         "text": "The LCM or least common multiple of a set of numbers is the smallest positive integer that is divisible by all those numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "The least common multiple",
         "text": "To combine the fractions, we want to find the LCM of the denominators. What is it?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h8",
@@ -88,9 +95,10 @@
         "dependencies": [
             "a61c721rational4a-h7"
         ],
-        "title": "Multiplication by 1",
-        "text": "We must multiple each expression by the appropriate form of 1 to obtain xy as the denominator for each fraction.",
-        "variabilization": {}
+        "title": "Multiplication by $$1$$",
+        "text": "We must multiple each expression by the appropriate form of $$1$$ to obtain xy as the denominator for each fraction.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h9",
@@ -98,14 +106,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x-2"
+            "$$x-2$$"
         ],
         "dependencies": [
             "a61c721rational4a-h8"
         ],
-        "title": "Multiplication by 1",
+        "title": "Multiplication by $$1$$",
         "text": "What should we multiply to $$\\frac{6}{x^2+4x+4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h10",
@@ -118,9 +127,10 @@
         "dependencies": [
             "a61c721rational4a-h9"
         ],
-        "title": "Multiplication by 1",
+        "title": "Multiplication by $$1$$",
         "text": "What should we multiply to $$\\frac{2}{x^2-4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational4a-h11",
@@ -135,6 +145,7 @@
         ],
         "title": "Adding Terms",
         "text": "Now that both terms have the same denominator, we can add their numerators. What is our final answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

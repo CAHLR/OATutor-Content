@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiply",
         "text": "Multiply the outside value with each of the inside parenthesis values",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Multiply pt2",
         "text": "What is k times k?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa25a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Multiply pt3",
         "text": "What is k times 7?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a012999exa25a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Combine",
         "text": "Combine the values multiplied",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

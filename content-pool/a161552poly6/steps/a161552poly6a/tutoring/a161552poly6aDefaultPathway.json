@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Decompose",
         "text": "Use Fraction Multiplication: $$\\frac{14}{21} \\frac{a^7}{a^{11}} \\frac{b^{12}}{b^6}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a161552poly6a-h2",
@@ -21,6 +22,7 @@
         "title": "Simplify",
         "text": "What is $$\\frac{14}{21}$$ * $$\\frac{a^7}{a^{11}}$$ * $$\\frac{b^{12}}{b^6}$$",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a161552poly6a-h2-s1",
@@ -33,7 +35,8 @@
                 "dependencies": [],
                 "title": "Simplify",
                 "text": "What is $$\\frac{14}{21}$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a161552poly6a-h2-s2",
@@ -46,7 +49,8 @@
                 "dependencies": [],
                 "title": "Simplify",
                 "text": "What is $$\\frac{a^7}{a^{11}}$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a161552poly6a-h2-s3",
@@ -59,7 +63,8 @@
                 "dependencies": [],
                 "title": "Simplify",
                 "text": "What is $$\\frac{b^{12}}{b^6}$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

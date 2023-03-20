@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the Unknown",
         "text": "We are looking for the total time that the journey took, and we can name it \"h\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translate",
         "text": "We can use the formula $$distance=rate time$$ --> $$d=rt$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula5a-h3",
@@ -24,8 +26,9 @@
             "a1f32dfFormula5a-h2"
         ],
         "title": "Substitute",
-        "text": "Since we are given that the distance is 770 miles and the rate is 70 mph, we can substitute $$d=770$$, $$r=70$$ and get $$770=70t$$.",
-        "variabilization": {}
+        "text": "Since we are given that the distance is $$770$$ miles and the rate is $$70$$ mph, we can substitute $$d=770$$, $$r=70$$ and get $$770=70t$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula5a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "11"
+            "$$11$$"
         ],
         "dependencies": [
             "a1f32dfFormula5a-h3"
         ],
         "title": "Solve",
-        "text": "Solve for t in the given equation (hint: divide both sides by 70). What is t?",
-        "variabilization": {}
+        "text": "Solve for $$t$$ in the given equation (hint: divide both sides by 70). What is $$t$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

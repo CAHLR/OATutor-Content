@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Defining an x-intercept",
-        "text": "A x-intercept is the point where an equation hits the x-axis. This means the y-coordinate will be 0.",
-        "variabilization": {}
+        "text": "A x-intercept is the point where an equation hits the x-axis. This means the y-coordinate will be $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads27a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a2ef97dGrphingQuads27a-h1"
         ],
-        "title": "Plugging in 0",
-        "text": "Given the definition of a x-intercept, plug in 0 for y to solve for the x-value.",
-        "variabilization": {}
+        "title": "Plugging in $$0$$",
+        "text": "Given the definition of a x-intercept, plug in $$0$$ for $$y$$ to solve for the x-value.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads27a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Factoring a Quadratic Equation",
         "text": "The factored form of the quadratic equation is $${\\left(x+7\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads27a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-7"
+            "$$-7$$"
         ],
         "dependencies": [
             "a2ef97dGrphingQuads27a-h3"
         ],
-        "title": "Solving for x",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "title": "Solving for $$x$$",
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

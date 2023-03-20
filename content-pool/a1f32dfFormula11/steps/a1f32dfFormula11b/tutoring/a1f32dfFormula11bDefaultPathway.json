@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write the Formula",
         "text": "The formula is $$I=Prt$$, and we want to find P.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula11b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Isolate",
         "text": "To solve for P, we can divide both sides by rt to isolate P, so we get $$P=\\frac{I}{rt}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

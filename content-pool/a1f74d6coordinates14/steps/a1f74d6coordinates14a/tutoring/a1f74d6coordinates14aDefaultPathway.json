@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "Plug $$x=-5$$ into the equation. The new equation should be $$-10-5y=20$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f74d6coordinates14a-h2",
@@ -14,8 +15,9 @@
             "a1f74d6coordinates14a-h1"
         ],
         "title": "Solve",
-        "text": "Solve the equation for y.",
-        "variabilization": {}
+        "text": "Solve the equation for $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f74d6coordinates14a-h3",
@@ -24,7 +26,8 @@
             "a1f74d6coordinates14a-h2"
         ],
         "title": "Answer",
-        "text": "$$y=-6$$, so the coordinate pair for the solution to the equation is (-5,-6).",
-        "variabilization": {}
+        "text": "$$y=-6$$, so the coordinate pair for the solution to the equation is $$(-5,-6)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

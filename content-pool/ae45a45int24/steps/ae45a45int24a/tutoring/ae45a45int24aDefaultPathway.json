@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Exponents with Negatives",
         "text": "The best approach to this is turning this into a multiplication problem: this is is equivalent to $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int24a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplying Negative Numbers",
         "text": "When multiplying two numbers, you can multiply as if they are both positive, then make the answer negative IF the signs of both numbers are different (ONLY ONE of the numbers is negative)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int24a-h3",
@@ -23,7 +25,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "ae45a45int24a-h2"
@@ -31,6 +33,7 @@
         "title": "Multiplying Negative Numbers",
         "text": "What is $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ae45a45int24a-h3-s1",
@@ -38,14 +41,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "4"
+                    "$$4$$"
                 ],
                 "dependencies": [
                     "ae45a45int24a-h3"
                 ],
                 "title": "Multiplying Negative Numbers",
                 "text": "What is $$\\left(-2\\right) \\left(-2\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int24a-h3-s2",
@@ -53,14 +57,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-8"
+                    "$$-8$$"
                 ],
                 "dependencies": [
                     "ae45a45int24a-h3-s1"
                 ],
                 "title": "Multiplying Negative Numbers",
                 "text": "What is $$4\\left(-2\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int24a-h3-s3",
@@ -68,14 +73,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "16"
+                    "$$16$$"
                 ],
                 "dependencies": [
                     "ae45a45int24a-h3-s2"
                 ],
                 "title": "Multiplying Negative Numbers",
                 "text": "What is $$-8\\left(-2\\right)$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

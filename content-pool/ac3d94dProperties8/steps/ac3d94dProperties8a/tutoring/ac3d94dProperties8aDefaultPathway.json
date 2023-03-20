@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplicative inverse",
         "text": "For any real number a, $$\\frac{1}{a}$$ is the multiplicative inverse of a. $$a \\frac{1}{a}=1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties8a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Reciprocal of $$\\frac{11}{12}$$",
         "text": "What is $$\\frac{1}{\\frac{11}{12}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanding Expressions",
         "text": "Expand the function into polynomial form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower21a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Checking your Expansion",
         "text": "What did you get as the expanded expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower21a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Definition",
         "text": "A coefficient is the numeric value that precedes a variable",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower21a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "afbe5ccpower21a-h3"
         ],
         "title": "Finding the Leading Coefficient",
         "text": "What is the leading coefficent?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower21a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Definition",
         "text": "The degree is the value of the highest power a variable has",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afbe5ccpower21a-h4",
@@ -63,13 +68,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "afbe5ccpower21a-h3"
         ],
         "title": "Finding the Degree",
         "text": "What is the degree?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

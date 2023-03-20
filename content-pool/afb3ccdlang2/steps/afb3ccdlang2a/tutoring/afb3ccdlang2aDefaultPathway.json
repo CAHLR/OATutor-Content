@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "First, we need to find two factors whose product is the given number, which is $$2\\times24$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "afb3ccdlang2a-h1"
         ],
-        "title": "Since 2 is a prime number, we are done with this. We then turn to 24, and factor 24.",
+        "title": "Since $$2$$ is a prime number, we are done with this. We then turn to $$24$$, and factor $$24$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "afb3ccdlang2a-h2"
         ],
-        "title": "Then, we find two factors whose product is 24, which is $$2\\times12$$.",
+        "title": "Then, we find two factors whose product is $$24$$, which is $$2\\times12$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h4",
@@ -33,9 +36,10 @@
         "dependencies": [
             "afb3ccdlang2a-h3"
         ],
-        "title": "Since 2 is a prime number, we are done with this. We then turn to 12, and factor 12.",
+        "title": "Since $$2$$ is a prime number, we are done with this. We then turn to $$12$$, and factor $$12$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h5",
@@ -43,9 +47,10 @@
         "dependencies": [
             "afb3ccdlang2a-h4"
         ],
-        "title": "Then, we find two factors whose product is 12, which is $$2\\times6$$.",
+        "title": "Then, we find two factors whose product is $$12$$, which is $$2\\times6$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h6",
@@ -53,9 +58,10 @@
         "dependencies": [
             "afb3ccdlang2a-h5"
         ],
-        "title": "Since 2 is a prime number, we are done with this. We then turn to 6, and factor 6.",
+        "title": "Since $$2$$ is a prime number, we are done with this. We then turn to $$6$$, and factor $$6$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang2a-h7",
@@ -63,8 +69,9 @@
         "dependencies": [
             "afb3ccdlang2a-h6"
         ],
-        "title": "Then, we find two factors whose product is 6, which is $$2\\times3$$.",
+        "title": "Then, we find two factors whose product is $$6$$, which is $$2\\times3$$.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

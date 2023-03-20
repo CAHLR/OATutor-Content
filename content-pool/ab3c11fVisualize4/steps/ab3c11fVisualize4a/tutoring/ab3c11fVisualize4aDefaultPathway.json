@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Defining Simplified Fraction",
         "text": "A fraction is considered simplified if there are no common factors in its numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize4a-h2",
@@ -14,8 +15,9 @@
             "ab3c11fVisualize4a-h1"
         ],
         "title": "General Approach",
-        "text": "Since it is hard to find all the common factors between the numerator and the denominator by observation, we will rewrite 69 and 120 as the product of primes and divide out the common factors from there.",
-        "variabilization": {}
+        "text": "Since it is hard to find all the common factors between the numerator and the denominator by observation, we will rewrite $$69$$ and $$120$$ as the product of primes and divide out the common factors from there.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize4a-h3",
@@ -28,11 +30,12 @@
         "dependencies": [
             "ab3c11fVisualize4a-h2"
         ],
-        "title": "Rewriting 69",
-        "text": "What is 69 written as the product of primes?",
+        "title": "Rewriting $$69$$",
+        "text": "What is $$69$$ written as the product of primes?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "69 is a prime",
+            "$$69$$ is a prime",
             "$$6\\times9$$",
             "$$3\\times23$$",
             "$$3\\times13$$"
@@ -49,9 +52,10 @@
         "dependencies": [
             "ab3c11fVisualize4a-h2"
         ],
-        "title": "Rewriting 120",
-        "text": "What is 120 written as the product of primes?",
+        "title": "Rewriting $$120$$",
+        "text": "What is $$120$$ written as the product of primes?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2\\times5\\times12$$",
             "$$2\\times3\\times3\\times4\\times5$$",
@@ -68,7 +72,8 @@
         ],
         "title": "Rewriting Fraction",
         "text": "Plug in the prime factoriazation of both the numerator and the denominator, we can rewrite the fraction as $$\\frac{-\\left(3\\times23\\right)}{2\\times2\\times2\\times3\\times5}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize4a-h6",
@@ -77,8 +82,9 @@
             "ab3c11fVisualize4a-h5"
         ],
         "title": "Dividing Common Factors",
-        "text": "We can now divide out the common factor 3 from both the top and the bottom, so we are left with the fraction $$\\frac{-23}{2\\times2\\times2\\times5}$$.",
-        "variabilization": {}
+        "text": "We can now divide out the common factor $$3$$ from both the top and the bottom, so we are left with the fraction $$\\frac{-23}{2\\times2\\times2\\times5}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize4a-h7",
@@ -93,6 +99,7 @@
         ],
         "title": "Final Answer",
         "text": "Multiply the bottom. What simplified fraction do you get?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

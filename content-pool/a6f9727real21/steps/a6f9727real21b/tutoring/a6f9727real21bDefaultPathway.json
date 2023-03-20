@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Percentage",
         "text": "Margarita first computes 80% of the original price: $$(0.80)22.50=18.00$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real21b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Percentage",
         "text": "Next, she computes 110% of the new amount: $$(1.10)18.00=19.80$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real21b-h3",
@@ -24,7 +26,8 @@
             "a6f9727real21b-h2"
         ],
         "title": "Purchase Cost",
-        "text": "Margarita has $20.00, thus she can buy the book.",
-        "variabilization": {}
+        "text": "Margarita has $$\\$20.00$$, thus she can buy the book.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

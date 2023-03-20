@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Separating Terms",
         "text": "Separate the terms so that it forms multiple fractions with the same denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "abd4034poly13a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplify Terms",
         "text": "What is the result once each fraction term is simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

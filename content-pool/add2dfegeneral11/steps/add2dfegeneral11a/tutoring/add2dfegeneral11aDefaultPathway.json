@@ -11,6 +11,7 @@
         "title": "Is there a greatest common factor?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -30,6 +31,7 @@
         "title": "Is the polynomial a binomial, trinomial, or are there more than three terms?",
         "text": "",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -44,7 +46,8 @@
         ],
         "title": "Binomial",
         "text": "Since it's a binomial, check to see whether the expression is a sum or difference.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral11a-h4",
@@ -54,7 +57,8 @@
         ],
         "title": "Difference of squares",
         "text": "$$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral11a-h5",
@@ -64,7 +68,8 @@
         ],
         "title": "Check",
         "text": "If you are left with $$\\left(k^2+4\\right) \\left(k^2-4\\right)$$, look at the expression to see if you can further factor the expression. $$k^2-4$$ can be further factored!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "add2dfegeneral11a-h6",
@@ -74,6 +79,7 @@
         ],
         "title": "Difference of squares again",
         "text": "$$k^2-4$$ is a difference of squares and can be furthered factored into $$\\left(k+2\\right) \\left(k-2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

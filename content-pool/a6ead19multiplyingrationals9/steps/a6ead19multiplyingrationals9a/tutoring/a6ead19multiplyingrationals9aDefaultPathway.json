@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying the Numerator and Denominator",
         "text": "We can multiply the numerator and denominators to get $$\\frac{\\left(x+2\\right) \\left(x^2-25\\right)}{\\left(x^2-3x-10\\right) x}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplyingrationals9a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying if Necessary",
         "text": "This fraction can be simplified through factoring. $$\\frac{\\left(x+2\\right) \\left(x^2-25\\right)}{\\left(x^2-3x-10\\right) x}=\\frac{\\left(x+2\\right) \\left(x-5\\right) \\left(x+5\\right)}{\\left(x-5\\right) \\left(x+2\\right) x}=\\frac{x+5}{x}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

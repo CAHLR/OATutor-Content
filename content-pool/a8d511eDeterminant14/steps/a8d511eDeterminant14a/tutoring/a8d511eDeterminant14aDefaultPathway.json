@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Write a 3x3 determinant with the values of x and y and a column of 1",
-        "variabilization": {}
+        "text": "Write a 3x3 determinant with the values of $$x$$ and $$y$$ and a column of $$1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant14a-h2",
@@ -14,8 +15,9 @@
             "a8d511eDeterminant14a-h1"
         ],
         "title": "Operation",
-        "text": "Evaluate the 3x3 determinant along the column of 1",
-        "variabilization": {}
+        "text": "Evaluate the 3x3 determinant along the column of $$1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant14a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a8d511eDeterminant14a-h2"
         ],
         "title": "Calculation",
         "text": "What is $$1\\times28-1\\times14+1\\left(-14\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant14a-h4",
@@ -39,7 +42,8 @@
             "a8d511eDeterminant14a-h3"
         ],
         "title": "Principle",
-        "text": "The value of the determinant is 0, so the points are collinear",
-        "variabilization": {}
+        "text": "The value of the determinant is $$0$$, so the points are collinear",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

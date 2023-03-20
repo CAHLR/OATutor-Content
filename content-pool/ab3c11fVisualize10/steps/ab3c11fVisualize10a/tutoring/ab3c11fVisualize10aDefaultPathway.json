@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Fraction Division",
         "text": "To divide fractions, we multiply the first fraction by the reciprocal of the second.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Reciprocal",
         "text": "The reciprocal of $$\\frac{a}{b}$$ is $$\\frac{b}{a}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Reciprocal of the Second Fraction",
         "text": "What is the reciprocal of $$\\frac{q}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Multiplying Fractions",
         "text": "The next step is to multiply the first fraction by the reciprocal of the second.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Determining the Sign",
         "text": "Since the signs are different, the product is negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h6",
@@ -60,7 +65,8 @@
         ],
         "title": "Multiplying Fractions",
         "text": "To multiply fractions, we multiply the numerators and the denominators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h7",
@@ -68,14 +74,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "ab3c11fVisualize10a-h6"
         ],
         "title": "Multiplying the Numerators",
         "text": "What is $$5\\times3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Multiplying the Denominators",
         "text": "What is $$8q$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{-15}{8q}$$. The next step is to simplify our answer if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize10a-h10",
@@ -116,6 +125,7 @@
         "title": "Checking for Common Factors",
         "text": "Is $$\\frac{-15}{8q}$$ already in its simplest form?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

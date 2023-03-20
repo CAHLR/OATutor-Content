@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Vertical Lines",
         "text": "The slopes of vertical lines, $$x=a$$, are undefined.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

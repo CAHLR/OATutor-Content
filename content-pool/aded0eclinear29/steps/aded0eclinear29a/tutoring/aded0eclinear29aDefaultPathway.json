@@ -5,14 +5,16 @@
         "dependencies": [],
         "title": "General Procedure to Solve Inequalities",
         "text": "To solve an inequality, we must first gather all constants on one side and all variable terms on the other. Then, we can isolate the variable term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear29a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Isolating the Variable Term",
-        "text": "We must multiply both sides by -10 to isolate b, which requires changing the sign. $$b \\leq -300$$",
-        "variabilization": {}
+        "text": "We must multiply both sides by $$-10$$ to isolate $$b$$, which requires changing the sign. $$b \\leq -300$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

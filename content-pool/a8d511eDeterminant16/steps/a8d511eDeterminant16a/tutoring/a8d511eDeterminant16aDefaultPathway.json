@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write",
         "text": "Write the cross product of the matrix. Subtract the product of the first diagonal by the second.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant16a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the matrix down to a number.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

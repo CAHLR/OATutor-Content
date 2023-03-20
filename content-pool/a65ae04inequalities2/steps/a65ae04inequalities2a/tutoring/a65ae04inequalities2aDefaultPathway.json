@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Write the equivalent equations using the formula. If $$|x|=a$$, then $$u=-a$$ and $$u=a$$. If $$|x|=-a$$, then there is no solution.",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities2a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "The answer is no solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

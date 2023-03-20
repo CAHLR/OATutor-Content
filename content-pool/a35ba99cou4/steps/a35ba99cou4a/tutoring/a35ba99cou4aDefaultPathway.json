@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add the Number of Options",
         "text": "We can add the number of negative number options to the number of even number options to find the total number of options.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou4a-h2",
@@ -14,8 +15,9 @@
             "a35ba99cou4a-h1"
         ],
         "title": "Number of Negatives",
-        "text": "There are 3 negative numbers: -5, -3, -1.",
-        "variabilization": {}
+        "text": "There are $$3$$ negative numbers: $$-5$$, $$-3$$, $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou4a-h3",
@@ -24,8 +26,9 @@
             "a35ba99cou4a-h2"
         ],
         "title": "Number of Evens",
-        "text": "There are 3 even numbers: 2, 4, 6.",
-        "variabilization": {}
+        "text": "There are $$3$$ even numbers: $$2$$, $$4$$, $$6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou4a-h4",
@@ -34,8 +37,9 @@
             "a35ba99cou4a-h3"
         ],
         "title": "Add the Number of Options",
-        "text": "# of negative number options+# of even number options $$3+3=6$$",
-        "variabilization": {}
+        "text": "# of negative number options+# of even number options\\n$$3+3=6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou4a-h5",
@@ -44,7 +48,8 @@
             "a35ba99cou4a-h4"
         ],
         "title": "Total Ways",
-        "text": "There are 6 ways to choose a negative or an even number from A.",
-        "variabilization": {}
+        "text": "There are $$6$$ ways to choose a negative or an even number from A.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

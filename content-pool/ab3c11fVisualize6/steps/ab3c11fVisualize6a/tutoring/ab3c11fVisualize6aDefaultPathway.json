@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determining the Sign",
         "text": "The first step is to find the sign of the product. Since the signs are the different, the product is negative.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplying",
         "text": "The next step is to multiply the two numerators and the two demoninators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize6a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "55"
+            "$$55$$"
         ],
         "dependencies": [
             "ab3c11fVisualize6a-h2"
         ],
         "title": "Multiplying the Numerators",
         "text": "What is $$11\\times5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize6a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "84"
+            "$$84$$"
         ],
         "dependencies": [
             "ab3c11fVisualize6a-h3"
         ],
         "title": "Multiplying the Denominators",
         "text": "What is $$12\\times7$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize6a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{-55}{84}$$. The next step is to simplify our answer if possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize6a-h6",
@@ -71,6 +76,7 @@
         "title": "Checking for Common Factors",
         "text": "Is $$\\frac{-55}{84}$$ already in its simplest form?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

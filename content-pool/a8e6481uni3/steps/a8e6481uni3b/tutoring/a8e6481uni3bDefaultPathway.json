@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "Jeromy's speed is 20 mph more than his mother's.",
-        "variabilization": {}
+        "text": "Jeromy's speed is $$20$$ mph more than his mother's.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3b-h2",
@@ -14,7 +15,8 @@
             "a8e6481uni3b-h1"
         ],
         "title": "The Answer",
-        "text": "The Jeromy's speed is 80 mph.",
-        "variabilization": {}
+        "text": "The Jeromy's speed is $$80$$ mph.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the Difference",
         "text": "Find the difference between the two numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent14a-h2",
@@ -14,8 +15,9 @@
             "a3e5c4cpercent14a-h1"
         ],
         "title": "The Difference",
-        "text": "The difference is 42000-37800, or 4200.",
-        "variabilization": {}
+        "text": "The difference is $$42000-37800$$, or $$4200$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent14a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Find the Percent",
         "text": "Divide the difference by the original value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent14a-h4",
@@ -34,8 +37,9 @@
             "a3e5c4cpercent14a-h3"
         ],
         "title": "The Percentage",
-        "text": "4200 divided by 42000 is 0.1. Change this to percent form.",
-        "variabilization": {}
+        "text": "$$4200$$ divided by $$42000$$ is $$0.1$$. Change this to percent form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent14a-h5",
@@ -44,7 +48,8 @@
             "a3e5c4cpercent14a-h4"
         ],
         "title": "The Answer",
-        "text": "Multiply by 100 to change to percentage. The percentage is 10%.",
-        "variabilization": {}
+        "text": "Multiply by $$100$$ to change to percentage. The percentage is 10%.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

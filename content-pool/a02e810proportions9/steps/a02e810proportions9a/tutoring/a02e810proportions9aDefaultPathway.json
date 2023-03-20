@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying the Solution",
-        "text": "To isolate z, multiply both sides by the LCD. Find the LCD by multiplying the two denominators of the fraction.",
-        "variabilization": {}
+        "text": "To isolate $$z$$, multiply both sides by the LCD. Find the LCD by multiplying the two denominators of the fraction.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplifying the Equation",
         "text": "Simplify both sides by reducing and eliminating the denominater under the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Divide",
         "text": "Divide on both sides to isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions9a-h4",
@@ -34,7 +37,8 @@
             "a02e810proportions9a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is 14.",
-        "variabilization": {}
+        "text": "The answer is $$14$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

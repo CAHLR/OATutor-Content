@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [],
         "title": "Using Substitution",
         "text": "How many years have elapsed since the first year, 1985?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential20b-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Using Substitution",
         "text": "Substitute $$t=25$$ into the exponential model that was found.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

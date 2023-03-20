@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolating the Variable",
         "text": "Remove the fraction on the right side by multiplying both sides of the equation by its reciprocal.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f9370SolvingFormul3a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Isolating the Variable",
         "text": "Simplify the equation by isolating the requested variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

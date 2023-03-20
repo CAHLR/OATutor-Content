@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying What Each Term Represents",
-        "text": "x represents the number of months that have passed, and P(x) represents the number of wolves in the habitat at x months.",
-        "variabilization": {}
+        "text": "$$x$$ represents the number of months that have passed, and P(x) represents the number of wolves in the habitat at $$x$$ months.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5ccaf6logarithmsandlogistic10a-h2",
@@ -14,7 +15,8 @@
             "a5ccaf6logarithmsandlogistic10a-h1"
         ],
         "title": "Converting From Yeras to Months",
-        "text": "A year has 12 months, so one and a half years has $$12+6=18$$ months.",
-        "variabilization": {}
+        "text": "A year has $$12$$ months, so one and a half years has $$12+6=18$$ months.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

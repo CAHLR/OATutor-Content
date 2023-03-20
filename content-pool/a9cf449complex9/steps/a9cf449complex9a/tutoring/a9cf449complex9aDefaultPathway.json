@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Associative Property",
         "text": "The first step is to group the like terms. We can use the Associative Property to rewrite this expression as $$3+5+2i-3i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Combining Like Terms",
         "text": "Now, we can add numbers in the parentheses to combine like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex9a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a9cf449complex9a-h2"
         ],
         "title": "Combining Like Terms",
         "text": "What is $$3+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex9a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Combining Like Terms",
         "text": "What is 2i-3i?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex9a-h5",
@@ -56,6 +60,7 @@
         ],
         "title": "Rewrite Answer",
         "text": "Finally, we can write the expression in $$a+bi$$ form: 8-i.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

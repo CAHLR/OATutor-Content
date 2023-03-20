@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Representing the numerators symbolically",
         "text": "The first step is to use variables like A, B, C, etc. for the numerators and account for the increasing powers of the denominators",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac11a-h2",
@@ -13,7 +14,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(x-2), $${\\left(x-2\\right)}^2$$"
+            "$$(x-2)$$, $${\\left(x-2\\right)}^2$$"
         ],
         "dependencies": [
             "a18dde9partfrac11a-h1"
@@ -21,10 +22,11 @@
         "title": "Denominators",
         "text": "What would be the denominators of the decomposed factors?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(x-2), $${\\left(x-2\\right)}^2$$",
+            "$$(x-2)$$, $${\\left(x-2\\right)}^2$$",
             "$$x+2$$, $${\\left(x+2\\right)}^2$$",
-            "(x-2), $$x+2$$"
+            "$$(x-2)$$, $$x+2$$"
         ]
     },
     {
@@ -35,7 +37,8 @@
         ],
         "title": "Using the definition of partial fraction decomposition",
         "text": "For each of the denominators in the decomposed form, give each numerator a symbolic label, like A, B, or C.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac11a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Remove the denominator",
         "text": "Multiply both sides by the common denominator. On the right side of the equation, expand and collect like terms. The resulting equation should be $$-\\left(x^2\\right)+2x+4=\\left(A+B\\right) x^2+\\left(-4A-2B+C\\right) x+4A$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac11a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Finding the resulting equation",
         "text": "Expand the right side of the equation and collect like terms",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac11a-h6",
@@ -65,6 +70,7 @@
         ],
         "title": "Setting up the system of equations",
         "text": "Set coefficients of like terms from the left side of the equation equal to those on the right side to create a system of equations to solve for the numerators",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

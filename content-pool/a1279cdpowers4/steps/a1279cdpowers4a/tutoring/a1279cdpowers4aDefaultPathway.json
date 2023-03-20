@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Product Property for Exponents",
-        "text": "The product property: If a is a real number, and m and n are counting numbers, then: $$a^m a^n=a^{m+n}$$",
-        "variabilization": {}
+        "text": "The product property: If a is a real number, and $$m$$ and $$n$$ are counting numbers, then: $$a^m a^n=a^{m+n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Bases",
         "text": "Since the bases are the same here, you can use the product property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers4a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Add",
         "text": "Add the powers of the two exponents together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1279cdpowers4a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, the answer is $$q^{42}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

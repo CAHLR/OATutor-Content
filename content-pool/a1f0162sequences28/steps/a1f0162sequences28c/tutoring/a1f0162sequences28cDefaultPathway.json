@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute $$n=3$$ into the formula",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences28c-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplification",
         "text": "Calculate the expression $$1.25{\\left(-4\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Identify the Slope",
         "text": "What is the value of the slope given in the problem?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line10a-h2",
@@ -18,7 +19,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(10,-5)"
+            "$$(10,-5)$$"
         ],
         "dependencies": [
             "a08a388line10a-h1"
@@ -26,9 +27,10 @@
         "title": "Identify the Point",
         "text": "What is the coordinate of the given point?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(5,10)",
-            "(10,-5)",
+            "$$(5,10)$$",
+            "$$(10,-5)$$",
             "$$(\\frac{-3}{5},10)$$",
             "$$(5,\\frac{-3}{5})$$"
         ]
@@ -41,7 +43,8 @@
         ],
         "title": "Point Slope Form",
         "text": "Substitute the values into the point-slope form, $$y-y_1=m\\left(x-x_1\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line10a-h4",
@@ -51,6 +54,7 @@
         ],
         "title": "Slope Intercept Form",
         "text": "Simplify the equation and write it in slope intercept form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

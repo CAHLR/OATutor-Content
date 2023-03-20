@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Form",
         "text": "We want to write each expression in the form $$\\sqrt[n]{a}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b9bbfrationalnums21a-h2",
@@ -14,7 +15,8 @@
             "a4b9bbfrationalnums21a-h1"
         ],
         "title": "Denominator of exponent",
-        "text": "The denominator of the exponent is 25, therefore the index of the radical is also 25.",
-        "variabilization": {}
+        "text": "The denominator of the exponent is $$25$$, therefore the index of the radical is also $$25$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

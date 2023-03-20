@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Standard form of a trinomial",
         "text": "Check if the trinomial follows the pattern of $$a^2+2ab+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring1a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3x"
+            "$$3x$$"
         ],
         "dependencies": [
             "ab303f8factoring1a-h2"
         ],
         "title": "Square Root",
         "text": "What is the square root of $$9x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring1a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ab303f8factoring1a-h3"
         ],
         "title": "Square Root",
         "text": "What is the square root of 4?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring1a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $${\\left(3x+2\\right)}^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

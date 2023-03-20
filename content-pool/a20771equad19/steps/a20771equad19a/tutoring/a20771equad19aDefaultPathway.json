@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Given Measurements",
         "text": "The diagram gives the measurements of the hypotenuse and one of the legs.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a20771equad19a-h2",
@@ -14,7 +15,8 @@
             "a20771equad19a-h1"
         ],
         "title": "Pythagorean Theorem Definition",
-        "text": "The Pythagorean Theorem is given as $$a^2+b^2=c^2$$, where a and b refer to the legs of a right triangle adjacent to the 90 degree angle, and c refers to the hypotenuse.",
-        "variabilization": {}
+        "text": "The Pythagorean Theorem is given as $$a^2+b^2=c^2$$, where a and $$b$$ refer to the legs of a right triangle adjacent to the $$90$$ degree angle, and c refers to the hypotenuse.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

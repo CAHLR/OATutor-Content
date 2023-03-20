@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Condensing into One Equation",
-        "text": "We can multiply the second equation by -2 and add to get $$-13y=65$$.",
-        "variabilization": {}
+        "text": "We can multiply the second equation by $$-2$$ and add to get $$-13y=65$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fpairs14a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving the Equation",
         "text": "$$-13y=65$$ simplifies to $$y=-5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fpairs14a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Substituting for the Other Variable",
         "text": "Plugging $$y=-5$$ into the second equation, we get that 2x+5(-5)=-31, which means that $$x=-3$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

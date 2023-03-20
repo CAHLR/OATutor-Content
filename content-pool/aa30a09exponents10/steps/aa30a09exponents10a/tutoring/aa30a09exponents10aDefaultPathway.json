@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use the Product to a Power Property",
         "text": "$${ab}^m=a^m b^m$$. Split the parts of the expression apart.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents10a-h2",
@@ -14,8 +15,9 @@
             "aa30a09exponents10a-h1"
         ],
         "title": "Use the Power Property",
-        "text": "$${\\left(a^m\\right)}^n=a^m n$$. Simplify the exponents under the x variable.",
-        "variabilization": {}
+        "text": "$${\\left(a^m\\right)}^n=a^m n$$. Simplify the exponents under the $$x$$ variable.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents10a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Definition of Negative Exponent",
         "text": "Use the definition of a negative exponent to take the reciprocals of the expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents10a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression by combining the terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents10a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$\\frac{1}{16x^8}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

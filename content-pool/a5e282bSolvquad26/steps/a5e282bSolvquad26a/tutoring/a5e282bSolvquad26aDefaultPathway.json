@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor the Perfect Square",
         "text": "Does the expression match any of these formats: $${\\left(a x\\right)}^2+2a b x$$ + $$b^2$$ $$=$$ $${\\left(a x+b\\right)}^2$$, $${\\left(a x\\right)}^2-2a b x+b^2$$ $$=$$ $${\\left(a x-b\\right)}^2$$ ? Yes.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factor the Perfect Square",
         "text": "In this case, we can see that $$n^2-10n+25$$ as $${\\left(a x\\right)}^2-2a b x+b^2={\\left(ax-b\\right)}^2$$ where $$ax=n$$ and $$b=5$$. We can factor $$n^2-10n+25$$ as $${\\left(n+5\\right)}^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rewrite the Equation",
         "text": "We can rewrite $$n^2-10n+25=16$$ as $${\\left(n-5\\right)}^2=16$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h4",
@@ -34,8 +37,9 @@
             "a5e282bSolvquad26a-h3"
         ],
         "title": "Solve for Unknown Variable",
-        "text": "$${\\left(n-5\\right)}^2=16$$. What is n?",
-        "variabilization": {}
+        "text": "$${\\left(n-5\\right)}^2=16$$. What is $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h5",
@@ -44,8 +48,9 @@
             "a5e282bSolvquad26a-h4"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(n-5\\right)}^2=16$$, we can take square root both sides and get $$n-5=-4$$ or $$n-5=4$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(n-5\\right)}^2=16$$, we can take square root both sides and get $$n-5=-4$$ or $$n-5=4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h6",
@@ -53,14 +58,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a5e282bSolvquad26a-h5"
         ],
-        "title": "Solve for n in $$n-5=-4$$",
-        "text": "What is n when $$n-5=-4$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$n-5=-4$$",
+        "text": "What is $$n$$ when $$n-5=-4$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h7",
@@ -68,14 +74,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a5e282bSolvquad26a-h6"
         ],
-        "title": "Solve for n in $$n-5=4$$",
-        "text": "What is n when $$n-5=4$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$n-5=4$$",
+        "text": "What is $$n$$ when $$n-5=4$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad26a-h8",
@@ -85,6 +92,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$n^2-10n+25=16$$ has two solutions which are $$n=1$$ and $$n=9$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

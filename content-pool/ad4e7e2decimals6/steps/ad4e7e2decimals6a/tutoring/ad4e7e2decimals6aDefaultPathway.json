@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Negative",
         "text": "Write the sign of the number if it is negative",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Left Value",
         "text": "Name the number to the left of the decimal: two",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals6a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Decimal Point",
         "text": "Write \"and\" for the decimal point",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals6a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Right Value",
         "text": "Name the number to the right of the decimal: five-hundred-thirty-one",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals6a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Place Value",
         "text": "Name the place of the decimal",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals6a-h6",
@@ -53,7 +58,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "ten-thousandths"
+            "$$ten-thousandths$$"
         ],
         "dependencies": [
             "ad4e7e2decimals6a-h5"
@@ -61,11 +66,12 @@
         "title": "Place Value",
         "text": "What is the place value of the decimal",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "tenth",
             "hundredths",
             "thousandths",
-            "ten-thousandths"
+            "$$ten-thousandths$$"
         ]
     }
 ]

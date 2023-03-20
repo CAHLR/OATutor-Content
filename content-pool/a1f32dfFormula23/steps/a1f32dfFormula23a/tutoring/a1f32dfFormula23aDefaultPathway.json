@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate",
-        "text": "To isolate b, we can subtract a from both sides of the equation, which gives us $$b=90-a$$.",
-        "variabilization": {}
+        "text": "To isolate $$b$$, we can subtract a from both sides of the equation, which gives us $$b=90-a$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

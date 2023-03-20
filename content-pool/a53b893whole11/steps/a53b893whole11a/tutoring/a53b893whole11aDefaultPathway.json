@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding Two Factors Whose Product is the Given Number",
         "text": "The first step is to find two factors whose product is the given number.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole11a-h2",
@@ -19,8 +20,9 @@
             "a53b893whole11a-h1"
         ],
         "title": "Finding Two Factors Whose Product is the Given Number",
-        "text": "Are 12 and 21 factors of 252 that multiply together to make 252?",
+        "text": "Are $$12$$ and $$21$$ factors of $$252$$ that multiply together to make 252?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -34,7 +36,8 @@
         ],
         "title": "Prime Number Factors",
         "text": "If a factor is prime, that means it can't be divided further. Thus, it is a prime factor of the number.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole11a-h4",
@@ -48,8 +51,9 @@
             "a53b893whole11a-h3"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 12 prime?",
+        "text": "Is $$12$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -67,8 +71,9 @@
             "a53b893whole11a-h4"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 21 prime?",
+        "text": "Is $$21$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -82,7 +87,8 @@
         ],
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "The next step is to divide factors that are not prime into two more factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole11a-h7",
@@ -96,8 +102,9 @@
             "a53b893whole11a-h6"
         ],
         "title": "Finding Two Factors Whose Product is the Given Number",
-        "text": "Are 2 and 6 factors of 12 that multiply together to make 12?",
+        "text": "Are $$2$$ and $$6$$ factors of $$12$$ that multiply together to make 12?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -115,8 +122,9 @@
             "a53b893whole11a-h7"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 2 prime?",
+        "text": "Is $$2$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -134,8 +142,9 @@
             "a53b893whole11a-h8"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 6 prime?",
+        "text": "Is $$6$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -153,8 +162,9 @@
             "a53b893whole11a-h9"
         ],
         "title": "Finding Two Factors Whose Product is the Given Number",
-        "text": "Are 3 and 7 factors of 21 that multiply together to make 21?",
+        "text": "Are $$3$$ and $$7$$ factors of $$21$$ that multiply together to make 21?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -172,8 +182,9 @@
             "a53b893whole11a-h10"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 3 prime?",
+        "text": "Is $$3$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -191,8 +202,9 @@
             "a53b893whole11a-h11"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Is 7 prime?",
+        "text": "Is $$7$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -206,7 +218,8 @@
         ],
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "Continue to divide factors that are not prime into two more factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole11a-h14",
@@ -220,8 +233,9 @@
             "a53b893whole11a-h13"
         ],
         "title": "Finding Two Factors Whose Product is the Given Number",
-        "text": "Are 2 and 3 factors of 6 that multiply together to make 6?",
+        "text": "Are $$2$$ and $$3$$ factors of $$6$$ that multiply together to make 6?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -239,8 +253,9 @@
             "a53b893whole11a-h14"
         ],
         "title": "Verifying if a Factor is Prime",
-        "text": "Are both 2 and 3 prime?",
+        "text": "Are both $$2$$ and $$3$$ prime?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -254,7 +269,8 @@
         ],
         "title": "Final Step",
         "text": "The final step is to write the composite number as the product of all the prime factors.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole11a-h17",
@@ -263,7 +279,8 @@
             "a53b893whole11a-h16"
         ],
         "title": "Answer",
-        "text": "The found prime factors of 252 were 2,2,3,3, and 7. and 3. Thus $$2\\times2\\times3\\times3\\times7=252$$, and $$2\\times2\\times3\\times3\\times7$$ is the prime factorization of 252.",
-        "variabilization": {}
+        "text": "The found prime factors of $$252$$ were 2,2,3,3, and $$7$$. and $$3$$. Thus $$2\\times2\\times3\\times3\\times7=252$$, and $$2\\times2\\times3\\times3\\times7$$ is the prime factorization of $$252$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute the number in for the variable in the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitution",
         "text": "After substituting $$x=\\frac{3}{2}$$ into the equation, we get $$4\\frac{3}{2}-2=2\\frac{3}{2}+1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the expressions on both sides of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6-2"
+            "$$6-2$$"
         ],
         "dependencies": [
             "a6014eaSubAdd1a-h3"
         ],
         "title": "Simplification",
         "text": "Simplify the left side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the right side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Comparison",
         "text": "Determine whether the resulting equation is true.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd1a-h7",
@@ -79,8 +85,9 @@
             "a6014eaSubAdd1a-h6"
         ],
         "title": "Comparison",
-        "text": "Determine whether 6-2 equals $$3+1$$.",
+        "text": "Determine whether $$6-2$$ equals $$3+1$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

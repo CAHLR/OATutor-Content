@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolation",
         "text": "We can isolate the variable term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq22a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "aaa317eLinIneq22a-h1"
         ],
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable with its coefficient in the middle?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq22a-h3",
@@ -36,6 +38,7 @@
         "title": "Addition",
         "text": "What do we get after we add 8?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$10<2x \\leq 18$$",
             "$$12<2x \\leq 16$$",
@@ -50,7 +53,8 @@
         ],
         "title": "Isolation",
         "text": "We can leave the variable term by itself in the middle by using the multiplication property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq22a-h5",
@@ -65,7 +69,8 @@
         ],
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself in the middle?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq22a-h6",
@@ -81,6 +86,7 @@
         "title": "Multiplication",
         "text": "What do we get after we multiply $$\\frac{1}{2}$$ through all three parts?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$6<x \\leq 9$$",
             "$$3<x \\leq 10$$",

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Common Denominator",
         "text": "The first step is to find the least common denominator of two rational expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Common Denominator",
         "text": "What is the least common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Common Denominator",
         "text": "Since we do not know the value of a, the least common multiple of the denominators is their product. So, the LCD is $$\\left(a+1\\right) \\left(a-3\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h4",
@@ -39,8 +42,9 @@
             "a61c721rational18a-h3"
         ],
         "title": "Multiplying the First Expression",
-        "text": "Now we need to multiply both expressions by a factor equal to 1 that makes the denominators equal to the LCD. Starting with the first expression, we can multiply $$\\frac{4}{a+1}$$ by a factor to make the denominator $$\\left(a+1\\right) \\left(a-3\\right)$$.",
-        "variabilization": {}
+        "text": "Now we need to multiply both expressions by a factor equal to $$1$$ that makes the denominators equal to the LCD. Starting with the first expression, we can multiply $$\\frac{4}{a+1}$$ by a factor to make the denominator $$\\left(a+1\\right) \\left(a-3\\right)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Multiplying the First Expression",
         "text": "The denominator of $$\\frac{4}{a+1}$$ multiplied by $$a+3$$ equals $$\\left(a+1\\right) \\left(a+3\\right)$$. So, we need to multiply $$\\frac{4}{a+1}$$ by $$\\frac{a+3}{a+3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Multiplying the First Expression",
         "text": "What is $$\\frac{4}{a+1} \\frac{a-3}{a-3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "Multiplying the First Expression",
         "text": "What is $$4\\left(a-3\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h8",
@@ -89,8 +96,9 @@
             "a61c721rational18a-h7"
         ],
         "title": "Multiplying the First Expression",
-        "text": "When multiplying fractions, we multiply the numerators and multiply the denominators. For the numerators, we can distribute the 4 into the $$a+3$$ by adding $$4a$$ andadding it to $$4\\left(-3\\right)$$. The numerator then becomes 4a-12. After multiplying the denominators, we can leave the denominator as $$\\left(a+1\\right) \\left(a-3\\right)$$ since it is in its factored form. So, the new expression becomes $$\\frac{4a-12}{\\left(a+1\\right) \\left(a-3\\right)}$$.",
-        "variabilization": {}
+        "text": "When multiplying fractions, we multiply the numerators and multiply the denominators. For the numerators, we can distribute the $$4$$ into the $$a+3$$ by adding $$4a$$ andadding it to $$4\\left(-3\\right)$$. The numerator then becomes 4a-12. After multiplying the denominators, we can leave the denominator as $$\\left(a+1\\right) \\left(a-3\\right)$$ since it is in its factored form. So, the new expression becomes $$\\frac{4a-12}{\\left(a+1\\right) \\left(a-3\\right)}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Multiplying the Second Expression",
         "text": "Next, we need to multiply the second expression by a fraction to make the denominator equal to the LCD. Because the denominator of $$\\frac{5}{a-3}$$ needs to by multiplied by $$a+1$$ to become $$\\left(a+1\\right) \\left(a-3\\right)$$, we need to $$\\frac{5}{a-3}$$ by $$\\frac{a+1}{a+1}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h10",
@@ -115,7 +124,8 @@
         ],
         "title": "Multiplying the Second Expression",
         "text": "What is $$\\frac{5}{a-3} \\frac{a+1}{a+1}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h11",
@@ -124,8 +134,9 @@
             "a61c721rational18a-h10"
         ],
         "title": "Multiplying the Second Expression",
-        "text": "We distribute the 5 into $$a+1$$ to get $$5a+4$$. Then, we leave the denominator in its factored form.",
-        "variabilization": {}
+        "text": "We distribute the $$5$$ into $$a+1$$ to get $$5a+4$$. Then, we leave the denominator in its factored form.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h12",
@@ -135,7 +146,8 @@
         ],
         "title": "Adding the Expressions",
         "text": "Because the expressions now have the same denominator, we can add the numerators to get the sum of the two expressions. We'll leave the denominator as it is, but combine the numerator's like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h13",
@@ -150,7 +162,8 @@
         ],
         "title": "Adding the Expressions",
         "text": "What is $$5a+4a$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h14",
@@ -158,14 +171,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-7"
+            "$$-7$$"
         ],
         "dependencies": [
             "a61c721rational18a-h13"
         ],
         "title": "Adding the Expressions",
         "text": "What is $$-12+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a61c721rational18a-h15",
@@ -175,6 +189,7 @@
         ],
         "title": "Final Expression",
         "text": "Now we have our final expression: $$\\frac{9a-7}{\\left(a+1\\right) \\left(a-3\\right)}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

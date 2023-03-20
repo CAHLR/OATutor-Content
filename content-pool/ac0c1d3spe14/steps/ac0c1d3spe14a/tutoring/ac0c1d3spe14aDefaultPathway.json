@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition Binomial Square Formula",
         "text": "We compare our expression to the addition binomial square formula: $${\\left(a+b\\right)}^2=a^2+2a b+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe14a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "ac0c1d3spe14a-h1"
         ],
-        "title": "Compare the Binomial",
-        "text": "$${\\left(a+b\\right)}^2$$ $${\\left(2q+\\frac{1}{3}\\right)}^2$$",
-        "variabilization": {}
+        "title": "Compare the Binomial |newline|",
+        "text": "$${\\left(a+b\\right)}^2$$\\n$${\\left(2q+\\frac{1}{3}\\right)}^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe14a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Identify a",
         "text": "What is a in the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe14a-h4",
@@ -43,9 +46,10 @@
         "dependencies": [
             "ac0c1d3spe14a-h3"
         ],
-        "title": "Identify b",
-        "text": "What is b in the expression?",
-        "variabilization": {}
+        "title": "Identify $$b$$",
+        "text": "What is $$b$$ in the expression?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe14a-h5",
@@ -55,8 +59,9 @@
             "ac0c1d3spe14a-h4"
         ],
         "title": "Plug in the Terms",
-        "text": "Substitute $$a=2q$$ and $$b=\\frac{1}{3}$$ into the addition binomial square formula: $${\\left(a+b\\right)}^2=a^2+2a b+b^2$$ $${\\left(2q+\\frac{1}{3}\\right)}^2={\\left(2q\\right)}^2+\\frac{2\\times2q\\times1}{3}+{\\left(\\frac{1}{3}\\right)}^2$$",
-        "variabilization": {}
+        "text": "Substitute $$a=2q$$ and $$b=\\frac{1}{3}$$ into the addition binomial square formula:\\n$${\\left(a+b\\right)}^2=a^2+2a b+b^2$$\\n$${\\left(2q+\\frac{1}{3}\\right)}^2={\\left(2q\\right)}^2+\\frac{2\\times2q\\times1}{3}+{\\left(\\frac{1}{3}\\right)}^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac0c1d3spe14a-h6",
@@ -66,6 +71,7 @@
         ],
         "title": "Simplify",
         "text": "$$4q^2+\\frac{4}{3} q+\\frac{1}{9}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

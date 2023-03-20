@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using Substitution",
         "text": "Substitue $$x=3$$ into the equation",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplifying the Equation",
         "text": "Using your knowledge of the order of operations, simplify the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential4a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-2"
+            "$$-2$$"
         ],
         "dependencies": [
             "ae3c1a1exponential4a-h2"
         ],
         "title": "Subtracting Within the Exponent",
-        "text": "What is 3-5 in the exponent?",
-        "variabilization": {}
+        "text": "What is $$3-5$$ in the exponent?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential4a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.6944"
+            "$$0.6944$$"
         ],
         "dependencies": [
             "ae3c1a1exponential4a-h3"
         ],
         "title": "Using Exponents",
         "text": "$${1.2}^{\\left(-2\\right)}$$ (Round to four decimal places but keep original number for calculations.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential4a-h5",
@@ -53,13 +57,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5.5556"
+            "$$5.5556$$"
         ],
         "dependencies": [
             "ae3c1a1exponential4a-h4"
         ],
         "title": "Using Multiplication",
         "text": "$$8\\times0.6944$$ (Use original decimal instead of rounded four decimal places in calculation.)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -11,6 +11,7 @@
         "title": "Seeing if the Signs Are Different",
         "text": "Are the signs of the two terms different?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -23,8 +24,9 @@
             "a9ae528add13b-h1"
         ],
         "title": "First Step to Find the Value of the Expression",
-        "text": "Since 2 and -5 have different signs, we subtract 2 from 5.",
-        "variabilization": {}
+        "text": "Since $$2$$ and $$-5$$ have different signs, we subtract $$2$$ from $$5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add13b-h3",
@@ -34,7 +36,8 @@
         ],
         "title": "Sign of the Answer",
         "text": "The answer will be negative because there are more negatives than positives.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add13b-h4",
@@ -42,13 +45,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "a9ae528add13b-h3"
         ],
         "title": "Final Answer",
-        "text": "What is -(5-2)?",
-        "variabilization": {}
+        "text": "What is $$-(5-2)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

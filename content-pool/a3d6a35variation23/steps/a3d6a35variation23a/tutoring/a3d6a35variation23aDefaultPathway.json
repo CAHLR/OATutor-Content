@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies a direct variation formula with a square is needed. This formula is $$d=k t^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation23a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation23a-h1"
         ],
         "title": "Find values",
-        "text": "Since the ball falls 45 feet in 3 seconds, we can assign d to be 45 and t to be 3.",
-        "variabilization": {}
+        "text": "Since the ball falls $$45$$ feet in $$3$$ seconds, we can assign $$d$$ to be $$45$$ and $$t$$ to be $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation23a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the direct variation equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation23a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$d=5t^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

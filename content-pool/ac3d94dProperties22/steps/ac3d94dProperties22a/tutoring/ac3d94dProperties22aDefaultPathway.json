@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Division by Zero",
-        "text": "Division by 0 is undefined.",
-        "variabilization": {}
+        "text": "Division by $$0$$ is undefined.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitution",
-        "text": "Substitute y for its numeric value $$\\left(-\\frac{1}{2}\\right)$$ on either side of the equation",
-        "variabilization": {}
+        "text": "Substitute $$y$$ for its numeric value $$\\left(-\\frac{1}{2}\\right)$$ on either side of the equation",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear16b-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-3"
+            "$$-3$$"
         ],
         "dependencies": [
             "a8b6b9fLinear16b-h1"
         ],
         "title": "Substitution",
         "text": "What is $$6\\left(-\\frac{1}{2}\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear16b-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-7"
+            "$$-7$$"
         ],
         "dependencies": [
             "a8b6b9fLinear16b-h1"
         ],
         "title": "Simplifying",
         "text": "What is $$-3+10$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear16b-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-6"
+            "$$-6$$"
         ],
         "dependencies": [
             "a8b6b9fLinear16b-h1"
         ],
         "title": "Substitution",
         "text": "What is $$12\\left(-\\frac{1}{2}\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear16b-h5",
@@ -58,6 +62,7 @@
         "dependencies": [],
         "title": "Equality",
         "text": "Check if the numbers on both sides are equal",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

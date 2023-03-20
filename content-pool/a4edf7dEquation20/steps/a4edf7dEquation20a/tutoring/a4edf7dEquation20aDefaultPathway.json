@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Name variables",
-        "text": "Let n $$=$$ the amount of stoves sold and m $$=$$ the salary.",
-        "variabilization": {}
+        "text": "Let $$n$$ $$=$$ the amount of stoves sold and $$m$$ $$=$$ the salary.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Equations",
         "text": "We know the company A pays $12000 + $150 for every cable package sold, and the second company pays $24000 + $50 for each package sold. Using this, we can create two equations. One is $$m=12000+150n$$, and the other $$m=24000+50n$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation20a-h3",
@@ -24,8 +26,9 @@
             "a4edf7dEquation20a-h2"
         ],
         "title": "Solve",
-        "text": "Now, solve for n or m, and plug it into the equation to find the other variable.",
-        "variabilization": {}
+        "text": "Now, solve for $$n$$ or $$m$$, and plug it into the equation to find the other variable.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4edf7dEquation20a-h4",
@@ -34,7 +37,8 @@
             "a4edf7dEquation20a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is 120.",
-        "variabilization": {}
+        "text": "The answer is $$120$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find General Formula",
         "text": "The first step is to identify what general formula can be used for inverse variation with a square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling6a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "72"
+            "$$72$$"
         ],
         "dependencies": [
             "a14ffbcmodeling6a-h1"
         ],
         "title": "Solve for Constant",
         "text": "Given $$y=8$$ and $$x=3$$, what is the value of constant k from the general formula?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling6a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Find Specific Formula",
         "text": "Use the constant to write an equation that represents the relationship.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling6a-h4",
@@ -44,7 +47,8 @@
             "a14ffbcmodeling6a-h3"
         ],
         "title": "Using Subsitution",
-        "text": "What is y when $$x=4$$?",
-        "variabilization": {}
+        "text": "What is $$y$$ when $$x=4$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

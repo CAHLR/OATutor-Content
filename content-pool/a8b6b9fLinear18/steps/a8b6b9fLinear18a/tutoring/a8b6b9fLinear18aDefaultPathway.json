@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Distributive Property",
-        "text": "Use the distributive property to multiply 15 with (y-9)",
-        "variabilization": {}
+        "text": "Use the distributive property to multiply $$15$$ with $$(y-9)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear18a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15y-135"
+            "$$15y-135$$"
         ],
         "dependencies": [
             "a8b6b9fLinear18a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$15\\left(y-9\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear18a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Organizing",
         "text": "Once both sides have an equation without parantheses, use algebra to manipulate the equation into the form $$y=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear18a-h4",
@@ -38,12 +41,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "75"
+            "$$75$$"
         ],
         "dependencies": [],
         "title": "Addition",
         "text": "What is $$-60+135$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear18a-h5",
@@ -51,13 +55,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a8b6b9fLinear18a-h4"
         ],
         "title": "Division",
         "text": "What is $$\\frac{75}{15}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

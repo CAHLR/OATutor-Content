@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Quotient Property",
         "text": "Use the definition of the quotient property, $$\\frac{a^m}{a^n}=a^{m-n}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents28a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "aa30a09exponents28a-h1"
         ],
         "title": "Using the Quotient Property",
-        "text": "What is (-5)-(-10)",
-        "variabilization": {}
+        "text": "What is $$(-5)-(-10)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

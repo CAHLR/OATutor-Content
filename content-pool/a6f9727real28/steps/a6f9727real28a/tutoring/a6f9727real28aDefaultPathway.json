@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication",
         "text": "The first step is to simplify multiplication and division.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real28a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "30"
+            "$$30$$"
         ],
         "dependencies": [
             "a6f9727real28a-h1"
         ],
         "title": "Multiplication",
         "text": "What is $$3\\times10$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real28a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Addition",
         "text": "The next step is to simplify addition and subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real28a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "44"
+            "$$44$$"
         ],
         "dependencies": [
             "a6f9727real28a-h3"
         ],
         "title": "Addition",
         "text": "What is $$9+5+30$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

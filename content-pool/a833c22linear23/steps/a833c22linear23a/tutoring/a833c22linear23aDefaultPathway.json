@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify points to calculate slope",
-        "text": "Identify two points on the line, such as (0,2) and (-2,-4). Use the points to calculate the slope.",
-        "variabilization": {}
+        "text": "Identify two points on the line, such as $$(0,2)$$ and $$(-2,-4)$$. Use the points to calculate the slope.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Use Formula",
         "text": "$$m=\\frac{y2-y1}{x2-x1}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in Values",
         "text": "$$\\frac{\\left(-4-2\\right)}{\\left(-2-0\\right)}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h4",
@@ -34,8 +37,9 @@
             "a833c22linear23a-h3"
         ],
         "title": "Solve",
-        "text": "3",
-        "variabilization": {}
+        "text": "$$3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "Substitute into point-slope form",
         "text": "Substitute the slope and the coordinates of one of the points into the point-slope form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h6",
@@ -55,7 +60,8 @@
         ],
         "title": "Use Formula",
         "text": "$$y-y1=m(x-x1)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h7",
@@ -64,8 +70,9 @@
             "a833c22linear23a-h6"
         ],
         "title": "Plug in Values",
-        "text": "y-(-4) $$=$$ 3(x-(-2))",
-        "variabilization": {}
+        "text": "$$y-(-4)$$ $$=$$ $$3(x-(-2))$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h8",
@@ -75,7 +82,8 @@
         ],
         "title": "Simplify",
         "text": "$$y+4=3\\left(x+2\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h9",
@@ -85,7 +93,8 @@
         ],
         "title": "Rewrite to slope-intercept form",
         "text": "Rewrite in form $$y=mx+b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear23a-h10",
@@ -95,6 +104,7 @@
         ],
         "title": "Rewrite to slope-intercept form",
         "text": "$$y=3x+2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

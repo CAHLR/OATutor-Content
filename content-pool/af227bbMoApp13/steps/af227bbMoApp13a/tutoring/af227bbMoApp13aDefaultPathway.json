@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "There are three known quantities, 2, 8 and 1,600.",
-        "variabilization": {}
+        "text": "There are three known quantities, $$2$$, $$8$$ and 1,600.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "The unknown quantities are the dimensions (except the height) of the shipping box.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h3",
@@ -24,8 +26,9 @@
             "af227bbMoApp13a-h2"
         ],
         "title": "Assign a variable",
-        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the shipping box equal to x.",
-        "variabilization": {}
+        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the shipping box equal to $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2x"
+            "$$2x$$"
         ],
         "dependencies": [
             "af227bbMoApp13a-h3"
         ],
         "title": "Express other quantities",
-        "text": "What the length of the shipping box in terms of x?",
-        "variabilization": {}
+        "text": "What the length of the shipping box in terms of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Using the volume formula",
         "text": "The formula for the volume of a box is given as $$V=LWH$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Using the volume formula",
         "text": "What is the mathematical form of \"the voulme is 1,600 in.**3\"?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h7",
@@ -73,14 +79,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "af227bbMoApp13a-h6"
         ],
         "title": "Simplify and Solve",
-        "text": "Solve the equation we write. What is x?",
-        "variabilization": {}
+        "text": "Solve the equation we write. What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "af227bbMoApp13a-h7"
         ],
         "title": "Calculate the other quantity",
-        "text": "What is 2x?",
-        "variabilization": {}
+        "text": "What is $$2x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp13a-h9",
@@ -104,7 +112,8 @@
             "af227bbMoApp13a-h8"
         ],
         "title": "Explain the solution",
-        "text": "The length of the shipping box is 20 in., the width is 10 in. and the height is 8 in.",
-        "variabilization": {}
+        "text": "The length of the shipping box is $$20$$ in., the width is $$10$$ in. and the height is $$8$$ in.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

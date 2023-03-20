@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Combining Like Terms",
         "text": "There are no like terms in this expression, so it is already simplified.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

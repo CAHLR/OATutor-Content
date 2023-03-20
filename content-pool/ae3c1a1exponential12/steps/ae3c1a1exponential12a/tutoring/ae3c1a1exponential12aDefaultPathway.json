@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Using Substitution",
         "text": "Substitute $$x=-1$$ into f(x). What is the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential12a-h2",
@@ -18,14 +19,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ae3c1a1exponential12a-h1"
         ],
         "title": "Add the Exponent",
         "text": "What is the sum of the exponent?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential12a-h3",
@@ -33,13 +35,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "ae3c1a1exponential12a-h2"
         ],
         "title": "Using Simplification",
         "text": "Simplify the power. What is the value?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "Distribute the equation to $$x\\left(x+9\\right)+8\\left(x+9\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly6a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Principle",
         "text": "The terms with same degree of variables can add together",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

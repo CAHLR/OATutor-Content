@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewrite the Equation",
-        "text": "Write the original equation into the form $$a x=b$$, where a and b are some numbers",
-        "variabilization": {}
+        "text": "Write the original equation into the form $$a x=b$$, where a and $$b$$ are some numbers",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h2",
@@ -18,7 +19,8 @@
         "dependencies": [],
         "title": "Subtraction",
         "text": "What is $$0.4x-0.5x$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h3",
@@ -26,12 +28,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1.8"
+            "$$-1.8$$"
         ],
         "dependencies": [],
         "title": "Subtraction",
-        "text": "What is -1.2-0.6?",
-        "variabilization": {}
+        "text": "What is $$-1.2-0.6$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h4",
@@ -40,8 +43,9 @@
             "a8b6b9fLinear29a-h3"
         ],
         "title": "Removing the Decimals",
-        "text": "To get rid of the decimals, multiply every term in the equation (-0.1*x=-1.8) by 100",
-        "variabilization": {}
+        "text": "To get rid of the decimals, multiply every term in the equation (-0.1*x=-1.8) by $$100$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h5",
@@ -49,14 +53,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-10"
+            "$$-10$$"
         ],
         "dependencies": [
             "a8b6b9fLinear29a-h4"
         ],
         "title": "Multiplication",
         "text": "What is $$-0.1\\times100$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h6",
@@ -64,14 +69,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-180"
+            "$$-180$$"
         ],
         "dependencies": [
             "a8b6b9fLinear29a-h4"
         ],
         "title": "Multiplication",
         "text": "What is $$-1.8\\times100$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h7",
@@ -81,7 +87,8 @@
         ],
         "title": "Simplify",
         "text": "Use algebra to maniputlate the equation into the form $$x=?$$, now that you have the equation $$-10x=-180$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear29a-h8",
@@ -89,7 +96,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "18"
+            "$$18$$"
         ],
         "dependencies": [
             "a8b6b9fLinear29a-h5",
@@ -97,6 +104,7 @@
         ],
         "title": "Division",
         "text": "What is $$\\frac{-180}{-10}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

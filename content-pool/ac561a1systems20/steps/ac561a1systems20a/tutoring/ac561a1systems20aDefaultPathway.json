@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiplying and Adding Equations",
-        "text": "First, multiply the second equation by -4, and add it to the first equation.",
-        "variabilization": {}
+        "text": "First, multiply the second equation by $$-4$$, and add it to the first equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems20a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "ac561a1systems20a-h1"
         ],
-        "title": "Solving For y",
-        "text": "After adding the two equations together, solve for y.",
-        "variabilization": {}
+        "title": "Solving For $$y$$",
+        "text": "After adding the two equations together, solve for $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems20a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "ac561a1systems20a-h2"
         ],
-        "title": "Solving For x",
-        "text": "Subsitute the y values into one of the equations and solve for x.",
-        "variabilization": {}
+        "title": "Solving For $$x$$",
+        "text": "Subsitute the $$y$$ values into one of the equations and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems20a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Number of Solutions",
         "text": "There are four solutions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

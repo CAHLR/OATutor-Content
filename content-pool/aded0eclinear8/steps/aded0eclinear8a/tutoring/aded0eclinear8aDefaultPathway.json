@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Using Divisioin Property of Inequality",
-        "text": "Divide 9 on both sides of the inequality. Then, simplify to get $$y<6$$.",
-        "variabilization": {}
+        "text": "Divide $$9$$ on both sides of the inequality. Then, simplify to get $$y<6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Writing the Right Endpoint",
         "text": "Since the inequality includes a less than symbol, <, we will need to use a bracket to denote the right endpoint.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear8a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Writing the Left Endpoint",
         "text": "There is no lower end to the solution to this inequality so we express it using the $$\\infty$$ symbol.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear8a-h4",
@@ -41,6 +44,7 @@
         "title": "Displaying Final Interval Notation",
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "(9, inf)",
             "$$[\\infty,5)$$",

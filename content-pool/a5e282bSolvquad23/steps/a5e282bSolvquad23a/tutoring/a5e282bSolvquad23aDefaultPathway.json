@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factor the Perfect Square",
         "text": "Does the expression match any of these formats: $${\\left(a x\\right)}^2+2a b x$$ + $$b^2={\\left(a x+b\\right)}^2$$, $${\\left(a x\\right)}^2-2a b x+b^2={\\left(a x-b\\right)}^2$$ ?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factor the Perfect Square",
         "text": "In this case, we can see that 4n**2+4n+1as $${\\left(a x\\right)}^2+2a b x$$ + $$b^2={\\left(a x+b\\right)}^2$$ where $$ax=2n$$ and $$b=1$$. We can factor $$4n^2+4n+1$$ as $${\\left(2n+1\\right)}^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Rewrite the Equation",
         "text": "We can rewrite $$4n^2+4n+1=16$$ as $${\\left(2n+1\\right)}^2=16$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h4",
@@ -34,8 +37,9 @@
             "a5e282bSolvquad23a-h3"
         ],
         "title": "Solve for Unknown Variable",
-        "text": "$${\\left(2n+1\\right)}^2=16$$. What is n?",
-        "variabilization": {}
+        "text": "$${\\left(2n+1\\right)}^2=16$$. What is $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h5",
@@ -44,8 +48,9 @@
             "a5e282bSolvquad23a-h4"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(2n+1\\right)}^2=16$$, we can take square root both sides and get $$2n+1=4$$ or $$2n+1=-4$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(2n+1\\right)}^2=16$$, we can take square root both sides and get $$2n+1=4$$ or $$2n+1=-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h6",
@@ -58,9 +63,10 @@
         "dependencies": [
             "a5e282bSolvquad23a-h5"
         ],
-        "title": "Solve for n in $$2n+1=-4$$",
-        "text": "What is n when $$2n+1=-4$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$2n+1=-4$$",
+        "text": "What is $$n$$ when $$2n+1=-4$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h7",
@@ -73,9 +79,10 @@
         "dependencies": [
             "a5e282bSolvquad23a-h6"
         ],
-        "title": "Solve for n in $$2n+1=4$$",
-        "text": "What is n when $$2n+1=4$$?",
-        "variabilization": {}
+        "title": "Solve for $$n$$ in $$2n+1=4$$",
+        "text": "What is $$n$$ when $$2n+1=4$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad23a-h8",
@@ -85,6 +92,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$4n^2+4n+1=16$$ has two solutions which are $$n=\\frac{-5}{2}$$ and $$n=\\frac{3}{2}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Separating Terms",
         "text": "Separate the terms so that it forms multiple fractions with the same denominator. It will result in the following: $$\\frac{45x^3 y^4}{5x y}+\\frac{60x y^2}{5x y}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "abd4034poly8a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplify Terms",
         "text": "What is the result once each fraction term is simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

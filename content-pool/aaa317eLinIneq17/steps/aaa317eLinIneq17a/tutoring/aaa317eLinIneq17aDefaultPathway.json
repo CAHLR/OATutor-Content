@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Two Intervals",
         "text": "We have to write two intervals for this problem.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "aaa317eLinIneq17a-h1"
         ],
-        "title": "Interval 1",
-        "text": "The first interval must indicate all real numbers less than -2.",
-        "variabilization": {}
+        "title": "Interval $$1$$",
+        "text": "The first interval must indicate all real numbers less than $$-2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h3",
@@ -29,8 +31,9 @@
             "aaa317eLinIneq17a-h2"
         ],
         "title": "Interval Notation",
-        "text": "How to represent all real numbers less than b, but not including b? Remember that the parenthesis indicates that the number is not included in the set.",
-        "variabilization": {}
+        "text": "How to represent all real numbers less than $$b$$, but not including $$b$$? Remember that the parenthesis indicates that the number is not included in the set.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h4",
@@ -43,9 +46,10 @@
         "dependencies": [
             "aaa317eLinIneq17a-h3"
         ],
-        "title": "Interval 1",
+        "title": "Interval $$1$$",
         "text": "Let's apply the above principle to our problem!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h5",
@@ -53,9 +57,10 @@
         "dependencies": [
             "aaa317eLinIneq17a-h4"
         ],
-        "title": "Interval 2",
-        "text": "The second interval must indicate all real numbers greater than or equal to 3.",
-        "variabilization": {}
+        "title": "Interval $$2$$",
+        "text": "The second interval must indicate all real numbers greater than or equal to $$3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h6",
@@ -70,7 +75,8 @@
         ],
         "title": "Interval Notation",
         "text": "How to represent all real numbers greater than a, including a? Remember that the bracket indicates that the number is included in the set.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h7",
@@ -83,9 +89,10 @@
         "dependencies": [
             "aaa317eLinIneq17a-h6"
         ],
-        "title": "Interval 2",
+        "title": "Interval $$2$$",
         "text": "Let's apply the above principle to our problem!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq17a-h8",
@@ -96,6 +103,7 @@
         ],
         "title": "Combination",
         "text": "We want to combine these two sets and we can accomplish this by inserting the union symbol, U, between the two intervals.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

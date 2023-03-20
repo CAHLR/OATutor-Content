@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Variables",
-        "text": "Represent the speeds using variables, the speed of riding bike as $$x+3$$, her walking speed as x",
-        "variabilization": {}
+        "text": "Represent the speeds using variables, the speed of riding bike as $$x+3$$, her walking speed as $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture29a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the speed(in variable form) by its respective value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture29a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their monetary values into a single equation. This will be $$\\frac{1}{4} \\left(x+3\\right)=\\frac{1}{2} x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture29a-h4",
@@ -34,8 +37,9 @@
             "aff0960mixture29a-h3"
         ],
         "title": "Calculation",
-        "text": "Solve the equation for x.",
-        "variabilization": {}
+        "text": "Solve the equation for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture29a-h5",
@@ -44,8 +48,9 @@
             "aff0960mixture29a-h4"
         ],
         "title": "Substitution",
-        "text": "Plug x into the original relationship find $$x+3$$.",
-        "variabilization": {}
+        "text": "Plug $$x$$ into the original relationship find $$x+3$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture29a-h6",
@@ -54,7 +59,8 @@
             "aff0960mixture29a-h5"
         ],
         "title": "Calculation",
-        "text": "The answer is 3 mph for walking and 6 mph for bike.",
-        "variabilization": {}
+        "text": "The answer is $$3$$ mph for walking and $$6$$ mph for bike.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert to Standard Form",
         "text": "The second equation must be in standard form: $$-2x+y=-2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac98d98matrices1a-h2",
@@ -14,7 +15,8 @@
             "ac98d98matrices1a-h1"
         ],
         "title": "Writing the Matrix",
-        "text": "Each equation goes in one row of the matrix. We now have: mat({5,-3},({-2,1})",
-        "variabilization": {}
+        "text": "Each equation goes in one row of the matrix. We now have: $$mat({5, -3}, ({-2, 1})$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Clearing the Decimal",
-        "text": "The first step is to multiply the first equation by a number in order to change the 0.2 into a whole number. This will make the equation easier to solve.",
-        "variabilization": {}
+        "text": "The first step is to multiply the first equation by a number in order to change the $$0.2$$ into a whole number. This will make the equation easier to solve.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systemeq1a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "ab8b840systemeq1a-h1"
         ],
         "title": "Multiplying decimals",
         "text": "What is $$10\\times0.2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systemeq1a-h3",
@@ -28,7 +30,8 @@
         "dependencies": [],
         "title": "Using substitution",
         "text": "The next step is to rewrite one of the equations in terms of one of the variables and plug it into the other equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8b840systemeq1a-h4",
@@ -36,6 +39,7 @@
         "dependencies": [],
         "title": "Definition of inconsistent systems of equations",
         "text": "An inconsistent system of equations consists of parallel lines that never intersect. Algebraically, that means that the system of equation will result in a false equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

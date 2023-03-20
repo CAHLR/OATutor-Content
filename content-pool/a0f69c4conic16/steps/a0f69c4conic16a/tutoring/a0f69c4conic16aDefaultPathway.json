@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Making Equivalent Polar to Cartesian Substitutions",
         "text": "Convert the equation to rectangular form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

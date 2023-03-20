@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the input values",
-        "text": "When considering y as a function of x, the input variable is x.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the input variable is $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14h-h2",
@@ -14,8 +15,9 @@
             "af36e21FunNota14h-h1"
         ],
         "title": "Identify the output values",
-        "text": "When considering y as a function of x, the output variable is y.",
-        "variabilization": {}
+        "text": "When considering $$y$$ as a function of $$x$$, the output variable is $$y$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14h-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Classify the relation",
         "text": "Try writing the equation in terms of $$y=$$ [expression of x], and examine this new equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota14h-h4",
@@ -34,7 +37,8 @@
             "af36e21FunNota14h-h3"
         ],
         "title": "Classify the relation",
-        "text": "When x is not $$\\frac{3}{7}$$, $$y=\\frac{x+5}{7x-3}$$. Each x only leads to a specific y. When x equals $$\\frac{3}{7}$$, y is not exist, so $$\\frac{3}{7}$$ is not in the domain.",
-        "variabilization": {}
+        "text": "When $$x$$ is not $$\\frac{3}{7}$$, $$y=\\frac{x+5}{7x-3}$$. Each $$x$$ only leads to a specific $$y$$. When $$x$$ equals $$\\frac{3}{7}$$, $$y$$ is not exist, so $$\\frac{3}{7}$$ is not in the domain.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

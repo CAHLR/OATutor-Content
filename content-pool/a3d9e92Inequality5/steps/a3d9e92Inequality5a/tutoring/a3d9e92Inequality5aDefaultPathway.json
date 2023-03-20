@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Interval Notation Overview",
         "text": "Open parentheses \"(\" and \")\" represent excluded bounds, while closed parentheses \"[\" and \"]\" represent included bounds.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d9e92Inequality5a-h2",
@@ -14,7 +15,8 @@
             "a3d9e92Inequality5a-h1"
         ],
         "title": "Creating Our Notation",
-        "text": "Using the general guide given in the previous hint, we can write the solution (-6,-3)",
-        "variabilization": {}
+        "text": "Using the general guide given in the previous hint, we can write the solution $$(-6,-3)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

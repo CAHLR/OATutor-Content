@@ -11,6 +11,7 @@
         "title": "Seeing if the Signs Are Different",
         "text": "Are the signs of the two terms different?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -23,8 +24,9 @@
             "a9ae528add13a-h1"
         ],
         "title": "First Step to Find the Value of the Expression",
-        "text": "Since -2 and 5 have different signs, we subtract 2 from 5.",
-        "variabilization": {}
+        "text": "Since $$-2$$ and $$5$$ have different signs, we subtract $$2$$ from $$5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add13a-h3",
@@ -34,6 +36,7 @@
         ],
         "title": "Sign of the Answer",
         "text": "The answer will be positive because there are more positives than negatives.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

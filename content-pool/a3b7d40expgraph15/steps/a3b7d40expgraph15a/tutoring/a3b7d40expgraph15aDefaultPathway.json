@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Vertical translations",
-        "text": "For the parent function f(x) $$=$$ $$b^x$$, a vertical translation upwards by d units is represented by g(x) $$=$$ $$b^x$$ + d.",
-        "variabilization": {}
+        "text": "For the parent function f(x) $$=$$ $$b^x$$, a vertical translation upwards by $$d$$ units is represented by g(x) $$=$$ $$b^x$$ + $$d$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b7d40expgraph15a-h2",
@@ -13,6 +14,7 @@
         "dependencies": [],
         "title": "Reflection across the x-axis",
         "text": "For the parent function f(x) $$=$$ $$b^x$$, a reflection across the x-axis is represented by g(x) $$=$$ $$-\\left(b^x\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

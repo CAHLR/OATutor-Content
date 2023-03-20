@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "Subtract b and a from both sides to isolate c.",
-        "variabilization": {}
+        "text": "Subtract $$b$$ and a from both sides to isolate c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanding the Expression",
         "text": "The first step is to expand the expression. $$5^3=5\\times5\\times5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use29a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a4d2b33use29a-h1"
         ],
-        "title": "Multiplying From Left to Right, Part 1",
+        "title": "Multiplying From Left to Right, Part $$1$$",
         "text": "The second step is to multiply from left to right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use29a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a4d2b33use29a-h2"
         ],
         "title": "First Multiplication",
         "text": "$$5\\times5=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use29a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a4d2b33use29a-h3"
         ],
-        "title": "Multiplying From Left to Right, Part 2",
+        "title": "Multiplying From Left to Right, Part $$2$$",
         "text": "Multiply from left to right again.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use29a-h5",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "125"
+            "$$125$$"
         ],
         "dependencies": [
             "a4d2b33use29a-h4"
         ],
         "title": "Second Multiplication",
         "text": "$$25\\times5=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

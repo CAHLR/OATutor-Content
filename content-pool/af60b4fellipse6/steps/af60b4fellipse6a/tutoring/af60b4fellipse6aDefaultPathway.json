@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Vertice and Foci",
-        "text": "Does the major axis lie on the x- or y-axis?",
-        "variabilization": {}
+        "text": "Does the major axis lie on the $$x-$$ or y-axis?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse6a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Standard Equation Form",
         "text": "What is the standard equation form of this ellipse?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af60b4fellipse6a-h3",
@@ -23,18 +25,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(-2,5)"
+            "$$(-2,5)$$"
         ],
         "dependencies": [
             "af60b4fellipse6a-h2"
         ],
         "title": "Center of Ellipse",
-        "text": "Given the format of the standard equation reveals the value of h and k, what are the coordinates for the center of the ellipse?",
+        "text": "Given the format of the standard equation reveals the value of $$h$$ and k, what are the coordinates for the center of the ellipse?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(-2,5)",
-            "(-1,5)",
-            "(-3,5)"
+            "$$(-2,5)$$",
+            "$$(-1,5)$$",
+            "$$(-3,5)$$"
         ]
     },
     {
@@ -51,6 +54,7 @@
         "title": "Vertices of Ellipse",
         "text": "Given we know the value of a and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "(-2,5~sqrt(9))",
             "(-1,5~sqrt(9))",
@@ -69,8 +73,9 @@
             "af60b4fellipse6a-h4"
         ],
         "title": "Co-vertices of Ellipse",
-        "text": "Given we know the value of b and the center coordinates, what are the coordinates for the vertices?",
+        "text": "Given we know the value of $$b$$ and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(-1\\pm \\sqrt{4}, 5\\right)$$",
             "$$\\left(-2\\pm \\sqrt{4}, 5\\right)$$",
@@ -91,6 +96,7 @@
         "title": "Foci of Ellipse",
         "text": "Using the equation $$c^2=a^2-b^2$$ solve for c and obtain the coordinates of the foci",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "(-1,5~sqrt(5))",
             "(-2,5~sqrt(5))",

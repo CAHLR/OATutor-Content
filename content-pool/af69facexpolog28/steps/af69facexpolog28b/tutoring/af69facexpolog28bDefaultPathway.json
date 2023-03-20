@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Solving for T(t)",
         "text": "Substitute $$t=50$$ to solve for T(t).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

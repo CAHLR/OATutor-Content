@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The multiplications of numbers and variables are separate",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly3b-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Multiplication on the same variable $$=$$ the addition of exponential term",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly3b-h3",
@@ -22,8 +24,9 @@
             "a251a50MultiplyPoly3b-h2"
         ],
         "title": "Multiplication",
-        "text": "Multiply all numbers by 4",
-        "variabilization": {}
+        "text": "Multiply all numbers by $$4$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly3b-h4",
@@ -33,7 +36,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply all variables by $$x^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly3b-h5",
@@ -43,6 +47,7 @@
         ],
         "title": "Multiplication",
         "text": "Multiply all variables by $$y^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

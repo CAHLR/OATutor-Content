@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Defining Simplified Fraction",
         "text": "A fraction is considered simplified if there are no common factors in its numerator and denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Finding Common Factors",
         "text": "If we find the common factor of the numerator and the denominator, we can easily use the equivalent fractions property to simplify the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize2a-h3",
@@ -23,22 +25,24 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "ab3c11fVisualize2a-h2"
         ],
         "title": "Finding Common Factors",
-        "text": "What is the largerst common factor between 42 and 54?",
+        "text": "What is the largerst common factor between $$42$$ and 54?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ab3c11fVisualize2a-h3-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Finding Common Factors",
-                "text": "We can rewrite 42 as $$6\\times7$$ and 54 as $$6\\times9$$, which tells us that the largest common factor is 6.",
-                "variabilization": {}
+                "text": "We can rewrite $$42$$ as $$6\\times7$$ and $$54$$ as $$6\\times9$$, which tells us that the largest common factor is $$6$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -49,8 +53,9 @@
             "ab3c11fVisualize2a-h3"
         ],
         "title": "Equivalent Fractions Property",
-        "text": "We can then use the equivalent fractions property to simpily the fraction, which states that if a, b, c are numbers where b\u22600, c\u22600, then $$\\frac{a}{b}=\\frac{a c}{b c}$$.",
-        "variabilization": {}
+        "text": "We can then use the equivalent fractions property to simpily the fraction, which states that if a, $$b$$, c are numbers where b\u22600, c\u22600, then $$\\frac{a}{b}=\\frac{a c}{b c}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize2a-h5",
@@ -65,6 +70,7 @@
         ],
         "title": "Final Answer",
         "text": "In the previous steps, we rewrite $$\\frac{-42}{54}$$ as $$\\frac{-\\left(6\\times7\\right)}{6\\times9}$$. Observe this fraction. What can we simplify it to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

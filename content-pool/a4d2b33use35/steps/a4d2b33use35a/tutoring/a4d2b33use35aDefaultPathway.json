@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use35a-h2",
@@ -21,6 +22,7 @@
         "title": "P-Parentheses",
         "text": "Are there any parentheses?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -32,14 +34,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a4d2b33use35a-h2"
         ],
         "title": "First Operation",
         "text": "What is $$9+3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use35a-h4",
@@ -47,14 +50,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "48"
+            "$$48$$"
         ],
         "dependencies": [
             "a4d2b33use35a-h3"
         ],
         "title": "Second Operation",
-        "text": "What is 4 times the result of the first operation (the value in the inner parentheses)?",
-        "variabilization": {}
+        "text": "What is $$4$$ times the result of the first operation (the value in the inner parentheses)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use35a-h5",
@@ -70,6 +74,7 @@
         "title": "E-Exponents",
         "text": "Are there any exponents?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -81,14 +86,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "125"
+            "$$125$$"
         ],
         "dependencies": [
             "a4d2b33use35a-h5"
         ],
         "title": "Third Operation",
         "text": "What is $$5^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use35a-h7",
@@ -104,6 +110,7 @@
         "title": "MD- Multiplication or Division",
         "text": "Is there any multiplication or division?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -123,6 +130,7 @@
         "title": "AS- Addition or Subtraction",
         "text": "Is there any addition or subtraction?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -134,13 +142,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "86"
+            "$$86$$"
         ],
         "dependencies": [
             "a4d2b33use35a-h8"
         ],
         "title": "Fourth Operation",
         "text": "What is $$9+125-48$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

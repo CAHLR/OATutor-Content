@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Point of Intersection",
         "text": "To solve the system of equations by graphing, we will want to graph both functions and see where they intersect. The point(s) will be our answer.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9790f0System23a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Solution",
         "text": "When we graph our two functions, where do they intersect? Please enter your answer as (a,b). If there is more than one answer, please enter them as (a,b), (c,d) where $$a<c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

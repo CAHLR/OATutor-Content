@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Greatest Common Factor",
         "text": "First, factor out the Greatest Common Factor of the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Greatest Common Factor",
         "text": "The greatest common factor (GCF) of polynomials is the largest polynomial that divides evenly into the polynomials.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor1a-h3",
@@ -31,10 +33,11 @@
         "title": "Greatest Common Factor",
         "text": "What is the Greatest Common Factor of the expression?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "3",
+            "$$3$$",
             "$${xy}^2$$",
-            "y",
+            "$$y$$",
             "3xy"
         ]
     },
@@ -44,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "aabf119factor1a-h3"
         ],
         "title": "GCF of coefficients",
         "text": "What is the Greatest Common Factor of the coefficients?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor1a-h5",
@@ -59,17 +63,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "aabf119factor1a-h4"
         ],
-        "title": "GCF of x",
-        "text": "What is the Greatest Common Factor of the variable x?",
+        "title": "GCF of $$x$$",
+        "text": "What is the Greatest Common Factor of the variable $$x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x^2$$",
-            "x",
+            "$$x$$",
             "$$x^3$$"
         ]
     },
@@ -79,17 +84,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "y"
+            "$$y$$"
         ],
         "dependencies": [
             "aabf119factor1a-h5"
         ],
-        "title": "GCF of y",
-        "text": "What is the Greatest Common Factor of the variable y?",
+        "title": "GCF of $$y$$",
+        "text": "What is the Greatest Common Factor of the variable $$y$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y^2$$",
-            "y",
+            "$$y$$",
             "$$y^3$$"
         ]
     },
@@ -101,6 +107,7 @@
         ],
         "title": "Finding the GCF",
         "text": "The greatest common factor of the expression is the product of the GCF of its coefficients and variables.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

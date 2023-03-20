@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Eliminate a Variable",
-        "text": "Elimintate the y's by multiplying the first equation by 2. $$2\\left(3x-y\\right)=2\\left(-7\\right)$$ $$4x+2y=-6$$",
-        "variabilization": {}
+        "text": "Elimintate the y's by multiplying the first equation by $$2$$.\\n$$2\\left(3x-y\\right)=2\\left(-7\\right)$$\\n$$4x+2y=-6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6614c6sol4a-h2",
@@ -14,8 +15,9 @@
             "a6614c6sol4a-h1"
         ],
         "title": "Simplify",
-        "text": "$$6x-2y=-14$$ $$4x+2y=-6$$",
-        "variabilization": {}
+        "text": "$$6x-2y=-14$$\\n$$4x+2y=-6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6614c6sol4a-h3",
@@ -24,8 +26,9 @@
             "a6614c6sol4a-h2"
         ],
         "title": "Add the Equations to Eliminate One Variable",
-        "text": "Add the x's, y's, and constants. y will be eliminated and then solve for x. $$10x=-20$$ $$x=-2$$",
-        "variabilization": {}
+        "text": "Add the x's, y's, and constants. $$y$$ will be eliminated and then solve for $$x$$.\\n$$10x=-20$$\\n$$x=-2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6614c6sol4a-h4",
@@ -34,8 +37,9 @@
             "a6614c6sol4a-h3"
         ],
         "title": "Substitute Solution into Original Equations",
-        "text": "Substitute $$x=-2$$ into the first equation, $$3x-y=-7$$. Then solve for y. $$3x-y=-7$$ $$3\\left(-2\\right)-y=-7$$ $$-6-y=-7$$ $$-y=-1$$ $$y=1$$",
-        "variabilization": {}
+        "text": "Substitute $$x=-2$$ into the first equation, $$3x-y=-7$$. Then solve for $$y$$.\\n$$3x-y=-7$$\\n$$3\\left(-2\\right)-y=-7$$\\n$$-6-y=-7$$\\n$$-y=-1$$\\n$$y=1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6614c6sol4a-h5",
@@ -45,7 +49,8 @@
             "a6614c6sol4a-h4"
         ],
         "title": "Solution as Ordered Pair",
-        "text": "Solution to the system of equations is (-2,1).",
-        "variabilization": {}
+        "text": "Solution to the system of equations is $$(-2,1)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

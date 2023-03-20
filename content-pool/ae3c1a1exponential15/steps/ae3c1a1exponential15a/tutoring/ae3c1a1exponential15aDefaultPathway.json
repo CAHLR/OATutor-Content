@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Using Substitution",
         "text": "Substitute $$x=-2$$ into f(x). What is the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential15a-h2",
@@ -18,14 +19,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "ae3c1a1exponential15a-h1"
         ],
         "title": "Add the Exponent",
         "text": "What is the sum of the exponent?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential15a-h3",
@@ -33,14 +35,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "64"
+            "$$64$$"
         ],
         "dependencies": [
             "ae3c1a1exponential15a-h2"
         ],
         "title": "Using Simplification",
         "text": "Simplify the power, $$4^3$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential15a-h4",
@@ -48,14 +51,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "172.8"
+            "$$172.8$$"
         ],
         "dependencies": [
             "ae3c1a1exponential15a-h3"
         ],
         "title": "Using Multiplication",
         "text": "Multiply the terms in the expression, $$2.7\\times64$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential15a-h5",
@@ -63,13 +67,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "174.3"
+            "$$174.3$$"
         ],
         "dependencies": [
             "ae3c1a1exponential15a-h4"
         ],
         "title": "Using Addition",
         "text": "Add all the terms together, $$172.8+1.5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

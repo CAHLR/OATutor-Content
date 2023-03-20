@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Combining Like Terms",
         "text": "Since both terms are like, we can add their coefficients to get $$21q^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

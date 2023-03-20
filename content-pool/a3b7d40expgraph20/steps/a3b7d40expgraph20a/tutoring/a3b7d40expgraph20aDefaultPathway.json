@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewriting the equation",
-        "text": "Let b $$=$$ $$-\\left({4\\left(2\\right)}^x\\right)+2$$.",
-        "variabilization": {}
+        "text": "Let $$b$$ $$=$$ $$-\\left({4\\left(2\\right)}^x\\right)+2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b7d40expgraph20a-h2",
@@ -13,6 +14,7 @@
         "dependencies": [],
         "title": "Reflections across the x-axis",
         "text": "For the parent function f(x) $$=$$ $$b^x$$, a reflection across the x-axis is represented by g(x) $$=$$ $$-\\left(b^x\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

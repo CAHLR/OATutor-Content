@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitution",
         "text": "Substitute $$n=2$$ into the formula",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences25b-h2",
@@ -14,7 +15,8 @@
             "a1f0162sequences25b-h1"
         ],
         "title": "Simplification",
-        "text": "Calculate the expression $$-\\left({\\left(-5\\right)}^{2-1}\\right)$$ $$=$$ -(-5)",
-        "variabilization": {}
+        "text": "Calculate the expression $$-\\left({\\left(-5\\right)}^{2-1}\\right)$$ $$=$$ $$-(-5)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

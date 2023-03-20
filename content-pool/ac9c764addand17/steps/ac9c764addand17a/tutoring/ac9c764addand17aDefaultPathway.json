@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 9 for x, -18 for y, and -6 for z in the expression.",
-        "variabilization": {}
+        "text": "Substitute $$9$$ for $$x$$, $$-18$$ for $$y$$, and $$-6$$ for $$z$$ in the expression.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand17a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitute",
         "text": "We get $$\\frac{9+\\left(-18\\right)}{\\left(-6\\right)}$$ after the substitution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand17a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Numerator",
         "text": "Add in the numerator first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand17a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-9"
+            "$$-9$$"
         ],
         "dependencies": [
             "ac9c764addand17a-h3"
         ],
         "title": "Numerator",
         "text": "What do we get for the numerator after adding the two together?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand17a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Simplify",
         "text": "What do we get after simplifying the fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

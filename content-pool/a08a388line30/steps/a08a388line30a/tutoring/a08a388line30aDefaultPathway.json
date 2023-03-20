@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the point",
-        "text": "The given point is (-4,2).",
-        "variabilization": {}
+        "text": "The given point is $$(-4,2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line30a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Slope",
         "text": "The line $$y=-4$$ is a horizontal line. Any line perpendicular to it must be vertical, in the form $$x=a$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line30a-h3",
@@ -24,7 +26,8 @@
             "a08a388line30a-h2"
         ],
         "title": "Equation",
-        "text": "Since the perpendicular line is vertical and passes through (-4,2), every point on it has an x-coordinate of -4.",
-        "variabilization": {}
+        "text": "Since the perpendicular line is vertical and passes through $$(-4,2)$$, every point on it has an x-coordinate of $$-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

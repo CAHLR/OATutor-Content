@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of Domain",
         "text": "The domain of a rational function includes all real numbers except those that cause the denominator to equal zero.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Definition of a Vertical Asymptote",
         "text": "A vertical asymptote of a graph is a vertical line $$x=a$$ where the graph tends toward positive or negative $$\\infty$$ as the inputs approach a.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5b6f42rationals8a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Definition of a Horizontal Asymptote",
         "text": "A horizontal asymptote of a graph is a horizontal line $$y=b$$ where the graph approaches the line as the inputs increase or decrease without bound.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

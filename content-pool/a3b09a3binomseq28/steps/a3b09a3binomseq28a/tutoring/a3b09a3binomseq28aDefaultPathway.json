@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Binomial Coefficient Formula",
-        "text": "The formula to find the nth term is as follows: C(n, n-(r-1)) * $$a^{n \\left(r-1\\right)}$$ * $$b^{r-1}$$.",
-        "variabilization": {}
+        "text": "The formula to find the nth term is as follows: C(n, $$n-(r-1))$$ * $$a^{n \\left(r-1\\right)}$$ * $$b^{r-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq28a-h2",
@@ -14,7 +15,8 @@
             "a3b09a3binomseq28a-h1"
         ],
         "title": "Plugging into the Formula",
-        "text": "$$r=1$$, 2, 3, 4; $$n=3$$. Plugging these values into the formula above gives: $$27a^3+54a^2 b+36{ab}^2+8b^3$$",
-        "variabilization": {}
+        "text": "$$r=1$$, $$2$$, $$3$$, 4; $$n=3$$. Plugging these values into the formula above gives: $$27a^3+54a^2 b+36{ab}^2+8b^3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

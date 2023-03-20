@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "FOIL",
         "text": "The first step is to FOIL the expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "FOIL - First",
         "text": "Let's multiply the first terms in both expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a9cf449complex14a-h2"
         ],
         "title": "FOIL - First",
         "text": "What is $$\\left(-1\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "FOIL - Outside",
         "text": "Now, multiply the outside terms in both expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "FOIL - Outside",
         "text": "What is $$\\left(-1\\right) 3i$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "FOIL - Inside",
         "text": "Next, multiply the inside terms in both expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "FOIL - Inside",
         "text": "What is $$2i \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "FOIL - Last",
         "text": "Finally, we can multiply the last terms in both expressions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h9",
@@ -98,7 +106,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-6"
+            "$$-6$$"
         ],
         "dependencies": [
             "a9cf449complex14a-h8"
@@ -106,14 +114,16 @@
         "title": "FOIL - Last",
         "text": "What is $$2i 3i$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9cf449complex14a-h9-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "FOIL - Last",
-                "text": "Because i is the square root of -1, when we multiply (3i)(2i), the i is squared and becomes -1. So, (3i)(2i) becomes (6)(-1), or -6.",
-                "variabilization": {}
+                "text": "Because i is the square root of $$-1$$, when we multiply (3i)(2i), the i is squared and becomes $$-1$$. So, (3i)(2i) becomes $$(6)(-1)$$, or $$-6$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -127,8 +137,9 @@
             "a9cf449complex14a-h9"
         ],
         "title": "Combining Like Terms",
-        "text": "Here, we can combine the like terms. Add the constants, 2 and -6 together, and add the terms with i together.",
-        "variabilization": {}
+        "text": "Here, we can combine the like terms. Add the constants, $$2$$ and $$-6$$ together, and add the terms with i together.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h11",
@@ -136,14 +147,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "a9cf449complex14a-h10"
         ],
         "title": "Combining Like Terms",
-        "text": "What is (2-6)?",
-        "variabilization": {}
+        "text": "What is $$(2-6)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h12",
@@ -157,8 +169,9 @@
             "a9cf449complex14a-h10"
         ],
         "title": "Combining Like Terms",
-        "text": "What is (-3i-4i)?",
-        "variabilization": {}
+        "text": "What is $$(-3i-4i)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex14a-h13",
@@ -168,7 +181,8 @@
             "a9cf449complex14a-h12"
         ],
         "title": "Standard Form",
-        "text": "Our last step is to write the expression in $$a+bi$$ form: -4-7i.",
-        "variabilization": {}
+        "text": "Our last step is to write the expression in $$a+bi$$ form: $$-4-7i$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

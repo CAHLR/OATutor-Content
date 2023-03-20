@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Inverse",
-        "text": "Given a polynomial function, restrict the domain of a function that is not one-to-one and then find the inverse. 1) Restrict the domain by determining a domain on which the original function is one-to-one. 2) Replace f(x) with y. 3) Interchange x and y. 4) Solve for y, and rename the function or pair of function $$f^{-1\\left(x\\right)}$$. 5) Revise the formula for $$f^{-1\\left(x\\right)}$$ by ensuring that the outputs of the inverse function correspond to the restricted domain of the original function.",
-        "variabilization": {}
+        "text": "Given a polynomial function, restrict the domain of a function that is not one-to-one and then find the inverse.\\n1) Restrict the domain by determining a domain on which the original function is one-to-one.\\n2) Replace f(x) with $$y$$.\\n3) Interchange $$x$$ and $$y$$.\\n4) Solve for $$y$$, and rename the function or pair of function $$f^{-1\\left(x\\right)}$$.\\n5) Revise the formula for $$f^{-1\\left(x\\right)}$$ by ensuring that the outputs of the inverse function correspond to the restricted domain of the original function.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses5a-h2",
@@ -19,8 +20,9 @@
             "a8ffef9inverses5a-h1"
         ],
         "title": "Domain",
-        "text": "What values of x for which f(x) is one-to-one?",
+        "text": "What values of $$x$$ for which f(x) is one-to-one?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\geq 4$$",
             "$$x \\geq 3$$",
@@ -41,6 +43,7 @@
         "title": "Range",
         "text": "Now that we know what is the domain for f(x), what is the range of f(x)? This would affect the domain of our inverse function. Note that f(x) is a radical function.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$f(x) \\geq 0$$",
             "f(x) is real"
@@ -57,9 +60,10 @@
         "dependencies": [
             "a8ffef9inverses5a-h3"
         ],
-        "title": "Replace f(x) with y",
-        "text": "What does the equation look like after replacing f(x) with y?",
+        "title": "Replace f(x) with $$y$$",
+        "text": "What does the equation look like after replacing f(x) with $$y$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y=\\sqrt{x-4}$$",
             "$$f(x)=\\sqrt{x-4}$$",
@@ -77,9 +81,10 @@
         "dependencies": [
             "a8ffef9inverses5a-h4"
         ],
-        "title": "Interchange x and y",
-        "text": "What does the equation look like after interchanging x and y.",
+        "title": "Interchange $$x$$ and $$y$$",
+        "text": "What does the equation look like after interchanging $$x$$ and $$y$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$y=\\sqrt{x-4}$$",
             "$$f(x)=\\sqrt{x-4}$$",
@@ -92,9 +97,10 @@
         "dependencies": [
             "a8ffef9inverses5a-h5"
         ],
-        "title": "Solve for y",
-        "text": "Make y the subject.",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Make $$y$$ the subject.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses5a-h7",
@@ -102,9 +108,10 @@
         "dependencies": [
             "a8ffef9inverses5a-h6"
         ],
-        "title": "Solve for y",
+        "title": "Solve for $$y$$",
         "text": "Square each side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses5a-h8",
@@ -112,9 +119,10 @@
         "dependencies": [
             "a8ffef9inverses5a-h7"
         ],
-        "title": "Solve for y",
-        "text": "Add 4 to both sides.",
-        "variabilization": {}
+        "title": "Solve for $$y$$",
+        "text": "Add $$4$$ to both sides.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses5a-h9",
@@ -124,7 +132,8 @@
         ],
         "title": "Rename the function $$f^{-1\\left(x\\right)}$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses5a-h10",
@@ -134,6 +143,7 @@
         ],
         "title": "Domain of Inverse Function",
         "text": "Recall that the domain of the function must be limited to the range of the original function.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

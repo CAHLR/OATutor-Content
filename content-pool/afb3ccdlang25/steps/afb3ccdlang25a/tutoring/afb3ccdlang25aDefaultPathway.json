@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use PEMDAS",
-        "text": "We must simplify operations in the following order: parentheses, exponents, $$\\frac{multiplication}{division}$$ (left-to-right), $$\\frac{addition}{subttraction}$$ (left-to-right).",
-        "variabilization": {}
+        "text": "We must simplify operations in the following order: parentheses, exponents, $$\\frac{multiplication}{division}$$ $$(left-to-right)$$, $$\\frac{addition}{subttraction}$$ $$(left-to-right)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang25a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Terms",
         "text": "$$5\\left(2+4\\left(3-2\\right)\\right)=5\\left(2+4\\left(1\\right)\\right)=5\\times6=30$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

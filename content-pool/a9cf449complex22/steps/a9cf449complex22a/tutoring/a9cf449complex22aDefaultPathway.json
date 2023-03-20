@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplifying $$i^2$$ using $$i^4$$",
         "text": "Simplify the problem by factoring out as many factors of $$i^4$$ as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h2",
@@ -14,8 +15,9 @@
             "a9cf449complex22a-h1"
         ],
         "title": "Simplifying $$i^2$$ using $$i^4$$",
-        "text": "Determine how many times 4 goes into 22.",
-        "variabilization": {}
+        "text": "Determine how many times $$4$$ goes into $$22$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h2"
         ],
         "title": "Division",
-        "text": "How many times does 4 fully go into 22?",
-        "variabilization": {}
+        "text": "How many times does $$4$$ fully go into 22?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h3"
         ],
         "title": "Division",
         "text": "What is the remainder for $$\\frac{22}{4}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Writing Expressions",
         "text": "Rewrite the expression as $${\\left(i^4\\right)}^5 i^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h6",
@@ -63,14 +68,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h5"
         ],
         "title": "Evaluate $$i^4$$",
         "text": "What is $$i^4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h7",
@@ -78,14 +84,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h6"
         ],
         "title": "Exponents",
         "text": "What is $$1^{25}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h8",
@@ -93,14 +100,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h7"
         ],
         "title": "Evaluate $$i^2$$",
         "text": "What is $$i^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex22a-h9",
@@ -108,13 +116,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-1"
+            "$$-1$$"
         ],
         "dependencies": [
             "a9cf449complex22a-h8"
         ],
         "title": "Multiplication",
-        "text": "What is (1)(-1)?",
-        "variabilization": {}
+        "text": "What is $$(1)(-1)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

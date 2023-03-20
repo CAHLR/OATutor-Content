@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Variables",
-        "text": "Represent the number of each type of passengers using variables, raisin as x and nut as (25-x).",
-        "variabilization": {}
+        "text": "Represent the number of each type of passengers using variables, raisin as $$x$$ and nut as $$(25-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the number of each grain type(in variable form) by its respective value.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture20a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their monetary values into a single equation. This will be $$\\operatorname{4.5}\\left(x\\right)+8\\left(25-x\\right)=6.6\\times25$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture20a-h4",
@@ -34,8 +37,9 @@
             "aff0960mixture20a-h3"
         ],
         "title": "Calculation",
-        "text": "Solve the equation for x.",
-        "variabilization": {}
+        "text": "Solve the equation for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture20a-h5",
@@ -44,8 +48,9 @@
             "aff0960mixture20a-h4"
         ],
         "title": "Substitution",
-        "text": "Plug x into the original relationship to find 25-x.",
-        "variabilization": {}
+        "text": "Plug $$x$$ into the original relationship to find $$25-x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aff0960mixture20a-h6",
@@ -54,7 +59,8 @@
             "aff0960mixture20a-h5"
         ],
         "title": "Calculation",
-        "text": "The answer is 10 pounds of raisins and 15 pounds of nuts.",
-        "variabilization": {}
+        "text": "The answer is $$10$$ pounds of raisins and $$15$$ pounds of nuts.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

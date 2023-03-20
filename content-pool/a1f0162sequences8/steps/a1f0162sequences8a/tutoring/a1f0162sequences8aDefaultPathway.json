@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Pattern Among the Signs",
         "text": "Terms are alternating between positive and negative",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences8a-h2",
@@ -14,8 +15,9 @@
             "a1f0162sequences8a-h1"
         ],
         "title": "Pattern Among the Terms",
-        "text": "Numerator is always 1 but denominator is increasing in doubles",
-        "variabilization": {}
+        "text": "Numerator is always $$1$$ but denominator is increasing in doubles",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences8a-h3",
@@ -24,8 +26,9 @@
             "a1f0162sequences8a-h2"
         ],
         "title": "Write in Explicit Form",
-        "text": "Write a formula for $$a_n$$ in terms of n",
-        "variabilization": {}
+        "text": "Write a formula for $$a_n$$ in terms of $$n$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f0162sequences8a-h4",
@@ -41,6 +44,7 @@
         "title": "Selecting Formula",
         "text": "What is the explicit formula?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "1,-1/2,1/4,-1/8,1/16",
             "1,-1/2,3/4,-1/8,3/16"

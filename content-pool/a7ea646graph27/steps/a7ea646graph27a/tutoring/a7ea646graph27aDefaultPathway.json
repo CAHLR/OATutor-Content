@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Factoring Expressions",
         "text": "Factor out $$x^4$$ out of the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph27a-h2",
@@ -25,7 +26,8 @@
         ],
         "title": "Simplifying Expressions",
         "text": "What is the simplified expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph27a-h3",
@@ -39,8 +41,9 @@
             "a7ea646graph27a-h2"
         ],
         "title": "Factoring Expressions",
-        "text": "What is the factorization of $$x^2$$ -x -2?",
-        "variabilization": {}
+        "text": "What is the factorization of $$x^2$$ $$-x$$ -2?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph27a-h4",
@@ -54,8 +57,9 @@
             "a7ea646graph27a-h3"
         ],
         "title": "Finding Zeroes",
-        "text": "What are the values of x that make the expression 0?",
-        "variabilization": {}
+        "text": "What are the values of $$x$$ that make the expression 0?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7ea646graph27a-h5",
@@ -65,6 +69,7 @@
         ],
         "title": "Definition of Multiplicity",
         "text": "The multiplicity is the power to which each part of the expression is raised",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

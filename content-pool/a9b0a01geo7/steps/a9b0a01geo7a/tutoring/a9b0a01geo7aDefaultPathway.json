@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Draw",
         "text": "Draw the figure to try to better understand what the problem is asking",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify and Name",
         "text": "We are looking for the third angle of the triangle and we can name it \"x\"",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo7a-h3",
@@ -24,8 +26,9 @@
             "a9b0a01geo7a-h2"
         ],
         "title": "Translate",
-        "text": "Each of the three angles added together equals 180 degrees, $$x+49+75=180$$",
-        "variabilization": {}
+        "text": "Each of the three angles added together equals $$180$$ degrees, $$x+49+75=180$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo7a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Solve",
         "text": "Solve the equation using algebra",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo7a-h5",
@@ -43,14 +47,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "124"
+            "$$124$$"
         ],
         "dependencies": [
             "a9b0a01geo7a-h4"
         ],
         "title": "Solve",
         "text": "First let's simplify the left side of the equation. What is $$49+75$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9b0a01geo7a-h6",
@@ -59,7 +64,8 @@
             "a9b0a01geo7a-h5"
         ],
         "title": "Solve",
-        "text": "Now, we can subtract 124 from both sides of the equation to find x",
-        "variabilization": {}
+        "text": "Now, we can subtract $$124$$ from both sides of the equation to find $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

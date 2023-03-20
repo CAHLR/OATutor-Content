@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Convert the division to multiplying the reciprocal of the second term: $$\\frac{a}{8} \\frac{6}{ab}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction4a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Find the common factor of numerator and denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction4a-h3",
@@ -23,7 +25,8 @@
         ],
         "title": "Factor",
         "text": "Factor the numerator to 2x3xa",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction4a-h4",
@@ -33,7 +36,8 @@
         ],
         "title": "Factor",
         "text": "Factor the denominator to 2x2x2xaxb",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction4a-h5",
@@ -48,7 +52,8 @@
         ],
         "title": "Organizing",
         "text": "What is the common factor?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction4a-h6",
@@ -58,6 +63,7 @@
         ],
         "title": "Division",
         "text": "Dividing both sides by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

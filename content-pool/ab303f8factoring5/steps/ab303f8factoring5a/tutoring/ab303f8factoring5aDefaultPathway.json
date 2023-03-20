@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Standard form of a trinomial",
         "text": "Check if the trinomial follows the pattern of $$a^2+2ab+b^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring5a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6x"
+            "$$6x$$"
         ],
         "dependencies": [
             "ab303f8factoring5a-h2"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$36x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring5a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7y"
+            "$$7y$$"
         ],
         "dependencies": [
             "ab303f8factoring5a-h3"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$49y^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring5a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $${\\left(6x+7y\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

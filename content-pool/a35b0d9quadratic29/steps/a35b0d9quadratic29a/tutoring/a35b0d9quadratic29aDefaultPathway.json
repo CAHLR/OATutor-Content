@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determing the Domain",
         "text": "The domain off all quadratic functions is all real numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic29a-h2",
@@ -14,8 +15,9 @@
             "a35b0d9quadratic29a-h1"
         ],
         "title": "Finding the Vertex",
-        "text": "Do $$\\frac{-b}{2} a$$ where b is the x coefficient and a is the $$x^2$$ coefficient to find the x value of the vertex",
-        "variabilization": {}
+        "text": "Do $$\\frac{-b}{2} a$$ where $$b$$ is the $$x$$ coefficient and a is the $$x^2$$ coefficient to find the $$x$$ value of the vertex",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic29a-h3",
@@ -24,8 +26,9 @@
             "a35b0d9quadratic29a-h2"
         ],
         "title": "Subsituting in the x-value",
-        "text": "Substitute the x value you just found into the original function to get the y value",
-        "variabilization": {}
+        "text": "Substitute the $$x$$ value you just found into the original function to get the $$y$$ value",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic29a-h4",
@@ -33,7 +36,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(-3,-5)"
+            "$$(-3,-5)$$"
         ],
         "dependencies": [
             "a35b0d9quadratic29a-h3"
@@ -41,10 +44,11 @@
         "title": "Determining the Vertex",
         "text": "What is the vertex?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(-3,-5)",
-            "(-5,-3)",
-            "(3,-6)",
+            "$$(-3,-5)$$",
+            "$$(-5,-3)$$",
+            "$$(3,-6)$$",
             "(3/2, 2)"
         ]
     },
@@ -54,14 +58,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a35b0d9quadratic29a-h4"
         ],
         "title": "Determining the Coefficient",
         "text": "What is the coefficient of the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic29a-h5",
@@ -71,7 +76,8 @@
         ],
         "title": "Identifying the Shape",
         "text": "If the coefficient is positive, it opens upwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic29a-h6",
@@ -87,6 +93,7 @@
         "title": "Interpreting the Shape",
         "text": "Does this mean that the vertex will be a Minimum or Maximum?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Minimum",
             "Maximum"
@@ -99,7 +106,8 @@
             "a35b0d9quadratic29a-h6"
         ],
         "title": "Identifying the Range",
-        "text": "The range is everything above the Minimum y value",
-        "variabilization": {}
+        "text": "The range is everything above the Minimum $$y$$ value",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

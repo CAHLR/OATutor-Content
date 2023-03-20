@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Value of $$|p|$$",
         "text": "The first step is to find the value of $$|p|$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add8d-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "11"
+            "$$11$$"
         ],
         "dependencies": [
             "a9ae528add8d-h1"
@@ -21,6 +22,7 @@
         "title": "Calculating $$|p|$$",
         "text": "$$p=-11$$. What is $$|-11|$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9ae528add8d-h2-s1",
@@ -28,7 +30,8 @@
                 "dependencies": [],
                 "title": "Evaluating the Absolute Value of Negative Numbers",
                 "text": "If a is negative, then $$|a|=-a$$. For example, $$|-11|=11$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,8 +42,9 @@
             "a9ae528add8d-h2"
         ],
         "title": "Finding the Value of $$-|p|$$",
-        "text": "Multiply $$|p|$$ by -1 to find $$-|p|$$.",
-        "variabilization": {}
+        "text": "Multiply $$|p|$$ by $$-1$$ to find $$-|p|$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add8d-h4",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-11"
+            "$$-11$$"
         ],
         "dependencies": [
             "a9ae528add8d-h3"
         ],
-        "title": "Calculating $$-|p|$$ with the Substituted Value of p",
+        "title": "Calculating $$-|p|$$ with the Substituted Value of $$p$$",
         "text": "What is $$-1\\times11$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

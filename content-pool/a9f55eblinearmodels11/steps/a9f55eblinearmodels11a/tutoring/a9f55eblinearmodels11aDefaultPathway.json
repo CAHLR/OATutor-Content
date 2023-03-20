@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subsituting a Value into the Trend Equation",
-        "text": "Input 12 as the x value. Then, calculate the equation using that value.",
-        "variabilization": {}
+        "text": "Input $$12$$ as the $$x$$ value. Then, calculate the equation using that value.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9f55eblinearmodels11a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "$$75000+2500\\times12=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify known quantities",
-        "text": "There are two known quantities, 110 cm and 1 cm.",
-        "variabilization": {}
+        "text": "There are two known quantities, $$110$$ cm and $$1$$ cm.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Determine unknown quantities",
         "text": "There are two unknown quantities, the length L and width W of the rectangle.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h3",
@@ -24,8 +26,9 @@
             "af227bbMoApp10a-h2"
         ],
         "title": "Assign a variable",
-        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the rectangle to equal to x.",
-        "variabilization": {}
+        "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the rectangle to equal to $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h4",
@@ -39,8 +42,9 @@
             "af227bbMoApp10a-h3"
         ],
         "title": "Express other quantities",
-        "text": "What is the length of the rectangle in terms of x?",
-        "variabilization": {}
+        "text": "What is the length of the rectangle in terms of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Using a formula",
         "text": "The formula we can use in this problem is the perimeter formula $$P=2L+2W$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h6",
@@ -64,8 +69,9 @@
             "af227bbMoApp10a-h5"
         ],
         "title": "Translation to Math Operations",
-        "text": "What is the mathematical form of \"the perimeter is 110 cm\"?",
-        "variabilization": {}
+        "text": "What is the mathematical form of \"the perimeter is $$110$$ cm\"?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h7",
@@ -73,14 +79,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "27"
+            "$$27$$"
         ],
         "dependencies": [
             "af227bbMoApp10a-h6"
         ],
         "title": "Simplify and Solve",
-        "text": "Solve the equation we write. What is x?",
-        "variabilization": {}
+        "text": "Solve the equation we write. What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h8",
@@ -88,14 +95,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "28"
+            "$$28$$"
         ],
         "dependencies": [
             "af227bbMoApp10a-h7"
         ],
         "title": "Calculate the other quantity",
         "text": "What is $$x+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af227bbMoApp10a-h9",
@@ -105,6 +113,7 @@
         ],
         "title": "Explain the solution",
         "text": "The dimensions are $$L=28$$ cm and $$W=27$$ cm.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

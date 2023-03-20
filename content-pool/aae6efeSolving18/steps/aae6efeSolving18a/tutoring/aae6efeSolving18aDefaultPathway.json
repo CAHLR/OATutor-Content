@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Setup",
-        "text": "Assume the number we want to find is x",
-        "variabilization": {}
+        "text": "Assume the number we want to find is $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving18a-h2",
@@ -14,8 +15,9 @@
             "aae6efeSolving18a-h1"
         ],
         "title": "Rewritting",
-        "text": "Rewrite the question in equation form with variable x",
-        "variabilization": {}
+        "text": "Rewrite the question in equation form with variable $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving18a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Setup",
         "text": "Equation: $$2x+6=14$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving18a-h4",
@@ -33,13 +36,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "aae6efeSolving18a-h3"
         ],
         "title": "Calculation",
-        "text": "What is x?",
-        "variabilization": {}
+        "text": "What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

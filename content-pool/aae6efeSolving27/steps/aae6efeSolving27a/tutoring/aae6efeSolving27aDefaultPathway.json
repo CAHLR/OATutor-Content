@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.27"
+            "$$0.27$$"
         ],
         "dependencies": [],
         "title": "Conversion",
         "text": "What is the numeric form of 27%?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving27a-h2",
@@ -19,8 +20,9 @@
             "aae6efeSolving27a-h1"
         ],
         "title": "Setup",
-        "text": "Assume the total recommended daily amount of sodium as x",
-        "variabilization": {}
+        "text": "Assume the total recommended daily amount of sodium as $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving27a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Setup",
         "text": "The equation can be translated in the equation form as $$650=0.27x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aae6efeSolving27a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2407"
+            "$$2407$$"
         ],
         "dependencies": [
             "aae6efeSolving27a-h3"
         ],
         "title": "Calculation",
-        "text": "What is the value of x?",
-        "variabilization": {}
+        "text": "What is the value of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

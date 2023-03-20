@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Question Simplification",
-        "text": "What number to the power of 3 is -64?",
-        "variabilization": {}
+        "text": "What number to the power of $$3$$ is -64?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers21a-h2",
@@ -14,7 +15,8 @@
             "a10b60arealnumbers21a-h1"
         ],
         "title": "Finding the Root",
-        "text": "$${\\left(-4\\right)}^3=-64$$, so our answer is -4.",
-        "variabilization": {}
+        "text": "$${\\left(-4\\right)}^3=-64$$, so our answer is $$-4$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

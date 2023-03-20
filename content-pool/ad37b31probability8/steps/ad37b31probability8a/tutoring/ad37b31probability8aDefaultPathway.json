@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sample Space",
-        "text": "There are two number cubes, and each number cube has six possible outcomes. Using the Multiplication Principle, we find that there are $$6\\times6$$, or 36 total possible outcomes.",
-        "variabilization": {}
+        "text": "There are two number cubes, and each number cube has six possible outcomes. Using the Multiplication Principle, we find that there are $$6\\times6$$, or $$36$$ total possible outcomes.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability8a-h2",
@@ -14,8 +15,9 @@
             "ad37b31probability8a-h1"
         ],
         "title": "Complement Event",
-        "text": "It is easier to start the problem by finding the possible ways of rolling a sum of 10 or more.",
-        "variabilization": {}
+        "text": "It is easier to start the problem by finding the possible ways of rolling a sum of $$10$$ or more.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability8a-h3",
@@ -24,8 +26,9 @@
             "ad37b31probability8a-h2"
         ],
         "title": "Complement Event",
-        "text": "We need to count the number of ways to roll a sum of 10 or more. These would include the following outcomes: 6-6, 6-5, 5-6, 6-4, 5-5, 4-6. (1-1 represents a 1 rolled on each number cube.) So there are only six ways to roll a sum of 10 or more.",
-        "variabilization": {}
+        "text": "We need to count the number of ways to roll a sum of $$10$$ or more. These would include the following outcomes: $$6-6$$, $$6-5$$, $$5-6$$, $$6-4$$, $$5-5$$, $$4-6$$. $$(1-1$$ represents a $$1$$ rolled on each number cube.) So there are only six ways to roll a sum of $$10$$ or more.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability8a-h4",
@@ -34,7 +37,8 @@
             "ad37b31probability8a-h3"
         ],
         "title": "Complement Rule",
-        "text": "We can simply subtract $$\\frac{6}{36}$$ from 1 to find the probability that the sum of the numbers rolled is less than 10.",
-        "variabilization": {}
+        "text": "We can simply subtract $$\\frac{6}{36}$$ from $$1$$ to find the probability that the sum of the numbers rolled is less than $$10$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

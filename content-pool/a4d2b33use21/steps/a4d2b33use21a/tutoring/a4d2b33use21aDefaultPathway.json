@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanding the Expression",
         "text": "The first step is to expand the expression. $$3^4=3\\times3\\times3\\times3$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a4d2b33use21a-h1"
         ],
-        "title": "Multiplying From Left to Right, Part 1",
+        "title": "Multiplying From Left to Right, Part $$1$$",
         "text": "The second step is to multiply from left to right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a4d2b33use21a-h2"
         ],
         "title": "First Multiplication",
         "text": "$$3\\times3=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a4d2b33use21a-h3"
         ],
-        "title": "Multiplying From Left to Right, Part 2",
+        "title": "Multiplying From Left to Right, Part $$2$$",
         "text": "Multiply from left to right again.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "27"
+            "$$27$$"
         ],
         "dependencies": [
             "a4d2b33use21a-h4"
         ],
         "title": "Second Multiplication",
         "text": "$$9\\times3=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h6",
@@ -63,9 +68,10 @@
         "dependencies": [
             "a4d2b33use21a-h5"
         ],
-        "title": "Multiplying From Left to Right, Part 3",
+        "title": "Multiplying From Left to Right, Part $$3$$",
         "text": "Finally, multiply the remaining two numbers together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use21a-h7",
@@ -73,13 +79,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "81"
+            "$$81$$"
         ],
         "dependencies": [
             "a4d2b33use21a-h6"
         ],
         "title": "Thrid Multiplication",
         "text": "$$27\\times3=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

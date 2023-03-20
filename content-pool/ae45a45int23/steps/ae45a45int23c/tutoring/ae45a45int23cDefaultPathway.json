@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplying Numbers",
         "text": "To multiply two numbers, you can multiply as if both numbers were positive, then make the final answer negative if the sign of each number is different",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int23c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "32"
+            "$$32$$"
         ],
         "dependencies": [
             "ae45a45int23c-h1"
         ],
         "title": "Multiplying Numbers",
         "text": "What is $$4\\times8$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int23c-h3",
@@ -36,6 +38,7 @@
         "title": "Multiplying Numbers",
         "text": "What is the sign of 4?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Negative",
             "Positive"
@@ -55,6 +58,7 @@
         "title": "Multiplying Numbers",
         "text": "What is the sign of -8?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Negative",
             "Positive"
@@ -68,6 +72,7 @@
         ],
         "title": "Signs",
         "text": "Since the numbers have different signs, the final answer will be negative",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

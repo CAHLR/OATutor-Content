@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Explicit Formula",
         "text": "The given formula, $$5k$$, is not exponential.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Is series geometric?",
         "text": "The series is not geometric because the terms are increasing, and so cannot yield a finite sum.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser20a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Sum of Infinite Geometric Series",
         "text": "The sum is not defined.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

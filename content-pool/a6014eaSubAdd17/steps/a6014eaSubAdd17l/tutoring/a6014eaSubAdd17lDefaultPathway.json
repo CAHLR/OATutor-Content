@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17l-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Addition",
         "text": "Add $$\\frac{3}{4}$$ to each side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17l-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17l-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd17l-h5",
@@ -61,6 +65,7 @@
         "title": "Verification",
         "text": "Check whether $$\\frac{27}{20}-\\frac{3}{4}$$ equals $$\\frac{3}{5}$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

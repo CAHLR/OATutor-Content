@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Set of Rational Numbers",
-        "text": "The set of rational numbers includes fractions written as $$\\frac{m}{n}$$ where m and n are integers, and n does not equal 0.",
-        "variabilization": {}
+        "text": "The set of rational numbers includes fractions written as $$\\frac{m}{n}$$ where $$m$$ and $$n$$ are integers, and $$n$$ does not equal $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real23c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Set of Irrational Numbers",
         "text": "The set of irrational numbers is the set of numbers that are not rational, are nonrepeating, and are nonterminating.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real23c-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Nonrepeating and Nonterminating Numbers",
         "text": "The given number is not rational, are nonrepeating, and are nonterminating, thus it must be irrational.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

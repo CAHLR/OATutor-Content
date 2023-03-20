@@ -3,9 +3,10 @@
         "id": "afb3ccdlang29a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Plugging In For x",
+        "title": "Plugging In For $$x$$",
         "text": "if $$x=3$$ in $$x^5$$, then we have $$3^5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "afb3ccdlang29a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Expression",
         "text": "$$3^5=243$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

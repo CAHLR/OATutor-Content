@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies a direct variation formula is needed. This formula is $$a=kp$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation20a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation20a-h1"
         ],
         "title": "Find values",
-        "text": "Since Terri needs 9 apples to make 2 pies, we can assign a to be 9 and p to be 2.",
-        "variabilization": {}
+        "text": "Since Terri needs $$9$$ apples to make $$2$$ pies, we can assign a to be $$9$$ and $$p$$ to be $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation20a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the direct variation equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation20a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$a=4.5p$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

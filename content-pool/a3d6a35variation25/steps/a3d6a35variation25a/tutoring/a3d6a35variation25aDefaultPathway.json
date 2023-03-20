@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use formula",
         "text": "The word problem implies an inverse variation formula. This formula is $$g=\\frac{k}{w}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation25a-h2",
@@ -14,8 +15,9 @@
             "a3d6a35variation25a-h1"
         ],
         "title": "Find values",
-        "text": "Since the car weighs 2800 pounts and gets 33 mpg, we can assign g to be 33 and w to be 2800.",
-        "variabilization": {}
+        "text": "Since the car weighs $$2800$$ pounts and gets $$33$$ mpg, we can assign g to be $$33$$ and w to be $$2800$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation25a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the inverse variation equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6a35variation25a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is $$g=\\frac{92400}{w}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding Points to Graph",
         "text": "Find three points whose coordinates are solutions to the equation. Organize them in a table.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3837e8graphline9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Plotting Points",
         "text": "Plot the points in a rectangular coordinate system. Check that the points line up. If they do not, carefully check your work.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3837e8graphline9a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Graphing the Line",
         "text": "Draw the line through the three points. Extend the line to fill the grid and put arrows on both ends of the line.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

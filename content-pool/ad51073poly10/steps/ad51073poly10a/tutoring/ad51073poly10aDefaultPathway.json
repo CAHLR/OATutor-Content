@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor Theorem",
-        "text": "The Factor Theorem states that if a polynomial function f(x) is divided by x-c, then the remainder is f(c).",
-        "variabilization": {}
+        "text": "The Factor Theorem states that if a polynomial function f(x) is divided by $$x-c$$, then the remainder is f(c).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly10a-h2",
@@ -14,8 +15,9 @@
             "ad51073poly10a-h1"
         ],
         "title": "Factor Theorem",
-        "text": "The Factor Theorem tells us that x-4 is a factor of $$f(x)=x^3-64$$ if $$f(4)=0$$.",
-        "variabilization": {}
+        "text": "The Factor Theorem tells us that $$x-4$$ is a factor of $$f(x)=x^3-64$$ if $$f(4)=0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad51073poly10a-h3",
@@ -23,11 +25,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [],
         "title": "Solve",
         "text": "What is f(4)?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

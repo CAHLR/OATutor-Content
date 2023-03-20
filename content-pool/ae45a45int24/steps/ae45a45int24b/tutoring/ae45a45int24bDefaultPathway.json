@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Exponents with Negatives",
-        "text": "When doing a problem in the form $$-\\left(x^y\\right)$$, where x and y are some numbers, this is really saying $$-\\left(x^y\\right)$$",
-        "variabilization": {}
+        "text": "When doing a problem in the form $$-\\left(x^y\\right)$$, where $$x$$ and $$y$$ are some numbers, this is really saying $$-\\left(x^y\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int24b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Turning Exponents into Multiplication",
         "text": "The best approach to this is turning this into a multiplication problem: $$-\\left(2^4\\right)$$ is equivalent to $$-\\left(2^4\\right)$$, which is equivalent to $$-\\left(2\\times2\\times2\\times2\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int24b-h3",
@@ -23,7 +25,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "ae45a45int24b-h2"
@@ -31,6 +33,7 @@
         "title": "Turning Exponents into Multiplication",
         "text": "What is $$2\\times2\\times2\\times2$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ae45a45int24b-h3-s1",
@@ -38,12 +41,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "4"
+                    "$$4$$"
                 ],
                 "dependencies": [],
                 "title": "Turning Exponents into Multiplication",
                 "text": "What is $$2\\times2$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int24b-h3-s2",
@@ -51,14 +55,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "8"
+                    "$$8$$"
                 ],
                 "dependencies": [
                     "ae45a45int24b-h3-s1"
                 ],
                 "title": "Turning Exponents into Multiplication",
                 "text": "What is $$4\\times2$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "ae45a45int24b-h3-s3",
@@ -66,14 +71,15 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "16"
+                    "$$16$$"
                 ],
                 "dependencies": [
                     "ae45a45int24b-h3-s2"
                 ],
                 "title": "Turning Exponents into Multiplication",
                 "text": "What is $$8\\times2$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -85,6 +91,7 @@
         ],
         "title": "Negative",
         "text": "Don't forget the negative in the original problem, which says that your final answer should be negative!",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

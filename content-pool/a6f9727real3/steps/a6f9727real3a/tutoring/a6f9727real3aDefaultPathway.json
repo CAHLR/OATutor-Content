@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Counting",
         "text": "The natural numbers consist of the numbers used for counting.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real3a-h2",
@@ -14,7 +15,8 @@
             "a6f9727real3a-h1"
         ],
         "title": "Counting",
-        "text": "Counting generally starts form the number 1.",
-        "variabilization": {}
+        "text": "Counting generally starts form the number $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

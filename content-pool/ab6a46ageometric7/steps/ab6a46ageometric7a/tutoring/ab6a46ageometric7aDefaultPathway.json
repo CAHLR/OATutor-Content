@@ -3,9 +3,10 @@
         "id": "ab6a46ageometric7a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Find r",
-        "text": "Since the two terms are sequential to each other, you can divide the third term by the second to find r.",
-        "variabilization": {}
+        "title": "Find $$r$$",
+        "text": "Since the two terms are sequential to each other, you can divide the third term by the second to find $$r$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageometric7a-h2",
@@ -13,22 +14,24 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "ab6a46ageometric7a-h1"
         ],
-        "title": "Find r",
-        "text": "What is r?",
+        "title": "Find $$r$$",
+        "text": "What is $$r$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ab6a46ageometric7a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 8",
-                "variabilization": {}
+                "text": "The answer is $$8$$",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -44,8 +47,9 @@
             "ab6a46ageometric7a-h2"
         ],
         "title": "Find $$a_1$$",
-        "text": "Next, find $$a_1$$ by dividing $$a_2$$ by r. What is $$a_1$$?",
+        "text": "Next, find $$a_1$$ by dividing $$a_2$$ by $$r$$. What is $$a_1$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ab6a46ageometric7a-h3-s1",
@@ -53,7 +57,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$\\frac{1}{2}$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -64,8 +69,9 @@
             "ab6a46ageometric7a-h3"
         ],
         "title": "Use recursive formula.",
-        "text": "The explicit formula for a geometric sequence is $$a_n=a_1 r^{n-1}$$. Plug in $$a_6$$ for an, $$a_1$$, r, and 6 for n. Now simplify and solve.",
-        "variabilization": {}
+        "text": "The explicit formula for a geometric sequence is $$a_n=a_1 r^{n-1}$$. Plug in $$a_6$$ for an, $$a_1$$, $$r$$, and $$6$$ for $$n$$. Now simplify and solve.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab6a46ageometric7a-h5",
@@ -73,7 +79,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16384"
+            "$$16384$$"
         ],
         "dependencies": [
             "ab6a46ageometric7a-h4"
@@ -81,14 +87,16 @@
         "title": "Simplify and solve",
         "text": "What does $$a_6$$ equal?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ab6a46ageometric7a-h5-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 16384.",
-                "variabilization": {}
+                "text": "The answer is $$16384$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -99,7 +107,8 @@
             "ab6a46ageometric7a-h5"
         ],
         "title": "Answer",
-        "text": "Therefore, the sixth term of the sequence is 16384.",
-        "variabilization": {}
+        "text": "Therefore, the sixth term of the sequence is $$16384$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

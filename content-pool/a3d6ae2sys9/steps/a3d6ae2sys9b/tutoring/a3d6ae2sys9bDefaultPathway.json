@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Substitute",
         "text": "We substitue $$x=5$$ and $$y=\\frac{4}{3}$$ into both equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys9b-h2",
@@ -14,8 +15,9 @@
             "a3d6ae2sys9b-h1"
         ],
         "title": "Substitute into First Equation",
-        "text": "$$x+3y=9$$ $$5+\\frac{3\\times4}{3}=9$$ $$9=9$$",
-        "variabilization": {}
+        "text": "$$x+3y=9$$\\n$$5+\\frac{3\\times4}{3}=9$$\\n$$9=9$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys9b-h3",
@@ -31,6 +33,7 @@
         "title": "Substitute into First Equation",
         "text": "Is the equation above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"
@@ -44,7 +47,8 @@
         ],
         "title": "Solution to First Equation",
         "text": "Therefore, $$(5,\\frac{4}{3})$$ satisfies the first equation, but it must also safisfy the second equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys9b-h5",
@@ -53,8 +57,9 @@
             "a3d6ae2sys9b-h4"
         ],
         "title": "Substitute into Second Equation",
-        "text": "$$y=\\frac{2}{3} x-2$$ $$\\frac{4}{3}=5\\frac{2}{3}-2$$ $$\\frac{4}{3}=\\frac{10}{3}-\\frac{6}{3}$$ $$\\frac{4}{3}=\\frac{4}{3}$$",
-        "variabilization": {}
+        "text": "$$y=\\frac{2}{3} x-2$$\\n$$\\frac{4}{3}=5\\frac{2}{3}-2$$\\n$$\\frac{4}{3}=\\frac{10}{3}-\\frac{6}{3}$$\\n$$\\frac{4}{3}=\\frac{4}{3}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys9b-h6",
@@ -70,6 +75,7 @@
         "title": "Substitute into Second Equation",
         "text": "Is the equation above true?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"
@@ -83,7 +89,8 @@
         ],
         "title": "Solution to Second Equation",
         "text": "Therefore, $$(5,\\frac{4}{3})$$ does satisfies the second equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3d6ae2sys9b-h8",
@@ -93,6 +100,7 @@
         ],
         "title": "Solutions of a System of Equations",
         "text": "$$(5,\\frac{4}{3})$$ does make both equations true. $$(5,\\frac{4}{3})$$ is a solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

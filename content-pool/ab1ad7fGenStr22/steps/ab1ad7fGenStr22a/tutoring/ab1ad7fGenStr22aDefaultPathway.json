@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplification",
         "text": "Simplify each side of the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Use the distributive property to simplify each side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Variable Terms",
         "text": "Collect all variable terms on the left side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h5",
@@ -54,8 +58,9 @@
             "ab1ad7fGenStr22a-h4"
         ],
         "title": "Subtraction",
-        "text": "Subtract 18n from each side.",
-        "variabilization": {}
+        "text": "Subtract $$18n$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Constant Terms",
         "text": "Collect all constant terms on the right side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h7",
@@ -79,8 +85,9 @@
             "ab1ad7fGenStr22a-h6"
         ],
         "title": "Subtraction",
-        "text": "Subtract 1.8 from each side.",
-        "variabilization": {}
+        "text": "Subtract $$1.8$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h9",
@@ -104,8 +112,9 @@
             "ab1ad7fGenStr22a-h8"
         ],
         "title": "Division",
-        "text": "Divide 18 from each side.",
-        "variabilization": {}
+        "text": "Divide $$18$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h10",
@@ -115,7 +124,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr22a-h11",
@@ -131,6 +141,7 @@
         "title": "Verification",
         "text": "Check whether $$0.36\\left(100\\times0.4+5\\right)$$ equals $$0.6\\left(30\\times0.4+15\\right)$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

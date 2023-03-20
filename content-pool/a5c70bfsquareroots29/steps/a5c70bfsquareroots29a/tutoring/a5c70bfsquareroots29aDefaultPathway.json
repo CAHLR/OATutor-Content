@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Operations with Like Radicals",
         "text": "When radicals are like, we subtract or add the coefficients depending on the operation. For example, $$4\\sqrt{3}+5\\sqrt{3}$$ $$=$$ $$\\left(4+5\\right) \\sqrt{3}$$ $$=$$ $$9\\sqrt{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c70bfsquareroots29a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Operations without Like Radicals",
         "text": "When radicals are not like, we cannot add or subtract them. We leave the expression as is.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

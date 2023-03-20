@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Commutative Property of Multiplication",
-        "text": "The commutative property of multiplication states that if a, b are real numbers, then $$a b=b a$$.",
-        "variabilization": {}
+        "text": "The commutative property of multiplication states that if a, $$b$$ are real numbers, then $$a b=b a$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Re-ordering",
         "text": "Using the commutative property of multiplication on the last two terms, we can reorder the expression as $$\\frac{3}{20} \\frac{20}{3} \\frac{49}{11}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties4a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ac3d94dProperties4a-h2"
         ],
         "title": "Multiplication",
         "text": "What is $$\\frac{3}{20} \\frac{20}{3}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties4a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Multiplication",
         "text": "Since $$\\frac{3}{20}$$ and $$\\frac{20}{3}$$ are reciprocal of each other, and a number and its reciprocal multiply to one, $$\\frac{3}{20} \\frac{20}{3}=1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties4a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Multiplication",
         "text": "The expression turns into $$1\\frac{49}{11}$$. What is this value?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

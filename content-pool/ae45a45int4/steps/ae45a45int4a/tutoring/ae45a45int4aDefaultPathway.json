@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle of Signs",
         "text": "Think of the negative sign as subtracting from the positive value",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae45a45int4a-h2",
@@ -14,7 +15,8 @@
             "ae45a45int4a-h1"
         ],
         "title": "Conversion",
-        "text": "Convert the expression to 34-19",
-        "variabilization": {}
+        "text": "Convert the expression to $$34-19$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

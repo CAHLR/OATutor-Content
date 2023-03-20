@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Number Line",
-        "text": "The problem can be solved by drawing a number line of length 75 and separating it into 18 equal parts.",
-        "variabilization": {}
+        "text": "The problem can be solved by drawing a number line of length $$75$$ and separating it into $$18$$ equal parts.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real2b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Fraction",
         "text": "The separation of the number line can be represented as a fraction or a decimal.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real2b-h3",
@@ -24,7 +26,8 @@
             "a6f9727real2b-h2"
         ],
         "title": "Simplify",
-        "text": "The process can be made easier by noticing both the length of the ribbon and the number of students are divisible by 6",
-        "variabilization": {}
+        "text": "The process can be made easier by noticing both the length of the ribbon and the number of students are divisible by $$6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

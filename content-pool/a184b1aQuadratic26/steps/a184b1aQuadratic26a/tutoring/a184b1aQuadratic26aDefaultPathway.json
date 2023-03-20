@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "The quadratic formula is in the form of $$\\frac{\\left(-b+\\sqrt{b^2-4ac}\\right)}{2} a$$ and $$\\frac{\\left(-b-\\sqrt{b^2-4ac}\\right)}{2} a$$. Determine the value of a, b, and c.",
-        "variabilization": {}
+        "text": "The quadratic formula is in the form of $$\\frac{\\left(-b+\\sqrt{b^2-4ac}\\right)}{2} a$$ and $$\\frac{\\left(-b-\\sqrt{b^2-4ac}\\right)}{2} a$$. Determine the value of a, $$b$$, and c.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a184b1aQuadratic26a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Using the Quadratic Formula",
         "text": "Plug the values into quadratic formula. A polynomial will typically be into the form of $$a x^2+b x+c=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a184b1aQuadratic26a-h3",
@@ -26,7 +28,8 @@
         "dependencies": [],
         "title": "Substitute into the + version",
         "text": "What is $$\\frac{\\left(-b+\\sqrt{b^2-4a c}\\right)}{2a}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a184b1aQuadratic26a-h4",
@@ -39,6 +42,7 @@
         "dependencies": [],
         "title": "Substitute into the - version",
         "text": "What is $$\\frac{\\left(-b-\\sqrt{b^2-4a c}\\right)}{2a}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

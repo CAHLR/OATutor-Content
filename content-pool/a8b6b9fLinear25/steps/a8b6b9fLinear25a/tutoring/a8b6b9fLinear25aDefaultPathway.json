@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "Rewrite the equation into the form $$d=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h2",
@@ -13,7 +14,8 @@
         "dependencies": [],
         "title": "Distributive Property I",
         "text": "Use the distributive property to multiply $$9\\left(14d+9\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h3",
@@ -28,7 +30,8 @@
         ],
         "title": "Multiplication",
         "text": "What is $$9\\left(14d+9\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h4",
@@ -36,7 +39,8 @@
         "dependencies": [],
         "title": "Distributive Property II",
         "text": "Use the distributive property to multiple $$\\operatorname{13}\\left(10d+6\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h5",
@@ -51,7 +55,8 @@
         ],
         "title": "Multiplication",
         "text": "What is $$\\operatorname{13}\\left(10d+6\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h6",
@@ -59,7 +64,8 @@
         "dependencies": [],
         "title": "Simplify",
         "text": "Once you get the equation $$126d+81+4d=130d+78+3$$, simplify each side as much possible",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h7",
@@ -74,7 +80,8 @@
         ],
         "title": "Addition",
         "text": "Simplify $$126d+81+4d$$ as much as possible",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h8",
@@ -89,7 +96,8 @@
         ],
         "title": "Addition",
         "text": "Simplify $$130d+78+3$$ as much as possible",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8b6b9fLinear25a-h9",
@@ -97,6 +105,7 @@
         "dependencies": [],
         "title": "Classifying the Equation",
         "text": "Determine if the equation contradicts itself, or only valid under certain condition",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

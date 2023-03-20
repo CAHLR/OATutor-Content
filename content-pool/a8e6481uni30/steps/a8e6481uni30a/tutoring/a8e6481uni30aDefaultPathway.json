@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Read the problem.",
         "text": "Make sure all the words and ideas are understood. Draw a diagram to illustrate what is happening.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni30a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Translate into an equation",
         "text": "$$30r=20\\left(1.5+r\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni30a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Solve the equation.",
         "text": "$$30r=30+20r$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

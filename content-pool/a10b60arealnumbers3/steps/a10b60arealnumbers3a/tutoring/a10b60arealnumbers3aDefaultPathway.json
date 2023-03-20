@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Account for the Negative",
         "text": "When raising a negative number to an exponent, the sign (positive or negative) of your answer will change every time you increment or decrement the exponent",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a10b60arealnumbers3a-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-125"
+            "$$-125$$"
         ],
         "dependencies": [
             "a10b60arealnumbers3a-h1"
         ],
         "title": "Solving For an Expression With an Exponent",
         "text": "What is $${\\left(-5\\right)}^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

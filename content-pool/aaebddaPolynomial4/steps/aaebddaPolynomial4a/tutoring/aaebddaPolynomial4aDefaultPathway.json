@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "The addition and subtraction can only happen in the term with same degree",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial4a-h2",
@@ -18,7 +19,8 @@
         "dependencies": [],
         "title": "Organizing",
         "text": "What is the common term in this polynomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaebddaPolynomial4a-h3",
@@ -26,11 +28,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "21"
+            "$$21$$"
         ],
         "dependencies": [],
         "title": "Addition",
         "text": "What is $$12+9$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

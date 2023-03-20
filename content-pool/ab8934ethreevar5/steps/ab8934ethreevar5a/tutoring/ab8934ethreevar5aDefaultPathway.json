@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Plugging in solution into the equations",
         "text": "The first step is to plug the given point into the equations. If the equality that results is true for all the equations, then the point is the solution to the system.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar5a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "ab8934ethreevar5a-h1"
         ],
         "title": "Evaluating the equation",
         "text": "What is $$6\\left(4\\right)-7\\left(2\\right)+\\left(-6\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar5a-h3",
@@ -36,6 +38,7 @@
         "title": "Determining the equality",
         "text": "Does $$4=6$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

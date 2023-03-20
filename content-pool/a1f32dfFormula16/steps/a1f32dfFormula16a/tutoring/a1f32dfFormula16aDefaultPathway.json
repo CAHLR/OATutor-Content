@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Since we know $$d=350$$ and $$r=70$$, we can substitute 350 for d and 70 for r into the equation, which gives us $$350=70t$$.",
-        "variabilization": {}
+        "text": "Since we know $$d=350$$ and $$r=70$$, we can substitute $$350$$ for $$d$$ and $$70$$ for $$r$$ into the equation, which gives us $$350=70t$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula16a-h2",
@@ -14,7 +15,8 @@
             "a1f32dfFormula16a-h1"
         ],
         "title": "Isolate",
-        "text": "To isolate t, we can divide both sides by 70.",
-        "variabilization": {}
+        "text": "To isolate $$t$$, we can divide both sides by $$70$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

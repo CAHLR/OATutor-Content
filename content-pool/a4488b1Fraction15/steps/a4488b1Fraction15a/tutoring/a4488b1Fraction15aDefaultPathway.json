@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Find the least common denominators in numerator and denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a4488b1Fraction15a-h1"
         ],
         "title": "Calculation",
         "text": "What is the LCD in numerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12"
+            "$$12$$"
         ],
         "dependencies": [
             "a4488b1Fraction15a-h2"
         ],
         "title": "Calculation",
         "text": "What is the LCD in denomerator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Multiplication",
         "text": "Multiply the LCD, the fraction becomes $$\\frac{\\frac{4}{6}-\\frac{3}{6}}{\\frac{3}{12}+\\frac{4}{12}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Calculation",
         "text": "Calculate the value of numerator and denomerator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Calculation",
         "text": "The fraction becomes $$\\frac{\\frac{1}{6}}{\\frac{7}{12}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Principle",
         "text": "Convert the division to multiplying the reciprocal of the second term: $$\\frac{1}{6} \\frac{12}{7}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1Fraction15a-h8",
@@ -85,6 +92,7 @@
         ],
         "title": "Factor",
         "text": "Factor the common factor in numerator and denominator",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

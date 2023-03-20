@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplify Expression",
         "text": "Simplify the numerator and denominator by finding a common denominator and multiplying each fraction by the denominator over the denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim6a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Rewriting",
         "text": "Rewrite as the product of the first times the reciprocal of the second.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim6a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Rewriting",
         "text": "We can then remove common factors after we multiply.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1c9712Sim6a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Common Factors",
         "text": "When we simplify, what is our answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

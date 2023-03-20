@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Using Substitution",
         "text": "Substitute $$x=2$$ into f(x). What is the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential17a-h2",
@@ -25,7 +26,8 @@
         ],
         "title": "Using Simplification",
         "text": "Simplify the power, $$3^{\\left(-2\\right)}$$. Leave the answer as a fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential17a-h3",
@@ -40,7 +42,8 @@
         ],
         "title": "Using Multiplication",
         "text": "Multiply the terms in the expression, $$\\left(-\\frac{3}{2}\\right) \\frac{1}{9}$$. Leave the answer as a fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae3c1a1exponential17a-h4",
@@ -48,13 +51,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1.3333"
+            "$$1.3333$$"
         ],
         "dependencies": [
             "ae3c1a1exponential17a-h3"
         ],
         "title": "Using Addition",
         "text": "Add all the terms together, $$\\frac{-1}{6}+\\frac{3}{2}$$. Evaluate this value numerically. Round to four decimal places, if necessary.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanding the Expression",
         "text": "The first step is to expand the expression. $$7^2=7\\times7$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use30a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a4d2b33use30a-h1"
         ],
-        "title": "Multiplying From Left to Right, Part 1",
+        "title": "Multiplying From Left to Right, Part $$1$$",
         "text": "The second step is to multiply from left to right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use30a-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a4d2b33use30a-h2"
         ],
         "title": "Multiplication",
         "text": "$$7\\times7=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

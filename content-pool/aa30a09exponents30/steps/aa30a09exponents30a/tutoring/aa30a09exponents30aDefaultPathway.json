@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Move decimal point",
-        "text": "Move decimal point so that the first factor is greater or equal to 1 but less than 10. You should have 1.290000",
-        "variabilization": {}
+        "text": "Move decimal point so that the first factor is greater or equal to $$1$$ but less than $$10$$. You should have $$1.290000$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents30a-h2",
@@ -14,8 +15,9 @@
             "aa30a09exponents30a-h1"
         ],
         "title": "Count the number of decimal places",
-        "text": "Count the number of decimal places, n, that the decimal point was moved.",
-        "variabilization": {}
+        "text": "Count the number of decimal places, $$n$$, that the decimal point was moved.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents30a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "aa30a09exponents30a-h2"
         ],
         "title": "How many decimal places was the decimal point moved?",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents30a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "aa30a09exponents30a-h3"
         ],
-        "title": "Write the number as a product with a power of 10.",
-        "text": "The power of 10 will have exponent 6",
-        "variabilization": {}
+        "title": "Write the number as a product with a power of $$10$$.",
+        "text": "The power of $$10$$ will have exponent $$6$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents30a-h5",
@@ -49,7 +53,8 @@
             "aa30a09exponents30a-h4"
         ],
         "title": "Combine",
-        "text": "Combine both 1.29 and $${10}^6$$ together",
-        "variabilization": {}
+        "text": "Combine both $$1.29$$ and $${10}^6$$ together",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

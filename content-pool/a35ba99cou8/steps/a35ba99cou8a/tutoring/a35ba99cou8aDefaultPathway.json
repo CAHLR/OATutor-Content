@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add the Number of Options",
         "text": "We can add the number of desktop options to the number of laptop options to find the total number of options.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou8a-h2",
@@ -14,8 +15,9 @@
             "a35ba99cou8a-h1"
         ],
         "title": "Number of Desktops",
-        "text": "There are 3 desktop computers.",
-        "variabilization": {}
+        "text": "There are $$3$$ desktop computers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou8a-h3",
@@ -24,8 +26,9 @@
             "a35ba99cou8a-h2"
         ],
         "title": "Number of Laptops",
-        "text": "There are 4 laptop computers.",
-        "variabilization": {}
+        "text": "There are $$4$$ laptop computers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou8a-h4",
@@ -34,8 +37,9 @@
             "a35ba99cou8a-h3"
         ],
         "title": "Add the Number of Options",
-        "text": "# of desktops options+# of laptop options $$3+4=7$$",
-        "variabilization": {}
+        "text": "# of desktops options+# of laptop options\\n$$3+4=7$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou8a-h5",
@@ -44,7 +48,8 @@
             "a35ba99cou8a-h4"
         ],
         "title": "Total Ways",
-        "text": "There are 7 computer options.",
-        "variabilization": {}
+        "text": "There are $$7$$ computer options.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

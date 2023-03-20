@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Exponent",
         "text": "The first step is to simplify any exponents.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17b-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a6f9727real17b-h1"
         ],
         "title": "Exponent",
         "text": "What is $$5^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17b-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Division",
         "text": "The next step is to simplify multiplication and division.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17b-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a6f9727real17b-h3"
         ],
         "title": "Division",
         "text": "What is $$\\frac{25}{25}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17b-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Subtraction",
         "text": "The final step is to simplify addition and subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real17b-h6",
@@ -63,13 +68,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-6"
+            "$$-6$$"
         ],
         "dependencies": [
             "a6f9727real17b-h5"
         ],
         "title": "Subtraction",
-        "text": "What is 1-7?",
-        "variabilization": {}
+        "text": "What is $$1-7$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

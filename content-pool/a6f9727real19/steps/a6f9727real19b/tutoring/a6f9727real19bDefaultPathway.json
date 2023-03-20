@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Individual Terms",
         "text": "Start by simplifying each individual term first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real19b-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiplication",
         "text": "$$4b(3)=3\\times4 b=12b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real19b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Combining Like Terms",
         "text": "$$8b-12b=-4b$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

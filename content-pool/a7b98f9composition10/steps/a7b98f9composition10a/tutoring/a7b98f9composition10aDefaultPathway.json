@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Looking for an Inner Function",
         "text": "The first step is to look for a function inside a function in the formula for f(x).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Inner Function",
         "text": "The function contains the expression $$\\sqrt[3]{x}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition10a-h3",
@@ -24,8 +26,9 @@
             "a7b98f9composition10a-h2"
         ],
         "title": "Outer Function",
-        "text": "4 is added to $$\\sqrt[3]{x}$$.",
-        "variabilization": {}
+        "text": "$$4$$ is added to $$\\sqrt[3]{x}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7b98f9composition10a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "$$g(x)=\\sqrt[3]{x}$$, $$f(x)=4+x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

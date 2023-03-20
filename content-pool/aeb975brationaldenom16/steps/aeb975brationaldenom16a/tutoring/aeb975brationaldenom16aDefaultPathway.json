@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Creating a Common Denominator",
-        "text": "We must first find the least common denominator (LCD). The LCD of 12 and 18 is 36.",
-        "variabilization": {}
+        "text": "We must first find the least common denominator (LCD). The LCD of $$12$$ and $$18$$ is $$36$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom16a-h2",
@@ -14,8 +15,9 @@
             "aeb975brationaldenom16a-h1"
         ],
         "title": "Rewriting Each Fraction",
-        "text": "With the LCD of 36, we can rewrite the numerators. We have $$\\frac{21}{36}$$ + $$\\frac{10}{36}$$.",
-        "variabilization": {}
+        "text": "With the LCD of $$36$$, we can rewrite the numerators. We have $$\\frac{21}{36}$$ + $$\\frac{10}{36}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom16a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Adding the Fractions",
         "text": "We can now add these fractions to get $$\\frac{31}{36}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

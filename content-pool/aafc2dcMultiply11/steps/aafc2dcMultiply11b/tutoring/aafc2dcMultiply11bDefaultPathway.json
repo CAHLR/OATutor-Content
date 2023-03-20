@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Translating into math expression",
-        "text": "Remember, \"subtract b from a\" means a-b. So the phrase translates to -19-24.",
-        "variabilization": {}
+        "text": "Remember, \"subtract $$b$$ from a\" means $$a-b$$. So the phrase translates to $$-19-24$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply11b-h2",
@@ -13,13 +14,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-43"
+            "$$-43$$"
         ],
         "dependencies": [
             "aafc2dcMultiply11b-h1"
         ],
         "title": "Simplify",
-        "text": "What is -19-24?",
-        "variabilization": {}
+        "text": "What is $$-19-24$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Factoring the Argument Completely",
         "text": "$$\\ln(ab)$$ is equivalent to $$\\ln(a)+\\ln(b)$$ by product rule.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

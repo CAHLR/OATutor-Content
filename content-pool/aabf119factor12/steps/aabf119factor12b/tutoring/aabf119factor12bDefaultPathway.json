@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "GCF",
         "text": "Factor out the GCF $$\\frac{{\\left(5a-4\\right)}^{-1}}{4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aabf119factor12b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the term other than the GCF",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

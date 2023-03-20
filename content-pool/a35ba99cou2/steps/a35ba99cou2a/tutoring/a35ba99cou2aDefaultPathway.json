@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Add the Number of Options",
         "text": "We can add the number of vegetarian options to the number of meat options to find the total number of entr\u00e9e options.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Add the Number of Options",
         "text": "\\n##figure1.gif##",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35ba99cou2a-h3",
@@ -24,7 +26,8 @@
             "a35ba99cou2a-h2"
         ],
         "title": "Total Options",
-        "text": "There are 7 total options.",
-        "variabilization": {}
+        "text": "There are $$7$$ total options.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

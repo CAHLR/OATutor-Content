@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to solve $$\\log_{3}\\left(4x+3\\right)=3$$. Rewrite this expression first into exponential form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af4e405log20a-h2",
@@ -21,6 +22,7 @@
         "title": "Determing the Exponential Form",
         "text": "What is the exponential form of $$\\log_{3}\\left(4x+3\\right)=3$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3^3=4x+3$$",
             "$$3^{4x+3}=3$$",
@@ -39,8 +41,9 @@
             "af4e405log20a-h2"
         ],
         "title": "Simplify the Expression",
-        "text": "Simplify the expression so all the terms with x are on one side and all the constant (non-x) terms are on the other.",
+        "text": "Simplify the expression so all the terms with $$x$$ are on one side and all the constant $$(non-x)$$ terms are on the other.",
         "variabilization": {},
+        "oer": "",
         "choices": [
             "$$4x=24$$",
             "$$4x=27$$",
@@ -54,12 +57,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "27"
+                    "$$27$$"
                 ],
                 "dependencies": [],
                 "title": "Determine $$3^3$$",
                 "text": "What is $$3^3$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "af4e405log20a-h3-s2",
@@ -67,12 +71,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "24"
+                    "$$24$$"
                 ],
                 "dependencies": [],
-                "title": "Determine 27-3",
-                "text": "What is 27-3?",
-                "variabilization": {}
+                "title": "Determine $$27-3$$",
+                "text": "What is $$27-3$$?",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -82,13 +87,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "af4e405log20a-h3"
         ],
-        "title": "Solve for x",
-        "text": "What is the value of x in $$4x=24$$?",
-        "variabilization": {}
+        "title": "Solve for $$x$$",
+        "text": "What is the value of $$x$$ in $$4x=24$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

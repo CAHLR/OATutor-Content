@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "The uphillbiking speed is 0.6 times the biking speed on a flat street.",
-        "variabilization": {}
+        "text": "The uphillbiking speed is $$0.6$$ times the biking speed on a flat street.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni15b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "The Answer",
         "text": "The uphill biking speed of Phuong is $$20\\times0.6=12$$ mph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

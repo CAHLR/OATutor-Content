@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Set $$f(x)=0$$",
-        "text": "To find the x-intercept, let $$f(x)=0$$ and and solve for x.",
-        "variabilization": {}
+        "text": "To find the x-intercept, let $$f(x)=0$$ and and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad220b3GraphQuadratic19a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solve For The Parabola",
         "text": "Given $$a x^2+bx+c=0$$. We can use quadratic formula to get $$x=\\frac{\\left(-b\\pm \\sqrt{b^2-4ac}\\right)}{2} a$$. In the given parabola, $$a=4$$, $$b=4$$ and $$c=1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad220b3GraphQuadratic19a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Solve For The Parabola",
         "text": "Through apply the quadratic formula, we get the solution for $$f(x)=4x^2+4x+1=0$$ is $$x=-0.5$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad220b3GraphQuadratic19a-h4",
@@ -34,7 +37,8 @@
             "ad220b3GraphQuadratic19a-h3"
         ],
         "title": "Put The Answer Into (x,y)",
-        "text": "We know that $$y=0$$ in x-intercepts and we get $$x=-0.5$$ through the calculations above. Put together, we get one x-intercept (-0.5,0).",
-        "variabilization": {}
+        "text": "We know that $$y=0$$ in x-intercepts and we get $$x=-0.5$$ through the calculations above. Put together, we get one x-intercept $$(-0.5, 0)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

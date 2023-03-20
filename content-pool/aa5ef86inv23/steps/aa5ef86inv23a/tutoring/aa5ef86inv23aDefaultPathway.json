@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Inverse Matrix",
         "text": "We must find the inverse of the matrix $$\\begin{bmatrix} \\frac{-8}{5} & \\frac{-4}{5} \\\\ \\frac{-8}{5} & \\frac{1}{5} \\end{bmatrix}$$, which is $$\\begin{bmatrix} \\frac{-1}{8} & \\frac{-1}{2} \\\\ -1 & 1 \\end{bmatrix}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa5ef86inv23a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Multiplying the constant matrix and the coefficient matrix.",
         "text": "Now, we can multiply $$\\begin{bmatrix} \\frac{2}{5} \\\\ \\frac{7}{10} \\end{bmatrix}$$ by $$\\begin{bmatrix} \\frac{-1}{8} & \\frac{-1}{2} \\\\ -1 & 1 \\end{bmatrix}$$, giving us $$\\begin{bmatrix} \\frac{-2}{3} \\\\ \\frac{-11}{6} \\end{bmatrix}$$. Our answer is $$(\\frac{-2}{3},\\frac{-11}{6})$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

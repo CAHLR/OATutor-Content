@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use a Variable",
-        "text": "Let the first number be x. Write the second number in relation to the first.",
-        "variabilization": {}
+        "text": "Let the first number be $$x$$. Write the second number in relation to the first.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "The Second Number",
         "text": "The second number can be written as $$x+5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve21a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Setting up an Equation",
         "text": "The sum of the two numbers can be written as $$x+x+5$$, or $$2x+5$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve21a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "The Equation",
         "text": "The equation can be set up as $$2x+5=21$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve21a-h5",
@@ -44,7 +48,8 @@
             "a01e792probsolve21a-h4"
         ],
         "title": "Answer",
-        "text": "The two numbers are 8 and 13.",
-        "variabilization": {}
+        "text": "The two numbers are $$8$$ and $$13$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

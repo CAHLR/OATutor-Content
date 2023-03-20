@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewrite",
-        "text": "Let's try to rewrite this in equation form. We can make our variable x where x $$=$$ the number of days",
-        "variabilization": {}
+        "text": "Let's try to rewrite this in equation form. We can make our variable $$x$$ where $$x$$ $$=$$ the number of days",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear20c-h2",
@@ -14,8 +15,9 @@
             "a833c22linear20c-h1"
         ],
         "title": "Rewrite",
-        "text": "We can rewrite it to be f(x) $$=$$ 50 because the number of days does not affect the price",
-        "variabilization": {}
+        "text": "We can rewrite it to be f(x) $$=$$ $$50$$ because the number of days does not affect the price",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear20c-h3",
@@ -31,6 +33,7 @@
         "title": "Checking for if function is increasing, decreasing, or constant.",
         "text": "To see if our function is increasing, decreasing, or constant, we have to check the slope. Is the slope positive, constant, or negative?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "positive",
             "constant",
@@ -44,7 +47,8 @@
             "a833c22linear20c-h3"
         ],
         "title": "Checking for if function is increasing, decreasing, or constant.",
-        "text": "We see that our slope is 0, which means our function is constant.",
-        "variabilization": {}
+        "text": "We see that our slope is $$0$$, which means our function is constant.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

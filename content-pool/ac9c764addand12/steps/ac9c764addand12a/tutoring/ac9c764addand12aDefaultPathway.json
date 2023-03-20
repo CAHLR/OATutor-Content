@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute $$\\frac{-2}{3}$$ for y in the expression.",
-        "variabilization": {}
+        "text": "Substitute $$\\frac{-2}{3}$$ for $$y$$ in the expression.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitute",
         "text": "We get $$\\frac{-5}{6}+\\frac{2}{3}$$ after the substitution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "LCD",
         "text": "We then need to rewrite each fraction with the least common denominator because they don't have a common denominator to start with.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "ac9c764addand12a-h3"
         ],
         "title": "LCD",
-        "text": "What is the LCD of 3 and 6?",
-        "variabilization": {}
+        "text": "What is the LCD of $$3$$ and 6?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h5",
@@ -49,8 +53,9 @@
             "ac9c764addand12a-h4"
         ],
         "title": "Rewrite",
-        "text": "We then need to change into equivalent fractions with the LCD, 6.",
-        "variabilization": {}
+        "text": "We then need to change into equivalent fractions with the LCD, $$6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Rewrite",
         "text": "What should $$\\frac{-5}{6}$$ be changed into with the LCD, 6?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h7",
@@ -80,7 +86,8 @@
         ],
         "title": "Rewrite",
         "text": "What should $$\\frac{2}{3}$$ be changed into with the LCD, 6?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Add",
         "text": "Finally, we need to add the two fractions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac9c764addand12a-h9",
@@ -105,6 +113,7 @@
         ],
         "title": "Add",
         "text": "What do we get after the addition?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Equation/Substitute",
-        "text": "The equation for calculuating the rate of change is $$\\frac{j\\left(x_1\\right)-j\\left(x_2\\right)}{x_1-x_2}$$. So to find the answer, we can start by plugging in $$1+h$$ for $$x_1$$ and 1 for $$x_2$$, and we get the expression $$\\frac{{3\\left(1+h\\right)}^3-3\\times1^3}{1+h-1}$$.",
-        "variabilization": {}
+        "text": "The equation for calculuating the rate of change is $$\\frac{j\\left(x_1\\right)-j\\left(x_2\\right)}{x_1-x_2}$$. So to find the answer, we can start by plugging in $$1+h$$ for $$x_1$$ and $$1$$ for $$x_2$$, and we get the expression $$\\frac{{3\\left(1+h\\right)}^3-3\\times1^3}{1+h-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa97d5brate7a-h2",
@@ -21,6 +22,7 @@
         "title": "Simplify",
         "text": "Simplify the expression $$\\frac{{3\\left(1+h\\right)}^3-3\\times1^3}{1+h-1}$$. What do you get?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "aa97d5brate7a-h2-s1",
@@ -33,7 +35,8 @@
                 "dependencies": [],
                 "title": "Simplify",
                 "text": "What is $${\\left(1+h\\right)}^3$$?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

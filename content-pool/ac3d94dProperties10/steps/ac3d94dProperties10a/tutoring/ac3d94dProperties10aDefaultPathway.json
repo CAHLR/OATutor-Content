@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication by zero",
         "text": "Recall that for any real number a, $$0a=0$$, $$0a=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac3d94dProperties10a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, $$0\\left(-3.14\\right)=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

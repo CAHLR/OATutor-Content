@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication Rule",
         "text": "With signs that are the same, the product is positive.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply30a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "aafc2dcMultiply30a-h1"
         ],
         "title": "Multiply",
         "text": "What do we get for $$-3\\left(-5\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply30a-h3",
@@ -28,13 +30,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "90"
+            "$$90$$"
         ],
         "dependencies": [
             "aafc2dcMultiply30a-h2"
         ],
         "title": "Multiply",
         "text": "What do we get for $$15\\times6$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

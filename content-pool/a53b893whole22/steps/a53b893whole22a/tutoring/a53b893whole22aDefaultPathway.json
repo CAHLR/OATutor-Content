@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Focusing on the Digits",
-        "text": "Let's start by ignoring the place values larger than the one with 7. Focus on 7,218.",
-        "variabilization": {}
+        "text": "Let's start by ignoring the place values larger than the one with $$7$$. Focus on 7,218.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting the Number",
         "text": "7,218 can be rewritten as 7,000+200+10+8.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22a-h3",
@@ -24,8 +26,9 @@
             "a53b893whole22a-h2"
         ],
         "title": "Rewriting the Number",
-        "text": "This is the same thing as 7 $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
-        "variabilization": {}
+        "text": "This is the same thing as $$7$$ $$thousands+2$$ $$hundred+1$$ $$ten+8$$ ones.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a53b893whole22a-h4",
@@ -34,7 +37,8 @@
             "a53b893whole22a-h3"
         ],
         "title": "Thinking",
-        "text": "7 is in the thousands place.",
-        "variabilization": {}
+        "text": "$$7$$ is in the thousands place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3x"
+            "$$3x$$"
         ],
         "dependencies": [],
         "title": "Square Root",
         "text": "What is the square root of $$9x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses11a-s1",
@@ -18,12 +19,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [],
         "title": "Square Root",
         "text": "What is the square root of 25?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses11a-h2",
@@ -31,7 +33,8 @@
         "dependencies": [],
         "title": "Difference of Squares",
         "text": "Remember: The Difference of Squares formula is $$\\left(a-b\\right) \\left(a+b\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8ffef9inverses11a-h3",
@@ -40,7 +43,8 @@
             "a8ffef9inverses11a-h2"
         ],
         "title": "Variable Values",
-        "text": "The value of a is 3x and the value of b is 5",
-        "variabilization": {}
+        "text": "The value of a is $$3x$$ and the value of $$b$$ is $$5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

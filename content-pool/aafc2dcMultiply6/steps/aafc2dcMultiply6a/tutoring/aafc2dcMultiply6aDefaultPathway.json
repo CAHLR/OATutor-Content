@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Exponent",
         "text": "By the order of operation, we calculate the exponents in the expression first.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "aafc2dcMultiply6a-h1"
         ],
         "title": "Exponent",
         "text": "What is $${\\left(-2\\right)}^3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Exponent",
         "text": "To calculate $${\\left(-2\\right)}^3$$, we can write it out as $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$. We simplify it as $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right)=4\\left(-2\\right)=-8$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h4",
@@ -39,8 +42,9 @@
             "aafc2dcMultiply6a-h3"
         ],
         "title": "Multiply",
-        "text": "Substituting -8 back for $${\\left(-2\\right)}^3$$, we get the expression $$\\frac{8\\left(-9\\right)}{\\left(-8\\right)}$$. We proceed by multiplying.",
-        "variabilization": {}
+        "text": "Substituting $$-8$$ back for $${\\left(-2\\right)}^3$$, we get the expression $$\\frac{8\\left(-9\\right)}{\\left(-8\\right)}$$. We proceed by multiplying.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-72"
+            "$$-72$$"
         ],
         "dependencies": [
             "aafc2dcMultiply6a-h4"
         ],
         "title": "Multiply",
         "text": "What is $$8\\left(-9\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h6",
@@ -64,8 +69,9 @@
             "aafc2dcMultiply6a-h5"
         ],
         "title": "Divide",
-        "text": "Substituting -72 back for $$8\\left(-9\\right)$$, we get the expression $$\\frac{-72}{\\left(-8\\right)}$$. We proceed by dividing.",
-        "variabilization": {}
+        "text": "Substituting $$-72$$ back for $$8\\left(-9\\right)$$, we get the expression $$\\frac{-72}{\\left(-8\\right)}$$. We proceed by dividing.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply6a-h7",
@@ -73,13 +79,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "aafc2dcMultiply6a-h6"
         ],
         "title": "Divide",
         "text": "What is $$\\frac{-72}{\\left(-8\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Common Denominator",
         "text": "The fractions have a common denominator, so add the numerators and place the sum over the common denominator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab62b81rational18a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the Numerator",
         "text": "The numerator can be factored to produce $$6v \\left(v+5\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab62b81rational18a-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Simplifying Fraction",
         "text": "After replacing the factored parts, what is the simplified form of the fraction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

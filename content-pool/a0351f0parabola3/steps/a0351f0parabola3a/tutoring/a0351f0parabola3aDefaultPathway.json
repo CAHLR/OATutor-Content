@@ -5,20 +5,22 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [],
-        "title": "Find p",
-        "text": "Find p by using the form $$y^2=4px$$. Solve for p. What is it?",
+        "title": "Find $$p$$",
+        "text": "Find $$p$$ by using the form $$y^2=4px$$. Solve for $$p$$. What is it?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a0351f0parabola3a-h1-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is 6.",
-                "variabilization": {}
+                "text": "The answer is $$6$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -28,7 +30,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(6,0)"
+            "$$(6,0)$$"
         ],
         "dependencies": [
             "a0351f0parabola3a-h1"
@@ -36,10 +38,11 @@
         "title": "Use (p,0)",
         "text": "The coordinates of the focuse are (p,0). Use this to find the focus.",
         "variabilization": {},
+        "oer": "",
         "choices": [
-            "(6,0)",
-            "(5,0)",
-            "(4,0)"
+            "$$(6,0)$$",
+            "$$(5,0)$$",
+            "$$(4,0)$$"
         ],
         "subHints": [
             {
@@ -47,8 +50,9 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Answer",
-                "text": "The answer is (6,0).",
-                "variabilization": {}
+                "text": "The answer is $$(6,0)$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -59,7 +63,8 @@
             "a0351f0parabola3a-h2"
         ],
         "title": "Answer",
-        "text": "Therefore, the answer is (6,0).",
-        "variabilization": {}
+        "text": "Therefore, the answer is $$(6,0)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

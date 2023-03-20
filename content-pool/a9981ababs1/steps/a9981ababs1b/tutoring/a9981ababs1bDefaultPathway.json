@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Substitute 0 for x.",
-        "variabilization": {}
+        "text": "Substitute $$0$$ for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9981ababs1b-h2",
@@ -21,6 +22,7 @@
         "title": "Substitute",
         "text": "What do we get after the substitution?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$f(x)=4\\times13+4$$",
             "$$f(x)=4\\left(-3\\right)+4$$",
@@ -33,13 +35,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a9981ababs1b-h2"
         ],
         "title": "Solve the Equation",
-        "text": "What do we get for y after solving the above equation?",
-        "variabilization": {}
+        "text": "What do we get for $$y$$ after solving the above equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

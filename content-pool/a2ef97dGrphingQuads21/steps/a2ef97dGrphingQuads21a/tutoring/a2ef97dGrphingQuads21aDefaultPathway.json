@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Locate \"a\"",
         "text": "The quadratic is in the form $${ax}^2+bx+c$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Use \"a\"",
         "text": "If a is negative, the parabola will open downwards. If it is positive, the parabola will open upwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads21a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Answer",
         "text": "The parabola opens up.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

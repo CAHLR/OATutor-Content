@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Mutually Exclusive Events",
         "text": "The events \u201cdrawing a heart\u201d and \u201cdrawing a spade\u201d are mutually exclusive because they cannot occur at the same time.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability5a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Drawing a Heart",
         "text": "The probability of drawing a heart is $$\\frac{1}{4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability5a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Drawing a Spade",
         "text": "the probability of drawing a spade is also $$\\frac{1}{4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability5a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Addition",
         "text": "Add the probability of drawing a heart with the probability of drawing a spade.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

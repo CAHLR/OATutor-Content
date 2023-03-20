@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Like Terms",
-        "text": "Notice that the first and last terms are opposites of each other meaning they add to equal 0.",
-        "variabilization": {}
+        "text": "Notice that the first and last terms are opposites of each other meaning they add to equal $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b48f4RealNums8a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Identifying Like Terms",
         "text": "What is $$0+\\left(-48a\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

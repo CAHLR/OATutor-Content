@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Product to a Power",
         "text": "Use the definition of product to power, $${ab}^m=a^m b^m$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents26a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify $$2^2 p^{-10}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents26a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Properties of Negative Exponents",
         "text": "Use the definition of negative exponent, $$a^{\\left(-n\\right)}=\\frac{1}{a^n}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

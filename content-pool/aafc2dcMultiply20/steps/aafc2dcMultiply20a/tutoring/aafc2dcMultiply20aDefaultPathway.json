@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Expanded Form",
         "text": "We need to first write the expression in expanded form $$\\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right) \\left(-2\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply20a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "aafc2dcMultiply20a-h1"
         ],
         "title": "Multiply",
         "text": "What do we get for $$\\left(-2\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply20a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "aafc2dcMultiply20a-h2"
         ],
         "title": "Multiply",
         "text": "What do we get for $$4\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply20a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "aafc2dcMultiply20a-h3"
         ],
         "title": "Multiply",
         "text": "What do we get for $$\\left(-8\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply20a-h5",
@@ -58,14 +62,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-32"
+            "$$-32$$"
         ],
         "dependencies": [
             "aafc2dcMultiply20a-h4"
         ],
         "title": "Multiply",
         "text": "What do we get for $$16\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply20a-h6",
@@ -73,13 +78,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "64"
+            "$$64$$"
         ],
         "dependencies": [
             "aafc2dcMultiply20a-h5"
         ],
         "title": "Multiply",
         "text": "What do we get for $$\\left(-32\\right) \\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

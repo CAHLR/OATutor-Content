@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rearrangement",
         "text": "Rearrange the terms, using the distributive law of multiplication and the commutative property of addition. Combine like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the equation of each side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd25a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Isolation",
         "text": "Isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd25a-h4",
@@ -44,8 +47,9 @@
             "a6014eaSubAdd25a-h3"
         ],
         "title": "Isolation",
-        "text": "Isolate h.",
-        "variabilization": {}
+        "text": "Isolate $$h$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd25a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd25a-h6",
@@ -71,6 +76,7 @@
         "title": "Verification",
         "text": "Check whether $$4\\left(2\\left(-6\\right)-3\\right)-7\\left(-6\\right)$$ equals $$6\\left(-6-2\\right)-6\\left(-6-1\\right)$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

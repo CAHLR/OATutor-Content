@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring9a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8y"
+            "$$8y$$"
         ],
         "dependencies": [
             "ab303f8factoring9a-h1"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$64y^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring9a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "ab303f8factoring9a-h2"
         ],
         "title": "Square Roots",
         "text": "What is the square root of 1?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring9a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$\\left(8y-1\\right) \\left(8y+1\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

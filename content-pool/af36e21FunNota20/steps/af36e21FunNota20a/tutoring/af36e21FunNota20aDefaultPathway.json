@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify the input values",
         "text": "When considering area as a function of raidus, radius is the input values.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Identify the output values",
         "text": "When considering area as a function of raidus, area is the output values.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota20a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Write the formula",
         "text": "The area formula of a circle is $$A=\\pi r^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af36e21FunNota20a-h4",
@@ -34,7 +37,8 @@
             "af36e21FunNota20a-h3"
         ],
         "title": "Classify the relation",
-        "text": "According to the formula $$A=\\pi r^2$$, each r can lead to only one particular A, so the area of a circle is a function of its radius.",
-        "variabilization": {}
+        "text": "According to the formula $$A=\\pi r^2$$, each $$r$$ can lead to only one particular A, so the area of a circle is a function of its radius.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

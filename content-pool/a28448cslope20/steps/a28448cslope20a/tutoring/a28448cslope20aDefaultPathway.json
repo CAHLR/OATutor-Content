@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Slope-Intercept Form",
-        "text": "Write each equation in slope-intercept form. Since there is no x term we write $$0x$$: $$y=0x-4$$, $$y=0x+3$$",
-        "variabilization": {}
+        "text": "Write each equation in slope-intercept form. Since there is no $$x$$ term we write $$0x$$:\\n$$y=0x-4$$, $$y=0x+3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28448cslope20a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Slope",
         "text": "Since $$m=0$$ for both equation, the lines have the same slope.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a28448cslope20a-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(0,-4)"
+            "$$(0,-4)$$"
         ],
         "dependencies": [
             "a28448cslope20a-h2"
@@ -31,10 +33,11 @@
         "title": "Identify the y-intercept of First Line",
         "text": "What is the y-intercept for $$y=0x-4$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(0,-4)",
-            "(0,4)",
-            "(4,0)"
+            "$$(0,-4)$$",
+            "$$(0,4)$$",
+            "$$(4,0)$$"
         ]
     },
     {
@@ -43,7 +46,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(0,3)"
+            "$$(0,3)$$"
         ],
         "dependencies": [
             "a28448cslope20a-h3"
@@ -51,10 +54,11 @@
         "title": "Identify the y-intercept of Second Line",
         "text": "What is the y-intercept for $$y=0x+3$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(0,3)",
-            "(0,-3)",
-            "(3,0)"
+            "$$(0,3)$$",
+            "$$(0,-3)$$",
+            "$$(3,0)$$"
         ]
     },
     {
@@ -65,6 +69,7 @@
         ],
         "title": "Parallel Lines",
         "text": "The lines have the same slope and different y-intercepts and so they are parallel.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

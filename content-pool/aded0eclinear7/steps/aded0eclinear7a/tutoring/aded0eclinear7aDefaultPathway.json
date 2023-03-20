@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using Addition Property of Inequality",
         "text": "Add $$\\frac{3}{8}$$ to both sides of the inequality. Then, simplify to get $$x \\leq \\frac{9}{8}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear7a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Writing the Right Endpoint",
         "text": "Since the inequality includes a less than or equal to symbol, $$ \\leq $$, we will need to use a bracket to denote the right endpoint.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear7a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Writing the Left Endpoint",
         "text": "There is no lower end to the solution to this inequality so we express it using the $$\\infty$$ symbol.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear7a-h4",
@@ -41,6 +44,7 @@
         "title": "Displaying Final Interval Notation",
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "(-inf, 9/8]",
             "(-inf, 6/12]",

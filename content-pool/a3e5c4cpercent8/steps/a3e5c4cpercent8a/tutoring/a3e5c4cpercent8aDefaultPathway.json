@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translate into algebra.",
         "text": "Let $$p=the$$ percent. $$110=88p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Multiply",
         "text": "$$110=88p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent8a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1.25"
+            "$$1.25$$"
         ],
         "dependencies": [
             "a3e5c4cpercent8a-h2"
         ],
         "title": "Divide",
-        "text": "What do you get for p when you divide by 88 and simplify?",
-        "variabilization": {}
+        "text": "What do you get for $$p$$ when you divide by $$88$$ and simplify?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3e5c4cpercent8a-h4",
@@ -40,6 +43,7 @@
         ],
         "title": "Convert to percent.",
         "text": "$$125\\%=p$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

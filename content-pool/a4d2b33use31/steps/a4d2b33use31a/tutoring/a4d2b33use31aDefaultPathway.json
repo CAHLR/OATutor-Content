@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use31a-h2",
@@ -21,6 +22,7 @@
         "title": "P-Parentheses",
         "text": "Are there any parentheses?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -40,6 +42,7 @@
         "title": "E-Exponents",
         "text": "Are there any exponents?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -59,6 +62,7 @@
         "title": "MD- Multiplication or Division",
         "text": "Is there any multiplication or division?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -70,14 +74,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "10"
+            "$$10$$"
         ],
         "dependencies": [
             "a4d2b33use31a-h4"
         ],
         "title": "First Operation",
         "text": "What is $$5\\times2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use31a-h6",
@@ -93,6 +98,7 @@
         "title": "AS- Addition or Subtraction",
         "text": "Is there any addition or subtraction?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -104,13 +110,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a4d2b33use31a-h6"
         ],
         "title": "Second Operation",
-        "text": "What is 12-10?",
-        "variabilization": {}
+        "text": "What is $$12-10$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

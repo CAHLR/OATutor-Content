@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Let $$y=0$$",
         "text": "Set $$y=0$$ and begin solving the equation. The remaining portion of the equation is $$-x+0=6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts13a-h2",
@@ -14,8 +15,9 @@
             "aafbadeintercepts13a-h1"
         ],
         "title": "Interpret",
-        "text": "After substituting x, we find that $$x=-6$$. Therefore, the x coordinate when $$y=0$$ is $$x=-6$$.",
-        "variabilization": {}
+        "text": "After substituting $$x$$, we find that $$x=-6$$. Therefore, the $$x$$ coordinate when $$y=0$$ is $$x=-6$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafbadeintercepts13a-h3",
@@ -24,7 +26,8 @@
             "aafbadeintercepts13a-h2"
         ],
         "title": "Answer",
-        "text": "The answer is (-6,0).",
-        "variabilization": {}
+        "text": "The answer is $$(-6,0)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

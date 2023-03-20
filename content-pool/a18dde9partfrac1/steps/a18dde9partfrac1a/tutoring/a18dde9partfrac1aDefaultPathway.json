@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Using the definition of partial fraction decomposition",
         "text": "The first step is to separate the denominator factors and give each numerator a symbolic label, like A, B, or C.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac1a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Removing denominator",
         "text": "The next step is to multiply both sides of the equation by the common denominator to eliminate the fractions.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac1a-h3",
@@ -31,6 +33,7 @@
         "title": "Setting up the system of equations",
         "text": "What is the resulting equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3x=A\\left(x-1\\right)+B\\left(x+2\\right)$$",
             "$$3x=A\\left(x-3\\right)+B\\left(x+1\\right)$$",
@@ -45,7 +48,8 @@
         ],
         "title": "Simplifying the equation",
         "text": "The next step is to expand the right side of the equation and combine like terms",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac1a-h5",
@@ -61,6 +65,7 @@
         "title": "Simplifying the equation",
         "text": "What is the simplified equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3x=\\left(A-B\\right) x-A+2B$$",
             "$$3x=\\left(A+B\\right) x-A+2B$$",
@@ -75,7 +80,8 @@
         ],
         "title": "Setting up the system of equations",
         "text": "Set up a system of equations associating corresponding coefficients.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac1a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a18dde9partfrac1a-h6"
         ],
         "title": "Equating the coefficients to the terms",
         "text": "What coefficient does $$A+B$$ correspond to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a18dde9partfrac1a-h8",
@@ -98,13 +105,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a18dde9partfrac1a-h7"
         ],
         "title": "Equating the coefficients to the terms",
         "text": "What coefficient does $$-A+2B$$ correspond to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "GCF of Terms",
         "text": "Find the greatest common factor of all the terms of the polynomial.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a137dddgre29a-h2",
@@ -14,8 +15,9 @@
             "a137dddgre29a-h1"
         ],
         "title": "Factor into Primes",
-        "text": "Factor $$14p$$ and 35 into primes. $$14p=2\\times7 p$$ $$35=5\\times7$$",
-        "variabilization": {}
+        "text": "Factor $$14p$$ and $$35$$ into primes.\\n$$14p=2\\times7 p$$\\n$$35=5\\times7$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a137dddgre29a-h3",
@@ -24,8 +26,9 @@
             "a137dddgre29a-h2"
         ],
         "title": "Multiply Common Factors",
-        "text": "Multiply the terms shared by both expressions. $$GCF=7$$",
-        "variabilization": {}
+        "text": "Multiply the terms shared by both expressions.\\n$$GCF=7$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a137dddgre29a-h4",
@@ -34,8 +37,9 @@
             "a137dddgre29a-h3"
         ],
         "title": "Write each Term as a Product using GCF",
-        "text": "Rewrite $$14p$$ and 35 as products of their GCF, 7. $$14p+35$$ $$7\\times2 p+7\\times5$$",
-        "variabilization": {}
+        "text": "Rewrite $$14p$$ and $$35$$ as products of their GCF, $$7$$.\\n$$14p+35$$\\n$$7\\times2 p+7\\times5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a137dddgre29a-h5",
@@ -44,7 +48,8 @@
             "a137dddgre29a-h4"
         ],
         "title": "Reverse Distributive Property",
-        "text": "Use the reverse Distributive Property to factor the expression. $$7\\left(2p+5\\right)$$",
-        "variabilization": {}
+        "text": "Use the reverse Distributive Property to factor the expression.\\n$$7\\left(2p+5\\right)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

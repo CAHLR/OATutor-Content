@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring the numerator",
         "text": "Factor the numerator to $$\\left(x-3\\right) \\left(x+3\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational9a-h2",
@@ -14,8 +15,9 @@
             "af04890Rational9a-h1"
         ],
         "title": "Factoring the denominator",
-        "text": "Factor the denominator to (x-3)(x-4)",
-        "variabilization": {}
+        "text": "Factor the denominator to $$(x-3)(x-4)$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Basic rule",
         "text": "Multiply the rational while remaining in monomial form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational9a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Dividing",
         "text": "Divide by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

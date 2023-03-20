@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolation",
         "text": "We can first isolate the absolute value term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq30a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "aaa317eLinIneq30a-h1"
         ],
         "title": "Addition",
         "text": "What number should we add on both sides in order to isolate the absolute value term by itself on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq30a-h3",
@@ -34,8 +36,9 @@
             "aaa317eLinIneq30a-h2"
         ],
         "title": "Addition",
-        "text": "What do we get after we add -4 on both sides?",
+        "text": "What do we get after we add $$-4$$ on both sides?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$|x-2| \\geq 6$$",
             "$$|x-2| \\geq 10$$",
@@ -50,7 +53,8 @@
         ],
         "title": "Absolute Value Inequality",
         "text": "For an algebraic expression X, and $$k>0$$, an absolute value inequality is an inequality of the form $$|X| \\geq k$$ is equivalent to $$X \\leq -k$$ or $$X \\geq k$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq30a-h5",
@@ -66,6 +70,7 @@
         "title": "Absolute Value Inequality",
         "text": "How can we apply the above principle to our problem?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x+2 \\leq -6$$ or $$x-2 \\geq 6$$",
             "$$x-2 \\leq -6$$ or $$-x+2 \\geq 6$$",
@@ -80,7 +85,8 @@
         ],
         "title": "Simplification",
         "text": "Let's simplify the above two inequalities by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq30a-h7",
@@ -88,14 +94,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "aaa317eLinIneq30a-h6"
         ],
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable with its coefficient on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq30a-h8",
@@ -111,6 +118,7 @@
         "title": "Addition",
         "text": "What do we get after we add 2?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\leq -4$$ or $$x \\geq -8$$",
             "$$x \\leq -4$$ or $$x \\geq 4$$",
@@ -124,7 +132,8 @@
             "aaa317eLinIneq30a-h8"
         ],
         "title": "Interval Notation",
-        "text": "$$(-\\infty,b]$$ represents all real numbers less than b, including b, and $$[a,\\infty)srepresent$$ all real numbers greater than a, including a.",
-        "variabilization": {}
+        "text": "$$(-\\infty,b]$$ represents all real numbers less than $$b$$, including $$b$$, and $$[a,\\infty)srepresent$$ all real numbers greater than a, including a.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

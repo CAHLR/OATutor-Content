@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distance Formula",
         "text": "Given endpoints $$(x_1,y_1)$$, and $$(x_2,y_2)$$, the distance between two points is given by $$\\sqrt{{\\left(x_2-x_1\\right)}^2+{\\left(y_2-y_1\\right)}^2}$$ .",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h2",
@@ -14,8 +15,9 @@
             "a75d03cRecCord13a-h1"
         ],
         "title": "Plug into the formula",
-        "text": "We should first calculate 5-5 and 6-0.",
-        "variabilization": {}
+        "text": "We should first calculate $$5-5$$ and $$6-0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h2"
         ],
         "title": "Subtraction",
-        "text": "What is 5-5?",
-        "variabilization": {}
+        "text": "What is $$5-5$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h2"
         ],
         "title": "Subtraction",
-        "text": "What is 6-0?",
-        "variabilization": {}
+        "text": "What is $$6-0$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h5",
@@ -56,7 +60,8 @@
         ],
         "title": "Simplification",
         "text": "We need to simplify the expression $$0^2+6^2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h6",
@@ -64,14 +69,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h5"
         ],
         "title": "Square",
         "text": "What is $$0^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h7",
@@ -79,14 +85,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "36"
+            "$$36$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h5"
         ],
         "title": "Square",
         "text": "What is $$6^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h8",
@@ -94,7 +101,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "36"
+            "$$36$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h6",
@@ -102,7 +109,8 @@
         ],
         "title": "Addition",
         "text": "What is $$0+36$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h9",
@@ -112,7 +120,8 @@
         ],
         "title": "Extraction of square root",
         "text": "The thid step is computing the principal square root.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord13a-h10",
@@ -120,13 +129,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a75d03cRecCord13a-h9"
         ],
         "title": "Square root",
         "text": "What is the principal square root of 36?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substituting Variable Into Expression",
-        "text": "Substitute 0 for x: $$\\frac{5\\times0-1}{2\\times0+1}$$",
-        "variabilization": {}
+        "text": "Substitute $$0$$ for x: $$\\frac{5\\times0-1}{2\\times0+1}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a171b3arationals8c-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Simplifying Expression",
         "text": "What is the result once the expression is simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

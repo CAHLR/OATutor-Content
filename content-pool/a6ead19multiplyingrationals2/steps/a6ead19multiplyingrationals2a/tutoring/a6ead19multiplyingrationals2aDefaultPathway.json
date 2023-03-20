@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiplying the Numerator and Denominator",
-        "text": "We can multiply the numerators to get 90 and the denominators to get 120. Thus, we have $$\\frac{90}{120}$$.",
-        "variabilization": {}
+        "text": "We can multiply the numerators to get $$90$$ and the denominators to get $$120$$. Thus, we have $$\\frac{90}{120}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6ead19multiplyingrationals2a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying if Necessary",
         "text": "$$\\frac{90}{120}$$ can be simplified to $$\\frac{9}{12}$$, which can in turn be simplified to $$\\frac{3}{4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

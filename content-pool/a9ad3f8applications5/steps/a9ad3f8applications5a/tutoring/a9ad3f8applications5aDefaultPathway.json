@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify",
         "text": "We are looking for the age of Noelle and her dad.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications5a-h2",
@@ -14,8 +15,9 @@
             "a9ad3f8applications5a-h1"
         ],
         "title": "First equation",
-        "text": "Since their ages together are 74, we can write the first equation as $$n+d=74$$",
-        "variabilization": {}
+        "text": "Since their ages together are $$74$$, we can write the first equation as $$n+d=74$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications5a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Second equation",
         "text": "Since the age of Noelle\u2019s dad is six less than three times Noelle\u2019s age, we can write the second equation as $$d=3n-6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications5a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20"
+            "$$20$$"
         ],
         "dependencies": [
             "a9ad3f8applications5a-h3"
         ],
         "title": "Solve",
-        "text": "Next, using the system of equations just created, solve for n. What does it equal?",
-        "variabilization": {}
+        "text": "Next, using the system of equations just created, solve for $$n$$. What does it equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications5a-h5",
@@ -48,14 +52,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "54"
+            "$$54$$"
         ],
         "dependencies": [
             "a9ad3f8applications5a-h4"
         ],
         "title": "Solve",
-        "text": "What does d equal?",
-        "variabilization": {}
+        "text": "What does $$d$$ equal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ad3f8applications5a-h6",
@@ -64,7 +69,8 @@
             "a9ad3f8applications5a-h5"
         ],
         "title": "Answer",
-        "text": "Noelle is 20 and her dad is 54.",
-        "variabilization": {}
+        "text": "Noelle is $$20$$ and her dad is $$54$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Separatiing Terms",
         "text": "Separate the terms so that it forms multiple fractions with the same denominator. It will result in the following: $$\\frac{46x^3}{2x^2}+\\frac{38x^2}{2x^2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "abd4034poly2a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Separating Terms",
         "text": "What is the result once each fraction term is simplified?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

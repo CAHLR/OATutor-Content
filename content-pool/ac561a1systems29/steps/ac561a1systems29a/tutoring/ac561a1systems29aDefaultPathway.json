@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Subtract",
-        "text": "First, subtract the two equations from each other to eliminate x.",
-        "variabilization": {}
+        "text": "First, subtract the two equations from each other to eliminate $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac561a1systems29a-h2",
@@ -21,6 +22,7 @@
         "title": "Simplify",
         "text": "Now, what are you left with after subtracting?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "ac561a1systems29a-h2-s1",
@@ -28,7 +30,8 @@
                 "dependencies": [],
                 "title": "Answer",
                 "text": "The answer is $$2y^2=-11$$.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -39,7 +42,8 @@
             "ac561a1systems29a-h2"
         ],
         "title": "Answer",
-        "text": "When solving the previous equation for y, you are left with an imaginary $$\\operatorname{number}\\left(\\sqrt{\\frac{-11}{2}}\\right)$$. This means there are no real solutions to the system of equations.",
-        "variabilization": {}
+        "text": "When solving the previous equation for $$y$$, you are left with an imaginary $$\\operatorname{number}\\left(\\sqrt{\\frac{-11}{2}}\\right)$$. This means there are no real solutions to the system of equations.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

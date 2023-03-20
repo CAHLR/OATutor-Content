@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find \"m\"",
-        "text": "We are given two point pairs: (3,760) and (5,920) and we can plug it into our slope formula to find the slope",
-        "variabilization": {}
+        "text": "We are given two point pairs: $$(3,760)$$ and $$(5,920)$$ and we can plug it into our slope formula to find the slope",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear27a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Find \"m\"",
         "text": "$$m=\\frac{920-760}{5-3}$$ $$=$$ $80 per policy",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear27a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a833c22linear27a-h2"
         ],
-        "title": "Find b",
-        "text": "We can put it into slope-intercept form to get I(n) $$=$$ 80n + b",
-        "variabilization": {}
+        "title": "Find $$b$$",
+        "text": "We can put it into slope-intercept form to get I(n) $$=$$ $$80n$$ + $$b$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear27a-h4",
@@ -33,9 +36,10 @@
         "dependencies": [
             "a833c22linear27a-h3"
         ],
-        "title": "Find b",
-        "text": "We know I(3) $$=$$ 760 so 760-80(3) $$=$$ 520",
-        "variabilization": {}
+        "title": "Find $$b$$",
+        "text": "We know I(3) $$=$$ $$760$$ so $$760-80(3)$$ $$=$$ $$520$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a833c22linear27a-h5",
@@ -44,7 +48,8 @@
             "a833c22linear27a-h4"
         ],
         "title": "Rewrite",
-        "text": "Rewrite the final equation as I(n) $$=$$ 80n + 520",
-        "variabilization": {}
+        "text": "Rewrite the final equation as I(n) $$=$$ $$80n$$ + $$520$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

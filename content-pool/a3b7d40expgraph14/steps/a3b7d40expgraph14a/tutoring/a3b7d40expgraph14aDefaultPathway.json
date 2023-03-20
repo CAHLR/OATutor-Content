@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rewriting into an equation",
         "text": "The function can be rewritten as $$-\\left(\\frac{1}{2}\\right) {\\left(\\frac{1}{2}\\right)}^{\\left(-7\\right)}+6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

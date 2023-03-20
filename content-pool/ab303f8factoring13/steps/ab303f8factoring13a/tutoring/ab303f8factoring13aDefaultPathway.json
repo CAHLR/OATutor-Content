@@ -10,7 +10,8 @@
         "dependencies": [],
         "title": "Common Factor",
         "text": "What is the common factor of the polynomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factoring",
         "text": "Factor out the GCF.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Standard form of a trinomial",
         "text": "Check if the trinomial follow the pattern of $$a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$16x^4$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h6",
@@ -63,14 +68,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "ab303f8factoring13a-h5"
         ],
         "title": "Square Roots",
         "text": "What is the square root of 81?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring13a-h7",
@@ -80,6 +86,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$3y^{2\\left(4x^2-9\\right)} \\left(4x^2+9\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

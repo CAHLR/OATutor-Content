@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Center of a Circle",
         "text": "The center of a circle is the center, or midpoint, of its diameter.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord17a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Midpoint Formula",
         "text": "Given the endpoints of a line segment, $$(x_1,y_1)$$ and $$(x_2,y_2)$$, the midpoint formula states how to find the coordinates of the midpoint M. $$M=($$ $$\\frac{x_1+x_2}{2}$$, $$\\frac{y_1+y_2}{2}$$ ).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord17a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4"
+            "$$4$$"
         ],
         "dependencies": [
             "a75d03cRecCord17a-h2"
         ],
         "title": "Addition",
         "text": "What is $$-1+5$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord17a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a75d03cRecCord17a-h3"
         ],
         "title": "Division",
         "text": "What is $$\\frac{4}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord17a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "a75d03cRecCord17a-h4"
         ],
         "title": "Addition",
         "text": "What is $$\\left(-4\\right)+\\left(-4\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord17a-h6",
@@ -68,13 +73,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "a75d03cRecCord17a-h5"
         ],
         "title": "Division",
         "text": "What is $$\\frac{-8}{2}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Choose",
-        "text": "Choose 2 pairs of equations, both which will be used to eliminate the same variable.",
-        "variabilization": {}
+        "text": "Choose $$2$$ pairs of equations, both which will be used to eliminate the same variable.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263equations8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Eliminate",
         "text": "Eliminate a variable in the two pairs of 3-variable equations. Do this by multiplying the equation by a constant so that once you subtract or add the two equations, the variable is eliminated.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263equations8a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Eliminate again",
         "text": "Now, you should have two 2-variable equations. Using the same process, eliminate the variable in this set of equations so that you are left with one variable. Solve the equation for this variable, if necessary.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ac26263equations8a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Plug in",
         "text": "Plug in the variable you just found into one of the 2-variable equations to find the other variable. Then plug in those two variables into the one of the 3-variable equations to find the final variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

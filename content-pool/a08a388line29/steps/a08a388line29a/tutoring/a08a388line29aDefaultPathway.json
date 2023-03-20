@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the point",
-        "text": "The given point is (3,-2).",
-        "variabilization": {}
+        "text": "The given point is $$(3,-2)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line29a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Slope",
         "text": "Identify the slope of the perpendicular line. $$m=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line29a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Substitute",
         "text": "Substitute the values into the point-slope form $$y-y1=m(x-x1)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a08a388line29a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression $$y-(-2)=0(x-3)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Largest Square Factor",
         "text": "Find the largest square factor inside the square root and separate it from the other term.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ade3dRadicals4a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "49"
+            "$$49$$"
         ],
         "dependencies": [
             "a9ade3dRadicals4a-h1"
         ],
         "title": "Largest Square Factor",
         "text": "What is the largest square factor in the square root?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ade3dRadicals4a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Factoring",
         "text": "After we find the largest square factor, we can rewrite the radical as the product of two square roots.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ade3dRadicals4a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Factoring",
         "text": "After we separate the two factors, we can take the square root of our perfect square.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ade3dRadicals4a-h5",
@@ -55,6 +59,7 @@
         ],
         "title": "Simplifying Expression",
         "text": "If we factor the terms, what will our answer be?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

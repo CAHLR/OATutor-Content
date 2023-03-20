@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Transformations",
         "text": "Think about the kinds of transformations that are occuring.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Equation",
         "text": "Think about the equation in the form of $${\\left(a \\left(x+b\\right)\\right)}^2+k$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Vertical Transformation",
         "text": "Which variable represents the vertical transformation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Vertical Transformation",
         "text": "Since k represents the vertical transformation, what is k in our case?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h5",
@@ -44,8 +48,9 @@
             "a47ce72graphquad25a-h4"
         ],
         "title": "Vertical Transformation",
-        "text": "Since our k is 7, is this a vertical shift up or down?",
-        "variabilization": {}
+        "text": "Since our k is $$7$$, is this a vertical shift up or down?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h6",
@@ -54,8 +59,9 @@
             "a47ce72graphquad25a-h5"
         ],
         "title": "Up Transformation",
-        "text": "It is a vertical shift up by 7, since our k is 7.",
-        "variabilization": {}
+        "text": "It is a vertical shift up by $$7$$, since our k is $$7$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h7",
@@ -65,7 +71,8 @@
         ],
         "title": "Horizontal Transformation",
         "text": "Which variable represents the horizontal transformation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h8",
@@ -74,8 +81,9 @@
             "a47ce72graphquad25a-h7"
         ],
         "title": "Horizontal Transformation",
-        "text": "Since b represents the horizontal transformation, what is b in our case?",
-        "variabilization": {}
+        "text": "Since $$b$$ represents the horizontal transformation, what is $$b$$ in our case?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h9",
@@ -84,8 +92,9 @@
             "a47ce72graphquad25a-h8"
         ],
         "title": "Horizontal Transformation",
-        "text": "Since our b is 2, is this a horizontal shift to the left or right?",
-        "variabilization": {}
+        "text": "Since our $$b$$ is $$2$$, is this a horizontal shift to the left or right?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h10",
@@ -94,8 +103,9 @@
             "a47ce72graphquad25a-h9"
         ],
         "title": "Left Transformation",
-        "text": "It is a horizontal shift to the right by 2, since b is 2.",
-        "variabilization": {}
+        "text": "It is a horizontal shift to the right by $$2$$, since $$b$$ is $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h11",
@@ -105,7 +115,8 @@
         ],
         "title": "Width",
         "text": "Which variable represents the width of our graph?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h12",
@@ -115,7 +126,8 @@
         ],
         "title": "Width",
         "text": "Since a represents the width of our graph, what is a in this case?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h13",
@@ -124,8 +136,9 @@
             "a47ce72graphquad25a-h12"
         ],
         "title": "Width",
-        "text": "Since a is -3, what does that tell us about the width? Will it be skinnier, wider, or normal?",
-        "variabilization": {}
+        "text": "Since a is $$-3$$, what does that tell us about the width? Will it be skinnier, wider, or normal?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h14",
@@ -134,8 +147,9 @@
             "a47ce72graphquad25a-h13"
         ],
         "title": "Skinny Width",
-        "text": "Since a is -3, it's absolute value is larger than 1, so it will have a skinnier width.",
-        "variabilization": {}
+        "text": "Since a is $$-3$$, it's absolute value is larger than $$1$$, so it will have a skinnier width.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h15",
@@ -145,7 +159,8 @@
         ],
         "title": "Direction",
         "text": "What is the sign of a and what does this tell us about the direction?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h16",
@@ -154,8 +169,9 @@
             "a47ce72graphquad25a-h15"
         ],
         "title": "Direction",
-        "text": "Since a is -3, what direction does the graph go?",
-        "variabilization": {}
+        "text": "Since a is $$-3$$, what direction does the graph go?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad25a-h17",
@@ -165,6 +181,7 @@
         ],
         "title": "Down",
         "text": "Since a is negative, it will go downwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

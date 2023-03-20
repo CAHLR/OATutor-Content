@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Use Slope Formula",
         "text": "The slope formula is $$m=\\frac{y_2-y_1}{x_2-x_1}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a374ff4inequalities11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitue",
         "text": "Substitute the values from the points to the slope formula, choosing one point to be the first point, and the other to be the second.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a374ff4inequalities11a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a374ff4inequalities11a-h4",
@@ -34,7 +37,8 @@
             "a374ff4inequalities11a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is -1.",
-        "variabilization": {}
+        "text": "The answer is $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

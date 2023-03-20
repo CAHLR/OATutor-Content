@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Parentheses",
         "text": "The first step is to simplify the parentheses.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "15"
+            "$$15$$"
         ],
         "dependencies": [
             "a6f9727real5b-h1"
         ],
         "title": "Parentheses",
         "text": "What is $$5\\times3$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a6f9727real5b-h1"
         ],
         "title": "Parentheses",
-        "text": "What is 6-3?",
-        "variabilization": {}
+        "text": "What is $$6-3$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h4",
@@ -43,7 +46,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a6f9727real5b-h2",
@@ -51,7 +54,8 @@
         ],
         "title": "Parentheses",
         "text": "What is $$4^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h5",
@@ -59,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-13"
+            "$$-13$$"
         ],
         "dependencies": [
             "a6f9727real5b-h4"
         ],
         "title": "Parentheses",
-        "text": "What is 3-16?",
-        "variabilization": {}
+        "text": "What is $$3-16$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h6",
@@ -76,7 +81,8 @@
         ],
         "title": "Multiplication",
         "text": "The next step is to simplify multiplication and division.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h7",
@@ -84,14 +90,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "105"
+            "$$105$$"
         ],
         "dependencies": [
             "a6f9727real5b-h6"
         ],
         "title": "Multiplication",
         "text": "What is $$7\\times15$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h8",
@@ -99,14 +106,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "26"
+            "$$26$$"
         ],
         "dependencies": [
             "a6f9727real5b-h7"
         ],
         "title": "Multiplication",
         "text": "What is $$\\left(-2\\right) \\left(-13\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h9",
@@ -116,7 +124,8 @@
         ],
         "title": "Addition",
         "text": "The final step is to simplify addition and subtraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6f9727real5b-h10",
@@ -124,13 +133,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "132"
+            "$$132$$"
         ],
         "dependencies": [
             "a6f9727real5b-h9"
         ],
         "title": "Addition",
         "text": "What is $$105+26+1$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

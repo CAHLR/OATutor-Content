@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Multiplication property of equality",
         "text": "If you multiply both sides of an equation by the same number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul16o-h2",
@@ -19,8 +20,9 @@
             "a870b02DivMul16o-h1"
         ],
         "title": "Multiplication",
-        "text": "Multiple 10 from each side.",
-        "variabilization": {}
+        "text": "Multiple $$10$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul16o-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-4"
+            "$$-4$$"
         ],
         "dependencies": [
             "a870b02DivMul16o-h2"
         ],
         "title": "Simplification",
         "text": "What do we get for a after simplifying the equation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul16o-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a870b02DivMul16o-h5",
@@ -61,6 +65,7 @@
         "title": "Verification",
         "text": "Check whether $$-\\left(\\frac{2}{5}\\right)$$ equals $$\\frac{1}{10} \\left(-4\\right)$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

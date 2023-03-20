@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive property",
         "text": "First we should apply the distributive property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua5b-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Distributive property",
         "text": "What is the result after applying the distributive property?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua5b-h3",
@@ -29,8 +31,9 @@
             "a2d8720LinEqua5b-h2"
         ],
         "title": "Simplification",
-        "text": "Place x-terms on one side and simplify.",
-        "variabilization": {}
+        "text": "Place $$x-terms$$ on one side and simplify.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2d8720LinEqua5b-h4",
@@ -44,7 +47,8 @@
             "a2d8720LinEqua5b-h3"
         ],
         "title": "Simplification",
-        "text": "What is the result after placing all x-terms in the left side and multiplying both sides by $$\\frac{-1}{7}$$?",
-        "variabilization": {}
+        "text": "What is the result after placing all $$x-terms$$ in the left side and multiplying both sides by $$\\frac{-1}{7}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

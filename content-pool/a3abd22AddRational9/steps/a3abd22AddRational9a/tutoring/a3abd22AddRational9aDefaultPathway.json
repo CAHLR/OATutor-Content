@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Find the Common Denominator",
         "text": "Do all the terms in the expression have common denominator?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Find the Common Denominator",
         "text": "No, the denominators of terms in the expression are different. We can find the common denominator for both terms. Notice that $$n^2-1=-1\\left(1-n^2\\right)$$. We can multiply $$\\frac{\\left(-1\\right)}{\\left(-1\\right)}$$ with $$\\frac{n^2-7n-1}{1-n^2}$$. We can rewrite the expression as $$\\frac{2n^2+8n-1}{n^2-1}-\\left(-\\frac{n^2-7n-1}{n^2-1}\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Subtract Numerators",
         "text": "Since all the terms in the expression have the same denominator, we can directly subtract their numerators.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Subtract Numerators",
         "text": "What is the difference of numerators for $$\\frac{2n^2+8n-1}{n^2-1}-\\left(-\\frac{n^2-7n-1}{n^2-1}\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Rewrite the expression",
         "text": "We can rewrite $$\\frac{2n^2+8n-1}{n^2-1}-\\frac{n^2-7n-1}{1-n^2}$$ as $$\\frac{3n^2+n-2}{n^2-1}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h6",
@@ -60,7 +65,8 @@
         ],
         "title": "Simplify Expression By Canceling out Terms",
         "text": "We can try to factor the numerator and denominator to see if we can further simplify the expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Factor the Numerator",
         "text": "Factor $$3n^2+n-2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Factor the Denominator",
         "text": "Factor $$n^2-1$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Simplify Expression By Canceling out Terms",
         "text": "We can rewrite $$\\frac{2n^2+8n-1}{n^2-1}-\\frac{n^2-7n-1}{1-n^2}$$ as $$\\frac{\\left(3n-2\\right) \\left(n+1\\right)}{\\left(n-1\\right) \\left(n+1\\right)}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h10",
@@ -115,7 +124,8 @@
         ],
         "title": "Simplify Expression By Canceling out Terms",
         "text": "What is the greatest common factor in numerator and denominator of $$\\frac{\\left(3n-2\\right) \\left(n+1\\right)}{\\left(n-1\\right) \\left(n+1\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h11",
@@ -130,7 +140,8 @@
         ],
         "title": "Simplify Expression By Canceling out Terms",
         "text": "As the last step, we will cancel out $$n+1$$ from both numerator and denominator, what is the simplified form of $$\\frac{\\left(3n-2\\right) \\left(n+1\\right)}{\\left(n-1\\right) \\left(n+1\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3abd22AddRational9a-h12",
@@ -140,6 +151,7 @@
         ],
         "title": "Final Remark",
         "text": "Note that the expression (((2n**2)+8*n-1)/(n**2-1))-((n**2-7*n-1)/(1-n**2))) and $$\\frac{3n-2}{n-1}$$ are different because the domain of $$\\frac{2n^2+8n-1}{n^2-1}-\\frac{n^2-7n-1}{1-n^2}$$ does not include $$x=-1$$ and the domain of $$\\frac{3n-2}{n-1}$$ does not exclude $$x=-1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

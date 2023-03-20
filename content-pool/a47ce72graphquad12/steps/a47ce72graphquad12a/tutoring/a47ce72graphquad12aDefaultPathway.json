@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Transformation",
         "text": "Is this a vertical or a horizontal transformation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad12a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Horizontal Transformation",
         "text": "Since this is a horizontal transformation, is it to the left or right?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a47ce72graphquad12a-h3",
@@ -24,7 +26,8 @@
             "a47ce72graphquad12a-h2"
         ],
         "title": "Right Transformation",
-        "text": "Since it is -2, it's a horizontal transformation to the right.",
-        "variabilization": {}
+        "text": "Since it is $$-2$$, it's a horizontal transformation to the right.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

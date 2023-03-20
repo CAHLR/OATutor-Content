@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$x^7$$ is $$x^6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical28a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{x^7}=\\sqrt{x^6 x^1}=x^3 \\sqrt{x}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

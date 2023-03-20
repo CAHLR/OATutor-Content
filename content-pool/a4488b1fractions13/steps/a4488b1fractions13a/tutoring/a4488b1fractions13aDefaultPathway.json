@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Reciprocal",
         "text": "Take the reciprocal of the second fraction. The reciprocal is the opposite of the current fraction. In other words, flip the fraction so the top is at the bottom, and the bottom is at the top.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1fractions13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Eliminate diagonally",
         "text": "Eliminate any common terms that may occur in the diagonals of the fraction.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4488b1fractions13a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Multiply",
         "text": "Multiply the numerators together and the deonominators together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

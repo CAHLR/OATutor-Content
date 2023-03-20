@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Defining Terms",
         "text": "The terms are the individual expressions that are added or subtracted that make up the whole expression",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4d2b33use17a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Finding individual Terms",
         "text": "Therefore, find the individual pieces that are being added or subtracted.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Order of Operations",
         "text": "Simplify the parentheses, then exponents, then sequentially $$\\frac{multiply}{divide}$$ and $$\\frac{add}{subtract}$$ left to right.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a975ae1MultDivInts11a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "a975ae1MultDivInts11a-h1"
         ],
         "title": "What is $${\\left(-2\\right)}^3$$",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a975ae1MultDivInts11a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-72"
+            "$$-72$$"
         ],
         "dependencies": [
             "a975ae1MultDivInts11a-h2"
         ],
-        "title": "What is 8(-9)?",
+        "title": "What is $$8(-9)$$?",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a975ae1MultDivInts11a-h4",
@@ -43,13 +46,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a975ae1MultDivInts11a-h3"
         ],
         "title": "What is $$\\frac{-72}{\\left(-8\\right)}$$?",
         "text": "",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

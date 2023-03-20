@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify",
         "text": "Identify what you are solving for.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "What Are You Solving For",
         "text": "You are solving fo Jeromy's mother's speed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3a-h3",
@@ -24,8 +26,9 @@
             "a8e6481uni3a-h2"
         ],
         "title": "Make a Variable",
-        "text": "Create a variable to represent the Jeromy's mother's speed. Let's call Jeromy's mother's speed x. Since the Jeromy's mother's speed is 20 mph slower than the Jeromy's speed, Jeromy's speed would be x-20.",
-        "variabilization": {}
+        "text": "Create a variable to represent the Jeromy's mother's speed. Let's call Jeromy's mother's speed $$x$$. Since the Jeromy's mother's speed is $$20$$ mph slower than the Jeromy's speed, Jeromy's speed would be $$x-20$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Translate to Equation",
         "text": "Translate the situation into an equation using variable you named. Remeber that the distances Jeromy and his mother traveled are the same, and the distance equals $$speed time$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3a-h5",
@@ -45,7 +49,8 @@
         ],
         "title": "The Equation",
         "text": "Multiply the speed of the drivers by the time to get $$6x=\\operatorname{4.5}\\left(x+20\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni3a-h6",
@@ -53,14 +58,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "60"
+            "$$60$$"
         ],
         "dependencies": [
             "a8e6481uni3a-h5"
         ],
         "title": "Solving the Equation",
-        "text": "After solving the equation, what do you get for x?",
+        "text": "After solving the equation, what do you get for $$x$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a8e6481uni3a-h6-s1",
@@ -68,7 +74,8 @@
                 "dependencies": [],
                 "title": "Solving the Equation",
                 "text": "To solve the equation $$6x=\\operatorname{4.5}\\left(x+20\\right)$$, we follow these steps: 6x=4.5x+90-->1.5x=90-->x=60.",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

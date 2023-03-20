@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Explicit Formula",
         "text": "The given formula, $$\\frac{1}{9} {\\left(\\frac{4}{3}\\right)}^k$$, is exponential with a base of $$\\frac{4}{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser28a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a57f999ser28a-h1"
         ],
-        "title": "Identify r",
+        "title": "Identify $$r$$",
         "text": "The series is geometric with a common ratio of $$\\frac{4}{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser28a-h3",
@@ -31,6 +33,7 @@
         "title": "Confirm that $$-1<r<1$$",
         "text": "Is $$-1<\\frac{4}{3}<1$$ True or False?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -44,6 +47,7 @@
         ],
         "title": "Sum of Infinite Geometric Series",
         "text": "Since $$-1<\\frac{4}{3}<1$$ is F; then sum does not exisit.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

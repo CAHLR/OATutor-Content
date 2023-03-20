@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rewriting the Radical with Exponentiation",
         "text": "To enable the use of the power rule, we may rewrite $$\\sqrt{x}$$ as $$x^{\\frac{1}{2}}$$. This means that $$\\ln(\\sqrt{x})=\\ln(x^{\\frac{1}{2}})$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeae96dlogprop13a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Using the Power Rule to Simplify",
         "text": "Using the power rule, $$\\ln(x^{\\frac{1}{2}})=\\frac{1}{2} \\ln(x)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

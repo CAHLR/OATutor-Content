@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Setting Up",
         "text": "Set up three equatinos in variable form to represent the situation $$(c=children$$ tickets, $$s=student$$ tickets, and $$a=adult$$ tickets). We have $$c+s+a=1175$$, $$22.5c+20s+29a=28112.5$$, and $$2c=a$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar25a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Rearrange Equation",
         "text": "Plug in $$a=2c$$ into $$c+s+a=1175$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar25a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "ab8934ethreevar25a-h2"
         ],
-        "title": "Simplifying to 1 Variable",
+        "title": "Simplifying to $$1$$ Variable",
         "text": "Rearrange $$3c+s=1175$$ to isolate s and plug in the expresion for s into the equation containing the total price of tickets. Plug in $$a=2c$$ into the total price of tickets equation so that the final equation only has one variable c.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar25a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "500"
+            "$$500$$"
         ],
         "dependencies": [
             "ab8934ethreevar25a-h3"
         ],
         "title": "Solve for c",
         "text": "Using algebra solve for c, the number of childrens tickets sold",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar25a-h5",
@@ -53,14 +57,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "225"
+            "$$225$$"
         ],
         "dependencies": [
             "ab8934ethreevar25a-h4"
         ],
         "title": "Solve for s",
         "text": "Plug in the value of c into $$3c+s=1175$$ and solve for s, number of student tickets sold",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab8934ethreevar25a-h6",
@@ -68,13 +73,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "250"
+            "$$250$$"
         ],
         "dependencies": [
             "ab8934ethreevar25a-h5"
         ],
-        "title": "Solve for p",
-        "text": "Plug in the value of c and s into any equatino containing p to solve for the number of parent tickets sold",
-        "variabilization": {}
+        "title": "Solve for $$p$$",
+        "text": "Plug in the value of c and s into any equatino containing $$p$$ to solve for the number of parent tickets sold",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

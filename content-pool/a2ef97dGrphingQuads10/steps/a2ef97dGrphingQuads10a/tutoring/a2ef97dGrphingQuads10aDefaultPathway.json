@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Solving for intercepts",
         "text": "Set the entire equation equal to zero",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads10a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Solving for intercepts",
         "text": "Calculate the determinant of the fucntion via the formula $$b^2$$ - 4ac",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a2ef97dGrphingQuads10a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Solving for intercepts",
         "text": "Notice that the determinant is negative. Therefore, there are no real roots.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

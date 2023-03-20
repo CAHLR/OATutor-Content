@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identify $$a_1$$",
         "text": "The first term is $$a_1=4$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser29a-h2",
@@ -18,9 +19,10 @@
         "dependencies": [
             "a57f999ser29a-h1"
         ],
-        "title": "Identify r",
-        "text": "To find r, divide the 2nd term by the 1st term. What is $$r=\\frac{2}{4}$$?",
-        "variabilization": {}
+        "title": "Identify $$r$$",
+        "text": "To find $$r$$, divide the 2nd term by the 1st term. What is $$r=\\frac{2}{4}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser29a-h3",
@@ -36,6 +38,7 @@
         "title": "Confirm that $$-1<r<1$$",
         "text": "Is $$-1<\\frac{1}{2}<1$$ True or False?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "T",
             "F"
@@ -48,8 +51,9 @@
             "a57f999ser29a-h3"
         ],
         "title": "Formula for the Sum of an Infinite Geometric Series",
-        "text": "Substitute values for $$a_1$$ and r into the formula: $$S=\\frac{a_1}{1-r}$$.",
-        "variabilization": {}
+        "text": "Substitute values for $$a_1$$ and $$r$$ into the formula: $$S=\\frac{a_1}{1-r}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser29a-h5",
@@ -57,14 +61,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a57f999ser29a-h4"
         ],
         "title": "Solve for S",
         "text": "What is $$S=\\frac{4}{1-\\frac{1}{2}}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a57f999ser29a-h6",
@@ -73,7 +78,8 @@
             "a57f999ser29a-h5"
         ],
         "title": "Sum of Infinite Geometric Series",
-        "text": "The sum of the $$infinite$$ geometric series is 8.",
-        "variabilization": {}
+        "text": "The sum of the $$infinite$$ geometric series is $$8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

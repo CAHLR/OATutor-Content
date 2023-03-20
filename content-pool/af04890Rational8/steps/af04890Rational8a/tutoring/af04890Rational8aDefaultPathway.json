@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring the numerator",
         "text": "Factor the numerator to $$\\left(x-5\\right) \\left(x+1\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational8a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the denominator",
         "text": "Factor the denominator to $$\\left(5-x\\right) \\left(5+x\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational8a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Basic rule",
         "text": "$$(a-b)=-(b-a)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational8a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Dividing",
         "text": "Divide by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Parentheses",
         "text": "The first step is to simplify the parentheses.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad291beRadRat1c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "169"
+            "$$169$$"
         ],
         "dependencies": [
             "ad291beRadRat1c-h1"
         ],
         "title": "Addition",
         "text": "What is $$25+144$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad291beRadRat1c-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Simplify",
         "text": "Simlify the expression: $$\\sqrt{25+144}=\\sqrt{169}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad291beRadRat1c-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Principal Square Root",
         "text": "The principal square root of a is the nonnegative number that, when multiplied by itself, equals a. It is written as a radical expression, with a symbol called a radical over the term called the radicand: $$\\sqrt{a}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad291beRadRat1c-h5",
@@ -48,13 +52,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "13"
+            "$$13$$"
         ],
         "dependencies": [
             "ad291beRadRat1c-h4"
         ],
         "title": "Principal Square Root",
         "text": "What number multiplied by itself equals 169?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

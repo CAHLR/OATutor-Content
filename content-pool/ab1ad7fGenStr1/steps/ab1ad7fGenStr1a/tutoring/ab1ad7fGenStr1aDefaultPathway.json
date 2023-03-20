@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplification",
         "text": "Simplify each side of the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Use the distributive property to simplify each side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Variable Terms",
         "text": "Collect all variable terms on the left side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Constant Terms",
         "text": "Collect all constant terms on the right side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h6",
@@ -64,8 +69,9 @@
             "ab1ad7fGenStr1a-h5"
         ],
         "title": "Addition",
-        "text": "Add 18 to each side of the equation.",
-        "variabilization": {}
+        "text": "Add $$18$$ to each side of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h7",
@@ -75,7 +81,8 @@
         ],
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h8",
@@ -89,8 +96,9 @@
             "ab1ad7fGenStr1a-h7"
         ],
         "title": "Division",
-        "text": "Divide -6 from each side.",
-        "variabilization": {}
+        "text": "Divide $$-6$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h9",
@@ -100,7 +108,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr1a-h10",
@@ -114,8 +123,9 @@
             "ab1ad7fGenStr1a-h9"
         ],
         "title": "Verification",
-        "text": "Check whether $$-6\\left(-7+3\\right)$$ equals 24.",
+        "text": "Check whether $$-6\\left(-7+3\\right)$$ equals $$24$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

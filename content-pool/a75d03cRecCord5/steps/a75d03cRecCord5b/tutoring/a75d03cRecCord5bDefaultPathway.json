@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of y-intercepts",
         "text": "The y-intercept is the point at which the graph crosses y-axis",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord5b-h2",
@@ -14,8 +15,9 @@
             "a75d03cRecCord5b-h1"
         ],
         "title": "How to determine the y-intercept?",
-        "text": "Set x equal to zero and solve for y",
-        "variabilization": {}
+        "text": "Set $$x$$ equal to zero and solve for $$y$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord5b-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Solve the equation",
         "text": "Solve for y: $$3\\left(0\\right)+8y=9$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

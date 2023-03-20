@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Distributive Property",
         "text": "The first step is to apply the Distributive Property, which turns our expression into $$8\\left(-2\\right)+8\\times4i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex13a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-16"
+            "$$-16$$"
         ],
         "dependencies": [
             "a9cf449complex13a-h1"
         ],
         "title": "Distributive Property",
         "text": "What is $$8\\left(-2\\right)$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex13a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "Distributive Property",
         "text": "What is $$8\\times4i$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex13a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Standard Form",
         "text": "Finally, we can write the expression in $$a+bi$$ form: $$-16+32i$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Greatest Common Factor",
         "text": "The first step is determining the greatest common factor between the three terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5d54dagcf17a-h2",
@@ -13,7 +14,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "3"
+            "$$3$$"
         ],
         "dependencies": [
             "a5d54dagcf17a-h1"
@@ -21,6 +22,7 @@
         "title": "GCF",
         "text": "What is the GCF for the three terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf17a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "3"
+                    "$$3$$"
                 ],
                 "dependencies": [],
                 "title": "GCF for Constants",
-                "text": "What is the GCF for 3, 6, and 9? As in, what is the greatest number that evenly divides into 3, 6, and 9?",
-                "variabilization": {}
+                "text": "What is the GCF for $$3$$, $$6$$, and 9? As in, what is the greatest number that evenly divides into $$3$$, $$6$$, and 9?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf17a-h2-s2",
@@ -41,15 +44,16 @@
                 "problemType": "MultipleChoice",
                 "answerType": "string",
                 "hintAnswer": [
-                    "1"
+                    "$$1$$"
                 ],
                 "dependencies": [],
                 "title": "GCF for Variables",
-                "text": "What is the GCF for $$x^2$$, x, and 1?",
+                "text": "What is the GCF for $$x^2$$, $$x$$, and 1?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
-                    "1",
-                    "x",
+                    "$$1$$",
+                    "$$x$$",
                     "$$x^2$$",
                     "$$x^3$$"
                 ]
@@ -60,12 +64,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "3"
+                    "$$3$$"
                 ],
                 "dependencies": [],
                 "title": "Overall GCF",
                 "text": "Multiply the two previous partial GCFS you found to get the overall GCF. What is it?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -83,6 +88,7 @@
         "title": "Factorization",
         "text": "Now, factor each of the terms separately. What is the sum of the terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf17a-h3-s4",
@@ -94,8 +100,9 @@
                 ],
                 "dependencies": [],
                 "title": "Factor $$3x^2$$",
-                "text": "Factor out a 3 from $$3x^2$$. What remains?",
-                "variabilization": {}
+                "text": "Factor out a $$3$$ from $$3x^2$$. What remains?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf17a-h3-s5",
@@ -106,9 +113,10 @@
                     "2x"
                 ],
                 "dependencies": [],
-                "title": "Factor 6x",
-                "text": "Factor out a 3 from 6x. What remains?",
-                "variabilization": {}
+                "title": "Factor $$6x$$",
+                "text": "Factor out a $$3$$ from $$6x$$. What remains?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf17a-h3-s6",
@@ -116,12 +124,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "-3"
+                    "$$-3$$"
                 ],
                 "dependencies": [],
-                "title": "Factor -9",
-                "text": "Factor out a 3 from -9. What remains?",
-                "variabilization": {}
+                "title": "Factor $$-9$$",
+                "text": "Factor out a $$3$$ from $$-9$$. What remains?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf17a-h3-s7",
@@ -135,6 +144,7 @@
                 "title": "Summation of factors",
                 "text": "Using the \"reverse\" Distributive Property, add together the three factors previously found. What is the sum?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$x^2+2x-3$$",
                     "$$3x^2+2x-1$$",
@@ -157,6 +167,7 @@
         ],
         "title": "Final Answer",
         "text": "Using knowledge of the distributive property, multiply the GCF with the sum of the factored values to get the final answer for the factorization of $$3x^2+6x-9$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

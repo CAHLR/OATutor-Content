@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hyperbola Standard Form Equation",
-        "text": "The standard form for a hyperbola not centered at 0 is $$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$$",
-        "variabilization": {}
+        "text": "The standard form for a hyperbola not centered at $$0$$ is $$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ed39ahyperbola16a-h2",
@@ -20,6 +21,7 @@
         ],
         "title": "Hyperbola Standard Form Equation",
         "text": "Alter the denominator of the given hyperbola equation to match the standard form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

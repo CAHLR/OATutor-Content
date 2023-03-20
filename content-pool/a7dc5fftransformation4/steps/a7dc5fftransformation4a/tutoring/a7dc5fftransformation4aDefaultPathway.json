@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Definition of an Even Function",
-        "text": "A function is called an even function if for every input x, $$g(x)=g(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an even function if for every input $$x$$, $$g(x)=g(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation4a-h2",
@@ -14,8 +15,9 @@
             "a7dc5fftransformation4a-h1"
         ],
         "title": "Definition of an Odd Function",
-        "text": "A function is called an odd function if for every input x, $$g(x)=-g(-x)$$.",
-        "variabilization": {}
+        "text": "A function is called an odd function if for every input $$x$$, $$g(x)=-g(-x)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation4a-h3",
@@ -23,9 +25,10 @@
         "dependencies": [
             "a7dc5fftransformation4a-h2"
         ],
-        "title": "How to Find g(-x)",
-        "text": "Find g(-x) by subsituting -x in wherever x appears in the original equation.",
-        "variabilization": {}
+        "title": "How to Find $$g(-x)$$",
+        "text": "Find $$g(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation4a-h4",
@@ -38,9 +41,10 @@
         "dependencies": [
             "a7dc5fftransformation4a-h3"
         ],
-        "title": "Determining g(-x)",
-        "text": "What is g(-x) equal to?",
+        "title": "Determining $$g(-x)$$",
+        "text": "What is $$g(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\sqrt{-x}$$",
             "$$-\\sqrt{-x}$$"
@@ -52,9 +56,10 @@
         "dependencies": [
             "a7dc5fftransformation4a-h4"
         ],
-        "title": "How to Find -g(-x)",
-        "text": "Find -g(-x) by multiplying each term of g(-x) by -1.",
-        "variabilization": {}
+        "title": "How to Find $$-g(-x)$$",
+        "text": "Find $$-g(-x)$$ by multiplying each term of $$g(-x)$$ by $$-1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7dc5fftransformation4a-h6",
@@ -67,9 +72,10 @@
         "dependencies": [
             "a7dc5fftransformation4a-h5"
         ],
-        "title": "Determining -g(-x)",
-        "text": "What is -g(-x) equal to?",
+        "title": "Determining $$-g(-x)$$",
+        "text": "What is $$-g(-x)$$ equal to?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\sqrt{-x}$$",
             "$$-\\sqrt{-x}$$"
@@ -89,6 +95,7 @@
         "title": "Checking if g(x) is Even",
         "text": "Does $$g(x)=g(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -108,6 +115,7 @@
         "title": "Checking if g(x) is Odd",
         "text": "Does $$g(x)=-g(-x)$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"

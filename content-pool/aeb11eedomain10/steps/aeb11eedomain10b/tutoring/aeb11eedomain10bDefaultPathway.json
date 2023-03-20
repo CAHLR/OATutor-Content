@@ -3,9 +3,10 @@
         "id": "aeb11eedomain10b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Value of f(-4)",
+        "title": "Value of $$f(-4)$$",
         "text": "We know that $$f(-4)=0$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain10b-h2",
@@ -14,8 +15,9 @@
             "aeb11eedomain10b-h1"
         ],
         "title": "Trends of the Function Value",
-        "text": "The function value increases as x increases without any upper limit.",
-        "variabilization": {}
+        "text": "The function value increases as $$x$$ increases without any upper limit.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain10b-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Answer",
         "text": "Therefore, we conclude that the range of f is $$[0,\\infty)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

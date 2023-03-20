@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Factoring the numerator",
         "text": "Factor the numerator to $$\\left(3a+1\\right) \\left(a-3\\right)$$ and $$\\left(a+5\\right) \\left(a+5\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the denominator",
         "text": "Factor the denominator to $$\\left(a-5\\right) \\left(a+5\\right)$$ and $$\\left(3a+1\\right) \\left(a-5\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational11a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Basic rule",
         "text": "Multiply the rational while remaining in monomial form",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "af04890Rational11a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Dividing",
         "text": "Divide by the common factor",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

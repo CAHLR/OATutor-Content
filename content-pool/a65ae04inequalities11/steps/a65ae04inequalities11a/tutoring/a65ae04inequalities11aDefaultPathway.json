@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolate",
         "text": "Isolate the absolute values on both sides of the equation, which in this case is already done.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Split",
         "text": "Split the equation into two, one where $$6x-5=2x+3$$, and one where $$6x-5=-\\left(2x+3\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities11a-h3",
@@ -24,8 +26,9 @@
             "a65ae04inequalities11a-h2"
         ],
         "title": "Solve",
-        "text": "Now, solve for x in both of the above equations to find the two solutions to the equation.",
-        "variabilization": {}
+        "text": "Now, solve for $$x$$ in both of the above equations to find the two solutions to the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a65ae04inequalities11a-h4",
@@ -35,6 +38,7 @@
         ],
         "title": "Answer",
         "text": "The answer is x=2,1/4.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

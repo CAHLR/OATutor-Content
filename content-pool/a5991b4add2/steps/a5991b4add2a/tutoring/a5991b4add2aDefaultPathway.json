@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [],
         "title": "Number of terms",
         "text": "How many terms are in this expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5991b4add2a-h2",
@@ -19,7 +20,8 @@
             "a5991b4add2a-h1"
         ],
         "title": "Prefix",
-        "text": "The prefix for 2 is bi-.",
-        "variabilization": {}
+        "text": "The prefix for $$2$$ is bi-.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

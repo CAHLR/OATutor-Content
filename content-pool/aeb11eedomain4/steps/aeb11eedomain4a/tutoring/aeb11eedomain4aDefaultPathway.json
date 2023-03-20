@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Dealing with Square Root",
         "text": "When there is an even root in the formula, we exclude any real numbers that result in a negative number in the radicand.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain4a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "aeb11eedomain4a-h1"
         ],
-        "title": "Solving for x When the Square Root is 0",
-        "text": "The first step is to set the square root to greater than or equal to to zero and solve for x.",
-        "variabilization": {}
+        "title": "Solving for $$x$$ When the Square Root is $$0$$",
+        "text": "The first step is to set the square root to greater than or equal to to zero and solve for $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain4a-h3",
@@ -28,9 +30,10 @@
         "dependencies": [
             "aeb11eedomain4a-h2"
         ],
-        "title": "Equation for When the Square Root is 0",
-        "text": "$$(7-x) \\geq 0;$$ what is the inequality for x?",
+        "title": "Equation for When the Square Root is $$0$$",
+        "text": "$$(7-x) \\geq 0;$$ what is the inequality for $$x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\geq 7$$",
             "$$x \\leq -7$$",
@@ -45,7 +48,8 @@
             "aeb11eedomain4a-h3"
         ],
         "title": "Answer",
-        "text": "Now, we will exclude any number greater than 7 from the domain. The answers are all real numbers less than or equal to 7, or $$(-\\infty,7]$$.",
-        "variabilization": {}
+        "text": "Now, we will exclude any number greater than $$7$$ from the domain. The answers are all real numbers less than or equal to $$7$$, or $$(-\\infty,7]$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

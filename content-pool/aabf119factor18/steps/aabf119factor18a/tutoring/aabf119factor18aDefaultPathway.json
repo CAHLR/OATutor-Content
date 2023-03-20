@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Split the expression.",
-        "text": "Split -5p to -7p and 2p.",
-        "variabilization": {}
+        "text": "Split $$-5p$$ to $$-7p$$ and $$2p$$.",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor18a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Factor the expression.",
         "text": "What is the factoring of $$2p^2$$ $$\\left(+2\\right) p$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor18a-h3",
@@ -34,8 +36,9 @@
             "aabf119factor18a-h2"
         ],
         "title": "Factor the expression.",
-        "text": "What is the factoring of -7p - 7?",
-        "variabilization": {}
+        "text": "What is the factoring of $$-7p-7$$?",
+        "variabilization": {},
+        "oer": ""
     },
     {
         "id": "aabf119factor18a-h4",
@@ -50,6 +53,7 @@
         ],
         "title": "Factor the expression.",
         "text": "Factor out the common term of both $$p+1$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": ""
     }
 ]

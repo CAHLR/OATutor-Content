@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Product Property",
         "text": "Use the Product Property: $$a^m a^n$$ $$=$$ $$a^{m+n}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents18c-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-7"
+            "$$-7$$"
         ],
         "dependencies": [
             "aa30a09exponents18c-h1"
         ],
         "title": "Using the product Property",
         "text": "What is $$\\left(-2\\right)+\\left(-5\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents18c-h3",
@@ -30,6 +32,7 @@
         ],
         "title": "Properties of Negative Exponents",
         "text": "Use the definition of negative exponent, $$a^{\\left(-n\\right)}=\\frac{1}{a^n}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

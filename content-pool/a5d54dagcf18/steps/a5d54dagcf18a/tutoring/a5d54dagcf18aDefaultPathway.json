@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Greatest Common Factor",
         "text": "The first step is determining the greatest common factor between the three terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5d54dagcf18a-h2",
@@ -21,6 +22,7 @@
         "title": "GCF",
         "text": "What is the GCF for the three terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf18a-h2-s1",
@@ -28,12 +30,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "5"
+                    "$$5$$"
                 ],
                 "dependencies": [],
                 "title": "GCF for Constants",
-                "text": "What is the GCF for 5, 15, and 20?",
-                "variabilization": {}
+                "text": "What is the GCF for $$5$$, $$15$$, and 20?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf18a-h2-s2",
@@ -45,8 +48,9 @@
                 ],
                 "dependencies": [],
                 "title": "GCF for Variables",
-                "text": "What is the GCF for $$x^3$$, $$x^2$$, and x?",
-                "variabilization": {}
+                "text": "What is the GCF for $$x^3$$, $$x^2$$, and $$x$$?",
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf18a-h2-s3",
@@ -59,7 +63,8 @@
                 "dependencies": [],
                 "title": "Overall GCF",
                 "text": "Multiply the two previous partial GCFS you found to get the overall GCF. What is it?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -77,6 +82,7 @@
         "title": "Factorization",
         "text": "Now, factor each of the terms separately. What is the sum of the terms?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a5d54dagcf18a-h3-s4",
@@ -89,7 +95,8 @@
                 "dependencies": [],
                 "title": "Factor $$3x^2$$",
                 "text": "Factor out $$5x$$ from $$5x^3$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf18a-h3-s5",
@@ -100,9 +107,10 @@
                     "-3*x"
                 ],
                 "dependencies": [],
-                "title": "Factor 6x",
+                "title": "Factor $$6x$$",
                 "text": "Factor out $$5x$$ from $$-15x^2$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf18a-h3-s6",
@@ -110,12 +118,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "4"
+                    "$$4$$"
                 ],
                 "dependencies": [],
-                "title": "Factor -9",
+                "title": "Factor $$-9$$",
                 "text": "Factor out $$5x$$ from $$20x$$. What remains?",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             },
             {
                 "id": "a5d54dagcf18a-h3-s7",
@@ -129,6 +138,7 @@
                 "title": "Summation of factors",
                 "text": "Using the \"reverse\" Distributive Property, add together the three factors previously found. What is the sum?",
                 "variabilization": {},
+                "oer": "",
                 "choices": [
                     "$$x^2-3x+4$$",
                     "$$3x^2-4x+1$$",
@@ -151,6 +161,7 @@
         ],
         "title": "Final Answer",
         "text": "Using knowledge of the distributive property, multiply the GCF with the sum of the factored values to get the final answer for the factorization of $$5x^3-15x^2+20x$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

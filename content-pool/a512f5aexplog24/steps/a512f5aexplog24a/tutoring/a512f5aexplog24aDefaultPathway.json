@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of ln",
         "text": "ln is a logarithm with base e.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog24a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Solving an equation $$lnx=a$$",
         "text": "To solve an equation $$lnx=a$$, make both sides exponents of e. $$e^{lnx}=e^a$$, and from the properties of logarithms, since ln has base e, the left side of the $$equation=x$$. Therefore, $$x=e^a$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

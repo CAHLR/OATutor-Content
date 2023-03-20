@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "FOIL",
         "text": "Use FOIL to find the product.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex15a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a9cf449complex15a-h1"
         ],
         "title": "FOIL - First",
         "text": "What is the product of the first two terms in each binomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex15a-h3",
@@ -35,7 +37,8 @@
         ],
         "title": "FOIL - Outside",
         "text": "What is the product of the outer two terms in each binomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex15a-h4",
@@ -50,7 +53,8 @@
         ],
         "title": "FOIL - Inside",
         "text": "What is the product of the inner two terms in each binomial?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex15a-h5",
@@ -58,7 +62,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "16"
+            "$$16$$"
         ],
         "dependencies": [
             "a9cf449complex15a-h1"
@@ -66,14 +70,16 @@
         "title": "FOIL",
         "text": "What is the product of the last two terms in each binomial?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a9cf449complex15a-h5-s1",
                 "type": "hint",
                 "dependencies": [],
                 "title": "Square of i",
-                "text": "By definition, i is the square root of -1. So $$i^2=-1$$.",
-                "variabilization": {}
+                "text": "By definition, i is the square root of $$-1$$. So $$i^2=-1$$.",
+                "variabilization": {},
+                "oer": ""
             }
         ]
     },
@@ -88,7 +94,8 @@
         ],
         "title": "Combine like terms",
         "text": "Combine all the like terms got from FOIL.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9cf449complex15a-h7",
@@ -96,13 +103,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "25"
+            "$$25$$"
         ],
         "dependencies": [
             "a9cf449complex15a-h6"
         ],
         "title": "Combine like terms",
         "text": "What is the sum of $$9-12i+12i+16$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

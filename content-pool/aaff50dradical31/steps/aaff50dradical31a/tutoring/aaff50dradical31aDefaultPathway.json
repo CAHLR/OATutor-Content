@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$q^5$$ is $$q^4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaff50dradical31a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{q^5}=\\sqrt{q^4 q}=q^2 \\sqrt{q}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

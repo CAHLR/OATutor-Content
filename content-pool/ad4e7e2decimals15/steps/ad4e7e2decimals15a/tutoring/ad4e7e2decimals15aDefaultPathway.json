@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Match Up",
         "text": "Match up the decimal points, adding zeroes as placeholders. In this case, we write the expression as $$4.8+11.69$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Add",
         "text": "Add the numbers as if they were whole numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals15a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1649"
+            "$$1649$$"
         ],
         "dependencies": [
             "ad4e7e2decimals15a-h2"
         ],
         "title": "Add",
         "text": "What is $$480+1169$$? Remember to carry when needed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad4e7e2decimals15a-h4",
@@ -39,7 +42,8 @@
             "ad4e7e2decimals15a-h3"
         ],
         "title": "Putting Decimal Point",
-        "text": "Place the decimal point in the sum at the same place as where it is in the given numbers, which gives us 16.49.",
-        "variabilization": {}
+        "text": "Place the decimal point in the sum at the same place as where it is in the given numbers, which gives us $$16.49$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

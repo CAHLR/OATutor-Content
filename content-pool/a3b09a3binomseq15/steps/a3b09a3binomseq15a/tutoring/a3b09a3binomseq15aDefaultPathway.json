@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Equation",
         "text": "Use the equation $$C(n,r)rx**n-$$ * $$y^r$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h2",
@@ -13,9 +14,10 @@
         "dependencies": [
             "a3b09a3binomseq15a-h1"
         ],
-        "title": "Find r",
+        "title": "Find $$r$$",
         "text": "Since it is asking for the 10th term, $$r+1=6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "5"
+            "$$5$$"
         ],
         "dependencies": [
             "a3b09a3binomseq15a-h2"
         ],
-        "title": "Solve For r",
-        "text": "What is r?",
-        "variabilization": {}
+        "title": "Solve For $$r$$",
+        "text": "What is $$r$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h4",
@@ -38,14 +41,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a3b09a3binomseq15a-h3"
         ],
-        "title": "Solve For n",
-        "text": "What is n?",
-        "variabilization": {}
+        "title": "Solve For $$n$$",
+        "text": "What is $$n$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h5",
@@ -54,8 +58,9 @@
             "a3b09a3binomseq15a-h4"
         ],
         "title": "Plug In Values",
-        "text": "Plug in all the values of n, r, x, and y into the equation and solve.",
-        "variabilization": {}
+        "text": "Plug in all the values of $$n$$, $$r$$, $$x$$, and $$y$$ into the equation and solve.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Solve C(n,r)",
         "text": "C(n,r) can be converted to the equation (n!)/(r!(n-r)!)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h7",
@@ -74,8 +80,9 @@
             "a3b09a3binomseq15a-h6"
         ],
         "title": "Plug In Values",
-        "text": "Plug in the values of n and r into the equation that C(n,r) can be converted to",
-        "variabilization": {}
+        "text": "Plug in the values of $$n$$ and $$r$$ into the equation that C(n,r) can be converted to",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a3b09a3binomseq15a-h8",
@@ -83,13 +90,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-10206"
+            "$$-10206$$"
         ],
         "dependencies": [
             "a3b09a3binomseq15a-h7"
         ],
         "title": "Solve",
         "text": "Combine all the coefficients of variables into one",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

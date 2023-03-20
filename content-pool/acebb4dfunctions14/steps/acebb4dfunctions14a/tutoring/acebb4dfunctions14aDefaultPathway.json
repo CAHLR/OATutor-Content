@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Add the function given to g(2). For g(2), replace every x in the function with 2.",
-        "variabilization": {}
+        "text": "Add the function given to g(2). For g(2), replace every $$x$$ in the function with $$2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4dfunctions14a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Simplify",
         "text": "Simplify the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

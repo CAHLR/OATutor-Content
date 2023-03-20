@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Translating into math expression",
         "text": "The phrase translates into $$\\frac{-56}{\\left(-7\\right)}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply13a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "aafc2dcMultiply13a-h1"
         ],
         "title": "Simplify",
         "text": "What is $$\\frac{-56}{\\left(-7\\right)}$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aafc2dcMultiply13a-h3",
@@ -29,7 +31,8 @@
             "aafc2dcMultiply13a-h2"
         ],
         "title": "Simplify",
-        "text": "Since -56 and -7 have the same sign, the answer is positive: $$\\frac{-56}{\\left(-7\\right)}=8$$.",
-        "variabilization": {}
+        "text": "Since $$-56$$ and $$-7$$ have the same sign, the answer is positive: $$\\frac{-56}{\\left(-7\\right)}=8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

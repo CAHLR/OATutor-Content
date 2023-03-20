@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rethink",
         "text": "Think of it like $$4^y=64$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

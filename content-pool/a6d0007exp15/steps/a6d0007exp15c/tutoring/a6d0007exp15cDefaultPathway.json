@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Negative Exponent Rule",
-        "text": "For any nonzero real number a and natural number n, the negative rule of exponents states that $$a^{-n}=\\frac{1}{a^n}$$",
-        "variabilization": {}
+        "text": "For any nonzero real number a and natural number $$n$$, the negative rule of exponents states that $$a^{-n}=\\frac{1}{a^n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp15c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Negative Exponent Rule",
         "text": "Use the negative exponent rule to simplify the expression: $${\\left(j^3 k^{-2}\\right)}^4={\\left(\\frac{j^3}{k^2}\\right)}^4$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp15c-h3",
@@ -24,8 +26,9 @@
             "a6d0007exp15c-h2"
         ],
         "title": "Power of a Quotient Rule",
-        "text": "For any real numbers a and b and any integer n, the power of a quotient rule of exponents states that $${\\left(\\frac{a}{b}\\right)}^n=\\frac{a^n}{b^n}$$",
-        "variabilization": {}
+        "text": "For any real numbers a and $$b$$ and any integer $$n$$, the power of a quotient rule of exponents states that $${\\left(\\frac{a}{b}\\right)}^n=\\frac{a^n}{b^n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp15c-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Power of a Quotient Rule",
         "text": "Use the power of a quotient rule to simplify the expression: $${\\left(\\frac{j^3}{k^2}\\right)}^4=\\frac{{\\left(j^3\\right)}^4}{{\\left(k^2\\right)}^4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp15c-h5",
@@ -44,8 +48,9 @@
             "a6d0007exp15c-h4"
         ],
         "title": "Power Rule of Exponents",
-        "text": "For any real number a and positive integers m and n, the power rule of exponents states that $${\\left(a^m\\right)}^n=a^{m n}$$",
-        "variabilization": {}
+        "text": "For any real number a and positive integers $$m$$ and $$n$$, the power rule of exponents states that $${\\left(a^m\\right)}^n=a^{m n}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6d0007exp15c-h6",
@@ -55,6 +60,7 @@
         ],
         "title": "Power Rule of Exponents",
         "text": "Use the power rule to simplify the expression: $$\\frac{{\\left(j^3\\right)}^4}{{\\left(k^2\\right)}^4}=\\frac{j^{3\\times4}}{k^{2\\times4}}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

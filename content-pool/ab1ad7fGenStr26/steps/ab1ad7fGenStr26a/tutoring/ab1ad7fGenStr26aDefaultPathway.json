@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Simplification",
         "text": "Simplify each side of the equation as much as possible.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr26a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Use the distributive property to simplify each side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr26a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Variable Terms",
         "text": "Collect all variable terms on the left side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr26a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr26a-h5",
@@ -54,8 +58,9 @@
             "ab1ad7fGenStr26a-h4"
         ],
         "title": "Subtraction",
-        "text": "Subtract 12n from each side.",
-        "variabilization": {}
+        "text": "Subtract $$12n$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab1ad7fGenStr26a-h6",
@@ -65,6 +70,7 @@
         ],
         "title": "Classification",
         "text": "Because $$-3=-3$$ is a true statement, the equation is an identity.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

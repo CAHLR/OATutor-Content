@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Choosing side",
         "text": "Choose a side to be the \"variable\" side and the other side will be the \"constant\" side. In this example, we choose the left side as the \"variable\" side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h3",
@@ -29,8 +31,9 @@
             "a9c142dVarCon31a-h2"
         ],
         "title": "Addition",
-        "text": "Add 1.4x to each side of the equation.",
-        "variabilization": {}
+        "text": "Add $$1.4x$$ to each side of the equation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h5",
@@ -54,8 +58,9 @@
             "a9c142dVarCon31a-h4"
         ],
         "title": "Subtraction",
-        "text": "Subtract 12 from each side.",
-        "variabilization": {}
+        "text": "Subtract $$12$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h6",
@@ -65,7 +70,8 @@
         ],
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h7",
@@ -79,8 +85,9 @@
             "a9c142dVarCon31a-h6"
         ],
         "title": "Division",
-        "text": "Divide 4.2 from each side.",
-        "variabilization": {}
+        "text": "Divide $$4.2$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h8",
@@ -90,7 +97,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon31a-h9",
@@ -106,6 +114,7 @@
         "title": "Verification",
         "text": "Check whether $$2.8\\left(-5\\right)+12$$ equals $$-1.4\\left(-5\\right)-9$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

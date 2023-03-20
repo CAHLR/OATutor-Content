@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sample Space",
-        "text": "There are 8 total areas where the arrow can land on.",
-        "variabilization": {}
+        "text": "There are $$8$$ total areas where the arrow can land on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability14a-h2",
@@ -14,8 +15,9 @@
             "ad37b31probability14a-h1"
         ],
         "title": "Landing on Yellow",
-        "text": "There is only 1 slice in the circle that the arrow can land on.",
-        "variabilization": {}
+        "text": "There is only $$1$$ slice in the circle that the arrow can land on.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability14a-h3",
@@ -24,8 +26,9 @@
             "ad37b31probability14a-h2"
         ],
         "title": "Landing on a Consonant",
-        "text": "There are 4 slices in the circle that the arrow can land on: the B, D, C, F.",
-        "variabilization": {}
+        "text": "There are $$4$$ slices in the circle that the arrow can land on: the B, D, C, F.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability14a-h4",
@@ -35,7 +38,8 @@
         ],
         "title": "Landing on a Yellow Consonant",
         "text": "There isn't any way to land on both a consonant and a yellow slice.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad37b31probability14a-h5",
@@ -45,6 +49,7 @@
         ],
         "title": "Probability of the Union of Two Events",
         "text": "Add the probablity of landing on a yellow and the probablity of landing on a consonant.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

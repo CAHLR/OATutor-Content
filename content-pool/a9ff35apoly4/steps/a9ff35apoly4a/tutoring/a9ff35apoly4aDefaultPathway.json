@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Standard form",
         "text": "The first step is to write the equation in standard form.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly4a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Factoring the quadratic",
         "text": "The next step is to factor the quadratic equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly4a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Factored form",
         "text": "What is our equation factored?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly4a-h4",
@@ -43,9 +46,10 @@
         "dependencies": [
             "a9ff35apoly4a-h3"
         ],
-        "title": "Solving for 0",
+        "title": "Solving for $$0$$",
         "text": "Solve: $$2y+5=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ff35apoly4a-h5",
@@ -53,13 +57,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "9"
+            "$$9$$"
         ],
         "dependencies": [
             "a9ff35apoly4a-h4"
         ],
-        "title": "Solving for 0",
+        "title": "Solving for $$0$$",
         "text": "Solve: $$y-9=0$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "The biking speed is 1.6 times the running speed.",
-        "variabilization": {}
+        "text": "The biking speed is $$1.6$$ times the running speed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni14b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "The Answer",
         "text": "The biking speed of Cruz is $$10\\times1.6=16$$ mph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

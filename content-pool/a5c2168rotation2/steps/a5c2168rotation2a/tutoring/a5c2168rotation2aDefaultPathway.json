@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Equations of Rotation",
-        "text": "If a point (x,y) on the Cartesian plane is represented on a new coordinate plane where the axes of rotation are formed by rotating an angle $$\\theta$$ from the positive x-axis, then the coordinates of the point with respect to the new axes are (x\u2032,y\u2032). We can use the following equations of rotation to define the relationship between (x,y) and (x\u2032,y\u2032): x=x\u2032*cos(\\theta)-y\u2032*sin(\\theta) and y=x\u2032*sin(\\theta)+y\u2032*cos(\\theta)",
-        "variabilization": {}
+        "text": "If a point (x,y) on the Cartesian plane is represented on a new coordinate plane where the axes of rotation are formed by rotating an angle $$\\theta$$ from the positive x-axis, then the coordinates of the point with respect to the new axes are (x\u2032,y\u2032). We can use the following equations of rotation to define the relationship between (x,y) and (x\u2032,y\u2032):\\nx=x\u2032*cos(\\theta)-y\u2032*sin(\\theta)\\nand\\ny=x\u2032*sin(\\theta)+y\u2032*cos(\\theta)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation2a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Substitution",
         "text": "We want to substitute x=x\u2032*cos(\\theta)-y\u2032*sin(\\theta) and y=x\u2032*sin(\\theta)+y\u2032*cos(\\theta) into the equation so that we can manipulate the equation into the new representation. Before we do so, we can also substitute $$\\theta={45}^o$$ into the $$sin\\left(\\theta\\right)$$ and $$cos\\left(\\theta\\right)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Substitution",
         "text": "$$sin\\left({45}^o\\right)=cos\\left({45}^o\\right)$$. What are they equal to?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation2a-h4",
@@ -44,8 +47,9 @@
             "a5c2168rotation2a-h3"
         ],
         "title": "Substitution",
-        "text": "Simplifying the equation of rotation for the x term where x=x\u2032*cos(\\theta)-y\u2032*sin(\\theta), what is x equals to after substituting in $$\\theta={45}^o$$?",
-        "variabilization": {}
+        "text": "Simplifying the equation of rotation for the $$x$$ term where x=x\u2032*cos(\\theta)-y\u2032*sin(\\theta), what is $$x$$ equals to after substituting in $$\\theta={45}^o$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation2a-h5",
@@ -59,8 +63,9 @@
             "a5c2168rotation2a-h4"
         ],
         "title": "Substitution",
-        "text": "Simplifying the equation of rotation for the y term where y=x\u2032*sin(\\theta)+y\u2032*cos(\\theta), what is y equals to after substituting in $$\\theta={45}^o$$?",
-        "variabilization": {}
+        "text": "Simplifying the equation of rotation for the $$y$$ term where y=x\u2032*sin(\\theta)+y\u2032*cos(\\theta), what is $$y$$ equals to after substituting in $$\\theta={45}^o$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c2168rotation2a-h6",
@@ -76,6 +81,7 @@
         "title": "Substitution",
         "text": "Substituting $$x=\\frac{x'-y'}{\\sqrt{2}}$$ and $$y=\\frac{x'+y'}{\\sqrt{2}}$$ into $$2x^2-x y+2y^2-30=0$$, what is the expression?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-\\frac{x'-y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2{\\left(\\frac{x'+y'}{\\sqrt{2}}\\right)}^2-30=0$$",
             "$$2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-\\frac{x'+y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-30=0$$"
@@ -95,6 +101,7 @@
         "title": "Simplification",
         "text": "We can start our simplification by first squaring the denominators and cancelling out with the coefficients of the squared terms. What is the equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\left(x'-y'\\right) \\left(x'-y'\\right)-\\frac{\\left(x'-y'\\right) \\left(x'+y'\\right)}{2}+\\left(x'+y'\\right) \\left(x'+y'\\right)-30=0$$",
             "$$\\left(x'+y'\\right) \\left(x'-y'\\right)-\\frac{\\left(x'-y'\\right) \\left(x'+y'\\right)}{2}+\\frac{\\left(x'+y'\\right) \\left(x'+y'\\right)}{2}-30=0$$"
@@ -114,6 +121,7 @@
         "title": "Simplification",
         "text": "With the equation that we obtained, we will first start by expanding out the binomials using the FOIL method. What is the equation after doing so?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$${x'}^2-2x' y'+{y'}^2-\\frac{{x'}^2-{y'}^2}{2}+{x'}^2+2x' y'+{y'}^2-30=0$$",
             "$${x'}^2+2x' y'+{y'}^2-\\frac{{x'}^2-{y'}^2}{2}+{x'}^2+2x' y'+{y'}^2-30=0$$"
@@ -133,6 +141,7 @@
         "title": "Simplification",
         "text": "Next we will combine the like terms. What is the current equation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$2{x'}^2+2{y'}^2-\\frac{{x'}^2-{y'}^2}{2}-30=0$$",
             "$$2{x'}^2+2{y'}^2+\\frac{{x'}^2-{y'}^2}{2}-30=0$$"
@@ -150,8 +159,9 @@
             "a5c2168rotation2a-h9"
         ],
         "title": "Simplification",
-        "text": "Multiply all the terms by 2 and shift the constant term to the RHS. What is the equation now?",
+        "text": "Multiply all the terms by $$2$$ and shift the constant term to the RHS. What is the equation now?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$3{x'}^2+5{y'}^2=60$$",
             "$$3{x'}^2+3{y'}^2=60$$"
@@ -169,8 +179,9 @@
             "a5c2168rotation2a-h10"
         ],
         "title": "Simplification",
-        "text": "Set the RHS to 1 by dividing by 60. We can write the equation with x' and y' in the standard form by dividing each term by the constant in the denominator. What is the equation now? The equation is an ellipse.\\n##figure1.gif##",
+        "text": "Set the RHS to $$1$$ by dividing by $$60$$. We can write the equation with x' and y' in the standard form by dividing each term by the constant in the denominator. What is the equation now? The equation is an ellipse.\\n##figure1.gif##",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$\\frac{{x'}^2}{20}+\\frac{{y'}^2}{12}=1$$",
             "$$\\frac{{x'}^2}{12}+\\frac{{y'}^2}{20}=1$$",

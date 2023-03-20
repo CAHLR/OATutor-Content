@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Number of Formulas Needed",
         "text": "Two different formulas will be needed.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain11a-h2",
@@ -14,8 +15,9 @@
             "aeb11eedomain11a-h1"
         ],
         "title": "$$0<n<10$$ Equation",
-        "text": "For n-values under 10, $$C=5n$$.",
-        "variabilization": {}
+        "text": "For $$n-values$$ under $$10$$, $$C=5n$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain11a-h3",
@@ -24,8 +26,9 @@
             "aeb11eedomain11a-h2"
         ],
         "title": "$$n \\geq 10$$ Equation",
-        "text": "For values of n that are 10 or greater, $$C=50$$.",
-        "variabilization": {}
+        "text": "For values of $$n$$ that are $$10$$ or greater, $$C=50$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb11eedomain11a-h4",
@@ -34,7 +37,8 @@
             "aeb11eedomain11a-h3"
         ],
         "title": "Answer",
-        "text": "C(n) $$=$$ {5n if $$0<n<10$$, 50 if $$n \\geq 10$$}",
-        "variabilization": {}
+        "text": "C(n) $$=$$ {5n if $$0<n<10$$, $$50$$ if $$n \\geq 10$$}",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

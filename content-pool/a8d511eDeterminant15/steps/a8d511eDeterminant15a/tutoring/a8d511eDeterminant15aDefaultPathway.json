@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Write a 2x2 determinant with the coefficients of x and y",
-        "variabilization": {}
+        "text": "Write a 2x2 determinant with the coefficients of $$x$$ and $$y$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a8d511eDeterminant15a-h2"
         ],
         "title": "Calculation",
-        "text": "What is 6-(6)?",
-        "variabilization": {}
+        "text": "What is $$6-(6)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h4",
@@ -39,8 +42,9 @@
             "a8d511eDeterminant15a-h3"
         ],
         "title": "Principle",
-        "text": "Replace the x coefficient with the constants",
-        "variabilization": {}
+        "text": "Replace the $$x$$ coefficient with the constants",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant for Dx",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a8d511eDeterminant15a-h5"
         ],
         "title": "Calculation",
-        "text": "What is 24-(24)?",
-        "variabilization": {}
+        "text": "What is $$24-(24)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h7",
@@ -74,8 +80,9 @@
             "a8d511eDeterminant15a-h6"
         ],
         "title": "Principle",
-        "text": "Replace the y coefficient with the constants",
-        "variabilization": {}
+        "text": "Replace the $$y$$ coefficient with the constants",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h8",
@@ -85,7 +92,8 @@
         ],
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant for Dy",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h9",
@@ -93,14 +101,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "a8d511eDeterminant15a-h8"
         ],
         "title": "Calculation",
-        "text": "What is 8-(8)?",
-        "variabilization": {}
+        "text": "What is $$8-(8)$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8d511eDeterminant15a-h10",
@@ -109,7 +118,8 @@
             "a8d511eDeterminant15a-h9"
         ],
         "title": "Principle",
-        "text": "D,Dx, and Dy are 0, so according to the definition, the equations are dependent",
-        "variabilization": {}
+        "text": "D,Dx, and Dy are $$0$$, so according to the definition, the equations are dependent",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying the Solution",
-        "text": "To isolate x, multiply both sides by 56.",
-        "variabilization": {}
+        "text": "To isolate $$x$$, multiply both sides by $$56$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions13a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplifying the Equation",
         "text": "Simplify both sides by reducing.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a02e810proportions13a-h3",
@@ -24,7 +26,8 @@
             "a02e810proportions13a-h2"
         ],
         "title": "Answer",
-        "text": "The answer is 49.",
-        "variabilization": {}
+        "text": "The answer is $$49$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

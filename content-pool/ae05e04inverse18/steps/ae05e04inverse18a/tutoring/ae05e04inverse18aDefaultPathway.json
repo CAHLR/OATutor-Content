@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Finding g(f(x))",
         "text": "The first step is to find g(f(x)).",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse18a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Calculating g(f(x))",
         "text": "$$g(f(x))=\\sqrt[3]{x^3-4+4}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ae05e04inverse18a-h3",
@@ -31,6 +33,7 @@
         "title": "Verifying the Value of g(f(x))",
         "text": "Does $$g(f(x))=x$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -43,7 +46,8 @@
             "ae05e04inverse18a-h3"
         ],
         "title": "Interpreting the Meaning of g(f(x))",
-        "text": "If $$g(f(x))=x$$, then $$g(x)=f^{\\left(-1\\right)} x$$ and $$f(x)=g^{\\left(-1\\right)} x$$. If g(f(x)) is not equal to x, then these statements are false.",
-        "variabilization": {}
+        "text": "If $$g(f(x))=x$$, then $$g(x)=f^{\\left(-1\\right)} x$$ and $$f(x)=g^{\\left(-1\\right)} x$$. If g(f(x)) is not equal to $$x$$, then these statements are false.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

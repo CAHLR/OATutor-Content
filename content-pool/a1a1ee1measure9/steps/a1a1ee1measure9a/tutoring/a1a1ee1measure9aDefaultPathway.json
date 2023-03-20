@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Convert",
-        "text": "Multiply by 1, writing 1 as a fraction relating liters to kiloliters.",
-        "variabilization": {}
+        "text": "Multiply by $$1$$, writing $$1$$ as a fraction relating liters to kiloliters.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure9a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1000"
+            "$$1000$$"
         ],
         "dependencies": [
             "a1a1ee1measure9a-h1"
         ],
         "title": "Convert",
         "text": "How many liters are in one kiloliter?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure9a-h3",
@@ -29,8 +31,9 @@
             "a1a1ee1measure9a-h2"
         ],
         "title": "Multiply",
-        "text": "Multiply 350 L by 1 $$\\frac{kiloliter}{1000}$$ L (L should be in the denominator so that L will divide out).",
-        "variabilization": {}
+        "text": "Multiply $$350$$ L by $$1$$ $$\\frac{kiloliter}{1000}$$ L (L should be in the denominator so that L will divide out).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a1ee1measure9a-h4",
@@ -38,13 +41,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "0.35"
+            "$$0.35$$"
         ],
         "dependencies": [
             "a1a1ee1measure9a-h3"
         ],
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

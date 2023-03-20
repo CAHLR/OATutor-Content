@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Definition of Negative Exponent",
         "text": "A negative exponent can be simplified using the following definition:a**(-n)=1/a**(n)",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aa30a09exponents5a-h2",
@@ -14,7 +15,8 @@
             "aa30a09exponents5a-h1"
         ],
         "title": "Answer",
-        "text": "The answer is 64.",
-        "variabilization": {}
+        "text": "The answer is $$64$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

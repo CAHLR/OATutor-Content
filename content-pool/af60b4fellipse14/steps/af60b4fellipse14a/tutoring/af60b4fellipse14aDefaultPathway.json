@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Matching Standard Form",
         "text": "Change the denominator so that it's in a squared format.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

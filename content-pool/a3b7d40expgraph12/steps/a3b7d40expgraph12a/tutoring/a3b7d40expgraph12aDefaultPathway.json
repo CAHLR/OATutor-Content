@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Rewriting into an equation",
         "text": "The function can be rewritten as $$13\\times7^6-2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

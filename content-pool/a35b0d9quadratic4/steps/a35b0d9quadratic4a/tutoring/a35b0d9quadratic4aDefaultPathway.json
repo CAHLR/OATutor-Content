@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Domain of Quadratic Functions",
         "text": "As with any quadratic function, the domain is all real numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

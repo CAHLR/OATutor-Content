@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Interest formula",
-        "text": "The simple interest formula is $$I=Prt$$, where I is interest, P is principal (amount invested), r is rate, and t is time",
-        "variabilization": {}
+        "text": "The simple interest formula is $$I=Prt$$, where I is interest, P is principal (amount invested), $$r$$ is rate, and $$t$$ is time",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20000-x"
+            "$$20000-x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp2a-h1"
         ],
         "title": "Assigning variables",
         "text": "Let $$x=the$$ amount invested at 3%. How do we express the amount invested at 5% as a mathematical expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Writing a mathematical equation",
         "text": "The next step is to use the information given to write a mathematical equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h4",
@@ -45,7 +48,8 @@
         ],
         "title": "Amount of interest for the 3% account",
         "text": "How much interest will the 3% account earn? Express as a mathematical expression.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h5",
@@ -60,7 +64,8 @@
         ],
         "title": "Amount of interest for 5% account",
         "text": "How much interest will the 5% account earn? Express as a mathematical expression",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h6",
@@ -75,7 +80,8 @@
         ],
         "title": "Amount of interest total",
         "text": "What is the total amount of interest?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Write the mathematical equation",
         "text": "We can use these values to write a mathematical equation, $$0.03x+0.05\\left(20000-x\\right)=0.045\\times20000$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h8",
@@ -94,8 +101,9 @@
             "ad3a8eemixapp2a-h7"
         ],
         "title": "Solve the equation",
-        "text": "The next step is to solve for x",
-        "variabilization": {}
+        "text": "The next step is to solve for $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h9",
@@ -103,14 +111,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "x"
+            "$$x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp2a-h8"
         ],
         "title": "Finding the amount to invest in the 3% account",
         "text": "What variable did we assign to the amount invested in the 3% account?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ad3a8eemixapp2a-h10",
@@ -118,13 +127,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "20000-x"
+            "$$20000-x$$"
         ],
         "dependencies": [
             "ad3a8eemixapp2a-h9"
         ],
         "title": "Finding the amount to invest in the 5% account",
         "text": "What variable did we assign to the amount invested in the 5% account?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

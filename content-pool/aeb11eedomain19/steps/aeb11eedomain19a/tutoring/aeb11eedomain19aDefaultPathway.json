@@ -9,8 +9,9 @@
         ],
         "dependencies": [],
         "title": "Restrictions",
-        "text": "Are there any restrictions on the values of x in this cubic function?",
+        "text": "Are there any restrictions on the values of $$x$$ in this cubic function?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -30,6 +31,7 @@
         "title": "Domain",
         "text": "If there are no restrictions, what is the domain?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$(-\\infty,0)$$",
             "$$(0,\\infty)$$",

@@ -5,15 +5,17 @@
         "dependencies": [],
         "title": "Definition of x-intercepts",
         "text": "The x-intercept is the point at which the graph crosees the x-axis.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord3a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "How to determine the x-intercept?",
-        "text": "Set y equal to zero and solve for x",
-        "variabilization": {}
+        "text": "Set $$y$$ equal to zero and solve for $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a75d03cRecCord3a-h3",
@@ -28,6 +30,7 @@
         ],
         "title": "Solving the equation",
         "text": "Solve for x: $$0=-3x+6$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

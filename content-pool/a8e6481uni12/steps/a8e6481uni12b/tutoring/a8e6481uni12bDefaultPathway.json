@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find the Difference",
-        "text": "The downstream speed is 4 mph more than the upstream speed.",
-        "variabilization": {}
+        "text": "The downstream speed is $$4$$ mph more than the upstream speed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a8e6481uni12b-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "The Answer",
         "text": "The downstream speed is $$8+4=12$$ mph.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

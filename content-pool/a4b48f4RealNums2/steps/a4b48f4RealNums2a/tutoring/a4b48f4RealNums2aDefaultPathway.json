@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying Like Terms",
         "text": "Rearrange the expression so that like terms are next to each other.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b48f4RealNums2a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identifying Like Terms",
         "text": "What is the rearranged expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4b48f4RealNums2a-h3",
@@ -35,6 +37,7 @@
         ],
         "title": "Combining Like Terms",
         "text": "Combine the terms, what is the answer?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

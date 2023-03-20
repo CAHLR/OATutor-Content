@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "What is an arithmetic sequence?",
         "text": "An arithmetic sequence is a sequence where each term increases by $$\\frac{adding}{subtracting}$$ some constant k.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7d2c45Arithseq22a-h2",
@@ -13,6 +14,7 @@
         "dependencies": [],
         "title": "Common difference",
         "text": "The sequence is not arithmetic; there is no common difference.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

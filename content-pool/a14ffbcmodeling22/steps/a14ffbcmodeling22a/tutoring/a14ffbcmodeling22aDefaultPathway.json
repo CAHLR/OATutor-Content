@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [],
         "title": "Fourth Power",
-        "text": "What is the fourth power of x?",
-        "variabilization": {}
+        "text": "What is the fourth power of $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a14ffbcmodeling22a-h2",
@@ -18,13 +19,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "6"
+            "$$6$$"
         ],
         "dependencies": [
             "a14ffbcmodeling22a-h1"
         ],
         "title": "Multiplying Values",
-        "text": "What value multiplied by x will give you y?",
-        "variabilization": {}
+        "text": "What value multiplied by $$x$$ will give you $$y$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

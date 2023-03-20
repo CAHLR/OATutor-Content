@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "Since we know $$d=160$$ and $$t=2.5$$, we can substitute 160 for d and 2.5 for t into the equation, which gives us $$160=2.5r$$.",
-        "variabilization": {}
+        "text": "Since we know $$d=160$$ and $$t=2.5$$, we can substitute $$160$$ for $$d$$ and $$2.5$$ for $$t$$ into the equation, which gives us $$160=2.5r$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1f32dfFormula21a-h2",
@@ -14,7 +15,8 @@
             "a1f32dfFormula21a-h1"
         ],
         "title": "Isolate",
-        "text": "To isolate r, we can divide both sides by 2.5.",
-        "variabilization": {}
+        "text": "To isolate $$r$$, we can divide both sides by $$2.5$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

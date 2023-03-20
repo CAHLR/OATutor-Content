@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Isolating the terms with exponents",
         "text": "The first step is to move all the terms with exponents to one side of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog6a-h2",
@@ -21,6 +22,7 @@
         "title": "Determine if terms have a common base.",
         "text": "Do the terms have a common base?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Yes",
             "No"
@@ -32,9 +34,10 @@
         "dependencies": [
             "a512f5aexplog6a-h2"
         ],
-        "title": "Solving for x",
+        "title": "Solving for $$x$$",
         "text": "The next step is to take the log of both sides. While the choice of which base does not matter, it will be easier to use log(base 10) in this case.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog6a-h4",
@@ -44,7 +47,8 @@
         ],
         "title": "Properties of logarithms",
         "text": "Recall that $${\\ln(b)}^a$$ $$=$$ $$a \\ln(b)$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a512f5aexplog6a-h5",
@@ -54,6 +58,7 @@
         ],
         "title": "Distributive Property",
         "text": "Recall that $$a \\left(x+y\\right)$$ $$=$$ $$a x$$ + $$a y$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Principle",
         "text": "Distribute the polynomial as $$b\\left(2b^2-5b+8\\right)+3\\left(2b^2-5b+8\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly11a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Simplify",
         "text": "Simplify the expression",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a251a50MultiplyPoly11a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Principle",
         "text": "The terms with same degree of variables can be added together.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

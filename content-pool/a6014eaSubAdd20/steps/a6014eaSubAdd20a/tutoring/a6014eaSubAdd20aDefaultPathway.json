@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Rearrangement",
         "text": "Rearrange the terms, using the commutative property of addition. Combine like terms.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd20a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Simplification",
         "text": "Simplify the equation of each side.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd20a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Isolation",
         "text": "Isolate the variable.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd20a-h4",
@@ -44,8 +47,9 @@
             "a6014eaSubAdd20a-h3"
         ],
         "title": "Isolation",
-        "text": "Isolate z.",
-        "variabilization": {}
+        "text": "Isolate $$z$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd20a-h5",
@@ -55,7 +59,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd20a-h6",
@@ -69,8 +74,9 @@
             "a6014eaSubAdd20a-h5"
         ],
         "title": "Verification",
-        "text": "Check whether $$6\\times2+5-5\\times2-4$$ equals 3.",
+        "text": "Check whether $$6\\times2+5-5\\times2-4$$ equals $$3$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Interpreting First Inequality",
         "text": "The first inequality is a less than or equal to symbol, $$ \\leq $$, which indicates the use of a bracket for the left endpoint.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear5c-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Interpreting Second Inequality",
         "text": "The second inequality is a less than or equal to symbol, $$ \\leq $$, which indicates the use of a bracket for the right endpoint.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aded0eclinear5c-h3",
@@ -23,7 +25,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "[1, 4.25]"
+            "[1, $$4.25]$$"
         ],
         "dependencies": [
             "aded0eclinear5c-h2"
@@ -31,11 +33,12 @@
         "title": "Displaying Final Interval Notation",
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(1, 4.25)",
-            "(1, 4.25]",
-            "[1, 4.25)",
-            "[1, 4.25]"
+            "(1, $$4.25)$$",
+            "(1, $$4.25]$$",
+            "[1, $$4.25)$$",
+            "[1, $$4.25]$$"
         ]
     }
 ]

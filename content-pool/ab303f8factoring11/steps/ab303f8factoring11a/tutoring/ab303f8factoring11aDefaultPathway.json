@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Goal",
         "text": "Check if the trinomial follow the pattern of $$a^2-b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring11a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "12x"
+            "$$12x$$"
         ],
         "dependencies": [
             "ab303f8factoring11a-h1"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$144x^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring11a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "7y"
+            "$$7y$$"
         ],
         "dependencies": [
             "ab303f8factoring11a-h2"
         ],
         "title": "Square Roots",
         "text": "What is the square root of $$49y^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab303f8factoring11a-h4",
@@ -45,6 +48,7 @@
         ],
         "title": "Manipulate",
         "text": "Organize the term into $$\\left(12x-7y\\right) \\left(12x+7y\\right)$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

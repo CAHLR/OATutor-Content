@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "What is Range?",
         "text": "The range is the set of all y-values of the relation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "acebb4ddomain9a-h2",
@@ -14,7 +15,8 @@
             "acebb4ddomain9a-h1"
         ],
         "title": "Listing the Range",
-        "text": "We can list the range as follows: {January 12, February 3, April 25, May 10, May 23, July 24, August 2, September 15}",
-        "variabilization": {}
+        "text": "We can list the range as follows: {January $$12$$, February $$3$$, April $$25$$, May $$10$$, May $$23$$, July $$24$$, August $$2$$, September 15}",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

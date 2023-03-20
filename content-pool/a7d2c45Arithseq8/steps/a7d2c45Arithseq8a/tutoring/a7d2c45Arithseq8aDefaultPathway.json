@@ -5,14 +5,16 @@
         "dependencies": [],
         "title": "What is an arithmetic sequence?",
         "text": "An arithmetic sequence is a sequence where each term increases by $$\\frac{adding}{subtracting}$$ some constant k.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a7d2c45Arithseq8a-h2",
         "type": "hint",
         "dependencies": [],
         "title": "Common difference",
-        "text": "The sequence is arithmetic; the common difference is 8.",
-        "variabilization": {}
+        "text": "The sequence is arithmetic; the common difference is $$8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Interpreting the Problem",
-        "text": "We are looking for the quotient of the difference of m and n, and p. This means we want to divide the difference of m and n by p.",
-        "variabilization": {}
+        "text": "We are looking for the quotient of the difference of $$m$$ and $$n$$, and $$p$$. This means we want to divide the difference of $$m$$ and $$n$$ by $$p$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ab3c11fVisualize21a-h2",
@@ -13,17 +14,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "m-n"
+            "$$m-n$$"
         ],
         "dependencies": [
             "ab3c11fVisualize21a-h1"
         ],
         "title": "Difference",
-        "text": "What is the algebraic expression for the difference of m and n?",
+        "text": "What is the algebraic expression for the difference of $$m$$ and $$n$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "m-n",
-            "n-m",
+            "$$m-n$$",
+            "$$n-m$$",
             "$$\\frac{m}{n}$$",
             "$$\\frac{n}{m}$$"
         ]
@@ -40,11 +42,12 @@
             "ab3c11fVisualize21a-h2"
         ],
         "title": "Quotient",
-        "text": "What is the algebraic expression for the quotient of m-n and p?",
+        "text": "What is the algebraic expression for the quotient of $$m-n$$ and $$p$$?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(m-n)-p",
-            "p-(m-n)",
+            "$$(m-n)-p$$",
+            "$$p-(m-n)$$",
             "$$\\frac{m-n}{p}$$",
             "$$\\frac{p}{m-n}$$"
         ]

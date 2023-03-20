@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Representing the distance",
-        "text": "The distance from x to 2 can be represented using an absolute value symbol.",
-        "variabilization": {}
+        "text": "The distance from $$x$$ to $$2$$ can be represented using an absolute value symbol.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h2",
@@ -19,10 +20,11 @@
             "aaa317eLinIneq24a-h1"
         ],
         "title": "Representing the distance",
-        "text": "How to represent the distance from x to 2?",
+        "text": "How to represent the distance from $$x$$ to 2?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "x-2",
+            "$$x-2$$",
             "$$|x-2|$$",
             "$$|x+2|$$"
         ]
@@ -34,8 +36,9 @@
             "aaa317eLinIneq24a-h2"
         ],
         "title": "Inequality",
-        "text": "We can write the values of x that satisfy the condition as an absolute value inequality.",
-        "variabilization": {}
+        "text": "We can write the values of $$x$$ that satisfy the condition as an absolute value inequality.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h4",
@@ -49,8 +52,9 @@
             "aaa317eLinIneq24a-h3"
         ],
         "title": "Taking into account the condition",
-        "text": "How to represent that the distance from x to 2 is less than or equal to 3?",
+        "text": "How to represent that the distance from $$x$$ to $$2$$ is less than or equal to 3?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$|x-2| \\leq 3$$",
             "$$|x-2| \\geq 3$$",
@@ -64,8 +68,9 @@
             "aaa317eLinIneq24a-h4"
         ],
         "title": "Separation",
-        "text": "We can separate the absolute inequality into two inequalities by considering cases that x-2 is positive and x-2 is negative.",
-        "variabilization": {}
+        "text": "We can separate the absolute inequality into two inequalities by considering cases that $$x-2$$ is positive and $$x-2$$ is negative.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h6",
@@ -81,6 +86,7 @@
         "title": "Separation",
         "text": "What two inequalities do we get after the separation?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x-2 \\leq 3$$ and $$x-2 \\geq -3$$",
             "$$x-2 \\leq 3$$ and $$x-2 \\leq -3$$"
@@ -94,7 +100,8 @@
         ],
         "title": "Isolation",
         "text": "We can isolate the variable term by using the addition property.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h8",
@@ -102,14 +109,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "aaa317eLinIneq24a-h7"
         ],
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable on the left?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h9",
@@ -123,8 +131,9 @@
             "aaa317eLinIneq24a-h8"
         ],
         "title": "Addition",
-        "text": "What do we get after we add 2 on both sides?",
+        "text": "What do we get after we add $$2$$ on both sides?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$x \\leq 5$$ and $$x \\geq -5$$",
             "$$x \\leq 5$$ and $$x \\geq -1$$"
@@ -138,7 +147,8 @@
         ],
         "title": "Putting two inequalities together",
         "text": "We can draw the two inequalities on a number line to visualize their relationship.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aaa317eLinIneq24a-h11",
@@ -154,6 +164,7 @@
         "title": "Putting two inequalities together",
         "text": "What do we get after we put the two inequalities above together?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "$$-1 \\leq x \\leq 5$$",
             "$$1 \\leq x \\leq 5$$",
@@ -173,6 +184,7 @@
         ],
         "title": "Interval Notation",
         "text": "How to represent the above inequality in interval notation?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

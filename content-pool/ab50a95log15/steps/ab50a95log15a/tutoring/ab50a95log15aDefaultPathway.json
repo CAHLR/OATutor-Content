@@ -5,6 +5,7 @@
         "dependencies": [],
         "title": "Natural Log",
         "text": "Evaluate the natural log using a calculator.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

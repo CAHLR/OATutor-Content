@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon8a-h2",
@@ -19,8 +20,9 @@
             "a9c142dVarCon8a-h1"
         ],
         "title": "Subtraction",
-        "text": "Subtract 8x from each side.",
-        "variabilization": {}
+        "text": "Subtract $$8x$$ from each side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon8a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9c142dVarCon8a-h4",
@@ -46,6 +49,7 @@
         "title": "Verification",
         "text": "Check whether $$9\\left(-6\\right)$$ equals $$8\\left(-6\\right)-6$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Creating a Common Denominator",
         "text": "We must find the LCD in order to add the fractions. The LCM of 16c and $$8{cd}^2$$ is $$16{cd}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom21a-h2",
@@ -15,7 +16,8 @@
         ],
         "title": "Rewriting Each Fraction",
         "text": "We can rewrite each fraction with a common scaler to get $$\\frac{5d^2}{16{cd}^2}+\\frac{6}{16{cd}^2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "aeb975brationaldenom21a-h3",
@@ -25,6 +27,7 @@
         ],
         "title": "Adding the Fractions",
         "text": "Adding these two fractions, we get $$\\frac{5d^2+6}{16{cd}^2}$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

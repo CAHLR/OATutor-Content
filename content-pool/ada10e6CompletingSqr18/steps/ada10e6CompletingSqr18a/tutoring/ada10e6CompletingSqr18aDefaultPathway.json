@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Formula",
         "text": "The pattern of perfect square $$=$$ $$a^2+2ab+b^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h2",
@@ -20,7 +21,8 @@
         ],
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h3",
@@ -28,14 +30,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "m"
+            "$$m$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h2"
         ],
         "title": "Identification",
         "text": "$$a=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h4",
@@ -43,14 +46,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-26m"
+            "$$-26m$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h3"
         ],
         "title": "Identification",
         "text": "What is 2ab?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h5",
@@ -59,8 +63,9 @@
             "ada10e6CompletingSqr18a-h4"
         ],
         "title": "Substitution",
-        "text": "With the known a and 2ab, b can be calculated",
-        "variabilization": {}
+        "text": "With the known a and 2ab, $$b$$ can be calculated",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h6",
@@ -68,14 +73,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-13"
+            "$$-13$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h5"
         ],
         "title": "Calculation",
         "text": "$$b=$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h7",
@@ -83,14 +89,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-13"
+            "$$-13$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h6"
         ],
         "title": "Calculation",
-        "text": "$$2m b=-26m$$, what is m?",
-        "variabilization": {}
+        "text": "$$2m b=-26m$$, what is $$m$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h8",
@@ -98,14 +105,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "169"
+            "$$169$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h7"
         ],
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h9",
@@ -115,7 +123,8 @@
         ],
         "title": "Principle",
         "text": "Remember that $${\\left(-x\\right)}^2=\\left(-x\\right) \\left(-x\\right)=x^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h10",
@@ -123,14 +132,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "169"
+            "$$169$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr18a-h9"
         ],
         "title": "Squaring",
         "text": "What is $${\\left(-13\\right)}^2$$?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "ada10e6CompletingSqr18a-h11",
@@ -140,6 +150,7 @@
         ],
         "title": "Principle",
         "text": "Recall that $$a^2+2ab+b^2={\\left(a+b\\right)}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

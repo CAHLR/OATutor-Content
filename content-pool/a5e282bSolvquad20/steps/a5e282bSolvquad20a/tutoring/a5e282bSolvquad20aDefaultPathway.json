@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic term",
-        "text": "We minus 3 on both sides to get $$2{\\left(x-2\\right)}^2$$ by itself which gives $$2{\\left(x-2\\right)}^2=54$$",
-        "variabilization": {}
+        "text": "We minus $$3$$ on both sides to get $$2{\\left(x-2\\right)}^2$$ by itself which gives $$2{\\left(x-2\\right)}^2=54$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h2",
@@ -13,14 +14,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2"
+            "$$2$$"
         ],
         "dependencies": [
             "a5e282bSolvquad20a-h1"
         ],
         "title": "Find Leading Coefficient",
         "text": "What's the leading coefficient now?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h3",
@@ -30,7 +32,8 @@
         ],
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $${\\left(x-2\\right)}^2=27$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h4",
@@ -39,8 +42,9 @@
             "a5e282bSolvquad20a-h3"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then x $$=$$ $$\\sqrt{k}$$, or x $$=$$ $$-\\sqrt{k}$$, or x $$=\\sqrt{k}$$. $${\\left(x-2\\right)}^2=27$$, we can take square root both sides and get $$x-2=\\sqrt{27}$$ or $$x-2=-\\sqrt{27}$$.",
-        "variabilization": {}
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(x-2\\right)}^2=27$$, we can take square root both sides and get $$x-2=\\sqrt{27}$$ or $$x-2=-\\sqrt{27}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h5",
@@ -53,9 +57,10 @@
         "dependencies": [
             "a5e282bSolvquad20a-h4"
         ],
-        "title": "Find x in $$x-2=-\\sqrt{27}$$",
-        "text": "What is x?",
-        "variabilization": {}
+        "title": "Find $$x$$ in $$x-2=-\\sqrt{27}$$",
+        "text": "What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h6",
@@ -68,9 +73,10 @@
         "dependencies": [
             "a5e282bSolvquad20a-h5"
         ],
-        "title": "Find x in $$x-2=\\sqrt{27}$$",
-        "text": "What is x?",
-        "variabilization": {}
+        "title": "Find $$x$$ in $$x-2=\\sqrt{27}$$",
+        "text": "What is $$x$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h7",
@@ -85,7 +91,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{27}+2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h8",
@@ -100,7 +107,8 @@
         ],
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{27}+2$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5e282bSolvquad20a-h9",
@@ -110,6 +118,7 @@
         ],
         "title": "Final Answer",
         "text": "Therefore, $$2{\\left(x-2\\right)}^2+3=57$$ has two solutions which are $$x=2-3\\sqrt{3}$$, and $$x=2+3\\sqrt{3}$$.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

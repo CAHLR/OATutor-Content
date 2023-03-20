@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd6a-h2",
@@ -14,8 +15,9 @@
             "a6014eaSubAdd6a-h1"
         ],
         "title": "Subtraction",
-        "text": "After subtracting 19 from each side, we get $$x+19-19=-27-19$$.",
-        "variabilization": {}
+        "text": "After subtracting $$19$$ from each side, we get $$x+19-19=-27-19$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd6a-h3",
@@ -23,14 +25,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-46"
+            "$$-46$$"
         ],
         "dependencies": [
             "a6014eaSubAdd6a-h2"
         ],
         "title": "Simplification",
-        "text": "What do we get for x after simplifying the equation?",
-        "variabilization": {}
+        "text": "What do we get for $$x$$ after simplifying the equation?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd6a-h4",
@@ -40,7 +43,8 @@
         ],
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a6014eaSubAdd6a-h5",
@@ -54,8 +58,9 @@
             "a6014eaSubAdd6a-h4"
         ],
         "title": "Verification",
-        "text": "Check whether $$-46+19$$ equals -27.",
+        "text": "Check whether $$-46+19$$ equals $$-27$$.",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "TRUE",
             "FALSE"

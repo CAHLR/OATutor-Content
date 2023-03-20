@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Identifying",
         "text": "$$A=area$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot8a-h2",
@@ -21,6 +22,7 @@
         "title": "Identifying",
         "text": "What is s?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Perimeter",
             "Diagonal",
@@ -35,7 +37,8 @@
         ],
         "title": "Formula",
         "text": "For a square, its $$area={side}^2$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a4a0f7dradicalroot8a-h4",
@@ -51,6 +54,7 @@
         "title": "Substitution",
         "text": "What is s when $$A=200$$?",
         "variabilization": {},
+        "oer": "",
         "subHints": [
             {
                 "id": "a4a0f7dradicalroot8a-h4-s1",
@@ -58,12 +62,13 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "14.1"
+                    "$$14.1$$"
                 ],
                 "dependencies": [],
                 "title": "Square Root",
                 "text": "What is $$\\sqrt{200}$$? (To the nearest tenth)",
-                "variabilization": {}
+                "variabilization": {},
+                "oer": ""
             }
         ]
     }

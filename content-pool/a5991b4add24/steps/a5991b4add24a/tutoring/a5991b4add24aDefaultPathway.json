@@ -4,7 +4,8 @@
         "type": "hint",
         "dependencies": [],
         "title": "Combining Like Terms",
-        "text": "Since both terms are like, we can subtract their coefficients to get 23p",
-        "variabilization": {}
+        "text": "Since both terms are like, we can subtract their coefficients to get $$23p$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

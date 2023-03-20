@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Remainder Theorem Definition",
-        "text": "The remainder theorem is as follows: if f(x) is being divided by (x-a), then the remainder is equal to f(a). This means that we must plug in $$x=4$$ into our dividend.",
-        "variabilization": {}
+        "text": "The remainder theorem is as follows: if f(x) is being divided by $$(x-a)$$, then the remainder is equal to f(a). This means that we must plug in $$x=4$$ into our dividend.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a5c95e8polyzero11a-h2",
@@ -14,7 +15,8 @@
             "a5c95e8polyzero11a-h1"
         ],
         "title": "Plugging In",
-        "text": "$$x^4-1$$ becomes $$4^4-1$$. Our remainder is 255.",
-        "variabilization": {}
+        "text": "$$x^4-1$$ becomes $$4^4-1$$. Our remainder is $$255$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "Determining the Domain",
         "text": "The domain off all quadratic functions is all real numbers.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic27a-s1",
@@ -13,7 +14,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "(3,2)"
+            "$$(3,2)$$"
         ],
         "dependencies": [
             "a35b0d9quadratic27a-h1"
@@ -21,10 +22,11 @@
         "title": "Determining the Vertex",
         "text": "What is the vertex?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
-            "(2,4)",
-            "(2,3)",
-            "(3,2)",
+            "$$(2,4)$$",
+            "$$(2,3)$$",
+            "$$(3,2)$$",
             "$$(\\frac{3}{2},2)$$"
         ]
     },
@@ -34,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1"
+            "$$1$$"
         ],
         "dependencies": [
             "a35b0d9quadratic27a-s1"
         ],
         "title": "Determining the Coefficient",
         "text": "What is the coefficient of the expression?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic27a-h3",
@@ -51,7 +54,8 @@
         ],
         "title": "Identifying the Shape",
         "text": "If the coefficient is positive, it opens upwards.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a35b0d9quadratic27a-h4",
@@ -67,6 +71,7 @@
         "title": "Interpreting the Shape",
         "text": "Does this mean that the vertex will be a Minimum or Maximum?",
         "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
         "choices": [
             "Minimum",
             "Maximum"
@@ -79,7 +84,8 @@
             "a35b0d9quadratic27a-h4"
         ],
         "title": "Identifying the Range",
-        "text": "The range is everything above the Minimum y value",
-        "variabilization": {}
+        "text": "The range is everything above the Minimum $$y$$ value",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Define variables",
-        "text": "Give the first unknown number a variable (like x) and set the second number interms of x",
-        "variabilization": {}
+        "text": "Give the first unknown number a variable (like x) and set the second number interms of $$x$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h2",
@@ -14,8 +15,9 @@
             "a01e792probsolve27a-h1"
         ],
         "title": "Setting an equation",
-        "text": "Based on the question if x is the first number then $$3x+3$$ would be the second number. Now create an equation representing the sum of the two numbers which equals -5",
-        "variabilization": {}
+        "text": "Based on the question if $$x$$ is the first number then $$3x+3$$ would be the second number. Now create an equation representing the sum of the two numbers which equals $$-5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h3",
@@ -25,7 +27,8 @@
         ],
         "title": "Seperating constants",
         "text": "The equation equals $$x+3x+3=-5$$. Now we will seperate the constant numbers to one side. Remeber if you subtract from one side you are also subtracting from the other side",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h4",
@@ -33,14 +36,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "-8"
+            "$$-8$$"
         ],
         "dependencies": [
             "a01e792probsolve27a-h3"
         ],
         "title": "Seperating constants",
-        "text": "what is -5-3",
-        "variabilization": {}
+        "text": "what is $$-5-3$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h5",
@@ -50,7 +54,8 @@
         ],
         "title": "Seperating variable",
         "text": "The equation equals $$x+3x+3=-5$$. Now we will seperate the variables to one side. Remeber if you subtract from one side you are also subtracting from the other side",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h6",
@@ -58,14 +63,15 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "4x"
+            "$$4x$$"
         ],
         "dependencies": [
             "a01e792probsolve27a-h5"
         ],
         "title": "Seperating variable",
         "text": "what is $$3x+1x$$",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h7",
@@ -73,9 +79,10 @@
         "dependencies": [
             "a01e792probsolve27a-h6"
         ],
-        "title": "Find x",
-        "text": "Now that we have seperated x and constants your equations should be $$4x=-8$$. Now find what is the value of x by dividing both sides by 4",
-        "variabilization": {}
+        "title": "Find $$x$$",
+        "text": "Now that we have seperated $$x$$ and constants your equations should be $$4x=-8$$. Now find what is the value of $$x$$ by dividing both sides by $$4$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a01e792probsolve27a-h8",
@@ -83,8 +90,9 @@
         "dependencies": [
             "a01e792probsolve27a-h7"
         ],
-        "title": "Number 2",
-        "text": "Now that you have found the first number which is x, plug that number back into the equation for the second number to get the value for the second number",
-        "variabilization": {}
+        "title": "Number $$2$$",
+        "text": "Now that you have found the first number which is $$x$$, plug that number back into the equation for the second number to get the value for the second number",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

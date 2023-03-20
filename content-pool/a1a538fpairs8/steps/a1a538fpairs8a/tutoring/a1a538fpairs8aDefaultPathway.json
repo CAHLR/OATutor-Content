@@ -5,7 +5,8 @@
         "dependencies": [],
         "title": "How to Verify a Solution",
         "text": "If a point is a solution to a system, then it satisfies both equations.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a1a538fpairs8a-h2",
@@ -15,6 +16,7 @@
         ],
         "title": "Plugging in the Point",
         "text": "Let us plug in the point. 2(-3)+3(4)=6. The first equation is satisfied. $$4=\\frac{2}{3} \\left(-3\\right)+2$$. The second equation is not satisfied, so the point is not a solution.",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]

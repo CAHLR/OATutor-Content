@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute",
-        "text": "To evaluate when $$x=-8$$ means to substitute 8 for x, so we get the expression -(-8).",
-        "variabilization": {}
+        "text": "To evaluate when $$x=-8$$ means to substitute $$8$$ for $$x$$, so we get the expression $$-(-8)$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add18b-h2",
@@ -14,8 +15,9 @@
             "a9ae528add18b-h1"
         ],
         "title": "Evaluating",
-        "text": "-(-8) means the opposite of -8.",
-        "variabilization": {}
+        "text": "$$-(-8)$$ means the opposite of $$-8$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     },
     {
         "id": "a9ae528add18b-h3",
@@ -23,13 +25,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "8"
+            "$$8$$"
         ],
         "dependencies": [
             "a9ae528add18b-h2"
         ],
         "title": "Answer",
         "text": "What is the opposite of -8?",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>"
     }
 ]
