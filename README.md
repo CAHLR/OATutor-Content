@@ -7,7 +7,7 @@ a server can be used to operate an included ExpressJS middleware for interoperab
 such as [Canvas](https://www.instructure.com/).
 
 > Jump to our main repository: [CAHLR/OATutor](https://github.com/CAHLR/OATutor)
-> Jump to our website: [OATutor.io](OATutor.io)
+Jump to our website: [OATutor.io](OATutor.io)
 
 ## Content
 
