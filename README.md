@@ -7,7 +7,6 @@ a server can be used to operate an included ExpressJS middleware for interoperab
 such as [Canvas](https://www.instructure.com/).
 
 > Jump to our main repository: [CAHLR/OATutor](https://github.com/CAHLR/OATutor)
-Jump to our website: [OATutor.io](OATutor.io)
 
 ## Content
 
@@ -15,6 +14,8 @@ This content repository contains problems curated from [OpenStax](https://openst
 There are currently three completed OpenStax textbooks which have been piloted in community college classrooms as of Spring 2023. 
 The hints and scaffolds for the problems have been curated by the OATutor team. 
 If you identify any errors please issue a pull request or bug report.
+
+> Jump to our website: [OATutor.io](OATutor.io)
 
 The textbooks contained in this repo are:
 * [College Algebra 2e with Corequisite Support](https://openstax.org/details/books/college-algebra-corequisite-support-2e) 
