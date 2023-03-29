@@ -10,7 +10,7 @@ such as [Canvas](https://www.instructure.com/).
 
 ## Content
 
-This content repository contains problems curated from [OpenStax](https://openstax.org/). 
+This content repository contains problems curated from [OpenStax](https://openstax.org/) with hints and scaffolds authored by the OATutor Project. 
 There are currently three completed OpenStax textbooks which have been piloted in community college classrooms as of Spring 2023. 
 The hints and scaffolds for the problems have been curated by the OATutor team. 
 If you identify any errors please issue a pull request or bug report.
@@ -24,5 +24,5 @@ The textbooks contained in this repo are:
 
 ## License/Atribution
 
-All content in this repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
-Attribution is given to respective projects within each json file per hints, scaffold, and problems.
+All content in this repository is made available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+Attribution is given within each json file, indicating the authoring organization and license for each hint, scaffold, and problem.
