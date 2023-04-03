@@ -6,7 +6,8 @@
         "title": "Identifying the Formula",
         "text": "What is the continuous growth formula?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h2",
@@ -17,7 +18,8 @@
         "title": "Solve for k",
         "text": "Analyze the formula with substituted values and take the necessary steps to solve for k",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h3",
@@ -28,7 +30,8 @@
         "title": "Substitute Known Values",
         "text": "Substitute the half life for $$t$$ and and $$0.5A_0$$ for f(t)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h4",
@@ -39,7 +42,8 @@
         "title": "Eliminate Variable",
         "text": "Divide both side by $$A_0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h5",
@@ -50,7 +54,8 @@
         "title": "Using Natural Log",
         "text": "Take the natural log of both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h6",
@@ -61,7 +66,8 @@
         "title": "Finding k",
         "text": "Divide by the coefficient of k on both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog1a-h7",
@@ -72,6 +78,7 @@
         "title": "Final Formula",
         "text": "Substitute final value for k as the rate in the continuous growth formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

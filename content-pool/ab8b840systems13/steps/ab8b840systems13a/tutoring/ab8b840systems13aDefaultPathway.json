@@ -6,7 +6,8 @@
         "title": "Solve",
         "text": "The first step is to rewrite one of the equations in terms of one of the variables.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h2",
@@ -22,7 +23,8 @@
         "title": "Solve",
         "text": "Rewrite the second equation in terms of $$y$$. What is the equation you end up with?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h3",
@@ -33,7 +35,8 @@
         "title": "Substitute",
         "text": "Next, substitute the second equation into the first. Use the x-value you found in the previous hint, and simplify until you find the value of $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h4",
@@ -49,7 +52,8 @@
         "title": "Solve",
         "text": "Solve for $$y$$ with the new substituted equation. What is the value of $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h5",
@@ -60,7 +64,8 @@
         "title": "Substitute",
         "text": "Next, substitute the value of $$y$$ that you now know into either or the original equations. Solve for $$x$$ to find the numeric solution the system of equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h6",
@@ -76,7 +81,8 @@
         "title": "Solve",
         "text": "What does $$x$$ equal when the $$y$$ value is substituted into either of the original equations?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems13a-h7",
@@ -87,6 +93,7 @@
         "title": "Interpret",
         "text": "Knowing that $$x=4$$ and $$y=-3$$, we can finalize our answer to be $$(4,-3)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

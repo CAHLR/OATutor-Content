@@ -6,7 +6,8 @@
         "title": "Simplification",
         "text": "Simplify each side of the equation as much as possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h2",
@@ -22,7 +23,8 @@
         "title": "Simplification",
         "text": "Use the distributive property to simplify each side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h3",
@@ -33,7 +35,8 @@
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h4",
@@ -49,7 +52,8 @@
         "title": "Subtraction",
         "text": "Subtract $$24$$ from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h5",
@@ -60,7 +64,8 @@
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h6",
@@ -76,7 +81,8 @@
         "title": "Division",
         "text": "Divide $$-6$$ from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h7",
@@ -87,7 +93,8 @@
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25g-h8",
@@ -104,6 +111,7 @@
         "text": "Check whether $$-6+6\\left(5-\\frac{3}{2}\\right)$$ equals $$15$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

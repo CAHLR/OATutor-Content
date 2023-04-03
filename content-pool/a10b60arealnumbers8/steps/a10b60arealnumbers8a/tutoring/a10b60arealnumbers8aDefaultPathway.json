@@ -6,7 +6,8 @@
         "title": "Normal Root",
         "text": "What $$x$$ exists such that $$x^3$$ is -27?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a10b60arealnumbers8a-h2",
@@ -22,6 +23,7 @@
         "title": "Exponent",
         "text": "What is $${\\left(-3\\right)}^3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

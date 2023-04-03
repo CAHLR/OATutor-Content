@@ -6,7 +6,8 @@
         "title": "Definition of a Turning Point",
         "text": "A turning point is a point of the graph where the graph changes from increasing to decreasing (rising to falling) or decreasing to increasing (falling to rising).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph5b-h2",
@@ -17,7 +18,8 @@
         "title": "Expanding the Polynomial",
         "text": "Expand the polynomial to identify the degree of its leading term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph5b-h3",
@@ -28,6 +30,7 @@
         "title": "Turning Points of a Polynomial of Degree $$n$$",
         "text": "A polynomial of degree $$n$$ has at most $$n-1$$ turning points.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

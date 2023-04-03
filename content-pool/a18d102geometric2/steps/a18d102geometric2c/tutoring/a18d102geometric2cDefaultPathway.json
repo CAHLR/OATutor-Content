@@ -8,7 +8,8 @@
         "title": "Find Ratios of Consecutive Terms",
         "text": "To determine if a sequence is geometric, we find the ratio of the consecutive terms shown.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h16",
@@ -24,7 +25,8 @@
         "title": "Ratio Between $$2$$ and $$4$$",
         "text": "What is the common ratio between $$2$$ and 4? Effectively, what is $$\\frac{4}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h17",
@@ -40,7 +42,8 @@
         "title": "Ratio Between $$4$$ and $$12$$",
         "text": "What is the common ratio between $$4$$ and 12? Effectively, what is $$\\frac{12}{4}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h18",
@@ -56,7 +59,8 @@
         "title": "Ratio Between $$12$$ and $$48$$",
         "text": "What is the common ratio between $$12$$ and 48? Effectively, what is $$\\frac{48}{12}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h19",
@@ -72,7 +76,8 @@
         "title": "Ratio Between $$240$$ and $$48$$",
         "text": "What is the common ratio between $$48$$ and 240? Effectively, what is $$\\frac{240}{48}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h20",
@@ -88,7 +93,8 @@
         "title": "Ratio Between $$240$$ and $$1440$$",
         "text": "What is the common ratio between $$240$$ and 1440? Effectively, what is $$\\frac{1440}{240}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric2c-h21",
@@ -105,6 +111,7 @@
         "text": "Are the ratios between consecutive terms common?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes, the series is geometric. The common ratio is $$r=3$$.",
             "Yes, the series is geometric. The common ratio is $$r=4$$.",

@@ -6,7 +6,8 @@
         "title": "Use Vertex",
         "text": "The axis of symmetry of the equation is $$y=k$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola7a-h2",
@@ -22,7 +23,8 @@
         "title": "Find k",
         "text": "What is k in this equation?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola7a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$1$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -44,6 +47,7 @@
         "title": "Answer",
         "text": "Therefore, the axis of symmetry is $$y=1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

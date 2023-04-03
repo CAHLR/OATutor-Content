@@ -6,7 +6,8 @@
         "title": "Factor into Primes",
         "text": "Factor each coefficient into primes. A prime number is a counting number greater than $$1$$, whose only factors are $$1$$ and itself. The first few prime numbers are: $$2$$, $$3$$, $$5$$, $$7$$, $$11$$, $$13$$, etc.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre2a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor First Number",
         "text": "$$8=4\\times2$$\\n$$8=2\\times2\\times2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre2a-h3",
@@ -28,7 +30,8 @@
         "title": "Factor Second Number",
         "text": "$$18=9\\times2$$\\n$$18=3\\times3\\times2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre2a-h4",
@@ -40,7 +43,8 @@
         "title": "Identify Common Factors in each Column",
         "text": "$$8=2\\times2\\times2$$\\n$$18=3\\times3\\times2$$\\n$$2$$ is shared by both numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre2a-h5",
@@ -51,6 +55,7 @@
         "title": "Multiply Common Factors",
         "text": "$$GCF=2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

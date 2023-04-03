@@ -6,7 +6,8 @@
         "title": "Solve for $$y$$",
         "text": "Isolate $$y$$ to one side: $$7x-3y=9$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h2",
@@ -17,7 +18,8 @@
         "title": "Solve for $$y$$",
         "text": "Substract $$7x$$ from each side: $$-3y=-7x+9$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h3",
@@ -28,7 +30,8 @@
         "title": "Solve for $$y$$",
         "text": "Divide both sides by -3: $$\\frac{\\left(-3y\\right)}{-3}=\\frac{\\left(-7x+9\\right)}{-3}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h4",
@@ -39,7 +42,8 @@
         "title": "Solve for $$y$$",
         "text": "Remember $$\\frac{a+b}{c}=\\frac{a}{c}+\\frac{b}{c}$$: $$\\frac{\\left(-3y\\right)}{-3}=\\frac{-7x}{-3}+\\frac{9}{-3}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h5",
@@ -50,7 +54,8 @@
         "title": "Solve for $$y$$",
         "text": "Simplify: $$y=\\frac{7}{3} x-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h6",
@@ -61,7 +66,8 @@
         "title": "Slope-Intercept Form of an Equation of a Line",
         "text": "We compare our equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=\\frac{7}{3} x-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h7",
@@ -77,7 +83,8 @@
         "title": "Identify the slope.",
         "text": "What is $$m$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h8",
@@ -93,7 +100,8 @@
         "title": "Identify $$b$$.",
         "text": "What is $$b$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h9",
@@ -104,7 +112,8 @@
         "title": "Identify the y-intercept.",
         "text": "The y-intercept is (0,b). Since $$b$$ is $$-3$$, the y-intercept would be $$(0,-3)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope13a-h10",
@@ -116,6 +125,7 @@
         "title": "Slope and y-intercept",
         "text": "The slope is $$\\frac{7}{3}$$ and the y-intercept is $$(0,-3)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

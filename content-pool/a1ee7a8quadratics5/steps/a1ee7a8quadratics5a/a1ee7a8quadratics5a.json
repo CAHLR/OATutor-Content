@@ -4,7 +4,7 @@
         "$$x=\\pm 1$$, $$x=\\pm \\left(\\frac{\\sqrt{6}}{2}\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(2x\\right)}^4-{\\left(5x\\right)}^2+3=0$$",
+    "stepTitle": "$$\\left(2x\\right)^4-\\left(5x\\right)^2+3=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

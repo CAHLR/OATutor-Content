@@ -6,7 +6,8 @@
         "title": "Simplification",
         "text": "Simplify each side of the equation as much as possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h2",
@@ -22,7 +23,8 @@
         "title": "Simplification",
         "text": "Use the distributive property to simplify each side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h3",
@@ -33,7 +35,8 @@
         "title": "Variable Terms",
         "text": "Collect all variable terms on the left side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h4",
@@ -44,7 +47,8 @@
         "title": "Subtraction property of equality",
         "text": "When you subtract the same quantity from both sides of an equation, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h5",
@@ -60,7 +64,8 @@
         "title": "Subtraction",
         "text": "Subtract $$4m$$ from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h6",
@@ -71,7 +76,8 @@
         "title": "Constant Terms",
         "text": "Collect all constant terms on the right side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h7",
@@ -82,7 +88,8 @@
         "title": "Addition property of equality",
         "text": "When you add the same quantity to both sides of an equation, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h8",
@@ -98,7 +105,8 @@
         "title": "Addition",
         "text": "Add $$35$$ to each side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h9",
@@ -109,7 +117,8 @@
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h10",
@@ -125,7 +134,8 @@
         "title": "Division",
         "text": "Divide $$14$$ from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h11",
@@ -136,7 +146,8 @@
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab1ad7fGenStr25r-h12",
@@ -153,6 +164,7 @@
         "text": "Check whether $$9\\left(2\\times3-3\\right)-8$$ equals $$4\\times3+7$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

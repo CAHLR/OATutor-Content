@@ -6,7 +6,8 @@
         "title": "Square Root Property",
         "text": "Square root both sides of the equations. Remember the positive and negative case?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afa0cfequadraticeq13a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplify",
         "text": "Subtract $$5$$ from each of the cases that resulted from the square root",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

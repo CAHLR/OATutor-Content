@@ -6,7 +6,8 @@
         "title": "Identify $$n$$",
         "text": "We are looking for the number of subsets of a set with $$26$$ distinct letters.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou26a-h2",
@@ -17,7 +18,8 @@
         "title": "Formula for the Number of Subsets of a Set",
         "text": "Substitute $$n=26$$ into the formula: $$2^n$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou26a-h3",
@@ -28,6 +30,7 @@
         "title": "Substitute and Simplify",
         "text": "$$2^{26}=67108864$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

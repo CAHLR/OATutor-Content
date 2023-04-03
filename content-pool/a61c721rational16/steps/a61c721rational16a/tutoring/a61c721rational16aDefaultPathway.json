@@ -6,7 +6,8 @@
         "title": "Factoring Expressions",
         "text": "Using the reciprocal of the second expression, rewrite as mutliplication of rational expressions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h2",
@@ -17,7 +18,8 @@
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the first expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h4",
@@ -49,7 +52,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the factors of the first denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h5",
@@ -60,7 +64,8 @@
         "title": "Factoring Expressions",
         "text": "Factor the numerator and denominator of the second expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h6",
@@ -76,7 +81,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h7",
@@ -92,7 +98,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the factors of the second denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h8",
@@ -103,7 +110,8 @@
         "title": "Multiplying Expressions",
         "text": "Multilply numerators and denominators.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h9",
@@ -119,7 +127,8 @@
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h10",
@@ -135,7 +144,8 @@
         "title": "Simplifying Expressions",
         "text": "After multiplying the factors, what is the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h11",
@@ -146,7 +156,8 @@
         "title": "Common Factor",
         "text": "Cancel the common factors from the numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational16a-h12",
@@ -162,6 +173,7 @@
         "title": "Common Factor",
         "text": "What is the simplified expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

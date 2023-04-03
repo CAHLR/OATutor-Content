@@ -6,7 +6,8 @@
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$200$$ is $$100$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical20a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{200}=\\sqrt{2\\times100}=10\\sqrt{2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

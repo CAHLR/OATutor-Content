@@ -4,7 +4,7 @@
         "C"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x=-\\left(y^2\\right)$$",
+    "stepTitle": "$$x=-y^2$$",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

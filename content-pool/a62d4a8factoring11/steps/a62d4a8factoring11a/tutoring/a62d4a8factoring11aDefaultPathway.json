@@ -11,7 +11,8 @@
         "title": "Greatest common factor",
         "text": "What is the greatest common factor?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring11a-h2",
@@ -22,7 +23,8 @@
         "title": "Factor",
         "text": "Factor out the $$3m$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring11a-h3",
@@ -33,7 +35,8 @@
         "title": "Result",
         "text": "You are left with $$3m \\left(m^2-7m+10\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring11a-h4",
@@ -44,6 +47,7 @@
         "title": "Polynomial type",
         "text": "$$m^2-7m+10$$ is a trinomial with leading coefficient $$1$$, so undo FOIL.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

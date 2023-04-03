@@ -6,7 +6,8 @@
         "title": "Determining the Sign",
         "text": "The first step is to find the sign of the product. Since the signs are the different, the product is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize6a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiplying",
         "text": "The next step is to multiply the two numerators and the two demoninators.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize6a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplying the Numerators",
         "text": "What is $$11\\times5$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize6a-h4",
@@ -49,7 +52,8 @@
         "title": "Multiplying the Denominators",
         "text": "What is $$12\\times7$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize6a-h5",
@@ -60,7 +64,8 @@
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{-55}{84}$$. The next step is to simplify our answer if possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize6a-h6",
@@ -77,6 +82,7 @@
         "text": "Is $$\\frac{-55}{84}$$ already in its simplest form?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

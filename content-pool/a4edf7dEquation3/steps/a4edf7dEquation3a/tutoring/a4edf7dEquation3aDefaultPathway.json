@@ -6,7 +6,8 @@
         "title": "Assumption",
         "text": "Assume one angle is $$m$$ and the other angle is $$n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation3a-h2",
@@ -17,7 +18,8 @@
         "title": "Principle",
         "text": "Two complementary angles means the addition of the two angles are $$90$$, so $$m+n=90$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation3a-h3",
@@ -28,7 +30,8 @@
         "title": "Translation",
         "text": "Converting the other statement to $$m-n=26$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation3a-h4",
@@ -40,7 +43,8 @@
         "title": "Addition",
         "text": "Combining the two equation together",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation3a-h5",
@@ -56,7 +60,8 @@
         "title": "Calculation",
         "text": "What is the value of $$m$$ when $$2m=116$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation3a-h6",
@@ -65,6 +70,7 @@
         "title": "Calculation",
         "text": "Find the value of $$n$$ with the known value of $$m$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

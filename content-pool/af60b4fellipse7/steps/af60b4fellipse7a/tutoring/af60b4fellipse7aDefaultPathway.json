@@ -5,12 +5,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{{\\left(x-5\\right)}^2}{9}+\\frac{{\\left(y+2\\right)}^2}{4}=1$$"
+            "$$\\frac{\\left(x-5\\right)^2}{9}+\\frac{\\left(y+2\\right)^2}{4}=1$$"
         ],
         "dependencies": [],
         "title": "Rewriting in Standard Form",
         "text": "Use algebra to rewrite the equation in standard form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

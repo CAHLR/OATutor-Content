@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Our first step is to substitute $$-9$$ for $$y$$ into the expression, and we get the expression $$-\\left(-9\\right)+8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply7b-h2",
@@ -22,7 +23,8 @@
         "title": "Evaluate $$-y$$",
         "text": "By the order of operation, the next step is to evaluate $$-(-9)$$. What is $$-(-9)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply7b-h3",
@@ -33,7 +35,8 @@
         "title": "Evaluate $$-y$$",
         "text": "The opposite of $$-9$$ is $$9$$, so $$-(-9)=9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply7b-h4",
@@ -49,6 +52,7 @@
         "title": "Final Answer",
         "text": "The expressin now becomes $$9+8$$. What is $$9+8$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

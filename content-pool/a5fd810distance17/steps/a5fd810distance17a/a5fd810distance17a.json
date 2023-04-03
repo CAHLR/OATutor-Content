@@ -4,7 +4,7 @@
         "Center: $$(-5,-3)$$, Radius: $$1$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x+5\\right)}^2+{\\left(y+3\\right)}^2=1$$",
+    "stepTitle": "$$\\left(x+5\\right)^2+\\left(y+3\\right)^2=1$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

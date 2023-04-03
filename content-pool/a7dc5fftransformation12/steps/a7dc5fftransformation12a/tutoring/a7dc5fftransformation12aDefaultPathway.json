@@ -6,7 +6,8 @@
         "title": "Order of Transformations",
         "text": "The first step is to recognize the order of transformations. First, $$\\frac{1}{x}$$ is vertically stretched by a factor of $$8$$, then, shifted to the right $$4$$ units, and lastly, shifted down $$2$$ units.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation12a-h2",
@@ -17,7 +18,8 @@
         "title": "Vertically Stretching by a Factor of $$8$$",
         "text": "To vertically stretch the function by a factor of $$8$$, multiply the entire function by $$8$$ to get 8f(x).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation12a-h3",
@@ -34,6 +36,7 @@
         "text": "What is $$8f{\\left(x\\right)}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{8}{x}$$",
             "$$\\frac{1}{8x}$$"
@@ -48,7 +51,8 @@
         "title": "Shifting Right Four Units",
         "text": "To shift the function right four units, replace $$x$$ with $$x-4$$ in the function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation12a-h5",
@@ -65,6 +69,7 @@
         "text": "What is the function after it has been shifted left four units?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{8}{x+4}$$",
             "$$\\frac{8}{x-4}$$"
@@ -79,7 +84,8 @@
         "title": "Shifting Down Two Units",
         "text": "To shift the function down two units, subtract $$2$$ from the function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation12a-h7",
@@ -96,6 +102,7 @@
         "text": "What is the function after it has been shifted down $$2$$ units?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$8\\left(x+4\\right)+2$$",
             "$$8\\left(x-4\\right)-2$$",

@@ -6,7 +6,8 @@
         "title": "Setup",
         "text": "Assume the number is $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving25a-h2",
@@ -22,7 +23,8 @@
         "title": "Conversion",
         "text": "What is 150% in numeric form?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving25a-h3",
@@ -33,7 +35,8 @@
         "title": "Translation",
         "text": "Transform the question in equation form as $$90\\times1.5=x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving25a-h4",
@@ -49,6 +52,7 @@
         "title": "Calculation",
         "text": "What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Know equation for directrix",
         "text": "The equation for a directrix in standard form is $$x=h-p$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola8a-h2",
@@ -15,9 +16,10 @@
             "a0351f0parabola8a-h1"
         ],
         "title": "Find $$h$$ and $$p$$",
-        "text": "$$h$$ in this case is $$-3$$, while $$p$$ is $$-4$$. This can be found in the original equation, which is in the form: $${\\left(y-k\\right)}^2=4p(x-h)$$.",
+        "text": "$$h$$ in this case is $$-3$$, while $$p$$ is $$-4$$. This can be found in the original equation, which is in the form: $$\\left(y-k\\right)^2=4p(x-h)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola8a-h3",
@@ -33,7 +35,8 @@
         "title": "Plug in",
         "text": "Given $$h$$ and $$p$$, what is the directrix?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola8a-h3-s1",
@@ -42,7 +45,8 @@
                 "title": "Answer",
                 "text": "The answer is $$x=1$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -55,6 +59,7 @@
         "title": "Answer",
         "text": "Therefore, the directrix is $$x=1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

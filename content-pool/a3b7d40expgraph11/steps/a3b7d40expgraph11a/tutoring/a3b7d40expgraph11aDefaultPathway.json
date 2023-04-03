@@ -6,7 +6,8 @@
         "title": "General form of exponential function",
         "text": "In the general form of the function f(x) $$=$$ $$a b^{x+c}+d$$, a vertically $$\\frac{stretches}{shrinks}$$ the function, c translates the function to the left or right, and $$d$$ translates the function up or down.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b7d40expgraph11a-h2",
@@ -15,7 +16,8 @@
         "title": "Vertical translations",
         "text": "The function f(x) $$=$$ $$a b^{x+c}+d$$ is being translated upwards by $$d$$ units.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b7d40expgraph11a-h3",
@@ -29,7 +31,8 @@
         "title": "Identifying $$d$$",
         "text": "What is the value of $$d$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b7d40expgraph11a-h4",
@@ -38,7 +41,8 @@
         "title": "Horizontal translations",
         "text": "The function f(x) $$=$$ $$a b^{x+c}+d$$ is being translated c units to the left.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b7d40expgraph11a-h5",
@@ -52,6 +56,7 @@
         "title": "Identifying c",
         "text": "What is the value of c in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

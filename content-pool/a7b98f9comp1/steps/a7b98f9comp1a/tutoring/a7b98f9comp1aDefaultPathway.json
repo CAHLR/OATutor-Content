@@ -6,7 +6,8 @@
         "title": "General Form",
         "text": "We should begin by writing the general form, and then substitute the given functions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9comp1a-h2",
@@ -23,6 +24,7 @@
         "text": "What is the general form of $$(g-f)(x)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$g(x)-f(x)$$",
             "$$g{\\left(x\\right)}+f{\\left(x\\right)}$$",
@@ -44,6 +46,7 @@
         "text": "What do we get after substituting the given functions?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x^2-1+x-1$$",
             "$$x^2-1-x-1$$",
@@ -65,6 +68,7 @@
         "text": "What do we get after rearranging the above equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x \\left(x-1\\right)$$",
             "$$x^2 \\left(x-1\\right)$$",

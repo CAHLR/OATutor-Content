@@ -6,7 +6,8 @@
         "title": "Vertical Extent of Graph",
         "text": "We can observe that the vertical extent of the graph is $$0$$ to $$-4$$. $$0$$ is not included, and $$-4$$ is included.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeb11eedomain6b-h2",
@@ -17,6 +18,7 @@
         "title": "Answer",
         "text": "The range is [-4,0).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "Center: $$(1.5, -2.5)$$, Radius: $$0.5$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-1.5\\right)}^2+{\\left(y+2.5\\right)}^2=0.25$$",
+    "stepTitle": "$$\\left(x-1.5\\right)^2+\\left(y+2.5\\right)^2=0.25$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

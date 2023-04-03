@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Distance Formula",
-        "text": "Given endpoints $$(x_1,y_1)$$, and $$(x_2,y_2)$$, the distance between two points is given by $$\\sqrt{{\\left(x_2-x_1\\right)}^2+{\\left(y_2-y_1\\right)}^2}$$.",
+        "text": "Given endpoints $$(x_1,y_1)$$, and $$(x_2,y_2)$$, the distance between two points is given by $$\\sqrt{\\left(x_2-x_1\\right)^2+\\left(y_2-y_1\\right)^2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h2",
@@ -17,7 +18,8 @@
         "title": "Plug into the formula",
         "text": "We should first calculate $$11-1$$ and $$9-4$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h3",
@@ -33,7 +35,8 @@
         "title": "Subtraction",
         "text": "What is $$11-1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h4",
@@ -49,7 +52,8 @@
         "title": "Subtraction",
         "text": "What is $$9-4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h5",
@@ -61,7 +65,8 @@
         "title": "Simplification",
         "text": "We need to simplify the expression $${10}^2+5^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h6",
@@ -77,7 +82,8 @@
         "title": "Square",
         "text": "What is $${10}^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h7",
@@ -93,7 +99,8 @@
         "title": "Square",
         "text": "What is $$5^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h8",
@@ -110,7 +117,8 @@
         "title": "Addition",
         "text": "What is $$100+25$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h9",
@@ -121,7 +129,8 @@
         "title": "Extraction of square root",
         "text": "The thid step is computing the principal square root.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord10a-h10",
@@ -137,6 +146,7 @@
         "title": "Square root",
         "text": "What is the principal square root of 125?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

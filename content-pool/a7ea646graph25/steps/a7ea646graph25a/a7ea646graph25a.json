@@ -4,7 +4,7 @@
         "$$\\frac{-2}{3}$$ with multiplicity of $$5$$, $$5$$ with multiplicity to $$2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$f(x)={\\left(3x+2\\right)}^5 \\left(x^2-10x+25\\right)$$",
+    "stepTitle": "$$f(x)=\\left(3x+2\\right)^5 \\left(x^2-10x+25\\right)$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

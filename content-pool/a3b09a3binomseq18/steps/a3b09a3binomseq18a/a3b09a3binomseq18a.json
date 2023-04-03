@@ -4,7 +4,7 @@
         "$$-720x^2 y^3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(3x-2y\\right)}^5$$",
+    "stepTitle": "$$\\left(3x-2y\\right)^5$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -6,7 +6,8 @@
         "title": "Evaluating functions",
         "text": "Given the equation for a function, we should replace the input variable in the equation with the value provided and then calculate the result.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af36e21FunNota7a-h2",
@@ -17,7 +18,8 @@
         "title": "Replacement",
         "text": "Replace the variable $$p$$ with $$4$$. We get the expression $$4^2+2\\times4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af36e21FunNota7a-h3",
@@ -33,6 +35,7 @@
         "title": "Simplification",
         "text": "Evaluate the expression $$4^2+2\\times4$$. What is the answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Format of result",
         "text": "What's the format of our result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h2",
@@ -15,9 +16,10 @@
             "a08d293Rational19a-h1"
         ],
         "title": "Property to use",
-        "text": "We want to use $$a^{\\frac{m}{n}}$$ $$=$$ $${\\left(a^m\\right)}^n$$ when writing each radical.",
+        "text": "We want to use $$a^{\\frac{m}{n}}$$ $$=$$ $$\\left(a^m\\right)^n$$ when writing each radical.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h3",
@@ -33,7 +35,8 @@
         "title": "Find the power of the radical.",
         "text": "What's the the power of the radical?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h4",
@@ -44,7 +47,8 @@
         "title": "What property to use?",
         "text": "The power of the radical is the numerator of the exponent.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h5",
@@ -60,7 +64,8 @@
         "title": "Find the index of the radical.",
         "text": "What's the the index of the radical?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h6",
@@ -71,7 +76,8 @@
         "title": "What property to use?",
         "text": "The index of the radical is the denominator of the exponent.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h7",
@@ -87,7 +93,8 @@
         "title": "Write as a radical expression.",
         "text": "What's the racidal expression of the expression given?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-h8",
@@ -103,7 +110,8 @@
         "title": "Simplify and find the result.",
         "text": "Find the result.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-s1",
@@ -117,7 +125,8 @@
         "title": "Simplify and find the result.",
         "text": "What to the power of $$3$$ is 125?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational19a-s2",
@@ -131,6 +140,7 @@
         "title": "Simplify and find the result.",
         "text": "What's the square of 5?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute the number in for the variable in the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitution",
         "text": "After substituting $$y=\\frac{7}{5}$$ into the equation, $$5\\frac{7}{5}+3=10\\frac{7}{5}-4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h3",
@@ -28,7 +30,8 @@
         "title": "Simplification",
         "text": "Simplify the expressions on both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h4",
@@ -44,7 +47,8 @@
         "title": "Simplification",
         "text": "Simplify the left side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h5",
@@ -60,7 +64,8 @@
         "title": "Simplification",
         "text": "Simplify the right side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h6",
@@ -71,7 +76,8 @@
         "title": "Comparison",
         "text": "Determine whether the resulting equation is true.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd3a-h7",
@@ -88,6 +94,7 @@
         "text": "Determine whether $$7+3$$ equals $$14-4$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

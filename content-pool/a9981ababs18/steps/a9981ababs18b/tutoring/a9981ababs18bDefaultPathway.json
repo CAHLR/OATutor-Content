@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$0$$ for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs18b-h2",
@@ -22,6 +23,7 @@
         "title": "Solve the Equation",
         "text": "What do we get for $$y$$ after solving $$y=3|-2|+3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

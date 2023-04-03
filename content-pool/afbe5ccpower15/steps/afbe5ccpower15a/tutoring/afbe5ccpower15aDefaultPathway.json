@@ -6,7 +6,8 @@
         "title": "Visualize the expansion",
         "text": "Think about what would result if you expand it?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower15a-h2",
@@ -23,6 +24,7 @@
         "text": "Is the function in the form $${kx}^p$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -43,6 +45,7 @@
         "text": "Does this mean it is a power function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -63,6 +66,7 @@
         "text": "Is the function in the form $${ax}^p$$ + $${bx}^p-1$$ + c?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

@@ -6,7 +6,8 @@
         "title": "Using PEMDAS",
         "text": "The Order of Operations, PEMDAS, is Parenthese, Exponents, Multiplication, Division, Addition, and Subtraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h2",
@@ -23,6 +24,7 @@
         "text": "Are there any parentheses?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -42,7 +44,8 @@
         "title": "First Operation",
         "text": "What is $$4-2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h4",
@@ -58,7 +61,8 @@
         "title": "Second Operation",
         "text": "What is $$3(4-2)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h5",
@@ -74,7 +78,8 @@
         "title": "Third Operation",
         "text": "What is $$6$$ subtracted by the result of the second operation? This is equal to $$6-3(4-2)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h6",
@@ -91,6 +96,7 @@
         "text": "Are there any exponents?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -110,7 +116,8 @@
         "title": "Fourth Operation",
         "text": "What is $$2^3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h8",
@@ -127,6 +134,7 @@
         "text": "Is there any multiplication or division?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -146,7 +154,8 @@
         "title": "Fifth Operation",
         "text": "What is $$3$$ times the result of the third operation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use24a-h10",
@@ -163,6 +172,7 @@
         "text": "Is there any addition or subtraction?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -182,6 +192,7 @@
         "title": "Sixth Operation",
         "text": "What is $$5+8+0$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

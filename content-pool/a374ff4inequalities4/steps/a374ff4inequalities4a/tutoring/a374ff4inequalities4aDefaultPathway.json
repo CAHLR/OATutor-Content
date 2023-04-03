@@ -6,7 +6,8 @@
         "title": "Find Two Points",
         "text": "Find two points on the graph whose coordinates are integers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a374ff4inequalities4a-h2",
@@ -17,7 +18,8 @@
         "title": "Rise",
         "text": "Imagine a right triangle for this line as shown in the graph. Count the rise.\\n##figure2.gif##",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a374ff4inequalities4a-h3",
@@ -28,7 +30,8 @@
         "title": "Run",
         "text": "Count the run. It's the horizontal distance between the right angle and the line.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a374ff4inequalities4a-h4",
@@ -39,7 +42,8 @@
         "title": "Use Slope Formula",
         "text": "Use the slope formula: $$m=\\frac{rise}{run}$$. Substitute the values of rise and run.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a374ff4inequalities4a-h5",
@@ -50,6 +54,7 @@
         "title": "Answer",
         "text": "The answer is $$\\frac{-5}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

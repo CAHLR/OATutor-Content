@@ -6,7 +6,8 @@
         "title": "Complex Conjugate",
         "text": "The first step is to find the complex conjugate of the denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h2",
@@ -22,7 +23,8 @@
         "title": "Complex Conjugate",
         "text": "What is the complex conjugate of the denominator 2-i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplying Complex Conjugate",
         "text": "Multiply $$2+i$$ to the numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h4",
@@ -44,7 +47,8 @@
         "title": "Multiplying Complex Numbers in Numerator",
         "text": "Use the FOIL method to find the product of $$\\left(3+4i\\right) \\left(2+i\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h5",
@@ -60,7 +64,8 @@
         "title": "Multiplying Complex Numbers in Numerator",
         "text": "What is the product of $$\\left(3+4i\\right) \\left(2+i\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h6",
@@ -71,7 +76,8 @@
         "title": "Multiplying Complex Numbers in Demonimator",
         "text": "Use the formula $$\\left(a+bi\\right) \\left(a-bi\\right)=a^2+b^2$$ to find the product of $$\\left(2-i\\right) \\left(2+i\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h7",
@@ -87,7 +93,8 @@
         "title": "Multiplying Complex Numbers in Demonimator",
         "text": "What is the product of $$\\left(2-i\\right) \\left(2+i\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex18a-h8",
@@ -104,6 +111,7 @@
         "title": "Dividing by a Real Number",
         "text": "After dividing the numerator by the denominator, what is the remaining complex number?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Pythagorean Theorem Definition",
         "text": "The Pythagorean Theorem is given as $$a^2+b^2=c^2$$, where a and $$b$$ refer to the legs of a right triangle adjacent to the $$90$$ degree angle, and c refers to the hypotenuse.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad21a-h2",
@@ -22,7 +23,8 @@
         "title": "Calculating $$a^2$$",
         "text": "What is $$a^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad21a-h3",
@@ -38,7 +40,8 @@
         "title": "Calculating $$b^2$$",
         "text": "What is $$b^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad21a-h4",
@@ -55,7 +58,8 @@
         "title": "Calculating $$c^2$$",
         "text": "$$c^2$$ is equal to the sum of $$a^2+b^2$$. What is $$c^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad21a-h5",
@@ -71,6 +75,7 @@
         "title": "Calculating c",
         "text": "c is equal to $$\\sqrt{c^2}$$. What is c?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

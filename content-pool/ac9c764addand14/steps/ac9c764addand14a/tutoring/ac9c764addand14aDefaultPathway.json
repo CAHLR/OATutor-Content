@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$-4$$ for $$p$$, $$-2$$ for q, and $$8$$ for $$r$$ in the expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand14a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute",
         "text": "We get $$\\frac{\\left(-4+\\left(-2\\right)\\right)}{8}$$ after the substitution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand14a-h3",
@@ -28,7 +30,8 @@
         "title": "Numerator",
         "text": "Add in the numerator first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand14a-h4",
@@ -44,7 +47,8 @@
         "title": "Numerator",
         "text": "What do we get for the numerator after adding the two together?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand14a-h5",
@@ -60,6 +64,7 @@
         "title": "Simplify",
         "text": "What do we get after simplifying the fraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

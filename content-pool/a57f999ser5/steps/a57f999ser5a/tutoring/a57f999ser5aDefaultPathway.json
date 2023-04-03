@@ -6,7 +6,8 @@
         "title": "Find $$a_1$$ and $$a_n$$",
         "text": "We are given $$a_1=20$$ and $$a_n=-50$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h2",
@@ -17,7 +18,8 @@
         "title": "Find $$n$$",
         "text": "To find $$n$$, use the formula for the general term of an arithmetic sequence: $$a_n=a_1+\\left(n-1\\right) d$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h3",
@@ -28,7 +30,8 @@
         "title": "Find $$d$$",
         "text": "The common difference can be found by subtracting the first term from the second term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h4",
@@ -44,7 +47,8 @@
         "title": "Find $$d$$",
         "text": "What is $$15-20$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h5",
@@ -55,7 +59,8 @@
         "title": "Find $$n$$",
         "text": "Substitute values for $$a_1$$, $$a_n$$, and $$d$$ into the arithmetic sequence formula to get $$-50=20+-5\\left(n-1\\right)$$ and solve for $$n$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h6",
@@ -71,7 +76,8 @@
         "title": "Find $$n$$",
         "text": "What is $$n$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h7",
@@ -82,7 +88,8 @@
         "title": "Formula for Sum of the first $$n$$ terms of Arithmetic Series",
         "text": "Substitute values for $$a_1$$, $$a_n$$ , and $$n$$ into the formula: $$S_n=\\frac{n \\left(a_1+a_n\\right)}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h8",
@@ -98,7 +105,8 @@
         "title": "Formula for Sum of the first $$15$$ terms of Arithmetic Series",
         "text": "What is $$S_{15}=\\frac{15\\left(20-50\\right)}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser5a-h9",
@@ -109,6 +117,7 @@
         "title": "Sum of the first $$15$$ terms of Arithmetic Series",
         "text": "The Sum of the first $$15$$ terms of Arithmetic Series is $$-225$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

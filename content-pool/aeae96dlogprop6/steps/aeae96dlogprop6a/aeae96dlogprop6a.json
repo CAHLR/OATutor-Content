@@ -4,7 +4,7 @@
         "2ln(x)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Expand $$\\ln(x^2)$$",
+    "stepTitle": "Expand $$\\ln\\left(x^2\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

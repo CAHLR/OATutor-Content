@@ -6,7 +6,8 @@
         "title": "Perfect Square",
         "text": "This equation is a perfect square",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor27a-h2",
@@ -17,7 +18,8 @@
         "title": "Common Factor",
         "text": "Take out the 3u to make $$10p\\left(9p^2+30pq+25q^2\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor27a-h3",
@@ -28,7 +30,8 @@
         "title": "Factors",
         "text": "In this equation $$z\\left({ax}^2+bx+c\\right)$$ the square root of a and c are $$3$$ and 5q respectively.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor27a-h4",
@@ -39,6 +42,7 @@
         "title": "Plug in",
         "text": "Plug into the perfect square simplified form $${z\\left(nx+m\\right)}^2$$ where $$n$$ is the square root of a and $$m$$ is the square root of c",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

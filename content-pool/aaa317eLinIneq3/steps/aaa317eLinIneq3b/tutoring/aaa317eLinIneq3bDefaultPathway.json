@@ -6,7 +6,8 @@
         "title": "Addition Property",
         "text": "The addition property of inequality: if $$a \\geq b$$, then $$a+c \\geq b+c$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq3b-h2",
@@ -17,7 +18,8 @@
         "title": "Applying the Addition Property",
         "text": "Our goal is to isolate $$x$$ (have $$x$$ on one side and numbers on the other side)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq3b-h3",
@@ -33,7 +35,8 @@
         "title": "Applying the Addition Property",
         "text": "What number should we add to both sides of the inequality to isolate $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq3b-h4",
@@ -49,7 +52,8 @@
         "title": "Left side",
         "text": "What is the left side after adding 1?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq3b-h5",
@@ -65,6 +69,7 @@
         "title": "Right side",
         "text": "What is the right side after adding 1?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

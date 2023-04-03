@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic term",
-        "text": "We add $$8$$ on both sides to get $$3{\\left(b+3\\right)}^2$$ isolated by itself which gives $$3{\\left(b+3\\right)}^2=96$$.",
+        "text": "We add $$8$$ on both sides to get $$3\\left(b+3\\right)^2$$ isolated by itself which gives $$3\\left(b+3\\right)^2=96$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h2",
@@ -22,7 +23,8 @@
         "title": "Find Leading Coefficient",
         "text": "What's the leading coefficient now?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h3",
@@ -31,9 +33,10 @@
             "a5e282bSolvquad22a-h2"
         ],
         "title": "Make the Leading Coefficient \"1\"",
-        "text": "Divide by the leading coefficient on both sides which gives $${\\left(b+3\\right)}^2=32$$.",
+        "text": "Divide by the leading coefficient on both sides which gives $$\\left(b+3\\right)^2=32$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h4",
@@ -42,9 +45,10 @@
             "a5e282bSolvquad22a-h3"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(b+3\\right)}^2=32$$, we can take square root both sides and get $$b+3=\\sqrt{32}$$ or $$b+3=-\\sqrt{32}$$",
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$\\left(b+3\\right)^2=32$$, we can take square root both sides and get $$b+3=\\sqrt{32}$$ or $$b+3=-\\sqrt{32}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h5",
@@ -60,7 +64,8 @@
         "title": "Find $$b$$ in $$b+3=-\\sqrt{32}$$",
         "text": "What is $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h6",
@@ -76,7 +81,8 @@
         "title": "Find $$b$$ in $$b+3=\\sqrt{32}$$",
         "text": "What is $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h7",
@@ -92,7 +98,8 @@
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{32}-3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h8",
@@ -108,7 +115,8 @@
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{32}-3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad22a-h9",
@@ -117,8 +125,9 @@
             "a5e282bSolvquad22a-h8"
         ],
         "title": "Final Answer",
-        "text": "Therefore, $$3{\\left(b+3\\right)}^2-8$$ $$=88$$ has two solutions which are $$b=-4\\sqrt{2}-3$$, and $$b=4\\sqrt{2}-3$$.",
+        "text": "Therefore, $$3\\left(b+3\\right)^2-8$$ $$=88$$ has two solutions which are $$b=-4\\sqrt{2}-3$$, and $$b=4\\sqrt{2}-3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

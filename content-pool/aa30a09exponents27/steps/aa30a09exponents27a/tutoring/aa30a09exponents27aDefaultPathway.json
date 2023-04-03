@@ -6,7 +6,8 @@
         "title": "Quotient Property",
         "text": "Use the definition of the quotient property, $$\\frac{a^m}{a^n}=a^{m-n}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa30a09exponents27a-h2",
@@ -22,6 +23,7 @@
         "title": "Using the Quotient Property",
         "text": "What is $$(5)-(-2)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

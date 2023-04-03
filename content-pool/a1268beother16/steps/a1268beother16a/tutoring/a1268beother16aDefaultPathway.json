@@ -6,7 +6,8 @@
         "title": "How to Group",
         "text": "Grouping requires factoring the first two terms and then factoring the last two terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother16a-h2",
@@ -22,7 +23,8 @@
         "title": "Factoring the First Two Terms",
         "text": "What is the factored form of $$x^3+x^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother16a-h3",
@@ -38,7 +40,8 @@
         "title": "Factoring the Last Two Terms",
         "text": "What is the factored form of $$-9x-9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother16a-h4",
@@ -56,6 +59,7 @@
         "text": "Are the factors in the parenthese identical?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "yes",
             "no"
@@ -70,6 +74,7 @@
         "title": "Last Step",
         "text": "If the factors in the parenthesis of the first and second groups are identical, the polynomial can be factored by grouping. For example, $$a\\left(c+d\\right)+b\\left(c+d\\right)=\\left(a+b\\right) \\left(c+d\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Checking for Divisibility",
         "text": "Is $$5625$$ divisible by 2?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h2",
@@ -17,7 +18,8 @@
         "title": "Checking for Divisibility",
         "text": "Does it end in $$0$$, $$2$$, $$4$$, $$6$$ or 8? No. $$5626$$ is not divisible by $$2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h3",
@@ -28,7 +30,8 @@
         "title": "Checking for Divisibility",
         "text": "Is $$5625$$ divisible by 3?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h4",
@@ -44,7 +47,8 @@
         "title": "Checking for Divisibility",
         "text": "What is the sum of the digits?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h5",
@@ -55,7 +59,8 @@
         "title": "Checking for Divisibility",
         "text": "$$5626$$ is divisible by $$3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h6",
@@ -66,7 +71,8 @@
         "title": "Checking for Divisibility",
         "text": "Is $$5625$$ divisible by $$5$$ or 10?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h7",
@@ -77,7 +83,8 @@
         "title": "Checking for Divisibility",
         "text": "The last digit is $$5$$, it's divisible by $$5$$ not by $$10$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h8",
@@ -88,7 +95,8 @@
         "title": "Checking for Divisibility",
         "text": "Is $$5625$$ divisible by 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afb3ccdlang1a-h9",
@@ -99,6 +107,7 @@
         "title": "Checking for Divisibility",
         "text": "$$5626$$ is not divisible by $$2$$, so it's not divisible by $$6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Writing Numbers as Fractions WIth Denominator $$1$$",
         "text": "Solve this problem by writing the integer as a fraction with denominator $$1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a453be6realnumbers8a-h2",
@@ -23,6 +24,7 @@
         "text": "Does $$-24=\\frac{-24}{1}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

@@ -6,7 +6,8 @@
         "title": "Finding Two Factors Whose Product is the Given Number",
         "text": "The first step is to find two factors whose product is the given number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole16a-h2",
@@ -23,6 +24,7 @@
         "text": "Are $$2$$ and $$63$$ factors of 60?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -37,7 +39,8 @@
         "title": "Prime Number Factors",
         "text": "If a factor is prime, that means it can't be divided further. Thus, it is a prime factor of the number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole16a-h4",
@@ -54,6 +57,7 @@
         "text": "Is $$2$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -74,6 +78,7 @@
         "text": "Is $$63$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -88,7 +93,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "The next step is to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole16a-h7",
@@ -105,6 +111,7 @@
         "text": "Are $$7$$ and $$9$$ factors of 63?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -125,6 +132,7 @@
         "text": "Is $$7$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -145,6 +153,7 @@
         "text": "Is $$9$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -159,7 +168,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "Continue to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole16a-h11",
@@ -176,6 +186,7 @@
         "text": "Are $$3$$ and $$3$$ factors of 9?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -196,6 +207,7 @@
         "text": "Is $$3$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -210,7 +222,8 @@
         "title": "Final Step",
         "text": "The final step is to write the composite number as the product of all the prime factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole16a-h14",
@@ -221,6 +234,7 @@
         "title": "Answer",
         "text": "The found prime factors of $$126$$ were 2,7,3, and $$3$$. Thus $$2\\times3\\times3\\times7=126$$, and $$2\\times3\\times3\\times7$$ is the factorization of $$126$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

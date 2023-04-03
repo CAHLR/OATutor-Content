@@ -12,6 +12,7 @@
         "text": "Because one equation is already solved for $$x$$, which method should you use to solve the system?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "substitution method",
             "subtraction method"
@@ -26,7 +27,8 @@
         "title": "Substitution",
         "text": "Substitute the first equation into the second one.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h3",
@@ -42,7 +44,8 @@
         "title": "Substitution",
         "text": "What does $$9-2y+2y$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h4",
@@ -53,7 +56,8 @@
         "title": "No Solution Equations",
         "text": "Clearly, this statement is a contradiction because 9\u226013. Therefore, the system has no solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h5",
@@ -64,7 +68,8 @@
         "title": "Slope-Intercept Form",
         "text": "We can take a different approach to this problem. Manipulate the equations so that they are both in slope-intercept form. $$y=mx+b$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h6",
@@ -75,7 +80,8 @@
         "title": "Slope-Intercept Form",
         "text": "Isolate the $$y-variable$$ in the first equation to find the slope-intercept form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h7",
@@ -91,7 +97,8 @@
         "title": "Slope-Intercept Form",
         "text": "What does $$y$$ equal when you manipulate the first equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h8",
@@ -102,7 +109,8 @@
         "title": "Slope-Intercept Form",
         "text": "Isolate the $$y-variable$$ in the second equation to find the slope-intercept form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h9",
@@ -118,7 +126,8 @@
         "title": "Slope-Intercept Form",
         "text": "What does $$y$$ equal when you manipulate the second equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h10",
@@ -134,7 +143,8 @@
         "title": "Slope-Intercept Form",
         "text": "What is the value of the slope for both equations?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems7a-h11",
@@ -145,6 +155,7 @@
         "title": "Slope-Intercept Form",
         "text": "Comparing the equations, we see that they have the same slope but different y-intercepts. Therefore, the lines are parallel and do not intersect.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$\\frac{-1}{3}$$ for $$x$$ in the expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand11a-h2",
@@ -22,6 +23,7 @@
         "title": "Substitute",
         "text": "What do we get for $$\\frac{-1}{3}+\\frac{1}{3}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

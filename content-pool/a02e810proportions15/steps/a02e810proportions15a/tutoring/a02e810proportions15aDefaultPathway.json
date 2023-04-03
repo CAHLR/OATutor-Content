@@ -6,7 +6,8 @@
         "title": "Identifying the Solution",
         "text": "To isolate $$y$$, multiply both sides by $$9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a02e810proportions15a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplifying the Equation",
         "text": "Simplify both sides by reducing.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a02e810proportions15a-h3",
@@ -28,6 +30,7 @@
         "title": "Answer",
         "text": "The answer is $$448$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

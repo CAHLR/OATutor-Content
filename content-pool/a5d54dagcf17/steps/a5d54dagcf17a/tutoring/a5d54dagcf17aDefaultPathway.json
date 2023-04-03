@@ -6,7 +6,8 @@
         "title": "Greatest Common Factor",
         "text": "The first step is determining the greatest common factor between the three terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf17a-h2",
@@ -22,7 +23,8 @@
         "title": "GCF",
         "text": "What is the GCF for the three terms?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf17a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "GCF for Constants",
                 "text": "What is the GCF for $$3$$, $$6$$, and 9? As in, what is the greatest number that evenly divides into $$3$$, $$6$$, and 9?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf17a-h2-s2",
@@ -50,7 +53,8 @@
                 "title": "GCF for Variables",
                 "text": "What is the GCF for $$x^2$$, $$x$$, and 1?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$1$$",
                     "$$x$$",
@@ -70,7 +74,8 @@
                 "title": "Overall GCF",
                 "text": "Multiply the two previous partial GCFS you found to get the overall GCF. What is it?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -88,7 +93,8 @@
         "title": "Factorization",
         "text": "Now, factor each of the terms separately. What is the sum of the terms?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf17a-h3-s4",
@@ -102,7 +108,8 @@
                 "title": "Factor $$3x^2$$",
                 "text": "Factor out a $$3$$ from $$3x^2$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf17a-h3-s5",
@@ -116,7 +123,8 @@
                 "title": "Factor $$6x$$",
                 "text": "Factor out a $$3$$ from $$6x$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf17a-h3-s6",
@@ -130,7 +138,8 @@
                 "title": "Factor $$-9$$",
                 "text": "Factor out a $$3$$ from $$-9$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf17a-h3-s7",
@@ -144,7 +153,8 @@
                 "title": "Summation of factors",
                 "text": "Using the \"reverse\" Distributive Property, add together the three factors previously found. What is the sum?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$x^2+2x-3$$",
                     "$$3x^2+2x-1$$",
@@ -168,6 +178,7 @@
         "title": "Final Answer",
         "text": "Using knowledge of the distributive property, multiply the GCF with the sum of the factored values to get the final answer for the factorization of $$3x^2+6x-9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

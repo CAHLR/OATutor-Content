@@ -6,7 +6,8 @@
         "title": "General Approach",
         "text": "To simplify an expression with a fraction bar, we first simplify the expression in the numerator and the expression in the denominator. Second, we simplify the fraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplifying Numerator",
         "text": "What is $$6-3(5)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h3",
@@ -38,7 +40,8 @@
         "title": "Simplifying Denominator",
         "text": "What is $$3^2+3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h4",
@@ -50,7 +53,8 @@
         "title": "Putting Top and Bottom Together",
         "text": "Putting the simplified expressions together, we get the fraction $$\\frac{-9}{12}$$, which we will then try to simplify if possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h5",
@@ -61,7 +65,8 @@
         "title": "Determining the Sign",
         "text": "A negative divided by a positive is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h6",
@@ -78,6 +83,7 @@
         "text": "Do $$9$$ and $$12$$ have any common factors?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -97,7 +103,8 @@
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h8",
@@ -108,7 +115,8 @@
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h9",
@@ -124,7 +132,8 @@
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{9}{3}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h10",
@@ -140,7 +149,8 @@
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{12}{3}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize18a-h11",
@@ -152,6 +162,7 @@
         "title": "Final Answer",
         "text": "So $$\\frac{-3}{4}$$ is our final answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

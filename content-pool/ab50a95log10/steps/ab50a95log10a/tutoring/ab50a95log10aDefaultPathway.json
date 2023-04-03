@@ -6,7 +6,8 @@
         "title": "Natural Log",
         "text": "Whenever there is no base, assume the base is $$10$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab50a95log10a-h2",
@@ -17,6 +18,7 @@
         "title": "Rethink",
         "text": "Think of it like $${10}^y=1000000$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

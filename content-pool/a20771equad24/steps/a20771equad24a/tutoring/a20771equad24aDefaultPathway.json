@@ -6,7 +6,8 @@
         "title": "Factoring a Quadratic Equation",
         "text": "To factor a quadratic expression $${ax}^2-c=0$$, the first step is to divide both sides by a.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad24a-h2",
@@ -23,6 +24,7 @@
         "text": "After dividing both sides by a, what does the equation turn into?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x^2-\\frac{17}{3}=0$$",
             "$$3x^2-\\frac{17}{3}=0$$",
@@ -39,7 +41,8 @@
         "title": "Difference of Squares",
         "text": "The expression then turns into a difference of squares, $$x^2-d^2$$, that can be factored as $$\\left(x+d\\right) \\left(x-d\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad24a-h4",
@@ -50,7 +53,8 @@
         "title": "Answers of a Quadratic Equation",
         "text": "The answers of a quadratic equation are its roots, the $$x$$ values that make the expression $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad24a-h5",
@@ -61,6 +65,7 @@
         "title": "Significance of Quadratic Roots",
         "text": "When $$x=-d$$ or $$x=d$$, $$\\left(x+d\\right) \\left(x-d\\right)=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Complex Conjugate",
         "text": "The first step is to find the complex conjugate of the denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h2",
@@ -22,7 +23,8 @@
         "title": "Complex Conjugate",
         "text": "What is the complex conjugate of the denominator i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplying Complex Conjugate",
         "text": "Multiply the complex conjugate to the denominator and the numerator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h4",
@@ -49,7 +52,8 @@
         "title": "Multiplying Complex Numbers",
         "text": "What is $$(6)(-i)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h5",
@@ -65,7 +69,8 @@
         "title": "Multiplying Complex Numbers",
         "text": "What is $$(4i)(-i)$$? Remember $$i^2=-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h6",
@@ -81,7 +86,8 @@
         "title": "Multiplying Complex Numbers",
         "text": "What is $$(i)(-i)$$? Remember $$i^2=-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex17a-h7",
@@ -94,6 +100,7 @@
         "title": "Combine Like Terms",
         "text": "Add the terms in the numerator, we get $$4-6i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

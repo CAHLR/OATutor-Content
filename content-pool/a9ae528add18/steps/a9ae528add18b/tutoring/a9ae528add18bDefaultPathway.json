@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "To evaluate when $$x=-8$$ means to substitute $$8$$ for $$x$$, so we get the expression $$-(-8)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add18b-h2",
@@ -17,7 +18,8 @@
         "title": "Evaluating",
         "text": "$$-(-8)$$ means the opposite of $$-8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add18b-h3",
@@ -33,6 +35,7 @@
         "title": "Answer",
         "text": "What is the opposite of -8?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

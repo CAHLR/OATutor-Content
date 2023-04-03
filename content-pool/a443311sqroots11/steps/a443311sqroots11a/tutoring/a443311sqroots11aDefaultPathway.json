@@ -6,7 +6,8 @@
         "title": "Multiply",
         "text": "Multiply the numerator and the denominator by the radical in the denominator",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots11a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplify",
         "text": "Simplify the numerator and the denominator",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots11a-h3",
@@ -28,7 +30,8 @@
         "title": "Remove common factors",
         "text": "Remove the common factors of the numerator and denominator by dividing them out.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots11a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is $$\\frac{4\\sqrt{3}}{3}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

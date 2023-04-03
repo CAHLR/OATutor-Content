@@ -6,7 +6,8 @@
         "title": "Finding the Value of $$|q|$$",
         "text": "The first step is to find the value of $$|q|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9d-h2",
@@ -22,7 +23,8 @@
         "title": "Calculating $$|q|$$",
         "text": "$$q=-49$$. What is $$|-49|$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a9ae528add9d-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Evaluating the Absolute Value of Negative Numbers",
                 "text": "If a is negative, then $$|a|=-a$$. For example, $$|-11|=11$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -44,7 +47,8 @@
         "title": "Finding the Value of $$-|q|$$",
         "text": "Multiply $$|q|$$ by $$-1$$ to find $$-|q|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9d-h4",
@@ -60,6 +64,7 @@
         "title": "Calculating $$-|q|$$ with the Substituted Value of q",
         "text": "What is $$-1\\times49$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

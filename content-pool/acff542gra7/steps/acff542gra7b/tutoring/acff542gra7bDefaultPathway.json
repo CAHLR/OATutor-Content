@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We substitute $$x=-4$$ and $$y=4$$ into both inequalities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra7b-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute into First Equation",
         "text": "$$6x-5y<20$$\\n$$6\\left(-4\\right)-5\\times4<20$$\\n$$-44<20$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra7b-h3",
@@ -34,6 +36,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,7 +51,8 @@
         "title": "Substitute into Second Equation",
         "text": "$$-2x+7y>-8$$\\n$$-2\\left(-4\\right)+7\\times4>-8$$\\n$$36>-8$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra7b-h5",
@@ -65,6 +69,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -79,6 +84,7 @@
         "title": "Solutions of a System of Equations",
         "text": "$$(-4,4)$$ makes both inequalities true. $$(-4,4)$$ is a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

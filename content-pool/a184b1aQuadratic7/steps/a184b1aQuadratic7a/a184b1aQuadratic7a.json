@@ -4,7 +4,7 @@
         "$$x=\\frac{\\left(-5+\\sqrt{3}\\right)}{2}$$ or $$\\frac{\\left(-5-\\sqrt{3}\\right)}{2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(2x\\right)}^2+10x+11=0$$",
+    "stepTitle": "$$\\left(2x\\right)^2+10x+11=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -11,7 +11,8 @@
         "title": "Initial Value",
         "text": "What day did the rumor start?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog30a-h2",
@@ -27,6 +28,7 @@
         "title": "Substitution",
         "text": "Substituting $$t=0$$, what is N(0)?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

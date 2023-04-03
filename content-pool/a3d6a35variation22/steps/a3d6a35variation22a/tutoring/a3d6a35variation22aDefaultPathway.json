@@ -6,7 +6,8 @@
         "title": "Use formula",
         "text": "The word problem implies a direct variation formula is needed. This formula is $$m=kv$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3d6a35variation22a-h2",
@@ -17,7 +18,8 @@
         "title": "Find values",
         "text": "Since the liquid has a mass of $$16$$ kilos and has a volume of $$2$$ liters, we can assign $$m$$ to be $$16$$ and v to be $$2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3d6a35variation22a-h3",
@@ -28,7 +30,8 @@
         "title": "Plug in",
         "text": "Plug in the values, and solve for k. Then, put the k value into the direct variation equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3d6a35variation22a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is $$m=8v$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

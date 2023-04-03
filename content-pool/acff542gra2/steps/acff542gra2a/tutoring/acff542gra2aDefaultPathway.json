@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We substitute $$x=3$$ and $$y=-3$$ into both inequalities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra2a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute into First Equation",
         "text": "$$3x+y>5$$\\n$$3\\times3-3>5$$\\n$$6>5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra2a-h3",
@@ -34,6 +36,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,7 +51,8 @@
         "title": "Substitute into Second Equation",
         "text": "$$2x-y \\leq 10$$\\n$$2\\times3-\\left(-3\\right) \\leq 10$$\\n$$9 \\leq 10$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra2a-h5",
@@ -65,6 +69,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -79,6 +84,7 @@
         "title": "Solutions of a System of Equations",
         "text": "$$(3,-3)$$ makes both inequalities true. $$(3,-3)$$ is a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

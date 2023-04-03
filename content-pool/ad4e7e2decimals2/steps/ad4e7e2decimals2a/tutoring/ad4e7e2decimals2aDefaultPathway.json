@@ -6,7 +6,8 @@
         "title": "Left Value",
         "text": "Name the number to the left of the decimal: six",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals2a-h2",
@@ -17,7 +18,8 @@
         "title": "Decimal Point",
         "text": "Write \"and\" for the decimal point",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals2a-h3",
@@ -28,7 +30,8 @@
         "title": "Right Value",
         "text": "Name the number to the right of the decimal: seven",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals2a-h4",
@@ -39,7 +42,8 @@
         "title": "Place Value",
         "text": "Name the place of the decimal",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals2a-h5",
@@ -56,6 +60,7 @@
         "text": "What is the place value of the decimal",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "tenth",
             "hundredths",

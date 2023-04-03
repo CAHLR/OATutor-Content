@@ -6,7 +6,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "When a binomial is squared, the result is a perfect square trinomial. Use the formula: $$x^2+2ax+a^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h2",
@@ -17,7 +18,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "Square the first term of the binomial.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h3",
@@ -33,7 +35,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "What is the product?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h4",
@@ -44,7 +47,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "Square the last term of the binomial.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h5",
@@ -60,7 +64,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "What is the product?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h6",
@@ -71,7 +76,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "For the middle term of the trinomial, double the product of the two terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h7",
@@ -87,7 +93,8 @@
         "title": "Perfect Square Trinomial Formula",
         "text": "What is the product?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly22a-h8",
@@ -98,6 +105,7 @@
         "title": "Combine Like Terms",
         "text": "Add and simplify.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Identifying the GCF",
         "text": "The expression contains a GCF (greatest common factor) which is $$3a^3$$. Factor out the GCF.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral17a-h2",
@@ -17,7 +18,8 @@
         "title": "Identifying Polynomial Type",
         "text": "Since there are two terms in the parantheses, the polynomial type is a binomial.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral17a-h3",
@@ -33,6 +35,7 @@
         "title": "Factor Completely",
         "text": "What is the expression when factored completely? Make sure to multiply and check.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Translate into algebra.",
         "text": "Let $$p=the$$ percent. $$110=88p$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent8a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiply",
         "text": "$$110=88p$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent8a-h3",
@@ -33,7 +35,8 @@
         "title": "Divide",
         "text": "What do you get for $$p$$ when you divide by $$88$$ and simplify?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent8a-h4",
@@ -44,6 +47,7 @@
         "title": "Convert to percent.",
         "text": "$$125\\%=p$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Defining an y-intercept",
         "text": "A y-intercept is the point where an equation hits the y-axis. This means the x-coordinate will be $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2ef97dGrphingQuads27b-h2",
@@ -17,7 +18,8 @@
         "title": "Plugging in $$0$$",
         "text": "Given the definition of a y-intercept, plug in $$0$$ for $$x$$ to solve for the y-value.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2ef97dGrphingQuads27b-h3",
@@ -33,6 +35,7 @@
         "title": "Solving for $$y$$",
         "text": "What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

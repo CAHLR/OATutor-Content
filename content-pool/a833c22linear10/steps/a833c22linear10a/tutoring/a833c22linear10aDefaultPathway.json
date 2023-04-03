@@ -6,7 +6,8 @@
         "title": "Subtract",
         "text": "Subtract y2 - y1.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear10a-h2",
@@ -22,7 +23,8 @@
         "title": "Value",
         "text": "What is this value?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear10a-h3",
@@ -33,7 +35,8 @@
         "title": "Subtract",
         "text": "Subtract x2 - x1.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear10a-h4",
@@ -49,7 +52,8 @@
         "title": "Value",
         "text": "What is this value?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear10a-s1",
@@ -65,6 +69,7 @@
         "title": "Divide",
         "text": "What is y2-y1 over x2-x1?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

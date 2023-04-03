@@ -11,7 +11,8 @@
         "title": "Using Substitution",
         "text": "Substitute $$x=-2$$ into f(x). What is the expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential15a-h2",
@@ -27,7 +28,8 @@
         "title": "Add the Exponent",
         "text": "What is the sum of the exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential15a-h3",
@@ -43,7 +45,8 @@
         "title": "Using Simplification",
         "text": "Simplify the power, $$4^3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential15a-h4",
@@ -59,7 +62,8 @@
         "title": "Using Multiplication",
         "text": "Multiply the terms in the expression, $$2.7\\times64$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential15a-h5",
@@ -75,6 +79,7 @@
         "title": "Using Addition",
         "text": "Add all the terms together, $$172.8+1.5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

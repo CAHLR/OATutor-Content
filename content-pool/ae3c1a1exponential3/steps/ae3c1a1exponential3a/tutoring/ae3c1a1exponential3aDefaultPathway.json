@@ -6,7 +6,8 @@
         "title": "Using Substitution",
         "text": "Substitute $$x=2$$ into the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential3a-h2",
@@ -17,7 +18,8 @@
         "title": "Order of Operations",
         "text": "Identify the highest order of operations that can be applied to the proble.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential3a-h3",
@@ -28,7 +30,8 @@
         "title": "Simplifying the Equation",
         "text": "Using your knowledge of the order of operations, simplify the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential3a-h4",
@@ -44,7 +47,8 @@
         "title": "Using Addition",
         "text": "What is $$2+1$$ in the exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential3a-h5",
@@ -60,7 +64,8 @@
         "title": "Using Exponents",
         "text": "$$3^3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential3a-h6",
@@ -76,6 +81,7 @@
         "title": "Using Multiplication",
         "text": "$$5\\times27$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

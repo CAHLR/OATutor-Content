@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute the variables $$x$$ and $$y$$ with their numeric equivalents",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int27a-h2",
@@ -17,7 +18,8 @@
         "title": "Evaluation",
         "text": "Once you have substituted the variables, evaluate the expression, keeping track of the order of operations (parantheses, then exponents, then multiplication and division, and finnaly addition and subtraction)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int27a-h3",
@@ -33,7 +35,8 @@
         "title": "Evaluation",
         "text": "What is $$4\\times2^2-2\\times2 \\left(-1\\right)+3{\\left(-1\\right)}^2$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ae45a45int27a-h3-s1",
@@ -47,7 +50,8 @@
                 "title": "Evaluation",
                 "text": "What is $$4\\times2^2$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int27a-h3-s2",
@@ -63,7 +67,8 @@
                 "title": "Evaluation",
                 "text": "What is $$2\\times2 \\left(-1\\right)$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int27a-h3-s3",
@@ -79,7 +84,8 @@
                 "title": "Evaluation",
                 "text": "What is $$3{\\left(-1\\right)}^2$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int27a-h3-s4",
@@ -95,7 +101,8 @@
                 "title": "Evaluation",
                 "text": "What is $$16-\\left(-4\\right)+3$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

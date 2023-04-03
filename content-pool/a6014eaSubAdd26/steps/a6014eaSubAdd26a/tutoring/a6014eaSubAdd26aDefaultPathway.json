@@ -6,7 +6,8 @@
         "title": "Rearrangement",
         "text": "Rearrange the terms, using the distributive law of multiplication and the commutative property of addition. Combine like terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd26a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplification",
         "text": "Simplify the equation of each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd26a-h3",
@@ -33,7 +35,8 @@
         "title": "Isolation",
         "text": "Isolate the variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd26a-h4",
@@ -49,7 +52,8 @@
         "title": "Isolation",
         "text": "Isolate $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd26a-h5",
@@ -60,7 +64,8 @@
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd26a-h6",
@@ -77,6 +82,7 @@
         "text": "Check whether $$2\\times5\\times2-9\\times2$$ equals $$3\\left(2-2\\right)-3\\left(2-4\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

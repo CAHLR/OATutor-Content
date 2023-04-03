@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$0$$ for f(x).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs7a-h2",
@@ -17,7 +18,8 @@
         "title": "Isolate",
         "text": "Isolate the absolute value on one side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs7a-h3",
@@ -28,7 +30,8 @@
         "title": "Separate",
         "text": "Break $$16=|x-9|$$ into two separate equations and solve.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs7a-h4",
@@ -44,7 +47,8 @@
         "title": "Separate",
         "text": "What do we get for $$x$$ after solving $$16=x-9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs7a-h5",
@@ -60,6 +64,7 @@
         "title": "Separate",
         "text": "What do we get for $$x$$ after solving $$-16=x-9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

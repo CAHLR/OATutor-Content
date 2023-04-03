@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "Translate $$(-2, 2, 3)$$ to $$x=-2$$, $$y=2$$, $$z=3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h2",
@@ -17,7 +18,8 @@
         "title": "Substitution",
         "text": "Substitute the given value to the first equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h3",
@@ -33,7 +35,8 @@
         "title": "Substitute",
         "text": "What is $$-2-3\\times2+3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h4",
@@ -44,7 +47,8 @@
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the first equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h5",
@@ -55,7 +59,8 @@
         "title": "Substitution",
         "text": "Substitute the given value to the second equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h6",
@@ -71,7 +76,8 @@
         "title": "Substitute",
         "text": "What is $$-3\\left(-2\\right)-2-3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h7",
@@ -82,7 +88,8 @@
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the second equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h8",
@@ -93,7 +100,8 @@
         "title": "Substitution",
         "text": "Substitute the given value to the third equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h9",
@@ -109,7 +117,8 @@
         "title": "Substitute",
         "text": "What is $$2\\left(-2\\right)-2\\times2+3\\times3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h10",
@@ -120,7 +129,8 @@
         "title": "Comparison",
         "text": "The substituted answer matches the given answer so it is the solution to the third equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac26263ThreeVariables3b-h11",
@@ -133,6 +143,7 @@
         "title": "Conclusion",
         "text": "$$(-2, 2, 3)$$ is not the solution to all three equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

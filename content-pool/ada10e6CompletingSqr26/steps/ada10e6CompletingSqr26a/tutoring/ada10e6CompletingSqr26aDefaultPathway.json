@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula",
-        "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
+        "text": "$$\\left(a+b\\right)^2$$ $$=$$ $$a^2+2ab+b^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h2",
@@ -22,7 +23,8 @@
         "title": "Identification",
         "text": "What is $$a^2$$ $$=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h3",
@@ -38,7 +40,8 @@
         "title": "Identification",
         "text": "$$a=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h4",
@@ -54,7 +57,8 @@
         "title": "Identification",
         "text": "What is 2ab?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h5",
@@ -65,7 +69,8 @@
         "title": "Substitution",
         "text": "With the known a and 2ab, $$b$$ can be calculated",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h6",
@@ -81,7 +86,8 @@
         "title": "Calculation",
         "text": "$$b=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h7",
@@ -97,7 +103,8 @@
         "title": "Calculation",
         "text": "$$2x b=4x$$, what is $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h8",
@@ -113,7 +120,8 @@
         "title": "Substitution",
         "text": "What is the third term $$b^2$$ in the perfect square?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h9",
@@ -129,7 +137,8 @@
         "title": "Squaring",
         "text": "What is $$2^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h10",
@@ -140,7 +149,8 @@
         "title": "Organizing",
         "text": "In order to form a perfect square on left side, $$b^2$$ has to be added on both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h11",
@@ -156,7 +166,8 @@
         "title": "Addition",
         "text": "What will be the number on right side after adding 4?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h12",
@@ -172,7 +183,8 @@
         "title": "Addition",
         "text": "What is $$-21+4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h13",
@@ -183,7 +195,8 @@
         "title": "Organizing",
         "text": "The equation becomes $$x^2+4x+4=-21$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h14",
@@ -192,9 +205,10 @@
             "ada10e6CompletingSqr26a-h13"
         ],
         "title": "Simplifying",
-        "text": "It can be simplified to $${\\left(x+2\\right)}^2=-21$$",
+        "text": "It can be simplified to $$\\left(x+2\\right)^2=-21$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h15",
@@ -205,7 +219,8 @@
         "title": "Square Root",
         "text": "The square can be removed by square root",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h16",
@@ -221,7 +236,8 @@
         "title": "Square Root",
         "text": "What is the sqrt[(x+2)**2]?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ada10e6CompletingSqr26a-h17",
@@ -238,6 +254,7 @@
         "text": "What is $$\\sqrt{-21}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "No Real Solution",
             "$$\\sqrt{21}$$",

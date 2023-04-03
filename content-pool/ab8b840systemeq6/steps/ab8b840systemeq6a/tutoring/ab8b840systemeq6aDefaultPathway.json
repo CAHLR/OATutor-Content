@@ -6,7 +6,8 @@
         "title": "Multiplying equations by the least common multiple",
         "text": "The first step is to multiply the equation(s) by the least common multiple of all the coefficients.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systemeq6a-h2",
@@ -17,7 +18,8 @@
         "title": "Definition of the least common multiple",
         "text": "The least common multiple is the smallest quantity that is a multiple of the given set of numbers",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systemeq6a-h3",
@@ -28,7 +30,8 @@
         "title": "Adding(or subtracting) the equations",
         "text": "The next step is to add or subtract the equations to eliminate one of the variables. This will let us solve for the other variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systemeq6a-h4",
@@ -39,6 +42,7 @@
         "title": "Solving the System",
         "text": "The last step is to solve for the variable of the resulting equation. Then, plug that value back into one of the original equations in the system to solve for the other.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

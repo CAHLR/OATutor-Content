@@ -6,7 +6,8 @@
         "title": "Common Factors",
         "text": "Identify the common factor of the numerator and denomiator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals10a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewrite the Fraction",
         "text": "Simplify the fraction by diving the numerator and denominator by the common factor, $$9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals10a-h3",
@@ -33,6 +35,7 @@
         "title": "Simplifed Fraction",
         "text": "What is the simplified form of the fraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

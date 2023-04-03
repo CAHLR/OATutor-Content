@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "To evaluate when $$m=11$$ means to substitute $$11$$ for $$m$$, so we get the expression $$-(11)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add26a-h2",
@@ -17,7 +18,8 @@
         "title": "Evaluating",
         "text": "$$-(11)$$ means the opposite of $$11$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add26a-h3",
@@ -33,6 +35,7 @@
         "title": "Answer",
         "text": "What is the opposite of 11?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Setup",
         "text": "Assume numbers are $$x$$, $$x+1$$, $$x+2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving10a-h2",
@@ -17,7 +18,8 @@
         "title": "Setup",
         "text": "Write an equation based on the condition: $$x+x+1+x+2=-96$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving10a-h3",
@@ -28,7 +30,8 @@
         "title": "Organizing",
         "text": "Rewrite the equation as $$3x=-96-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving10a-s1",
@@ -44,7 +47,8 @@
         "title": "Subtraction",
         "text": "What is $$-96-3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving10a-h4",
@@ -55,6 +59,7 @@
         "title": "Division",
         "text": "Dividing the coefficient on $$x$$ to get the answer",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

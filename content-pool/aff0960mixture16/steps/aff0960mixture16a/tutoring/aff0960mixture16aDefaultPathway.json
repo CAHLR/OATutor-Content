@@ -6,7 +6,8 @@
         "title": "Variables",
         "text": "Represent the number of each type of coin using variables. The number of nickels is three more than eight times the number of pennies, so you can represent nickels as $$8p+3$$, and write pennies simply as $$p$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture16a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiplication",
         "text": "Multiple the number of each coin type(in variable form) by its respective value.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture16a-h3",
@@ -28,7 +30,8 @@
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their coin values into a single equation. This will be $$\\operatorname{0.05}\\left(8p+3\\right)+0.01p=3.02$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture16a-h4",
@@ -39,7 +42,8 @@
         "title": "Calculation",
         "text": "Solve the equation for $$p$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture16a-h5",
@@ -50,7 +54,8 @@
         "title": "Substitution",
         "text": "Plug $$p$$ into the original relationship between the coins to find $$8p+3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture16a-h6",
@@ -61,6 +66,7 @@
         "title": "Calculation",
         "text": "The answer is $$59$$ nickels and $$7$$ pennies.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

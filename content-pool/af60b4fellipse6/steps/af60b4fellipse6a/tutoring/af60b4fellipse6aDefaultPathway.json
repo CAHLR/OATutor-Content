@@ -6,7 +6,8 @@
         "title": "Vertice and Foci",
         "text": "Does the major axis lie on the $$x-$$ or y-axis?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse6a-h2",
@@ -17,7 +18,8 @@
         "title": "Standard Equation Form",
         "text": "What is the standard equation form of this ellipse?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse6a-h3",
@@ -34,6 +36,7 @@
         "text": "Given the format of the standard equation reveals the value of $$h$$ and k, what are the coordinates for the center of the ellipse?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(-2,5)$$",
             "$$(-1,5)$$",
@@ -55,6 +58,7 @@
         "text": "Given we know the value of a and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(-2,5~sqrt(9))",
             "(-1,5~sqrt(9))",
@@ -76,6 +80,7 @@
         "text": "Given we know the value of $$b$$ and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\left(-1\\pm \\sqrt{4}, 5\\right)$$",
             "$$\\left(-2\\pm \\sqrt{4}, 5\\right)$$",
@@ -97,6 +102,7 @@
         "text": "Using the equation $$c^2=a^2-b^2$$ solve for c and obtain the coordinates of the foci",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(-1,5~sqrt(5))",
             "(-2,5~sqrt(5))",

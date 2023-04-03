@@ -6,7 +6,8 @@
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to solve $$\\log_{3}\\left(4x+3\\right)=3$$. Rewrite this expression first into exponential form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log20a-h2",
@@ -23,10 +24,11 @@
         "text": "What is the exponential form of $$\\log_{3}\\left(4x+3\\right)=3$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$3^3=4x+3$$",
             "$$3^{4x+3}=3$$",
-            "$${\\left(4x+3\\right)}^3=3$$"
+            "$$\\left(4x+3\\right)^3=3$$"
         ]
     },
     {
@@ -43,7 +45,8 @@
         "title": "Simplify the Expression",
         "text": "Simplify the expression so all the terms with $$x$$ are on one side and all the constant $$(non-x)$$ terms are on the other.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$4x=24$$",
             "$$4x=27$$",
@@ -63,7 +66,8 @@
                 "title": "Determine $$3^3$$",
                 "text": "What is $$3^3$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "af4e405log20a-h3-s2",
@@ -77,7 +81,8 @@
                 "title": "Determine $$27-3$$",
                 "text": "What is $$27-3$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -95,6 +100,7 @@
         "title": "Solve for $$x$$",
         "text": "What is the value of $$x$$ in $$4x=24$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "$$3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$y=\\ln(1000)$$",
+    "stepTitle": "$$y=\\ln\\left(1000\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

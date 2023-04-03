@@ -6,7 +6,8 @@
         "title": "Setting $$x$$ to zero",
         "text": "To find the y-intercept of a function, we start by setting the $$x$$ value to $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981abAbsolute4b-h2",
@@ -22,6 +23,7 @@
         "title": "Solving for $$y$$",
         "text": "What is $$-|0+4|-3$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

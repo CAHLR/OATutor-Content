@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute the value for $$n$$ into the expression",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts13b-h2",
@@ -17,7 +18,8 @@
         "title": "Evaluate",
         "text": "Evaluate the expression with the substituted value of $$n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts13b-h3",
@@ -33,6 +35,7 @@
         "title": "Evaluate",
         "text": "What is $$-\\left(-5\\right)+1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

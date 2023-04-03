@@ -6,7 +6,8 @@
         "title": "Adding $$7$$ to Both Sides",
         "text": "The first step is to add $$7$$ to both sides of the equation: $$ans(2x-1)=5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother10a-h2",
@@ -17,7 +18,8 @@
         "title": "Creating Two Equations",
         "text": "Create two equations setting $$2x-1$$ equal to $$5$$ and $$-5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother10a-h3",
@@ -33,7 +35,8 @@
         "title": "Solving $$2x-1=5$$",
         "text": "What is $$x$$ when $$2x-1=5$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a1268beother10a-h3-s1",
@@ -42,7 +45,8 @@
                 "title": "Solving $$2x-1=5$$",
                 "text": "To solve $$2x-1=5$$, start by adding $$1$$ to both sides of the equation: $$2x=6$$. Then, divide both sides by $$2$$ to get $$x=3$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -60,7 +64,8 @@
         "title": "Solving $$2x-1=-5$$",
         "text": "What is $$x$$ when $$2x-1=-5$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a1268beother10a-h4-s1",
@@ -69,7 +74,8 @@
                 "title": "Solving $$2x-1=-5$$",
                 "text": "For $$2x-1=-5$$, add $$1$$ to both sides of the equation: $$2x=-4$$. Then, divide both sides by $$2$$ to get $$x=-2$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -83,6 +89,7 @@
         "title": "Final Answer",
         "text": "So, the two values of $$x$$ that would satisfy $$|2x-1|-7=-2$$ are $$3$$ and $$-2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

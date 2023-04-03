@@ -8,7 +8,8 @@
         "title": "Vertice and Foci",
         "text": "Does the major axis lie on the $$x-$$ or y-axis?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse7b-h3",
@@ -25,6 +26,7 @@
         "text": "Given the format of the standard equation reveals the value of $$h$$ and k, what are the coordinates for the center of the ellipse?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(5,-2)$$",
             "$$(-2,5)$$"
@@ -45,6 +47,7 @@
         "text": "Given we know the value of a and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(5~sqrt(9),-2)",
             "(-2,5~sqrt(9))"
@@ -65,6 +68,7 @@
         "text": "Given we know the value of $$b$$ and the center coordinates, what are the coordinates for the vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$5-2\\pm \\sqrt{4}$$",
             "(2~sqrt(4),5)"
@@ -85,6 +89,7 @@
         "text": "Using the equation $$c^2=a^2-b^2$$ solve for c and obtain the coordinates of the foci",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$5-2\\pm \\sqrt{4}$$",
             "(2~sqrt(4),5)"

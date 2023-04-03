@@ -6,7 +6,8 @@
         "title": "Division property of equality",
         "text": "When you divide both sides of an equation by any non-zero number, you still have equality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul1a-h2",
@@ -22,7 +23,8 @@
         "title": "Division",
         "text": "Divide $$5$$ from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul1a-h3",
@@ -38,7 +40,8 @@
         "title": "Simplification",
         "text": "What do we get for $$x$$ after simplifying the equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul1a-h4",
@@ -49,7 +52,8 @@
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul1a-h5",
@@ -66,6 +70,7 @@
         "text": "Check whether $$5\\left(-\\frac{27}{5}\\right)$$ equals $$-27$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

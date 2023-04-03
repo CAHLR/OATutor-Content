@@ -6,7 +6,8 @@
         "title": "Simplify",
         "text": "First, we need to use the Distributive Property to get rid of the parentheses, and then combine like terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplified Inequality",
         "text": "The simplified inequality is $$15x+21>10x-24$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h3",
@@ -28,7 +30,8 @@
         "title": "Isolate",
         "text": "We want to isolate the variable on one side of the inequality.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h4",
@@ -39,7 +42,8 @@
         "title": "Subtraction Property of Inequality",
         "text": "To isolate the variable, we can subtract $$10x$$ and $$21$$ from both sides of the inequality. This gives us $$15x+21-10x-21>10x-24-10x-21$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h5",
@@ -50,7 +54,8 @@
         "title": "Simplify",
         "text": "Simplifying the inequality gives us $$5x>-45$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h6",
@@ -61,7 +66,8 @@
         "title": "Division Property of Inequality",
         "text": "Then, we can divide both sides of the inequality by $$5$$, which gives us $$x$$ on the left hand side and $$-9$$ on the right hand side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h7",
@@ -72,7 +78,8 @@
         "title": "Inequality Sign",
         "text": "Since we divided by a postive number, the inequality stays the same. Hence, we have $$x>-9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afaf721inequalities29a-h8",
@@ -83,6 +90,7 @@
         "title": "Interval Notation: Parentheses and Brackets",
         "text": "In interval notation, parentheses show that the endpoint of the inequality is not included. For example, the expression \"x>3\" includes all numbers greater than $$3$$. Since $$3$$ is not included in the solution, the interval notation is $$(3,\\infty)$$. Since $$\\infty$$ represents \"infinity\" and is not an actual number, we always put a parenthesis next to $$\\infty$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Mutually Exclusive Events",
         "text": "The events \u201cdrawing an ace\u201d and \u201cdrawing a king\u201d are mutually exclusive because they cannot occur at the same time.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad37b31probability6a-h2",
@@ -17,7 +18,8 @@
         "title": "Drawing an Ace",
         "text": "The probability of drawing an ace is $$\\frac{1}{13}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad37b31probability6a-h3",
@@ -28,7 +30,8 @@
         "title": "Drawing a King",
         "text": "the probability of drawing a spade is also $$\\frac{1}{13}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad37b31probability6a-h4",
@@ -39,6 +42,7 @@
         "title": "Addition",
         "text": "Add the probability of drawing an ace with the probability of drawing a king.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

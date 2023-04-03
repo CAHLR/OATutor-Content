@@ -6,7 +6,8 @@
         "title": "Equation",
         "text": "Use the equation C(n,r)=(n!)/(r!(n-r)!) to solve",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq2a-h2",
@@ -15,7 +16,8 @@
         "title": "Plug In Values",
         "text": "Plug in the values to the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq2a-h3",
@@ -29,7 +31,8 @@
         "title": "Solve For the Numerator",
         "text": "What is 6!?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq2a-h4",
@@ -45,7 +48,8 @@
         "title": "Solve For the Denominator: Part $$1$$",
         "text": "What is 2!?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq2a-h5",
@@ -61,7 +65,8 @@
         "title": "Solve For the Denominator: Part $$2$$",
         "text": "What is $$(6-2)!$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq2a-h6",
@@ -77,6 +82,7 @@
         "title": "Solve",
         "text": "What is $$\\frac{720}{24\\times2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

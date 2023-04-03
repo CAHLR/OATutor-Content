@@ -6,7 +6,8 @@
         "title": "Standard form",
         "text": "The first step is to write the equation in standard form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ff35apoly12a-h2",
@@ -17,7 +18,8 @@
         "title": "Factoring the quadratic",
         "text": "The next step is to factor the quadratic equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ff35apoly12a-h3",
@@ -33,7 +35,8 @@
         "title": "Factored form",
         "text": "What is our equation factored?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ff35apoly12a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving for $$0$$",
         "text": "Solve: $$x+4=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ff35apoly12a-h5",
@@ -65,6 +69,7 @@
         "title": "Solving for $$0$$",
         "text": "Solve: $$3x-2=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

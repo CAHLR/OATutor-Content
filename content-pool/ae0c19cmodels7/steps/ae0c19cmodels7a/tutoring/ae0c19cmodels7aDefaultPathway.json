@@ -6,7 +6,8 @@
         "title": "Plotting Points",
         "text": "Plot the points on the graph using the $$x$$ and $$y$$ values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae0c19cmodels7a-h2",
@@ -23,6 +24,7 @@
         "text": "Which graph matches the given coordinate points?\\n##figure2.gif##",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Graph A",
             "Graph B",

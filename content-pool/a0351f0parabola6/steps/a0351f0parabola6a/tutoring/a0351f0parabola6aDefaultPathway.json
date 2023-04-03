@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Know standard form",
-        "text": "The standard form of this equation is $${\\left(y-k\\right)}^2=4p(x-h)$$.",
+        "text": "The standard form of this equation is $$\\left(y-k\\right)^2=4p(x-h)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola6a-h2",
@@ -17,7 +18,8 @@
         "title": "Vertex",
         "text": "The vertex of this type of equation is (h,k).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola6a-h3",
@@ -33,7 +35,8 @@
         "title": "Identify",
         "text": "Now, using the standard form and your knowledge of the vertex, what is the answer?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(-3,1)$$",
             "$$(-2,1)$$"
@@ -46,7 +49,8 @@
                 "title": "Answer",
                 "text": "The answer is $$(-3,1)$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -59,6 +63,7 @@
         "title": "Answer",
         "text": "Therefore, the answer is $$(-3,1)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

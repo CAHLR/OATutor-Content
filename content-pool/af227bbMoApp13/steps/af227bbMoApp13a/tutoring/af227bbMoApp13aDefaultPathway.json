@@ -6,7 +6,8 @@
         "title": "Identify known quantities",
         "text": "There are three known quantities, $$2$$, $$8$$ and 1,600.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h2",
@@ -17,7 +18,8 @@
         "title": "Determine unknown quantities",
         "text": "The unknown quantities are the dimensions (except the height) of the shipping box.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h3",
@@ -28,7 +30,8 @@
         "title": "Assign a variable",
         "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the width of the shipping box equal to $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h4",
@@ -44,7 +47,8 @@
         "title": "Express other quantities",
         "text": "What the length of the shipping box in terms of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h5",
@@ -55,7 +59,8 @@
         "title": "Using the volume formula",
         "text": "The formula for the volume of a box is given as $$V=LWH$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h6",
@@ -71,7 +76,8 @@
         "title": "Using the volume formula",
         "text": "What is the mathematical form of \"the voulme is 1,600 in.**3\"?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h7",
@@ -87,7 +93,8 @@
         "title": "Simplify and Solve",
         "text": "Solve the equation we write. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h8",
@@ -103,7 +110,8 @@
         "title": "Calculate the other quantity",
         "text": "What is $$2x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp13a-h9",
@@ -114,6 +122,7 @@
         "title": "Explain the solution",
         "text": "The length of the shipping box is $$20$$ in., the width is $$10$$ in. and the height is $$8$$ in.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

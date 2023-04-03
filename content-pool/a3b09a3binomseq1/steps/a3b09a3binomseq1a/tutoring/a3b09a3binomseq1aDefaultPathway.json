@@ -6,7 +6,8 @@
         "title": "Equation",
         "text": "Use the equation $$C(n,r)rx**n-$$ * $$y^r$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h2",
@@ -17,7 +18,8 @@
         "title": "Find $$r$$",
         "text": "Since it is asking for the 10th term, $$r+1=10$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h3",
@@ -33,7 +35,8 @@
         "title": "Solve For $$r$$",
         "text": "What is $$r$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h4",
@@ -49,7 +52,8 @@
         "title": "Solve For $$n$$",
         "text": "What is $$n$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h5",
@@ -60,7 +64,8 @@
         "title": "Plug In Values",
         "text": "Plug in all the values of $$n$$, $$r$$, $$x$$, and $$y$$ into the equation and solve.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h6",
@@ -71,7 +76,8 @@
         "title": "Solve C(n,r)",
         "text": "C(n,r) can be converted to the equation (n!)/(r!(n-r)!)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h7",
@@ -82,7 +88,8 @@
         "title": "Plug In Values",
         "text": "Plug in the values of $$n$$ and $$r$$ into the equation that C(n,r) can be converted to",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3b09a3binomseq1a-h8",
@@ -98,6 +105,7 @@
         "title": "Solve",
         "text": "Combine all the coefficients of variables into one",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Number of intervals",
         "text": "We need two intervals, one for representing \"less than or equal to -1\", and another for \"greater than or equal to 1.\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq2a-h2",
@@ -17,7 +18,8 @@
         "title": "Or",
         "text": "or means we should use the union symbol U (satisfy at least one OR the other condition)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq2a-h3",
@@ -28,7 +30,8 @@
         "title": "First interval endpoints",
         "text": "The two endpoints for the interval \"less than or equal to -1\" are $$-\\infty$$ and $$-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq2a-h4",
@@ -45,6 +48,7 @@
         "text": "Should we use parenthesis or bracket for the negative $$\\infty$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(",
             "["
@@ -65,6 +69,7 @@
         "text": "Should we use parenthesis or bracket for the -1?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             ")",
             "]"
@@ -79,7 +84,8 @@
         "title": "Second interval endpoints",
         "text": "The two endpoints for the interval \"greater than or equal to b\" are $$1$$ and $$\\infty$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq2a-h7",
@@ -96,6 +102,7 @@
         "text": "Should we use parenthesis or bracket for the 1?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(",
             "["
@@ -116,6 +123,7 @@
         "text": "Should we use parenthesis or bracket for the $$\\infty$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             ")",
             "]"

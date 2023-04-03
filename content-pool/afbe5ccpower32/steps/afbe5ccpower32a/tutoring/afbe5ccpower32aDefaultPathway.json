@@ -6,7 +6,8 @@
         "title": "The coefficient is $$3$$ (positive)",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower32a-h2",
@@ -17,6 +18,7 @@
         "title": "The exponent of the power function is $$2$$ (an even number)",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

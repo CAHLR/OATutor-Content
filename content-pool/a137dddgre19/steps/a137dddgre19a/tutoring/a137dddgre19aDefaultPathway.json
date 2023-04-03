@@ -6,7 +6,8 @@
         "title": "Factor into Primes",
         "text": "Factor each coefficient into primes and write the variables with exponents in expanded form. A prime number is a counting number greater than $$1$$, whose only factors are $$1$$ and itself. The first few prime numbers are: $$2$$, $$3$$, $$5$$, $$7$$, $$11$$, $$13$$, etc.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor First Expression",
         "text": "$$10a^3=5\\times2 a a a$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h3",
@@ -28,7 +30,8 @@
         "title": "Factor Second Expression",
         "text": "$$12a^2=3\\times2\\times2 a a$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h4",
@@ -39,7 +42,8 @@
         "title": "Factor Third Expression",
         "text": "$$14a=7\\times2 a$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h5",
@@ -52,7 +56,8 @@
         "title": "Identify Common Factors in each Column",
         "text": "$$10a^3=5\\times2 a a a$$\\n$$12a^2=3\\times2\\times2 a a$$\\n$$14a=7\\times2 a$$\\n$$2$$ and a are shared by both expressions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h6",
@@ -63,7 +68,8 @@
         "title": "Multiply Common Factors",
         "text": "Bring down the $$2$$ and a, and then multiply.\\n$$GCF=2a$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a137dddgre19a-h7",
@@ -74,6 +80,7 @@
         "title": "Multiply Common Factors",
         "text": "$$GCF=2a$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

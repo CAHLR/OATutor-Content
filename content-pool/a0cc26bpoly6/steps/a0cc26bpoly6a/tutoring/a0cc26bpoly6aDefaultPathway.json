@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "The distributive property states that sum of the factor times each term in the sum is the product of a factor times a sum. So, we can rewrite the equation as the sum of the product of the first term in the first parentheses times the second parentheses plus the second term in the first parentheses time the second parentheses: $$3x\\left(x^3-4x^2+7\\right)+2\\left(x^3-4x^2+7\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributing the $$3x$$",
         "text": "The next step is to distribute the $$3x$$. Remember: multiply the coefficients and add the exponents.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h3",
@@ -33,7 +35,8 @@
         "title": "Distributing the $$3x$$",
         "text": "What is $$3x\\left(x^3-4x^2+7\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h4",
@@ -45,7 +48,8 @@
         "title": "Distributing the $$2$$",
         "text": "The next step is to distribute the $$3x$$. Remember: multiply the coefficients and add the exponents.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h5",
@@ -61,7 +65,8 @@
         "title": "Distributing the $$2$$",
         "text": "What is $$2\\left(x^3-4x^2+7\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h6",
@@ -72,7 +77,8 @@
         "title": "Combine Like Terms",
         "text": "Now we can combine like terms to simplify the expression. The $$x^4$$, $$x^2$$, $$x$$, and constant terms are in their simplest forms since there are no other like terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h7",
@@ -83,7 +89,8 @@
         "title": "Combining $$x^3$$ Terms",
         "text": "Since $$-12x^3$$ and $$2x^3$$ share $$x^2$$, these coefficients can be added to simplify the $$x^3$$ term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h8",
@@ -99,7 +106,8 @@
         "title": "Combining $$x^3$$ Terms",
         "text": "What is $$-12x^3+2x^3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly6a-h9",
@@ -110,6 +118,7 @@
         "title": "Simplified Expression",
         "text": "Since there are no more terms to simplify, we can write the expression as the sum of the simplified terms: $$3x^4-10x^3-8x^2+21x+14$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

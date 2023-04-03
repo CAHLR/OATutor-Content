@@ -6,7 +6,8 @@
         "title": "Formula for an Infinite Geometric Series",
         "text": "For an $$infinite$$ geometric series whose first term is $$a_1$$ and common ratio $$r$$, if |r|<1, then the sum is $$S=\\frac{a_1}{1-r}$$. If |r|>1, then the $$infinite$$ geometric series does not have a sum and diverges.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric20a-h2",
@@ -22,7 +23,8 @@
         "title": "Determine $$a_1$$",
         "text": "What is $$a_1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric20a-h3",
@@ -38,7 +40,8 @@
         "title": "Determine $$r$$",
         "text": "What is $$r$$? What is $$\\frac{24}{48}$$? What is $$\\frac{12}{24}$$? What is $$\\frac{6}{12}$$? These should all be the same number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric20a-h4",
@@ -55,6 +58,7 @@
         "text": "Is |r|<1? We can only find a sum if |r|<1.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -74,7 +78,8 @@
         "title": "Using the Formula",
         "text": "Substitute $$a_1$$ and $$r$$ into the summation formula. What is the sum?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a18d102geometric20a-h5-s1",
@@ -88,7 +93,8 @@
                 "title": "Using the Formula",
                 "text": "What is $$\\frac{48}{1-\\frac{1}{2}}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

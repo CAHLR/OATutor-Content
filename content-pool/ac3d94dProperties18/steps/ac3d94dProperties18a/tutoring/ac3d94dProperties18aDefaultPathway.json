@@ -6,7 +6,8 @@
         "title": "Change the Grouping",
         "text": "We should change the grouping to $$6\\times3 x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties18a-h2",
@@ -22,6 +23,7 @@
         "title": "Multiply",
         "text": "What do we get after multiplying in the parentheses?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

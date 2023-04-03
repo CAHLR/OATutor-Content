@@ -6,7 +6,8 @@
         "title": "Slope-Intercept Form",
         "text": "Write each equation in slope-intercept form. Since there is no $$x$$ term we write $$0x$$:\\n$$y=0x-4$$, $$y=0x+3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope20a-h2",
@@ -17,7 +18,8 @@
         "title": "Slope",
         "text": "Since $$m=0$$ for both equation, the lines have the same slope.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope20a-h3",
@@ -34,6 +36,7 @@
         "text": "What is the y-intercept for $$y=0x-4$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,-4)$$",
             "$$(0,4)$$",
@@ -55,6 +58,7 @@
         "text": "What is the y-intercept for $$y=0x+3$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,3)$$",
             "$$(0,-3)$$",
@@ -70,6 +74,7 @@
         "title": "Parallel Lines",
         "text": "The lines have the same slope and different y-intercepts and so they are parallel.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Translate",
         "text": "First, translate the phrase to an algebraic expression",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts15a-h2",
@@ -22,7 +23,8 @@
         "title": "Translate",
         "text": "What is the algebraic representation of the phrase?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts15a-h3",
@@ -33,7 +35,8 @@
         "title": "Simplify",
         "text": "Next, simplify the algebraic expression that you get",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts15a-h4",
@@ -49,6 +52,7 @@
         "title": "Simplify",
         "text": "What is $$11-(-9)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

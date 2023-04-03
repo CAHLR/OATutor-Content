@@ -6,7 +6,8 @@
         "title": "Rewriting the equation",
         "text": "Remember to fill in missing coefficients with placeholder 0's if possible to make the equation easier to read and work with.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552dividingpoly8a-h2",
@@ -22,7 +23,8 @@
         "title": "Division",
         "text": "What is the largest degree in the polynomial?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a161552dividingpoly8a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "Division",
                 "text": "What is the largest degree in the binomial?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -54,7 +57,8 @@
         "title": "Multiplication",
         "text": "What can we multiply $$x$$ by to get $$x^2$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a161552dividingpoly8a-h3-s1",
@@ -68,7 +72,8 @@
                 "title": "Multiplication",
                 "text": "What is $$x \\left(x-4\\right)$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -86,7 +91,8 @@
         "title": "Subtraction",
         "text": "What is $$x^2-13x+36-x^2-4x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552dividingpoly8a-h5",
@@ -100,7 +106,8 @@
         "title": "Division",
         "text": "What is the largest degree in the remainder?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552dividingpoly8a-h6",
@@ -116,7 +123,8 @@
         "title": "Multiplication",
         "text": "What can we multiply $$x$$ by to get $$\\left(-9x\\right)$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a161552dividingpoly8a-h6-s1",
@@ -130,7 +138,8 @@
                 "title": "Multiplication",
                 "text": "What is $$-9\\left(x-4\\right)$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -148,7 +157,8 @@
         "title": "Subtraction",
         "text": "What is $$\\left(-9x\\right)+36-\\left(-9x\\right)+36$$? ((-9*x)+36 is the remainder from the previous subtraction step.)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552dividingpoly8a-h8",
@@ -164,7 +174,8 @@
         "title": "Remainder",
         "text": "What is the remainder? If there is no remainder enter $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552dividingpoly8a-h9",
@@ -180,7 +191,8 @@
         "title": "Combining",
         "text": "Combine all the terms that we used to multiply the divisor by into a single expression along with the divisor.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a161552dividingpoly8a-h9-s1",
@@ -189,7 +201,8 @@
                 "title": "Combining",
                 "text": "Reminder: The terms we had were, $$x$$, $$-9$$",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -205,6 +218,7 @@
         "title": "Plugging it in",
         "text": "What is $$x-9$$ when $$x=-1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

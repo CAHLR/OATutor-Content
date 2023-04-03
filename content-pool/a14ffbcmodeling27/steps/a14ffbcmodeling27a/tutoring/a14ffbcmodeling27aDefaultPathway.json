@@ -11,7 +11,8 @@
         "title": "Cube Root",
         "text": "What is the cube of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a14ffbcmodeling27a-h2",
@@ -27,6 +28,7 @@
         "title": "Dividing Values",
         "text": "What value divided by the cube of $$x$$ will give you $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

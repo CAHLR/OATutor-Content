@@ -6,6 +6,7 @@
         "title": "Rethink",
         "text": "Think of it like $$2^y=\\frac{1}{32}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

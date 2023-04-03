@@ -6,7 +6,8 @@
         "title": "Defining Simplified Fraction",
         "text": "A fraction is considered simplified if there are no common factors in its numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize1a-h2",
@@ -17,7 +18,8 @@
         "title": "Finding Common Factors",
         "text": "If we find the common factor of the numerator and the denominator, we can easily use the equivalent fractions property to simplify the fraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize1a-h3",
@@ -33,7 +35,8 @@
         "title": "Finding Common Factors",
         "text": "What is the largerst common factor between $$32$$ and 56?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ab3c11fVisualize1a-h3-s1",
@@ -42,7 +45,8 @@
                 "title": "Finding Common Factors",
                 "text": "We can rewrite $$32$$ as $$4\\times8$$ and $$56$$ as $$7\\times8$$, which tells us that the largest common factor is $$8$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -55,7 +59,8 @@
         "title": "Equivalent Fractions Property",
         "text": "We can then use the equivalent fractions property to simpily the fraction, which states that if a, $$b$$, c are numbers where b\u22600, c\u22600, then $$\\frac{a}{b}=\\frac{a c}{b c}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize1a-h5",
@@ -71,6 +76,7 @@
         "title": "Final Answer",
         "text": "In the previous steps, we rewrite $$\\frac{-32}{56}$$ as $$\\frac{-\\left(4\\times8\\right)}{7\\times8}$$. Observe this fraction. What can we simplify it to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

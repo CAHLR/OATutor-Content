@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$0$$ for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs7b-h2",
@@ -23,6 +24,7 @@
         "text": "What do we get after the substitution?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$f(x)=0$$",
             "$$f(x)=9+16$$",
@@ -43,6 +45,7 @@
         "title": "Solve the Equation",
         "text": "What do we get for $$y$$ after solving the above equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

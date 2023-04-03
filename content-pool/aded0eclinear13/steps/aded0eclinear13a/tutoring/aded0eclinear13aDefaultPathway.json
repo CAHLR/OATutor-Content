@@ -6,7 +6,8 @@
         "title": "Using Divisioin Property of Inequality",
         "text": "Divide $$12$$ on both sides of the inequality. Then, simplify to get $$d \\leq 5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aded0eclinear13a-h2",
@@ -17,7 +18,8 @@
         "title": "Writing the Right Endpoint",
         "text": "Since the inequality includes a less than or equal to symbol, $$ \\leq $$, we will need to use a bracket to denote the right endpoint.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aded0eclinear13a-h3",
@@ -28,7 +30,8 @@
         "title": "Writing the Left Endpoint",
         "text": "There is no lower end to the solution to this inequality so we express it using the $$\\infty$$ symbol.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aded0eclinear13a-h4",
@@ -45,6 +48,7 @@
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(-inf, 7)",
             "(12, inf)",

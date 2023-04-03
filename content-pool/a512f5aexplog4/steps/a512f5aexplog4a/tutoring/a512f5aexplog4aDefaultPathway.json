@@ -12,6 +12,7 @@
         "text": "Do the terms have a common base?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -26,7 +27,8 @@
         "title": "Using logarithms to solve for $$x$$.",
         "text": "The next step is to take the log of both sides. The choice of the base for the logs does not matter. For this problem, the easiest choice would be log base $$9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h3",
@@ -35,9 +37,10 @@
             "a512f5aexplog4a-h2"
         ],
         "title": "Using properties of logs to bring the exponent down.",
-        "text": "Recall that $${\\ln(a)}^b$$ $$=$$ b*loga).",
+        "text": "Recall that $${\\ln\\left(a\\right)}^b$$ $$=$$ b*loga).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h4",
@@ -48,7 +51,8 @@
         "title": "Isolate $$x$$.",
         "text": "The next step is to isolate $$x$$ on one side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h5",
@@ -59,7 +63,8 @@
         "title": "Duality between logarithms and exponents.",
         "text": "Recall that $$\\log_{a}\\left(b\\right)=x$$ can be rewritten as $$a^x=b$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h6",
@@ -75,7 +80,8 @@
         "title": "Solving logarithms.",
         "text": "What is $$\\log_{9}\\left(9\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h7",
@@ -91,7 +97,8 @@
         "title": "Solving logarithms.",
         "text": "What is $$\\log_{9}\\left(1\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a512f5aexplog4a-h8",
@@ -102,6 +109,7 @@
         "title": "Solving for $$x$$.",
         "text": "The last step is to solve for $$x$$. The equation should be a simple algebraic equation!",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

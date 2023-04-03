@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "The distributive property states that the product of a factor times a sum is the sum of the factor times each term in the sum. $$a \\left(b+c\\right)=a b+a c$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real6a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is $$4\\times12$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real6a-h3",
@@ -38,7 +40,8 @@
         "title": "Multiplication",
         "text": "What is $$4\\left(-7\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real6a-h4",
@@ -55,6 +58,7 @@
         "title": "Addition",
         "text": "What is $$48+\\left(-28\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

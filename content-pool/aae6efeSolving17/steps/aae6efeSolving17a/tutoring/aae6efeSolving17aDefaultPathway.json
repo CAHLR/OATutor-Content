@@ -6,7 +6,8 @@
         "title": "Organizing",
         "text": "Determine the desire outcome and set it as $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h2",
@@ -17,7 +18,8 @@
         "title": "Assumption",
         "text": "Assume the number of adult bicycles is $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h3",
@@ -33,7 +35,8 @@
         "title": "Calculation",
         "text": "What is the number of children's bicycles in terms of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h4",
@@ -44,7 +47,8 @@
         "title": "Converting",
         "text": "Recall: the number of children's bicycles is nine less than three times the number of adult bicycles",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h5",
@@ -60,7 +64,8 @@
         "title": "Recall",
         "text": "How many adult bicycles are there?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h6",
@@ -71,7 +76,8 @@
         "title": "Principle",
         "text": "The numbers of adult bicycles is $$x=42$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving17a-h7",
@@ -87,6 +93,7 @@
         "title": "Calculation",
         "text": "What is the value of $$3x-9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Same Denominators",
         "text": "Make sure the fractions have the same denominator before adding them.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational2a-h2",
@@ -17,7 +18,8 @@
         "title": "Divide Rational Expressions",
         "text": "Since the denominators are the same, put both of the numerators of the rational expression over a single denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational2a-h3",
@@ -28,7 +30,8 @@
         "title": "Finding Numerators",
         "text": "Think about what the numerators are.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational2a-h4",
@@ -39,7 +42,8 @@
         "title": "Adding and Subtracting the Numerators",
         "text": "Add the numerators together.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational2a-h5",
@@ -50,6 +54,7 @@
         "title": "Simplify",
         "text": "Can $$\\frac{18}{24}$$ be simplified further?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Factoring Rules",
         "text": "Remember the acronym, FOIL, which says to multiply the First, Outer, Inner, and Last terms to multiply the two expressions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex27a-h2",
@@ -22,7 +23,8 @@
         "title": "Factoring Rules",
         "text": "What will our expression look like after using FOIL?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex27a-h3",
@@ -38,7 +40,8 @@
         "title": "Squaring i",
         "text": "If $$i^2=-1$$, what will $$64+16i-16i-4i^2$$ be when we simplify i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex27a-h4",
@@ -54,7 +57,8 @@
         "title": "Like Terms",
         "text": "Combining like terms in $$64+4+16i-16i$$, what do we get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex27a-h5",
@@ -70,6 +74,7 @@
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

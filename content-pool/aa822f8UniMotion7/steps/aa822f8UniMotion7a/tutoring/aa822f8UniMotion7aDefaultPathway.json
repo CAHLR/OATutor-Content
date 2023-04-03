@@ -6,7 +6,8 @@
         "title": "Setting up the equation",
         "text": "Set up the equation first by setting $$t$$ as the time it takes when the two parties work together.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion7a-h2",
@@ -17,7 +18,8 @@
         "title": "Relating the Numbers",
         "text": "If two people take times t1 and t2 to accomplish a task, together it would take them time t; $$\\frac{1}{t1}$$ + $$\\frac{1}{t2}$$ $$=$$ $$\\frac{1}{t}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion7a-h3",
@@ -33,7 +35,8 @@
         "title": "Setting up the equation",
         "text": "What is the relationship between the two parties?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion7a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving the equation",
         "text": "Solve for $$t$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion7a-h5",
@@ -60,6 +64,7 @@
         "title": "Double-Checking",
         "text": "Double check that the answer makes sense in terms of the context of the question.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

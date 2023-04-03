@@ -6,7 +6,8 @@
         "title": "Solve for $$y$$",
         "text": "Isolate $$y$$ to one side: $$3x+y=5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h2",
@@ -17,7 +18,8 @@
         "title": "Solve for $$y$$",
         "text": "Substract $$3x$$ from each side: $$y=-3x+5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h3",
@@ -28,7 +30,8 @@
         "title": "Slope-Intercept Form of an Equation of a Line",
         "text": "We compare our equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=-3x+5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h4",
@@ -44,7 +47,8 @@
         "title": "Identify the slope.",
         "text": "What is $$m$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h5",
@@ -60,7 +64,8 @@
         "title": "Identify $$b$$.",
         "text": "What is $$b$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h6",
@@ -71,7 +76,8 @@
         "title": "Identify the y-intercept.",
         "text": "The y-intercept is (0,b). Since $$b$$ is $$5$$, the y-intercept would be $$(0,5)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope9a-h7",
@@ -83,6 +89,7 @@
         "title": "Slope and y-intercept",
         "text": "The slope is $$-3$$ and the y-intercept is $$(0,5)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

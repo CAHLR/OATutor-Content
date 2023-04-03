@@ -6,7 +6,8 @@
         "title": "Clear the fractions",
         "text": "The first step is to clear the fractions by multiplying the entire equation by the lowest common denominator: A",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat14a-h2",
@@ -17,7 +18,8 @@
         "title": "Isolate A",
         "text": "Isolate A by dividing the equation by M",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat14a-h3",
@@ -33,6 +35,7 @@
         "title": "Isolate A",
         "text": "What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

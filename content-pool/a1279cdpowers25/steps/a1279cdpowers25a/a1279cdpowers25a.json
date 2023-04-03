@@ -4,7 +4,7 @@
         "$$y^{38}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(y^3\\right)}^6 {\\left(y^5\\right)}^4$$",
+    "stepTitle": "$$\\left(y^3\\right)^6 \\left(y^5\\right)^4$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

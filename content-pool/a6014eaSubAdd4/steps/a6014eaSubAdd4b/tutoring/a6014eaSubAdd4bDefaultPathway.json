@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute the number in for the variable in the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h2",
@@ -17,7 +18,8 @@
         "title": "Substitution",
         "text": "After substituting $$u=\\frac{-1}{2}$$ into the equation, we get $$8\\left(-\\frac{1}{2}\\right)-1=6\\left(-\\frac{1}{2}\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h3",
@@ -28,7 +30,8 @@
         "title": "Simplification",
         "text": "Simplify the expressions on both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h4",
@@ -44,7 +47,8 @@
         "title": "Simplification",
         "text": "Simplify the left side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h5",
@@ -60,7 +64,8 @@
         "title": "Simplification",
         "text": "Simplify the right side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h6",
@@ -71,7 +76,8 @@
         "title": "Comparison",
         "text": "Determine whether the resulting equation is true.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6014eaSubAdd4b-h7",
@@ -88,6 +94,7 @@
         "text": "Determine whether $$-4-1$$ equals $$-3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

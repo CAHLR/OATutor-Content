@@ -6,7 +6,8 @@
         "title": "Multiply",
         "text": "First, multiply the second equation by $$25$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h2",
@@ -17,7 +18,8 @@
         "title": "Subtract",
         "text": "Next, subtract the two equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h3",
@@ -34,6 +36,7 @@
         "text": "What equation do you get after subtracting the two original equations.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-9x^2+{\\operatorname{25}\\left(x-6\\right)}^2=-200$$",
             "$$9x^2-{\\operatorname{25}\\left(x-6\\right)}^2=200$$",
@@ -47,9 +50,10 @@
             "ac561a1systems21a-h3"
         ],
         "title": "Expand",
-        "text": "Now, expand the quantity of $${\\left(x-6\\right)}^2$$ and multiply by $$-25$$ to simplify.",
+        "text": "Now, expand the quantity of $$\\left(x-6\\right)^2$$ and multiply by $$-25$$ to simplify.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h5",
@@ -63,9 +67,10 @@
             "ac561a1systems21a-h4"
         ],
         "title": "Expand and multiply",
-        "text": "What is your new equation after expanding and multiplying $$-\\left({\\operatorname{25}\\left(x-6\\right)}^2\\right)$$?",
+        "text": "What is your new equation after expanding and multiplying $$-{\\operatorname{25}\\left(x-6\\right)}^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$9x^2-25x^2+300x-900$$",
             "$$-9x^2+25x^2-300x+900$$",
@@ -81,7 +86,8 @@
         "title": "Solve",
         "text": "Now, solve for $$x$$ by combining like terms and factoring.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h7",
@@ -98,6 +104,7 @@
         "text": "What are the two solutions for $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$5$$ and $$\\frac{55}{4}$$",
             "$$-5$$ and $$\\frac{55}{4}$$"
@@ -112,7 +119,8 @@
         "title": "Substitute",
         "text": "Now, plug in both values for $$x$$ in seperate equations. $$x=\\frac{55}{4}$$ yields an equation with the imaginary number i, so you can disregard it, as it is not a real solution. Plug $$5$$ into either of the original equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h9",
@@ -128,7 +136,8 @@
         "title": "Substitute",
         "text": "What does $$y$$ equal when you plug in $$x=5$$ into either of the equations",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems21a-h10",
@@ -139,6 +148,7 @@
         "title": "Answer",
         "text": "The final solution for the system of nonlinear equations is $$(5,0)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Solve the first equation for $$y$$",
         "text": "$$x-4y=8$$\\n$$-4y=-x+8$$\\n$$\\frac{\\left(-4y\\right)}{-4}=\\frac{\\left(-x+8\\right)}{-4}$$\\n$$y=\\frac{1}{4} x-2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h2",
@@ -17,7 +18,8 @@
         "title": "Slope-Intercept Form of an Equation of Second Line",
         "text": "Compare the second equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=\\frac{1}{4} x-2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h3",
@@ -33,7 +35,8 @@
         "title": "Identify the Slope of First Line",
         "text": "What is $$m$$ in the first equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h4",
@@ -44,7 +47,8 @@
         "title": "Solve the second equation for $$y$$",
         "text": "$$4x+y=2$$\\n$$y=-4x+2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h5",
@@ -55,7 +59,8 @@
         "title": "Slope-Intercept Form of an Equation of Second Line",
         "text": "Compare the second equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=-4x+2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h6",
@@ -71,7 +76,8 @@
         "title": "Identify the Slope of Second Line",
         "text": "What is $$m$$ in the second equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h7",
@@ -82,7 +88,8 @@
         "title": "Perpendicular Lines",
         "text": "Perpendicular lines have slopes that are negative reciprocals of each other. We check by multiplying the slopes and see if it equals $$-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h8",
@@ -95,7 +102,8 @@
         "title": "Checking if perpendicular",
         "text": "$$m_1 m_2$$\\n$$-4\\frac{1}{4}=-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope25a-h9",
@@ -106,6 +114,7 @@
         "title": "Perpendicular Lines",
         "text": "The slopes are negative reciprocals of each other, so the lines are perpendicular.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

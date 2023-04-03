@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute $$-2$$ for $$x$$ into the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial13b-h2",
@@ -20,7 +21,8 @@
         "title": "Substitution",
         "text": "What is the value of $$5{\\left(-2\\right)}^2-8\\left(-2\\right)+4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial13b-h3",
@@ -34,6 +36,7 @@
         "title": "Calculation",
         "text": "What is the value of $$20-\\left(-16\\right)+4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

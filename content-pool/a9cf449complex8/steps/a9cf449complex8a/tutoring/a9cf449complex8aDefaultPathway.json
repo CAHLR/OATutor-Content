@@ -6,7 +6,8 @@
         "title": "Rewriting the Expression Using the Distributive Property: Part $$1$$",
         "text": "Using the Distributive property, an expression with the form $$\\left(a+b\\right) \\left(c+d\\right)$$ can be rewritten as $$a\\left(c+d\\right)+b\\left(c+d\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex8a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewriting the Expression Using the Distributive Property: Part $$2$$",
         "text": "Again using the Distributive Property, $$a\\left(c+d\\right)+b\\left(c+d\\right)$$ can be simplified into $$a c+a d+b c+b d$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex8a-h3",
@@ -34,6 +36,7 @@
         "text": "What does the expression look like after it has been rewritten using the Distributive Property?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$6+9i-8i-12i^2$$",
             "$$6+9i-8i-12i\\times2$$",
@@ -50,7 +53,8 @@
         "title": "Value of $$i^2$$",
         "text": "$$i^2$$ is the square of the square root of $$-1$$, so $$i^2=-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex8a-h5",
@@ -66,7 +70,8 @@
         "title": "Value of $$-12i^2$$",
         "text": "What is the value of $$-12i^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex8a-h6",
@@ -83,7 +88,8 @@
         "title": "Sum of Real Numbers",
         "text": "What is the sum of the real numbers of the expression?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a9cf449complex8a-h6-s1",
@@ -92,7 +98,8 @@
                 "title": "Real Numbers in the Expression",
                 "text": "$$6$$ and $$12$$ are real numbers.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -110,7 +117,8 @@
         "title": "Sum of Imaginary Numbers",
         "text": "What is the sum of the imaginary numbers of the expression?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-17i$$",
             "17i",
@@ -125,7 +133,8 @@
                 "title": "Imaginary Numbers in the Expression",
                 "text": "9i and -8i are imaginary numbers.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -139,6 +148,7 @@
         "title": "Final Step",
         "text": "The final step is add the sums of the real and imaginary numbers together for the answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

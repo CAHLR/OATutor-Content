@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Find $$c^3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction11a-h2",
@@ -15,7 +16,8 @@
         "title": "Substitution",
         "text": "The equation becomes $$4{\\left(-\\frac{1}{2}\\right)}^3 \\left(-\\frac{4}{3}\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction11a-h3",
@@ -29,7 +31,8 @@
         "title": "Organizing",
         "text": "What is the common factor of the fraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction11a-h4",
@@ -38,6 +41,7 @@
         "title": "Division",
         "text": "Dividing both sides by the common factor",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

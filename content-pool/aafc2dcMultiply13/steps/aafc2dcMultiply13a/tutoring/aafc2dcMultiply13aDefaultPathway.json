@@ -6,7 +6,8 @@
         "title": "Translating into math expression",
         "text": "The phrase translates into $$\\frac{-56}{\\left(-7\\right)}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply13a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{-56}{\\left(-7\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply13a-h3",
@@ -33,6 +35,7 @@
         "title": "Simplify",
         "text": "Since $$-56$$ and $$-7$$ have the same sign, the answer is positive: $$\\frac{-56}{\\left(-7\\right)}=8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

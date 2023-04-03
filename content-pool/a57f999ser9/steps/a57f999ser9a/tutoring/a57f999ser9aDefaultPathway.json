@@ -6,7 +6,8 @@
         "title": "Find $$a_1$$ and $$a_n$$",
         "text": "We are given $$a_1=-1$$ and $$a_n=31$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h2",
@@ -17,7 +18,8 @@
         "title": "Find $$n$$",
         "text": "To find $$n$$, use the formula for the general term of an arithmetic sequence: $$a_n=a_1+\\left(n-1\\right) d$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h3",
@@ -28,7 +30,8 @@
         "title": "Find $$d$$",
         "text": "The common difference can be found by subtracting the first term from the second term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h4",
@@ -44,7 +47,8 @@
         "title": "Find $$d$$",
         "text": "What is $$d=3-(-1)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h5",
@@ -55,7 +59,8 @@
         "title": "Find $$n$$",
         "text": "Substitute values for $$a_1$$, $$a_n$$, and $$d$$ into the arithmetic sequence formula to get $$31=-1+4\\left(n-1\\right)$$ and solve for $$n$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h6",
@@ -71,7 +76,8 @@
         "title": "Find $$n$$",
         "text": "What is $$n$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h7",
@@ -82,7 +88,8 @@
         "title": "Formula for Sum of the first $$n$$ terms of Arithmetic Sequence",
         "text": "Substitute values for $$a_1$$, $$a_n$$ , and $$n$$ into the formula: $$S_n=\\frac{n \\left(a_1+a_n\\right)}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h8",
@@ -98,7 +105,8 @@
         "title": "Solve for $$S_9$$",
         "text": "What is $$S_9=\\frac{9\\left(-1+31\\right)}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser9a-h9",
@@ -109,6 +117,7 @@
         "title": "Sum of the first $$9$$ terms of Arithmetic Sequence",
         "text": "The Sum of the first $$9$$ terms of Arithmetic Sequence is $$135$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

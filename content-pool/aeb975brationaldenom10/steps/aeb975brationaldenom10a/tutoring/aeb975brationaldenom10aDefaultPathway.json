@@ -6,7 +6,8 @@
         "title": "Finding the LCD",
         "text": "First, find the least common denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeb975brationaldenom10a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewriting the Expression",
         "text": "Rewrite each fraction as an equivalent fraction with the LCD.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeb975brationaldenom10a-h3",
@@ -28,6 +30,7 @@
         "title": "Combining Terms",
         "text": "Then, add the fractions and simplify if applicable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Looking for an Inner Function",
         "text": "The first step is to look for a function inside a function in the formula for f(x).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition6a-h2",
@@ -17,7 +18,8 @@
         "title": "Inner Function",
         "text": "The expression $$x+2$$ is on the inside of the square.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition6a-h3",
@@ -28,7 +30,8 @@
         "title": "Outer Function",
         "text": "The quantity $$x+2$$ is then squared.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition6a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "$$g(x)=x+2$$, $$f(x)=x^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

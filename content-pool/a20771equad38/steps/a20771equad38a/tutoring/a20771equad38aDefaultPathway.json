@@ -6,7 +6,8 @@
         "title": "Square root",
         "text": "Take the square root of both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad38a-h2",
@@ -17,7 +18,8 @@
         "title": "Careful!",
         "text": "Remember to be careful about the square root of 9! (remember positve and negative numbers)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad38a-h3",
@@ -33,7 +35,8 @@
         "title": "Square root",
         "text": "What is the square root of 9?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad38a-h4",
@@ -44,6 +47,7 @@
         "title": "Set Equal!",
         "text": "Set $$2x+1$$ to be equal to both values and solve for $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

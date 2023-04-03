@@ -6,7 +6,8 @@
         "title": "Multiply",
         "text": "We will multiply the length of one plank to find the total length.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure6a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiply",
         "text": "Multiply the inches and then the feet.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure6a-h3",
@@ -34,6 +36,7 @@
         "text": "What do we get after multiplying the length of the plank by 4?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$24$$ feet",
             "$$24$$ feet, $$16$$ inches",
@@ -49,7 +52,8 @@
         "title": "Convert",
         "text": "We then need to convert the $$16$$ inches to feet.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure6a-h5",
@@ -66,6 +70,7 @@
         "text": "What do we get after the conversion?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$1$$ foot, $$4$$ inches",
             "$$1$$ foot, $$6$$ inches",
@@ -81,7 +86,8 @@
         "title": "Add",
         "text": "We then need to add $$24$$ feet with $$1$$ foot, $$4$$ inches.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure6a-h7",
@@ -98,6 +104,7 @@
         "text": "What do we get after the addition?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$24$$ feet, $$3$$ inches",
             "$$25$$ feet, $$4$$ inches",

@@ -6,7 +6,8 @@
         "title": "Put The Equation In The Correct Form with Zero By Itself On One Side",
         "text": "Write the inequality as one quotient on the left and zero on the right.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h2",
@@ -17,7 +18,8 @@
         "title": "Find The Critical Points of Equation",
         "text": "Determine the critical points\u2014the points where the rational expression will be zero or undefined.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h3",
@@ -28,7 +30,8 @@
         "title": "Find The Critical Points of Equation",
         "text": "When is the equation undefine? Note that the equation is undefined when the denominator equal to zero.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h4",
@@ -44,7 +47,8 @@
         "title": "Find The Critical Points of Equation",
         "text": "Solve the equation $$x-2=0$$. What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h5",
@@ -55,7 +59,8 @@
         "title": "Find The Critical Points of Equation",
         "text": "When does the equation equal zero? Note that the equation is undefined when the numerator equal to zero.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h6",
@@ -71,7 +76,8 @@
         "title": "Find The Critical Points of Equation",
         "text": "Solve the equation $$x+5=0$$. What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h7",
@@ -84,7 +90,8 @@
         "title": "Use the Critical Points to Divide the Number Line into Intervals.",
         "text": "Given that the $$x=-5$$ and $$x=2$$ are the two critical points, we can divide the number line into three intervals, namely, $$(-\\infty,-5)$$, $$(-5,2)$$ and $$(2,\\infty)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h8",
@@ -95,7 +102,8 @@
         "title": "Test a Value in Each Interval.",
         "text": "To find the sign of each factor in an interval, we choose any point in that interval and use it as a test point. Any point in the interval will give the expression the same sign, so we can choose any point in the interval.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h9",
@@ -111,7 +119,8 @@
         "title": "Test a Value in Each Interval.",
         "text": "For the interval $$(-\\infty,-5)$$, take the point $$x=-6$$ within the interval and plug it into the original expression. What is the value of $$\\frac{x-6}{x+5}$$ after plugging in the value $$x=-6$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h10",
@@ -122,7 +131,8 @@
         "title": "Test a Value in Each Interval.",
         "text": "Since $$\\frac{1}{8}$$ is a positive numer greater than $$0$$, we get the sign of quotient is positive in the interval $$(-\\infty,-5)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h11",
@@ -133,7 +143,8 @@
         "title": "Test a Value in Each Interval.",
         "text": "For the interval $$(-5,2)$$, take the point $$x=0$$ within the interval and plug it into the original expression $$\\frac{x+5}{x-2}$$. We get $$\\frac{-5}{2}$$ after plugging in $$x=0$$ into the quotient $$\\frac{x+5}{x-2}$$. $$\\frac{-5}{2}$$ is a negative number, so we can mark the quotient negative in the interval $$(-5,2)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h12",
@@ -144,7 +155,8 @@
         "title": "Test a Value in Each Interval.",
         "text": "For the interval $$(2,\\infty)$$, take the point $$x=3$$ within the interval and plug it into the original expression $$\\frac{x+5}{x-2}$$. We get $$8$$ after plugging in $$x=3$$ into the quotient $$\\frac{x+5}{x-2}$$. $$8$$ is a positive number, so we can mark the quotient positive in the interval $$(2,\\infty)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a276c42SolveRational7a-h13",
@@ -155,6 +167,7 @@
         "title": "Determine the Intervals Where the Inequality is Correct.",
         "text": "We want the quotient to be less than zero, so the numbers in the interval $$(-5,2)$$ are the solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Factor pairs of the first term",
         "text": "The factors for $$4w^2$$ are 4w, w or 2w, 2w",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring15a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor pairs for the third term",
         "text": "Find the factors if the last rem. Consider the signs. The coefficient of the middle term is negative, so we use the negative factors. The only factors of $$1$$ are $$-1$$, $$-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring15a-h3",
@@ -28,6 +30,7 @@
         "title": "Trial and Error",
         "text": "Test all the combinations of the factors until the correct product is found",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

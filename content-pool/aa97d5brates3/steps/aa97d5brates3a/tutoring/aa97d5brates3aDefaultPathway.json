@@ -6,7 +6,8 @@
         "title": "Interpreting the problem",
         "text": "We are computing the average rate of change of $$F(d)=\\frac{2}{d^2}$$ on the interval [2,6].",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates3a-h2",
@@ -17,7 +18,8 @@
         "title": "average rate of change",
         "text": "To find the average rate of change, we calculate the change in $$y$$, the change in $$x$$, and the average rate of change is the ratio (change in y)/(change in x).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates3a-h3",
@@ -28,7 +30,8 @@
         "title": "Computing endpoints",
         "text": "We can start by computing the function values at each endpoint of the interval.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates3a-h4",
@@ -44,7 +47,8 @@
         "title": "Computing left endpoint",
         "text": "What is F(2)?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aa97d5brates3a-h4-s1",
@@ -58,7 +62,8 @@
                 "title": "Computing left endpoint",
                 "text": "To find F(2), we plug in $$2$$ for every $$d$$ in the equation. What is $$\\frac{2}{2^2}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -76,7 +81,8 @@
         "title": "Computing right endpoint",
         "text": "What is F(6)?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aa97d5brates3a-h5-s1",
@@ -90,7 +96,8 @@
                 "title": "Computing right endpoint",
                 "text": "To find F(6), we plug in $$6$$ for every $$d$$ in the equation. What is $$\\frac{2}{6^2}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -104,7 +111,8 @@
         "title": "Average rate of change",
         "text": "The average rate of change $$=\\frac{F\\left(6\\right)-F\\left(2\\right)}{6-2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates3a-h7",
@@ -120,6 +128,7 @@
         "title": "Computing average rate of change",
         "text": "What is the average rate of change, plugging in $$F(2)=\\frac{1}{2}$$ and $$F(6)=\\frac{1}{18}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

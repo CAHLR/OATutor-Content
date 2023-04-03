@@ -6,7 +6,8 @@
         "title": "Identify $$a_1$$",
         "text": "The first term is $$a_1=-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser30a-h2",
@@ -22,7 +23,8 @@
         "title": "Identify $$r$$",
         "text": "To find $$r$$, divide the 2nd term by the 1st term. What is $$r=\\frac{\\left(-\\frac{1}{4}\\right)}{-1}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser30a-h3",
@@ -39,6 +41,7 @@
         "text": "Is $$-1<\\frac{1}{4}<1$$ T of F?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -53,7 +56,8 @@
         "title": "Formula for the Sum of an Infinite Geometric Series",
         "text": "Substitute values for $$a_1$$ and $$r$$ into the formula: $$S=\\frac{a_1}{1-r}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser30a-h5",
@@ -69,7 +73,8 @@
         "title": "Solve for S",
         "text": "What is $$S=\\frac{-1}{1-\\frac{1}{4}}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser30a-h6",
@@ -80,6 +85,7 @@
         "title": "Sum of Infinite Geometric Series",
         "text": "The sum of the $$infinite$$ geometric series is $$\\frac{-4}{3}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

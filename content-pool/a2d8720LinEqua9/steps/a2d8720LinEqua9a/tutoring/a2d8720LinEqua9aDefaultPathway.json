@@ -6,7 +6,8 @@
         "title": "Factoring the denominator",
         "text": "The three denominators in factored form are $$x$$, $$10=2\\times5$$, and $$4x=2\\times2 x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua9a-h2",
@@ -17,7 +18,8 @@
         "title": "Find LCD",
         "text": "The LCD is the smallest expression that is divisible by each one of the denominators.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua9a-h3",
@@ -33,7 +35,8 @@
         "title": "LCD",
         "text": "What is the LCD of this equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua9a-h4",
@@ -49,7 +52,8 @@
         "title": "Eliminating",
         "text": "Simplify $$20x \\frac{1}{x}=20x \\left(\\frac{1}{10}-\\frac{3}{4x}\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua9a-h5",
@@ -60,7 +64,8 @@
         "title": "Solve equation",
         "text": "Then we should solve the linear equation obtained.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua9a-h6",
@@ -76,6 +81,7 @@
         "title": "Linear equation",
         "text": "Solve the linear equation $$20=2x-15$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

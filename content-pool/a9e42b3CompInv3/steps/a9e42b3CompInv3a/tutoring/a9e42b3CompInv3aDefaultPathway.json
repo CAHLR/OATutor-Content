@@ -6,7 +6,8 @@
         "title": "Do the pairs represent a function?",
         "text": "Think about the condition that makes some $$x-y$$ pairs a function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv3a-h2",
@@ -23,6 +24,7 @@
         "text": "So, are the pairs in this question a function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -37,7 +39,8 @@
         "title": "Do the pairs represent a one-to-one function?",
         "text": "A function is one-to-one if each value in the range corresponds to one element in the domain. For each ordered pair in the function, each y-value is matched with only one x-value. There are no repeated y-values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv3a-h4",
@@ -54,6 +57,7 @@
         "text": "Is there a $$y$$ value that has more than one $$x$$ paired with that $$y$$? If yes, then it is not one-to-one. If no, then it is one-to-one.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

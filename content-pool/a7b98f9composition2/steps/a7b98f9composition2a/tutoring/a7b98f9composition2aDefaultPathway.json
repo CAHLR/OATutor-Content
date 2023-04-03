@@ -12,6 +12,7 @@
         "text": "What is the function in which $$x^2+7$$ is inserted to get its absolute value?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$f(x)=|x|$$",
             "$$f(x)=x^2+7$$",
@@ -27,7 +28,8 @@
         "title": "Second Function",
         "text": "The other function is what you put into the previous function to get the given function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition2a-h3",
@@ -44,6 +46,7 @@
         "text": "What is the second function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$g(x)=|x|$$",
             "$$g(x)=x^2+7$$",

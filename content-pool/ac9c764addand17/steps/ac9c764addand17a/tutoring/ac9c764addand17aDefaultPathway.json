@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$9$$ for $$x$$, $$-18$$ for $$y$$, and $$-6$$ for $$z$$ in the expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand17a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute",
         "text": "We get $$\\frac{9+\\left(-18\\right)}{\\left(-6\\right)}$$ after the substitution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand17a-h3",
@@ -28,7 +30,8 @@
         "title": "Numerator",
         "text": "Add in the numerator first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand17a-h4",
@@ -44,7 +47,8 @@
         "title": "Numerator",
         "text": "What do we get for the numerator after adding the two together?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand17a-h5",
@@ -60,6 +64,7 @@
         "title": "Simplify",
         "text": "What do we get after simplifying the fraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

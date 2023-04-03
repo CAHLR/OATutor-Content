@@ -6,7 +6,8 @@
         "title": "Intercepts",
         "text": "An intercept is where the function intersects either the $$x$$ or $$y$$ axis.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord23a-h2",
@@ -17,7 +18,8 @@
         "title": "Intercepts",
         "text": "To find an intercept, set either $$x$$ or $$y$$ to $$0$$ and solve for the other variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord23a-h3",
@@ -33,7 +35,8 @@
         "title": "Intercepts",
         "text": "In this case, let's set $$x$$ to $$0$$. What is the $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord23a-h4",
@@ -49,7 +52,8 @@
         "title": "Intercepts",
         "text": "Let's also set $$y$$ to $$0$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord23a-h5",
@@ -66,6 +70,7 @@
         "text": "Write our two intercepts as points (x,y).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,2)$$ $$(3,0)$$",
             "$$(0,3)$$ $$(2,0)$$",

@@ -6,7 +6,8 @@
         "title": "Separating Terms",
         "text": "To find the total weight of the three fish, we can first add the pounds and the ounces separately.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure20a-h2",
@@ -22,7 +23,8 @@
         "title": "Adding Pounds",
         "text": "We want to add the pounds together. What is $$2+1+4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure20a-h3",
@@ -38,7 +40,8 @@
         "title": "Adding Ounces",
         "text": "We want to add the ounces together. What is $$4+11+14$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure20a-h4",
@@ -50,7 +53,8 @@
         "title": "Converting Ounces",
         "text": "The next step is to convert the total ounces into pounds and ounces, so that we can later add this pounds value to the previous sum of pounds.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure20a-h5",
@@ -61,7 +65,8 @@
         "title": "Relation between Pounds and Ounces",
         "text": "The relation between pounds and ounces is $$1$$ pound $$(lb.)=16$$ ounces (0z.).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure20a-h6",
@@ -78,6 +83,7 @@
         "text": "What is $$29$$ ounces in pounds and ounces?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "2lb.",
             "1lb. $$13$$ oz.",
@@ -94,6 +100,7 @@
         "title": "Final Answer",
         "text": "Therefore, the final answer becomes $$7$$ lb.+1 lb. $$+13$$ $$oz.=8$$ lb. $$13$$ oz.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

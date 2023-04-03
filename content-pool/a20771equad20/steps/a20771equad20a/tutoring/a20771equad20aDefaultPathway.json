@@ -6,7 +6,8 @@
         "title": "Quadratic Formula Definition",
         "text": "The quadratic formula to find the roots of an equation $${ax}^2+bx+c=0$$ is $$x=\\frac{\\left(-b\\pm \\sqrt{b^2-4ac}\\right)}{2} a$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad20a-h2",
@@ -22,7 +23,8 @@
         "title": "Identifying a",
         "text": "What is a in the equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad20a-h3",
@@ -38,7 +40,8 @@
         "title": "Identifying $$b$$",
         "text": "What is $$b$$ in the equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad20a-h4",
@@ -54,6 +57,7 @@
         "title": "Identifying c",
         "text": "What is c in the equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

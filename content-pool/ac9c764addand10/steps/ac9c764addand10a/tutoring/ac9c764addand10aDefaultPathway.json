@@ -6,7 +6,8 @@
         "title": "Numerator",
         "text": "We first need to simplify the numerator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h2",
@@ -22,7 +23,8 @@
         "title": "Numerator",
         "text": "What is the LCD of $$2$$ and 3?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h3",
@@ -38,7 +40,8 @@
         "title": "Numerator",
         "text": "What should $$\\frac{1}{2}$$ be changed into with the LCD, 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h4",
@@ -54,7 +57,8 @@
         "title": "Numerator",
         "text": "What should $$\\frac{2}{3}$$ be changed into with the LCD, 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h5",
@@ -70,7 +74,8 @@
         "title": "Numerator",
         "text": "What do we get after simplifying the numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h6",
@@ -81,7 +86,8 @@
         "title": "Denominator",
         "text": "We then need to simplify the denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h7",
@@ -97,7 +103,8 @@
         "title": "Denominator",
         "text": "What is the LCD of $$4$$ and 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h8",
@@ -113,7 +120,8 @@
         "title": "Denominator",
         "text": "What should $$\\frac{3}{4}$$ be changed into with the LCD, 12?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h9",
@@ -129,7 +137,8 @@
         "title": "Denominator",
         "text": "What should $$\\frac{1}{6}$$ be changed into with the LCD, 12?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h10",
@@ -145,7 +154,8 @@
         "title": "Denominator",
         "text": "What do we get after simplifying the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h11",
@@ -156,7 +166,8 @@
         "title": "Divide",
         "text": "Finally, we need to divide the numerator by the denominator. Simplify if possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac9c764addand10a-h12",
@@ -172,6 +183,7 @@
         "title": "Divide",
         "text": "What do we get after the division?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

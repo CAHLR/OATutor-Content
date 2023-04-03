@@ -6,7 +6,8 @@
         "title": "Variables",
         "text": "Represent the speeds using variables, Carina's speed as $$x+15$$, the speed of her brother as $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture25a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiplication",
         "text": "Multiply the speed(in variable form) by its respective value.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture25a-h3",
@@ -28,7 +30,8 @@
         "title": "Conversion",
         "text": "Now, translate the expressions that were multiplied by their monetary values into a single equation. This will be $$3\\left(x+15\\right)+4\\left(x\\right)=395$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture25a-h4",
@@ -39,7 +42,8 @@
         "title": "Calculation",
         "text": "Solve the equation for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture25a-h5",
@@ -50,7 +54,8 @@
         "title": "Substitution",
         "text": "Plug $$x$$ into the original relationship find $$x+15$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aff0960mixture25a-h6",
@@ -61,6 +66,7 @@
         "title": "Calculation",
         "text": "The answer is $$65$$ mph for Carina and $$50$$ mph for her brother.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

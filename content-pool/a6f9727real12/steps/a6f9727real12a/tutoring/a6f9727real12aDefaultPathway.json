@@ -6,7 +6,8 @@
         "title": "Commutative Property of Addition",
         "text": "The equation can be re-arranged in the form $$3x+x-2y-3y-7$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real12a-h2",
@@ -17,7 +18,8 @@
         "title": "Like Terms",
         "text": "You can add like terms (terms with the same variable) together.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real12a-h3",
@@ -28,7 +30,8 @@
         "title": "Like Terms",
         "text": "$$3x+x=4x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real12a-h4",
@@ -39,6 +42,7 @@
         "title": "Like Terms",
         "text": "$$-2y-3y=-5y$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

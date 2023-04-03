@@ -4,7 +4,7 @@
         "Center: $$(2,3)$$, Radius: $$3$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-2\\right)}^2+{\\left(y-3\\right)}^2=9$$",
+    "stepTitle": "$$\\left(x-2\\right)^2+\\left(y-3\\right)^2=9$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

@@ -6,7 +6,8 @@
         "title": "Know form",
         "text": "The form of the endpoints of the latus rectum is: (h+p,k+2p),(h+p,k-2p).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola9a-h2",
@@ -17,7 +18,8 @@
         "title": "Plug in",
         "text": "Plug in the values for the endpoints, using the the proper $$h$$, k, and $$p$$ values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola9a-h3",
@@ -33,7 +35,8 @@
         "title": "Endpoints",
         "text": "What are the endpoints? Use the given formula.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(-7,-7)$$ and $$(-7,9)$$",
             "$$(-7,-7)$$ and $$(-7,9)$$"
@@ -46,7 +49,8 @@
                 "title": "Answer",
                 "text": "The answer is $$(-7,7)$$ and $$(-7,9)$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -59,6 +63,7 @@
         "title": "Answer",
         "text": "Therefore, the endpoints are $$(-7,7)$$ and $$(-7,9)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

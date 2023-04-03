@@ -6,7 +6,8 @@
         "title": "Center of a Circle",
         "text": "The center of a circle is the center, or midpoint, of its diameter.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord17a-h2",
@@ -17,7 +18,8 @@
         "title": "Midpoint Formula",
         "text": "Given the endpoints of a line segment, $$(x_1,y_1)$$ and $$(x_2,y_2)$$, the midpoint formula states how to find the coordinates of the midpoint M. $$M=($$ $$\\frac{x_1+x_2}{2}$$, $$\\frac{y_1+y_2}{2}$$ ).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord17a-h3",
@@ -33,7 +35,8 @@
         "title": "Addition",
         "text": "What is $$-1+5$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord17a-h4",
@@ -49,7 +52,8 @@
         "title": "Division",
         "text": "What is $$\\frac{4}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord17a-h5",
@@ -65,7 +69,8 @@
         "title": "Addition",
         "text": "What is $$\\left(-4\\right)+\\left(-4\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord17a-h6",
@@ -81,6 +86,7 @@
         "title": "Division",
         "text": "What is $$\\frac{-8}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Finding the Determinant",
         "text": "The determinant is given by $$a d-b c$$, which evaluates to $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa5ef86inv18a-h2",
@@ -17,6 +18,7 @@
         "title": "Determinant is $$0$$",
         "text": "Since the determinant is $$0$$, there is no inverse.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

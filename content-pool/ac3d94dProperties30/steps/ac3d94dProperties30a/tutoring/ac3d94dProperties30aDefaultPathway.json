@@ -6,7 +6,8 @@
         "title": "Multiply",
         "text": "Multiplying by $$-1$$ results in the opposite.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties30a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributive Property",
         "text": "If a, $$b$$, c are real numbers, then $$a \\left(b+c\\right)=a b+a c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties30a-h3",
@@ -33,6 +35,7 @@
         "title": "Distribute",
         "text": "What do we get after distributing?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

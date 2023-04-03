@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$0$$ for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs9a-h2",
@@ -22,6 +23,7 @@
         "title": "Solve the Equation",
         "text": "What do we get for $$x$$ after solving $$0=|x+1|$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

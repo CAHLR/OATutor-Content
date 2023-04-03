@@ -6,7 +6,8 @@
         "title": "Fraction Division",
         "text": "To divide fractions, we multiply the first fraction by the reciprocal of the second.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h2",
@@ -17,7 +18,8 @@
         "title": "Reciprocal",
         "text": "The reciprocal of $$\\frac{a}{b}$$ is $$\\frac{b}{a}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h3",
@@ -33,7 +35,8 @@
         "title": "Reciprocal of the Second Fraction",
         "text": "What is the reciprocal of $$\\frac{-35}{36}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h4",
@@ -44,7 +47,8 @@
         "title": "Multiplying Fractions",
         "text": "The next step is to multiply the first fraction by the reciprocal of the second.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h5",
@@ -55,7 +59,8 @@
         "title": "Determining the Sign",
         "text": "Since the signs are the same, the product is positive.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h6",
@@ -66,7 +71,8 @@
         "title": "Multiplying Fractions",
         "text": "To multiply fractions, we multiply the numerators and the denominators. So the numerator is $$7\\times36$$, and the denominator is $$27\\times35$$. The next step is to simplify the fraction if possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h7",
@@ -83,6 +89,7 @@
         "text": "Do $$7\\times36$$ and $$27\\times35$$ have any common factors?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -97,7 +104,8 @@
         "title": "Common Factors",
         "text": "We will rewrite $$7\\times36$$ and $$27\\times35$$ as the product of primes and divide out the common factors from there.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize12a-h9",
@@ -114,6 +122,7 @@
         "text": "What is $$7\\times36$$ written as the product of primes?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2\\times3\\times7$$",
             "$$2\\times3\\times3\\times3\\times7$$",
@@ -136,6 +145,7 @@
         "text": "What is $$27\\times35$$ written as the product of primes?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$3\\times3\\times5\\times7$$",
             "$$3\\times3\\times3\\times5\\times7$$",
@@ -153,6 +163,7 @@
         "title": "Dividing Common Factors",
         "text": "We can now divide out the common factor $$3\\times3\\times7$$ from both the top and the bottom, which gives us the fraction $$5\\frac{2\\times2}{3}=\\frac{4}{15}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "$$x$$ --> $$\\infty$$, f(x) -->- $$\\infty$$. x--> $$-\\infty$$, f(x) --> $$\\infty$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Describe the end behavior of the graph of f(x) $$=$$ $$-\\left(x^3\\right)$$",
+    "stepTitle": "Describe the end behavior of the graph of f(x) $$=$$ $$-x^3$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

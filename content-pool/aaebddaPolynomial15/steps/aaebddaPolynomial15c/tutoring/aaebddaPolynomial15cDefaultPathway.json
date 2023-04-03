@@ -6,7 +6,8 @@
         "title": "Formula",
         "text": "Recall that the formula of $$(f-g)(x)=f(x)-g(x)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h2",
@@ -15,7 +16,8 @@
         "title": "Principle",
         "text": "The addition and subtraction can only happen in the term with same degree",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h3",
@@ -24,7 +26,8 @@
         "title": "Organizing",
         "text": "It has the common terms of $$x^2$$, $$x$$, and constant",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h4",
@@ -38,7 +41,8 @@
         "title": "Subtraction",
         "text": "What is $$2-1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h5",
@@ -52,7 +56,8 @@
         "title": "Subtraction",
         "text": "What is $$(-4)-(-2)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h6",
@@ -66,7 +71,8 @@
         "title": "Subtraction",
         "text": "What is $$3-(-6)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial15c-h7",
@@ -75,6 +81,7 @@
         "title": "Addition",
         "text": "Add all the terms up",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

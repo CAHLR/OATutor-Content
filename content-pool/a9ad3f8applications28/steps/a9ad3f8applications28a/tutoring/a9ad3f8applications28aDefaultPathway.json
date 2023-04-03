@@ -6,7 +6,8 @@
         "title": "Create Variables",
         "text": "We are looking to find the measure of two angles. Let $$x=measure$$ of larger angle and $$y=measure$$ of smaller angle.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications28a-h2",
@@ -17,7 +18,8 @@
         "title": "Translate to a System of Equations",
         "text": "The two angles are supplementary, translating into $$x+y=180$$. The larger angle is $$18$$ less than twice the measure of the smaller angle, translating into $$x=2y-18$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications28a-h3",
@@ -28,7 +30,8 @@
         "title": "Solve the System",
         "text": "Using substitution we can substitute $$x=2y-18$$ into $$x+y=180$$ to solve for $$y$$, the smaller angle.\\n$$x+y=180$$\\n$$2y-18+y$$ $$=180$$\\n$$3y-18=180$$\\n$$3y=198$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications28a-h4",
@@ -44,7 +47,8 @@
         "title": "Finding Smaller Angle",
         "text": "What is the measure of angle $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications28a-h5",
@@ -60,6 +64,7 @@
         "title": "Finding Larger Angle",
         "text": "Given $$y=66$$, plug the known value into one of the equations to solve for $$x$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

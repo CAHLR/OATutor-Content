@@ -6,7 +6,8 @@
         "title": "Bracket",
         "text": "The bracket indicates that the number is included in the set.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq16a-h2",
@@ -22,7 +23,8 @@
         "title": "Interval Notation",
         "text": "How to represent all real numbers between a and $$b$$, including a and $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq16a-h3",
@@ -38,6 +40,7 @@
         "title": "Interval Notation",
         "text": "Let's apply the above principle to our problem!",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

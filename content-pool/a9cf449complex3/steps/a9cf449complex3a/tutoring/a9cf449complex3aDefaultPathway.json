@@ -6,7 +6,8 @@
         "title": "Adding Complex Numbers",
         "text": "The first step to add complex numbers is to add real and imaginary parts separately.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex3a-h2",
@@ -17,7 +18,8 @@
         "title": "i Definition",
         "text": "i represents the square root of $$-1$$, which is an imaginary number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex3a-h3",
@@ -28,7 +30,8 @@
         "title": "Real Parts in the Expression",
         "text": "$$3$$ and $$2$$ are the real parts.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex3a-h4",
@@ -39,7 +42,8 @@
         "title": "Imaginary Parts in the Expression",
         "text": "-4i and 5i are the imaginary parts.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex3a-h5",
@@ -55,7 +59,8 @@
         "title": "Sum of the Real Parts",
         "text": "What is the sum of the real parts?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex3a-h6",
@@ -72,6 +77,7 @@
         "text": "What is the sum of the imaginary parts?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "9i",
             "i",
@@ -88,6 +94,7 @@
         "title": "Writing the Final Answer",
         "text": "Next, write the expression as the sum of the real and imaginary numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

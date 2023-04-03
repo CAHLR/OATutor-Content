@@ -6,6 +6,7 @@
         "title": "Properties of logorithms",
         "text": "Use the property $$\\log_{a}\\left(1\\right)$$ $$=$$ $$0$$. Thus, $$\\log_{5}\\left(1\\right)$$ $$=$$ $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

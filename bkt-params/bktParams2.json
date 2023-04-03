@@ -1523,6 +1523,30 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "finding_common_differences": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_explicit_formulas_for_arithmetic_sequences": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_recursive_formulas_for_arithmetic_sequences": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "writing_terms_of_arithmetic_sequences": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "finding_common_ratios": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -1871,6 +1895,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "locate_decimals_on_the_number_line": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "rational_numbers": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -2040,6 +2070,12 @@
         "probGuess": 0.1
     },
     "use_the_distance": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "graph_inequalities_on_the_number_line": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -2885,6 +2921,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "simplify_and_evaluate_expressions_with_integers": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "simplify_expressions_with_absolute_value": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -2951,12 +2993,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "graph_inequalities_on_the_number_line": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "solve_linear_inequalities": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -2970,6 +3006,12 @@
         "probGuess": 0.1
     },
     "solve_compound_inequalities_with_or": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solving_compound_inequalities": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3011,13 +3053,13 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "find_the_domain_and_range_of_a_relation": {
+    "find_the_value_of_a_function": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "find_the_value_of_a_function": {
+    "find_the_domain_and_range_of_a_relation": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3186,6 +3228,12 @@
         "probGuess": 0.1
     },
     "add_and_subtract_rational_expressions_with_unlike_denominators": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solve_a_rational_equation_for_a_specific_variable": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3378,6 +3426,12 @@
         "probGuess": 0.1
     },
     "find_the_inverse_of_a_function": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solve_exponential_equations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

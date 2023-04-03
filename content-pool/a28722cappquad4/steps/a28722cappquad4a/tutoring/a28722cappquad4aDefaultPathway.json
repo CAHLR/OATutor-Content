@@ -6,7 +6,8 @@
         "title": "Area of a Triangle",
         "text": "The area of a triangle is $$110$$ $$=$$ $$0.5h w$$, where $$h$$ and w respectively represent the height and width of the triangle.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewrite the Height in Terms of w",
         "text": "Find $$h$$ in terms of w",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h3",
@@ -33,7 +35,8 @@
         "title": "Rewrite the Height in Terms of w",
         "text": "What is $$h$$ in terms of w?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h4",
@@ -44,7 +47,8 @@
         "title": "Rewriting the Problem Algebraically",
         "text": "Substitute the value of $$h$$ with its equivalent in terms of w, in the area formula $$110$$ $$=$$ $$0.5h w$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h5",
@@ -60,7 +64,8 @@
         "title": "Rewriting the Problem Algebraically",
         "text": "What is the area of this triangle in terms of $$h$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h6",
@@ -71,7 +76,8 @@
         "title": "Quadratic Formula",
         "text": "Now that the area formula can be rewritten in terms of w, we can rewrite it in the form $${aw}^2$$ + bw + c $$=$$ $$0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h7",
@@ -87,7 +93,8 @@
         "title": "Quadratic Formula",
         "text": "What is $$w^2$$ - 2w $$=$$ $$110$$ written in the form above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h8",
@@ -98,7 +105,8 @@
         "title": "Quadratic Formula",
         "text": "If you have an equation in the form $${ah}^2$$ + $$b h$$ + c $$=$$ $$0$$, $$h$$ $$=$$ (-b~sqrt(b**2 -4ac))/(2a)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h9",
@@ -114,7 +122,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of a if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h10",
@@ -130,7 +139,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of $$b$$ if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h11",
@@ -146,7 +156,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of c if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h12",
@@ -157,7 +168,8 @@
         "title": "Multiple Answers",
         "text": "The quadratic formula can yield two different answers, based on the positive or negative value of the square root, BUT we must choose the positive answer since the width of something can't be negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad4a-h13",
@@ -173,6 +185,7 @@
         "title": "Multiple Answers",
         "text": "What is the positive value of w?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

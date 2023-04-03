@@ -6,7 +6,8 @@
         "title": "Question Simplification",
         "text": "What number to the power of $$3$$ is 216?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a10b60arealnumbers16a-h2",
@@ -17,6 +18,7 @@
         "title": "Finding the Root",
         "text": "$$6^3=216$$, so our answer is $$6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

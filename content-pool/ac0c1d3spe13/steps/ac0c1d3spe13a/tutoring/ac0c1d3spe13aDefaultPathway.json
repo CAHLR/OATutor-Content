@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Addition Binomial Square Formula",
-        "text": "We compare our expression to the addition binomial square formula: $${\\left(a+b\\right)}^2=a^2+2a b+b^2$$.",
+        "text": "We compare our expression to the addition binomial square formula: $$\\left(a+b\\right)^2=a^2+2a b+b^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac0c1d3spe13a-h2",
@@ -15,9 +16,10 @@
             "ac0c1d3spe13a-h1"
         ],
         "title": "Compare the Binomial |newline|",
-        "text": "$${\\left(a+b\\right)}^2$$\\n$${\\left(4a+10\\right)}^2$$",
+        "text": "$$\\left(a+b\\right)^2$$\\n$$\\left(4a+10\\right)^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac0c1d3spe13a-h3",
@@ -33,7 +35,8 @@
         "title": "Identify a",
         "text": "What is a in the expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac0c1d3spe13a-h4",
@@ -49,7 +52,8 @@
         "title": "Identify $$b$$",
         "text": "What is $$b$$ in the expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac0c1d3spe13a-h5",
@@ -59,9 +63,10 @@
             "ac0c1d3spe13a-h4"
         ],
         "title": "Plug in the Terms",
-        "text": "Substitute $$a=4a$$ and $$b=10$$ into the addition binomial square formula:\\n$${\\left(a+b\\right)}^2=a^2+2a b+b^2$$\\n$${\\left(4a+10\\right)}^2={\\left(4a\\right)}^2+2\\times4a\\times10+{10}^2$$",
+        "text": "Substitute $$a=4a$$ and $$b=10$$ into the addition binomial square formula:\\n$$\\left(a+b\\right)^2=a^2+2a b+b^2$$\\n$$\\left(4a+10\\right)^2=\\left(4a\\right)^2+2\\times4a\\times10+{10}^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac0c1d3spe13a-h6",
@@ -72,6 +77,7 @@
         "title": "Simplify",
         "text": "$$16a^2+80a+100$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

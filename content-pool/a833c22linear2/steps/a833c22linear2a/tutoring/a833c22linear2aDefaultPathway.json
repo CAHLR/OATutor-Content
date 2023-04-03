@@ -6,7 +6,8 @@
         "title": "Subtract",
         "text": "Subtract $$3x$$ from both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear2a-h2",
@@ -17,7 +18,8 @@
         "title": "Divide",
         "text": "Divide both sides by $$5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear2a-h3",
@@ -33,7 +35,8 @@
         "title": "Slope",
         "text": "What is the slope of the function?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a833c22linear2a-s1",
@@ -50,6 +53,7 @@
         "text": "Is this slope constant for every increase in $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -70,6 +74,7 @@
         "text": "Does this mean it can be written as a linear function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

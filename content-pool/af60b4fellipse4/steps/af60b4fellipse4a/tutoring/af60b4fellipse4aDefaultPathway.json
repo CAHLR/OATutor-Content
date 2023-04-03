@@ -6,7 +6,8 @@
         "title": "Vertice and Foci",
         "text": "Does the major axis lie on the $$x-$$ or y-axis?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse4a-h2",
@@ -17,7 +18,8 @@
         "title": "Standard Equation Form",
         "text": "What is the standard equation form of this ellipse?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse4a-h3",
@@ -34,6 +36,7 @@
         "text": "Where is the center of the ellipse?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,0)$$",
             "$$(1,1)$$",
@@ -56,6 +59,7 @@
         "text": "Given the value of a is known, what are the coordinates for the vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,4)$$ and $$(0,-4)$$",
             "$$(0,5)$$ and $$(0,-5)$$",
@@ -78,6 +82,7 @@
         "text": "Given the value of $$b$$ is known, what are the coordinates for the co-vertices?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(3,0)$$ and $$(-3,0)$$",
             "$$(0,4)$$ and $$(0,-4)$$",
@@ -99,6 +104,7 @@
         "text": "Using the equation $$c^2=a^2-b^2$$, solve for c and obtain the coordinates of the foci.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(3,0)$$ and $$(-3,0)$$",
             "$$(0,4)$$ and $$(0,-4)$$",

@@ -6,7 +6,8 @@
         "title": "Common Denominator",
         "text": "The fractions have a common denominator, so add the numerators and place the sum over the common denominator",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab62b81rational8a-h2",
@@ -22,7 +23,8 @@
         "title": "Adding the Numerator",
         "text": "What is $$3y+7$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab62b81rational8a-h3",
@@ -33,6 +35,7 @@
         "title": "Factor",
         "text": "The denominator and numerator cannot be factored.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

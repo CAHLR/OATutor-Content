@@ -6,7 +6,8 @@
         "title": "Identify",
         "text": "We are looking for the amount Daniela put in each account.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications2a-h2",
@@ -17,7 +18,8 @@
         "title": "First equation",
         "text": "Since the Daniela invested $50,000 in total we can write the first equation as $$c+b=50, 000$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications2a-h3",
@@ -28,7 +30,8 @@
         "title": "Second equation",
         "text": "Since the amount invested in bonds was $5000 more than twice the amount she put into the CD, we can write the second equation as $$b=2c+5000$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications2a-h4",
@@ -44,7 +47,8 @@
         "title": "Solve",
         "text": "Next, using the system of equations just created, solve for c. What does it equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications2a-h5",
@@ -60,7 +64,8 @@
         "title": "Solve",
         "text": "What does $$b$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications2a-h6",
@@ -71,6 +76,7 @@
         "title": "Answer",
         "text": "Daniela invested $15,000 in the CD and $35,000 in bonds.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

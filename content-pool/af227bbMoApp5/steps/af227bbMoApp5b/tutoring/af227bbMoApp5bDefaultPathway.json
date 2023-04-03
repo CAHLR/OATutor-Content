@@ -6,7 +6,8 @@
         "title": "Identify known quantities",
         "text": "The known quantities are $$2$$ and $$69$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h2",
@@ -17,7 +18,8 @@
         "title": "Determine unknown quantities",
         "text": "Beth and Ann's ages are two unknown quantities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h3",
@@ -28,7 +30,8 @@
         "title": "Assign a variable",
         "text": "Because there are more than $$1$$ unknown quantities, we should choose one of them, for example, Ann's age, as $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h4",
@@ -39,7 +42,8 @@
         "title": "Write the other quantity",
         "text": "After choosing $$x$$, we should write Beth's age in terms of $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h5",
@@ -55,7 +59,8 @@
         "title": "Write the other quantity",
         "text": "When given Beth is twice Ann's age, what is Beth's age?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h6",
@@ -66,7 +71,8 @@
         "title": "Write an equation",
         "text": "Then write an equation interpreting the words as mathematical operations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h7",
@@ -82,7 +88,8 @@
         "title": "Translation to Math Operations",
         "text": "What is the mathematical form of \"their combined ages equal Sam's age\"?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h8",
@@ -98,7 +105,8 @@
         "title": "Simplify and Solve",
         "text": "Solve the equation we write. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h9",
@@ -114,7 +122,8 @@
         "title": "Calculate another quantity",
         "text": "What is $$2x$$ when $$x=23$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp5b-h10",
@@ -125,6 +134,7 @@
         "title": "Explain the solution",
         "text": "Beth is $$46$$ yr old and Ann is $$23$$ yr old.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

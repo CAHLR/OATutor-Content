@@ -2483,6 +2483,18 @@
     "ae0c19cmodels11a": [
         "drawing_and_interpreting_scatter_plots"
     ],
+    "ae0c19cmodels2a": [
+        "drawing_and_interpreting_scatter_plots"
+    ],
+    "ae0c19cmodels3a": [
+        "drawing_and_interpreting_scatter_plots"
+    ],
+    "ae0c19cmodels4a": [
+        "drawing_and_interpreting_scatter_plots"
+    ],
+    "ae0c19cmodels5a": [
+        "drawing_and_interpreting_scatter_plots"
+    ],
     "ae0c19cmodels6a": [
         "fitting_a_regression_line_to_a_set_of_data"
     ],
@@ -5246,6 +5258,45 @@
     "a1f0162sequences9a": [
         "investigating_piecewise_explicit_formulas"
     ],
+    "a912db6arithmetic1a": [
+        "finding_common_differences"
+    ],
+    "a912db6arithmetic10a": [
+        "using_explicit_formulas_for_arithmetic_sequences"
+    ],
+    "a912db6arithmetic11a": [
+        "using_recursive_formulas_for_arithmetic_sequences"
+    ],
+    "a912db6arithmetic12a": [
+        "using_recursive_formulas_for_arithmetic_sequences"
+    ],
+    "a912db6arithmetic13a": [
+        "using_recursive_formulas_for_arithmetic_sequences"
+    ],
+    "a912db6arithmetic14a": [
+        "using_recursive_formulas_for_arithmetic_sequences"
+    ],
+    "a912db6arithmetic15a": [
+        "writing_terms_of_arithmetic_sequences"
+    ],
+    "a912db6arithmetic3a": [
+        "finding_common_differences"
+    ],
+    "a912db6arithmetic4a": [
+        "finding_common_differences"
+    ],
+    "a912db6arithmetic5a": [
+        "writing_terms_of_arithmetic_sequences"
+    ],
+    "a912db6arithmetic6a": [
+        "writing_terms_of_arithmetic_sequences"
+    ],
+    "a912db6arithmetic7a": [
+        "finding_common_differences"
+    ],
+    "a912db6arithmetic9a": [
+        "using_explicit_formulas_for_arithmetic_sequences"
+    ],
     "ab6a46ageo1a": [
         "using_explicit_formulas_for_geometric_sequences"
     ],
@@ -5693,6 +5744,9 @@
     "a53b893whole12a": [
         "find_prime_factorizations_and_least_common_multiples"
     ],
+    "a53b893whole13a": [
+        "find_prime_factorizations_and_least_common_multiples"
+    ],
     "a53b893whole14a": [
         "find_prime_factorizations_and_least_common_multiples"
     ],
@@ -5719,6 +5773,12 @@
     ],
     "a53b893whole2c": [
         "use_place_value_with_whole_numbers"
+    ],
+    "a53b893whole20a": [
+        "find_prime_factorizations_and_least_common_multiples"
+    ],
+    "a53b893whole21a": [
+        "find_prime_factorizations_and_least_common_multiples"
     ],
     "a53b893whole22a": [
         "use_place_value_with_whole_numbers"
@@ -6239,6 +6299,12 @@
     "a9ae528add29d": [
         "simplify:_expressions_with_absolute_value"
     ],
+    "a9ae528add3a": [
+        "add_integers"
+    ],
+    "a9ae528add3b": [
+        "add_integers"
+    ],
     "a9ae528add30a": [
         "simplify:_expressions_with_absolute_value"
     ],
@@ -6250,6 +6316,12 @@
     ],
     "a9ae528add30d": [
         "simplify:_expressions_with_absolute_value"
+    ],
+    "a9ae528add4a": [
+        "add_integers"
+    ],
+    "a9ae528add4b": [
+        "add_integers"
     ],
     "a9ae528add5a": [
         "add_integers"
@@ -6812,17 +6884,56 @@
         "irrational_numbers",
         "and_real_numbers"
     ],
+    "a453be6realnumbers18a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers19a": [
+        "locate_decimals_on_the_number_line"
+    ],
     "a453be6realnumbers2a": [
         "simplify_expressions_with_square_roots"
     ],
     "a453be6realnumbers2b": [
         "simplify_expressions_with_square_roots"
     ],
+    "a453be6realnumbers20a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers21a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers22a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers23a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers24a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers25a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers26a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers27a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers28a": [
+        "locate_decimals_on_the_number_line"
+    ],
+    "a453be6realnumbers29a": [
+        "locate_decimals_on_the_number_line"
+    ],
     "a453be6realnumbers3a": [
         "simplify_expressions_with_square_roots"
     ],
     "a453be6realnumbers3b": [
         "simplify_expressions_with_square_roots"
+    ],
+    "a453be6realnumbers30a": [
+        "locate_decimals_on_the_number_line"
     ],
     "a453be6realnumbers4a": [
         "simplify_expressions_with_square_roots"
@@ -7943,6 +8054,33 @@
     "a1f32dfFormula9b": [
         "solve_a_formula_for_a_specific_variable"
     ],
+    "afaf721inequalities1a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities1b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities1c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities10a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities11a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities12a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities13a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities14a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities15a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
     "afaf721inequalities16a": [
         "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
     ],
@@ -7954,6 +8092,15 @@
     ],
     "afaf721inequalities19a": [
         "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "afaf721inequalities2a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities2b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities2c": [
+        "graph_inequalities_on_the_number_line"
     ],
     "afaf721inequalities20a": [
         "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
@@ -7985,8 +8132,35 @@
     "afaf721inequalities29a": [
         "solve_inequalities_that_require_simplification"
     ],
+    "afaf721inequalities3a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities3b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "afaf721inequalities3c": [
+        "graph_inequalities_on_the_number_line"
+    ],
     "afaf721inequalities30a": [
         "solve_inequalities_that_require_simplification"
+    ],
+    "afaf721inequalities4a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "afaf721inequalities5a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "afaf721inequalities6a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "afaf721inequalities7a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities8a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "afaf721inequalities9a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
     ],
     "a01e792probsolve1a": [
         "solve_number_problems"
@@ -8309,6 +8483,15 @@
     "a9b0a01geo9a": [
         "solve_applications_using_properties_of_triangles"
     ],
+    "a8e6481uni1a": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni10a": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni10b": [
+        "solve_uniform_motion_applications"
+    ],
     "a8e6481uni11a": [
         "solve_uniform_motion_applications"
     ],
@@ -8319,6 +8502,12 @@
         "solve_uniform_motion_applications"
     ],
     "a8e6481uni12b": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni13a": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni13b": [
         "solve_uniform_motion_applications"
     ],
     "a8e6481uni14a": [
@@ -8390,6 +8579,12 @@
     "a8e6481uni30a": [
         "solve_uniform_motion_applications"
     ],
+    "a8e6481uni4a": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni4b": [
+        "solve_uniform_motion_applications"
+    ],
     "a8e6481uni5a": [
         "solve_uniform_motion_applications"
     ],
@@ -8400,6 +8595,9 @@
         "solve_uniform_motion_applications"
     ],
     "a8e6481uni6b": [
+        "solve_uniform_motion_applications"
+    ],
+    "a8e6481uni7a": [
         "solve_uniform_motion_applications"
     ],
     "a8e6481uni8a": [
@@ -9737,10 +9935,16 @@
     "acff542gra22a": [
         "solve_a_system_of_linear_inequalities_by_graphing"
     ],
+    "acff542gra23a": [
+        "solve_a_system_of_linear_inequalities_by_graphing"
+    ],
     "acff542gra24a": [
         "solve_a_system_of_linear_inequalities_by_graphing"
     ],
     "acff542gra25a": [
+        "solve_a_system_of_linear_inequalities_by_graphing"
+    ],
+    "acff542gra26a": [
         "solve_a_system_of_linear_inequalities_by_graphing"
     ],
     "acff542gra27a": [
@@ -9757,6 +9961,9 @@
     ],
     "acff542gra3b": [
         "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
+    ],
+    "acff542gra30a": [
+        "solve_a_system_of_linear_inequalities_by_graphing"
     ],
     "acff542gra4a": [
         "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
@@ -11048,6 +11255,9 @@
     "add2dfegeneral21a": [
         "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
     ],
+    "add2dfegeneral22a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
     "add2dfegeneral23a": [
         "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
     ],
@@ -12035,6 +12245,12 @@
     "af1a2a0roots19a": [
         "simplify_expressions_with_square_roots"
     ],
+    "af1a2a0roots2a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "af1a2a0roots2b": [
+        "simplify_expressions_with_square_roots"
+    ],
     "af1a2a0roots20a": [
         "simplify_expressions_with_square_roots"
     ],
@@ -12123,6 +12339,9 @@
         "use_the_quotient_property_to_simplify_square_roots"
     ],
     "aaff50dradical16a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "aaff50dradical17a": [
         "use_the_product_property_to_simplify_square_roots"
     ],
     "aaff50dradical18a": [
@@ -12482,6 +12701,9 @@
     "a4a0f7dradicalroot14a": [
         "solve_radical_equations"
     ],
+    "a4a0f7dradicalroot15a": [
+        "solve_radical_equations"
+    ],
     "a4a0f7dradicalroot16a": [
         "solve_radical_equations"
     ],
@@ -12527,10 +12749,19 @@
     "a4a0f7dradicalroot29a": [
         "solve_radical_equations"
     ],
+    "a4a0f7dradicalroot3a": [
+        "solve_radical_equations"
+    ],
     "a4a0f7dradicalroot30a": [
         "solve_radical_equations"
     ],
+    "a4a0f7dradicalroot4a": [
+        "solve_radical_equations"
+    ],
     "a4a0f7dradicalroot5a": [
+        "solve_radical_equations"
+    ],
+    "a4a0f7dradicalroot6a": [
         "solve_radical_equations"
     ],
     "a4a0f7dradicalroot7a": [
@@ -12671,6 +12902,54 @@
     "a4b9bbfrationalnums1c": [
         "simplify_expressions_with_a**(1/n)"
     ],
+    "a4b9bbfrationalnums10a": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a4b9bbfrationalnums10b": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a4b9bbfrationalnums10c": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a4b9bbfrationalnums11a": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums11b": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums11c": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums12a": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums12b": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums12c": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums13a": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums13b": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums13c": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums14a": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums14b": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums15a": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
+    "a4b9bbfrationalnums15b": [
+        "use_the_laws_of_exponents_to_simplify_expressions_with_rational_exponents"
+    ],
     "a4b9bbfrationalnums16a": [
         "simplify_expressions_with_a**(1/n)"
     ],
@@ -12807,6 +13086,9 @@
         "solve_quadratic_equations_of_the_form_ax**2_=_k_using_the_square_root_property"
     ],
     "afa0cfequadraticeq29a": [
+        "solve_quadratic_equations_of_the_form_ax**2_=_k_using_the_square_root_property"
+    ],
+    "afa0cfequadraticeq3a": [
         "solve_quadratic_equations_of_the_form_ax**2_=_k_using_the_square_root_property"
     ],
     "afa0cfequadraticeq30a": [
@@ -13019,7 +13301,25 @@
     "a28722cappquad15a": [
         "solve_applications_of_the_quadratic_formula"
     ],
+    "a28722cappquad16a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
+    "a28722cappquad17a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
+    "a28722cappquad18a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
+    "a28722cappquad19a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
     "a28722cappquad2a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
+    "a28722cappquad20a": [
+        "solve_applications_of_the_quadratic_formula"
+    ],
+    "a28722cappquad21a": [
         "solve_applications_of_the_quadratic_formula"
     ],
     "a28722cappquad3a": [
@@ -13050,6 +13350,12 @@
         "find_the_intercepts_of_a_parabola"
     ],
     "a2ef97dGrphingQuads10b": [
+        "find_the_intercepts_of_a_parabola"
+    ],
+    "a2ef97dGrphingQuads11a": [
+        "find_the_intercepts_of_a_parabola"
+    ],
+    "a2ef97dGrphingQuads11b": [
         "find_the_intercepts_of_a_parabola"
     ],
     "a2ef97dGrphingQuads12a": [
@@ -13253,6 +13559,12 @@
     "afb3ccdlang7a": [
         "identify_and_combine_like_terms"
     ],
+    "afb3ccdlang8a": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
+    ],
+    "afb3ccdlang8b": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
+    ],
     "afb3ccdlang9a": [
         "translate_an_english_phrase_to_an_algebraic_expression"
     ],
@@ -13303,6 +13615,9 @@
     ],
     "ae45a45int13b": [
         "multiply_and_divide_integers"
+    ],
+    "ae45a45int15a": [
+        "simplify_and_evaluate_expressions_with_integers"
     ],
     "ae45a45int17a": [
         "simplify_expressions_with_absolute_value"
@@ -13367,6 +13682,12 @@
     "ae45a45int24b": [
         "simplify_expressions_with_integers"
     ],
+    "ae45a45int25a": [
+        "simplify_expressions_with_integers"
+    ],
+    "ae45a45int25b": [
+        "simplify_expressions_with_integers"
+    ],
     "ae45a45int26a": [
         "simplify_expressions_with_integers"
     ],
@@ -13401,6 +13722,9 @@
         "add_and_subtract_integers"
     ],
     "ae45a45int7b": [
+        "add_and_subtract_integers"
+    ],
+    "ae45a45int8a": [
         "add_and_subtract_integers"
     ],
     "a4488b1Fraction1a": [
@@ -13721,6 +14045,12 @@
     "a4b48f4RealNums9a": [
         "use_the_commutative_and_associative_properties"
     ],
+    "a8b6b9fLinear1a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a8b6b9fLinear1b": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
     "a8b6b9fLinear10a": [
         "solve_linear_equations_using_a_general_strategy"
     ],
@@ -13755,6 +14085,12 @@
         "solve_linear_equations_using_a_general_strategy"
     ],
     "a8b6b9fLinear19a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a8b6b9fLinear2a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a8b6b9fLinear2b": [
         "solve_linear_equations_using_a_general_strategy"
     ],
     "a8b6b9fLinear20a": [
@@ -14093,10 +14429,22 @@
     "aded0eclinear1c": [
         "graph_inequalities_on_the_number_line"
     ],
+    "aded0eclinear10a": [
+        "solve_linear_inequalities"
+    ],
+    "aded0eclinear11a": [
+        "solve_linear_inequalities"
+    ],
     "aded0eclinear12a": [
         "solve_linear_inequalities"
     ],
     "aded0eclinear13a": [
+        "solve_linear_inequalities"
+    ],
+    "aded0eclinear14a": [
+        "solve_linear_inequalities"
+    ],
+    "aded0eclinear15a": [
         "solve_linear_inequalities"
     ],
     "aded0eclinear16a": [
@@ -14150,6 +14498,15 @@
     "aded0eclinear29a": [
         "solve_linear_inequalities"
     ],
+    "aded0eclinear3a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "aded0eclinear3b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "aded0eclinear3c": [
+        "graph_inequalities_on_the_number_line"
+    ],
     "aded0eclinear30a": [
         "solve_linear_inequalities"
     ],
@@ -14162,6 +14519,15 @@
     "aded0eclinear5c": [
         "graph_inequalities_on_the_number_line"
     ],
+    "aded0eclinear6a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "aded0eclinear6b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "aded0eclinear6c": [
+        "graph_inequalities_on_the_number_line"
+    ],
     "aded0eclinear7a": [
         "solve_linear_inequalities"
     ],
@@ -14170,6 +14536,9 @@
     ],
     "aded0eclinear9a": [
         "solve_linear_inequalities"
+    ],
+    "a3d9e92Inequality1a": [
+        "solving_compound_inequalities"
     ],
     "a3d9e92Inequality10a": [
         "solve_compound_inequalities_with_and"
@@ -14488,6 +14857,51 @@
     ],
     "a374ff4inequalities9a": [
         "find_the_slope_of_a_line"
+    ],
+    "a082a6bGraLiIneq1a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq10a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq11a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq12a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq13a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq14a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq15a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq2a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq3a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq4a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq5a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq6a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq7a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq8a": [
+        "find_the_value_of_a_function"
+    ],
+    "a082a6bGraLiIneq9a": [
+        "find_the_value_of_a_function"
     ],
     "acebb4ddomain1a": [
         "find_the_domain_and_range_of_a_relation"
@@ -14830,6 +15244,39 @@
     ],
     "a4edf7dEquation9a": [
         "solve_uniform_motion_applications"
+    ],
+    "a8b5fd4mixapp13a": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp14a": [
+        "solve_interest_applications"
+    ],
+    "a8b5fd4mixapp14b": [
+        "solve_interest_applications"
+    ],
+    "a8b5fd4mixapp2a": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp2b": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp3a": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp3b": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp4a": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp4b": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp5a": [
+        "solve_mixture_applications"
+    ],
+    "a8b5fd4mixapp5b": [
+        "solve_mixture_applications"
     ],
     "ac26263ThreeVariables1a": [
         "determine_whether_an_ordered_triple_is_a_solution_of_a_system_of_three_linear_equations_with_three_variables"
@@ -15182,6 +15629,12 @@
     "a54f58cgraphineq19a": [
         "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
     ],
+    "a54f58cgraphineq2a": [
+        "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
+    ],
+    "a54f58cgraphineq2b": [
+        "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
+    ],
     "a54f58cgraphineq20a": [
         "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities"
     ],
@@ -15287,6 +15740,18 @@
     "aaebddaPolynomial15d": [
         "evaluate_a_polynomial_function_for_a_given_value"
     ],
+    "aaebddaPolynomial16a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial17a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial18a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial19a": [
+        "add_and_subtract_polynomials"
+    ],
     "aaebddaPolynomial2a": [
         "determine_the_degree_of_polynomials"
     ],
@@ -15302,10 +15767,43 @@
     "aaebddaPolynomial2e": [
         "determine_the_degree_of_polynomials"
     ],
+    "aaebddaPolynomial20a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial21a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial22a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial23a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial24a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial25a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial26a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial27a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial28a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial29a": [
+        "add_and_subtract_polynomials"
+    ],
     "aaebddaPolynomial3a": [
         "add_and_subtract_polynomials"
     ],
     "aaebddaPolynomial3b": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial30a": [
         "add_and_subtract_polynomials"
     ],
     "aaebddaPolynomial4a": [
@@ -15318,6 +15816,24 @@
         "add_and_subtract_polynomials"
     ],
     "aaebddaPolynomial5b": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial6a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial6b": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial7a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial7b": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial8a": [
+        "add_and_subtract_polynomials"
+    ],
+    "aaebddaPolynomial8b": [
         "add_and_subtract_polynomials"
     ],
     "aaebddaPolynomial9a": [
@@ -15348,6 +15864,18 @@
         "multiply_special_products"
     ],
     "a251a50MultiplyPoly13b": [
+        "multiply_special_products"
+    ],
+    "a251a50MultiplyPoly14a": [
+        "multiply_special_products"
+    ],
+    "a251a50MultiplyPoly14b": [
+        "multiply_special_products"
+    ],
+    "a251a50MultiplyPoly15a": [
+        "multiply_special_products"
+    ],
+    "a251a50MultiplyPoly15b": [
         "multiply_special_products"
     ],
     "a251a50MultiplyPoly2a": [
@@ -15446,6 +15974,18 @@
     "a161552dividing1a": [
         "dividing_monomials"
     ],
+    "a161552dividing10a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "a161552dividing3a": [
+        "dividing_monomials"
+    ],
+    "a161552dividing4a": [
+        "dividing_monomials"
+    ],
+    "a161552dividing5a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
     "a161552dividing6a": [
         "divide_a_polynomial_by_a_monomial"
     ],
@@ -15535,6 +16075,9 @@
     ],
     "a5d54dagcf14a": [
         "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5d54dagcf15a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
     ],
     "a5d54dagcf17a": [
         "factor_the_greatest_common_factor_from_a_polynomial"
@@ -16064,6 +16607,51 @@
     "a1c9712Sim9a": [
         "simplify_a_complex_rational_expression_by_writing_it_as_division"
     ],
+    "aa27eearational1a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational10a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational11a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational12a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational13a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational14a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational15a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational2a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational3a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational4a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational5a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational6a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational7a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational8a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
+    "aa27eearational9a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
     "af5fe5dSolveapp1a": [
         "solve_proportions"
     ],
@@ -16175,6 +16763,9 @@
     "a276c42SolveRational2a": [
         "solve_rational_inequalities"
     ],
+    "a276c42SolveRational20a": [
+        "solve_rational_inequalities"
+    ],
     "a276c42SolveRational21a": [
         "solve_rational_inequalities"
     ],
@@ -16185,6 +16776,9 @@
         "solve_rational_inequalities"
     ],
     "a276c42SolveRational24a": [
+        "solve_rational_inequalities"
+    ],
+    "a276c42SolveRational25a": [
         "solve_rational_inequalities"
     ],
     "a276c42SolveRational3a": [
@@ -16337,11 +16931,32 @@
     "a08d293Rational1a": [
         "simplify_expressions_with_a**(1/\ud835\udc5b)"
     ],
+    "a08d293Rational10a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational11a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
     "a08d293Rational12a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational13a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational14a": [
         "simplify_expressions_with_a**(1/\ud835\udc5b)"
     ],
     "a08d293Rational15a": [
         "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational16a": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a08d293Rational17a": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a08d293Rational18a": [
+        "simplify_expressions_with_a**(m/n)"
     ],
     "a08d293Rational19a": [
         "simplify_expressions_with_a**(m/n)"
@@ -16349,7 +16964,13 @@
     "a08d293Rational2a": [
         "simplify_expressions_with_a**(1/\ud835\udc5b)"
     ],
+    "a08d293Rational22a": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
     "a08d293Rational23a": [
+        "simplify_expressions_with_a**(m/n)"
+    ],
+    "a08d293Rational24a": [
         "simplify_expressions_with_a**(m/n)"
     ],
     "a08d293Rational25a": [
@@ -16364,7 +16985,61 @@
     "a08d293Rational5a": [
         "simplify_expressions_with_a**(1/\ud835\udc5b)"
     ],
+    "a08d293Rational6a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational7a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational8a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
+    "a08d293Rational9a": [
+        "simplify_expressions_with_a**(1/\ud835\udc5b)"
+    ],
     "ad51073factor1a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor10a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor11a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor12a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor13a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor14a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor15a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor2a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor3a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor4a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor5a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor6a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor7a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor8a": [
+        "difference_of_squares"
+    ],
+    "ad51073factor9a": [
         "difference_of_squares"
     ],
     "ad51073poly1a": [
@@ -17582,6 +18257,48 @@
     "a9e42b3CompInv9a": [
         "determine_whether_a_function_is_one_to_one"
     ],
+    "a1a9374graphExp1a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp10a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp11a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp12a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp13a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp14a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp15a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp2a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp4a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp5a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp6a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp7a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp8a": [
+        "solve_exponential_equations"
+    ],
+    "a1a9374graphExp9a": [
+        "solve_exponential_equations"
+    ],
     "af4e405log1a": [
         "convert_between_exponential_and_logarithmic_form"
     ],
@@ -18046,6 +18763,9 @@
     ],
     "a5fd810distance9a": [
         "use_the_distance_formula"
+    ],
+    "ad33ee8parabolas1a": [
+        "graph_vertical_parabolas"
     ],
     "ad33ee8parabolas10a": [
         "graph_vertical_parabolas"
@@ -18700,6 +19420,9 @@
     ],
     "a18d102geometric3c": [
         "determine_if_a_sequence_is_geometric"
+    ],
+    "a18d102geometric30a": [
+        "find_the_sum_of_an_infinite_geometric_series"
     ],
     "a18d102geometric4a": [
         "find_the_sum_of_the_first_n_terms_of_a_geometric_sequence"

@@ -6,7 +6,8 @@
         "title": "Terminology - Sum",
         "text": "The word \"sum\" means that two numbers must be added",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int28a-h2",
@@ -23,6 +24,7 @@
         "text": "What is the sum of $$8$$ and $$-12$$, represented as an equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$8+\\left(-12\\right)$$",
             "$$(8-(-12))$$",
@@ -44,7 +46,8 @@
         "title": "Terminology - Sum",
         "text": "What does $$8+\\left(-12\\right)$$ evaluate to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int28a-h4",
@@ -55,7 +58,8 @@
         "title": "Terminology - Increasing",
         "text": "The word \"increasing\" implies addition",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int28a-h5",
@@ -72,6 +76,7 @@
         "text": "What is $$-4$$ increased by $$3$$, represented as an equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\left(-4+3\\right)$$",
             "$$(-4-3)$$",
@@ -93,6 +98,7 @@
         "title": "Terminology - Increasing",
         "text": "What does $$\\left(-4+3\\right)$$ evaluate to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

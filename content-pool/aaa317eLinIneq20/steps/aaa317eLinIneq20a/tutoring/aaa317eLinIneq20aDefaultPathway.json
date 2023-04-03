@@ -6,7 +6,8 @@
         "title": "Isolation",
         "text": "We can isolate the variable term by using the addition property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h2",
@@ -22,7 +23,8 @@
         "title": "Addition",
         "text": "What should we add in order to isolate the variable with its coefficient on the right?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h3",
@@ -38,7 +40,8 @@
         "title": "Addition",
         "text": "What do we get after we add $$x-1$$ on both sides?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h4",
@@ -49,7 +52,8 @@
         "title": "Isolation",
         "text": "We can leave the variable term by itself on the right by using the multiplication property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h5",
@@ -65,7 +69,8 @@
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h6",
@@ -81,7 +86,8 @@
         "title": "Multiplication",
         "text": "What do we get after we multiply $$\\frac{2}{3}$$ on both sides?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq20a-h7",
@@ -92,6 +98,7 @@
         "title": "Interval Notation",
         "text": "$$(b,\\infty)$$ represents all real numbers greater than $$b$$, but not including $$b$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Isolating One Radical",
         "text": "The first step is to isolate one radical, which can be accomplished by subtracting $$\\sqrt{x-2}$$ from both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother18a-h2",
@@ -17,7 +18,8 @@
         "title": "Squaring Both Sides of the Equation",
         "text": "Next, after subtracting $$\\sqrt{x-2}$$ from both sides of the equation, square both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother18a-h3",
@@ -34,6 +36,7 @@
         "text": "After squaring both sides and expanding the right side, what is the equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2x+3=4^2-2\\left(4\\right) \\sqrt{x-2}+{\\sqrt{x-2}}^2$$",
             "$$\\sqrt{2x+3}=4^2-2\\left(4\\right) \\sqrt{x-2}+{\\sqrt{x-2}}^2$$",
@@ -49,7 +52,8 @@
         "title": "Isolating the Remaining Radical",
         "text": "Next, isolate the radical on the right side by moving all other terms to the left.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother18a-h5",
@@ -60,7 +64,8 @@
         "title": "Eliminating the Radical",
         "text": "Then, eliminate the remaining radical on the right side by squaring both sides again.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother18a-h6",
@@ -77,6 +82,7 @@
         "text": "What is the equation after the radical has been eliminated?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x^2-22x+121=64x-128$$",
             "$$x^2=36x+48$$",
@@ -98,6 +104,7 @@
         "text": "Solve for $$x$$ from the new quadratic equation. What $$x$$ values make the new equation 0?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x=2, 24$$",
             "$$x=3, 83$$",
@@ -114,6 +121,7 @@
         "title": "Checking for Extraneous Solutions",
         "text": "Plug in the answers to the quadratic equation to the original problem to see if they are valid solutions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

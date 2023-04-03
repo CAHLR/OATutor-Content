@@ -11,7 +11,8 @@
         "title": "Exponential",
         "text": "What is $$2^6$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int12a-h2",
@@ -22,6 +23,7 @@
         "title": "Principle",
         "text": "Negative number with even expoential term results in positive number",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

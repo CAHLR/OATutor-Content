@@ -6,7 +6,8 @@
         "title": "Inner Radical",
         "text": "You can start of by simplifying the inner radical.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad291beRadRat1b-h2",
@@ -22,7 +23,8 @@
         "title": "Principal Square Root",
         "text": "What is $$\\sqrt{16}$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ad291beRadRat1b-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Principal Square Root",
                 "text": "The principal square root of a is the nonnegative number that, when multiplied by itself, equals a. It is written as a radical expression, with a symbol called a radical over the term called the radicand: $$\\sqrt{a}$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ad291beRadRat1b-h2-s2",
@@ -47,7 +50,8 @@
                 "title": "Principal Square Root",
                 "text": "What number multiplied by itself equals 16?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -60,7 +64,8 @@
         "title": "Inner Radical",
         "text": "Simlify the expression: $$\\sqrt{\\sqrt{16}}=\\sqrt{4}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad291beRadRat1b-h4",
@@ -71,7 +76,8 @@
         "title": "Principal Square Root",
         "text": "The principal square root of a is the nonnegative number that, when multiplied by itself, equals a. It is written as a radical expression, with a symbol called a radical over the term called the radicand: $$\\sqrt{a}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad291beRadRat1b-h5",
@@ -87,6 +93,7 @@
         "title": "Principal Square Root",
         "text": "What number multiplied by itself equals 4?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

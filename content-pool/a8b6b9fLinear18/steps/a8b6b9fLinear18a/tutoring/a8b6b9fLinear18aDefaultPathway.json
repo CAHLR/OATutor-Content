@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "Use the distributive property to multiply $$15$$ with $$(y-9)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear18a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is $$15\\left(y-9\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear18a-h3",
@@ -33,7 +35,8 @@
         "title": "Organizing",
         "text": "Once both sides have an equation without parantheses, use algebra to manipulate the equation into the form $$y=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear18a-h4",
@@ -47,7 +50,8 @@
         "title": "Addition",
         "text": "What is $$-60+135$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear18a-h5",
@@ -63,6 +67,7 @@
         "title": "Division",
         "text": "What is $$\\frac{75}{15}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

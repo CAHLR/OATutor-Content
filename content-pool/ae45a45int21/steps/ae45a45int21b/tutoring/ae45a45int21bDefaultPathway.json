@@ -6,7 +6,8 @@
         "title": "Rewriting the Expression",
         "text": "Adding $$-9$$ is the same as subtracting $$9$$, through the subtraction property",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int21b-h2",
@@ -22,7 +23,8 @@
         "title": "Rewriting the Expression",
         "text": "What is $$-17-9$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ae45a45int21b-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "Rewriting the Expression",
                 "text": "What is $$-17-1$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int21b-h2-s2",
@@ -52,7 +55,8 @@
                 "title": "Rewriting the Expression",
                 "text": "What is $$-17-2$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int21b-h2-s3",
@@ -68,7 +72,8 @@
                 "title": "Rewriting the Expression",
                 "text": "What is $$-17-8$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "ae45a45int21b-h2-s4",
@@ -84,7 +89,8 @@
                 "title": "Rewriting the Expression",
                 "text": "What is $$-17-9$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

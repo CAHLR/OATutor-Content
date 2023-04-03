@@ -6,7 +6,8 @@
         "title": "Quadratics",
         "text": "Solve for $$c^2$$ by subtracting $$12$$ from both sides of the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afa0cfequadraticeq7a-h2",
@@ -17,6 +18,7 @@
         "title": "Quadratics",
         "text": "Notice that solving for c would result in a square root of a negative number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

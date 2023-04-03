@@ -6,7 +6,8 @@
         "title": "Property to use",
         "text": "The Power Property tells us that when we raise a power to a power, we multiply the exponents.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational25a-h2",
@@ -22,7 +23,8 @@
         "title": "Raise a power to a power",
         "text": "What's the result if we raise a power to a power. Please do not simplify.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational25a-h3",
@@ -38,7 +40,8 @@
         "title": "Simplify the fraction.",
         "text": "What's the result when you simplify the fraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational25a-h4",
@@ -54,6 +57,7 @@
         "title": "Find the result",
         "text": "What's the final result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

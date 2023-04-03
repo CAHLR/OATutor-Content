@@ -11,7 +11,8 @@
         "title": "Conversion",
         "text": "What is the numeric form of 18%?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving26a-h2",
@@ -22,7 +23,8 @@
         "title": "Setup",
         "text": "Assume the amount of tip as $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving26a-h3",
@@ -33,7 +35,8 @@
         "title": "Setup",
         "text": "The equation can be translated in the equation form as $$90.5\\times0.18=x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving26a-h4",
@@ -49,6 +52,7 @@
         "title": "Calculation",
         "text": "What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

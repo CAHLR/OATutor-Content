@@ -6,7 +6,8 @@
         "title": "Newton's Law of Cooling",
         "text": "The temperature of an object, T, in surrounding air with temperature $$T_s$$ will behave according to the formula $$T(t)=A e^{k t}+T_s$$ where\\n$$t$$ is time,\\nA is the difference between the initial temperature of the object and the surroundings,\\nk is a constant, the continuous rate of cooling of the object.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h2",
@@ -22,7 +23,8 @@
         "title": "Surrounding Temperature",
         "text": "What is the surrounding temperature, $$T_s$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h3",
@@ -33,7 +35,8 @@
         "title": "Solving for A",
         "text": "Find the difference between the initial temperature of the object and the surroundings.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving for A",
         "text": "What is the initial temperature of the turkey?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h5",
@@ -65,7 +69,8 @@
         "title": "Solving for A",
         "text": "What is the difference between the initial temperature of the turkey and the surroundings?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h6",
@@ -76,7 +81,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "We can substitute the A and $$T_s$$ value that was previously found to solve for k.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h7",
@@ -87,7 +93,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "Subtract $$T_s$$ from both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h8",
@@ -98,7 +105,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "Divide by A.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h9",
@@ -109,7 +117,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "Take natural log on both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h10",
@@ -117,7 +126,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{T\\left(t\\right)-T_s}{A})}{t}$$"
+            "$$\\frac{\\ln\\left(\\frac{T\\left(t\\right)-T_s}{A}\\right)}{t}$$"
         ],
         "dependencies": [
             "af69facexpolog28a-h9"
@@ -125,7 +134,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "Divide by time, $$t$$ to isolate k. What is the expression k equals to? Express in terms of T(t), $$T_s$$, A, $$t$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h11",
@@ -141,7 +151,8 @@
         "title": "Continuous rate of Cooling, k",
         "text": "It was given that after $$30$$ minutes, the internal temperature was 145\u00b0 F. Substitute these values into the expression, along with A and $$T_s$$ that was previously found. What is k? Round to six decimal places.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog28a-h12",
@@ -157,6 +168,7 @@
         "title": "Newton's Law of Cooling Model",
         "text": "Substitute all the values found into $$T(t)=A e^{k t}+T_s$$. What is T(t)?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

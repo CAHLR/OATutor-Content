@@ -6,7 +6,8 @@
         "title": "Factoring Trinomials",
         "text": "Factor the trinomial in the numerator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h2",
@@ -22,7 +23,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the two binomial factors of numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h3",
@@ -38,7 +40,8 @@
         "title": "Factoring Trinomials",
         "text": "What are the two binomial factors of denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h4",
@@ -54,7 +57,8 @@
         "title": "Common Factor",
         "text": "What is the common factor?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h5",
@@ -65,7 +69,8 @@
         "title": "Common Factor",
         "text": "Cancel the common factor from the numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h6",
@@ -81,7 +86,8 @@
         "title": "Simplifying Expressions",
         "text": "What is remaining in the numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h7",
@@ -97,7 +103,8 @@
         "title": "Simplifying Expressions",
         "text": "What is remaining in the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational13a-h8",
@@ -113,6 +120,7 @@
         "title": "Simplifying Expressions",
         "text": "What is the simplified expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

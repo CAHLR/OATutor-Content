@@ -6,6 +6,7 @@
         "title": "Plugging in $$x$$ and $$y$$",
         "text": "We must plug in $$x=4$$ and $$y=-1$$ into both inequalities and determine whether they are true. $$-1>4\\left(4\\right)-2$$ is false. So, the point is not a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

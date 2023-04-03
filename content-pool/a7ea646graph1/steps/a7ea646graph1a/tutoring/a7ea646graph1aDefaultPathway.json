@@ -6,7 +6,8 @@
         "title": "How to Factor",
         "text": "First, factor out the greatest common factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph1a-h2",
@@ -22,7 +23,8 @@
         "title": "Identifying the GCF",
         "text": "What is the greatest common factor?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph1a-h3",
@@ -33,7 +35,8 @@
         "title": "Continued Factoring",
         "text": "Next, factor the remaining trinomial.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph1a-h4",
@@ -44,6 +47,7 @@
         "title": "Solving for Zeros",
         "text": "Finally, set each factor equal to $$0$$ and find $$x$$ at those values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

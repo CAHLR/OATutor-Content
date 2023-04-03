@@ -6,7 +6,8 @@
         "title": "Isolate the Quadratic Term",
         "text": "We add $$2$$ on both sides to get $$r^2$$ by itself which gives $$5r^2=36$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h2",
@@ -22,7 +23,8 @@
         "title": "Find Leading Coefficient",
         "text": "What's the coefficient of $$u^2$$ now?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h3",
@@ -33,7 +35,8 @@
         "title": "Make the Leading Coefficient \"1\"",
         "text": "Divide by the leading coefficient on both sides which gives $$r^2=\\frac{36}{5}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h4",
@@ -44,7 +47,8 @@
         "title": "Use Square root Property",
         "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$r^2=\\frac{36}{5}$$, we can take square root both sides and get $$r=\\sqrt{\\frac{36}{5}}$$ or $$r=-\\sqrt{\\frac{36}{5}}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h5",
@@ -60,7 +64,8 @@
         "title": "Simplify the Radical",
         "text": "Simplify $$-\\sqrt{\\frac{36}{5}}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h6",
@@ -76,7 +81,8 @@
         "title": "Simplify the Radical",
         "text": "Simplify $$\\sqrt{\\frac{36}{5}}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5e282bSolvquad15a-h7",
@@ -87,6 +93,7 @@
         "title": "Final Answer",
         "text": "Therefore, $$5r^2-2$$ $$=$$ $$34$$ has two solutions which are $$r=-6\\sqrt{\\frac{1}{5}}$$, and $$r=6\\sqrt{\\frac{1}{5}}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

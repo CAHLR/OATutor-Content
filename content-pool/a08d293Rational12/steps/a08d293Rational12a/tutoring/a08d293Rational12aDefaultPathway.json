@@ -6,7 +6,8 @@
         "title": "Rewrite as a radical expression",
         "text": "What's the format of our result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational12a-h2",
@@ -22,7 +23,8 @@
         "title": "Find denominator",
         "text": "What's the denominator of this exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational12a-s1",
@@ -36,7 +38,8 @@
         "title": "Rewrite as a fourth root",
         "text": "Follow the format and write it as a fourth root.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational12a-s2",
@@ -50,7 +53,8 @@
         "title": "Rewrite $$16$$",
         "text": "What to the power of $$4$$ is 16?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational12a-s3",
@@ -64,6 +68,7 @@
         "title": "Simplify and find the result",
         "text": "Simplify and find the result and get the answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

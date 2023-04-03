@@ -6,7 +6,8 @@
         "title": "Using the Distributive Property",
         "text": "The first step is to use the Distributive Property, where $$a\\left(b+c\\right)$$ $$=$$ $$a b+b c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex5a-h2",
@@ -23,6 +24,7 @@
         "text": "What does the expression look like after it is rewritten using the Distributive Property?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2+5i$$",
             "$$4\\times2+4\\times5 i$$",
@@ -44,7 +46,8 @@
         "title": "Product of First Term",
         "text": "What is the product of $$4\\times2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex5a-h4",
@@ -61,6 +64,7 @@
         "text": "What is the product of $$4\\times5 i$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "20i",
             "i",

@@ -4,7 +4,7 @@
         "B"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Graph $$\\frac{{\\left(y+4\\right)}^2}{25}-\\frac{{\\left(x+1\\right)}^2}{36}=1$$.",
+    "stepTitle": "Graph $$\\frac{\\left(y+4\\right)^2}{25}-\\frac{\\left(x+1\\right)^2}{36}=1$$.",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

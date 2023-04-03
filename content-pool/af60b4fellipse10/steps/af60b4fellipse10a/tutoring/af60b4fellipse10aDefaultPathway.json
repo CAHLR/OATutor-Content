@@ -6,7 +6,8 @@
         "title": "Consider whether the equation contains the same variable exponents as the standard equation form of an ellipse.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse10a-h2",
@@ -23,6 +24,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

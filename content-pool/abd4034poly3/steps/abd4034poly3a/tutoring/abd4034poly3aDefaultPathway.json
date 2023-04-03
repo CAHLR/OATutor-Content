@@ -6,7 +6,8 @@
         "title": "Separating Terms",
         "text": "Separate the terms so that it forms multiple fractions with the same denominator. It will result in the following: $$\\frac{24p^2}{\\left(-3p\\right)}-\\frac{33p}{\\left(-3p\\right)}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "abd4034poly3a-h2",
@@ -22,6 +23,7 @@
         "title": "Simplify Terms",
         "text": "What is the result once each fraction term is simplified?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

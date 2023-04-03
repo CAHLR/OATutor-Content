@@ -6,7 +6,8 @@
         "title": "Problem Breakdown",
         "text": "To solve this problem, we will break it up into two parts- the multiplication and the subtraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributive Property Explanation",
         "text": "The distributive property is defined as when you multiply a number by a sum or difference, you have to multiply each term of the sum or difference by that number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h3",
@@ -28,7 +30,8 @@
         "title": "Solving Products",
         "text": "Solve the most difficult product in the larger product in the beginning.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h4",
@@ -42,9 +45,10 @@
             "a0cc26bpoly30a-h3"
         ],
         "title": "Solving Products",
-        "text": "In this case, we will solve $${\\left(4t-7\\right)}^2$$ first. What is it equal to?",
+        "text": "In this case, we will solve $$\\left(4t-7\\right)^2$$ first. What is it equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h5",
@@ -55,7 +59,8 @@
         "title": "Solving Products",
         "text": "Use FOIL (and the distributive property) to multiple by $$4t$$ by $$4t-7$$ and $$-7$$ by $$4t-7$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h6",
@@ -66,7 +71,8 @@
         "title": "Solving Products",
         "text": "Multiply $$16t^2-56t+49$$ by $$2t+1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h7",
@@ -77,7 +83,8 @@
         "title": "Splitting Sums",
         "text": "Split one of the $$\\frac{sums}{differences}$$ into its individual terms, to use the distributive property with.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h8",
@@ -88,7 +95,8 @@
         "title": "Splitting Sums",
         "text": "In this case, we will split the $$4x+1$$ into $$4x$$ and $$1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h9",
@@ -99,7 +107,8 @@
         "title": "Multiplying Individual Terms",
         "text": "Multiply each term from the split difference to the other $$\\frac{sum}{difference}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly30a-h10",
@@ -115,6 +124,7 @@
         "title": "Simplication",
         "text": "Simplify like terms in the sum. Like terms are terms of the same degree. After simplification, what is the final polynomial result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

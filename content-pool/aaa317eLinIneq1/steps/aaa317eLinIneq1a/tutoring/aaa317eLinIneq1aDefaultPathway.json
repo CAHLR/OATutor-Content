@@ -6,7 +6,8 @@
         "title": "Left side symbol",
         "text": "$$2$$ is included in the interval",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq1a-h2",
@@ -23,6 +24,7 @@
         "text": "What symbol should we use?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "(",
             "["
@@ -35,7 +37,8 @@
         "title": "Right side value",
         "text": "We use the symbol $$\\infty$$ to represent $$\\infty$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq1a-h4",
@@ -46,7 +49,8 @@
         "title": "Right side symbol",
         "text": "We can't \"equate\" to $$\\infty$$ (or negative infinity).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq1a-h5",
@@ -63,6 +67,7 @@
         "text": "What symbol should we use?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             ")",
             "]"

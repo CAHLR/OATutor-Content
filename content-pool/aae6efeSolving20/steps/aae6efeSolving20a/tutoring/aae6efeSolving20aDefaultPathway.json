@@ -6,7 +6,8 @@
         "title": "Setup",
         "text": "Assume one number is $$x$$, the other is $$x+1$$ because they are consecutive",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving20a-h2",
@@ -17,7 +18,8 @@
         "title": "Organizing",
         "text": "According to the question, the equation can be set as $$x+x+1=89$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving20a-h3",
@@ -28,7 +30,8 @@
         "title": "Simplify",
         "text": "The equation can be combined as $$2x+1=89$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving20a-h4",
@@ -44,6 +47,7 @@
         "title": "Calculation",
         "text": "What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

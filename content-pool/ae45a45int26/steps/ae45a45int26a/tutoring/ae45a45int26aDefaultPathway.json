@@ -6,7 +6,8 @@
         "title": "Order of Operations",
         "text": "Order of operations says that when multiplying or dividing, we must go from left to right",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26a-h2",
@@ -22,7 +23,8 @@
         "title": "Order of Operations",
         "text": "What is $$8\\left(-9\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26a-h3",
@@ -38,7 +40,8 @@
         "title": "Order of Operations",
         "text": "What is $${\\left(-2\\right)}^3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26a-h4",
@@ -54,7 +57,8 @@
         "title": "Order of Operations",
         "text": "What is $$\\frac{\\left(-72\\right)}{\\left(-8\\right)}$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ae45a45int26a-h4-s1",
@@ -68,7 +72,8 @@
                 "title": "Order of Operations",
                 "text": "What is $$\\frac{72}{8}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

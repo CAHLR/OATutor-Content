@@ -6,7 +6,8 @@
         "title": "The x-intercepts are $$t$$ $$=$$ $$1$$, $$-2$$, $$3$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower35a-h2",
@@ -17,7 +18,8 @@
         "title": "The y-intercepts are when $$x$$ $$=$$ $$0$$.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower35a-h3",
@@ -28,6 +30,7 @@
         "title": "The y-intercept is $$(0,12)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

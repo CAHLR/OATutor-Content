@@ -6,7 +6,8 @@
         "title": "Translate.",
         "text": "Let $$n=the$$ number. $$0.085n=3.06$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent6a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiply",
         "text": "$$0.085n=3.06$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent6a-h3",
@@ -33,6 +35,7 @@
         "title": "Divide",
         "text": "What do you get for $$n$$ when you divide both sides by $$0.08$$ $$5$$ and simplify?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

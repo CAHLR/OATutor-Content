@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "The first step is to use the distributive property. $$\\left(x+4\\right) \\left(3x-2y+5\\right)$$ $$=$$ $$x\\left(3x-2y+5\\right)+4\\left(3x-2y+5\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly12a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiply",
         "text": "The next step is to multiply those terms. $$x\\left(3x-2y+5\\right)+4\\left(3x-2y+5\\right)$$ $$=$$ $$3x^2-2xy+5x+12x-8y+20$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly12a-h3",
@@ -28,7 +30,8 @@
         "title": "Combining Like Terms",
         "text": "After you multiply, in order to simplify, you need to combine like terms. $$3x^2-2xy+5x+12x-8y+20$$ $$=$$ $$3x^2-2xy+5x+12x-8y+20$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0cc26bpoly12a-h4",
@@ -39,6 +42,7 @@
         "title": "Simplifying",
         "text": "Finally, you need to simplify. $$3x^2-2xy+5x+12x-8y+20$$ $$=$$ $$3x^2-2xy+17x-8y+20$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Finding the Largest Perfect Square",
         "text": "You must first identify the largest perfect square factor of the number inside the radical.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical1a-h2",
@@ -22,7 +23,8 @@
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the number inside the radical?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical1a-h3",
@@ -33,7 +35,8 @@
         "title": "Rewriting the Radical",
         "text": "You must now rewrite the radical as the product of two radicals. One of these radicals must include the perfect square. This is possible because of the product rule.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical1a-h4",
@@ -49,7 +52,8 @@
         "title": "Rewriting the Radical",
         "text": "What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical1a-h5",
@@ -65,6 +69,7 @@
         "title": "Simplfying the Radicals",
         "text": "What is the result after simplifying the square root with the perfect square?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

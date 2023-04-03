@@ -6,7 +6,8 @@
         "title": "Split the expression",
         "text": "Split $$-19n$$ to $$-22n$$ and $$3n$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "aabf119factor17a-h2",
@@ -22,7 +23,8 @@
         "title": "Factor the expression",
         "text": "What is the factoring of $$6n^2+3n$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "aabf119factor17a-h3",
@@ -38,7 +40,8 @@
         "title": "Factor the expression",
         "text": "What is the factoring of $$-22n-11$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "aabf119factor17a-h4",
@@ -54,6 +57,7 @@
         "title": "Factor the expression",
         "text": "Factor out the common term of both $$2n+1$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     }
 ]

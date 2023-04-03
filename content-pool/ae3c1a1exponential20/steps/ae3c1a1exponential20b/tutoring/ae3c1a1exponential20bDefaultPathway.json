@@ -11,7 +11,8 @@
         "title": "Using Substitution",
         "text": "How many years have elapsed since the first year, 1985?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential20b-h2",
@@ -22,6 +23,7 @@
         "title": "Using Substitution",
         "text": "Substitute $$t=25$$ into the exponential model that was found.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Simplify",
         "text": "Move all the terms from the right hand side to the ledt hand side to make the right hand side equal to $$0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad34a-h2",
@@ -17,7 +18,8 @@
         "title": "Divide",
         "text": "Divide the left hand side by $$5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad34a-h3",
@@ -34,6 +36,7 @@
         "text": "What do we get after the division?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x^2-x+6=0$$",
             "$$x^2-x-6=0$$",
@@ -54,6 +57,7 @@
         "title": "Factors",
         "text": "What are the two numbers that multiply to $$-6$$ and add up to $$-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "inverse functions definition",
         "text": "The functions are inverses of each other if $$g((f(x))=x$$ and $$g(f(x))=x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute $$5x-1$$ for f(x)",
         "text": "Check if $$g(5x-1)$$ $$=$$ $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h3",
@@ -28,7 +30,8 @@
         "title": "Find $$g(5x-1)$$ where g(x) $$=$$ $$\\frac{x+1}{5}$$",
         "text": "Check if $$\\frac{5x-1+1}{5}$$ $$=$$ $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h4",
@@ -39,7 +42,8 @@
         "title": "Simplify",
         "text": "$$\\frac{5x-1+1}{5}=\\frac{5x}{5}$$ $$=$$ $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h5",
@@ -50,7 +54,8 @@
         "title": "substitute $$\\frac{x+1}{5}$$ for g(x)",
         "text": "Check if $$f{\\left(\\frac{x+1}{5}\\right)}$$ $$=$$ $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h6",
@@ -61,7 +66,8 @@
         "title": "Find f((x+1/5) where $$f(x)=5x-1$$",
         "text": "$$f{\\left(\\frac{x+1}{5}\\right)}=5\\left(\\frac{x+1}{5}\\right)$$ - $$1=x+1-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv16a-h7",
@@ -72,6 +78,7 @@
         "title": "Simplify",
         "text": "$$x+1-1$$ $$=x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

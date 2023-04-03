@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$0$$ for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs10a-h2",
@@ -17,7 +18,8 @@
         "title": "Isolate",
         "text": "Isolate the absolute value on one side of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9981ababs10a-h3",
@@ -34,6 +36,7 @@
         "text": "What do we get after the isolation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$1=|x|$$",
             "$$0=|x|$$",
@@ -49,6 +52,7 @@
         "title": "Absolute Value",
         "text": "$$|x|$$ is always non-negative, so we cannot find x-intercepts in this case.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

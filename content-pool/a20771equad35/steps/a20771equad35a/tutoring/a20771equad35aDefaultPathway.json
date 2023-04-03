@@ -6,7 +6,8 @@
         "title": "Factor",
         "text": "Factor out the common factor in both",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad35a-h2",
@@ -22,7 +23,8 @@
         "title": "Common Factor",
         "text": "What is the common factor of the two terms?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad35a-h3",
@@ -39,6 +41,7 @@
         "text": "What do we get after the factoring?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x\\left(7x^2+3\\right)=0$$",
             "$$x(7x-3)=0$$",
@@ -59,6 +62,7 @@
         "title": "Factors",
         "text": "Which factors will make the left side zero $$(x=0$$ & $$7x$$ - $$3$$ $$=0)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

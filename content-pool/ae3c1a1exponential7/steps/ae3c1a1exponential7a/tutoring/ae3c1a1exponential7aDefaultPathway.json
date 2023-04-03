@@ -6,7 +6,8 @@
         "title": "Compound Interest Formula",
         "text": "The equation for calculating compound interest is $$A(t)={P\\left(1+\\frac{r}{n}\\right)}^{nt}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h2",
@@ -17,7 +18,8 @@
         "title": "Identifying Variables",
         "text": "Plug in the known values into the compound interest equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h3",
@@ -33,7 +35,8 @@
         "title": "Investment Price",
         "text": "What is the value of P?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h4",
@@ -49,7 +52,8 @@
         "title": "Interest Rate",
         "text": "What is the value of $$r$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h5",
@@ -65,7 +69,8 @@
         "title": "Compounding Rate",
         "text": "What is the value of $$n$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h6",
@@ -81,7 +86,8 @@
         "title": "Solving for Time",
         "text": "What is the value of $$t$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential7a-h7",
@@ -92,6 +98,7 @@
         "title": "Solving the Equation",
         "text": "Solve the equation using order of operations",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

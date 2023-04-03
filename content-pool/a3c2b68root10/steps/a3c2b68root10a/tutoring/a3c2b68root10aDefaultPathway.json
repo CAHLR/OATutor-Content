@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiplying Each Root",
-        "text": "Recall binomial square: $${\\left(a+b\\right)}^2=a^2+2ab+b^2$$",
+        "text": "Recall binomial square: $$\\left(a+b\\right)^2=a^2+2ab+b^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3c2b68root10a-h2",
@@ -17,6 +18,7 @@
         "title": "Substitution",
         "text": "Substitute the value in the binomial equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

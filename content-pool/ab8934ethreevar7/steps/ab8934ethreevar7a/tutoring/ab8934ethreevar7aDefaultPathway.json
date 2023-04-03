@@ -6,7 +6,8 @@
         "title": "Reducing to a system of two equations",
         "text": "The first step is to pick two equations and solve for one variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar7a-h2",
@@ -23,6 +24,7 @@
         "text": "What is the resulting equation that comes from multiplying equation (1) by $$5$$, multiplying equation (2) by $$2$$, and adding the two equations together?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$3y+11z=-7$$",
             "$$-3y-11z=7$$",
@@ -38,7 +40,8 @@
         "title": "Solving the system of two equations",
         "text": "The next step is to use the resulting equation and equation $$3$$ to solve the system of two equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar7a-h4",
@@ -49,6 +52,7 @@
         "title": "Finding the value of the last variable",
         "text": "The last step is to back-substitute the known variables into any one of the original equations and solve for the missing variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

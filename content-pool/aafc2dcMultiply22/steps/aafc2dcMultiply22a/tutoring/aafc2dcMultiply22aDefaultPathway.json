@@ -6,7 +6,8 @@
         "title": "Divide",
         "text": "We need to divide first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply22a-h2",
@@ -22,7 +23,8 @@
         "title": "Divide",
         "text": "What do we get for $$\\frac{65}{\\left(-5\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply22a-h3",
@@ -38,7 +40,8 @@
         "title": "Divide",
         "text": "What do we get for $$\\frac{\\left(-28\\right)}{\\left(-7\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply22a-h4",
@@ -49,7 +52,8 @@
         "title": "Add",
         "text": "We then need to add the two quotients.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply22a-h5",
@@ -65,6 +69,7 @@
         "title": "Add",
         "text": "What do we get for $$\\left(-13\\right)+4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Write the equivalent equations using the formula. If $$|x|=a$$, then $$u=-a$$ and $$u=a$$.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a65ae04inequalities1a-h2",
@@ -17,6 +18,7 @@
         "title": "Answer",
         "text": "The answer is $$x=\\pm 4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

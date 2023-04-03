@@ -6,7 +6,8 @@
         "title": "Organizing",
         "text": "Modify the equation into the form $$m=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributive Property I",
         "text": "Use the distributive property to multiply $$22(3m-4)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplication",
         "text": "What is $$22(3m-4)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h4",
@@ -44,7 +47,8 @@
         "title": "Distributive Property II",
         "text": "Use the distributive property to multiply $$8\\left(2m+9\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h5",
@@ -60,7 +64,8 @@
         "title": "Multiplication",
         "text": "What is $$8\\left(2m+9\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h6",
@@ -71,7 +76,8 @@
         "title": "Organizing",
         "text": "Use algebra to manipulate the equation into the form $$m=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h7",
@@ -87,7 +93,8 @@
         "title": "Subtraction",
         "text": "What is $$66m-16m$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h8",
@@ -103,7 +110,8 @@
         "title": "Subtraction",
         "text": "What is $$72-(-88)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h9",
@@ -119,7 +127,8 @@
         "title": "Division",
         "text": "What is $$\\frac{160}{50}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear24a-h10",
@@ -130,6 +139,7 @@
         "title": "Classifying the Equation",
         "text": "Determine if the equation contradicts itself, or only valid under certain condition",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

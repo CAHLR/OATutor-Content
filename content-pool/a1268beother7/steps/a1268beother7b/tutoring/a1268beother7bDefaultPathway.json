@@ -6,7 +6,8 @@
         "title": "Subtract",
         "text": "Subtract $$3x^2$$ from both sides, so we get $$12x\\times4-3x^2=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h2",
@@ -17,7 +18,8 @@
         "title": "GCF",
         "text": "Factor out the GCF $$3x^2$$, and we get $$3x^{2\\left(4x^2-1\\right)}=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h3",
@@ -28,7 +30,8 @@
         "title": "Zero Product Property",
         "text": "This states that either $$3x^2=0$$ or $$4x^2-1=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h4",
@@ -44,7 +47,8 @@
         "title": "First Solution",
         "text": "Set $$3x^2=0$$ and simplify. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h5",
@@ -55,7 +59,8 @@
         "title": "Next Solution",
         "text": "Set $$4x^2-1=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h6",
@@ -71,7 +76,8 @@
         "title": "Factor",
         "text": "Factor $$4x^2-1$$ as difference of squares. What expression do we get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7b-h7",
@@ -88,6 +94,7 @@
         "text": "What two values make the expression equal 0?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{1}{2}-\\frac{1}{2}$$",
             "$$2, -2$$"

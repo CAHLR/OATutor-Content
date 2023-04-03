@@ -6,7 +6,8 @@
         "title": "Identify known quantities",
         "text": "There are three known quantities, $$3.6$$ $$h$$, $$4$$ $$h$$ and $$5$$ $$\\frac{mi}{h}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h2",
@@ -17,7 +18,8 @@
         "title": "Determine unknown quantities",
         "text": "There are four unknown quantities, the speed Jennifer drives on Saturday, the speed she drives on Sunday, the distance she drives on Saturday and Sunday.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h3",
@@ -28,7 +30,8 @@
         "title": "Assign a variable",
         "text": "In this question, there are more than one unknown quantities, we need to choose one, for example, the speed Jennifer drives on Saturday and let it equal $$r$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h4",
@@ -44,7 +47,8 @@
         "title": "Express other quantities",
         "text": "If the speed Jennifer drives on Satuday is $$r$$ $$\\frac{mi}{h}$$ and her speed is $$5$$ $$\\frac{mi}{h}$$ slower on Sunday than on Saturday, what is her speed on Sunday?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h5",
@@ -60,7 +64,8 @@
         "title": "Express other quantities",
         "text": "How far does Jennifer drive on Saturday in terms of $$r$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h6",
@@ -76,7 +81,8 @@
         "title": "Express other quantities",
         "text": "How far does Jennifer drive on Sunday in terms of her speed on Sunday?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h7",
@@ -87,7 +93,8 @@
         "title": "Translation to Math Operations",
         "text": "The only thing we can translate into an equation is the distance between Jennifer and her mother's house remains unchanged.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h8",
@@ -103,7 +110,8 @@
         "title": "Translation to Math Operations",
         "text": "What is the mathmatical form of the statement that the distance covered by both trips is the same?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h9",
@@ -119,7 +127,8 @@
         "title": "Simplify and Solve",
         "text": "Solve the equation we write. What is $$r$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h10",
@@ -135,7 +144,8 @@
         "title": "Calculate the target quantity",
         "text": "What is $$r-5$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af227bbMoApp8a-h11",
@@ -146,6 +156,7 @@
         "title": "Explain the solution",
         "text": "Jennifer' speed is $$50$$ $$\\frac{mi}{h}$$ on Saturday and $$45$$ $$\\frac{mi}{h}$$ on Sunday.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

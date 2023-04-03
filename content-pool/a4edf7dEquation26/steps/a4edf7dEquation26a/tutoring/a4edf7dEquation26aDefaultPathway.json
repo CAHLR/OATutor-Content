@@ -6,7 +6,8 @@
         "title": "Creating an Equation",
         "text": "The supplementary angles add to $$180$$ and have a difference of $$88$$ degrees. So, we have: $$x+y=180, x-y=88$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation26a-h2",
@@ -17,7 +18,8 @@
         "title": "Elimination",
         "text": "We can eliminate $$y$$ from this equation by adding them together. We get $$2x=268$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation26a-h3",
@@ -28,6 +30,7 @@
         "title": "Solving for X, Y",
         "text": "$$x=\\frac{268}{2}=134$$. Plugginig this into an original equation, we get $$y=46$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

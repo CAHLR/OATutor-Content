@@ -6,7 +6,8 @@
         "title": "Solving for the $$y-intercept(s)$$",
         "text": "Find the $$y$$ intercept(s) by finding g(0).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph3a-h2",
@@ -22,7 +23,8 @@
         "title": "Solving for the y-intercept",
         "text": "$$g(0)=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7ea646graph3a-h3",
@@ -39,6 +41,7 @@
         "text": "The $$x-intercept(s)$$ can be found by setting $$g(x)=0$$. $$x=$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2-\\frac{3}{2}$$",
             "2,3",

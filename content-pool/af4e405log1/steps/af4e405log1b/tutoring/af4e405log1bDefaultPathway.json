@@ -6,7 +6,8 @@
         "title": "Identify the base and exponent",
         "text": "To convert an exponential equation to logarithmic form, we need to identify the base of the exponential, a, and the exponent $$y$$ since $$y=\\log_{a}\\left(x\\right)$$ is equivalent to $$x=a^y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log1b-h2",
@@ -22,7 +23,8 @@
         "title": "Identify the base",
         "text": "What is the base of the exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log1b-h3",
@@ -38,7 +40,8 @@
         "title": "Identify the exponent",
         "text": "What is the exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log1b-h4",
@@ -55,6 +58,7 @@
         "text": "Knowing the base and the exponent, what is the logarithmic form?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{1}{2}=\\log_{5}\\left(\\sqrt{5}\\right)$$",
             "$$\\sqrt{5}=\\log_{5}\\left(\\frac{1}{2}\\right)$$",

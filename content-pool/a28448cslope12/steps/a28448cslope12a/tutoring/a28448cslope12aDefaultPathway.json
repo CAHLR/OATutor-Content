@@ -6,7 +6,8 @@
         "title": "Solve for $$y$$",
         "text": "Isolate $$y$$ to one side: $$6x+4y=12$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h2",
@@ -17,7 +18,8 @@
         "title": "Solve for $$y$$",
         "text": "Substract $$6x$$ from each side: $$4y=-6x+12$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h3",
@@ -28,7 +30,8 @@
         "title": "Solve for $$y$$",
         "text": "Divide both sides by 4: $$\\frac{4y}{4}=\\frac{\\left(-6x+12\\right)}{4}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h4",
@@ -39,7 +42,8 @@
         "title": "Solve for $$y$$",
         "text": "Remember $$\\frac{a+b}{c}=\\frac{a}{c}+\\frac{b}{c}$$: $$\\frac{4y}{4}=\\frac{-6x}{4}+\\frac{12}{4}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h5",
@@ -50,7 +54,8 @@
         "title": "Solve for $$y$$",
         "text": "Simplify: $$y=\\left(-\\frac{3}{2}\\right) x+3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h6",
@@ -61,7 +66,8 @@
         "title": "Slope-Intercept Form of an Equation of a Line",
         "text": "We compare our equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=\\left(-\\frac{3}{2}\\right) x+3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h7",
@@ -77,7 +83,8 @@
         "title": "Identify the slope.",
         "text": "What is $$m$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h8",
@@ -93,7 +100,8 @@
         "title": "Identify $$b$$.",
         "text": "What is $$b$$ in our given equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h9",
@@ -104,7 +112,8 @@
         "title": "Identify the y-intercept.",
         "text": "The y-intercept is (0,b). Since $$b$$ is $$3$$, the y-intercept would be $$(0,3)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope12a-h10",
@@ -116,6 +125,7 @@
         "title": "Slope and y-intercept",
         "text": "The slope is $$\\frac{-3}{2}$$ and the y-intercept is $$(0,3)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

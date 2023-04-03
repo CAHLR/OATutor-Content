@@ -6,7 +6,8 @@
         "title": "Divide",
         "text": "First, divide each term by its previous term. So for the first term, you would divide $$2$$ by $$1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric2a-h2",
@@ -22,7 +23,8 @@
         "title": "Divide all terms",
         "text": "Divide all of the terms by their previous one. What does the division equal for each term?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ab6a46ageometric2a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$\\frac{1}{2}$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -44,6 +47,7 @@
         "title": "Answer",
         "text": "Therefore, the answer is $$\\frac{1}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

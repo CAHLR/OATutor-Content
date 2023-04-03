@@ -6,7 +6,8 @@
         "title": "Setup",
         "text": "Assume Erica earned $$x$$ dollars from her job at college",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving23a-h2",
@@ -17,7 +18,8 @@
         "title": "Organizing",
         "text": "According to her total income, she earned $$50450-x$$ from her job at the store",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving23a-h3",
@@ -28,7 +30,8 @@
         "title": "Organizing",
         "text": "According to the second statement, she earned $$3x+1250$$ from her job at the store",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving23a-h4",
@@ -39,7 +42,8 @@
         "title": "Combining",
         "text": "The income from her job at the store is constant, so the equation can be set as $$50450-x=3x+1250$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aae6efeSolving23a-h5",
@@ -55,6 +59,7 @@
         "title": "Calculation",
         "text": "What is the value of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Find $$a_1$$",
         "text": "To find $$a_1$$, substitute $$k=1$$ into the given explicit formula: $$a_k=\\frac{k}{2}-\\frac{1}{2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h2",
@@ -22,7 +23,8 @@
         "title": "Solve for $$a_1$$",
         "text": "What is $$a_1=\\frac{1}{2}-\\frac{1}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h3",
@@ -33,7 +35,8 @@
         "title": "Find $$a_k$$",
         "text": "We are given that $$n=11$$. To find $$a_{11}$$, substitute $$k=11$$ into the given explicit formula: $$a_k=\\frac{k}{2}-\\frac{1}{2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h4",
@@ -49,7 +52,8 @@
         "title": "Solve for $$a_{11}$$",
         "text": "What is $$a_{11}=\\frac{11}{2}-\\frac{1}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h5",
@@ -60,7 +64,8 @@
         "title": "Formula for Sum of the first $$n$$ terms of Arithmetic Series",
         "text": "Substitute values for $$a_1$$, $$a_n$$ , and $$n$$ into the formula: $$S_n=\\frac{n \\left(a_1+a_n\\right)}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h6",
@@ -76,7 +81,8 @@
         "title": "Formula for Sum of the first $$11$$ terms of Arithmetic Series",
         "text": "What is $$S_{11}=\\frac{11\\left(0+5\\right)}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser10a-h7",
@@ -87,6 +93,7 @@
         "title": "Sum of the first $$11$$ terms of Arithmetic Series",
         "text": "The Sum of the first $$11$$ terms of Arithmetic Series is $$\\frac{55}{2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

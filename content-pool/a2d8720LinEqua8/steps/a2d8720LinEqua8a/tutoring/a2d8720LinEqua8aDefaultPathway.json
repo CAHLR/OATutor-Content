@@ -6,7 +6,8 @@
         "title": "Find LCD",
         "text": "We have three denominators: $$3x$$, $$4$$, and $$6x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua8a-h2",
@@ -22,7 +23,8 @@
         "title": "LCD",
         "text": "What is the LCD of this equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua8a-h3",
@@ -38,7 +40,8 @@
         "title": "Eliminating",
         "text": "Simplify $$12x \\frac{2}{3x}=12x \\frac{1}{4}-12x \\frac{1}{6x}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua8a-h4",
@@ -49,7 +52,8 @@
         "title": "Solve equation",
         "text": "Then we should solve the linear equation obtained.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua8a-h5",
@@ -65,6 +69,7 @@
         "title": "Linear equation",
         "text": "Solve the linear equation $$8=3x-2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

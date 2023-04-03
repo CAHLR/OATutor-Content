@@ -6,7 +6,8 @@
         "title": "Finding Two Factors Whose Product is the Given Number",
         "text": "The first step is to find two factors whose product is the given number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole15a-h2",
@@ -23,6 +24,7 @@
         "text": "Are $$2$$ and $$30$$ factors of 60?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -37,7 +39,8 @@
         "title": "Prime Number Factors",
         "text": "If a factor is prime, that means it can't be divided further. Thus, it is a prime factor of the number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole15a-h4",
@@ -54,6 +57,7 @@
         "text": "Is $$2$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -74,6 +78,7 @@
         "text": "Is $$30$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -88,7 +93,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "The next step is to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole15a-h7",
@@ -105,6 +111,7 @@
         "text": "Are $$2$$ and $$15$$ factors of 30?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -125,6 +132,7 @@
         "text": "Is $$2$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -145,6 +153,7 @@
         "text": "Is $$15$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -159,7 +168,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "Continue to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole15a-h11",
@@ -176,6 +186,7 @@
         "text": "Are $$3$$ and $$5$$ factors of 15?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -196,6 +207,7 @@
         "text": "Is $$3$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -216,6 +228,7 @@
         "text": "Is $$5$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -230,7 +243,8 @@
         "title": "Final Step",
         "text": "The final step is to write the composite number as the product of all the prime factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole15a-h15",
@@ -241,6 +255,7 @@
         "title": "Answer",
         "text": "The found prime factors of $$60$$ were $$2$$, $$2$$, $$3$$, and $$5$$. Thus $$2\\times2\\times3\\times5=60$$, and $$2\\times2\\times3\\times5$$ is the factorization of $$60$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

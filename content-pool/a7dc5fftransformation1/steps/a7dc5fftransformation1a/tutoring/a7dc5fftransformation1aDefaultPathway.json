@@ -6,7 +6,8 @@
         "title": "Moving higher from the ground by $$10m$$ means that you are throwing the ball $$10m$$ higher every time because you are on a building.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation1a-h2",
@@ -22,6 +23,7 @@
         "title": "What is the final expression if we increase everything by 10?",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

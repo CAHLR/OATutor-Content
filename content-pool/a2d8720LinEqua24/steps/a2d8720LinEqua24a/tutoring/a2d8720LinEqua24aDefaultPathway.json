@@ -6,7 +6,8 @@
         "title": "Vertical line",
         "text": "The x-coordinate of both points is $$1$$. Therefore it is a vertical line.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua24a-h2",
@@ -22,6 +23,7 @@
         "title": "Writing the equation",
         "text": "Write the equation of the vertical line.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

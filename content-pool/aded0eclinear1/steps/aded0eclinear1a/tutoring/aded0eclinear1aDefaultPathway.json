@@ -6,7 +6,8 @@
         "title": "Writing the Left Endpoint",
         "text": "Since the inequality includes a greater than or equal to symbol, $$ \\geq $$, we will need to use a bracket to denote the left endpoint.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aded0eclinear1a-h2",
@@ -17,7 +18,8 @@
         "title": "Writing the Right Endpoint",
         "text": "There is no upper end to the solution to this inequality so we express it using the $$\\infty$$ symbol.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aded0eclinear1a-h3",
@@ -34,6 +36,7 @@
         "text": "What is the interval notation for the inequality?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$[-3$$, inf)",
             "$$(-3,0)$$",

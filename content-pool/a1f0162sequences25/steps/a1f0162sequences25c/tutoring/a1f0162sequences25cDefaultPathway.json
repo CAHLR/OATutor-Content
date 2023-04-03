@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute $$n=3$$ into the formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences25c-h2",
@@ -15,8 +16,9 @@
             "a1f0162sequences25c-h1"
         ],
         "title": "Simplification",
-        "text": "Calculate the expression $$-\\left({\\left(-5\\right)}^{3-1}\\right)$$ $$=$$ $$-\\left({\\left(-5\\right)}^2\\right)$$",
+        "text": "Calculate the expression $$-{\\left(-5\\right)}^{3-1}$$ $$=$$ $$-{\\left(-5\\right)}^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

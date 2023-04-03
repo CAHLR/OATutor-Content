@@ -6,7 +6,8 @@
         "title": "Use a Variable",
         "text": "Let the number be $$x$$. Set up an equation and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve19a-h2",
@@ -17,7 +18,8 @@
         "title": "Setting up an Equation",
         "text": "The sum of four times a number and $$2$$ can be represented as $$4x+2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve19a-h3",
@@ -28,7 +30,8 @@
         "title": "The Equation",
         "text": "The equation can be set up as $$4x+2=14$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve19a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is that $$x=3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

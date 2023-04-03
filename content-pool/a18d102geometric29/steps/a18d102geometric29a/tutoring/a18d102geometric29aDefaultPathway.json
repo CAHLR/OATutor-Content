@@ -6,7 +6,8 @@
         "title": "Sum of the First $$n$$ Terms Formula",
         "text": "The sum, $$S_n$$, of the first $$n$$ terms of a geometric sequence is $$S_n=\\frac{a_1 \\left(1-r^n\\right)}{1-r}$$. We note that the form that is given is sum{i\\=1}{15}{(2)**i} and this is written in the form sum{i\\=1}{k}{a*(r)**i} where we're summing the first k terms where $$r$$ is the common ratio and $$a r$$ is the starting value.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric29a-h2",
@@ -22,7 +23,8 @@
         "title": "Determine $$a_1$$",
         "text": "What is $$a_1$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a18d102geometric29a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "Determine $$a_1$$",
                 "text": "What is $$2^1$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -54,7 +57,8 @@
         "title": "Determine $$r$$",
         "text": "What is $$r$$? What is the common ratio? This is usually the base of the exponent in the summation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric29a-h4",
@@ -70,7 +74,8 @@
         "title": "Determine $$n$$",
         "text": "What is $$n$$? As in, how many values are in the summation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric29a-h5",
@@ -86,7 +91,8 @@
         "title": "Solve for the Summation",
         "text": "Plug in the values into the equation for $$S_n$$ and solve. What is the sum of the first $$15$$ terms of the geometric sequence?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a18d102geometric29a-h5-s1",
@@ -100,7 +106,8 @@
                 "title": "Solve for the Summation",
                 "text": "What is $$\\frac{2\\left(1-2^{15}\\right)}{1-2}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

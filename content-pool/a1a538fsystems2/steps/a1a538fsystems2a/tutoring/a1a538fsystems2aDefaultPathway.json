@@ -6,7 +6,8 @@
         "title": "Plug in",
         "text": "Plug in the values from the ordered pair into the system of equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a538fsystems2a-h2",
@@ -17,7 +18,8 @@
         "title": "Check sides",
         "text": "The equation is true if both sides equal each other.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a538fsystems2a-h3",
@@ -28,7 +30,8 @@
         "title": "Simplify",
         "text": "Simplify the equations. Check if the simplified form to see if it makes the equation true.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a538fsystems2a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The ordered pair is a solution to the system.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

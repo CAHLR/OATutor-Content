@@ -6,7 +6,8 @@
         "title": "Draw",
         "text": "Draw the figure to try to better understand what the problem is asking",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01geo4a-h2",
@@ -17,7 +18,8 @@
         "title": "Identify and Name",
         "text": "We are looking for the third angle of the triangle and we can name it \"x\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01geo4a-h3",
@@ -28,7 +30,8 @@
         "title": "Translate",
         "text": "Each of the three angles added together equals $$180$$ degrees, $$x+90+28=180$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01geo4a-h4",
@@ -39,7 +42,8 @@
         "title": "Solve",
         "text": "Solve the equation using algebra",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01geo4a-h5",
@@ -55,7 +59,8 @@
         "title": "Solve",
         "text": "First let's simplify the left side of the equation. What is $$28+90$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01geo4a-h6",
@@ -66,6 +71,7 @@
         "title": "Solve",
         "text": "Now, we can subtract $$118$$ from both sides of the equation to find $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

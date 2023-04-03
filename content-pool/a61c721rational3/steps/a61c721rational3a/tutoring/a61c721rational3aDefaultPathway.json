@@ -6,7 +6,8 @@
         "title": "The least common multiple",
         "text": "The LCM or least common multiple of a set of numbers is the smallest positive integer that is divisible by all those numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational3a-h2",
@@ -22,7 +23,8 @@
         "title": "The least common multiple",
         "text": "To combine the fractions, we want to find the LCM of the denominators. What is it?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational3a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplication by $$1$$",
         "text": "We must multiple each expression by the appropriate form of $$1$$ to obtain xy as the denominator for each fraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational3a-h4",
@@ -49,7 +52,8 @@
         "title": "Multiplication by $$1$$",
         "text": "What should we multiply to $$\\frac{5}{x}$$ so that its denominator becomes xy?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational3a-h5",
@@ -65,7 +69,8 @@
         "title": "Multiplication by $$1$$",
         "text": "What should we multiply to $$\\frac{6}{y}$$ so that its denominator becomes xy?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational3a-h6",
@@ -81,6 +86,7 @@
         "title": "Adding Terms",
         "text": "Now that both terms have the same denominator, we can add their numerators. What is our final answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

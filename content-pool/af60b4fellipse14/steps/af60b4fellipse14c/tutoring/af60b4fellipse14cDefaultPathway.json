@@ -6,7 +6,8 @@
         "title": "Minor Axis",
         "text": "Does the minor axis lie on the $$x-$$ or y-axis?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse14c-h2",
@@ -23,6 +24,7 @@
         "text": "Given that the minor axis is on the y-axis, use the information from the standard form to find the endpoints on the minor axis",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,8)$$ and $$(0,-8)$$",
             "$$(0,7)$$ and $$(0,-7)$$"

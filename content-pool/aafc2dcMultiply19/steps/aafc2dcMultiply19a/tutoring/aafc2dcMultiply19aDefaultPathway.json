@@ -6,7 +6,8 @@
         "title": "Multiply",
         "text": "We need to multiply first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiply",
         "text": "What do we get for $$5\\left(-6\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h3",
@@ -38,7 +40,8 @@
         "title": "Multiply",
         "text": "What do we get for $$7\\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h4",
@@ -49,7 +52,8 @@
         "title": "Add",
         "text": "We then need to add $$-30$$ and $$-14$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h5",
@@ -65,7 +69,8 @@
         "title": "Add",
         "text": "What do we get after the addition?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h6",
@@ -76,7 +81,8 @@
         "title": "Subtract",
         "text": "We then need to subtract $$3$$ from $$-44$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply19a-h7",
@@ -92,6 +98,7 @@
         "title": "Subtract",
         "text": "What do we get after the subtraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

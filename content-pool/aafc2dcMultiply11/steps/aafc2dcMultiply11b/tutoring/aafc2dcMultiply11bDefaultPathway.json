@@ -6,7 +6,8 @@
         "title": "Translating into math expression",
         "text": "Remember, \"subtract $$b$$ from a\" means $$a-b$$. So the phrase translates to $$-19-24$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply11b-h2",
@@ -22,6 +23,7 @@
         "title": "Simplify",
         "text": "What is $$-19-24$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

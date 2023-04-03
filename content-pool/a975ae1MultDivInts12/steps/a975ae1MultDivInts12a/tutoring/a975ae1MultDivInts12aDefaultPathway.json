@@ -6,7 +6,8 @@
         "title": "Order of Operations",
         "text": "Simplify the parentheses, then exponents, then sequentially $$\\frac{multiply}{divide}$$ and $$\\frac{add}{subtract}$$ left to right.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts12a-h2",
@@ -22,7 +23,8 @@
         "title": "What is $$\\frac{-30}{2}$$?",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts12a-h3",
@@ -38,7 +40,8 @@
         "title": "What is $$(-3)(-7)$$?",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts12a-h4",
@@ -54,6 +57,7 @@
         "title": "What is $$-15+21$$?",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

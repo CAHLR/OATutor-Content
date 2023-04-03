@@ -6,7 +6,8 @@
         "title": "Representing Distance with Algebraic Expression",
         "text": "The distance from $$x$$ to $$5$$ can be represented using an absolute value symbol, $$|x-5|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq9a-h2",
@@ -17,7 +18,8 @@
         "title": "Defining Inequality",
         "text": "All values of $$x$$ that satisfy the condition can be represented as the inequality: $$|x-5| \\leq 4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq9a-h3",
@@ -28,7 +30,8 @@
         "title": "Absolute Value Inequalities",
         "text": "$$|X| \\leq k$$ is equivalent to $$-k \\leq X \\leq k$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq9a-h4",
@@ -39,7 +42,8 @@
         "title": "Applying the Formula for Absolute Value Inequalities",
         "text": "$$|x-5| \\leq 4$$ can be written as two inequalities: $$x-5 \\leq 4$$ and $$x-5 \\geq -4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq9a-h5",
@@ -50,7 +54,8 @@
         "title": "Solution Set",
         "text": "The two inequalities we get from solving $$x-5 \\leq 4$$ and $$x-5 \\geq -4$$ are: $$x \\leq 9$$ and $$x \\geq 1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq9a-h6",
@@ -67,6 +72,7 @@
         "text": "What is $$x \\leq 9$$ and $$x \\geq 1$$ written in the interval notation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(1,9)$$",
             "[1,9]"

@@ -4,7 +4,7 @@
         "$$x=\\pm \\sqrt{2}$$, $$x=\\pm 3 i$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x^4+{\\left(5x\\right)}^2-36=0$$",
+    "stepTitle": "$$x^4+\\left(5x\\right)^2-36=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

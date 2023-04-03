@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$y$$ for f(x)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h2",
@@ -17,7 +18,8 @@
         "title": "Swap",
         "text": "Swap $$y$$ and $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h3",
@@ -28,7 +30,8 @@
         "title": "Multiply",
         "text": "Multiply $$5y+4$$ to both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h4",
@@ -45,6 +48,7 @@
         "text": "What is the result?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y \\left(5y+4\\right)=2y+3$$",
             "$$x \\left(5y+4\\right)=2y+3$$",
@@ -60,7 +64,8 @@
         "title": "Expand",
         "text": "Expand the left hand side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h6",
@@ -71,7 +76,8 @@
         "title": "Subtract",
         "text": "Subtract $$4x$$ from both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h7",
@@ -82,7 +88,8 @@
         "title": "Subtract",
         "text": "Subtract $$2y$$ from both sides",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h8",
@@ -99,6 +106,7 @@
         "text": "What is the result?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$5xy+2y=4x+3$$",
             "$$5xy-2y=4x-9$$",
@@ -114,7 +122,8 @@
         "title": "Factor",
         "text": "Factor out $$y$$ from the left hand side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse2a-h10",
@@ -131,6 +140,7 @@
         "text": "What is the result?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y \\left(5x+2\\right)=-4x+3$$",
             "$$y \\left(5x-2\\right)=-4x+3$$",
@@ -146,6 +156,7 @@
         "title": "Divide",
         "text": "Divide $$5x-2$$ from both sides to get the final answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "Use the distributive property to multiply $$\\frac{1}{5} \\left(15c+10\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear20a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is $$\\frac{1}{5} \\left(15c+10\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear20a-h3",
@@ -33,7 +35,8 @@
         "title": "Organizing",
         "text": "Once both sides have an equation without parantheses, use algebra to manipulate the equation into the form $$c=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear20a-h4",
@@ -49,7 +52,8 @@
         "title": "Subtraction",
         "text": "What is $$7-2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear20a-h5",
@@ -65,7 +69,8 @@
         "title": "Subtraction",
         "text": "What is 3c-c?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear20a-h6",
@@ -81,6 +86,7 @@
         "title": "Division",
         "text": "What is $$\\frac{5}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

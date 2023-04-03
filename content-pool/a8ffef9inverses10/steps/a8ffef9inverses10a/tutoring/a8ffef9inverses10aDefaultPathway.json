@@ -6,7 +6,8 @@
         "title": "Finding the Inverse",
         "text": "The general procedure for finding an inverse is to:\\n1) Replace f(x) with $$y$$.\\n2) Interchange $$x$$ and $$y$$.\\n3) Solve for $$y$$, and rename the function $$f^{-1\\left(x\\right)}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h2",
@@ -23,6 +24,7 @@
         "text": "What does the equation look like after replacing f(x) with $$y$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y=\\frac{x+3}{x-2}$$",
             "$$f(x)=\\frac{x+3}{x-2}$$",
@@ -44,6 +46,7 @@
         "text": "What does the equation look like after interchanging $$x$$ and $$y$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y=\\frac{x+3}{x-2}$$",
             "$$f(x)=\\frac{x+3}{x-2}$$",
@@ -59,7 +62,8 @@
         "title": "Solve for $$y$$",
         "text": "Make $$y$$ the subject.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h5",
@@ -70,7 +74,8 @@
         "title": "Solve for $$y$$",
         "text": "Multiply the denominator of the fraction to both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h6",
@@ -81,7 +86,8 @@
         "title": "Solve for $$y$$",
         "text": "Expand out $$x \\left(y-2\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h7",
@@ -92,7 +98,8 @@
         "title": "Solve for $$y$$",
         "text": "Move the $$y$$ terms to the same side of the equation so that we can isolate $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h8",
@@ -103,7 +110,8 @@
         "title": "Solve for $$y$$",
         "text": "Factorize out $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h9",
@@ -119,7 +127,8 @@
         "title": "Solve for $$y$$",
         "text": "Divide the coefficient of $$y$$ from both sides to make $$y$$ the subject. What is $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses10a-h10",
@@ -130,6 +139,7 @@
         "title": "Rename the function $$f^{-1\\left(x\\right)}$$",
         "text": "Replace the $$y$$ with $$f^{-1\\left(x\\right)}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

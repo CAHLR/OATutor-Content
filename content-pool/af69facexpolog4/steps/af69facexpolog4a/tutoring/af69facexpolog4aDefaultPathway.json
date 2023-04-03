@@ -6,7 +6,8 @@
         "title": "Solve for k",
         "text": "Use the continuous growth formula to solve for k",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog4a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute Known Values",
         "text": "Substitute the half life for $$t$$ and and $$0.5A_0$$ for f(t)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog4a-h3",
@@ -25,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(0.5)}{50}$$"
+            "$$\\frac{\\ln\\left(0.5\\right)}{50}$$"
         ],
         "dependencies": [
             "af69facexpolog4a-h2"
@@ -33,7 +35,8 @@
         "title": "Rearrange Equation",
         "text": "Using algebraic methods and natural log rearrange the equation and identify the value of k (keep answer in algebraic form)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog4a-h4",
@@ -44,7 +47,8 @@
         "title": "Solve for $$t$$",
         "text": "Use the continuous growth formula to solve for $$t$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog4a-h5",
@@ -53,9 +57,10 @@
             "af69facexpolog4a-h4"
         ],
         "title": "Substitute Known Values",
-        "text": "Substitute $$1$$ as A, $$200$$ as $$A_0$$, and k as $$\\frac{\\ln(0.5)}{50}$$",
+        "text": "Substitute $$1$$ as A, $$200$$ as $$A_0$$, and k as $$\\frac{\\ln\\left(0.5\\right)}{50}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog4a-h6",
@@ -71,6 +76,7 @@
         "title": "Rearrange Equation",
         "text": "Using algebraic methods and natural log rearrange the equation and identify the value of k (round answer to nearest whole number)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

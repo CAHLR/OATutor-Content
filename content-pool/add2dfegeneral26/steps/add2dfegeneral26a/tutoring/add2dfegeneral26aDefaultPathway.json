@@ -11,7 +11,8 @@
         "title": "Identifying the GCF",
         "text": "Is there a GCF?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -29,7 +30,8 @@
                 "title": "Identifying the GCF",
                 "text": "What is the GCF? Make sure to factor it out.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -48,6 +50,7 @@
         "text": "Is it a binomial, trinomial, or are there more than three terms?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -68,6 +71,7 @@
         "title": "Factor Completely",
         "text": "What is the expression when factored completely? Make sure to multiply and check.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

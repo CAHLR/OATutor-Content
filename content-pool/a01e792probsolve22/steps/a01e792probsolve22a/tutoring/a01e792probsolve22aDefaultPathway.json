@@ -6,7 +6,8 @@
         "title": "Use a Variable",
         "text": "Let the first number be $$x$$. Write the second number in relation to the first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve22a-h2",
@@ -17,7 +18,8 @@
         "title": "The Second Number",
         "text": "The second number can be written as $$x+6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve22a-h3",
@@ -28,7 +30,8 @@
         "title": "Setting up an Equation",
         "text": "The sum of the two numbers can be written as $$x+x+6$$, or $$2x+6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve22a-h4",
@@ -39,7 +42,8 @@
         "title": "The Equation",
         "text": "The equation can be set up as $$2x+6=24$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve22a-h5",
@@ -50,6 +54,7 @@
         "title": "Answer",
         "text": "The two numbers are $$9$$ and $$15$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

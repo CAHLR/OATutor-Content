@@ -6,7 +6,8 @@
         "title": "Setting up the equation",
         "text": "Set up the equation by setting the speed of Dana's walking to $$r$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion15a-h2",
@@ -17,7 +18,8 @@
         "title": "Relating the Numbers",
         "text": "We know that distance $$=$$ $$rate time$$ since we are told two different distances and rates have related time, we can set these two expressions such that $$\\frac{distance1}{rate1}$$ + $$\\frac{distance2}{rate2}$$ $$=$$ $$2.5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion15a-h3",
@@ -33,7 +35,8 @@
         "title": "Setting up the equation",
         "text": "What is the relationship between the two distances and rates?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion15a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving the equation",
         "text": "What is $$r$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa822f8UniMotion15a-h5",
@@ -60,6 +64,7 @@
         "title": "Double-Checking",
         "text": "Double check that the answer makes sense in terms of the context of the question.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

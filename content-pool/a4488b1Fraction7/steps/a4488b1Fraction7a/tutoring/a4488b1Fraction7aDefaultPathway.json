@@ -6,7 +6,8 @@
         "title": "Order of Operation",
         "text": "Calculate the numerator and denominator first",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction7a-h2",
@@ -15,7 +16,8 @@
         "title": "Organizing",
         "text": "The fraction becomes $$\\frac{\\left(-28\\right)}{\\left(-7\\right)}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction7a-h3",
@@ -24,7 +26,8 @@
         "title": "Principle",
         "text": "The minus signs can be canceled out in multiplication or division",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction7a-h4",
@@ -33,6 +36,7 @@
         "title": "Division",
         "text": "Complete the division",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

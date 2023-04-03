@@ -6,7 +6,8 @@
         "title": "Simple Interest Formula",
         "text": "The simple interest formula is $$I=Prt$$, where I is interest, P is principal, $$r$$ is interest rate, and $$t$$ is time.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp6a-h2",
@@ -17,7 +18,8 @@
         "title": "Value for $$t$$",
         "text": "Since we are only concerned about interest, $$t=1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp6a-h3",
@@ -33,7 +35,8 @@
         "title": "Assigning variables",
         "text": "Let $$x=the$$ amount of dollars invested in the 4% account. Given that Remy has $14,000 total, how can we write a mathematical expression for the amount of dollars she should invest in the 7% account?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp6a-h4",
@@ -49,7 +52,8 @@
         "title": "Expressing the interest earned for the 4% account",
         "text": "How much interest will the 4% account earn in $$1$$ year? Write as a mathematical expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp6a-h5",
@@ -65,7 +69,8 @@
         "title": "Expressing the interest earned for the 7% account",
         "text": "How much interest will the 7% account earn in $$1$$ year? Express this as a mathematical expression",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp6a-h6",
@@ -81,6 +86,7 @@
         "title": "Total interest",
         "text": "What is the total interest earned given that Remy wants to earn $$6.1\\%$$ interest on the total amount?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

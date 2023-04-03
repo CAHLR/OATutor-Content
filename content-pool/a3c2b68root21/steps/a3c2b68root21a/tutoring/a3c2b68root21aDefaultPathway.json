@@ -6,7 +6,8 @@
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{8} \\sqrt{8}=\\sqrt{64}$$. So, we have $$4\\times5 \\sqrt{64}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3c2b68root21a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplifying the Product",
         "text": "The product simplifies to $$20\\sqrt{64}$$, which is $$160$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

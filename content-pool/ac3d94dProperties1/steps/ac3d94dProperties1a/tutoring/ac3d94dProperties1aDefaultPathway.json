@@ -6,7 +6,8 @@
         "title": "Associative Property of Multiplication",
         "text": "The associative property of multiplication states that if a, $$b$$, c are real numbers, then $$a b c=a b c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties1a-h2",
@@ -17,7 +18,8 @@
         "title": "Regroup",
         "text": "Using the associative property, we can regroup the terms in the expression into $$3\\times4 x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties1a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplication",
         "text": "What is $$3\\times4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties1a-h4",
@@ -44,6 +47,7 @@
         "title": "Final Answer",
         "text": "So the final answer is $$12x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

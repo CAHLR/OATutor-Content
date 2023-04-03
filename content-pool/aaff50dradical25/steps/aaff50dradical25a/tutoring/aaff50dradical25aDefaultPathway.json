@@ -6,7 +6,8 @@
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$288$$ is $$144$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical25a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{288}=\\sqrt{144\\times2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

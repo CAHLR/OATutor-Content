@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "The distributive property states that if a, $$b$$, c are real numbers, then $$a \\left(b+c\\right)=ab+ac$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties13a-h2",
@@ -17,7 +18,8 @@
         "title": "Applying the Distributive Property",
         "text": "Applying the distributive property, we get the expression $$8\\times4 y+8\\times9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties13a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplying",
         "text": "What is $$8\\times4 y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties13a-h4",
@@ -49,7 +52,8 @@
         "title": "Multiplying",
         "text": "What is $$8\\times9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties13a-h5",
@@ -61,6 +65,7 @@
         "title": "Final Answer",
         "text": "Putting them together, our final answer is $$32y+72$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

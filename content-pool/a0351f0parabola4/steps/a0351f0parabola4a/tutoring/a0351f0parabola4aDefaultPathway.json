@@ -11,7 +11,8 @@
         "title": "Find $$p$$",
         "text": "Find $$p$$ by using the form $$y^2=4px$$. Solve for $$p$$. What is it?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola4a-h1-s1",
@@ -20,7 +21,8 @@
                 "title": "Answer",
                 "text": "The answer is $$6$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -38,7 +40,8 @@
         "title": "Use $$x=-p$$",
         "text": "The equation of the directrix is $$x=-p$$. Use this to find the directrix.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola4a-h2-s1",
@@ -47,7 +50,8 @@
                 "title": "Answer",
                 "text": "The answer is $$x=-6$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -60,6 +64,7 @@
         "title": "Answer",
         "text": "Therefore, the answer is $$x=-6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Plotting Points",
         "text": "Plot the points on a graph using the $$x$$ and $$y$$ values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae0c19cmodels10a-h2",
@@ -22,6 +23,7 @@
         "title": "Plotting Points",
         "text": "Does the data appear to have a linear slope?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

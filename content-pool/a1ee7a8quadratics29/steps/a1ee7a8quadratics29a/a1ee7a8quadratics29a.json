@@ -4,7 +4,7 @@
         "$$x=125$$, $$x=216$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x^{\\frac{2}{3}}-{\\left(11x\\right)}^{\\frac{1}{3}}+30=0$$",
+    "stepTitle": "$$x^{\\frac{2}{3}}-\\left(11x\\right)^{\\frac{1}{3}}+30=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

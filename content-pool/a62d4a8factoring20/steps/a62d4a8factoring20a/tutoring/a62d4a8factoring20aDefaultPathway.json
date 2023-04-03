@@ -11,7 +11,8 @@
         "title": "Greatest common factor",
         "text": "What is the greatest common factor?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring20a-h2",
@@ -22,7 +23,8 @@
         "title": "Factor",
         "text": "Factor out the 10q",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring20a-h3",
@@ -33,7 +35,8 @@
         "title": "Factor pairs of the first term",
         "text": "The factors for $$3q^2$$ are 3q, 1q",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring20a-h4",
@@ -44,7 +47,8 @@
         "title": "Factor pairs for the third term",
         "text": "The factors of $$-8$$ are $$1$$, $$8$$ or $$2$$, $$4$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a62d4a8factoring20a-h5",
@@ -55,6 +59,7 @@
         "title": "Trial and Error",
         "text": "Test all the combinations of the factors until the correct product is found",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

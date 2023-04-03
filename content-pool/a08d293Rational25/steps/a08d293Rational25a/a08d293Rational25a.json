@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Simplify the expression",
-    "stepBody": "$${\\left(x^6\\right)}^{\\frac{4}{3}}$$",
+    "stepBody": "$$\\left(x^6\\right)^{\\frac{4}{3}}$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$x^8$$"

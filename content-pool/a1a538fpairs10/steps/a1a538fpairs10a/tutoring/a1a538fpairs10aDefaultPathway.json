@@ -6,7 +6,8 @@
         "title": "Condensing into One Equation",
         "text": "We can multiply the second equation by $$5$$ and then add to get $$16x=64$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a538fpairs10a-h2",
@@ -17,7 +18,8 @@
         "title": "Solving the Equation",
         "text": "$$16x=64$$ can be simplified to $$x=4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a538fpairs10a-h3",
@@ -28,6 +30,7 @@
         "title": "Substituting for the Other Variable",
         "text": "Plugging $$x=4$$ into the first equation, we get that $$2\\left(4\\right)+y=13$$, which means that $$y=5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

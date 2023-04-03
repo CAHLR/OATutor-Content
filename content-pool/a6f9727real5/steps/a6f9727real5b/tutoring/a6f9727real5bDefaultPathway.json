@@ -6,7 +6,8 @@
         "title": "Parentheses",
         "text": "The first step is to simplify the parentheses.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h2",
@@ -22,7 +23,8 @@
         "title": "Parentheses",
         "text": "What is $$5\\times3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h3",
@@ -38,7 +40,8 @@
         "title": "Parentheses",
         "text": "What is $$6-3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h4",
@@ -55,7 +58,8 @@
         "title": "Parentheses",
         "text": "What is $$4^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h5",
@@ -71,7 +75,8 @@
         "title": "Parentheses",
         "text": "What is $$3-16$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h6",
@@ -82,7 +87,8 @@
         "title": "Multiplication",
         "text": "The next step is to simplify multiplication and division.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h7",
@@ -98,7 +104,8 @@
         "title": "Multiplication",
         "text": "What is $$7\\times15$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h8",
@@ -114,7 +121,8 @@
         "title": "Multiplication",
         "text": "What is $$\\left(-2\\right) \\left(-13\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h9",
@@ -125,7 +133,8 @@
         "title": "Addition",
         "text": "The final step is to simplify addition and subtraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real5b-h10",
@@ -141,6 +150,7 @@
         "title": "Addition",
         "text": "What is $$105+26+1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

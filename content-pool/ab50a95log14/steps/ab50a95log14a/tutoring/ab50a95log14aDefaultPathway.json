@@ -5,17 +5,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\ln(8500)=x$$"
+            "$$\\ln\\left(8500\\right)=x$$"
         ],
         "dependencies": [],
         "title": "Conversion",
         "text": "What is the expression as a logarithmic one?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$\\ln(8500)=x$$",
+            "$$\\ln\\left(8500\\right)=x$$",
             "$$\\log_{x}\\left(8500\\right)=10$$",
-            "$$\\ln(x)=8500$$",
+            "$$\\ln\\left(x\\right)=8500$$",
             "None of the above"
         ]
     },
@@ -28,6 +29,7 @@
         "title": "Calculator",
         "text": "Evaluate the log using a calculator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

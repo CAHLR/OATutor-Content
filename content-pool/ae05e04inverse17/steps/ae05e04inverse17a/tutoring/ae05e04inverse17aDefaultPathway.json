@@ -6,7 +6,8 @@
         "title": "Finding f(g(x))",
         "text": "The first step is to find f(g(x)).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse17a-h2",
@@ -17,7 +18,8 @@
         "title": "Calculating f(g(x))",
         "text": "$$f(g(x))=\\frac{x^3}{27}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse17a-h3",
@@ -34,6 +36,7 @@
         "text": "Does $$f(g(x))=x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -48,6 +51,7 @@
         "title": "Interpreting the Meaning of g(f(x))",
         "text": "If $$f(g(x))=x$$, then $$g(x)=f^{\\left(-1\\right)} x$$ and $$f(x)=g^{\\left(-1\\right)} x$$. If f(g(x)) is not equal to $$x$$, then these statements are false.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

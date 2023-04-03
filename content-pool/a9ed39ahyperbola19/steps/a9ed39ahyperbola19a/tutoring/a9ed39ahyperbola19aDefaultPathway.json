@@ -6,7 +6,8 @@
         "title": "Transverse Axis",
         "text": "The transverse axis is on the x-axis",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola19a-h2",
@@ -17,7 +18,8 @@
         "title": "Asymptotes in Standard Form",
         "text": "Equations of the asymptotes are $$y=\\pm \\left(\\frac{b}{a}\\right) \\left(x-h\\right)+k$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola19a-h3",
@@ -34,6 +36,7 @@
         "text": "What is the equation when plugging in known values?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y=\\pm \\left(\\frac{2}{5}\\right) \\left(x+3\\right)+4$$",
             "$$y=\\pm \\left(\\frac{2}{5}\\right) x+4$$",

@@ -6,7 +6,8 @@
         "title": "Transverse Axis",
         "text": "The transverse axis is on the y-axis",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola16b-h2",
@@ -17,7 +18,8 @@
         "title": "Vertices in Standard Form",
         "text": "Vertice coordinates can be found by identifying variable \"a\" which is located at the denominator under \"y**2\".",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola16b-h3",
@@ -33,6 +35,7 @@
         "title": "Identifying \"a\"",
         "text": "What is \"a\"?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

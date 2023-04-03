@@ -4,7 +4,7 @@
         "$$-220x^3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(x-1\\right)}^{12}$$",
+    "stepTitle": "$$\\left(x-1\\right)^{12}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

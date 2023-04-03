@@ -4,7 +4,7 @@
         "D"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$f(x)=3{\\left(x-2\\right)}^2-7$$",
+    "stepTitle": "$$f(x)=3\\left(x-2\\right)^2-7$$",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

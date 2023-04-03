@@ -6,7 +6,8 @@
         "title": "Setting up an Equation",
         "text": "The first step is to set up an equation for the function, $$y=a-x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse21a-h2",
@@ -17,7 +18,8 @@
         "title": "Solving the Equation in Terms of $$y$$",
         "text": "The next step is to solve the equation in terms of $$x$$. $$y=a-x$$, therefore $$x=a-y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae05e04inverse21a-h3",
@@ -28,6 +30,7 @@
         "title": "Interpreting the Inverse Based on the Equation",
         "text": "After replacing $$y$$ with $$x$$ on the right side of the equation, we can see that $$f^{\\left(-1\\right)} x=a-x=a-y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

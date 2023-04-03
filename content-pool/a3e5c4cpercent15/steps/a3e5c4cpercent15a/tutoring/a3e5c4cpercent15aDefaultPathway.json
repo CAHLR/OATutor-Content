@@ -6,7 +6,8 @@
         "title": "Percent of Fat",
         "text": "Divide the calories of fat by the total number of calories.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent15a-h2",
@@ -17,7 +18,8 @@
         "title": "Answer for Percent of Fat",
         "text": "$$230$$ divided by $$290$$ is $$0.261$$. Change this to percentage.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent15a-h3",
@@ -28,6 +30,7 @@
         "title": "The Answer",
         "text": "Multiply by $$100$$ to change to percentage. The percentage is $$26.1\\%$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

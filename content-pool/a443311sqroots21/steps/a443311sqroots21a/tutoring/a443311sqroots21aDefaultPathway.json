@@ -6,7 +6,8 @@
         "title": "Split",
         "text": "Split the radicals into the product of two square roots, one of which can be simplified to a single number such as $$\\sqrt{4}$$ or $$\\sqrt{16}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots21a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplify",
         "text": "Now, simplify the radicals so that there is a product of a constant and a square root.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots21a-h3",
@@ -28,7 +30,8 @@
         "title": "Remove common factors",
         "text": "Remove the common factors of the numerator and denominator by dividing them out.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots21a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is $$\\frac{4}{3}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

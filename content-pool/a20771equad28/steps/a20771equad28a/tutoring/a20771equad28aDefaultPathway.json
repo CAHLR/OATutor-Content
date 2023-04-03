@@ -6,7 +6,8 @@
         "title": "Factoring",
         "text": "Look for two numbers whose product equals $$-21$$ and whose sum equals $$-4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h2",
@@ -22,7 +23,8 @@
         "title": "Factoring",
         "text": "Look at the possible factors of $$-21$$. Which pair of factors is equal -4?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring",
         "text": "The factors will be $$\\left(x-7\\right) \\left(x+3\\right)=0$$. Solve the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h4",
@@ -44,7 +47,8 @@
         "title": "Zero-Product Property",
         "text": "Use the zero-product property. Set each factor equal to zero and solve.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h5",
@@ -55,7 +59,8 @@
         "title": "Zero-Product Property",
         "text": "Solve $$(x-7)=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h6",
@@ -71,7 +76,8 @@
         "title": "Solving Equations",
         "text": "What is $$x$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h7",
@@ -82,7 +88,8 @@
         "title": "Zero-Product Property",
         "text": "Solve $$x+3=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h8",
@@ -98,7 +105,8 @@
         "title": "Solving Equations",
         "text": "What is $$x$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad28a-h9",
@@ -115,6 +123,7 @@
         "title": "X-Intercepts",
         "text": "What are the solutions?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

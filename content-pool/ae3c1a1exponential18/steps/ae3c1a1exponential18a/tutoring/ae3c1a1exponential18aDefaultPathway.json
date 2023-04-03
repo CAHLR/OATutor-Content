@@ -6,7 +6,8 @@
         "title": "Exponential Growth",
         "text": "A function that models exponential growth grows by a rate proportional to the amount present. For any real number $$x$$ and any positive real numbers a and $$b$$ such that $$b \\neq 1$$, an exponential growth function has the form $$f(x)=a b^x$$\\nwhere a is the initial or starting value of the function and $$b$$ is the growth factor or growth multiplier per unit $$x$$ .",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential18a-h2",
@@ -14,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$23900{1.09}^x$$"
+            "$$23900\\times{1.09}^x$$"
         ],
         "dependencies": [
             "ae3c1a1exponential18a-h1"
@@ -22,7 +23,8 @@
         "title": "Defining the Exponential Model",
         "text": "The function for exponential growth is given by $$f(x)=a b^x$$. What is exponential model, f(x), for this question?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential18a-h3",
@@ -38,7 +40,8 @@
         "title": "Defining the Exponential Model",
         "text": "The function for exponential growth is given by $$f(x)=a b^x$$. What is the initial or starting value of the function, a?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential18a-h4",
@@ -54,7 +57,8 @@
         "title": "Defining the Exponential Model",
         "text": "The function for exponential growth is given by $$f(x)=a b^x$$. What is the growth factor or growth multiplier per unit $$x$$, $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential18a-h5",
@@ -70,7 +74,8 @@
         "title": "Period of Growth",
         "text": "How many years ahead are we trying to predict with our model?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential18a-h6",
@@ -81,6 +86,7 @@
         "title": "Using Substitution",
         "text": "Substitute $$x=8$$ into f(x) to evaluate the fox population in the year $$2020$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

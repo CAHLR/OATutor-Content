@@ -6,7 +6,8 @@
         "title": "Isolation",
         "text": "We can first isolate the absolute value term by using the multiplication property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq25a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What number should we multiply on both sides in order to isolate the absolute value term by itself on the left?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq25a-h3",
@@ -39,6 +41,7 @@
         "text": "What do we get after we multiply $$\\frac{-1}{2}$$ on both sides? Remember to reverse the inequality!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$|k-4| \\leq 3$$",
             "$$|k-4| \\geq 3$$",
@@ -54,7 +57,8 @@
         "title": "Absolute Value Inequality",
         "text": "For an algebraic expression X, and $$k>0$$, an absolute value inequality is an inequality of the form $$|X| \\geq k$$ is equivalent to $$X \\leq -k$$ or $$X \\geq k$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq25a-h5",
@@ -71,6 +75,7 @@
         "text": "How can we apply the above principle to our problem?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$k-4 \\geq 3$$ or $$k-4 \\leq -3$$",
             "$$k-4 \\geq 3$$ or $$k+4 \\leq -3$$",
@@ -86,7 +91,8 @@
         "title": "Simplification",
         "text": "Let's simplify the two inequalities by using the addition property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq25a-h7",
@@ -102,7 +108,8 @@
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable on the left?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq25a-h8",
@@ -119,6 +126,7 @@
         "text": "What do we get after we add $$4$$ on both sides?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$k \\geq 7$$ and $$k \\leq 1$$",
             "$$k \\geq 7$$ or $$k \\leq 1$$",

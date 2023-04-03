@@ -6,7 +6,8 @@
         "title": "Isolate the Radical",
         "text": "Isolate the radical on one side of the equation. We can subtract $$2$$ on both sides get $$\\sqrt{2u-3}=-2$$ which has radicals isolated on one side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a81d715SolRadical13a-h2",
@@ -17,7 +18,8 @@
         "title": "Check for Value of Square Root Function",
         "text": "The square root functions only take positive $$y$$ value. In other word, $$\\sqrt{x}=y$$ is defined when $$y$$ is non negative real number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a81d715SolRadical13a-h3",
@@ -28,6 +30,7 @@
         "title": "Check for Value of Square Root Function",
         "text": "$$\\sqrt{2u-3}=-2$$ does not have solution since $$-2$$ is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

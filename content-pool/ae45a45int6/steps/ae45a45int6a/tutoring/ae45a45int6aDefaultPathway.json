@@ -11,7 +11,8 @@
         "title": "Addition",
         "text": "What is $$-3$$ + 8?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int6a-h2",
@@ -27,7 +28,8 @@
         "title": "Multiplication",
         "text": "What is $$2$$ * 5?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int6a-h3",
@@ -38,6 +40,7 @@
         "title": "Add and Subtract Integers",
         "text": "Now sum the numbers",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

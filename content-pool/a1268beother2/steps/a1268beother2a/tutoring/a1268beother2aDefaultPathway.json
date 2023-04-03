@@ -6,7 +6,8 @@
         "title": "Factoring",
         "text": "Find the greatest common factor between the two terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h2",
@@ -22,7 +23,8 @@
         "title": "Factoring",
         "text": "What is it?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring",
         "text": "Factor out $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h4",
@@ -49,7 +52,8 @@
         "title": "Factoring",
         "text": "What expression is left?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h5",
@@ -60,7 +64,8 @@
         "title": "Zero-Product Property",
         "text": "Use the Zero-Product property to solve for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h6",
@@ -71,7 +76,8 @@
         "title": "Zero-Product Property",
         "text": "Solve for $$y$$ when $$y=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h7",
@@ -87,7 +93,8 @@
         "title": "Zero-Product Property",
         "text": "What is the solution for $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother2a-h8",
@@ -104,6 +111,7 @@
         "text": "Solve for $$y$$ when $$4y^{-9}=0$$. What is $$y$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{2}{3}-\\frac{2}{3}$$",
             "$$\\frac{3}{2}-\\frac{3}{2}$$"
@@ -116,7 +124,8 @@
         "title": "Solving Equations",
         "text": "Add $$9$$ to both sides.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a1268beother2a-h8-s2",
@@ -127,7 +136,8 @@
                 "title": "Solving Equations",
                 "text": "Divide both sides by $$4$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a1268beother2a-h8-s3",
@@ -138,7 +148,8 @@
                 "title": "Solving Equations",
                 "text": "Take the square root of both sides.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a1268beother2a-h8-s4",
@@ -154,7 +165,8 @@
                 "title": "Solving Equations",
                 "text": "What is the square root of $$\\frac{4}{9}$$? (Remember that it can be positive or negative).",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$\\frac{2}{3}-\\frac{2}{3}$$",
                     "$$\\frac{3}{2}-\\frac{3}{2}$$"
@@ -174,7 +186,8 @@
                 "title": "Solving Equations",
                 "text": "Solve for $$y$$. What is $$y$$ equal to?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$\\frac{2}{3}-\\frac{2}{3}$$",
                     "$$\\frac{3}{2}-\\frac{3}{2}$$"
@@ -197,6 +210,7 @@
         "text": "What are the $$3$$ solutions of the equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "0,2/3,-2/3",
             "0,3/2,-3/2"

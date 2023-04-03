@@ -6,7 +6,8 @@
         "title": "The x-intercepts are when $$y$$ $$=$$ $$0$$.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower37a-h2",
@@ -17,7 +18,8 @@
         "title": "The x-intercepts are $$(2,0)$$ and $$(-2,0)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower37a-h3",
@@ -28,7 +30,8 @@
         "title": "The y-intercepts are when $$x$$ $$=$$ $$0$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower37a-h4",
@@ -39,6 +42,7 @@
         "title": "The y-intercept is $$(0,-16)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

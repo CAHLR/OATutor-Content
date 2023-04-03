@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Plug in $$10$$ for $$t$$. You get the equation $$\\frac{10}{2\\left(10\\right)-1}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real9b-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is $$2\\times10$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real9b-h3",
@@ -38,7 +40,8 @@
         "title": "Subtraction",
         "text": "What is $$20-1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real9b-h4",
@@ -54,6 +57,7 @@
         "title": "Substitute",
         "text": "What is $$\\frac{10}{2\\left(10\\right)-1}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

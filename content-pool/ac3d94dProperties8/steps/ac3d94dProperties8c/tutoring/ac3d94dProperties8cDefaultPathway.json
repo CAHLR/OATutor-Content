@@ -6,7 +6,8 @@
         "title": "Multiplicative inverse",
         "text": "For any real number a, $$\\frac{1}{a}$$ is the multiplicative inverse of a. $$a \\frac{1}{a}=1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties8c-h2",
@@ -22,7 +23,8 @@
         "title": "Reciprocal of $$-4$$",
         "text": "What is the reciprocal of -4?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties8c-h3",
@@ -33,6 +35,7 @@
         "title": "Reciprocal of $$-4$$",
         "text": "$$\\frac{1}{\\left(-4\\right)}=\\frac{-1}{4}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

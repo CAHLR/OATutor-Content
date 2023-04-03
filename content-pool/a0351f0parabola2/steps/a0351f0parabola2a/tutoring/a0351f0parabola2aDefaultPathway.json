@@ -6,7 +6,8 @@
         "title": "Find form",
         "text": "The focus has the form (0,p), so the equation will have the form $$x^2=4py$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola2a-h2",
@@ -22,7 +23,8 @@
         "title": "Find $$4p$$",
         "text": "Now, solve for $$4p$$. This can be done by finding $$p$$ and multiplying by $$4$$.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola2a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$14$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -49,7 +52,8 @@
         "title": "Substitute",
         "text": "Finally, plug $$4p$$ into the $$x^2=4py$$ equation. What is the final equation?(do not simplify your answer)",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola2a-h3-s1",
@@ -58,7 +62,8 @@
                 "title": "Answer",
                 "text": "The answer is $$x^2=14y$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -71,6 +76,7 @@
         "title": "Answer",
         "text": "Therefore, the final answer is $$x^2=14y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

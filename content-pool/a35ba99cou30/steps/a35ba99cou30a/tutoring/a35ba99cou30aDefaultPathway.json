@@ -6,7 +6,8 @@
         "title": "Identify the elements",
         "text": "There are $$7$$ letters. R is repeated $$3$$ times.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou30a-h2",
@@ -17,7 +18,8 @@
         "title": "Formula for Finding the Number of Permutations of $$n$$ Non-Distinct Objects",
         "text": "Substitute $$n=7$$, $$r_1=3$$ into the formula: n!/(r!*r_2!...r_k!)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou30a-h3",
@@ -28,6 +30,7 @@
         "title": "Substitute and Simplify",
         "text": "7!/3!=840",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

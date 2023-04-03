@@ -6,7 +6,8 @@
         "title": "Multiply Numbers",
         "text": "First, multiply the numbers as if they were positive.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts2d-h2",
@@ -22,7 +23,8 @@
         "title": "Multiply Numbers",
         "text": "What is $$3\\times13$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts2d-h3",
@@ -33,6 +35,7 @@
         "title": "Final Sign",
         "text": "If the signs of the integers are the same, then the product is positive; otherwise, the product is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

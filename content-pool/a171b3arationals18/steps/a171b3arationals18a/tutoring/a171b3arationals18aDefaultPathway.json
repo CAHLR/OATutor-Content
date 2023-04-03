@@ -6,7 +6,8 @@
         "title": "Set Denominator to $$0$$",
         "text": "Let's focus on the denominator of the expression and set it equal to zero",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals18a-h2",
@@ -17,7 +18,8 @@
         "title": "Solve",
         "text": "Solve for the variable when the denominator is equal to $$0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals18a-h3",
@@ -33,6 +35,7 @@
         "title": "Solve",
         "text": "What is the value of the variable when $$11n=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

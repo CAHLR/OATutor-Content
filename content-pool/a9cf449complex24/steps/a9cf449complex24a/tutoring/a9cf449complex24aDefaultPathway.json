@@ -6,7 +6,8 @@
         "title": "Conjugate Multiplication",
         "text": "Multiply the top and the bottom by the complex conjugate of the denominator:((2+5i)(4+i))/((4-i)(4+i)).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex24a-h2",
@@ -22,7 +23,8 @@
         "title": "Denominator Result",
         "text": "Here we should get $$\\left(a+bi\\right) \\left(a-bi\\right)$$ on the denominator which simplifies to $$a^2+b^2$$. What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex24a-h3",
@@ -38,7 +40,8 @@
         "title": "Numerator result",
         "text": "What does the top simplify to?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a9cf449complex24a-h3-s1",
@@ -47,7 +50,8 @@
                 "title": "Powers of i",
                 "text": "Remember: $$i^2$$ is $$-1$$",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -66,6 +70,7 @@
         "title": "Split",
         "text": "Split the real and imaginary part. What do we get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

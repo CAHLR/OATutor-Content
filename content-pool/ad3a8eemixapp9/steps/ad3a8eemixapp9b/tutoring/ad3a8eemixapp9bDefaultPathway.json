@@ -6,7 +6,8 @@
         "title": "Expressing values as mathematical expressions",
         "text": "The first step is to express the values as mathematical expressions",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp9b-h2",
@@ -22,7 +23,8 @@
         "title": "Assigning variables",
         "text": "Let $$x=the$$ number of quarters. How many dimes are there? Write the mathematical expression in terms of $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp9b-h3",
@@ -38,7 +40,8 @@
         "title": "Total cost of all the dimes",
         "text": "What is the total value of dimes? Write the answer as a mathematical expression",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp9b-h4",
@@ -54,7 +57,8 @@
         "title": "Total cost of all the quarters",
         "text": "What is the total cost of all the quarters? Write the answer as a mathematical expression",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad3a8eemixapp9b-h5",
@@ -70,6 +74,7 @@
         "title": "Total cost",
         "text": "What is the total cost of the nickels and dimes together?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

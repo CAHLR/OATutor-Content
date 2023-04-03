@@ -6,7 +6,8 @@
         "title": "Factor the expression",
         "text": "Factoring is the process to split a product into a group of factors (a multiplication of simpler expressions).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor the expression",
         "text": "Not all terms can be factored. Factor the terms that can be split further.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h3",
@@ -28,7 +30,8 @@
         "title": "Factor the expression",
         "text": "In this case, we can factor all the factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h4",
@@ -44,7 +47,8 @@
         "title": "Factor the expression",
         "text": "What does $$2x^2+x-6$$ factor into?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h5",
@@ -60,7 +64,8 @@
         "title": "Factor the expression",
         "text": "What does $$x^2-1$$ factor into?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h6",
@@ -76,7 +81,8 @@
         "title": "Factor the expression",
         "text": "What does $$x^2-4$$ factor into?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h7",
@@ -84,7 +90,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+1\\right)}^2$$"
+            "$$\\left(x+1\\right)^2$$"
         ],
         "dependencies": [
             "a61c721rational2a-h6"
@@ -92,7 +98,8 @@
         "title": "Factor the expression",
         "text": "What does $$x^2+2x+1$$ factor into?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h8",
@@ -103,7 +110,8 @@
         "title": "Cancel terms",
         "text": "Now that you have factored all possible terms, if you see the same term in the numerator and the denominator of the product, you can cancel it out.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h9",
@@ -114,7 +122,8 @@
         "title": "Cancel terms",
         "text": "In this case, we can cancel out $$x+1$$ and $$x+2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational2a-h10",
@@ -130,6 +139,7 @@
         "title": "Final Answer",
         "text": "After canceling out terms, your final answer will remain in product form. What is the answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

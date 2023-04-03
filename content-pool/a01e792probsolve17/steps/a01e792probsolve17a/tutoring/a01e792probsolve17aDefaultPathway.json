@@ -6,7 +6,8 @@
         "title": "Use a Variable",
         "text": "Let the number be $$x$$. Set up an equation and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve17a-h2",
@@ -17,7 +18,8 @@
         "title": "Setting up an Equation",
         "text": "The difference of a number and $$11$$ can be represented as $$x-11$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve17a-h3",
@@ -28,7 +30,8 @@
         "title": "The Equation",
         "text": "The equation can be set up as $$x-11=-7$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve17a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is that $$x=4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

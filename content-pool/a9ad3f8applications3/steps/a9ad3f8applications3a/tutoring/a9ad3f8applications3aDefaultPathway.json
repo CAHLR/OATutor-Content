@@ -6,7 +6,8 @@
         "title": "Identify",
         "text": "We are looking for the amount of each loan.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications3a-h2",
@@ -17,7 +18,8 @@
         "title": "First equation",
         "text": "Since Marlene recieved $42,000 in total we can write the first equation as $$a+b=42, 000$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications3a-h3",
@@ -28,7 +30,8 @@
         "title": "Second equation",
         "text": "Since in the first year she received a loan, it was $6,000 less than three times the amount of the second year\u2019s loan, we can write the second equation as $$a=3b-6000$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications3a-h4",
@@ -44,7 +47,8 @@
         "title": "Solve",
         "text": "Next, using the system of equations just created, solve for a. What does it equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications3a-h5",
@@ -60,7 +64,8 @@
         "title": "Solve",
         "text": "What does $$b$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications3a-h6",
@@ -71,6 +76,7 @@
         "title": "Answer",
         "text": "Marlene recieved $30,000 for the first year loan and $12,000 for the second years loan.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Multiplication",
         "text": "Remember that fg is the same as (fg)(x). All we have to do is use foil to multiply the two functions.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition17c-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is $$5\\left(-3x^2+x\\right)$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a7b98f9composition17c-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Combining Like Terms",
                 "text": "$$5\\left(-3x^2+x\\right)$$ is the same as 5(-3x**2+x). After distributing the $$5$$, we are left with $$-15x^2+5x$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

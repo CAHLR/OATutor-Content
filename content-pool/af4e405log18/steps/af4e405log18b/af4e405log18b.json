@@ -4,7 +4,7 @@
         "$$2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\ln(e^{2x})=4$$",
+    "stepTitle": "$$\\ln\\left(e^{2x}\\right)=4$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -6,7 +6,8 @@
         "title": "Organizing",
         "text": "Modify the equation into the form $$z=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear23a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributive Property I",
         "text": "Use the distributive property to multiply $$3(5z-9)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear23a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplication",
         "text": "What is $$3(5z-9)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear23a-h4",
@@ -44,7 +47,8 @@
         "title": "Simplify",
         "text": "Once you get the equation $$23z+19=15z-27+8z+46$$, simplify each side as much as possible",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear23a-h5",
@@ -60,7 +64,8 @@
         "title": "Simplify",
         "text": "Simplify $$15z-27+8z+46$$ as much as possible",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear23a-h6",
@@ -71,6 +76,7 @@
         "title": "Classifying the Equation",
         "text": "Determine if the equation contradicts itself, or only valid under certain condition",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

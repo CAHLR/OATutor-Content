@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Our first step is to substitute $$-9$$ for $$y$$ into the expression, and we get the expression $$-9+8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply7a-h2",
@@ -22,6 +23,7 @@
         "title": "Evaluate",
         "text": "What is $$-9+8$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

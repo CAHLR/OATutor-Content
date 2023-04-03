@@ -12,6 +12,7 @@
         "text": "Are the signs of the two terms different?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -26,7 +27,8 @@
         "title": "First Step to Find the Value of the Expression",
         "text": "Since $$2$$ and $$-5$$ have different signs, we subtract $$2$$ from $$5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add13b-h3",
@@ -37,7 +39,8 @@
         "title": "Sign of the Answer",
         "text": "The answer will be negative because there are more negatives than positives.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add13b-h4",
@@ -53,6 +56,7 @@
         "title": "Final Answer",
         "text": "What is $$-(5-2)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

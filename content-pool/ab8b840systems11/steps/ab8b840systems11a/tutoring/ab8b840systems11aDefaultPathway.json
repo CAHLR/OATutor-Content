@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "First, substitute the given point into the equation. If the equality that results is true, then the point is a solution to the system.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems11a-h2",
@@ -22,7 +23,8 @@
         "title": "Substitute",
         "text": "When the point is substituted into the equation $$x+8y=43$$, do both sides equal each other?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -40,7 +42,8 @@
                 "title": "Substitute",
                 "text": "When the point is substituted into the equation $$3x-2y=-1$$, do both sides equal each other?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "Yes",
                     "No"
@@ -57,6 +60,7 @@
         "title": "Interpret",
         "text": "Therefore, since the equation is equal on both sides for both equations, the point satisfies the system.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

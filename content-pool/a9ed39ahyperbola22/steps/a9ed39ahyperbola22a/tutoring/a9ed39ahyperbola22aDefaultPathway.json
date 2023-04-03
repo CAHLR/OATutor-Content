@@ -6,7 +6,8 @@
         "title": "Finding \"a\"",
         "text": "The vertices are $$(3,0)$$ and $$(-3,0)$$, so $$a=3$$ and $$a^2=9$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola22a-h2",
@@ -17,7 +18,8 @@
         "title": "Finding \"c\"",
         "text": "The foci is $$(5,0)$$, so $$c=5$$ and $$c^2=25$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola22a-h3",
@@ -28,7 +30,8 @@
         "title": "Finding \"b\"",
         "text": "To solve for $$b^2$$ use $$b^2=c^2-a^2$$ and plug in known values $$b^2=25-9=16$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola22a-h4",
@@ -44,6 +47,7 @@
         "title": "Substitute All Values",
         "text": "Substitute $$a^2$$ and $$b^2$$ into the standard equation form, $$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

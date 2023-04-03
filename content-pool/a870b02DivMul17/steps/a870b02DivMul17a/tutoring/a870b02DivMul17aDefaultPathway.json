@@ -6,7 +6,8 @@
         "title": "Simplification",
         "text": "With these more complicated equations the first step is to simplify both sides of the equation as much as possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul17a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplification",
         "text": "Simplify both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul17a-h3",
@@ -33,7 +35,8 @@
         "title": "Isolation",
         "text": "Using multiplication property, division property etc. to isolate the variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul17a-h4",
@@ -49,7 +52,8 @@
         "title": "Division",
         "text": "What do we get for $$y$$ after dividing both sides by 3?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul17a-h5",
@@ -60,7 +64,8 @@
         "title": "Verification",
         "text": "Check whether the result is a solution of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a870b02DivMul17a-h6",
@@ -77,6 +82,7 @@
         "text": "Check whether $$14-23$$ equals $$12\\times3-4\\times3-5\\times3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

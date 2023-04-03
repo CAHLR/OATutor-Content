@@ -4,9 +4,10 @@
         "type": "hint",
         "dependencies": [],
         "title": "Convert to Exponential Form",
-        "text": "We know that we're trying to solve $$\\ln(e^{4x})=4$$. Rewrite this expression first into exponential form.",
+        "text": "We know that we're trying to solve $$\\ln\\left(e^{4x}\\right)=4$$. Rewrite this expression first into exponential form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log20b-h2",
@@ -20,9 +21,10 @@
             "af4e405log20b-h1"
         ],
         "title": "Determing the Exponential Form",
-        "text": "What is the exponential form of $$\\ln(e^{4x})=4$$? Remember that the base for ln functions is e.",
+        "text": "What is the exponential form of $$\\ln\\left(e^{4x}\\right)=4$$? Remember that the base for ln functions is e.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$e^4=e^{4x}$$",
             "$$4x^e=4^e$$",
@@ -44,6 +46,7 @@
         "title": "Solve for $$x$$",
         "text": "Since the bases are the same, we can solve $$e^4=e^{4x}$$ as $$4=4x$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

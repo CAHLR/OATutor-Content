@@ -6,7 +6,8 @@
         "title": "Rows",
         "text": "Rows represent a single equation. There are $$3$$ rows, so you know there are $$3$$ equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acf3da9gaussian4a-h2",
@@ -17,7 +18,8 @@
         "title": "Coefficients",
         "text": "The numbers in the matrix represent coefficients of variables.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acf3da9gaussian4a-h3",
@@ -28,6 +30,7 @@
         "title": "Answer",
         "text": "The answer is $$x-y+z=5$$ $$2x-y+3z=1$$ $$y+z=-9$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

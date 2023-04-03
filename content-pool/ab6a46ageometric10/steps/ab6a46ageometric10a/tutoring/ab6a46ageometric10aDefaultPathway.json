@@ -6,7 +6,8 @@
         "title": "Divide",
         "text": "First, divide the second term by the first term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric10a-h2",
@@ -17,6 +18,7 @@
         "title": "Answer",
         "text": "When you divide the second term by the first, $$r$$ becomes $$3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

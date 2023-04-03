@@ -6,7 +6,8 @@
         "title": "Clear the fractions",
         "text": "The first step is to clear the fractions by multiplying the entire equation by the lowest common denominator: L",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat13a-h2",
@@ -17,7 +18,8 @@
         "title": "Isolate L",
         "text": "Isolate L by dividing the equation by W",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat13a-h3",
@@ -33,6 +35,7 @@
         "title": "Isolate L",
         "text": "What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Break Into Smaller Questions",
         "text": "We can divide up this question by first determining the greatest common factor of the constant (numerical) terms and then looking at the greatest common factor of the variable terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf14a-h2",
@@ -22,7 +23,8 @@
         "title": "GCF for Constants",
         "text": "What is the greatest common factor between $$35$$, $$10$$, and 5?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf14a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "Prime Factorization of $$12$$",
                 "text": "What is the prime factorization of 35?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$5\\times7$$",
                     "$$2\\times5$$",
@@ -56,7 +59,8 @@
                 "title": "Prime Factorization of $$30$$",
                 "text": "What is the prime factorization of 10?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$5\\times7$$",
                     "$$2\\times5$$",
@@ -76,7 +80,8 @@
                 "title": "Common Factor",
                 "text": "What is the common factor between $$5\\times7$$, $$2\\times5$$, and 5?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -89,7 +94,8 @@
         "title": "GCF for Variables",
         "text": "Knowing the greatest common numerical factor, we can multiply that with the greatest common variable factor. Let's determine the greatest common numerical factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf14a-h4",
@@ -105,7 +111,8 @@
         "title": "GCF for Variables",
         "text": "What is the greatest common factor between $$x^3 y^2$$, $$x^4 y$$, $$x^5 y^3$$ in exponential form with bases $$x$$ and $$y$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf14a-h4-s4",
@@ -119,7 +126,8 @@
                 "title": "Expand $$x^3 y^2$$",
                 "text": "How can we rewrite (\"factorize\") $$x^3 y^2$$ with no exponents?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$x x x y y$$",
                     "$$x x x x y$$",
@@ -139,7 +147,8 @@
                 "title": "Expand $$x^4 y$$",
                 "text": "How can we rewrite (\"factorize\") $$x^4 y$$ with no exponents?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$x x x y y$$",
                     "$$x x x x y$$",
@@ -159,7 +168,8 @@
                 "title": "Expand $$x^5 y^3$$",
                 "text": "How can we rewrite (\"factorize\") $$x^5 y^3$$ with no exponents?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$x x x y y$$",
                     "$$x x x x y$$",
@@ -183,7 +193,8 @@
         "title": "Common Factor",
         "text": "What is the common factor between $$x x x y y$$, $$x x x x y$$, $$x x x x x y y y$$ using no exponents?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf14a-h6",
@@ -199,7 +210,8 @@
         "title": "Exponentiate",
         "text": "Rewrite the expression $$x x x y$$ as exponents with base $$x$$ and $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf14a-h7",
@@ -215,6 +227,7 @@
         "title": "Final Answer",
         "text": "We can multiply the constant GCF and the variable GCF to get the final answer. What is the product?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

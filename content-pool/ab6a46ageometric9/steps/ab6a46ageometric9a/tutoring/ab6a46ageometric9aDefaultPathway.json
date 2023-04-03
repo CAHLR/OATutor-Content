@@ -6,7 +6,8 @@
         "title": "Find $$r$$",
         "text": "First, find the common ratio. Divide the second term by the first.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric9a-h2",
@@ -22,7 +23,8 @@
         "title": "Find $$r$$",
         "text": "What does $$r$$ equal?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "ab6a46ageometric9a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$-3$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -49,7 +52,8 @@
         "title": "$$a_1$$",
         "text": "What is $$a_1$$? It is the first term of the sequence.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric9a-h4",
@@ -60,7 +64,8 @@
         "title": "Plug in",
         "text": "Plug in $$a_1$$ and $$r$$ into the explicit formula.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric9a-h5",
@@ -69,8 +74,9 @@
             "ab6a46ageometric9a-h4"
         ],
         "title": "Answer",
-        "text": "Therefore, the answer is $$a_n=-1-\\left(3^{n-1}\\right)$$.",
+        "text": "Therefore, the answer is $$a_n=-1\\times-3^{n-1}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

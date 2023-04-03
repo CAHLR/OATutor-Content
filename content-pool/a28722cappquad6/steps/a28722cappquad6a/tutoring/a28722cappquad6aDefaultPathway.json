@@ -6,7 +6,8 @@
         "title": "Writing the Problem Algebraically",
         "text": "Use the formula for the area of a rectangle to rewrite the problem: $$200$$ $$=$$ $$L W$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewrite the Problem in Terms of One Unknown",
         "text": "Currently, there are two unknowns in the area formula: L and W. Since we know how L relates to W, we can find an equation for L in terms of W.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h3",
@@ -33,7 +35,8 @@
         "title": "Rewrite the Problem in Terms of One Unknown",
         "text": "What is L in terms of W?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h4",
@@ -44,7 +47,8 @@
         "title": "Simplify",
         "text": "Now that you have L in terms of W, you can rewrite the original area equation, $$200$$ $$=$$ $$L W$$ in terms of W",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h5",
@@ -60,7 +64,8 @@
         "title": "Simplify",
         "text": "What is W*(2*W - 4)?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h6",
@@ -71,7 +76,8 @@
         "title": "Quadratic Formula",
         "text": "We can rewrite this equation in the format $$a W^2$$ + $$b W$$ + c $$=$$ $$0$$ to use the quadratic formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h7",
@@ -87,7 +93,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of a if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h8",
@@ -103,7 +110,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of $$b$$ if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h9",
@@ -119,7 +127,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of c if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h10",
@@ -130,7 +139,8 @@
         "title": "Quadratic Formula",
         "text": "If you have an equation in the form $$a W^2$$ + $$b W$$ + c $$=$$ $$0$$, W $$=$$ (-b~sqrt(b**2 -4ac))/(2a)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h11",
@@ -146,7 +156,8 @@
         "title": "Quadratic Formula",
         "text": "What POSITIVE value does the quadratic formula yield, rounded to $$2$$ decimal places?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h12",
@@ -157,7 +168,8 @@
         "title": "Solving for L",
         "text": "Now that you have a value for W, you can plug in into the equation for L in terms of W to get L",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad6a-h13",
@@ -173,6 +185,7 @@
         "title": "Solving for L",
         "text": "What is L?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Multiplication",
         "text": "Multiplying Each Root",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3c2b68root16a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplify",
         "text": "Simplifying the Product",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

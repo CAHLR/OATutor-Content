@@ -6,7 +6,8 @@
         "title": "Definition of an Even Function",
         "text": "A function is called an even function if for every input $$x$$, $$h(x)=h(-x)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation5a-h2",
@@ -17,7 +18,8 @@
         "title": "Definition of an Odd Function",
         "text": "A function is called an odd function if for every input $$x$$, $$h(x)=-h(-x)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation5a-h3",
@@ -28,7 +30,8 @@
         "title": "How to Find $$h(-x)$$",
         "text": "Find $$h(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation5a-h4",
@@ -45,6 +48,7 @@
         "text": "What is $$h(-x)$$ equal to?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{-1}{x}-3x$$",
             "$$\\frac{1}{x}+3x$$",
@@ -61,7 +65,8 @@
         "title": "How to Find $$-h(-x)$$",
         "text": "Find $$-h(-x)$$ by multiplying each term of $$g(-x)$$ by $$-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7dc5fftransformation5a-h6",
@@ -78,6 +83,7 @@
         "text": "What is $$-h(-x)$$ equal to?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{-1}{x}-3x$$",
             "$$\\frac{1}{x}+3x$$",
@@ -100,6 +106,7 @@
         "text": "Does $$h(x)=h(-x)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -120,6 +127,7 @@
         "text": "Does $$h(x)=-h(-x)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

@@ -6,7 +6,8 @@
         "title": "Using Substitution",
         "text": "Substitue $$x=3$$ into the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential4a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplifying the Equation",
         "text": "Using your knowledge of the order of operations, simplify the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential4a-h3",
@@ -33,7 +35,8 @@
         "title": "Subtracting Within the Exponent",
         "text": "What is $$3-5$$ in the exponent?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential4a-h4",
@@ -49,7 +52,8 @@
         "title": "Using Exponents",
         "text": "$${1.2}^{\\left(-2\\right)}$$ (Round to four decimal places but keep original number for calculations.)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae3c1a1exponential4a-h5",
@@ -65,6 +69,7 @@
         "title": "Using Multiplication",
         "text": "$$8\\times0.6944$$ (Use original decimal instead of rounded four decimal places in calculation.)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

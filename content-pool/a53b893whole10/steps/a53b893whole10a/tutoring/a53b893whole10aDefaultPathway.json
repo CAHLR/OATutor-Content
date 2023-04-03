@@ -6,7 +6,8 @@
         "title": "Finding Two Factors Whose Product is the Given Number",
         "text": "The first step is to find two factors whose product is the given number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole10a-h2",
@@ -23,6 +24,7 @@
         "text": "Are $$24$$ and $$2$$ factors of $$48$$ that multiply together to make 48?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -37,7 +39,8 @@
         "title": "Prime Number Factors",
         "text": "If a factor is prime, that means it can't be divided further. Thus, it is a prime factor of the number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole10a-h4",
@@ -54,6 +57,7 @@
         "text": "Is $$2$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -74,6 +78,7 @@
         "text": "Is $$24$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -89,7 +94,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "The next step is to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole10a-h7",
@@ -106,6 +112,7 @@
         "text": "Are $$4$$ and $$6$$ factors of $$24$$ that multiply together to make 24?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -120,7 +127,8 @@
         "title": "Proceeding With a Factor that is Not Prime",
         "text": "Continue to divide factors that are not prime into two more factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole10a-h9",
@@ -137,6 +145,7 @@
         "text": "Are $$2$$ and $$2$$ factors of $$4$$ that multiply together to make 4?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -157,6 +166,7 @@
         "text": "Are $$2$$ and $$3$$ factors of $$6$$ that multiply together to make 6?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -177,6 +187,7 @@
         "text": "Are both $$2$$ and $$3$$ prime?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -191,7 +202,8 @@
         "title": "Final Step",
         "text": "The final step is to write the composite number as the product of all the prime factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole10a-h13",
@@ -202,6 +214,7 @@
         "title": "Answer",
         "text": "The found prime factors of $$48$$ were $$2$$, $$2$$, $$2$$, $$2$$, and $$3$$. Thus $$2\\times2\\times2\\times2\\times3=48$$, and $$2\\times2\\times2\\times2\\times3$$ is the prime factorization of $$48$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

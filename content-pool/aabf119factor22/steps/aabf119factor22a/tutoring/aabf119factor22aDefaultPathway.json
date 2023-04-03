@@ -6,7 +6,8 @@
         "title": "Difference of Squares Definition",
         "text": "A difference of squares is an expression with the form $$n^2 x^2-b^2$$, where $$n$$ and $$b$$ are positive integers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor22a-h2",
@@ -17,7 +18,8 @@
         "title": "Integer Definition",
         "text": "Integers are positive and negative whole numbers. For example, $$4$$, $$20$$, and $$-36$$ are integers, while $$2.31$$ is not.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor22a-h3",
@@ -33,7 +35,8 @@
         "title": "Square Root of $$16$$",
         "text": "What is the square root of 16?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor22a-h4",
@@ -49,7 +52,8 @@
         "title": "Square Root of $$100$$",
         "text": "What is the square root of 100?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor22a-h5",
@@ -67,6 +71,7 @@
         "text": "Is the expression a difference of squares?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -81,6 +86,7 @@
         "title": "Factoring a Difference of Squares",
         "text": "A difference of squares $$n^2 x^2-b^2$$ can be factored as $$\\left(nx+b\\right) \\left(nx-b\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

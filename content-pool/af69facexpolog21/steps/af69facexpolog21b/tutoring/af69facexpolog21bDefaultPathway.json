@@ -6,7 +6,8 @@
         "title": "Solving for $$t$$",
         "text": "We can rearrange the equation that we obtained such that $$t$$ is the subject.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog21b-h2",
@@ -17,7 +18,8 @@
         "title": "Solving for $$t$$",
         "text": "Divide by $$A_0$$ on both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog21b-h3",
@@ -28,7 +30,8 @@
         "title": "Solving for $$t$$",
         "text": "Take the natural log of both sides.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog21b-h4",
@@ -36,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{y}{A_0})}{k}$$"
+            "$$\\frac{\\ln\\left(\\frac{y}{A_0}\\right)}{k}$$"
         ],
         "dependencies": [
             "af69facexpolog21b-h3"
@@ -44,7 +47,8 @@
         "title": "Solving for $$t$$",
         "text": "Divide by the rate of decay, k. We now obtain an expression for time, $$t$$. What is $$t$$? Express in terms of $$y$$, $$A_0$$ and k.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog21b-h5",
@@ -55,7 +59,8 @@
         "title": "Half-life",
         "text": "Observe that the expression, $$\\frac{y}{A_0}$$ within the natural log expression is the proportion of the object's mass left. At half-life, this would be 50% or $$0.5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af69facexpolog21b-h6",
@@ -71,6 +76,7 @@
         "title": "Substitution",
         "text": "We can substitute $$\\frac{y}{A_0}=0.5$$ and k that was previously found to solve for $$t$$. What is $$t$$? Round to the nearest minute.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

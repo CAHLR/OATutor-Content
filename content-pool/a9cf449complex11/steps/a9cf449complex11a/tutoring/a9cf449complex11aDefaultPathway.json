@@ -6,7 +6,8 @@
         "title": "Distributing the Negative Sign",
         "text": "Because the second part of the expression is being subtracted, we can distribute the negative sign into that part. $$-\\left(-6+9i\\right)=6-9i$$. The expression is now $$\\left(-4+4i\\right)+6-9i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex11a-h2",
@@ -17,7 +18,8 @@
         "title": "Associative Property",
         "text": "The next step is to group the like terms. We can use the Associative Property to rewrite this expression as $$\\left(-4+6\\right)+4i-9i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex11a-h3",
@@ -28,7 +30,8 @@
         "title": "Combining Like Terms",
         "text": "Now, we can add numbers in the parentheses to combine like terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex11a-h4",
@@ -44,7 +47,8 @@
         "title": "Combining Like Terms",
         "text": "What is $$-4+6$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex11a-h5",
@@ -60,7 +64,8 @@
         "title": "Combining Like Terms",
         "text": "What is 4i-9i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex11a-h6",
@@ -72,6 +77,7 @@
         "title": "Standard Form",
         "text": "Finally, we can write the expression in $$a+bi$$ form: $$2-5i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

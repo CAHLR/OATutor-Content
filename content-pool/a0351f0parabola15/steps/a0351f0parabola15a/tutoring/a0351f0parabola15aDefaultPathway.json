@@ -6,7 +6,8 @@
         "title": "Plug in points",
         "text": "You can determine the answer to this by plugging in points. Create an equation and plug in points to see where the graph is going.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola15a-h2",
@@ -17,7 +18,8 @@
         "title": "Create an equation",
         "text": "The equation can be $$y=-4\\left(1\\right) x^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola15a-h3",
@@ -28,7 +30,8 @@
         "title": "Substitute",
         "text": "Substitute $$x=0$$, $$-1$$, and $$1$$ into the equation. Where does the graph go? Is it opening down or up?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola15a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The equation opens down.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Solve the first equation for $$y$$",
         "text": "$$3x-2y=6$$\\n$$-2y=-3x+6$$\\n$$\\frac{\\left(-2y\\right)}{-2}=\\frac{\\left(-3x+6\\right)}{-2}$$\\n$$y=\\frac{3}{2} x-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h2",
@@ -17,7 +18,8 @@
         "title": "Slope-Intercept Form",
         "text": "Both equations are now in slope-intercept form: $$y=\\frac{3}{2} x-3$$, $$y=\\frac{3}{2} x+1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h3",
@@ -28,7 +30,8 @@
         "title": "Slope and y-intercept",
         "text": "Identify the slope and y-intercept of both lines.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h4",
@@ -39,7 +42,8 @@
         "title": "Slope-Intercept Form of an Equation of the First Line",
         "text": "Compare the first equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=\\frac{3}{2} x-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h5",
@@ -55,7 +59,8 @@
         "title": "Identify the Slope of First Line",
         "text": "What is $$m$$ in the first equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h6",
@@ -72,6 +77,7 @@
         "text": "What is the y-intercept in the first equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,-3)$$",
             "$$(0,3)$$",
@@ -88,7 +94,8 @@
         "title": "Slope and y-intercept of First Line",
         "text": "The slope of the first equation is $$\\frac{3}{2}$$ and the y-intercept is $$(0,-3)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h8",
@@ -99,7 +106,8 @@
         "title": "Slope-Intercept Form of an Equation of Second Line",
         "text": "Compare the second equation to the slope-intercept form of the equation.\\n$$y=m x+b$$\\n$$y=\\frac{3}{2} x+1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h9",
@@ -115,7 +123,8 @@
         "title": "Identify the Slope of Second Line",
         "text": "What is $$m$$ in the second equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h10",
@@ -132,6 +141,7 @@
         "text": "What is the y-intercept in the second equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(0,-1)$$",
             "$$(0,1)$$",
@@ -148,7 +158,8 @@
         "title": "Slope and y-intercept of Second Line",
         "text": "The slope of the second equation is $$\\frac{3}{2}$$ and the y-intercept is $$(0,1)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28448cslope14a-h12",
@@ -160,6 +171,7 @@
         "title": "Parallel Lines",
         "text": "The lines have the same slope and different y-intercepts and so they are parallel.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

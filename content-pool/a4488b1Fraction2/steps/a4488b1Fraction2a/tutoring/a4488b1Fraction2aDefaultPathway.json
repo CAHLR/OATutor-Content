@@ -6,7 +6,8 @@
         "title": "Factor",
         "text": "Factor $$(-9a)$$ to -3x3xa",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction2a-h2",
@@ -15,7 +16,8 @@
         "title": "Principle",
         "text": "Find the common factor of numerator and denominator",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction2a-h3",
@@ -31,7 +33,8 @@
         "title": "Organizing",
         "text": "What is the common factor?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4488b1Fraction2a-h4",
@@ -42,6 +45,7 @@
         "title": "Division",
         "text": "Dividing both sides by the common factor",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We substitute $$x=3$$ and $$y=0$$ into both inequalities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra4b-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute into First Equation",
         "text": "$$y>\\frac{2}{3} x-5$$\\n$$0>3\\frac{2}{3}-5$$\\n$$0>-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra4b-h3",
@@ -34,6 +36,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,7 +51,8 @@
         "title": "Substitute into Second Equation",
         "text": "$$x+\\frac{1}{2} y \\leq 4$$\\n$$3+0\\frac{1}{2} \\leq 4$$\\n$$3 \\leq 4$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra4b-h5",
@@ -65,6 +69,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -79,6 +84,7 @@
         "title": "Solutions of a System of Equations",
         "text": "$$(3,0)$$ makes both inequalities true. $$(3,0)$$ is a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

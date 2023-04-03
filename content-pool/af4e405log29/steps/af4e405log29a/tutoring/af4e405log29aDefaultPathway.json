@@ -6,7 +6,8 @@
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to solve $$\\log_{2}\\left(6x+2\\right)=5$$. Rewrite this expression first into exponential form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log29a-h2",
@@ -23,11 +24,12 @@
         "text": "What is the exponential form of $$\\log_{2}\\left(6x+2\\right)=5$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2^5=6x+2$$",
             "$$5^2=6x+2$$",
-            "$${\\left(6x+2\\right)}^2=5$$",
-            "$${\\left(6x+2\\right)}^5=2$$"
+            "$$\\left(6x+2\\right)^2=5$$",
+            "$$\\left(6x+2\\right)^5=2$$"
         ]
     },
     {
@@ -44,7 +46,8 @@
         "title": "Simplify the Expression",
         "text": "Simplify the expression so all the terms with $$x$$ are on one side and all the constant $$(non-x)$$ terms are on the other.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$6x=30$$",
             "$$5x=30$$",
@@ -64,7 +67,8 @@
                 "title": "Determine $$2^6$$",
                 "text": "What is $$2^5$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "af4e405log29a-h3-s2",
@@ -78,7 +82,8 @@
                 "title": "Determine $$64+1$$",
                 "text": "What is $$32-2$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -96,6 +101,7 @@
         "title": "Solve for $$x$$",
         "text": "What is the value of $$x$$ in $$6x=30$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

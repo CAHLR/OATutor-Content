@@ -6,7 +6,8 @@
         "title": "average rate of change",
         "text": "To find the average rate of change, we calculate the change in $$y$$, the change in $$x$$, and the average rate of change is the ratio (change in y)/(change in x).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates2a-h2",
@@ -17,7 +18,8 @@
         "title": "Computing endpoints",
         "text": "We can start by computing the function values at each endpoint of the interval.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates2a-h3",
@@ -33,7 +35,8 @@
         "title": "Computing left endpoint",
         "text": "What is f(2)?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aa97d5brates2a-h3-s1",
@@ -47,7 +50,8 @@
                 "title": "Computing left endpoint",
                 "text": "To find f(2), we plug in $$2$$ for every $$x$$ in the equation. What is $$2^2-\\frac{1}{2}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -65,7 +69,8 @@
         "title": "Computing right endpoint",
         "text": "What is f(4)?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aa97d5brates2a-h4-s1",
@@ -79,7 +84,8 @@
                 "title": "Computing right endpoint",
                 "text": "To find f(4), we plug in $$4$$ for every $$x$$ in the equation. What is $$4^2-\\frac{1}{4}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -93,7 +99,8 @@
         "title": "Average rate of change",
         "text": "The average rate of change $$=\\frac{f{\\left(4\\right)}-f{\\left(2\\right)}}{4-2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa97d5brates2a-h6",
@@ -109,6 +116,7 @@
         "title": "Computing average rate of change",
         "text": "What is the average rate of change, plugging in $$f(2)=\\frac{7}{2}$$ and $$f(4)=\\frac{63}{4}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

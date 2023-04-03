@@ -6,7 +6,8 @@
         "title": "Quadratics",
         "text": "Solve for $$d^2$$ by subtracting $$81$$ from both sides of the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afa0cfequadraticeq8a-h2",
@@ -17,6 +18,7 @@
         "title": "Square Root Property",
         "text": "Notice that solving for $$d$$ would result in a square root of a negative number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "$$2.09$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$y=\\ln(123)$$",
+    "stepTitle": "$$y=\\ln\\left(123\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

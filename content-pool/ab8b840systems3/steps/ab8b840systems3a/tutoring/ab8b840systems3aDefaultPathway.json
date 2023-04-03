@@ -6,7 +6,8 @@
         "title": "Isolating Variables",
         "text": "Solve the first equation for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h2",
@@ -22,7 +23,8 @@
         "title": "Isolating Variables",
         "text": "What does $$y$$ equal? Write $$y$$ in terms of $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h3",
@@ -33,7 +35,8 @@
         "title": "Substitution",
         "text": "Substitute the expression $$x-5$$ for $$y$$ in the second equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h4",
@@ -49,7 +52,8 @@
         "title": "Isolating Variables",
         "text": "What does $$x$$ equal in $$2x-5(x-5)=1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h5",
@@ -60,7 +64,8 @@
         "title": "Substitution",
         "text": "Substitute $$x=8$$ into the first equation and solve for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h6",
@@ -76,7 +81,8 @@
         "title": "Substitution",
         "text": "What does $$y$$ equal in $$-8+y=-5$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h7",
@@ -87,7 +93,8 @@
         "title": "Checking the Solution",
         "text": "Check the solution by substituting $$(8,3)$$ into both equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems3a-h8",
@@ -104,6 +111,7 @@
         "text": "Does $$-8+3=-5$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"
@@ -124,6 +132,7 @@
         "text": "Does $$2(8)-5(3)=1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

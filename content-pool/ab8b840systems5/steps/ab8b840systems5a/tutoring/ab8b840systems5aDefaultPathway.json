@@ -6,7 +6,8 @@
         "title": "Addition Method",
         "text": "Adding these equations as presented will not eliminate a variable. However, we see that the first equation has $$3x$$ in it and the second equation has $$x$$. So, multiply the second equation by $$-3$$, the $$x-terms$$ will add to zero.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplying Equations",
         "text": "After you multiply the first equation by $$-3$$, what is the new equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h3",
@@ -33,7 +35,8 @@
         "title": "Addition Method",
         "text": "Now add the first and second equations.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h4",
@@ -49,7 +52,8 @@
         "title": "Addition Method",
         "text": "What is the resulting equation when you add the first and second equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h5",
@@ -65,7 +69,8 @@
         "title": "Isolating Variables",
         "text": "What is $$y$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h6",
@@ -76,7 +81,8 @@
         "title": "Substitution",
         "text": "Substitute $$y=-4$$ into one of the original equations and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h7",
@@ -92,7 +98,8 @@
         "title": "Isolating Variables",
         "text": "What is $$x$$ equal to in 3x+5(-4)=-11",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h8",
@@ -103,7 +110,8 @@
         "title": "Checking the Solution",
         "text": "Our solution is the ordered pair $$(3,-4)$$. Check the solution in the original second equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems5a-h9",
@@ -119,6 +127,7 @@
         "title": "Checking the Solution",
         "text": "What does $$(3)-2(-4)$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute $$n=3$$ into the formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences28c-h2",
@@ -17,6 +18,7 @@
         "title": "Simplification",
         "text": "Calculate the expression $$1.25{\\left(-4\\right)}^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

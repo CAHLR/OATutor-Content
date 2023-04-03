@@ -6,7 +6,8 @@
         "title": "Changing the coefficients to whole numbers",
         "text": "The first step is to multiply both sides of the equation by some number to change the fraction coefficients to whole numbers. This makes the equation easier to solve.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h2",
@@ -22,7 +23,8 @@
         "title": "Finding the number to multiply",
         "text": "What is the smallest multiple of $$2$$, $$4$$, and 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h3",
@@ -38,7 +40,8 @@
         "title": "Multiplying by a Whole Number",
         "text": "What is $$12\\frac{5}{6}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h4",
@@ -54,7 +57,8 @@
         "title": "Multiplying by a Whole Number",
         "text": "What is $$12-\\left(\\frac{1}{4}\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h5",
@@ -70,7 +74,8 @@
         "title": "Multiplying by a Whole Number",
         "text": "What is $$12-\\left(\\frac{1}{2}\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h6",
@@ -86,7 +91,8 @@
         "title": "Multiplying by a Whole Number",
         "text": "Remember that to make the equality hold true, the right hand side also has to be multiplied by the same number. What is $$-12\\times12$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8583b4FracDec17a-h7",
@@ -100,6 +106,7 @@
         "title": "Combine Left Hand Side",
         "text": "The left hand side becomes $$10n-3n-6n=n$$. Therefore, we get the answer $$n=-144$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

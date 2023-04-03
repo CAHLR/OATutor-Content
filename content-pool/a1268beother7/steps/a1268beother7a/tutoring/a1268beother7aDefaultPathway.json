@@ -6,7 +6,8 @@
         "title": "Subtract",
         "text": "Subtract $$80x^2$$ from both sides, so we get $$5x^4-80x^2=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h2",
@@ -17,7 +18,8 @@
         "title": "GCF",
         "text": "Factor out the GCF $$5x^2$$, so we get $$5x^{2\\left(x^2-16\\right)}=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h3",
@@ -28,7 +30,8 @@
         "title": "Zero Product Property",
         "text": "This states that either $$5x^2=0$$ or $$x^2-16=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h4",
@@ -44,7 +47,8 @@
         "title": "First Solution",
         "text": "Set $$5x^2=0$$ and simplify. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h5",
@@ -55,7 +59,8 @@
         "title": "Next Solution",
         "text": "Set $$x^2-16=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h6",
@@ -71,7 +76,8 @@
         "title": "Factor",
         "text": "Factor $$x^2-16$$ as difference of squares. What is it?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother7a-h7",
@@ -88,6 +94,7 @@
         "text": "What two values make the expression equal 0?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$4, -4$$",
             "$$2, -2$$",

@@ -6,7 +6,8 @@
         "title": "Move",
         "text": "Move the decimal point after the $$7$$, as $$7.8$$ is between $$1$$ and $$10$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa30a09exponents15a-h2",
@@ -22,7 +23,8 @@
         "title": "Count",
         "text": "Count the number of times the decimal point was moved to the right. How many times was it moved?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aa30a09exponents15a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$3$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -44,7 +47,8 @@
         "title": "Write Exponent",
         "text": "The decimal point was moved $$3$$ times, so write the number as a product with the power $$10$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aa30a09exponents15a-h4",
@@ -53,8 +57,9 @@
             "aa30a09exponents15a-h3"
         ],
         "title": "Answer",
-        "text": "The answer is $$7.8{10}^{\\left(-3\\right)}$$.",
+        "text": "The answer is $$7.8\\times{10}^{\\left(-3\\right)}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

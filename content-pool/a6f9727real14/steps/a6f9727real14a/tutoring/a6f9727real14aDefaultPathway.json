@@ -6,7 +6,8 @@
         "title": "Equation",
         "text": "If $$x$$ represents the maximum number of firemen that could be employed, then we can represent this problem with the equation 600,000=40,000x+20,000x.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real14a-h2",
@@ -17,7 +18,8 @@
         "title": "Combining Like Terms",
         "text": "40,000x+20,000x=60,000x",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real14a-h3",
@@ -28,7 +30,8 @@
         "title": "Isolate the Variable",
         "text": "To isolate $$x$$, both sides can be divided by 60,000.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real14a-h4",
@@ -44,6 +47,7 @@
         "title": "Solve for the Variable",
         "text": "What is 600,000/60,000",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

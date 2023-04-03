@@ -6,7 +6,8 @@
         "title": "Properties of Logarithms",
         "text": "Some important properties of logarithms:\\n1) $$\\log_{b}\\left(1\\right)=0$$\\n2) $$\\log_{b}\\left(b\\right)=1$$\\n3) Inverse Property: $$\\log_{b}\\left(b^x\\right)=x$$, b**log{b}{x}=x,x>0\\n4) One-to-One Property: $$\\log_{b}\\left(M\\right)=\\log_{b}\\left(N\\right)$$ if and only if $$M=N$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeae96dlogarithmic13a-h2",
@@ -22,7 +23,8 @@
         "title": "Apply the Quotient Rule for Logarithms",
         "text": "We observe that we can apply the quotient rule to the the logarithmic expression with the quotient, $$\\frac{1}{9}$$. What is the expression after applying the quotient rule?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeae96dlogarithmic13a-h3",
@@ -38,7 +40,8 @@
         "title": "Apply the Power Rule for Logarithms",
         "text": "Note that $$9=3^2$$ and thus, we can use the power rule and write the equivalent expression by multiplying the exponent times the logarithm of the base. What is the expression now?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeae96dlogarithmic13a-h4",
@@ -54,6 +57,7 @@
         "title": "Use the Properties of Logarithms",
         "text": "We can use the fact that $$\\log_{b}\\left(1\\right)=0$$ and $$\\log_{b}\\left(b\\right)=1$$ in our expression to simplify the expression. What is the simplified expression after applying the properties?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We substitute $$x=\\frac{1}{4}$$ and $$y=\\frac{7}{6}$$ into both inequalities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra8a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute into First Equation",
         "text": "$$2x+3y \\geq 2$$\\n$$2\\frac{1}{4}+3\\frac{7}{6} \\geq 2$$\\n$$4 \\geq 2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra8a-h3",
@@ -34,6 +36,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,7 +51,8 @@
         "title": "Substitute into Second Equation",
         "text": "$$4x-6y<-1$$\\n$$4\\frac{1}{4}-6\\frac{7}{6}<-1$$\\n$$-7<-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra8a-h5",
@@ -65,6 +69,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -79,6 +84,7 @@
         "title": "Solutions of a System of Equations",
         "text": "$$(\\frac{1}{4},\\frac{7}{6})$$ does make both inequalities true. $$(\\frac{1}{4},\\frac{7}{6})$$ is a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

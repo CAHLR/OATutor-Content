@@ -6,7 +6,8 @@
         "title": "Divide Numbers",
         "text": "First, divide the numbers as if they were positive.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts19a-h2",
@@ -22,7 +23,8 @@
         "title": "Divide Numbers",
         "text": "What is $$\\frac{52}{4}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a975ae1MultDivInts19a-h3",
@@ -33,6 +35,7 @@
         "title": "Final Sign",
         "text": "If the signs of the integers are the same, then the quotient is positive; otherwise, the quotient is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

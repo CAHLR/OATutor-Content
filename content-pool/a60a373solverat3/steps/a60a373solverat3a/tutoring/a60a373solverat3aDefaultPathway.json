@@ -6,7 +6,8 @@
         "title": "Lowest Common Denominator",
         "text": "The first step is to find the lowest common denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat3a-h2",
@@ -22,7 +23,8 @@
         "title": "Lowest Common Denominator",
         "text": "What is the lowest common denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat3a-h3",
@@ -33,7 +35,8 @@
         "title": "Distribute and multiply",
         "text": "Distribute and multiply the lowest common denominator to all the terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat3a-h4",
@@ -49,7 +52,8 @@
         "title": "Distribute and multiply",
         "text": "What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat3a-h5",
@@ -65,7 +69,8 @@
         "title": "Simple Algebra",
         "text": "Solve for $$x$$. Please input the answer as $$variable=answer$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a60a373solverat3a-h6",
@@ -76,6 +81,7 @@
         "title": "Double Check",
         "text": "Plug answers for a back into the original equation to make the sure answer is correct and not undefined at any point.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

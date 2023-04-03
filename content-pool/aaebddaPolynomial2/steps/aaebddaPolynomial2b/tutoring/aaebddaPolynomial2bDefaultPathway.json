@@ -6,7 +6,8 @@
         "title": "Analysis",
         "text": "The variable in this equation is $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial2b-h2",
@@ -20,7 +21,8 @@
         "title": "Counting",
         "text": "How many different degrees are on $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial2b-h3",
@@ -34,6 +36,7 @@
         "title": "Principle",
         "text": "What is the highest degree on $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

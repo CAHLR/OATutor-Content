@@ -6,7 +6,8 @@
         "title": "Organizing",
         "text": "Place all variables on one side: $$p^2-5p=9$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square15a-h2",
@@ -14,13 +15,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p-\\frac{5}{2}\\right)}^2=\\frac{61}{4}$$"
+            "$$\\left(p-\\frac{5}{2}\\right)^2=\\frac{61}{4}$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",
         "text": "Create a binomial squared. What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square15a-h3",
@@ -31,7 +33,8 @@
         "title": "Solving the equation",
         "text": "Take the square root of both sides and solve for a.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square15a-h4",
@@ -47,7 +50,8 @@
         "title": "Solving the equation",
         "text": "What is the answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square15a-h5",
@@ -58,6 +62,7 @@
         "title": "Double Checking",
         "text": "Double check that the answers work by plugging them back into the original equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

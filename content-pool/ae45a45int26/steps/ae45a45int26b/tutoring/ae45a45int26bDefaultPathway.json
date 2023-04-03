@@ -6,7 +6,8 @@
         "title": "Order of Operations",
         "text": "First do all multiplying and dividing",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26b-h2",
@@ -22,7 +23,8 @@
         "title": "Order of Operations",
         "text": "What is $$\\frac{-30}{2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26b-h3",
@@ -38,7 +40,8 @@
         "title": "Order of Operations",
         "text": "What is (-3)*(-7)/",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26b-h4",
@@ -49,7 +52,8 @@
         "title": "Order of Operations",
         "text": "Once all multiplication and division is done, we can add and subtract",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int26b-h5",
@@ -65,6 +69,7 @@
         "title": "Order of Operations",
         "text": "What is $$-15+21$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

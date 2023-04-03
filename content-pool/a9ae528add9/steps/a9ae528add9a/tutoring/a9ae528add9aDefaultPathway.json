@@ -6,7 +6,8 @@
         "title": "Subsituting in the Numeric Value",
         "text": "The first step is to subsitute the value for $$y$$ in the expression $$|y|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9a-h2",
@@ -15,7 +16,8 @@
         "title": "Value of $$y$$",
         "text": "$$y=-23$$, a negative number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9a-h3",
@@ -24,6 +26,7 @@
         "title": "Evaluating the Absolute Value of Negative Numbers",
         "text": "If a is negative, then $$|a|=-a$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -12,6 +12,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -32,6 +33,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -47,7 +49,8 @@
         "title": "Trinomial",
         "text": "Since it's a trinomial, check to see whether the expression is in the form of $$x^2+bx+x$$ or $${ax}^2+bx+c$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral5a-h4",
@@ -58,7 +61,8 @@
         "title": "$$x^2+bx+c$$",
         "text": "Undo using FOIL",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral5a-h5",
@@ -69,6 +73,7 @@
         "title": "Check",
         "text": "Is it factored completely? Do the factors multiply back to the original polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Subtract",
         "text": "First, subtract the two equations to eliminate $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h2",
@@ -22,7 +23,8 @@
         "title": "Subtract",
         "text": "After subtracting, what equation are you left with?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h3",
@@ -33,7 +35,8 @@
         "title": "Simplify",
         "text": "Now, simplfiy the equation to eliminate $$x^2$$ by subtracting it from each side.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h4",
@@ -50,6 +53,7 @@
         "text": "What are you left with after subtracting $$x^2$$ from both sides?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y^2-y=6$$",
             "$$x^2-x=6$$",
@@ -66,7 +70,8 @@
         "title": "Simplfiy",
         "text": "Subtract $$6$$ from both sides to get $$y^2-y-6$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h6",
@@ -83,6 +88,7 @@
         "text": "Now, factor the equation. Your answer should be in the form $$\\left(ay+b\\right) \\left(cy+d\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\left(y-3\\right) \\left(y+2\\right)$$",
             "$$\\left(y+3\\right) \\left(y-2\\right)$$",
@@ -99,7 +105,8 @@
         "title": "Find solutions",
         "text": "This means $$y=3$$ and $$y=-2$$. Plug both of these values into either of the original equations and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h8",
@@ -115,7 +122,8 @@
         "title": "Substitute and Solve",
         "text": "Plug $$y=3$$ into either of the original equations. What does $$x$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h9",
@@ -131,7 +139,8 @@
         "title": "Substitute and Solve",
         "text": "Plug $$y=-2$$ into either of the original equations. What does $$x$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac561a1systems24a-h10",
@@ -142,6 +151,7 @@
         "title": "Answer",
         "text": "Therefore, the final answers are three coordinate points: (0,3)(sqrt(5),-2)(-sqrt(5),-2).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

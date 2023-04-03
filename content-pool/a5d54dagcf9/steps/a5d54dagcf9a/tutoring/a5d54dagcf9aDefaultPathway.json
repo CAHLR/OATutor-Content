@@ -6,7 +6,8 @@
         "title": "Group terms with common factors",
         "text": "The first step is to check if there is a GCF among all terms. If there isn't then separate the equation into the terms with like variables. In this case, we would separate the first two terms from the second two.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf9a-h2",
@@ -17,7 +18,8 @@
         "title": "Factoring",
         "text": "The next step is to factor the GCF from the first two terms and second two terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf9a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring",
         "text": "What is the GCF of the first two terms?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf9a-h4",
@@ -49,7 +52,8 @@
         "title": "Factoring",
         "text": "What is the GCF of the second two terms?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf9a-h5",
@@ -61,7 +65,8 @@
         "title": "Factoring",
         "text": "Notice that each term has a common factor of $$x+8$$. Factor out the common factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf9a-h6",
@@ -72,6 +77,7 @@
         "title": "Factoring",
         "text": "This leaves you with $$\\left(a+7\\right) \\left(b+8\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -5,13 +5,14 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+5\\right)}^2=36$$"
+            "$$\\left(x+5\\right)^2=36$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",
         "text": "Create a binomial squared. What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square13a-h2",
@@ -22,7 +23,8 @@
         "title": "Solving the equation",
         "text": "Take the square root of both sides and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square13a-h3",
@@ -39,6 +41,7 @@
         "text": "What is the answer?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$1$$ or $$-11$$",
             "$$-1$$ or $$-11$$",
@@ -54,6 +57,7 @@
         "title": "Double Checking",
         "text": "Double check that the answers work by plugging them back into the original equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

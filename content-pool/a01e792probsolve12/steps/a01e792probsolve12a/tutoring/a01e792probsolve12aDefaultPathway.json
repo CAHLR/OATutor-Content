@@ -6,7 +6,8 @@
         "title": "Identify and Name",
         "text": "Let's first identify what we want to find, and then give it a variable name",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h2",
@@ -17,7 +18,8 @@
         "title": "Identify and Name",
         "text": "We know that we are trying to find the original price and we can name it \"n\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h3",
@@ -28,7 +30,8 @@
         "title": "Rewrite",
         "text": "Let's now rewrite the question into a simple sentence which sounds like an equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h4",
@@ -39,7 +42,8 @@
         "title": "Rewrite",
         "text": "We would get \"120 is two thirds of the original price\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h5",
@@ -50,7 +54,8 @@
         "title": "Translate",
         "text": "Let's translate the rewritten sentence into a real equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h6",
@@ -61,7 +66,8 @@
         "title": "Translate",
         "text": "We get $$120=\\frac{2}{3} n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h7",
@@ -77,7 +83,8 @@
         "title": "Solve",
         "text": "What number can we divide from both sides to isolate the variable?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h8",
@@ -93,7 +100,8 @@
         "title": "Solve",
         "text": "What is $$\\frac{120}{\\frac{2}{3}}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve12a-h9",
@@ -104,6 +112,7 @@
         "title": "Solve",
         "text": "When dividing a number by a fraction we are actually multiplying by the reciprocal. This makes the equation $$120\\frac{3}{2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Finding the Largest Perfect Square",
         "text": "You must first identify the largest perfect square factor of the numbers inside the radicals.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical15a-h2",
@@ -22,7 +23,8 @@
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the number inside the radical in the numerator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical15a-h3",
@@ -38,7 +40,8 @@
         "title": "Finding the Largest Perfect Square",
         "text": "What is the largest perfect square factor of the number inside the radical in the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical15a-h4",
@@ -49,7 +52,8 @@
         "title": "Rewriting the Radical",
         "text": "You must now rewrite the radical as the quotient of two radicals. Both of these radicals must include the perfect squares.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical15a-h5",
@@ -65,7 +69,8 @@
         "title": "Rewriting the Radical",
         "text": "What is the result?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical15a-h6",
@@ -81,6 +86,7 @@
         "title": "Simplfying the Radicals",
         "text": "What is the result after simplifying both square roots?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

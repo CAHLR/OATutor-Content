@@ -6,7 +6,8 @@
         "title": "What terms contribute to the possible rational zeros?",
         "text": "The only possible rational zeros of f(x) are the quotients of the factors of the last term, $$-4$$, and the factors of the leading coefficient, $$2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h2",
@@ -17,7 +18,8 @@
         "title": "Factors of the Constant Term",
         "text": "What are the factors of the constant term, -4? From here on, these factors will be denoted as $$p$$, factors of the constant term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h3",
@@ -33,7 +35,8 @@
         "title": "What are the factors of the constant term, -4? (List them in ascending order as such: $$-2$$, $$-1$$, $$1$$, ...)",
         "text": "There are $$6$$ in total. Consider that there are negative factors as well.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h4",
@@ -44,7 +47,8 @@
         "title": "What are the factors of the leading coefficient, 2? From here on, these factors will be denoted as q, factors of the leading coefficient.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h5",
@@ -60,7 +64,8 @@
         "title": "What are the factors of the leading coefficient, 2? (List them in ascending order as such: $$-2$$, $$-1$$, $$1$$, ...)",
         "text": "There are $$4$$ in total. Consider that there are negative factors as well.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h4",
@@ -71,7 +76,8 @@
         "title": "What are the different combination of rational zeros?",
         "text": "Consider that a rational zero is of the form $$\\frac{p}{q}$$ where $$p$$ are factors of the constant term and q are factors of the leading coefficient. It would help to list out all your $$p$$ and q to write out the different combination.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h5",
@@ -82,7 +88,8 @@
         "title": "What are the possible rational zeros with $$p$$ $$=$$ $$+-1$$?",
         "text": "Recall what are the factors of $$2$$, q, that you've previously found.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h6",
@@ -93,7 +100,8 @@
         "title": "The combination of all q with $$p$$ $$=$$ +- $$1$$ are $$+-\\left(\\frac{1}{1}\\right)$$, $$+-\\left(\\frac{1}{2}\\right)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h7",
@@ -104,7 +112,8 @@
         "title": "What are the possible rational zeros with $$p=+-2$$?",
         "text": "Recall what are the factors of $$2$$, q, that you've previously found.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h8",
@@ -115,7 +124,8 @@
         "title": "The combination of all q with p=+- $$2$$ are $$+-\\left(\\frac{2}{1}\\right)$$, $$+-\\left(\\frac{2}{2}\\right)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h9",
@@ -126,7 +136,8 @@
         "title": "What are the possible rational zeros with $$p=+-4$$?",
         "text": "Recall what are the factors of $$2$$, q, that you've previously found.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h10",
@@ -137,7 +148,8 @@
         "title": "The combination of all q with p=+- $$4$$ are $$+-\\left(\\frac{4}{1}\\right)$$, $$+-\\left(\\frac{4}{2}\\right)$$",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5c95e8polyzero27a-h11",
@@ -148,6 +160,7 @@
         "title": "Simplify all the rational zeros that you have found so that there are no duplicates.",
         "text": "For example, $$\\frac{2}{2}=\\frac{1}{1}=1$$ and $$\\frac{-4}{2}=\\frac{-2}{1}=-2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

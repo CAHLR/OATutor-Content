@@ -6,7 +6,8 @@
         "title": "Greatest Common Factor",
         "text": "The first step is determining the greatest common factor between the three terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5d54dagcf18a-h2",
@@ -22,7 +23,8 @@
         "title": "GCF",
         "text": "What is the GCF for the three terms?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf18a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "GCF for Constants",
                 "text": "What is the GCF for $$5$$, $$15$$, and 20?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf18a-h2-s2",
@@ -50,7 +53,8 @@
                 "title": "GCF for Variables",
                 "text": "What is the GCF for $$x^3$$, $$x^2$$, and $$x$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf18a-h2-s3",
@@ -64,7 +68,8 @@
                 "title": "Overall GCF",
                 "text": "Multiply the two previous partial GCFS you found to get the overall GCF. What is it?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -82,7 +87,8 @@
         "title": "Factorization",
         "text": "Now, factor each of the terms separately. What is the sum of the terms?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a5d54dagcf18a-h3-s4",
@@ -96,7 +102,8 @@
                 "title": "Factor $$3x^2$$",
                 "text": "Factor out $$5x$$ from $$5x^3$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf18a-h3-s5",
@@ -110,7 +117,8 @@
                 "title": "Factor $$6x$$",
                 "text": "Factor out $$5x$$ from $$-15x^2$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf18a-h3-s6",
@@ -124,7 +132,8 @@
                 "title": "Factor $$-9$$",
                 "text": "Factor out $$5x$$ from $$20x$$. What remains?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a5d54dagcf18a-h3-s7",
@@ -138,7 +147,8 @@
                 "title": "Summation of factors",
                 "text": "Using the \"reverse\" Distributive Property, add together the three factors previously found. What is the sum?",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "$$x^2-3x+4$$",
                     "$$3x^2-4x+1$$",
@@ -162,6 +172,7 @@
         "title": "Final Answer",
         "text": "Using knowledge of the distributive property, multiply the GCF with the sum of the factored values to get the final answer for the factorization of $$5x^3-15x^2+20x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

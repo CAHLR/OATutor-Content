@@ -6,7 +6,8 @@
         "title": "Decimal Point",
         "text": "Put a decimal point where it says \"and\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals9a-h2",
@@ -22,7 +23,8 @@
         "title": "Before Decimal",
         "text": "What is the number before the decimal point?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals9a-h3",
@@ -33,7 +35,8 @@
         "title": "Decimal Place",
         "text": "find the decimal place in the word",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals9a-h4",
@@ -50,6 +53,7 @@
         "text": "What is the decimal place in the word?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "tenth",
             "hundredths",
@@ -66,7 +70,8 @@
         "title": "After Decimal",
         "text": "translate the words after the \"and\" into the number to the right of the decimal point, putting the last digit in the thousandths place",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals9a-h6",
@@ -77,6 +82,7 @@
         "title": "Adding Placeholder 0s",
         "text": "Fill in zeros for empty place holders as needed.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

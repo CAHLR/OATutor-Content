@@ -6,7 +6,8 @@
         "title": "Formula for Combinations of $$n$$ Distinct Objects",
         "text": "Substitute $$n=12$$ and $$r=4$$ into the combination formula: C(n,r)=n!/(r!*(n-r)!).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou20a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute",
         "text": "C(12,4)=12!/(4!*(12-4)!)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a35ba99cou20a-h3",
@@ -28,6 +30,7 @@
         "title": "Simplify",
         "text": "$$C(12,4)=495$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

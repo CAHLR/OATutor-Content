@@ -6,7 +6,8 @@
         "title": "Definition of y-intercepts",
         "text": "The y-intercept is the point at which the graph crosses y-axis",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord3b-h2",
@@ -15,7 +16,8 @@
         "title": "How to determine the y-intercept?",
         "text": "Set $$x$$ equal to zero and solve for $$y$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord3b-h3",
@@ -31,6 +33,7 @@
         "title": "Solving the equation",
         "text": "Solve for y: $$y=-3\\left(0\\right)+6$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

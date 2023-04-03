@@ -6,7 +6,8 @@
         "title": "Same Denominators",
         "text": "Make sure the fractions have the same denominator before adding them.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h2",
@@ -17,7 +18,8 @@
         "title": "Divide Rational Expressions",
         "text": "Since the denominators are the same, put both of the numerators of the rational expression over a single denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h3",
@@ -28,7 +30,8 @@
         "title": "Finding Numerators",
         "text": "Think about what the numerators are.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h4",
@@ -39,7 +42,8 @@
         "title": "Adding and Subtracting the Numerators",
         "text": "Add the numerators together.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h5",
@@ -50,7 +54,8 @@
         "title": "Simplify",
         "text": "Can $$\\frac{2w^2+8w}{3w^2-16}$$ be simplified further?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h6",
@@ -61,7 +66,8 @@
         "title": "Factoring",
         "text": "Try factoring the numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h7",
@@ -72,7 +78,8 @@
         "title": "Difference of Squares",
         "text": "Notice that the denominator has a difference of squares.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3abd22addsubrational7a-h8",
@@ -83,6 +90,7 @@
         "title": "Simplify",
         "text": "Can something in the numerator and denominator cancel out?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

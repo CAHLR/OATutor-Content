@@ -6,7 +6,8 @@
         "title": "Isolating the Absolute Value",
         "text": "First, isolate the absolute value by subtracting $$8$$ from both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother22a-h2",
@@ -17,7 +18,8 @@
         "title": "Writing Two Equations",
         "text": "Then, rewrite the absolute value equation into two equations, $$1-4x=5$$ and $$1-4x=-5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother22a-h3",
@@ -33,7 +35,8 @@
         "title": "Solving Equation One",
         "text": "$$1-4x=5$$, $$x=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother22a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving Equation Two",
         "text": "$$1-4x=-5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother22a-h5",
@@ -61,6 +65,7 @@
         "title": "Final Answer",
         "text": "The answers to the first and second equations are the answer to the original absolute value equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

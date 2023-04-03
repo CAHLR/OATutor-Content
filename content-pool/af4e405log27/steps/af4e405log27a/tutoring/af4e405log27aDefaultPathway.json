@@ -6,7 +6,8 @@
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to determine $$x$$ such that $$x=\\log_{6}\\left(36\\right)$$. Rewrite this expression first into exponential form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log27a-h2",
@@ -23,6 +24,7 @@
         "text": "What is the exponential form of $$\\log_{6}\\left(36\\right)=x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$6^x=36$$",
             "$${36}^x=6$$",
@@ -45,6 +47,7 @@
         "text": "How can we rewrite $$36$$ in terms of powers of 6?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$6^2$$",
             "$$6^3$$",
@@ -66,6 +69,7 @@
         "title": "Solve for $$x$$",
         "text": "Substitution $$6^2$$ into the exponential equation we found before, we get $$6^x=6^2$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

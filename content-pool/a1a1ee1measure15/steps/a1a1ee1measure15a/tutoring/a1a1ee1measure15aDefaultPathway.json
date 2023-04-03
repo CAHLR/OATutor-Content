@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We will substitute $$20$$ degrees Celsius into the formula, $$F=\\frac{9}{5} C+32$$, to find F.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure15a-h2",
@@ -23,6 +24,7 @@
         "text": "What do we get after the substitution?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$F=20\\frac{9}{5}-32$$",
             "$$F=20\\frac{5}{9}+32$$",
@@ -43,6 +45,7 @@
         "title": "Simplify",
         "text": "What do we get for F after simplifying the expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

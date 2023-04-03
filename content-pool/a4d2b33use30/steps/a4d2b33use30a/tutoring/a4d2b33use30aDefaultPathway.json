@@ -6,7 +6,8 @@
         "title": "Expanding the Expression",
         "text": "The first step is to expand the expression. $$7^2=7\\times7$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use30a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiplying From Left to Right, Part $$1$$",
         "text": "The second step is to multiply from left to right.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4d2b33use30a-h3",
@@ -33,6 +35,7 @@
         "title": "Multiplication",
         "text": "$$7\\times7=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

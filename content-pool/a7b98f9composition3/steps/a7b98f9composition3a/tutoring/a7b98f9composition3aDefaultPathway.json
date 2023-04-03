@@ -12,6 +12,7 @@
         "text": "What is the function in which $$x-2$$ is inserted to get the given function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$f(x)=x^2$$",
             "$$f(x)=x-2$$",
@@ -28,7 +29,8 @@
         "title": "Second Function",
         "text": "The other function is what you put into the previous function to get the given function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a7b98f9composition3a-h3",
@@ -45,6 +47,7 @@
         "text": "What is the second function?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$g(x)=x-2$$",
             "$$g(x)=x^2$$",

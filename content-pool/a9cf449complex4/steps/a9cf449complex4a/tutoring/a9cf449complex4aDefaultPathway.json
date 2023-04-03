@@ -6,7 +6,8 @@
         "title": "Writing the Problem As an Expression",
         "text": "First, write the problem as an expression: $$3-4i-2+5i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h2",
@@ -17,7 +18,8 @@
         "title": "Rewriting the Expression by Distributing the Negative Sign",
         "text": "Second, distribute the negative sign and rewrite the expression as an addition problem. For example, $$a+b-c+d=a+b-c-d$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h3",
@@ -28,7 +30,8 @@
         "title": "Adding Complex Numbers",
         "text": "The next step to add complex numbers is to add real and imaginary parts separately.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h4",
@@ -39,7 +42,8 @@
         "title": "i Definition",
         "text": "i represents the square root of $$-1$$, which is an imaginary number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h5",
@@ -50,7 +54,8 @@
         "title": "Real Numbers in the Expression",
         "text": "$$3$$ and $$-2$$ are real numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h6",
@@ -61,7 +66,8 @@
         "title": "Imaginary Numbers in the Expression",
         "text": "-4i and -5i are imaginary numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h7",
@@ -77,7 +83,8 @@
         "title": "Sum of the Real Numbers",
         "text": "What is the sum of the real numbers?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h8",
@@ -93,7 +100,8 @@
         "title": "Sum of the Imaginary Numbers",
         "text": "What is the sum of the imaginary numbers?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex4a-h9",
@@ -105,6 +113,7 @@
         "title": "Writing the Final Answer",
         "text": "Finally, write the expression as the sum of the real and imaginary numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

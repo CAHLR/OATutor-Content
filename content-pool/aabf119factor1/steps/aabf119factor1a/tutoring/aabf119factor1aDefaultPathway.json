@@ -6,7 +6,8 @@
         "title": "Greatest Common Factor",
         "text": "First, factor out the Greatest Common Factor of the expression.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor1a-h2",
@@ -17,7 +18,8 @@
         "title": "Greatest Common Factor",
         "text": "The greatest common factor (GCF) of polynomials is the largest polynomial that divides evenly into the polynomials.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor1a-h3",
@@ -34,6 +36,7 @@
         "text": "What is the Greatest Common Factor of the expression?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$3$$",
             "$${xy}^2$$",
@@ -55,7 +58,8 @@
         "title": "GCF of coefficients",
         "text": "What is the Greatest Common Factor of the coefficients?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor1a-h5",
@@ -72,6 +76,7 @@
         "text": "What is the Greatest Common Factor of the variable $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x^2$$",
             "$$x$$",
@@ -93,6 +98,7 @@
         "text": "What is the Greatest Common Factor of the variable $$y$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y^2$$",
             "$$y$$",
@@ -108,6 +114,7 @@
         "title": "Finding the GCF",
         "text": "The greatest common factor of the expression is the product of the GCF of its coefficients and variables.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

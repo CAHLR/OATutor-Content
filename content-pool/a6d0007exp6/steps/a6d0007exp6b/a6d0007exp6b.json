@@ -4,7 +4,7 @@
         "$$t^{35}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(t^5\\right)}^7$$",
+    "stepTitle": "$$\\left(t^5\\right)^7$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

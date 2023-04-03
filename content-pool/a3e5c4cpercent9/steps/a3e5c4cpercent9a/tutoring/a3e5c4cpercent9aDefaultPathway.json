@@ -6,7 +6,8 @@
         "title": "Find the Difference",
         "text": "Find the difference between the two numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent9a-h2",
@@ -17,7 +18,8 @@
         "title": "The Difference",
         "text": "The difference is $36-$26, or $10.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent9a-h3",
@@ -28,7 +30,8 @@
         "title": "Find the Percent",
         "text": "Divide the difference by the original value.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent9a-h4",
@@ -39,7 +42,8 @@
         "title": "The Percentage",
         "text": "$$10$$ divided by $$26$$ is $$0.385$$. Change this to percent form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3e5c4cpercent9a-h5",
@@ -50,6 +54,7 @@
         "title": "The Answer",
         "text": "Multiply by $$100$$ to change to percentage. The percentage is $$38.4\\%$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

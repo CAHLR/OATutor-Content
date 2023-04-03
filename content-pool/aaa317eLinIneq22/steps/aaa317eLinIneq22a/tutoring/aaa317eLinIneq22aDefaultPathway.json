@@ -6,7 +6,8 @@
         "title": "Isolation",
         "text": "We can isolate the variable term by using the addition property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq22a-h2",
@@ -22,7 +23,8 @@
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable with its coefficient in the middle?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq22a-h3",
@@ -39,6 +41,7 @@
         "text": "What do we get after we add 8?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$10<2x \\leq 18$$",
             "$$12<2x \\leq 16$$",
@@ -54,7 +57,8 @@
         "title": "Isolation",
         "text": "We can leave the variable term by itself in the middle by using the multiplication property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq22a-h5",
@@ -70,7 +74,8 @@
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself in the middle?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq22a-h6",
@@ -87,6 +92,7 @@
         "text": "What do we get after we multiply $$\\frac{1}{2}$$ through all three parts?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$6<x \\leq 9$$",
             "$$3<x \\leq 10$$",

@@ -6,7 +6,8 @@
         "title": "Writing the Problem Algebraically",
         "text": "The problem can be rewritten as $$n \\left(n+2\\right)$$ equals $$99$$, find $$n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h2",
@@ -15,7 +16,8 @@
         "title": "Use the Quadratic Formula",
         "text": "To easily find $$n$$, rewrite the problem in the form $${an}^2$$ + bn + c $$=$$ $$0$$, where a, $$b$$, and c are constants",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h3",
@@ -31,7 +33,8 @@
         "title": "Use the Quadratic Formula",
         "text": "What is $$n \\left(n+2\\right)=99$$ in the form given above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h4",
@@ -42,7 +45,8 @@
         "title": "Quadratic Formula",
         "text": "If you have an equation in the form $${an}^2$$ + bn + c $$=$$ $$0$$, $$n$$ $$=$$ (-b~sqrt(b**2 -4ac))/(2a)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h5",
@@ -58,7 +62,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of a if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h6",
@@ -74,7 +79,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of $$b$$ if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h7",
@@ -90,7 +96,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of c if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h8",
@@ -99,7 +106,8 @@
         "title": "Multiple Answers",
         "text": "The quadratic formula can yield two different answers, based on the positive or negative value of the square root. These can both be answers",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad2a-h9",
@@ -116,6 +124,7 @@
         "text": "What are the two possible values of $$n$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$7$$, $$-9$$",
             "$$9$$, $$-11$$",

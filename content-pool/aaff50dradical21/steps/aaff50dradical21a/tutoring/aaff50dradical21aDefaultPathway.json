@@ -6,7 +6,8 @@
         "title": "Finding the Greatest Square Factor",
         "text": "The greatest square factor of $$147$$ is $$49$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaff50dradical21a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplifying the Root",
         "text": "$$\\sqrt{147}=\\sqrt{49\\times3}=7\\sqrt{3}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

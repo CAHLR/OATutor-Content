@@ -6,7 +6,8 @@
         "title": "Factor",
         "text": "Find the largest factor of both the numerator and denominator that are equal",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals26a-h2",
@@ -22,7 +23,8 @@
         "title": "Largest Common Factor",
         "text": "What is the largest common factor of the numerator and denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a171b3arationals26a-h3",
@@ -33,6 +35,7 @@
         "title": "Divide",
         "text": "Divide both numerator and denominator with the largest common factor",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

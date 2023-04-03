@@ -4,7 +4,7 @@
         "Domain: $$(-\\infty,\\infty)$$ Range $$(2,\\infty)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$f(x)=$$ $${\\left(x-3\\right)}^2$$ $$+2$$",
+    "stepTitle": "$$f(x)=$$ $$\\left(x-3\\right)^2$$ $$+2$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

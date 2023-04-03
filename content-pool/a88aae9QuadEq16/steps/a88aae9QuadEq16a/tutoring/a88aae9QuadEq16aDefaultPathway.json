@@ -6,7 +6,8 @@
         "title": "Positive or Negative?",
         "text": "Since our formula is going to be greater than zero, we want to look at the interval on the graph where our line is above zero.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a88aae9QuadEq16a-h2",
@@ -22,6 +23,7 @@
         "title": "Solution",
         "text": "When we graph our formula, what part of the graph is going to be greater than zero?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

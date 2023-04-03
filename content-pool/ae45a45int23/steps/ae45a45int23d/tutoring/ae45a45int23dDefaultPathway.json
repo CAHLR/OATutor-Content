@@ -6,7 +6,8 @@
         "title": "Dividing with Negatives",
         "text": "To divide negative numbers, you can divide remove any negative signs and divide as if both the numerator and denominator were positive; then, if the signs of the numerator and denominator are different in the original problem (one is positive and the other is negative), then add a negative to your final answer",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int23d-h2",
@@ -22,7 +23,8 @@
         "title": "Dividing with Negatives",
         "text": "What is $$\\frac{27}{3}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int23d-h3",
@@ -39,6 +41,7 @@
         "text": "What is the sign of -27?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Negative",
             "Positive"
@@ -59,7 +62,9 @@
         "text": "What is the sign of 3?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
+            "Negative",
             "Positive"
         ]
     },
@@ -72,6 +77,7 @@
         "title": "Signs",
         "text": "Since the numbers have different signs, the final answer will be negative",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

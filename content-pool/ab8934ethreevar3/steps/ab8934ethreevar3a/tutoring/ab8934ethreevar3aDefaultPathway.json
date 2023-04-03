@@ -6,7 +6,8 @@
         "title": "Using Two Equations",
         "text": "The first step is to select two out of the three equations to find the relationship between two of the variables.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar3a-h2",
@@ -23,6 +24,7 @@
         "text": "What is the result of subtracting equations (2) and (3)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-y+4z=4$$",
             "$$y-4z=-4$$",
@@ -38,7 +40,8 @@
         "title": "Using Two Equations",
         "text": "The next step is to pick another pair of equations and solve for the same variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar3a-h4",
@@ -55,6 +58,7 @@
         "text": "What is the resulting equation that comes from multiplying equation (1) by $$2$$, multiplying equation (2) by $$3$$, and subtracting the two equations?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-20y+3z=-93$$",
             "$$20y-3z=93$$",
@@ -70,7 +74,8 @@
         "title": "Solving a System of Two Equations",
         "text": "The next step is to solve the resulting system of two equations",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar3a-h6",
@@ -81,6 +86,7 @@
         "title": "Back-Substitution",
         "text": "The last step is to back-substitute the known variables into any one of the original equations and solve for the missing variable.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

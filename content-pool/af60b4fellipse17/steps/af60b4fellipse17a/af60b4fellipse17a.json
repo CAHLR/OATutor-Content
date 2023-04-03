@@ -4,7 +4,7 @@
         "DNE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\frac{{\\left(x-7\\right)}^2}{49}+\\frac{{\\left(y-7\\right)}^2}{49}=1$$. If the equation is not one of an ellipse, enter DNE.",
+    "stepTitle": "$$\\frac{\\left(x-7\\right)^2}{49}+\\frac{\\left(y-7\\right)^2}{49}=1$$. If the equation is not one of an ellipse, enter DNE.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

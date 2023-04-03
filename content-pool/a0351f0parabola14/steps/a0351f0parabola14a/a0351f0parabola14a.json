@@ -4,7 +4,7 @@
         "Not a Parabola"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(y-3\\right)}^2=8(x-2)$$",
+    "stepTitle": "$$\\left(y-3\\right)^2=8(x-2)$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -6,7 +6,8 @@
         "title": "Determining the Sign",
         "text": "The first step is to find the sign of the product. Since the signs are the different, the product is negative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiplying",
         "text": "The next step is to multiply the two numerators and the two demoninators.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiplying the Numerators",
         "text": "What is $$10\\times8$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h4",
@@ -49,7 +52,8 @@
         "title": "Multiplying the Denominators",
         "text": "What is $$28\\times15$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h5",
@@ -61,7 +65,8 @@
         "title": "Putting Top and Bottom Together",
         "text": "Putting our answers to the last two steps together, we get the fraction $$\\frac{-80}{420}$$. The next step is to simplify our answer if possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h6",
@@ -78,6 +83,7 @@
         "text": "Is $$\\frac{-80}{420}$$ already in its simplest form?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -97,7 +103,8 @@
         "title": "Finding Largest Common Factor",
         "text": "What is the largest common factor between the numerator and the denominator?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h8",
@@ -108,7 +115,8 @@
         "title": "Simplifying",
         "text": "To simplify the fraction, we can divide both the numerator and the denominator by their largest common factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h9",
@@ -124,7 +132,8 @@
         "title": "Dividing Numerator",
         "text": "What is $$\\frac{80}{20}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h10",
@@ -140,7 +149,8 @@
         "title": "Dividing Denominator",
         "text": "What is $$\\frac{420}{20}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize7a-h11",
@@ -152,6 +162,7 @@
         "title": "Final Answer",
         "text": "So $$\\frac{-4}{21}$$ is our final answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

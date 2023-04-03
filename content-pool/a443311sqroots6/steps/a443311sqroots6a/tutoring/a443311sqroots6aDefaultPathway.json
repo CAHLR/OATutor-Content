@@ -6,7 +6,8 @@
         "title": "Combine",
         "text": "Combine the radicals into one radical, since $$\\frac{\\sqrt{a}}{\\sqrt{b}}$$ $$=$$ $$\\sqrt{\\frac{a}{b}}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots6a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplify",
         "text": "Now, simplify the quotient under the radical as much as possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots6a-h3",
@@ -28,7 +30,8 @@
         "title": "Reduce",
         "text": "If necessary, simplify the radical further by splitting it apart and reducing it to a constant and another radical.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a443311sqroots6a-h4",
@@ -39,6 +42,7 @@
         "title": "Answer",
         "text": "The answer is $$\\frac{2}{3}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

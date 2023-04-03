@@ -6,7 +6,8 @@
         "title": "Draw",
         "text": "Try drawing out the geometric shape",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9b0a01SolveGeometry4a-h2",
@@ -17,6 +18,7 @@
         "title": "Definition",
         "text": "Area is defined as length times width. If you have the length and area you can find the width by diving area by length",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Difference of Squares Formula",
         "text": "Notice that the problem is a difference of squares and can be factored into the $$\\operatorname{form}\\left(k a+b\\right) \\left(k a-b\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073factor1a-s1",
@@ -20,7 +21,8 @@
         "title": "Identify Difference of Squares Component",
         "text": "What is $$a^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073factor1a-s2",
@@ -34,7 +36,8 @@
         "title": "Identify Difference of Squares Component",
         "text": "What is $$b^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073factor1a-h2",
@@ -50,7 +53,8 @@
         "title": "Solve for a",
         "text": "What is a?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073factor1a-h3",
@@ -66,7 +70,8 @@
         "title": "Solve for $$b$$",
         "text": "what is $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073factor1a-h4",
@@ -77,6 +82,7 @@
         "title": "Putting Everything Together",
         "text": "Put a and $$b$$ in the form $$\\left(a+b\\right) \\left(a-b\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

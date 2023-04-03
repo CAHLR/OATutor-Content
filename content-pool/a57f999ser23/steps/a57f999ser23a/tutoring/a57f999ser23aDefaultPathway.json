@@ -6,7 +6,8 @@
         "title": "Explicit Formula",
         "text": "The given formula, $$4^{m-1}$$, is exponential with a base of $$4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser23a-h2",
@@ -17,7 +18,8 @@
         "title": "Identify $$r$$",
         "text": "The series is geometric with a common ratio of $$4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a57f999ser23a-h3",
@@ -34,6 +36,7 @@
         "text": "Is $$-1<4<1$$ True or False?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,6 +51,7 @@
         "title": "Sum of Infinite Geometric Series",
         "text": "Since $$-1<4<1$$ is F; then sum is not defined.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

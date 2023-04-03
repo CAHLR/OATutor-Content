@@ -6,7 +6,8 @@
         "title": "Finding Domain",
         "text": "First, we look to see which part of the domain our input falls in. Because $$1.5$$ is less than $$2$$, we use the first formula.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeb11eedomain12a-h2",
@@ -22,6 +23,7 @@
         "title": "Finding $$C(1.5)$$",
         "text": "What is $$C(1.5)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

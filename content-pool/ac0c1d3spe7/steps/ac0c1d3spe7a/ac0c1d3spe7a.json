@@ -4,7 +4,7 @@
         "$$b^2-14y+49$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(b-7\\right)}^2$$",
+    "stepTitle": "$$\\left(b-7\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

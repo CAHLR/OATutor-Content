@@ -6,7 +6,8 @@
         "title": "Factor the expression",
         "text": "Factoring is the process to split a product into a group of factors (a multiplication of simpler expressions).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor the expression",
         "text": "Not all terms can be factored. Factor the terms that can be split further.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h3",
@@ -28,7 +30,8 @@
         "title": "Factor the expression",
         "text": "In this case, we should factor the denominators since they can be broken into individual factors.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h4",
@@ -36,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+2\\right)}^2$$"
+            "$$\\left(x+2\\right)^2$$"
         ],
         "dependencies": [
             "a61c721rational4a-h3"
@@ -44,7 +47,8 @@
         "title": "Factor the expression",
         "text": "What does $$x^2+4x+4$$ factor to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h5",
@@ -60,7 +64,8 @@
         "title": "Factor the expression",
         "text": "What does $$x^2-4$$ factor to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h6",
@@ -71,7 +76,8 @@
         "title": "The least common multiple",
         "text": "The LCM or least common multiple of a set of numbers is the smallest positive integer that is divisible by all those numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h7",
@@ -79,7 +85,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$"
+            "$$\\left(x+2\\right)^{2\\left(x-2\\right)}$$"
         ],
         "dependencies": [
             "a61c721rational4a-h6"
@@ -87,7 +93,8 @@
         "title": "The least common multiple",
         "text": "To combine the fractions, we want to find the LCM of the denominators. What is it?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h8",
@@ -98,7 +105,8 @@
         "title": "Multiplication by $$1$$",
         "text": "We must multiple each expression by the appropriate form of $$1$$ to obtain xy as the denominator for each fraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h9",
@@ -112,9 +120,10 @@
             "a61c721rational4a-h8"
         ],
         "title": "Multiplication by $$1$$",
-        "text": "What should we multiply to $$\\frac{6}{x^2+4x+4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
+        "text": "What should we multiply to $$\\frac{6}{x^2+4x+4}$$ so that its denominator becomes $$\\left(x+2\\right)^{2\\left(x-2\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h10",
@@ -128,9 +137,10 @@
             "a61c721rational4a-h9"
         ],
         "title": "Multiplication by $$1$$",
-        "text": "What should we multiply to $$\\frac{2}{x^2-4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
+        "text": "What should we multiply to $$\\frac{2}{x^2-4}$$ so that its denominator becomes $$\\left(x+2\\right)^{2\\left(x-2\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a61c721rational4a-h11",
@@ -138,7 +148,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{4\\left(x-4\\right)}{{\\left(x+2\\right)}^{2\\left(x-2\\right)}}$$"
+            "$$\\frac{4\\left(x-4\\right)}{\\left(x+2\\right)^{2\\left(x-2\\right)}}$$"
         ],
         "dependencies": [
             "a61c721rational4a-h10"
@@ -146,6 +156,7 @@
         "title": "Adding Terms",
         "text": "Now that both terms have the same denominator, we can add their numerators. What is our final answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

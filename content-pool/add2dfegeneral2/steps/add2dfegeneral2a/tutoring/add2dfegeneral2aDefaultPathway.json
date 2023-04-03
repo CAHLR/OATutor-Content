@@ -12,6 +12,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -26,7 +27,8 @@
         "title": "GCF",
         "text": "Factor out the greatest common factor",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral2a-h3",
@@ -43,6 +45,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -58,7 +61,8 @@
         "title": "Binomial",
         "text": "Since it's a binomial, check to see whether the expression is a sum or difference.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral2a-h5",
@@ -69,7 +73,8 @@
         "title": "Difference of squares",
         "text": "Factor as the product of conjugates. $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral2a-h6",
@@ -80,6 +85,7 @@
         "title": "Check",
         "text": "Is it factored completely? Do the factors multiply back to the original polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

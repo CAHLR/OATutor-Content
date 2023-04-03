@@ -4,8 +4,9 @@
         "type": "hint",
         "dependencies": [],
         "title": "Using the Power Rule to Simplify",
-        "text": "By Power rule, $$\\ln(a^b)=\\operatorname{blog}\\left(a\\right)$$.",
+        "text": "By Power rule, $$\\ln\\left(a^b\\right)=\\operatorname{blog}\\left(a\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,6 +6,7 @@
         "title": "How to Find the Initial Value",
         "text": "The initial value is P(t) when $$t=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

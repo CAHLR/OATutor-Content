@@ -6,7 +6,8 @@
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to solve $$ln(x)=7$$. Rewrite this expression first into exponential form. Remember that the base for ln functions is e.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log16b-h2",
@@ -23,6 +24,7 @@
         "text": "What is the exponential form of $$ln(x)=7$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$e^7=x$$",
             "$$7^e=x$$",
@@ -45,6 +47,7 @@
         "text": "What is the solution for $$x$$ in the exponential equation $$e^7=x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$e^7$$",
             "$$7^e$$"

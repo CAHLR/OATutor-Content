@@ -11,7 +11,8 @@
         "title": "Counting",
         "text": "How many terms are in this polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial2d-h2",
@@ -25,6 +26,7 @@
         "title": "Principle",
         "text": "What is the highest degree in this polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

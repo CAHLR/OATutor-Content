@@ -6,6 +6,7 @@
         "title": "Properties of logorithms",
         "text": "Use the property $$\\log_{a}\\left(a\\right)$$ $$=$$ $$1$$. Thus, $$\\log_{7}\\left(7\\right)$$ $$=$$ $$1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

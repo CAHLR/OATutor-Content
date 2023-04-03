@@ -6,7 +6,8 @@
         "title": "Multiply by Common Ratio",
         "text": "To get the sequence, start with the first term and multiply it by the common ratio. Then we continue to multiply that result by the common ratio to get the next term, and so on.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric27a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiply $$-4$$ by the Common Ratio",
         "text": "What is $$\\left(-4\\right) \\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric27a-h3",
@@ -38,7 +40,8 @@
         "title": "Multiply $$8$$ by the Common Ratio",
         "text": "What is $$8\\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric27a-h4",
@@ -54,7 +57,8 @@
         "title": "Multiply $$-16$$ by the Common Ratio",
         "text": "What is $$\\left(-16\\right) \\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a18d102geometric27a-h5",
@@ -70,6 +74,7 @@
         "title": "Multiply $$32$$ by the Common Ratio",
         "text": "What is $$32\\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

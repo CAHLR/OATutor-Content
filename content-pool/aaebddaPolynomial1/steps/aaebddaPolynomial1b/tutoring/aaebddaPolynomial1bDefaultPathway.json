@@ -11,7 +11,8 @@
         "title": "Counting",
         "text": "How many terms are in this polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial1b-h2",
@@ -25,7 +26,8 @@
         "title": "Principle",
         "text": "What is the highest degree in this polynomial?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "aaebddaPolynomial1b-h2-h3",
@@ -36,7 +38,8 @@
                 "title": "Principle",
                 "text": "The degrees on different variables can be combined if they are in one term",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

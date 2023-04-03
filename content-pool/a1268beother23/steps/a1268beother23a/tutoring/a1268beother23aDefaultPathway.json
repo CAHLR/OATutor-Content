@@ -12,6 +12,7 @@
         "text": "Is the exponent of the leading term, $$x^4$$, double the exponent of the second term, $$x^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "yes",
             "no"
@@ -31,7 +32,8 @@
         "title": "Using Subsitution",
         "text": "Since the equation fits the criteria for subsitution, let $$u=x^2$$. What is the expression on the left side in terms of u?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother23a-h3",
@@ -48,6 +50,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$u=9, -1$$",
             "$$u=-9, 1$$",
@@ -64,7 +67,8 @@
         "title": "Subsituting Back In",
         "text": "The next step if to subsitute u back into $$x^2$$, and then solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother23a-h5",
@@ -81,6 +85,7 @@
         "text": "$$u=9$$, $$x=$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x=\\pm 3$$",
             "$$x=3$$",
@@ -97,6 +102,7 @@
         "title": "Solving For $$x$$",
         "text": "$$u=-1$$, $$x=\\sqrt{-1}=i$$, which is not a real number. So we ignore it here.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

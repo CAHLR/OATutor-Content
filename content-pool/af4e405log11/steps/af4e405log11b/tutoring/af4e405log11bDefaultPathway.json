@@ -6,7 +6,8 @@
         "title": "Convert to Exponential Form",
         "text": "We know that we're trying to determine $$x$$ such that $$x=\\log_{4}\\left(2\\right)$$. Rewrite this expression first into exponential form.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af4e405log11b-h2",
@@ -23,6 +24,7 @@
         "text": "What is the exponential form of $$\\log_{4}\\left(2\\right)=x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$4^x=2$$",
             "$$2^x=4$$",
@@ -45,6 +47,7 @@
         "text": "How can we rewrite $$4$$ in terms of powers of 2?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2^2$$",
             "$$2^3$$",
@@ -64,8 +67,9 @@
             "af4e405log11b-h3"
         ],
         "title": "Solve for $$x$$",
-        "text": "Substitution $$2^2$$ into the exponential equation we found before, we get $${\\left(2^2\\right)}^x=2^1$$. We can simplify this into $$2^{2x}=2^1$$. What is $$x$$?",
+        "text": "Substitution $$2^2$$ into the exponential equation we found before, we get $$\\left(2^2\\right)^x=2^1$$. We can simplify this into $$2^{2x}=2^1$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

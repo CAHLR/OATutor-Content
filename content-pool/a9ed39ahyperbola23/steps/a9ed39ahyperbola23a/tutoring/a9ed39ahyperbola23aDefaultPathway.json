@@ -6,7 +6,8 @@
         "title": "Finding \"a\"",
         "text": "The vertices are $$(0,6)$$ and $$(0,-6)$$, so $$a=6$$ and $$a^2=36$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola23a-h2",
@@ -17,7 +18,8 @@
         "title": "Finding \"c\"",
         "text": "The foci is $$(0,-8)$$, so $$c=-8$$ and $$c^2=64$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola23a-h3",
@@ -28,7 +30,8 @@
         "title": "Finding \"b\"",
         "text": "To solve for $$b^2$$ use $$b^2=c^2-a^2$$ and plug in known values $$b^2=64-36=28$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ed39ahyperbola23a-h4",
@@ -44,6 +47,7 @@
         "title": "Substitute All Values",
         "text": "Substitute $$a^2$$ and $$b^2$$ into the standard equation form, $$\\frac{y^2}{a^2}-\\frac{x^2}{b^2}=1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

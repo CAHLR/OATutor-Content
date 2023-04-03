@@ -6,7 +6,8 @@
         "title": "Find denominator",
         "text": "What's the denominator of this expression?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a08d293Rational3a-h2",
@@ -22,6 +23,7 @@
         "title": "Find radical",
         "text": "What's the relationship beweteen the index of radical and denominator ? Once that's clear, you can figure out the question easily!",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

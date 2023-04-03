@@ -12,6 +12,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -32,6 +33,7 @@
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Binomial",
             "Trinomial",
@@ -47,7 +49,8 @@
         "title": "More than three terms",
         "text": "Since there are more than three terms, factor by grouping.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral14a-h4",
@@ -58,7 +61,8 @@
         "title": "Grouping",
         "text": "By grouping, you should be left have $$6a \\left(2b-1\\right)+5\\left(2b-1\\right)$$. Group together.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "add2dfegeneral14a-h5",
@@ -69,6 +73,7 @@
         "title": "Check",
         "text": "Is it factored completely? Do the factors multiply back to the original polynomial?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Test",
         "text": "We need to test the inequality to determine the signage. Plug the point $$(0,0)$$ into the equation twice, once with the equation being $$y>2x-4$$, and once with $$y<2x-4$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbeae7inequalities8a-h2",
@@ -22,7 +23,8 @@
         "title": "Find the correct sign",
         "text": "In this case, when substituting $$(0,0)$$ into the equation, does $$y>2x-4$$ result in a true statement, or does $$y<2x-4$$.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$y<\\frac{-x}{3}-2Iy>\\frac{-x}{3}-2$$"
         ],
@@ -34,7 +36,8 @@
                 "title": "Answer",
                 "text": "The answer is $$y<\\frac{-x}{3}-2$$",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -47,7 +50,8 @@
         "title": "Determine line type",
         "text": "If the line is solid, the sign will include the values of the line. In other words, the sign will be greater than or equal to, or less than or equal to. If the line is dotted, the sign will simply be > or <.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbeae7inequalities8a-h4",
@@ -58,6 +62,7 @@
         "title": "Answer",
         "text": "Therefore, the equation for the inequality is $$y \\leq \\frac{-x}{3}-2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

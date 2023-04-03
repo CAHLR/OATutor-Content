@@ -6,7 +6,8 @@
         "title": "Absolute Value Inequality",
         "text": "For an algebraic expression X, and $$k>0$$, an absolute value inequality is an inequality of the form |X|<k is equivalent to $$-k<X<k$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq27a-h2",
@@ -23,6 +24,7 @@
         "text": "How can we apply the above principle to our problem?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-7<2x-3<7$$",
             "$$-7<2x+3<7$$",
@@ -38,7 +40,8 @@
         "title": "Simplification",
         "text": "Let's simplify the inequality by using the addition and multiplication property.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq27a-h4",
@@ -54,7 +57,8 @@
         "title": "Addition",
         "text": "What number should we add in order to isolate the variable with its coefficient in the middle?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq27a-h5",
@@ -71,6 +75,7 @@
         "text": "What do we get after we add $$-3$$ through all three parts?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-10<2x<4$$",
             "$$-4<2x<10$$",
@@ -91,7 +96,8 @@
         "title": "Multiplication",
         "text": "What number should we multiply in order to isolate the variable by itself in the middle?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq27a-h7",
@@ -107,7 +113,8 @@
         "title": "Multiplication",
         "text": "What do we get after we multiply $$\\frac{1}{2}$$ through all three parts?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq27a-h8",
@@ -118,6 +125,7 @@
         "title": "Interval Notation",
         "text": "(a,b) represents all real numbers between a and $$b$$, but not including a or $$b$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "Use the FOIL method for multiplication",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a251a50MultiplyPoly10b-h2",
@@ -22,7 +23,8 @@
         "title": "Multiplication",
         "text": "What is the first term?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a251a50MultiplyPoly10b-h3",
@@ -38,7 +40,8 @@
         "title": "Multiplication",
         "text": "What is the outer term?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a251a50MultiplyPoly10b-h4",
@@ -54,7 +57,8 @@
         "title": "Multiplication",
         "text": "What is the inner term?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a251a50MultiplyPoly10b-h5",
@@ -70,7 +74,8 @@
         "title": "Multiplication",
         "text": "What is the last term?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a251a50MultiplyPoly10b-h6",
@@ -81,6 +86,7 @@
         "title": "Principle",
         "text": "The terms with same degree of variables can add together",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Graph crosses x-axis where?",
         "text": "Find where the line in the graph crosses the x-axis.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafbadeintercepts1a-h2",
@@ -17,6 +18,7 @@
         "title": "Answer",
         "text": "The answer is $$(4,0)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

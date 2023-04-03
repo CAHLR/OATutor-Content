@@ -6,7 +6,8 @@
         "title": "Associative Property",
         "text": "The first step is to group the like terms. We can use the Associative Property to rewrite this expression as $$3+5+2i-3i$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex9a-h2",
@@ -17,7 +18,8 @@
         "title": "Combining Like Terms",
         "text": "Now, we can add numbers in the parentheses to combine like terms.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex9a-h3",
@@ -33,7 +35,8 @@
         "title": "Combining Like Terms",
         "text": "What is $$3+5$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex9a-h4",
@@ -49,7 +52,8 @@
         "title": "Combining Like Terms",
         "text": "What is 2i-3i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex9a-h5",
@@ -61,6 +65,7 @@
         "title": "Rewrite Answer",
         "text": "Finally, we can write the expression in $$a+bi$$ form: 8-i.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

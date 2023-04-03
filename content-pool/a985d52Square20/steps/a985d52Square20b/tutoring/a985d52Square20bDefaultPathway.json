@@ -6,7 +6,8 @@
         "title": "Equation in Standard Form",
         "text": "Since the equation is already in standard form, we can identify the a, $$b$$, and c values based on $$a x^2+b x+c=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square20b-h2",
@@ -17,7 +18,8 @@
         "title": "Plugging Into Quadratic Formula",
         "text": "Write the quadratic formula. Then substitute in the value of a, $$b$$, and c.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a985d52Square20b-h3",
@@ -34,6 +36,7 @@
         "text": "Simplify the fraction and solve for the variable. What are the value(s) of the variable?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$3$$ and $$-6$$",
             "$$4$$ and $$2$$",

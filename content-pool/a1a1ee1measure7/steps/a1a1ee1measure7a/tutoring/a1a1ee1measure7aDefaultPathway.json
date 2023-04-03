@@ -6,7 +6,8 @@
         "title": "Identity property of multiplication",
         "text": "We will convert kilometers to meters using the identity property of multiplication.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure7a-h2",
@@ -17,7 +18,8 @@
         "title": "Convert",
         "text": "Multiply the measurement to be converted by 1; write $$1$$ as a fraction relating the units given and the units needed.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure7a-h3",
@@ -33,7 +35,8 @@
         "title": "Convert",
         "text": "How many meters are in one kilometer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure7a-h4",
@@ -44,7 +47,8 @@
         "title": "Multiply",
         "text": "Multiply 10K by $$1000$$ $$\\frac{meters}{1}$$ kilometer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure7a-h5",
@@ -60,6 +64,7 @@
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

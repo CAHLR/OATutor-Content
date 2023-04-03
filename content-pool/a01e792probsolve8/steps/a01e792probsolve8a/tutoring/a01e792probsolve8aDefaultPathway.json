@@ -6,7 +6,8 @@
         "title": "Translate words to expressions",
         "text": "The first step is to translate the relationship between the $$2014$$ and $$1975$$ cost in terms of a mathematical equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h2",
@@ -17,7 +18,8 @@
         "title": "Define the variable for the $$1975$$ cost",
         "text": "Let $$x$$ $$=$$ average cost of car in $$1975$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h3",
@@ -33,7 +35,8 @@
         "title": "Write the $$2014$$ cost in terms of the $$1975$$ cost",
         "text": "What is six times the amount the husband earns?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h4",
@@ -49,7 +52,8 @@
         "title": "Write the $$2014$$ cost in terms of the $$1975$$ cost",
         "text": "What is $$1500$$ less than the previous answer?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h5",
@@ -65,7 +69,8 @@
         "title": "Write the $$2014$$ cost in terms of the $$1975$$ cost",
         "text": "What should $$6x-1500$$ be equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h6",
@@ -76,7 +81,8 @@
         "title": "Solving the equation",
         "text": "The last step is to solve for $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve8a-h7",
@@ -93,6 +99,7 @@
         "text": "What should we do to both sides of the equation in order to isolate $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Divide by $$6$$, add $$1500$$",
             "Add $$1500$$, divide by $$6$$",

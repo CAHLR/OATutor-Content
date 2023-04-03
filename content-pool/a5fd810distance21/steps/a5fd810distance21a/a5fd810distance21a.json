@@ -4,7 +4,7 @@
         "Center: $$(0,-2)$$, Radius: $$5$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x^2+{\\left(y+2\\right)}^2=25$$",
+    "stepTitle": "$$x^2+\\left(y+2\\right)^2=25$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "Write a 2x2 determinant with the coefficients of $$x$$ and $$y$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant11a-h2",
@@ -17,7 +18,8 @@
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant11a-h3",
@@ -33,7 +35,8 @@
         "title": "Calculation",
         "text": "What is $$-24-(-24)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant11a-h4",
@@ -44,7 +47,8 @@
         "title": "Principle",
         "text": "Replace the $$x$$ coefficient with the constants",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant11a-h5",
@@ -55,7 +59,8 @@
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant for Dx",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant11a-h6",
@@ -71,6 +76,7 @@
         "title": "Calculation",
         "text": "What is $$-48-(-42)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

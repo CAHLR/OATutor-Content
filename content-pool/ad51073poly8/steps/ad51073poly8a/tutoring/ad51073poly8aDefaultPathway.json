@@ -6,7 +6,8 @@
         "title": "Decompose",
         "text": "Use Fraction Multiplication: $$\\frac{30}{48} \\frac{a^5}{a^{10}} \\frac{b^{11}}{b^{14}}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073poly8a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{30}{48} \\frac{a^5}{a^{10}} \\frac{b^{11}}{b^{14}}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073poly8a-s1",
@@ -36,7 +38,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{30}{48}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073poly8a-s2",
@@ -50,7 +53,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{a^5}{a^{10}}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad51073poly8a-s3",
@@ -64,6 +68,7 @@
         "title": "Simplify",
         "text": "What is $$\\frac{b^{11}}{b^{14}}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

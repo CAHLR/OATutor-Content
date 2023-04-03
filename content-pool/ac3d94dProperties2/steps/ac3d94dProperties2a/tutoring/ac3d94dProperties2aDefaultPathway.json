@@ -6,7 +6,8 @@
         "title": "Associative Property of Addition",
         "text": "The associative property of addition states that if a, $$b$$, c are real numbers, then $$a+b+c=a+b+c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties2a-h2",
@@ -17,7 +18,8 @@
         "title": "Regroup",
         "text": "Using the associative property, we can regroup the numeric terms together: $$y+12+28$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties2a-h3",
@@ -33,7 +35,8 @@
         "title": "Addition",
         "text": "What is $$12+28$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties2a-h4",
@@ -44,6 +47,7 @@
         "title": "Final Answer",
         "text": "So the final answer is $$y+40$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

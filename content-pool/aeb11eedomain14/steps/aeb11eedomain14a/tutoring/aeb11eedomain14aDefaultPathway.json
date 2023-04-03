@@ -12,6 +12,7 @@
         "text": "Are there any restrictions on the values we can subsitute for $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -32,6 +33,7 @@
         "text": "If there are no restrictions, then what is the domain?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x \\geq 0$$",
             "$$x<0$$",

@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "The addition and subtraction can only happen in the term with same degree",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial10a-h2",
@@ -15,7 +16,8 @@
         "title": "Organizing",
         "text": "It has the common terms of $$x^2$$, $$x$$, and constant",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial10a-h3",
@@ -29,7 +31,8 @@
         "title": "Addition",
         "text": "What is $$7+1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial10a-h4",
@@ -43,7 +46,8 @@
         "title": "Addition",
         "text": "What is $$\\left(-4\\right)+\\left(-7\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial10a-h5",
@@ -57,7 +61,8 @@
         "title": "Addition",
         "text": "What is $$5+3$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaebddaPolynomial10a-h6",
@@ -66,6 +71,7 @@
         "title": "Addition",
         "text": "Add all the terms up",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

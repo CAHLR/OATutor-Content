@@ -6,7 +6,8 @@
         "title": "Factor",
         "text": "In this equation $${ax}^2+bx+c$$ the square root of a is $$5$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor22a-h2",
@@ -17,7 +18,8 @@
         "title": "Factor Pt2.",
         "text": "In the form $$\\left(px+o\\right) \\left(mx+n\\right)$$. To solve for o and $$n$$, they must multiply to the constant in the original equation and $$pn+om$$ is equal to $$b$$ in $${ax}^2+bx+c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor22a-h3",
@@ -33,7 +35,8 @@
         "title": "Solve",
         "text": "What are the values of o and $$n$$? (Give answer with coma inbetween with the larger number first Ex. 4,2)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a104861trifactor22a-h4",
@@ -42,6 +45,7 @@
         "title": "Plug in",
         "text": "Plug in the calculated values into the simplified form",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Interchange the variables $$x$$ and $$y$$",
         "text": "Replace $$x$$ with $$y$$ and then $$y$$ with $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv20a-h2",
@@ -17,7 +18,8 @@
         "title": "What's the equation after replacing $$x$$ with $$y$$ and $$y$$ with $$x$$",
         "text": "$$x$$ $$=$$ $$5y-3$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv20a-h3",
@@ -28,7 +30,8 @@
         "title": "Solve for $$y$$",
         "text": "Solve for $$y$$ and find the result.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9e42b3CompInv20a-h4",
@@ -39,6 +42,7 @@
         "title": "Solve for $$y$$",
         "text": "We can add $$3$$ from each side then divide by $$5$$. It gives us $$y$$ $$=$$ $$\\frac{x-3}{5}$$. We can further simplify it into $$y$$ $$=$$ $$\\frac{x}{5}+\\frac{3}{5}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

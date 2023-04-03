@@ -6,7 +6,8 @@
         "title": "Square Root",
         "text": "Take the +/- square root of both sides: $$x=\\pm \\sqrt{8}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad11a-h2",
@@ -22,7 +23,8 @@
         "title": "Square Root",
         "text": "What is $$\\pm \\sqrt{8}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a20771equad11a-h3",
@@ -33,6 +35,7 @@
         "title": "Square Root",
         "text": "$$\\sqrt{4}=2$$, and $$\\frac{8}{4}=2$$, so $$\\sqrt{8}=2\\sqrt{2}$$. Remember to take the +/- values.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

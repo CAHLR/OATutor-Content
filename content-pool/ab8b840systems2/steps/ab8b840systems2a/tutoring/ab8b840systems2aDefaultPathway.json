@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute the ordered pair $$(8,5)$$ into the 1st equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems2a-h2",
@@ -22,7 +23,8 @@
         "title": "Substitution",
         "text": "What does $$5(8)-4(5)$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems2a-h3",
@@ -39,6 +41,7 @@
         "text": "Does $$20$$ $$=$$ 20?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"
@@ -53,7 +56,8 @@
         "title": "Substitution",
         "text": "Substitute the ordered pair $$(8,5)$$ into 2nd equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems2a-h5",
@@ -69,7 +73,8 @@
         "title": "Substitution",
         "text": "What does $$2\\left(8\\right)+1$$ equal?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems2a-h6",
@@ -86,6 +91,7 @@
         "text": "Does 3(5) $$=$$ 17?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "TRUE",
             "FALSE"

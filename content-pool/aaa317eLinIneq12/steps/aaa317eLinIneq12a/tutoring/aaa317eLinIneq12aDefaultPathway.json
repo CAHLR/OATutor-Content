@@ -6,7 +6,8 @@
         "title": "Addition Property",
         "text": "The addition property of inequality: if $$a \\leq b$$, then $$a+c \\leq b+c$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h2",
@@ -22,7 +23,8 @@
         "title": "Apply the Addition Property",
         "text": "What number should we add to both sides of the inequality to isolate the variable term?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h3",
@@ -38,7 +40,8 @@
         "title": "Left side After Addition",
         "text": "What is the left side after adding 7?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h4",
@@ -54,7 +57,8 @@
         "title": "Right side After Addition",
         "text": "What is the right side after adding 7?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h5",
@@ -66,7 +70,8 @@
         "title": "Multiplication Property",
         "text": "The multiplication property of inequality: If $$a \\leq b$$ and $$c>0$$, then $$ac \\leq bc;$$ if $$a \\leq b$$ and $$c<0$$, then $$ac \\geq bc$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h6",
@@ -82,7 +87,8 @@
         "title": "Apply the Multiplication Property",
         "text": "What number should we multiply to both sides of the inequality?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h7",
@@ -98,7 +104,8 @@
         "title": "Left Side",
         "text": "What is the left side after multiplying $$\\frac{1}{4}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h8",
@@ -114,7 +121,8 @@
         "title": "Right Side",
         "text": "What is the right side after multiplying by $$\\frac{1}{4}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq12a-h9",
@@ -131,6 +139,7 @@
         "text": "What is the sign?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$ \\leq $$",
             "$$ \\geq $$"
@@ -153,6 +162,7 @@
         "text": "What is $$x \\leq 4$$ written in the interval notation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$[-\\infty,4]$$",
             "$$(-\\infty,4]$$",

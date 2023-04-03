@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "Write the matrix in determinant form",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant1b-h2",
@@ -17,7 +18,8 @@
         "title": "Calculation",
         "text": "Subtract the products of the diagonals",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant1b-h3",
@@ -33,6 +35,7 @@
         "title": "Calculation",
         "text": "What is $$0\\left(-3\\right)-\\left(-4\\right) \\left(-2\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

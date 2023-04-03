@@ -6,7 +6,8 @@
         "title": "Substitution",
         "text": "Substitute $$n=1$$ into the formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences18a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplification",
         "text": "Calculate the expression $$\\frac{{\\left(-1\\right)}^1 1^2}{1+1}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences18a-h3",
@@ -33,7 +35,8 @@
         "title": "Calculate the numerator",
         "text": "What is $${\\left(-1\\right)}^1 1^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences18a-h4",
@@ -49,7 +52,8 @@
         "title": "Calculate the denominator",
         "text": "What is $$1+1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences18a-h5",
@@ -60,6 +64,7 @@
         "title": "Putting It Together",
         "text": "Put the numerator and denominator together to create a fraction",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

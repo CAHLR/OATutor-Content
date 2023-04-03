@@ -11,7 +11,8 @@
         "title": "Square Root",
         "text": "What is the square root $$81x^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses12a-s2",
@@ -25,7 +26,8 @@
         "title": "Square Root",
         "text": "What is the square root of 100?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses12a-h2",
@@ -34,7 +36,8 @@
         "title": "Difference of Squares",
         "text": "Remember: The Difference of Squares formula is $$\\left(a-b\\right) \\left(a+b\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses12a-h3",
@@ -45,6 +48,7 @@
         "title": "Variable Values",
         "text": "The value of a is $$9x$$ and the value of $$b$$ is $$10$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

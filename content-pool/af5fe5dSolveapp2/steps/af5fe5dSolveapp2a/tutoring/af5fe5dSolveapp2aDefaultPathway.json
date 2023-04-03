@@ -11,7 +11,8 @@
         "title": "Find LCD",
         "text": "What is the least common denominator of $$\\frac{56}{72}$$ and $$\\frac{y}{9}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af5fe5dSolveapp2a-h2",
@@ -22,7 +23,8 @@
         "title": "Multiply LCD Both Sides",
         "text": "Through multiplying both sides by LCD, we get $$56=8y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af5fe5dSolveapp2a-h3",
@@ -33,6 +35,7 @@
         "title": "Isolate $$y$$ on One side",
         "text": "We can divide by $$8$$ on both sides and get $$y=7$$ as the final answer.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

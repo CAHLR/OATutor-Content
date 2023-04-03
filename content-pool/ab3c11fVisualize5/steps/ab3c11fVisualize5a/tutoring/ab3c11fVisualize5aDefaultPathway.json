@@ -6,7 +6,8 @@
         "title": "Defining Simplified Fraction",
         "text": "A fraction is considered simplified if there are no common factors in its numerator and denominator.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize5a-h2",
@@ -17,7 +18,8 @@
         "title": "Finding Common Factors",
         "text": "If we find the common factor of the numerator and the denominator, we can easily use the equivalent fractions property to simplify the fraction.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize5a-h3",
@@ -28,7 +30,8 @@
         "title": "Finding Common Factors",
         "text": "By observing the numerator and the denominator, we find the common factor to be $$5$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab3c11fVisualize5a-h4",
@@ -44,6 +47,7 @@
         "title": "Dividing Common Factors",
         "text": "Dividing out $$5$$ from both the top and the bottom. What simplified fraction do you get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

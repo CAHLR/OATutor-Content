@@ -6,7 +6,8 @@
         "title": "Factoring Rules",
         "text": "When we factor the same term over a fraction, we can subtract the top exponent from the bottom exponent.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ade3dRadicals2a-h2",
@@ -22,6 +23,7 @@
         "title": "Simplifying Expression",
         "text": "If we factor the terms, what will our answer be?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

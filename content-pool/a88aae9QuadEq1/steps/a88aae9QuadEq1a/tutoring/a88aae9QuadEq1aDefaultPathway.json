@@ -6,7 +6,8 @@
         "title": "Quadratic Formula",
         "text": "Remember the Quadratic Formula, $$\\frac{\\left(-b\\pm \\sqrt{b^2-4ac}\\right)}{2a}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a88aae9QuadEq1a-h2",
@@ -22,7 +23,8 @@
         "title": "Quadratic Formula",
         "text": "What is \"a\" in our equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a88aae9QuadEq1a-h3",
@@ -38,7 +40,8 @@
         "title": "Quadratic Formula",
         "text": "What is \"b\" in our equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a88aae9QuadEq1a-h4",
@@ -54,7 +57,8 @@
         "title": "Quadratic Formula",
         "text": "What is \"c\" in our equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a88aae9QuadEq1a-h5",
@@ -70,6 +74,7 @@
         "title": "Solution",
         "text": "With our \"a\", \"b\", and \"c\", what number will we get once we plug these into the quadratic formula?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

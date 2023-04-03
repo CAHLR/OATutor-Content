@@ -6,7 +6,8 @@
         "title": "Writing Two Equations",
         "text": "The first step is to rewrite the absolute value equation into two equations, $$6x+4=8$$ and $$6x+4=-8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother19a-h2",
@@ -22,7 +23,8 @@
         "title": "Solving Equation One",
         "text": "$$6x+4=8$$, $$x=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother19a-h3",
@@ -38,7 +40,8 @@
         "title": "Solving Equation Two",
         "text": "$$6x+4=-8$$, $$x=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1268beother19a-h4",
@@ -50,6 +53,7 @@
         "title": "Final Answer",
         "text": "The answers to the first and second equations are the answer to the original absolute value equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Largest Perfect Factor",
         "text": "Find the largest perfect factor inside the root and separate it from the other term.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ade3dRadicals19a-h2",
@@ -22,7 +23,8 @@
         "title": "Largest Perfect Factor",
         "text": "What is the largest perfect factor in the root?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ade3dRadicals19a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring",
         "text": "After we find the largest perfect factor, we can rewrite the radical as the product of two roots.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ade3dRadicals19a-h4",
@@ -44,7 +47,8 @@
         "title": "Factoring",
         "text": "After we separate the two factors, we can take the root of our perfect factor.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ade3dRadicals19a-h5",
@@ -60,6 +64,7 @@
         "title": "Simplifying Expression",
         "text": "If we factor the terms, what will our answer be?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

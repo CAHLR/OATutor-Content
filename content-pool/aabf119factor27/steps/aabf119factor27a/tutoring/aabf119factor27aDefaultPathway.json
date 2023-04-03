@@ -6,7 +6,8 @@
         "title": "Perfect Square Trinomial",
         "text": "A perfect square trinomial has the form $$a^2+2ab+b^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor27a-h2",
@@ -22,7 +23,8 @@
         "title": "Square Root of $$225$$",
         "text": "What is the square root of 225?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor27a-h3",
@@ -38,7 +40,8 @@
         "title": "Square Root of $$16$$",
         "text": "What is the square root of 16?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor27a-h4",
@@ -54,7 +57,8 @@
         "title": "2ab",
         "text": "What is the product of 2ab?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aabf119factor27a-h5",
@@ -71,6 +75,7 @@
         "text": "Is the expression a perfect square trinomial?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -83,8 +88,9 @@
             "aabf119factor27a-h5"
         ],
         "title": "Factoring a Square Trinomial",
-        "text": "A perfect square trinomial with the form $$a^2+2ab+b^2$$ can be factored as $${\\left(a+b\\right)}^2$$.",
+        "text": "A perfect square trinomial with the form $$a^2+2ab+b^2$$ can be factored as $$\\left(a+b\\right)^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

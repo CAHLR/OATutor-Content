@@ -6,7 +6,8 @@
         "title": "Finding the first term",
         "text": "Multiply $$a_1$$ by $$r$$ to find $$a_2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric4a-h2",
@@ -17,7 +18,8 @@
         "title": "Continue",
         "text": "Continue this process to find all terms, multiplying each term by $$r$$ to get the next one.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab6a46ageometric4a-h3",
@@ -28,6 +30,7 @@
         "title": "Answer",
         "text": "Therefore, the answer is: 5,-10,20,-40",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Identifying Square Root",
         "text": "$$7^2=49$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af1a2a0roots5a-h2",
@@ -23,6 +24,7 @@
         "text": "The negative is in front of the radical sign. What is the simplified expression?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-4$$",
             "$$-7$$",

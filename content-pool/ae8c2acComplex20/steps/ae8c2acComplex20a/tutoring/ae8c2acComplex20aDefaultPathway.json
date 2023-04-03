@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "We can use the distributive property to simplify our equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex20a-h2",
@@ -22,7 +23,8 @@
         "title": "Distributive Property",
         "text": "What will our expression look like after distributing?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex20a-h3",
@@ -38,7 +40,8 @@
         "title": "Squaring i",
         "text": "If $$i^2=-1$$, what will $$-6i-12i^2$$ be when we simplify i?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae8c2acComplex20a-h4",
@@ -54,6 +57,7 @@
         "title": "Solution",
         "text": "What will our final expression be after simplifying?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "$$64a^3-48a^2 b+12{ab}^2-b^3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(4a-b\\right)}^3$$",
+    "stepTitle": "$$\\left(4a-b\\right)^3$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

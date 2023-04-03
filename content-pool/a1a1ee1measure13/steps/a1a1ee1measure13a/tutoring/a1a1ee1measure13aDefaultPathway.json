@@ -6,7 +6,8 @@
         "title": "Convert",
         "text": "Multiply by a unit conversion factor relating km and mi.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure13a-h2",
@@ -22,7 +23,8 @@
         "title": "Convert",
         "text": "How many km are in one mile?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure13a-h3",
@@ -33,7 +35,8 @@
         "title": "Multiply",
         "text": "Multiply $$100$$ km by $$1$$ $$\\frac{mile}{1.61}$$ km (km should be in the denominator so that km will divide out).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure13a-h4",
@@ -49,6 +52,7 @@
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

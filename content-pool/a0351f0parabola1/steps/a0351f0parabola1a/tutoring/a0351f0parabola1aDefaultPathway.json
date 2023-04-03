@@ -6,7 +6,8 @@
         "title": "Find form",
         "text": "The focus has the form (p,0), so the equation will have the form $$y^2=4px$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a0351f0parabola1a-h2",
@@ -22,7 +23,8 @@
         "title": "Find $$4p$$",
         "text": "Now, solve for $$4p$$. This can be done by finding $$p$$ and multiplying by $$4$$.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola1a-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Answer",
                 "text": "The answer is $$-2$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -49,7 +52,8 @@
         "title": "Substitute",
         "text": "Finally, plug $$4p$$ into the $$y^2=4px$$ equation. What is the final equation?(do not simplify your answer)",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a0351f0parabola1a-h3-s1",
@@ -58,7 +62,8 @@
                 "title": "Answer",
                 "text": "The answer is $$y^2=-2x$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -71,6 +76,7 @@
         "title": "Answer",
         "text": "Therefore, the final answer is $$y^2=-2x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

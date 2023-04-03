@@ -6,7 +6,8 @@
         "title": "Absolute Value Inequalities",
         "text": "$$|X| \\leq k$$ is equivalent to $$-k \\leq X \\leq k$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq10a-h2",
@@ -17,7 +18,8 @@
         "title": "Applying the Formula for Absolute Value Inequalities",
         "text": "The inequality can be rewritten as $$-3 \\leq x-1 \\leq 3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq10a-h3",
@@ -28,7 +30,8 @@
         "title": "Solve Compound Inequality",
         "text": "We can solve the compound inequality by simply add $$1$$ to all three parts.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aaa317eLinIneq10a-h4",
@@ -45,6 +48,7 @@
         "text": "What is the inequality?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-4 \\leq x \\leq 2$$",
             "$$-2 \\leq x \\leq 4$$"
@@ -65,6 +69,7 @@
         "text": "What is $$-2 \\leq x \\leq 4$$ written in the interval notation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$[-2,4]$$",
             "$$(-2,4)$$"

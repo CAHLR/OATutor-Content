@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute $$h^2$$ into g(x). Do this by replacing every $$x$$ in the function with $$h^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acebb4dfunctions7a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplify",
         "text": "Simplify the equation as much as possible.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

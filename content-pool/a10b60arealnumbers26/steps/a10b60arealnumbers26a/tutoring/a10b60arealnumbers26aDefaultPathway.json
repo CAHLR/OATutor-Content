@@ -6,7 +6,8 @@
         "title": "Question Simplification",
         "text": "What number to the power of $$4$$ is 81?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a10b60arealnumbers26a-h2",
@@ -17,6 +18,7 @@
         "title": "Finding the Root",
         "text": "$$3^4=81$$, so our answer is $$3$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

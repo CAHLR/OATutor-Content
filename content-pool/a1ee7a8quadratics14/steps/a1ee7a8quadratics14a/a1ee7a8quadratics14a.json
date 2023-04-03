@@ -4,7 +4,7 @@
         "$$x=\\pm \\sqrt{7}$$, $$x=\\pm \\sqrt{5}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x^2-4\\right)}^2-4\\left(x^2-4\\right)+3=0$$",
+    "stepTitle": "$$\\left(x^2-4\\right)^2-4\\left(x^2-4\\right)+3=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

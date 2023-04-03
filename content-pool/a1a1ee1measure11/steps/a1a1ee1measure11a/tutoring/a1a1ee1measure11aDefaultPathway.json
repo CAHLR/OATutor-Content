@@ -6,7 +6,8 @@
         "title": "Triple",
         "text": "We will find the amount of olive oil in millileters then convert to liters.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure11a-h2",
@@ -22,7 +23,8 @@
         "title": "Triple",
         "text": "What do we get after tripling $$150$$ mL (in mL)?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure11a-h3",
@@ -33,7 +35,8 @@
         "title": "Convert",
         "text": "Multiply by $$1$$, writing $$1$$ as a fraction relating mL to L.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure11a-h4",
@@ -49,7 +52,8 @@
         "title": "Convert",
         "text": "How many mL are in one liter?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure11a-h5",
@@ -60,7 +64,8 @@
         "title": "Multiply",
         "text": "Multiply $$450$$ mL by $$1$$ $$\\frac{L}{1000}$$ mL (mL should be in the denominator so that mL will divide out).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1a1ee1measure11a-h6",
@@ -76,6 +81,7 @@
         "title": "Multiply",
         "text": "What do we get after the multiplication?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

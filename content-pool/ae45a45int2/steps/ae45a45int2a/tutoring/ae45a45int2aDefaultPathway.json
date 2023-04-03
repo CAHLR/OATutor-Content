@@ -6,7 +6,8 @@
         "title": "Order of Operation",
         "text": "Start with the operation in the parenthesis",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int2a-h2",
@@ -17,7 +18,8 @@
         "title": "Absolute Values",
         "text": "Simplify the value in the absolute value bars further by subtracting $$8$$ from $$11$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int2a-h3",
@@ -33,7 +35,8 @@
         "title": "Absolute Values Principle",
         "text": "What is |6|?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int2a-h4",
@@ -44,7 +47,8 @@
         "title": "Absolute Values Principle",
         "text": "The number within absolute sign will always be positive",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ae45a45int2a-h5",
@@ -60,6 +64,7 @@
         "title": "Magnitude of Number",
         "text": "What is the magitude of 6?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

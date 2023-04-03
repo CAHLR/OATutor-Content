@@ -6,7 +6,8 @@
         "title": "Assumption",
         "text": "Assume one number is $$m$$ and the other is $$n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation1a-h2",
@@ -17,7 +18,8 @@
         "title": "Translation",
         "text": "Converting the first statement to $$m+n=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation1a-h3",
@@ -28,7 +30,8 @@
         "title": "Translation",
         "text": "Converting the second statement to $$m-n=9$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation1a-h4",
@@ -40,7 +43,8 @@
         "title": "Addition",
         "text": "Combining the two equation together",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation1a-h5",
@@ -56,7 +60,8 @@
         "title": "Calculation",
         "text": "What is the value of $$m$$ when $$2m=9$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4edf7dEquation1a-h6",
@@ -67,6 +72,7 @@
         "title": "Calculation",
         "text": "Find the value of $$n$$ with the known value of $$m$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

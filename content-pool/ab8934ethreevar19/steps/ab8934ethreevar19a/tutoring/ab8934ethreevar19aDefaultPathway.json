@@ -6,7 +6,8 @@
         "title": "Simplifying the System",
         "text": "Multiply all $$3$$ equations by $$2$$ to remove the fraction. Then rearrange the equation so all variables are on one side and constants on the other.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h2",
@@ -22,7 +23,8 @@
         "title": "Breakding Down the Equations",
         "text": "Multiply equation (1) by $$2$$ and add it to equation (2).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h3",
@@ -38,7 +40,8 @@
         "title": "Breakding Down the Equations",
         "text": "Subtract equation (2) from (3)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h4",
@@ -54,7 +57,8 @@
         "title": "Simplified Variable Expression",
         "text": "Using the last expression, rearrange to solve for an expression for $$y$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h5",
@@ -70,7 +74,8 @@
         "title": "Solving for $$x$$",
         "text": "Plug-in the expression for $$y$$ into one of the two broken down equations. Then solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h6",
@@ -86,7 +91,8 @@
         "title": "Solving for $$y$$",
         "text": "Plug-in the value for $$x$$ into one of the two broken down equations and solve for $$y$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar19a-h7",
@@ -102,6 +108,7 @@
         "title": "Solveing for $$x$$",
         "text": "Plug in the values for $$x$$ and $$y$$ into any of the $$3$$ original equations and solve for $$z$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

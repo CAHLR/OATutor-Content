@@ -6,7 +6,8 @@
         "title": "Multiply a Decimal by a Power of Ten.",
         "text": "Move the decimal point to the right the same number of places as the number of zeros in the power of $$10$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals17c-h2",
@@ -22,7 +23,8 @@
         "title": "Number of Zeros",
         "text": "How many zeros are there in 1000?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals17c-h3",
@@ -33,7 +35,8 @@
         "title": "Adding Zeros",
         "text": "We can add zeros to the end of the number as needed.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ad4e7e2decimals17c-h4",
@@ -49,6 +52,7 @@
         "title": "Answer",
         "text": "What number do you get when you move the decimal point in $$5.63$$ to the right by three decimal places and adding zero(s) as needed?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

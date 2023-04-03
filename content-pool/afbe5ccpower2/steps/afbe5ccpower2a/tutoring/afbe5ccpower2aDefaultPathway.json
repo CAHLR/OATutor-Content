@@ -6,7 +6,8 @@
         "title": "Identifying Traits of the Function",
         "text": "The coefficient is $$-1$$ (negative) and the exponent of the power function is 3( an odd number)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower2a-h2",
@@ -17,7 +18,8 @@
         "title": "Behavior of the Function as $$x$$ approaches $$\\infty$$",
         "text": "As $$x$$ approaches $$\\infty$$, the output (value of f(x)) decreases without bound",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "afbe5ccpower2a-h3",
@@ -28,6 +30,7 @@
         "title": "Graphically represent the power function",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Excluded values",
         "text": "The excluded values are those making a denominator equal to zero.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h2",
@@ -17,7 +18,8 @@
         "title": "Denominator",
         "text": "The denominators are $$x-2$$, $$x+1$$ and $$x^2-x-2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h3",
@@ -28,7 +30,8 @@
         "title": "Excluded values",
         "text": "The excluded values are $$2$$ and $$-1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h4",
@@ -39,7 +42,8 @@
         "title": "Factoring the denominator",
         "text": "The three denominators in factored form are $$x-2$$, $$x+1$$ and $$\\left(x-2\\right) \\left(x+1\\right)$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h5",
@@ -50,7 +54,8 @@
         "title": "Find LCD",
         "text": "The LCD is the smallest expression that is divisible by each one of the denominators.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h6",
@@ -66,7 +71,8 @@
         "title": "LCD",
         "text": "What is the LCD of this equation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h7",
@@ -82,7 +88,8 @@
         "title": "Eliminating",
         "text": "Simplify $$\\left(x-2\\right) \\left(x+1\\right) \\left(\\frac{2}{x-2}+\\frac{1}{x+1}\\right)=\\left(x-2\\right) \\left(x+1\\right) \\frac{1}{x^2-x-2}$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h8",
@@ -93,7 +100,8 @@
         "title": "Solve equation",
         "text": "Then we should solve the linear equation obtained.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a2d8720LinEqua14a-h9",
@@ -109,6 +117,7 @@
         "title": "Linear equation",
         "text": "Solve the equation $$2x+2+x-2=1$$. What is $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

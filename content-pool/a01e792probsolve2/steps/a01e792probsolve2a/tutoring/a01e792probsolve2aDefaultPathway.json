@@ -6,7 +6,8 @@
         "title": "Setting up the equation",
         "text": "The first step is to rewrite the statement as a mathematical equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve2a-h2",
@@ -23,6 +24,7 @@
         "text": "How can we express three consective even integers?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "n,n+1,n+2",
             "n,n+3,n+5",
@@ -43,7 +45,8 @@
         "title": "Difference between two consecutive even numbers.",
         "text": "What is $$6-4$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve2a-h4",
@@ -59,7 +62,8 @@
         "title": "Difference between two consecutive even numbers.",
         "text": "What is $$98-96$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve2a-h5",
@@ -75,7 +79,8 @@
         "title": "Generalization about the difference between two consecutive even numbers",
         "text": "Based on the examples above, what is the difference between any two consecutive even numbers?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve2a-h6",
@@ -91,7 +96,8 @@
         "title": "Total sum",
         "text": "What should the numbers add up to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a01e792probsolve2a-h7",
@@ -102,6 +108,7 @@
         "title": "Solve for $$n$$",
         "text": "The next step is to solve for $$n$$ and find the three consecutive even numbers.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

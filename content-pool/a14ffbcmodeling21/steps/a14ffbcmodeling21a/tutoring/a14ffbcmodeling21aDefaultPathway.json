@@ -11,7 +11,8 @@
         "title": "Square Root",
         "text": "What is the square root of $$x$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a14ffbcmodeling21a-h2",
@@ -27,6 +28,7 @@
         "title": "Multiplying Values",
         "text": "What value multiplied by $$x$$ will give you $$y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

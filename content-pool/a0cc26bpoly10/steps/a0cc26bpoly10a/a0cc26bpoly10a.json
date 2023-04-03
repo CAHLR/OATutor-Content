@@ -4,7 +4,7 @@
         "$$16x^2-8x+1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Expand $${\\left(4x-1\\right)}^2$$",
+    "stepTitle": "Expand $$\\left(4x-1\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

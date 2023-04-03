@@ -6,7 +6,8 @@
         "title": "Writing the Problem Algebraically",
         "text": "Substitute the values for $$h$$ and $$t$$ into the projectile motion formula $$h$$ $$=$$ $$-16t^2$$ + $$vo t$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h2",
@@ -22,7 +23,8 @@
         "title": "Writing the Problem Algebraically",
         "text": "What is vo, the initial velocity, in $$\\frac{ft}{s}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h3",
@@ -38,7 +40,8 @@
         "title": "Writing the Problem Algebraically",
         "text": "What is $$h$$, the height to reach, in ft?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h4",
@@ -49,7 +52,8 @@
         "title": "Quadratic Formula",
         "text": "We can rewrite this equation in the format $$a t^2$$ + $$b t$$ + c $$=$$ $$0$$ to use the quadratic formula",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h5",
@@ -65,7 +69,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of a if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h6",
@@ -81,7 +86,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of $$b$$ if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h7",
@@ -97,7 +103,8 @@
         "title": "Quadratic Formula",
         "text": "What is the value of c if we rewrite the problem above?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h8",
@@ -108,7 +115,8 @@
         "title": "Quadratic Formula",
         "text": "If you have an equation in the form $$a t^2$$ + $$b t$$ + c $$=$$ $$0$$, $$t$$ $$=$$ (-b~sqrt(b**2 -4ac))/(2a)",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a28722cappquad7a-h9",
@@ -119,6 +127,7 @@
         "title": "Quadratic Formula",
         "text": "The quadratic formula may yield two positive answers. If this is the case, choose the lower value because we want to find the time it takes to initially reach $$260$$ ft",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

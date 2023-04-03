@@ -4,7 +4,7 @@
         "$$1000$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\ln(x)=3$$",
+    "stepTitle": "$$\\ln\\left(x\\right)=3$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

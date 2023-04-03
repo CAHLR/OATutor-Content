@@ -6,7 +6,8 @@
         "title": "Organizing",
         "text": "Rewrite the equation into the form $$d=$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h2",
@@ -15,7 +16,8 @@
         "title": "Distributive Property I",
         "text": "Use the distributive property to multiply $$9\\left(14d+9\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h3",
@@ -31,7 +33,8 @@
         "title": "Multiplication",
         "text": "What is $$9\\left(14d+9\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h4",
@@ -40,7 +43,8 @@
         "title": "Distributive Property II",
         "text": "Use the distributive property to multiple $$\\operatorname{13}\\left(10d+6\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h5",
@@ -56,7 +60,8 @@
         "title": "Multiplication",
         "text": "What is $$\\operatorname{13}\\left(10d+6\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h6",
@@ -65,7 +70,8 @@
         "title": "Simplify",
         "text": "Once you get the equation $$126d+81+4d=130d+78+3$$, simplify each side as much possible",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h7",
@@ -81,7 +87,8 @@
         "title": "Addition",
         "text": "Simplify $$126d+81+4d$$ as much as possible",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h8",
@@ -97,7 +104,8 @@
         "title": "Addition",
         "text": "Simplify $$130d+78+3$$ as much as possible",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8b6b9fLinear25a-h9",
@@ -106,6 +114,7 @@
         "title": "Classifying the Equation",
         "text": "Determine if the equation contradicts itself, or only valid under certain condition",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

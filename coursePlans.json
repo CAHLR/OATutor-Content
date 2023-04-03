@@ -687,6 +687,18 @@
                 }
             },
             {
+                "id": "04yFM4Br-5O5h-Zzpt5kMyO7",
+                "name": "Lesson 9.2",
+                "topics": "Arithmetic Sequences",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_common_differences": 0.85,
+                    "using_explicit_formulas_for_arithmetic_sequences": 0.85,
+                    "using_recursive_formulas_for_arithmetic_sequences": 0.85,
+                    "writing_terms_of_arithmetic_sequences": 0.85
+                }
+            },
+            {
                 "id": "3oPdJuhV-1rRE-MHYeL3aPXG",
                 "name": "Lesson 9.3",
                 "topics": "Geometric Sequences",
@@ -867,6 +879,7 @@
                     "and_real_numbers": 0.85,
                     "identify_integers": 0.85,
                     "irrational_numbers": 0.85,
+                    "locate_decimals_on_the_number_line": 0.85,
                     "rational_numbers": 0.85,
                     "simplify_expressions_with_square_roots": 0.85
                 }
@@ -1006,6 +1019,7 @@
                 "topics": "Solve Linear Inequalities",
                 "allowRecycle": true,
                 "learningObjectives": {
+                    "graph_inequalities_on_the_number_line": 0.85,
                     "solve_inequalities_that_require_simplification": 0.85,
                     "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
                     "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85
@@ -1556,6 +1570,7 @@
                     "add_and_subtract_integers": 0.85,
                     "evaluate_variable_expressions_with_integers": 0.85,
                     "multiply_and_divide_integers": 0.85,
+                    "simplify_and_evaluate_expressions_with_integers": 0.85,
                     "simplify_expressions_with_absolute_value": 0.85,
                     "simplify_expressions_with_integers": 0.85,
                     "translate_phrases_to_expressions_with_integers": 0.85,
@@ -1609,6 +1624,15 @@
                     "determine_whether_a_function_is_one_to_one": 0.85,
                     "find_and_evaluate_composite_functions": 0.85,
                     "find_the_inverse_of_a_function": 0.85
+                }
+            },
+            {
+                "id": "4NBYblsP-OYi0-6AkLQlgFHD",
+                "name": "Lesson 10.2",
+                "topics": "Evaluate and Graph Exponential Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_exponential_equations": 0.85
                 }
             },
             {
@@ -1804,7 +1828,8 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "solve_compound_inequalities_with_and": 0.85,
-                    "solve_compound_inequalities_with_or": 0.85
+                    "solve_compound_inequalities_with_or": 0.85,
+                    "solving_compound_inequalities": 0.85
                 }
             },
             {
@@ -1837,6 +1862,15 @@
                 "learningObjectives": {
                     "find_the_slope_of_a_line": 0.85,
                     "graph_a_line_using_its_slope_and_intercept": 0.85
+                }
+            },
+            {
+                "id": "3F0PRDIh-Zsdf-CT4J5Ao8bk",
+                "name": "Lesson 3.4",
+                "topics": "Graph Linear Inequalities in Two Variables",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "find_the_value_of_a_function": 0.85
                 }
             },
             {
@@ -1879,6 +1913,16 @@
                     "solve_direct_translation_applications": 0.85,
                     "solve_geometry_applications": 0.85,
                     "solve_uniform_motion_applications": 0.85
+                }
+            },
+            {
+                "id": "0FaEcs1a-iNFJ-gKaXDikMMA",
+                "name": "Lesson 4.3",
+                "topics": "Solve Mixture Applications with Systems of Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_interest_applications": 0.85,
+                    "solve_mixture_applications": 0.85
                 }
             },
             {
@@ -2042,6 +2086,15 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "simplify_a_complex_rational_expression_by_writing_it_as_division": 0.85
+                }
+            },
+            {
+                "id": "2syi4sSu-sMsn-dLZH6goEQP",
+                "name": "Lesson 7.4",
+                "topics": "Solve Rational Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_a_rational_equation_for_a_specific_variable": 0.85
                 }
             },
             {

@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Substitute the $$x$$ and $$y$$ values of the ordered pair into the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f74d6coordinates9a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplify",
         "text": "Simplify each side such that their is a single number on both sides of the equation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f74d6coordinates9a-h3",
@@ -34,6 +36,7 @@
         "text": "If both sides of the equation equal each other, the ordered pair is a solution. Is the ordered pair a solution in this case?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"
@@ -48,6 +51,7 @@
         "title": "Answer",
         "text": "Therefore, the ordered pair is a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

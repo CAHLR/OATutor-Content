@@ -4,7 +4,7 @@
         "$$x=0$$, $$x=\\pm \\sqrt{3}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x^2+1\\right)}^2-5\\left(x^2+1\\right)+4=0$$",
+    "stepTitle": "$$\\left(x^2+1\\right)^2-5\\left(x^2+1\\right)+4=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

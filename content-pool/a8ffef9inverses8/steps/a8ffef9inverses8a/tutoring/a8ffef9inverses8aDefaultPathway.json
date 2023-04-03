@@ -6,7 +6,8 @@
         "title": "Change of Sign",
         "text": "Because a square root is only defined when the quantity under the radical is non-negative, we need to determine where $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1} \\geq 0$$. The output of a rational function can change signs (change from positive to negative or vice versa) at x-intercepts and at vertical asymptotes. For this equation, where can the graph change signs?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h2",
@@ -23,6 +24,7 @@
         "text": "Where does the equation change sign? They usually occur around zeros and asymptotes, for e.g. consider $$(x-1)$$, $$x-1>0$$ at $$x=1.01$$, $$x-1<0$$ at $$x=0.99$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$-2, 1, 3$$",
             "$$-2, 3$$",
@@ -38,7 +40,8 @@
         "title": "Testing Values",
         "text": "For each expression, $$x+2$$, $$(x-3)$$, $$(x-1)$$, we know that there is a point beyond which the expression becomes either positive or negative. By finding the product of the sign of each expressions, we can evaluate the sign of the overall equation. For instance, at $$x=-\\infty$$, $$x+2$$, $$(x-3)$$, $$(x-1)$$ < $$0$$, hence their product would yield an overall equation that is negative at $$x=-\\infty$$. By finding where $$f(x) \\geq 0$$, we can find the domain of the function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h4",
@@ -54,7 +57,8 @@
         "title": "Testing Values",
         "text": "How many different range of values should we test? E.g. $$(-\\infty,0]$$, $$(0,\\infty)$$ would be considered $$2$$.",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a8ffef9inverses8a-h4-s1",
@@ -68,7 +72,8 @@
                 "title": "Testing Values",
                 "text": "How many different range of values should we test? Recall that there are $$3$$ change-of-sign values. Thus we would want to consider the intervals around them. Also note that the change-of-sign value itself could be in the domain if it yields a $$0$$ because f(x) outputs a real value at $$\\sqrt{0}$$ and f(x) is one-to-one at this point.",
                 "variabilization": {},
-                "oer": "",
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
                 "choices": [
                     "(-inf,-2),[-2,1),(1,3),[3,inf)",
                     "(-inf,-2),[-2,1),[1,3),[3,inf)",
@@ -86,7 +91,8 @@
         "title": "Testing $$(-\\infty,-2)$$",
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. If it is positive then f(x) will have a real output, and thus this range is part of the domain.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h6",
@@ -103,6 +109,7 @@
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. Substitute $$x=-3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "positive",
             "negative"
@@ -117,7 +124,8 @@
         "title": "Testing [-2,1)",
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. If it is positive then f(x) will have a real output, and thus this range is part of the domain.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h8",
@@ -134,6 +142,7 @@
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. Substitute $$x=0$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "positive",
             "negative"
@@ -148,7 +157,8 @@
         "title": "Testing $$(1,3)$$",
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. If it is positive then f(x) will have a real output, and thus this range is part of the domain.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h10",
@@ -165,6 +175,7 @@
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. Substitute $$x=2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "positive",
             "negative"
@@ -179,7 +190,8 @@
         "title": "Testing $$[3,\\infty)$$",
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. If it is positive then f(x) will have a real output, and thus this range is part of the domain.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8ffef9inverses8a-h12",
@@ -196,6 +208,7 @@
         "text": "Check if the equation, $$\\frac{\\left(x+2\\right) \\left(x-3\\right)}{x-1}$$, is positive or negative for values in this range. Substitute $$x=4$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "positive",
             "negative"
@@ -213,6 +226,7 @@
         "title": "Union",
         "text": "Now that you've found the range for which f(x) is valid, the domain is the intersection of these union of these ranges.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

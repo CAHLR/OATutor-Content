@@ -6,7 +6,8 @@
         "title": "Find General Formula",
         "text": "The first step is to identify what general formula can be used for inverse variation with a cube.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a14ffbcmodeling3a-h2",
@@ -22,7 +23,8 @@
         "title": "Solve for Constant",
         "text": "Given $$y=25$$ and $$x=2$$, what is the value of constant k from the general formula?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a14ffbcmodeling3a-h3",
@@ -33,7 +35,8 @@
         "title": "Find Specific Formula",
         "text": "Use the constant to write an equation that represents the relationship.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a14ffbcmodeling3a-h4",
@@ -49,6 +52,7 @@
         "title": "Using Subsitution",
         "text": "What is $$y$$ when $$x=6$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

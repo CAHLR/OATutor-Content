@@ -6,7 +6,8 @@
         "title": "Pattern Among the Signs",
         "text": "Terms are all positive",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences7a-h2",
@@ -17,7 +18,8 @@
         "title": "Write in Explicit Form",
         "text": "Write a formula for $$a_n$$ in terms of $$n$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f0162sequences7a-s1",
@@ -34,6 +36,7 @@
         "text": "What is the explicit formula?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{2^n}{2n}$$",
             "$$4n^2$$",

@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "The rational will be undefined when the $$denominator=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af04890Rational1b-h2",
@@ -17,7 +18,8 @@
         "title": "Setting equal to $$0$$",
         "text": "Set the $$denominator=0$$, $$2b+5=0$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af04890Rational1b-h3",
@@ -33,6 +35,7 @@
         "title": "Finding values",
         "text": "What is $$b$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

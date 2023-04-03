@@ -6,7 +6,8 @@
         "title": "Finding the Value of $$|n|$$",
         "text": "The first step is to find the value of $$|n|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9c-h2",
@@ -22,7 +23,8 @@
         "title": "Calculating $$|n|$$",
         "text": "$$n=37$$. What is $$|37|$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a9ae528add9c-h2-s1",
@@ -31,7 +33,8 @@
                 "title": "Absolute Value of a Positive Number",
                 "text": "The absolute value of a positive number is just that positive number. For example, $$|24|=24$$.",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -44,7 +47,8 @@
         "title": "Finding the Value of $$-|n|$$",
         "text": "Multiply $$|n|$$ by $$-1$$ to find $$-|n|$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ae528add9c-h4",
@@ -60,6 +64,7 @@
         "title": "Calculating $$-|n|$$ with the Substituted Value of $$n$$",
         "text": "What is $$-1\\times37$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

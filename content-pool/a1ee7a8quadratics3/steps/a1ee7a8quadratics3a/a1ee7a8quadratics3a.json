@@ -4,7 +4,7 @@
         "$$x=\\pm \\sqrt{15}$$, $$x=\\pm \\sqrt{2} i$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x^4-{\\left(13x\\right)}^2-30=0$$",
+    "stepTitle": "$$x^4-\\left(13x\\right)^2-30=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

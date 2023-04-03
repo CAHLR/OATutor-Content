@@ -6,7 +6,8 @@
         "title": "Principle of Solution",
         "text": "If $$x=-1$$ is a solution, $$-1$$ can be substitute into the equation",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4a0f7dradicalroot1b-h2",
@@ -22,7 +23,8 @@
         "title": "Substitution",
         "text": "What is $$\\sqrt{x+2}$$ when $$x=-1$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4a0f7dradicalroot1b-h3",
@@ -38,7 +40,8 @@
         "title": "Square Root",
         "text": "What is $$\\sqrt{-1+2}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4a0f7dradicalroot1b-h4",
@@ -54,7 +57,8 @@
         "title": "Square Root",
         "text": "What is $$\\sqrt{1}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4a0f7dradicalroot1b-h5",
@@ -65,7 +69,8 @@
         "title": "Substitution",
         "text": "X on the right side equals $$-1$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4a0f7dradicalroot1b-h6",
@@ -82,6 +87,7 @@
         "text": "Are the values on both sides equal?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

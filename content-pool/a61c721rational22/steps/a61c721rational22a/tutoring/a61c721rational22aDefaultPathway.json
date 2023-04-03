@@ -6,7 +6,8 @@
         "title": "Factoring",
         "text": "First, we need to factor $$2d^2$$ + $$15d$$ + $$25$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h2",
@@ -17,7 +18,8 @@
         "title": "Split",
         "text": "Split $$15d$$ to $$10d$$ and $$5d$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h3",
@@ -33,7 +35,8 @@
         "title": "Factoring",
         "text": "What is the factoring of $$2d^2$$ + $$10d$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h4",
@@ -49,7 +52,8 @@
         "title": "Factoring",
         "text": "What is the factoring of $$5d+25$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h5",
@@ -65,7 +69,8 @@
         "title": "Factoring",
         "text": "Factor out the common factor $$d+5$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h6",
@@ -81,7 +86,8 @@
         "title": "Factoring",
         "text": "Factor $$4d^2$$ - $$25$$ using difference of squares.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h7",
@@ -97,7 +103,8 @@
         "title": "Factoring",
         "text": "Factor $$25d^2$$ - $$1$$ using difference of squares.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h8",
@@ -108,7 +115,8 @@
         "title": "Factoring",
         "text": "Next, we need to factor $$2d^2$$ - $$15d$$ + $$25$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h9",
@@ -119,7 +127,8 @@
         "title": "Split",
         "text": "Split $$15d$$ to $$-10d$$ and $$-5d$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h10",
@@ -135,7 +144,8 @@
         "title": "Factoring",
         "text": "What is the factoring of $$2d^2$$ - $$10d$$?",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h11",
@@ -151,7 +161,8 @@
         "title": "Factoring",
         "text": "What is the factoring of $$-5d+25$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h12",
@@ -167,7 +178,8 @@
         "title": "Factoring",
         "text": "Factor out the common factor $$(d-5)$$.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     },
     {
         "id": "a61c721rational22a-h13",
@@ -183,6 +195,7 @@
         "title": "Simplify",
         "text": "Cross out the same factors on top and bottom.",
         "variabilization": {},
-        "oer": ""
+        "oer": "",
+        "license": ""
     }
 ]

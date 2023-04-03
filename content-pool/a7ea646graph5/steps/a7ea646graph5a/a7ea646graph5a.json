@@ -4,7 +4,7 @@
         "$$4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$f(x)=-\\left(x^3\\right)+4x^5-3x^2+1$$",
+    "stepTitle": "$$f(x)=-x^3+4x^5-3x^2+1$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

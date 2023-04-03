@@ -6,7 +6,8 @@
         "title": "Listing Multiples of $$15$$ and $$20$$",
         "text": "The first step is to list the multiples of $$18$$ and $$24$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole19a-h2",
@@ -17,7 +18,8 @@
         "title": "Multiples of $$18$$",
         "text": "Multiples of $$18$$ are $$18$$, $$36$$, $$54$$, $$72$$, $$90$$, $$108$$, $$126..$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole19a-h3",
@@ -28,7 +30,8 @@
         "title": "Multiples of $$24$$",
         "text": "Multiples of $$24$$ are $$24$$, $$48$$, $$72$$, $$96$$, $$120$$, $$144$$, $$168..$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole19a-h4",
@@ -39,7 +42,8 @@
         "title": "Finding the Least Common Multiple By Comparing the Lists",
         "text": "The smallest number that appears on both lists is the least common multiple",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole19a-h5",
@@ -50,6 +54,7 @@
         "title": "Smallest Number on Both Lists",
         "text": "$$72$$ is the smallest number that appears on both of the lists.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

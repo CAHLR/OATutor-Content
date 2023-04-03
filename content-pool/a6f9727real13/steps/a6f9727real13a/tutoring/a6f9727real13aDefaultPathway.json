@@ -6,7 +6,8 @@
         "title": "Commutative Property of Addition",
         "text": "The equation can be re-arranged in the form $$L+L+W+W$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real13a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplify",
         "text": "$$L+L+W+W=2L+2W$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real13a-h3",
@@ -28,7 +30,8 @@
         "title": "Common Multiple",
         "text": "Both 2L and 2W have $$2$$ as a common multiple.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a6f9727real13a-h4",
@@ -39,6 +42,7 @@
         "title": "Common Multiple",
         "text": "You can take a common factor of $$2$$ outside the equation to get $$2\\left(L+W\\right)$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

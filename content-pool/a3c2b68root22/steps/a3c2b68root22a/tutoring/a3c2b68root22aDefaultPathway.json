@@ -6,7 +6,8 @@
         "title": "Multiplying Each Root",
         "text": "$$\\sqrt{6} \\sqrt{12}=\\sqrt{72}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a3c2b68root22a-h2",
@@ -17,6 +18,7 @@
         "title": "Simplifying the Product",
         "text": "$$\\sqrt{72}=\\sqrt{36\\times2}=6\\sqrt{2}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

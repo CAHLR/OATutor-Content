@@ -6,7 +6,8 @@
         "title": "Square Root Restrictions",
         "text": "We cannot take the square root of a negative number, so the value inside the radical must be nonnegative.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aeb11eedomain10a-h2",
@@ -22,6 +23,7 @@
         "title": "Solving the Inequality",
         "text": "What value does $$x$$ have to be greater than or equal to for $$x+4 \\geq 0$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

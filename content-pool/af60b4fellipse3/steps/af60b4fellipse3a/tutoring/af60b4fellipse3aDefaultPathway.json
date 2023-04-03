@@ -6,7 +6,8 @@
         "title": "Vertice and Foci",
         "text": "Consider whether the major axis lies on the $$x-$$ or y-axis.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse3a-h2",
@@ -17,7 +18,8 @@
         "title": "Standard Equation Form",
         "text": "The form of the standard equation is $$c^2=a^2-b^2$$, given $$a=vertices$$ and $$c=foci$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse3a-h3",
@@ -34,6 +36,7 @@
         "text": "Using the midpoint formula, identify the coordinate for the point halfway between the vertices",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$(-2,-8)$$ and $$(-2,2)$$",
             "$$(-1,-6)$$ and $$(-2,1)$$",
@@ -54,7 +57,8 @@
         "title": "Solving for a",
         "text": "Solve for a by finding the distance between the y-coordinates of the vertices.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse3a-h5",
@@ -70,7 +74,8 @@
         "title": "Solving for c",
         "text": "Solve for c using the known information on the foci.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse3a-h6",
@@ -86,7 +91,8 @@
         "title": "Solving for $$b$$",
         "text": "Solve for $$b$$ using the equation $$c^2=a^2-b^2$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "af60b4fellipse3a-h7",
@@ -94,7 +100,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{{\\left(x+2\\right)}^2}{9}+\\frac{{\\left(y+3\\right)}^2}{25}=1$$"
+            "$$\\frac{\\left(x+2\\right)^2}{9}+\\frac{\\left(y+3\\right)^2}{25}=1$$"
         ],
         "dependencies": [
             "af60b4fellipse3a-h6"
@@ -102,6 +108,7 @@
         "title": "Plugging in the Values",
         "text": "Plug in the values for $$h$$, k, a, and $$b$$ into the standard form equation for an ellipse.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

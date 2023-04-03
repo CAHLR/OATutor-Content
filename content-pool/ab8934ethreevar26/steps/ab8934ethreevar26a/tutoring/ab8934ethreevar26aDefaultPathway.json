@@ -6,7 +6,8 @@
         "title": "Setting Up",
         "text": "Set up three equatinos in variable form to represent the situation $$(b=birds$$, $$m=mammals$$, and $$f=fishes)$$. We have $$b+f+m=398(0.05)$$, $$b=\\operatorname{0.07}\\left(398\\right)+f$$, and $$f=\\operatorname{0.015}\\left(398\\right)+m$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar26a-h2",
@@ -17,7 +18,8 @@
         "title": "Simplifying to $$1$$ Variable",
         "text": "Plug in $$m=f-0.015(398)$$ and $$b=\\operatorname{0.07}\\left(398\\right)+f$$ into the equation containing all three variables so that only variable f is present.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar26a-h3",
@@ -33,7 +35,8 @@
         "title": "Solving for f",
         "text": "Combine the f variables and solve for f using algebra",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar26a-h4",
@@ -49,7 +52,8 @@
         "title": "Solving for $$m$$",
         "text": "Plug in the value of f into $$m=f-0.015(398)$$ and solve for $$m$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8934ethreevar26a-h5",
@@ -65,6 +69,7 @@
         "title": "Solving for $$b$$",
         "text": "Plug in the value of f into $$b=\\operatorname{0.07}\\left(398\\right)+f$$ and solve for $$b$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

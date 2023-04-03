@@ -6,7 +6,8 @@
         "title": "Rule",
         "text": "If the last digit is $$0$$, $$2$$, $$4$$, $$6$$, or $$8$$, then it is divisible by $$2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a53b893whole9a-h2",
@@ -23,6 +24,7 @@
         "text": "Is 3,765 divisible by $$2$$ based on the information above?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "Yes",
             "No"

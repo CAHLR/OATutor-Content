@@ -6,7 +6,8 @@
         "title": "Function Notation",
         "text": "Write the system of equations using $$y$$ to replace function notation.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitution",
         "text": "Substitute the expression 0.85x+35,000 from the first equation into the second equation and solve for $$x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h3",
@@ -33,7 +35,8 @@
         "title": "Isolating Variables",
         "text": "What is $$x$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h4",
@@ -44,7 +47,8 @@
         "title": "Substitution",
         "text": "Substitute $$x=50, 000$$ into either the cost function or the revenue function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h5",
@@ -60,7 +64,8 @@
         "title": "Isolating Variables",
         "text": "What is $$y$$ equal to?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h6",
@@ -71,7 +76,8 @@
         "title": "Break-Even Point",
         "text": "The break-even point is (50,000, 77,500).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h7",
@@ -82,7 +88,8 @@
         "title": "Profit Function Formula",
         "text": "The profit function is found using the formula $$P(x)=R(x)-C(x)$$. Plug in the $$x$$ and $$y$$ values to find the profit function.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab8b840systems9a-h8",
@@ -98,6 +105,7 @@
         "title": "Profit Function Formula",
         "text": "What is the profit function?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

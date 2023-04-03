@@ -6,7 +6,8 @@
         "title": "Division of zero",
         "text": "Recall that for any real number a, except $$0$$, $$\\frac{0}{a}=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties9a-h2",
@@ -17,6 +18,7 @@
         "title": "Answer",
         "text": "Therefore, $$\\frac{0}{6}=0$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

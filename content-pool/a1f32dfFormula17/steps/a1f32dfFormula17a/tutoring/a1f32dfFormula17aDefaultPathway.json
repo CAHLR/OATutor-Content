@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "Since we know $$d=240$$ and $$r=60$$, we can substitute $$240$$ for $$d$$ and $$60$$ for $$r$$ into the equation, which gives us $$240=60t$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a1f32dfFormula17a-h2",
@@ -17,6 +18,7 @@
         "title": "Isolate",
         "text": "To isolate $$t$$, we can divide both sides by $$60$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Identify Terms with Common Denominators",
         "text": "Notice that the last two terms have the same denominator and they add to $$1$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a4b48f4RealNums4a-h2",
@@ -22,6 +23,7 @@
         "title": "Identify Terms with Common Denominators",
         "text": "What is $$1+\\frac{5}{13}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

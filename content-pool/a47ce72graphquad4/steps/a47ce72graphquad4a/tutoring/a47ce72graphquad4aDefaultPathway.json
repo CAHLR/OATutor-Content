@@ -6,7 +6,8 @@
         "title": "Transformation",
         "text": "Is this a vertical or a horizontal transformation?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a47ce72graphquad4a-h2",
@@ -17,7 +18,8 @@
         "title": "Horizontal Transformation",
         "text": "Since this is a horizontal transformation, is it to the left or right?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a47ce72graphquad4a-h3",
@@ -28,6 +30,7 @@
         "title": "Left Transformation",
         "text": "Since it is $$3$$, it's a horizontal transformation to the left.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -6,7 +6,8 @@
         "title": "Decompose",
         "text": "Use Fraction Multiplication: $$\\frac{28}{49} \\frac{a^5}{a^9} \\frac{b^{14}}{b^{12}}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552poly7a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{28}{49}$$ * $$\\frac{a^5}{a^9}$$ * $$\\frac{b^{14}}{b^{12}}$$?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a161552poly7a-h2-s1",
@@ -36,7 +38,8 @@
                 "title": "Simplify",
                 "text": "What is $$\\frac{28}{49}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a161552poly7a-h2-s2",
@@ -50,7 +53,8 @@
                 "title": "Simplify",
                 "text": "What is $$\\frac{a^5}{a^9}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             },
             {
                 "id": "a161552poly7a-h2-s3",
@@ -64,7 +68,8 @@
                 "title": "Simplify",
                 "text": "What is $$\\frac{b^{14}}{b^{12}}$$?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     }

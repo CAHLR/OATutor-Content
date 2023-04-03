@@ -6,7 +6,8 @@
         "title": "Identify the Numbers",
         "text": "The problem specifies there are \"two numbers.\"",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications18a-h2",
@@ -17,7 +18,8 @@
         "title": "Create Variables",
         "text": "Name the two unknown numbers $$x$$ and $$y$$ to represent those quantities. Let $$x=one$$ number and $$y=second$$ number.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications18a-h3",
@@ -28,7 +30,8 @@
         "title": "Translate Into System",
         "text": "Since the sum of the two number is negative eighteen we can write $$x+y=-18$$. Additionally one number is fourty more than the other so we can write $$x=y+40$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9ad3f8applications18a-h4",
@@ -45,6 +48,7 @@
         "text": "What is the systems of equation represented in the problem?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$x+y=18, x=y+20$$",
             "$$x-y=-18, x=y-10$$",

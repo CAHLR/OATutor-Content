@@ -6,7 +6,8 @@
         "title": "Distributive Property",
         "text": "Observing this question, we find that we will need to apply the distributive property twice, once for each of the parentheses.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h2",
@@ -17,7 +18,8 @@
         "title": "Distributive Property",
         "text": "The distributive property states that if a, $$b$$, c are real numbers, then $$a \\left(b+c\\right)=ab+ac$$, and $$a \\left(b-c\\right)=ab-ac$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h3",
@@ -28,7 +30,8 @@
         "title": "Applying the Distributive Property",
         "text": "Applying the distributive property to $$6\\left(7y+8\\right)$$, we get the expression $$6\\times7 y+6\\times8$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h4",
@@ -44,7 +47,8 @@
         "title": "Multiplying",
         "text": "What is $$6\\times7 y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h5",
@@ -60,7 +64,8 @@
         "title": "Multiplying",
         "text": "What is $$6\\times8$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h6",
@@ -72,7 +77,8 @@
         "title": "First Expression",
         "text": "Putting together the previous two parts, we get $$6\\left(7y+8\\right)=42y+48$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h7",
@@ -83,7 +89,8 @@
         "title": "Applying the Distributive Property",
         "text": "Applying the distributive property to $$-(30y-15)$$, we get the expression $$-1\\times30 y-15\\left(-1\\right)$$ (remember that $$-(30y-15)$$ can be written as (-1)*(30y-15)).",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h8",
@@ -99,7 +106,8 @@
         "title": "Multiplying",
         "text": "What is $$30\\left(-1\\right) y$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h9",
@@ -115,7 +123,8 @@
         "title": "Multiplying",
         "text": "What is $$15\\left(-1\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h10",
@@ -127,7 +136,8 @@
         "title": "Second Expression",
         "text": "Putting together the previous two parts, we get $$-(30y-15)=-30y-(-15)=-30y+15$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ac3d94dProperties15a-h11",
@@ -144,6 +154,7 @@
         "title": "Combine Like Terms",
         "text": "After applying the distributive property, the expression becomes $$42y+48-30y+15$$. Combine like terms, what do you get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

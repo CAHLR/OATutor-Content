@@ -6,7 +6,8 @@
         "title": "Principle",
         "text": "Write a 2x2 determinant with the coefficients of $$x$$ and $$y$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h2",
@@ -17,7 +18,8 @@
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h3",
@@ -33,7 +35,8 @@
         "title": "Calculation",
         "text": "What is $$6-(6)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h4",
@@ -44,7 +47,8 @@
         "title": "Principle",
         "text": "Replace the $$x$$ coefficient with the constants",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h5",
@@ -55,7 +59,8 @@
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant for Dx",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h6",
@@ -71,7 +76,8 @@
         "title": "Calculation",
         "text": "What is $$24-(24)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h7",
@@ -82,7 +88,8 @@
         "title": "Principle",
         "text": "Replace the $$y$$ coefficient with the constants",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h8",
@@ -93,7 +100,8 @@
         "title": "Operation",
         "text": "Evaluate the 2x2 determinant for Dy",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h9",
@@ -109,7 +117,8 @@
         "title": "Calculation",
         "text": "What is $$8-(8)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a8d511eDeterminant15a-h10",
@@ -120,6 +129,7 @@
         "title": "Principle",
         "text": "D,Dx, and Dy are $$0$$, so according to the definition, the equations are dependent",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

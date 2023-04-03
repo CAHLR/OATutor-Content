@@ -6,7 +6,8 @@
         "title": "Definition of x-intercepts",
         "text": "The x-intercept is the point at which the graph crosees x-axis",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord4a-h2",
@@ -17,7 +18,8 @@
         "title": "How to determine the x-intercept?",
         "text": "Set $$y$$ equal to zero and solve for $$x$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a75d03cRecCord4a-h3",
@@ -33,6 +35,7 @@
         "title": "Solving the equation",
         "text": "Solve for x: $$3x-2(0)=6$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

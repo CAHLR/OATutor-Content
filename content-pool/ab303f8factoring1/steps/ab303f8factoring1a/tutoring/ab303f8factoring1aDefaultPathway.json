@@ -6,7 +6,8 @@
         "title": "Goal",
         "text": "Determine if the trinomial is a perfect square.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab303f8factoring1a-h2",
@@ -17,7 +18,8 @@
         "title": "Standard form of a trinomial",
         "text": "Check if the trinomial follows the pattern of $$a^2+2ab+b^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab303f8factoring1a-h3",
@@ -33,7 +35,8 @@
         "title": "Square Root",
         "text": "What is the square root of $$9x^2$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab303f8factoring1a-h4",
@@ -49,7 +52,8 @@
         "title": "Square Root",
         "text": "What is the square root of 4?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "ab303f8factoring1a-h5",
@@ -58,8 +62,9 @@
             "ab303f8factoring1a-h4"
         ],
         "title": "Manipulate",
-        "text": "Organize the term into $${\\left(3x+2\\right)}^2$$.",
+        "text": "Organize the term into $$\\left(3x+2\\right)^2$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

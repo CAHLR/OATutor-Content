@@ -6,7 +6,8 @@
         "title": "Decompose",
         "text": "Divide each term by the divisor. Be careful with the signs: $$\\frac{18x^3 y}{\\left(-3x y\\right)}-\\frac{36x y^2}{\\left(-3x y\\right)}$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552poly2a-h2",
@@ -22,7 +23,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{18x^3 y}{\\left(-3x y\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552poly2a-h3",
@@ -38,7 +40,8 @@
         "title": "Simplify",
         "text": "What is $$\\frac{36x y^2}{\\left(-3x y\\right)}$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a161552poly2a-h4",
@@ -54,6 +57,7 @@
         "title": "Simplify",
         "text": "What is $$\\left(-6x^2\\right)-\\left(-12y\\right)$$?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

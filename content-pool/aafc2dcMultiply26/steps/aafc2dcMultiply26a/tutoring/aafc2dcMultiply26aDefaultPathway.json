@@ -6,7 +6,8 @@
         "title": "Identify",
         "text": "We are asked to find the new balance in her checking account.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply26a-h2",
@@ -17,7 +18,8 @@
         "title": "Write",
         "text": "Let's write a phrase that gives the information to find it - the difference of $$124$$ and $$152$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "aafc2dcMultiply26a-h3",
@@ -34,6 +36,7 @@
         "text": "What do we get after translating the phrase to an expression?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$152-124$$",
             "$$124+152$$",
@@ -54,6 +57,7 @@
         "title": "Simplify",
         "text": "What do we get after the subtraction?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

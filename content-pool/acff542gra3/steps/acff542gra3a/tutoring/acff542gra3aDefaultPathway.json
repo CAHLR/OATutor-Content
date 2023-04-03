@@ -6,7 +6,8 @@
         "title": "Substitute",
         "text": "We substitute $$x=5$$ and $$y=-2$$ into both inequalities.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra3a-h2",
@@ -17,7 +18,8 @@
         "title": "Substitute into First Equation",
         "text": "$$4x-y<10$$\\n$$4\\times5-\\left(-2\\right)<10$$\\n$$22<10$$",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "acff542gra3a-h3",
@@ -34,6 +36,7 @@
         "text": "Is the inequality above true?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "T",
             "F"
@@ -48,6 +51,7 @@
         "title": "Solutions of a System of Equations",
         "text": "Since $$(5,2)$$ does not satisfy the first inequality, then it cannot make both inequalities true. $$(5,2)$$ is not a solution.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

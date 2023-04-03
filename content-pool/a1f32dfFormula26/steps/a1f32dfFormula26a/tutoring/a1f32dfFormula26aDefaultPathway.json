@@ -6,6 +6,7 @@
         "title": "Isolate",
         "text": "To isolate $$y$$, we can subtract $$9x$$ from both sides of the equation, which gives us $$y=13-9x$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

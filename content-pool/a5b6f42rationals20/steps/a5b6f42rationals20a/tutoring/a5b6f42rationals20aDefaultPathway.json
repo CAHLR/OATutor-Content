@@ -11,7 +11,8 @@
         "title": "What are the values that cause it to be undefined? These are the vertical asymptotes.",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a5b6f42rationals20a-h2",
@@ -27,6 +28,7 @@
         "title": "As $$x$$ goes to $$\\infty$$, what value does f(x) approach?",
         "text": "",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

@@ -4,7 +4,7 @@
         "$$a=\\frac{3+\\sqrt{3}}{2}$$ or $$\\frac{3-\\sqrt{3}}{2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(2a\\right)}^2-6a+3=0$$",
+    "stepTitle": "$$\\left(2a\\right)^2-6a+3=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

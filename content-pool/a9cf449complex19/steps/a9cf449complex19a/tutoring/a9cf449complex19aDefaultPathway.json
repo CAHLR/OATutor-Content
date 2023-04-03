@@ -6,7 +6,8 @@
         "title": "Standard Form",
         "text": "Our goal is to write the expression in the standard form: $$a+bi$$.",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex19a-h2",
@@ -22,7 +23,8 @@
         "title": "Standard Form Part $$1$$",
         "text": "What is $$\\sqrt{-9}$$ in standard form?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "a9cf449complex19a-h3",
@@ -38,7 +40,8 @@
         "title": "Standard Form Part $$2$$",
         "text": "What is $$3\\sqrt{-16}$$ in standard form?",
         "variabilization": {},
-        "oer": "",
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "subHints": [
             {
                 "id": "a9cf449complex19a-h3-s1",
@@ -52,7 +55,8 @@
                 "title": "Standard Form Part $$2$$",
                 "text": "What is (3)(4i)?",
                 "variabilization": {},
-                "oer": ""
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
             }
         ]
     },
@@ -70,6 +74,7 @@
         "title": "Common Terms",
         "text": "Identify which terms are imaganary and which are real. Add common terms. What expression do you get?",
         "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>"
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]
