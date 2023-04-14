@@ -1,767 +1,4 @@
-[
-    {
-        "courseName": "OpenStax: College Algebra",
-        "courseOER": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
-        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "lessons": [
-            {
-                "id": "4GRWDRDl-lqs6-4gccTByiE1",
-                "name": "Lesson 1.1",
-                "topics": "Real Numbers",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "classifying_a_real_number": 0.85,
-                    "evaluating_algebraic_expressions": 0.85,
-                    "performing_calculations_using_the_order_of_operations": 0.85
-                }
-            },
-            {
-                "id": "1KccDTdX-VnDC-TBshGp1HnX",
-                "name": "Lesson 1.2",
-                "topics": "Exponents and Scientific Notation",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_the_power_of_a_product": 0.85,
-                    "finding_the_quotient_of_a_product": 0.85,
-                    "using_scientific_notation": 0.85,
-                    "using_the_negative_exponent_rule_of_exponents": 0.85,
-                    "using_the_power_rule_of_exponents": 0.85,
-                    "using_the_product_exponent_rule_of_exponents": 0.85,
-                    "using_the_quotient_exponent_rule_of_exponents": 0.85,
-                    "using_the_quotient_rule_of_exponents": 0.85,
-                    "using_the_zero_exponent_rule_of_exponents": 0.85
-                }
-            },
-            {
-                "id": "53UT1DPR-4Xis-pzLPtK2GEq",
-                "name": "Lesson 1.3",
-                "topics": "Radicals and Rational Exponents",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "evaluating_square_roots": 0.85,
-                    "rationalizing_denominators": 0.85,
-                    "using_rational_roots": 0.85
-                }
-            },
-            {
-                "id": "0Ve33lOx-VPkV-tJrDaYRzvB",
-                "name": "Lesson 1.4",
-                "topics": "Polynomials",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "adding_and_subtracting_polynomials": 0.85,
-                    "multiplying_polynomials": 0.85
-                }
-            },
-            {
-                "id": "67l3G5S9-ExT1-h3NZwjtiGA",
-                "name": "Lesson 1.5",
-                "topics": "Factoring Polynomials",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "factoring_a_difference_of_squares": 0.85,
-                    "factoring_a_perfect_square_trinomial": 0.85,
-                    "factoring_a_trinomial_with_leading_coefficient_1": 0.85,
-                    "factoring_by_grouping": 0.85,
-                    "factoring_expressions_with_fractional_or_negative_exponents": 0.85,
-                    "factoring_the_greatest_common_factor_of_a_polynomial": 0.85,
-                    "factoring_the_sum_and_difference_of_cubes": 0.85
-                }
-            },
-            {
-                "id": "6F0kfNc6-olGw-D5T3htoRyj",
-                "name": "Lesson 1.6",
-                "topics": "Rational Expressions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "adding_and_subtracting_rational_expressions": 0.85,
-                    "dividing_rational_expressions": 0.85,
-                    "multiplying_rational_expressions": 0.85,
-                    "simplifying_complex_rational_expressions": 0.85
-                }
-            },
-            {
-                "id": "09J9RRpw-2qDC-DR94Zeciuw",
-                "name": "Lesson 2.1",
-                "topics": "The Rectangular Coordinate Systems and Graph",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_x_intercepts_and_y_intercepts": 0.85,
-                    "using_the_distance_formula": 0.85,
-                    "using_the_midpoint_formula": 0.85
-                }
-            },
-            {
-                "id": "5jHScXLH-AZRw-l3EyG7yC7r",
-                "name": "Lesson 2.2",
-                "topics": "Linear Equations in One Variable",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "determining_whether_graphs_of_lines_are_parallel_or_perpendicular": 0.85,
-                    "finding_a_linear_equation": 0.85,
-                    "solving_a_rational_equation": 0.85,
-                    "solving_linear_equations_in_one_variable": 0.85,
-                    "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line": 0.85
-                }
-            },
-            {
-                "id": "4NrTs4At-CGhE-d1mz1Lyacz",
-                "name": "Lesson 2.3",
-                "topics": "Models and Applications",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "setting_up_a_linear_equation_to_solve_a_real_world_application": 0.85,
-                    "using_a_formula_to_solve_a_real_world_application": 0.85
-                }
-            },
-            {
-                "id": "2auMG51r-waxB-kZcksTznPV",
-                "name": "Lesson 2.4",
-                "topics": "Complex Numbers",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "adding_and_subtracting_complex_numbers": 0.85,
-                    "dividing_complex_numbers": 0.85,
-                    "expressing_square_roots_of_negative_numbers_as_multiples_of_i": 0.85,
-                    "multiplying_complex_numbers": 0.85,
-                    "simplifying_powers_of_i": 0.85
-                }
-            },
-            {
-                "id": "6GnAriQq-FWqh-0iR12cgG5a",
-                "name": "Lesson 2.5",
-                "topics": "Quadratic Equations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "completing_the_square": 0.85,
-                    "solving_a_quadratic_equation_by_factoring_when_the_leading_coefficient_is_not_1": 0.85,
-                    "solving_quadratic_equations_by_factoring": 0.85,
-                    "solving_quadratics_with_a_leading_coefficient_of_1": 0.85,
-                    "the_discriminant": 0.85,
-                    "using_the_pythagorean_theorem": 0.85,
-                    "using_the_quadratic_formula": 0.85,
-                    "using_the_square_root_property": 0.85
-                }
-            },
-            {
-                "id": "2xMaQuk6-ZsHV-fkMQ8nrZpR",
-                "name": "Lesson 2.6",
-                "topics": "Other Types of Equations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_an_absolute_value_equation": 0.85,
-                    "solving_equations_involving_rational_exponents": 0.85,
-                    "solving_equations_using_factoring": 0.85,
-                    "solving_other_types_of_equations": 0.85,
-                    "solving_radical_equations": 0.85,
-                    "sovling_equations_using_factoring": 0.85
-                }
-            },
-            {
-                "id": "6rmKqaQO-8bVB-tQiojlYH0j",
-                "name": "Lesson 2.7",
-                "topics": "Linear Inequalities and Absolute Value Inequalities",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_absolute_value_inequalities": 0.85,
-                    "solving_inequalities_in_one_variable_algebraically": 0.85,
-                    "understanding_compound_inequalities": 0.85,
-                    "using_interval_notation": 0.85,
-                    "using_the_properties_of_inequalities": 0.85
-                }
-            },
-            {
-                "id": "5wsHWBp9-G7Jl-M1yM4lJ4bW",
-                "name": "Lesson 3.1",
-                "topics": "Functions and Function Notation",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "determining_whether_a_function_is_one_to_one": 0.85,
-                    "determining_whether_a_relation_represents_a_function": 0.85,
-                    "finding_input_and_output_values_of_a_function": 0.85
-                }
-            },
-            {
-                "id": "7XgNMW3C-frEZ-r3QxB9dPM8",
-                "name": "Lesson 3.2",
-                "topics": "Domain and Range",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_domain_and_range_from_graphs": 0.85,
-                    "finding_domains_and_ranges_of_the_toolkit_functions": 0.85,
-                    "finding_the_domain_of_a_function_defined_by_an_equation": 0.85,
-                    "graphing_piecewise_defined_functions": 0.85,
-                    "using_notations_to_specify_domain_and_range": 0.85
-                }
-            },
-            {
-                "id": "0OBdvxxx-nO68-hmYPAQtk7B",
-                "name": "Lesson 3.3",
-                "topics": "Rates of Change and Behavior of Graphs",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "decreasing": 0.85,
-                    "finding_the_average_rate_of_change_of_a_function": 0.85,
-                    "or_constant": 0.85,
-                    "use_a_graph_to_locate_the_absolute_maximum_and_absolute_minimum": 0.85,
-                    "using_a_graph_to_determine_where_a_function_is_increasing": 0.85
-                }
-            },
-            {
-                "id": "5cmrijlR-qta2-5QPBarJe6X",
-                "name": "Lesson 3.4",
-                "topics": "Composition of Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "combining_functions_using_algebraic_operations": 0.85,
-                    "create_a_function_by_composition_of_functions": 0.85,
-                    "decomposing_a_composite_function_into_its_component_functions": 0.85,
-                    "evaluating_composite_functions": 0.85
-                }
-            },
-            {
-                "id": "0rh9MJmC-eOsg-7cnri1BeQk",
-                "name": "Lesson 3.5",
-                "topics": "Transformation of Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "determining_even_and_odd_functions": 0.85,
-                    "graphing_functions_using_reflections_about_the_axes": 0.85,
-                    "graphing_functions_using_vertical_and_horizontal_shifts": 0.85,
-                    "performing_a_sequence_of_transformation": 0.85,
-                    "rates_of_change": 0.85
-                }
-            },
-            {
-                "id": "03JnEhqR-xT5X-YC7alzbmQG",
-                "name": "Lesson 3.6",
-                "topics": "Absolute Value Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_an_absolute_value_equation": 0.85
-                }
-            },
-            {
-                "id": "5r0NMXU7-tm9Z-DbuY3zgwSB",
-                "name": "Lesson 3.7",
-                "topics": "Inverse Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_and_evaluating_inverse_functions": 0.85,
-                    "finding_domain_and_range_of_inverse_functions": 0.85,
-                    "finding_inverse_functions_and_their_graphs": 0.85,
-                    "verifying_that_two_functions_are_inverse_functions": 0.85
-                }
-            },
-            {
-                "id": "7HvOenA8-vBo7-a4Jgeuu78b",
-                "name": "Lesson 4.1",
-                "topics": "Linear Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "decreasing": 0.85,
-                    "determing_whether_a_linear_function_is_increasing": 0.85,
-                    "interpreting_slope_as_rate_of_change": 0.85,
-                    "modeling_real_world_problems_with_linear_functions": 0.85,
-                    "or_constant": 0.85,
-                    "representing_linear_functions": 0.85,
-                    "writing_and_interpreting_an_equation_for_a_linear_function": 0.85,
-                    "writing_the_equation_for_a_function_from_the_graph_of_a_line": 0.85,
-                    "writing_the_equation_of_a_line_parallel_or_perpendicular_to_a_given_line": 0.85
-                }
-            },
-            {
-                "id": "6ML1I4OA-ui8u-G6trskcJHU",
-                "name": "Lesson 4.2",
-                "topics": "Modeling with Linear Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "building_linear_models_from_verbal_descriptions": 0.85,
-                    "modeling_a_set_of_data_with_linear_functions": 0.85,
-                    "using_a_diagram_to_build_a_model": 0.85,
-                    "using_a_given_input_and_output_to_build_a_model": 0.85
-                }
-            },
-            {
-                "id": "1mvJsP9c-Y72x-5B0Etu6Plp",
-                "name": "Lesson 4.3",
-                "topics": "Fitting Linear Models to Data",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "drawing_and_interpreting_scatter_plots": 0.85,
-                    "fitting_a_regression_line_to_a_set_of_data": 0.85
-                }
-            },
-            {
-                "id": "5piAeH8j-rmvV-JEJmNfYfXv",
-                "name": "Lesson 5.1",
-                "topics": "Quadratic Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "applying_the_vertex_and_x_intercepts_of_a_parabola": 0.85,
-                    "determining_the_maximum_and_minimum_values_of_quadratic_functions": 0.85,
-                    "finding_the_domain_and_range_of_a_quadratic_function": 0.85,
-                    "finding_the_x__and_y_intercepts_of_a_quadratic_function": 0.85,
-                    "recognizing_characteristics_of_parabolas": 0.85,
-                    "rewriting_quadratics_in_standard_form": 0.85,
-                    "understanding_how_the_graphs_of_parabolas_are_related_to_their_quadratic_functions": 0.85
-                }
-            },
-            {
-                "id": "62euMqMm-rxFJ-14FXCgGm7t",
-                "name": "Lesson 5.2",
-                "topics": "Power Functions and Polynomial Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "comparing_smooth_and_continuous_graphs": 0.85,
-                    "identifiying_end_behavior_of_power_functions": 0.85,
-                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
-                    "identifiying_power_functions": 0.85,
-                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85
-                }
-            },
-            {
-                "id": "7Tn3BPUQ-pCqN-NvpeWpaOv9",
-                "name": "Lesson 5.3",
-                "topics": "Graphs of Polynomial Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "identifiying_zeroes_and_their_multiplicities": 0.85,
-                    "power_functions_&_polynomials": 0.85,
-                    "understanding_the_relationship_between_degree_and_turning_points": 0.85,
-                    "using_factoring_to_find_zeros_of_polynomial_functions": 0.85,
-                    "writing_formulas_for_polynomial_functions": 0.85
-                }
-            },
-            {
-                "id": "2VFAWOGo-RFqV-rkE93xHWD1",
-                "name": "Lesson 5.4",
-                "topics": "Dividing Polynomials",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "using_long_division_to_divide_polynomials": 0.85,
-                    "using_polynomial_division_in_application_problems": 0.85,
-                    "using_synthetic_division_to_divide_polynomials": 0.85
-                }
-            },
-            {
-                "id": "1TJtbzHI-TmKA-2id7uXv3ru",
-                "name": "Lesson 5.5",
-                "topics": "Zeros of Polynomial Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
-                    "finding_the_zeros_of_polynomial_functions": 0.85,
-                    "solving_real_world_applications": 0.85,
-                    "using_descartes\u2019_rule_of_signs": 0.85,
-                    "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85,
-                    "using_the_fundamental_theorem_of_algebra": 0.85,
-                    "using_the_linear_factorization_theorem_to_find_polynomials_with_given_zeros": 0.85,
-                    "using_the_rational_zero_theorem_to_find_rational_zeros": 0.85
-                }
-            },
-            {
-                "id": "1N3kHob5-3X9f-2Z4C1ol7Qi",
-                "name": "Lesson 5.6",
-                "topics": "Rational Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_the_domain_of_rational_functions": 0.85,
-                    "finding_the_domains_of_rational_functions": 0.85,
-                    "finding_the_intercepts_of_a_rational_function": 0.85,
-                    "identifying_horizontal_asymptotes_of_rational_functions": 0.85,
-                    "identifying_vertical_asymptotes_of_rational_functions": 0.85,
-                    "intercepts_of_rational_functions": 0.85
-                }
-            },
-            {
-                "id": "0HYhpQSW-pJ23-RGGRqihujB",
-                "name": "Lesson 5.7",
-                "topics": "Inverses and Radical Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "determining_the_domain_of_a_radical_function_composed_with_other_functions": 0.85,
-                    "factoring_a_difference_of_cubes": 0.85,
-                    "factoring_a_difference_of_squares": 0.85,
-                    "factoring_a_sum_of_cubes": 0.85,
-                    "factoring_an_expression_with_fractional_or_negative_exponents": 0.85,
-                    "finding_inverses_of_rational_functions": 0.85,
-                    "finding_the_inverse_of_a_polynomial_function": 0.85,
-                    "restricting_the_domain_to_find_the_inverse_of_a_polynomial_function": 0.85,
-                    "solving_applications_of_radical_functions": 0.85
-                }
-            },
-            {
-                "id": "6cbE7l6i-79Tn-FSfiUlJpsU",
-                "name": "Lesson 5.8",
-                "topics": "Modeling Using Variation",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_direct_variation_problems": 0.85,
-                    "solving_inverse_variation_problems": 0.85,
-                    "solving_problems_involving_joint_variation": 0.85
-                }
-            },
-            {
-                "id": "6RkxqKSN-bT5C-nRtYv5qOf4",
-                "name": "Lesson 6.1",
-                "topics": "Exponential Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "applying_the_compound_interest_formula": 0.85,
-                    "applying_the_compoung_interest_formula": 0.85,
-                    "defining_exponential_growth": 0.85,
-                    "evaluating_exponential_function": 0.85,
-                    "evaluating_exponential_functions": 0.85,
-                    "evaluating_functinos_with_base_e": 0.85,
-                    "finding_equations_of_exponential_functions": 0.85,
-                    "identifying_exponential_functions": 0.85,
-                    "investigating_continuous_growth": 0.85
-                }
-            },
-            {
-                "id": "4YdfX8f5-AQWQ-uV8wQyPc02",
-                "name": "Lesson 6.2",
-                "topics": "Graphs of Exponential Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "graphing_exponential_functions": 0.85
-                }
-            },
-            {
-                "id": "7HUa9GIr-YBgf-Tud4955cNz",
-                "name": "Lesson 6.3",
-                "topics": "Logarithmic Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "converting_from_exponential_form_to_logarithmic_form": 0.85,
-                    "converting_from_exponential_to_logarithmic_form": 0.85,
-                    "converting_from_logarithmic_form_to_exponential_form": 0.85,
-                    "converting_from_logarithmic_to_exponential_form": 0.85,
-                    "evaluating_a_natural_logarithm_using_a_calculator": 0.85,
-                    "evaluating_logarithms": 0.85,
-                    "evaluating_the_logarithm_of_a_reciprocal": 0.85,
-                    "finding_the_value_of_a_common_logarithm_mentally": 0.85,
-                    "finding_the_value_of_a_common_logarithm_using_a_calculator": 0.85,
-                    "rewriting_and_solving_a_real_world_exponential_model": 0.85,
-                    "solving_logarithms_mentally": 0.85
-                }
-            },
-            {
-                "id": "2K4K7e34-YYJA-dreRwvyett",
-                "name": "Lesson 6.4",
-                "topics": "Graphs of Logarithmic Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_the_domain_of_a_logarithmic_function": 0.85,
-                    "graphing_logarithmic_functions": 0.85,
-                    "graphing_transformations_of_logarithmic_functions": 0.85
-                }
-            },
-            {
-                "id": "2YIIjXA4-rMQr-codjiwbXXT",
-                "name": "Lesson 6.5",
-                "topics": "Logarithmic Properties",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "condensing_logarithmic_expressions": 0.85,
-                    "expanding_logarithmic_expressions": 0.85,
-                    "the_power_rule_for_logarithms": 0.85,
-                    "the_product_rule_for_logarithms": 0.85,
-                    "the_properties_of_logarithms": 0.85,
-                    "the_quotient_rule_for_logarithms": 0.85,
-                    "using_the_change_of_base_formula_for_logarithms": 0.85,
-                    "using_the_power_rule_for_logarithms_to_simplify_the_logarithm_of_a_radical_expression": 0.85
-                }
-            },
-            {
-                "id": "1L7I8gtj-tipq-Kv968DjFSd",
-                "name": "Lesson 6.6",
-                "topics": "Exponential and Logarithmic Equations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_equations_using_the_one_to_one_property_of_logarithms": 0.85,
-                    "solving_exponential_equations_using_logarithms": 0.85,
-                    "solving_exponential_functions_in_quadratic_form": 0.85,
-                    "using_like_bases_to_solve_exponential_equations": 0.85,
-                    "using_the_definition_of_a_logarithm_to_solve_logarithmic_equations": 0.85
-                }
-            },
-            {
-                "id": "2eMHSMSs-zWTm-D11oLsFFor",
-                "name": "Lesson 6.7",
-                "topics": "Exponential and Logarithmic Models",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "calculating_doubling_time": 0.85,
-                    "expressing_an_exponential_model_in_base_e": 0.85,
-                    "logarithmic_application": 0.85,
-                    "modeling_exponential_growth_and_decay": 0.85,
-                    "use_newton's_law_of_cooling": 0.85,
-                    "using_logistic_growth_models": 0.85,
-                    "using_newton's_law_of_cooling": 0.85
-                }
-            },
-            {
-                "id": "4ERr1AbS-7liT-9mqMX6WkWp",
-                "name": "Lesson 6.8",
-                "topics": "Fitting Exponential Models to Data",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "building_a_logarithmic_model_from_data": 0.85,
-                    "building_a_logistic_model_from_data": 0.85,
-                    "building_an_exponential_model_from_data": 0.85
-                }
-            },
-            {
-                "id": "3aMZNfMb-negJ-8QWkColcJN",
-                "name": "Lesson 7.1",
-                "topics": "Systems of Linear Equations: Two Variables",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_systems_of_equations_by_graphing": 0.85,
-                    "solving_systems_of_equations_by_substitution": 0.85,
-                    "solving_systems_of_equations_in_two_variables_by_the_addition_method": 0.85,
-                    "using_systems_of_equations_to_investigate_profits": 0.85
-                }
-            },
-            {
-                "id": "4q5nZauP-1cJW-SPjxuTKxSO",
-                "name": "Lesson 7.2",
-                "topics": "Systems of Linear Equations: Three Variables",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_systems_of_three_equations_in_three_variables": 0.85
-                }
-            },
-            {
-                "id": "63meyj47-76Du-3OIso8ikv7",
-                "name": "Lesson 7.3",
-                "topics": "Systems of Nonlinear Equations and Inequalities: Two Variables",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_a_system_of_nonlinear_equations": 0.85,
-                    "solving_a_system_of_nonlinear_equations_using_elimination": 0.85,
-                    "solving_a_system_of_nonlinear_equations_using_substitution": 0.85
-                }
-            },
-            {
-                "id": "2aCRYMxE-2ZE8-wOywAzd5iU",
-                "name": "Lesson 7.4",
-                "topics": "Partial Fractions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "decomposing_a_fraction_with_nonrepeating_quadratic_factors": 0.85,
-                    "decomposing_a_fraction_with_repeating_linear_factors": 0.85,
-                    "decomposing_a_rational_function_with_distinct_linear_factors": 0.85,
-                    "decomposing_polynomial_fractions_when_the_denominator_contains_a_nonrepeated_irreducible_quadratic_factor": 0.85,
-                    "decomposing_with_repeated_linear_factors": 0.85
-                }
-            },
-            {
-                "id": "19TtHZ3i-e6bp-RkinOCKNtx",
-                "name": "Lesson 7.5",
-                "topics": "Matrices and Matrix Operations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "adding_and_subtracting_matrices": 0.85,
-                    "finding_scalar_mulitples_of_a_matrix": 0.85,
-                    "finding_scalar_multiples_of_a_matrix": 0.85,
-                    "finding_the_product_of_two_matrices": 0.85,
-                    "finding_the_sum_and_difference_of_two_matrices": 0.85
-                }
-            },
-            {
-                "id": "5jWomuQb-zLms-pvKcgRHvn6",
-                "name": "Lesson 7.6",
-                "topics": "Solving Systems with Gaussian Elimination",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_a_2\u00d72_system_by_gaussian_elimination": 0.85,
-                    "solving_a_system_of_linear_equations_using_matrices": 0.85,
-                    "solving_systems_of_equations_with_matrices_using_a_calculator": 0.85,
-                    "writing_a_system_of_equations_from_an_augmented_matrix_form": 0.85,
-                    "writing_the_augmented_matrix_for_a_system_of_equations": 0.85
-                }
-            },
-            {
-                "id": "3BQInFnI-o1w1-YlOnrFwJf2",
-                "name": "Lesson 7.7",
-                "topics": "Solving Systems with Inverses",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_the_inverse_of_a_matrix": 0.85,
-                    "finding_the_multiplicative_inverse_of_2\u00d72_matrices_using_a_formula": 0.85,
-                    "solving_a_2_\u00d7_2_system_using_the_inverse_of_a_matrix": 0.85,
-                    "solving_a_system_of_linear_equations_using_the_inverse_of_a_matrix": 0.85
-                }
-            },
-            {
-                "id": "3Vwnph6Y-8qd1-KWLU6rYV5u",
-                "name": "Lesson 7.8",
-                "topics": "Solving Systems with Cramer's Rule",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "evaluating_the_determinant_of_a_2x2_matrix": 0.85,
-                    "evaluating_the_determinant_of_a_2\u00d72_matrix": 0.85,
-                    "evaluating_the_determinant_of_a_3x3_matrix": 0.85,
-                    "understanding_properties_of_determinants": 0.85,
-                    "using_cramer's_rule_to_solve_a_dependent_system": 0.85,
-                    "using_cramer's_rule_to_solve_a_system_of_three_equations_in_three_variable": 0.85,
-                    "using_cramer's_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85,
-                    "using_cramer's_rule_to_solve_an_inconsistent_system": 0.85,
-                    "using_cramer\u2019s_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85
-                }
-            },
-            {
-                "id": "2Dzwc1CW-WLl9-WTTfmokD0E",
-                "name": "Lesson 8.1",
-                "topics": "The Ellipse",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_the_area_of_an_ellipse": 0.85,
-                    "graphing_ellipses_centered_at_the_origin": 0.85,
-                    "graphing_ellipses_not_centered_at_the_origin": 0.85,
-                    "writing_equations_of_ellipses_in_standard_form": 0.85,
-                    "writing_equations_of_ellipses_not_centered_at_the_origin": 0.85
-                }
-            },
-            {
-                "id": "5zckWK0L-cDQi-gnJlhEjg1A",
-                "name": "Lesson 8.2",
-                "topics": "The Hyperbola",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "locating_the_vertices_and_foci_of_a_hyperbola": 0.85,
-                    "solving_applied_problems_involving_hyperbolas": 0.85,
-                    "writing_equations_of_hyperbolas_in_standard_form": 0.85
-                }
-            },
-            {
-                "id": "59N3CNUf-f2Gq-fTFKLCrwoi",
-                "name": "Lesson 8.3",
-                "topics": "The Parabola",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "graphing_parabolas_with_vertices_at_the_origin": 0.85,
-                    "graphing_parabolas_with_vertices_not_at_the_origin": 0.85,
-                    "writing_equations_of_parabolas_in_standard_form": 0.85,
-                    "writing_the_equation_of_a_parabola_in_standard_form": 0.85
-                }
-            },
-            {
-                "id": "3Sekv1y1-28lE-w7oEYweG1S",
-                "name": "Lesson 8.4",
-                "topics": "Rotation of Axes",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_a_new_representation_of_the_given_equation_after_rotating_through_a_given_angle": 0.85,
-                    "identifying_conics_without_rotating_axes": 0.85,
-                    "identifying_nondegenerate_conics_in_general_form": 0.85,
-                    "writing_equations_of_rotated_conics_in_standard_form": 0.85
-                }
-            },
-            {
-                "id": "73kzQ0HV-Bmzo-I9rP1WREuj",
-                "name": "Lesson 8.5",
-                "topics": "Conic Sections in Polar Coordinates",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "converting_a_conic_in_polar_form_to_rectangular_form": 0.85,
-                    "defining_conics_in_terms_of_a_focus_and_a_directrix": 0.85,
-                    "graphing_the_polar_equations_of_conics": 0.85,
-                    "identifying_a_conic_in_polar_form": 0.85
-                }
-            },
-            {
-                "id": "7f1mLZ5u-TsGh-alb19l9uo0",
-                "name": "Lesson 9.1",
-                "topics": "Sequences and Their Notations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_an_explicit_formula": 0.85,
-                    "investigating_piecewise_explicit_formulas": 0.85,
-                    "using_factorial_notation": 0.85,
-                    "writing_the_terms_of_a_sequence_defined_by_a_recursive_formula": 0.85,
-                    "writing_the_terms_of_a_sequence_defined_by_an_explicit_formula": 0.85
-                }
-            },
-            {
-                "id": "04yFM4Br-5O5h-Zzpt5kMyO7",
-                "name": "Lesson 9.2",
-                "topics": "Arithmetic Sequences",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_common_differences": 0.85,
-                    "using_explicit_formulas_for_arithmetic_sequences": 0.85,
-                    "using_recursive_formulas_for_arithmetic_sequences": 0.85,
-                    "writing_terms_of_arithmetic_sequences": 0.85
-                }
-            },
-            {
-                "id": "3oPdJuhV-1rRE-MHYeL3aPXG",
-                "name": "Lesson 9.3",
-                "topics": "Geometric Sequences",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_common_ratios": 0.85,
-                    "using_explicit_formulas_for_geometric_sequences": 0.85,
-                    "using_recursive_formulas_for_geometric_sequences": 0.85,
-                    "writing_terms_of_a_geometric_sequence": 0.85,
-                    "writing_terms_of_geometric_sequences": 0.85
-                }
-            },
-            {
-                "id": "4L9UM2aX-8Nag-62RSmvtbMo",
-                "name": "Lesson 9.4",
-                "topics": "Series and Their Notations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "using_the_formula_for_arithmetic_series": 0.85,
-                    "using_the_formula_for_geometric_series": 0.85,
-                    "using_the_formula_for_the_sum_of_an_infinite_geometric_series": 0.85
-                }
-            },
-            {
-                "id": "7FRSdKkZ-9keQ-NRn5MdDhEE",
-                "name": "Lesson 9.5",
-                "topics": "Counting Principles",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "find_the_number_of_combinations_using_the_formula": 0.85,
-                    "finding_the_number_of_permutations_of_n_distinct_objects_using_a_formula": 0.85,
-                    "finding_the_number_of_permutations_of_n_non_distinct_objects": 0.85,
-                    "finding_the_number_of_subsets_of_a_set": 0.85,
-                    "using_the_addition_principle": 0.85,
-                    "using_the_multiplication_principle": 0.85
-                }
-            },
-            {
-                "id": "2uZCKJn5-Rfj5-0Gd4q4gm0W",
-                "name": "Lesson 9.6",
-                "topics": "Binomial Theorem",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "finding_binomial_coefficients": 0.85,
-                    "identifying_binomial_coefficients": 0.85,
-                    "using_binomial_coefficients": 0.85,
-                    "using_the_binomial_theorem_to_find_a_single_term": 0.85
-                }
-            },
-            {
-                "id": "3w7NOynb-b0dw-nZx2cwXFrv",
-                "name": "Lesson 9.7",
-                "topics": "Probability",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "computing_probabilities_of_equally_likely_outcomes": 0.85,
-                    "computing_the_probability_of_mutually_exclusive_events": 0.85,
-                    "computing_the_probability_of_the_union_of_two_events": 0.85,
-                    "using_the_complement_rule_to_compute_probabilities": 0.85
-                }
-            }
-        ]
-    },
+[ 
     {
         "courseName": "OpenStax: Elementary Algebra",
         "courseOER": "https://openstax.org/details/books/elementary-algebra-2e <OpenStax: Elementary Algebra>",
@@ -2276,6 +1513,769 @@
                 "learningObjectives": {
                     "solve_quadratic_inequalities_algebraically": 0.85,
                     "solve_quadratic_inequalities_graphically": 0.85
+                }
+            }
+        ]
+    },
+    {
+        "courseName": "OpenStax: College Algebra",
+        "courseOER": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "4GRWDRDl-lqs6-4gccTByiE1",
+                "name": "Lesson 1.1",
+                "topics": "Real Numbers",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "classifying_a_real_number": 0.85,
+                    "evaluating_algebraic_expressions": 0.85,
+                    "performing_calculations_using_the_order_of_operations": 0.85
+                }
+            },
+            {
+                "id": "1KccDTdX-VnDC-TBshGp1HnX",
+                "name": "Lesson 1.2",
+                "topics": "Exponents and Scientific Notation",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_power_of_a_product": 0.85,
+                    "finding_the_quotient_of_a_product": 0.85,
+                    "using_scientific_notation": 0.85,
+                    "using_the_negative_exponent_rule_of_exponents": 0.85,
+                    "using_the_power_rule_of_exponents": 0.85,
+                    "using_the_product_exponent_rule_of_exponents": 0.85,
+                    "using_the_quotient_exponent_rule_of_exponents": 0.85,
+                    "using_the_quotient_rule_of_exponents": 0.85,
+                    "using_the_zero_exponent_rule_of_exponents": 0.85
+                }
+            },
+            {
+                "id": "53UT1DPR-4Xis-pzLPtK2GEq",
+                "name": "Lesson 1.3",
+                "topics": "Radicals and Rational Exponents",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "evaluating_square_roots": 0.85,
+                    "rationalizing_denominators": 0.85,
+                    "using_rational_roots": 0.85
+                }
+            },
+            {
+                "id": "0Ve33lOx-VPkV-tJrDaYRzvB",
+                "name": "Lesson 1.4",
+                "topics": "Polynomials",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "adding_and_subtracting_polynomials": 0.85,
+                    "multiplying_polynomials": 0.85
+                }
+            },
+            {
+                "id": "67l3G5S9-ExT1-h3NZwjtiGA",
+                "name": "Lesson 1.5",
+                "topics": "Factoring Polynomials",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "factoring_a_difference_of_squares": 0.85,
+                    "factoring_a_perfect_square_trinomial": 0.85,
+                    "factoring_a_trinomial_with_leading_coefficient_1": 0.85,
+                    "factoring_by_grouping": 0.85,
+                    "factoring_expressions_with_fractional_or_negative_exponents": 0.85,
+                    "factoring_the_greatest_common_factor_of_a_polynomial": 0.85,
+                    "factoring_the_sum_and_difference_of_cubes": 0.85
+                }
+            },
+            {
+                "id": "6F0kfNc6-olGw-D5T3htoRyj",
+                "name": "Lesson 1.6",
+                "topics": "Rational Expressions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "adding_and_subtracting_rational_expressions": 0.85,
+                    "dividing_rational_expressions": 0.85,
+                    "multiplying_rational_expressions": 0.85,
+                    "simplifying_complex_rational_expressions": 0.85
+                }
+            },
+            {
+                "id": "09J9RRpw-2qDC-DR94Zeciuw",
+                "name": "Lesson 2.1",
+                "topics": "The Rectangular Coordinate Systems and Graph",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_x_intercepts_and_y_intercepts": 0.85,
+                    "using_the_distance_formula": 0.85,
+                    "using_the_midpoint_formula": 0.85
+                }
+            },
+            {
+                "id": "5jHScXLH-AZRw-l3EyG7yC7r",
+                "name": "Lesson 2.2",
+                "topics": "Linear Equations in One Variable",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_whether_graphs_of_lines_are_parallel_or_perpendicular": 0.85,
+                    "finding_a_linear_equation": 0.85,
+                    "solving_a_rational_equation": 0.85,
+                    "solving_linear_equations_in_one_variable": 0.85,
+                    "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line": 0.85
+                }
+            },
+            {
+                "id": "4NrTs4At-CGhE-d1mz1Lyacz",
+                "name": "Lesson 2.3",
+                "topics": "Models and Applications",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "setting_up_a_linear_equation_to_solve_a_real_world_application": 0.85,
+                    "using_a_formula_to_solve_a_real_world_application": 0.85
+                }
+            },
+            {
+                "id": "2auMG51r-waxB-kZcksTznPV",
+                "name": "Lesson 2.4",
+                "topics": "Complex Numbers",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "adding_and_subtracting_complex_numbers": 0.85,
+                    "dividing_complex_numbers": 0.85,
+                    "expressing_square_roots_of_negative_numbers_as_multiples_of_i": 0.85,
+                    "multiplying_complex_numbers": 0.85,
+                    "simplifying_powers_of_i": 0.85
+                }
+            },
+            {
+                "id": "6GnAriQq-FWqh-0iR12cgG5a",
+                "name": "Lesson 2.5",
+                "topics": "Quadratic Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "completing_the_square": 0.85,
+                    "solving_a_quadratic_equation_by_factoring_when_the_leading_coefficient_is_not_1": 0.85,
+                    "solving_quadratic_equations_by_factoring": 0.85,
+                    "solving_quadratics_with_a_leading_coefficient_of_1": 0.85,
+                    "the_discriminant": 0.85,
+                    "using_the_pythagorean_theorem": 0.85,
+                    "using_the_quadratic_formula": 0.85,
+                    "using_the_square_root_property": 0.85
+                }
+            },
+            {
+                "id": "2xMaQuk6-ZsHV-fkMQ8nrZpR",
+                "name": "Lesson 2.6",
+                "topics": "Other Types of Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_an_absolute_value_equation": 0.85,
+                    "solving_equations_involving_rational_exponents": 0.85,
+                    "solving_equations_using_factoring": 0.85,
+                    "solving_other_types_of_equations": 0.85,
+                    "solving_radical_equations": 0.85,
+                    "sovling_equations_using_factoring": 0.85
+                }
+            },
+            {
+                "id": "6rmKqaQO-8bVB-tQiojlYH0j",
+                "name": "Lesson 2.7",
+                "topics": "Linear Inequalities and Absolute Value Inequalities",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_absolute_value_inequalities": 0.85,
+                    "solving_inequalities_in_one_variable_algebraically": 0.85,
+                    "understanding_compound_inequalities": 0.85,
+                    "using_interval_notation": 0.85,
+                    "using_the_properties_of_inequalities": 0.85
+                }
+            },
+            {
+                "id": "5wsHWBp9-G7Jl-M1yM4lJ4bW",
+                "name": "Lesson 3.1",
+                "topics": "Functions and Function Notation",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_whether_a_function_is_one_to_one": 0.85,
+                    "determining_whether_a_relation_represents_a_function": 0.85,
+                    "finding_input_and_output_values_of_a_function": 0.85
+                }
+            },
+            {
+                "id": "7XgNMW3C-frEZ-r3QxB9dPM8",
+                "name": "Lesson 3.2",
+                "topics": "Domain and Range",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_domain_and_range_from_graphs": 0.85,
+                    "finding_domains_and_ranges_of_the_toolkit_functions": 0.85,
+                    "finding_the_domain_of_a_function_defined_by_an_equation": 0.85,
+                    "graphing_piecewise_defined_functions": 0.85,
+                    "using_notations_to_specify_domain_and_range": 0.85
+                }
+            },
+            {
+                "id": "0OBdvxxx-nO68-hmYPAQtk7B",
+                "name": "Lesson 3.3",
+                "topics": "Rates of Change and Behavior of Graphs",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "decreasing": 0.85,
+                    "finding_the_average_rate_of_change_of_a_function": 0.85,
+                    "or_constant": 0.85,
+                    "use_a_graph_to_locate_the_absolute_maximum_and_absolute_minimum": 0.85,
+                    "using_a_graph_to_determine_where_a_function_is_increasing": 0.85
+                }
+            },
+            {
+                "id": "5cmrijlR-qta2-5QPBarJe6X",
+                "name": "Lesson 3.4",
+                "topics": "Composition of Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "combining_functions_using_algebraic_operations": 0.85,
+                    "create_a_function_by_composition_of_functions": 0.85,
+                    "decomposing_a_composite_function_into_its_component_functions": 0.85,
+                    "evaluating_composite_functions": 0.85
+                }
+            },
+            {
+                "id": "0rh9MJmC-eOsg-7cnri1BeQk",
+                "name": "Lesson 3.5",
+                "topics": "Transformation of Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_even_and_odd_functions": 0.85,
+                    "graphing_functions_using_reflections_about_the_axes": 0.85,
+                    "graphing_functions_using_vertical_and_horizontal_shifts": 0.85,
+                    "performing_a_sequence_of_transformation": 0.85,
+                    "rates_of_change": 0.85
+                }
+            },
+            {
+                "id": "03JnEhqR-xT5X-YC7alzbmQG",
+                "name": "Lesson 3.6",
+                "topics": "Absolute Value Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_an_absolute_value_equation": 0.85
+                }
+            },
+            {
+                "id": "5r0NMXU7-tm9Z-DbuY3zgwSB",
+                "name": "Lesson 3.7",
+                "topics": "Inverse Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_and_evaluating_inverse_functions": 0.85,
+                    "finding_domain_and_range_of_inverse_functions": 0.85,
+                    "finding_inverse_functions_and_their_graphs": 0.85,
+                    "verifying_that_two_functions_are_inverse_functions": 0.85
+                }
+            },
+            {
+                "id": "7HvOenA8-vBo7-a4Jgeuu78b",
+                "name": "Lesson 4.1",
+                "topics": "Linear Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "decreasing": 0.85,
+                    "determing_whether_a_linear_function_is_increasing": 0.85,
+                    "interpreting_slope_as_rate_of_change": 0.85,
+                    "modeling_real_world_problems_with_linear_functions": 0.85,
+                    "or_constant": 0.85,
+                    "representing_linear_functions": 0.85,
+                    "writing_and_interpreting_an_equation_for_a_linear_function": 0.85,
+                    "writing_the_equation_for_a_function_from_the_graph_of_a_line": 0.85,
+                    "writing_the_equation_of_a_line_parallel_or_perpendicular_to_a_given_line": 0.85
+                }
+            },
+            {
+                "id": "6ML1I4OA-ui8u-G6trskcJHU",
+                "name": "Lesson 4.2",
+                "topics": "Modeling with Linear Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "building_linear_models_from_verbal_descriptions": 0.85,
+                    "modeling_a_set_of_data_with_linear_functions": 0.85,
+                    "using_a_diagram_to_build_a_model": 0.85,
+                    "using_a_given_input_and_output_to_build_a_model": 0.85
+                }
+            },
+            {
+                "id": "1mvJsP9c-Y72x-5B0Etu6Plp",
+                "name": "Lesson 4.3",
+                "topics": "Fitting Linear Models to Data",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "drawing_and_interpreting_scatter_plots": 0.85,
+                    "fitting_a_regression_line_to_a_set_of_data": 0.85
+                }
+            },
+            {
+                "id": "5piAeH8j-rmvV-JEJmNfYfXv",
+                "name": "Lesson 5.1",
+                "topics": "Quadratic Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "applying_the_vertex_and_x_intercepts_of_a_parabola": 0.85,
+                    "determining_the_maximum_and_minimum_values_of_quadratic_functions": 0.85,
+                    "finding_the_domain_and_range_of_a_quadratic_function": 0.85,
+                    "finding_the_x__and_y_intercepts_of_a_quadratic_function": 0.85,
+                    "recognizing_characteristics_of_parabolas": 0.85,
+                    "rewriting_quadratics_in_standard_form": 0.85,
+                    "understanding_how_the_graphs_of_parabolas_are_related_to_their_quadratic_functions": 0.85
+                }
+            },
+            {
+                "id": "62euMqMm-rxFJ-14FXCgGm7t",
+                "name": "Lesson 5.2",
+                "topics": "Power Functions and Polynomial Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "comparing_smooth_and_continuous_graphs": 0.85,
+                    "identifiying_end_behavior_of_power_functions": 0.85,
+                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
+                    "identifiying_power_functions": 0.85,
+                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85
+                }
+            },
+            {
+                "id": "7Tn3BPUQ-pCqN-NvpeWpaOv9",
+                "name": "Lesson 5.3",
+                "topics": "Graphs of Polynomial Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "identifiying_zeroes_and_their_multiplicities": 0.85,
+                    "power_functions_&_polynomials": 0.85,
+                    "understanding_the_relationship_between_degree_and_turning_points": 0.85,
+                    "using_factoring_to_find_zeros_of_polynomial_functions": 0.85,
+                    "writing_formulas_for_polynomial_functions": 0.85
+                }
+            },
+            {
+                "id": "2VFAWOGo-RFqV-rkE93xHWD1",
+                "name": "Lesson 5.4",
+                "topics": "Dividing Polynomials",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "using_long_division_to_divide_polynomials": 0.85,
+                    "using_polynomial_division_in_application_problems": 0.85,
+                    "using_synthetic_division_to_divide_polynomials": 0.85
+                }
+            },
+            {
+                "id": "1TJtbzHI-TmKA-2id7uXv3ru",
+                "name": "Lesson 5.5",
+                "topics": "Zeros of Polynomial Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
+                    "finding_the_zeros_of_polynomial_functions": 0.85,
+                    "solving_real_world_applications": 0.85,
+                    "using_descartes\u2019_rule_of_signs": 0.85,
+                    "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85,
+                    "using_the_fundamental_theorem_of_algebra": 0.85,
+                    "using_the_linear_factorization_theorem_to_find_polynomials_with_given_zeros": 0.85,
+                    "using_the_rational_zero_theorem_to_find_rational_zeros": 0.85
+                }
+            },
+            {
+                "id": "1N3kHob5-3X9f-2Z4C1ol7Qi",
+                "name": "Lesson 5.6",
+                "topics": "Rational Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_domain_of_rational_functions": 0.85,
+                    "finding_the_domains_of_rational_functions": 0.85,
+                    "finding_the_intercepts_of_a_rational_function": 0.85,
+                    "identifying_horizontal_asymptotes_of_rational_functions": 0.85,
+                    "identifying_vertical_asymptotes_of_rational_functions": 0.85,
+                    "intercepts_of_rational_functions": 0.85
+                }
+            },
+            {
+                "id": "0HYhpQSW-pJ23-RGGRqihujB",
+                "name": "Lesson 5.7",
+                "topics": "Inverses and Radical Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_the_domain_of_a_radical_function_composed_with_other_functions": 0.85,
+                    "factoring_a_difference_of_cubes": 0.85,
+                    "factoring_a_difference_of_squares": 0.85,
+                    "factoring_a_sum_of_cubes": 0.85,
+                    "factoring_an_expression_with_fractional_or_negative_exponents": 0.85,
+                    "finding_inverses_of_rational_functions": 0.85,
+                    "finding_the_inverse_of_a_polynomial_function": 0.85,
+                    "restricting_the_domain_to_find_the_inverse_of_a_polynomial_function": 0.85,
+                    "solving_applications_of_radical_functions": 0.85
+                }
+            },
+            {
+                "id": "6cbE7l6i-79Tn-FSfiUlJpsU",
+                "name": "Lesson 5.8",
+                "topics": "Modeling Using Variation",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_direct_variation_problems": 0.85,
+                    "solving_inverse_variation_problems": 0.85,
+                    "solving_problems_involving_joint_variation": 0.85
+                }
+            },
+            {
+                "id": "6RkxqKSN-bT5C-nRtYv5qOf4",
+                "name": "Lesson 6.1",
+                "topics": "Exponential Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "applying_the_compound_interest_formula": 0.85,
+                    "applying_the_compoung_interest_formula": 0.85,
+                    "defining_exponential_growth": 0.85,
+                    "evaluating_exponential_function": 0.85,
+                    "evaluating_exponential_functions": 0.85,
+                    "evaluating_functinos_with_base_e": 0.85,
+                    "finding_equations_of_exponential_functions": 0.85,
+                    "identifying_exponential_functions": 0.85,
+                    "investigating_continuous_growth": 0.85
+                }
+            },
+            {
+                "id": "4YdfX8f5-AQWQ-uV8wQyPc02",
+                "name": "Lesson 6.2",
+                "topics": "Graphs of Exponential Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "graphing_exponential_functions": 0.85
+                }
+            },
+            {
+                "id": "7HUa9GIr-YBgf-Tud4955cNz",
+                "name": "Lesson 6.3",
+                "topics": "Logarithmic Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "converting_from_exponential_form_to_logarithmic_form": 0.85,
+                    "converting_from_exponential_to_logarithmic_form": 0.85,
+                    "converting_from_logarithmic_form_to_exponential_form": 0.85,
+                    "converting_from_logarithmic_to_exponential_form": 0.85,
+                    "evaluating_a_natural_logarithm_using_a_calculator": 0.85,
+                    "evaluating_logarithms": 0.85,
+                    "evaluating_the_logarithm_of_a_reciprocal": 0.85,
+                    "finding_the_value_of_a_common_logarithm_mentally": 0.85,
+                    "finding_the_value_of_a_common_logarithm_using_a_calculator": 0.85,
+                    "rewriting_and_solving_a_real_world_exponential_model": 0.85,
+                    "solving_logarithms_mentally": 0.85
+                }
+            },
+            {
+                "id": "2K4K7e34-YYJA-dreRwvyett",
+                "name": "Lesson 6.4",
+                "topics": "Graphs of Logarithmic Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_domain_of_a_logarithmic_function": 0.85,
+                    "graphing_logarithmic_functions": 0.85,
+                    "graphing_transformations_of_logarithmic_functions": 0.85
+                }
+            },
+            {
+                "id": "2YIIjXA4-rMQr-codjiwbXXT",
+                "name": "Lesson 6.5",
+                "topics": "Logarithmic Properties",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "condensing_logarithmic_expressions": 0.85,
+                    "expanding_logarithmic_expressions": 0.85,
+                    "the_power_rule_for_logarithms": 0.85,
+                    "the_product_rule_for_logarithms": 0.85,
+                    "the_properties_of_logarithms": 0.85,
+                    "the_quotient_rule_for_logarithms": 0.85,
+                    "using_the_change_of_base_formula_for_logarithms": 0.85,
+                    "using_the_power_rule_for_logarithms_to_simplify_the_logarithm_of_a_radical_expression": 0.85
+                }
+            },
+            {
+                "id": "1L7I8gtj-tipq-Kv968DjFSd",
+                "name": "Lesson 6.6",
+                "topics": "Exponential and Logarithmic Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_equations_using_the_one_to_one_property_of_logarithms": 0.85,
+                    "solving_exponential_equations_using_logarithms": 0.85,
+                    "solving_exponential_functions_in_quadratic_form": 0.85,
+                    "using_like_bases_to_solve_exponential_equations": 0.85,
+                    "using_the_definition_of_a_logarithm_to_solve_logarithmic_equations": 0.85
+                }
+            },
+            {
+                "id": "2eMHSMSs-zWTm-D11oLsFFor",
+                "name": "Lesson 6.7",
+                "topics": "Exponential and Logarithmic Models",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "calculating_doubling_time": 0.85,
+                    "expressing_an_exponential_model_in_base_e": 0.85,
+                    "logarithmic_application": 0.85,
+                    "modeling_exponential_growth_and_decay": 0.85,
+                    "use_newton's_law_of_cooling": 0.85,
+                    "using_logistic_growth_models": 0.85,
+                    "using_newton's_law_of_cooling": 0.85
+                }
+            },
+            {
+                "id": "4ERr1AbS-7liT-9mqMX6WkWp",
+                "name": "Lesson 6.8",
+                "topics": "Fitting Exponential Models to Data",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "building_a_logarithmic_model_from_data": 0.85,
+                    "building_a_logistic_model_from_data": 0.85,
+                    "building_an_exponential_model_from_data": 0.85
+                }
+            },
+            {
+                "id": "3aMZNfMb-negJ-8QWkColcJN",
+                "name": "Lesson 7.1",
+                "topics": "Systems of Linear Equations: Two Variables",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_systems_of_equations_by_graphing": 0.85,
+                    "solving_systems_of_equations_by_substitution": 0.85,
+                    "solving_systems_of_equations_in_two_variables_by_the_addition_method": 0.85,
+                    "using_systems_of_equations_to_investigate_profits": 0.85
+                }
+            },
+            {
+                "id": "4q5nZauP-1cJW-SPjxuTKxSO",
+                "name": "Lesson 7.2",
+                "topics": "Systems of Linear Equations: Three Variables",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_systems_of_three_equations_in_three_variables": 0.85
+                }
+            },
+            {
+                "id": "63meyj47-76Du-3OIso8ikv7",
+                "name": "Lesson 7.3",
+                "topics": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_a_system_of_nonlinear_equations": 0.85,
+                    "solving_a_system_of_nonlinear_equations_using_elimination": 0.85,
+                    "solving_a_system_of_nonlinear_equations_using_substitution": 0.85
+                }
+            },
+            {
+                "id": "2aCRYMxE-2ZE8-wOywAzd5iU",
+                "name": "Lesson 7.4",
+                "topics": "Partial Fractions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "decomposing_a_fraction_with_nonrepeating_quadratic_factors": 0.85,
+                    "decomposing_a_fraction_with_repeating_linear_factors": 0.85,
+                    "decomposing_a_rational_function_with_distinct_linear_factors": 0.85,
+                    "decomposing_polynomial_fractions_when_the_denominator_contains_a_nonrepeated_irreducible_quadratic_factor": 0.85,
+                    "decomposing_with_repeated_linear_factors": 0.85
+                }
+            },
+            {
+                "id": "19TtHZ3i-e6bp-RkinOCKNtx",
+                "name": "Lesson 7.5",
+                "topics": "Matrices and Matrix Operations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "adding_and_subtracting_matrices": 0.85,
+                    "finding_scalar_mulitples_of_a_matrix": 0.85,
+                    "finding_scalar_multiples_of_a_matrix": 0.85,
+                    "finding_the_product_of_two_matrices": 0.85,
+                    "finding_the_sum_and_difference_of_two_matrices": 0.85
+                }
+            },
+            {
+                "id": "5jWomuQb-zLms-pvKcgRHvn6",
+                "name": "Lesson 7.6",
+                "topics": "Solving Systems with Gaussian Elimination",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solving_a_2\u00d72_system_by_gaussian_elimination": 0.85,
+                    "solving_a_system_of_linear_equations_using_matrices": 0.85,
+                    "solving_systems_of_equations_with_matrices_using_a_calculator": 0.85,
+                    "writing_a_system_of_equations_from_an_augmented_matrix_form": 0.85,
+                    "writing_the_augmented_matrix_for_a_system_of_equations": 0.85
+                }
+            },
+            {
+                "id": "3BQInFnI-o1w1-YlOnrFwJf2",
+                "name": "Lesson 7.7",
+                "topics": "Solving Systems with Inverses",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_inverse_of_a_matrix": 0.85,
+                    "finding_the_multiplicative_inverse_of_2\u00d72_matrices_using_a_formula": 0.85,
+                    "solving_a_2_\u00d7_2_system_using_the_inverse_of_a_matrix": 0.85,
+                    "solving_a_system_of_linear_equations_using_the_inverse_of_a_matrix": 0.85
+                }
+            },
+            {
+                "id": "3Vwnph6Y-8qd1-KWLU6rYV5u",
+                "name": "Lesson 7.8",
+                "topics": "Solving Systems with Cramer's Rule",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "evaluating_the_determinant_of_a_2x2_matrix": 0.85,
+                    "evaluating_the_determinant_of_a_2\u00d72_matrix": 0.85,
+                    "evaluating_the_determinant_of_a_3x3_matrix": 0.85,
+                    "understanding_properties_of_determinants": 0.85,
+                    "using_cramer's_rule_to_solve_a_dependent_system": 0.85,
+                    "using_cramer's_rule_to_solve_a_system_of_three_equations_in_three_variable": 0.85,
+                    "using_cramer's_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85,
+                    "using_cramer's_rule_to_solve_an_inconsistent_system": 0.85,
+                    "using_cramer\u2019s_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85
+                }
+            },
+            {
+                "id": "2Dzwc1CW-WLl9-WTTfmokD0E",
+                "name": "Lesson 8.1",
+                "topics": "The Ellipse",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_area_of_an_ellipse": 0.85,
+                    "graphing_ellipses_centered_at_the_origin": 0.85,
+                    "graphing_ellipses_not_centered_at_the_origin": 0.85,
+                    "writing_equations_of_ellipses_in_standard_form": 0.85,
+                    "writing_equations_of_ellipses_not_centered_at_the_origin": 0.85
+                }
+            },
+            {
+                "id": "5zckWK0L-cDQi-gnJlhEjg1A",
+                "name": "Lesson 8.2",
+                "topics": "The Hyperbola",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "locating_the_vertices_and_foci_of_a_hyperbola": 0.85,
+                    "solving_applied_problems_involving_hyperbolas": 0.85,
+                    "writing_equations_of_hyperbolas_in_standard_form": 0.85
+                }
+            },
+            {
+                "id": "59N3CNUf-f2Gq-fTFKLCrwoi",
+                "name": "Lesson 8.3",
+                "topics": "The Parabola",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "graphing_parabolas_with_vertices_at_the_origin": 0.85,
+                    "graphing_parabolas_with_vertices_not_at_the_origin": 0.85,
+                    "writing_equations_of_parabolas_in_standard_form": 0.85,
+                    "writing_the_equation_of_a_parabola_in_standard_form": 0.85
+                }
+            },
+            {
+                "id": "3Sekv1y1-28lE-w7oEYweG1S",
+                "name": "Lesson 8.4",
+                "topics": "Rotation of Axes",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_a_new_representation_of_the_given_equation_after_rotating_through_a_given_angle": 0.85,
+                    "identifying_conics_without_rotating_axes": 0.85,
+                    "identifying_nondegenerate_conics_in_general_form": 0.85,
+                    "writing_equations_of_rotated_conics_in_standard_form": 0.85
+                }
+            },
+            {
+                "id": "73kzQ0HV-Bmzo-I9rP1WREuj",
+                "name": "Lesson 8.5",
+                "topics": "Conic Sections in Polar Coordinates",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "converting_a_conic_in_polar_form_to_rectangular_form": 0.85,
+                    "defining_conics_in_terms_of_a_focus_and_a_directrix": 0.85,
+                    "graphing_the_polar_equations_of_conics": 0.85,
+                    "identifying_a_conic_in_polar_form": 0.85
+                }
+            },
+            {
+                "id": "7f1mLZ5u-TsGh-alb19l9uo0",
+                "name": "Lesson 9.1",
+                "topics": "Sequences and Their Notations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_an_explicit_formula": 0.85,
+                    "investigating_piecewise_explicit_formulas": 0.85,
+                    "using_factorial_notation": 0.85,
+                    "writing_the_terms_of_a_sequence_defined_by_a_recursive_formula": 0.85,
+                    "writing_the_terms_of_a_sequence_defined_by_an_explicit_formula": 0.85
+                }
+            },
+            {
+                "id": "04yFM4Br-5O5h-Zzpt5kMyO7",
+                "name": "Lesson 9.2",
+                "topics": "Arithmetic Sequences",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_common_differences": 0.85,
+                    "using_explicit_formulas_for_arithmetic_sequences": 0.85,
+                    "using_recursive_formulas_for_arithmetic_sequences": 0.85,
+                    "writing_terms_of_arithmetic_sequences": 0.85
+                }
+            },
+            {
+                "id": "3oPdJuhV-1rRE-MHYeL3aPXG",
+                "name": "Lesson 9.3",
+                "topics": "Geometric Sequences",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_common_ratios": 0.85,
+                    "using_explicit_formulas_for_geometric_sequences": 0.85,
+                    "using_recursive_formulas_for_geometric_sequences": 0.85,
+                    "writing_terms_of_a_geometric_sequence": 0.85,
+                    "writing_terms_of_geometric_sequences": 0.85
+                }
+            },
+            {
+                "id": "4L9UM2aX-8Nag-62RSmvtbMo",
+                "name": "Lesson 9.4",
+                "topics": "Series and Their Notations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "using_the_formula_for_arithmetic_series": 0.85,
+                    "using_the_formula_for_geometric_series": 0.85,
+                    "using_the_formula_for_the_sum_of_an_infinite_geometric_series": 0.85
+                }
+            },
+            {
+                "id": "7FRSdKkZ-9keQ-NRn5MdDhEE",
+                "name": "Lesson 9.5",
+                "topics": "Counting Principles",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "find_the_number_of_combinations_using_the_formula": 0.85,
+                    "finding_the_number_of_permutations_of_n_distinct_objects_using_a_formula": 0.85,
+                    "finding_the_number_of_permutations_of_n_non_distinct_objects": 0.85,
+                    "finding_the_number_of_subsets_of_a_set": 0.85,
+                    "using_the_addition_principle": 0.85,
+                    "using_the_multiplication_principle": 0.85
+                }
+            },
+            {
+                "id": "2uZCKJn5-Rfj5-0Gd4q4gm0W",
+                "name": "Lesson 9.6",
+                "topics": "Binomial Theorem",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_binomial_coefficients": 0.85,
+                    "identifying_binomial_coefficients": 0.85,
+                    "using_binomial_coefficients": 0.85,
+                    "using_the_binomial_theorem_to_find_a_single_term": 0.85
+                }
+            },
+            {
+                "id": "3w7NOynb-b0dw-nZx2cwXFrv",
+                "name": "Lesson 9.7",
+                "topics": "Probability",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "computing_probabilities_of_equally_likely_outcomes": 0.85,
+                    "computing_the_probability_of_mutually_exclusive_events": 0.85,
+                    "computing_the_probability_of_the_union_of_two_events": 0.85,
+                    "using_the_complement_rule_to_compute_probabilities": 0.85
                 }
             }
         ]
