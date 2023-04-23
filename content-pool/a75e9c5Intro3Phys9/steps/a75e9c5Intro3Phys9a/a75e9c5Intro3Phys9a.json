@@ -1,0 +1,12 @@
+{
+    "id": "a75e9c5Intro3Phys9a",
+    "stepAnswer": [
+        "$$1.91$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "You throw a ball straight up with an initial velocity of $$15.0$$ $$\\frac{m}{s}$$. It passes a tree branch on the way up at a height of $$7.00$$ $$m$$. How much additional time will pass before the ball passes the tree branch on the way back down?",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$1.91$$"
+}

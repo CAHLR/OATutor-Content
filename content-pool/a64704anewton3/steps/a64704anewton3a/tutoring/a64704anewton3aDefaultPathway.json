@@ -1,0 +1,145 @@
+[
+    {
+        "id": "a64704anewton3a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Equations",
+        "text": "$$F_{net}$$ $$=$$ ma, where $$F_{net}$$ is the net force, $$m$$ is the mass, and a is the acceleration, and $$F_{net}$$ $$=$$ T - f, where T is the thrust and f is the force of friction opposing the motion.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton3a-h1"
+        ],
+        "title": "What to Calculate",
+        "text": "Set the two equations equal to one another such that ma $$=$$ T - f. Plug values into this equation and solve for a, the magnitude of acceleration.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$2100$$"
+        ],
+        "dependencies": [
+            "a64704anewton3a-h2"
+        ],
+        "title": "Mass",
+        "text": "What is $$m$$, the mass of the system in kg?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": [
+            "2.4 x 10**4"
+        ],
+        "dependencies": [
+            "a64704anewton3a-h2"
+        ],
+        "title": "Thrust",
+        "text": "What is T, the thrust (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$650$$"
+        ],
+        "dependencies": [
+            "a64704anewton3a-h2"
+        ],
+        "title": "Force of Friction Opposing the Motion",
+        "text": "What is f, the force of friction opposing the motion (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h6",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton3a-h5"
+        ],
+        "title": "Substituting Into the Equation",
+        "text": "Plug the mass, thrust, and force of friction values into ma $$=$$ T - f.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h7",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton3a-h6"
+        ],
+        "title": "Plugged-In Equation",
+        "text": "The plugged-in equation is 2100a $$=$$ $$2.4$$ $$x$$ $${10}^4$$ - $$650$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h8",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton3a-h7"
+        ],
+        "title": "Dividing Both Sides of the Equation",
+        "text": "Divide both sides of the equation 2100a $$=$$ $$2.4$$ $$x$$ $${10}^4$$ - $$650$$ by $$2100$$ to get a on one side.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton3a-h9",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$2100$$"
+        ],
+        "dependencies": [
+            "a64704anewton3a-h8"
+        ],
+        "title": "Solving for a",
+        "text": "Solve for a $$=$$ $$(2.4$$ $$x$$ $${10}^4$$ - 650)/2100. Round up to the nearest whole number.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "subHints": [
+            {
+                "id": "a64704anewton3a-h9-s1",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$2100$$"
+                ],
+                "dependencies": [],
+                "title": "Simplifying and Calculating the Magnitude of Acceleration",
+                "text": "Simplification:\\na $$=$$ $$(2.4$$ $$x$$ $${10}^4$$ - 650)/2100\\na $$=$$ $$(2.4$$ $$x$$ 10,000 - 650)/2100\\na $$=$$ (24,000 - 650)/2100\\na $$=$$ 23,350/2100\\nRound your answer up to the nearest whole number.",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            }
+        ]
+    }
+]

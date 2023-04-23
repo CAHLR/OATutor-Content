@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy28a",
+    "stepAnswer": [
+        "$$0.02\\%$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "When non-metric units were used in the United Kingdom, a unit of mass called the pound-mass (lbm) was employed, where $$1$$ lbm $$=0.4539kg$$. (a) If there is an uncertainty of $$0.0001kg$$ in the pound-mass unit, what is its percent uncertainty",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$0.02\\%$$"
+}

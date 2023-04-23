@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy10b",
+    "stepAnswer": [
+        "$$3$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "State how many significant figures are proper in\\nthe results of the following calculations: $$1.01\\frac{106.7\\times98.2}{46.21}$$",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$3$$"
+}

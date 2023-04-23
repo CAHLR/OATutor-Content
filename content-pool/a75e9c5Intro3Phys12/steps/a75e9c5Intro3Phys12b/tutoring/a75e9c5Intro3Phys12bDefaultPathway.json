@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys12b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Acceleration",
+        "text": "There's no acceleration here because it's sound traveling, that's not an object moving.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys12b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys12b-h1"
+        ],
+        "title": "Total time",
+        "text": "We will need to find the time for going frome to the top to the bottom of the hill, the subtract the time for the noise to attact the hiker's intentions",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

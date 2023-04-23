@@ -1,0 +1,46 @@
+[
+    {
+        "id": "a9b798fIntroPhy29a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "First solve for kg that has 1kg of uncertainty then solve for lbm",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy29a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$5000$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy29a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "What kg will have 1kg of item with $$0.02\\%$$ as uncertainty?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy29a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1{10}^4$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy29a-h2"
+        ],
+        "title": "Sub-questions",
+        "text": "5000kg $$=$$ ?lbm keep only $$1$$ sig-fig",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

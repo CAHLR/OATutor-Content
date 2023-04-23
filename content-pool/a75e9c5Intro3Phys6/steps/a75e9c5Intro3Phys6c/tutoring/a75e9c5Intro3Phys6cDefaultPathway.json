@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys6c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Solving",
+        "text": "We can solve this problem by doing plus or minus sqrt(inital $${speed}^2$$ - $$2{acceleration}^2$$ times final position minus inital position)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

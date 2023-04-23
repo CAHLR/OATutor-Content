@@ -1,0 +1,16 @@
+{
+    "id": "a8aec89graphs12a",
+    "stepAnswer": [
+        "Car A"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Two cars are side by side on a path where friction is negligible. Car A starts from rest and has a positive, constant acceleration while car B travels at a constant speed. The cars reach the same check point down the road at the same time. Which car is traveling faster at the check point?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Car A",
+        "Car B",
+        "Same speed"
+    ]
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys15a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Velocity",
+        "text": "Final $${velocity}^2$$ $$=$$ initial velocity** subtracted by $$2acceleration$$ multiplied by the change in position. We can rearrange this equation to solve for position.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a75e9c5Intro3Phys15a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys15a-h1"
+        ],
+        "title": "Solving",
+        "text": "We can use the following formula to solve: sqrt(-2*acceleration*(final height-initial height)",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

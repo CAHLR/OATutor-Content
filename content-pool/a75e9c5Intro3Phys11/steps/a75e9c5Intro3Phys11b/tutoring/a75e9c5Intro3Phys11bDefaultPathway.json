@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys11b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Speed",
+        "text": "Final $${speed}^2$$ $$=$$ inital $${speed}^2$$ - $$2acceleration$$ multipled by change in height",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

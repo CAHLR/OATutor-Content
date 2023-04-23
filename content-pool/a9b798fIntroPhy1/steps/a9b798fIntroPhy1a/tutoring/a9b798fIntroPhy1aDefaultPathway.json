@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a9b798fIntroPhy1a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "$$3$$ % uncertainty of whole $$65$$ kg",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy1a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy1a-h1"
+        ],
+        "title": "What's the formula for calculating uncertainty? Apply that to find 65*3%",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
