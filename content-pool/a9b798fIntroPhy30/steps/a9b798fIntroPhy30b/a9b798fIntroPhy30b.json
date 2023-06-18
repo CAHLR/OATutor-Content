@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy30b",
+    "stepAnswer": [
+        "$$143.51$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A car engine moves a piston with a circular cross section of $$7.5+-0.002$$ cm diameter a distance of $$3.250$$ +- $$0.001$$ cmto compress the gas in the cylinder. (a) By what amount is the gas decreased in volume in cubic centimeters?",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$143.51$$"
+}

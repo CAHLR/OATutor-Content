@@ -1,0 +1,41 @@
+[
+    {
+        "id": "aa3e09eIntroPhy10a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "Recollect the unit-unit conversion from km to feet.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy10a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$3.6$$"
+        ],
+        "dependencies": [
+            "aa3e09eIntroPhy10a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "Use question $$3$$ $$\\frac{1m}{s}$$ $$=$$? $$\\frac{km}{h}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy10a-h3",
+        "type": "hint",
+        "dependencies": [
+            "aa3e09eIntroPhy10a-h2"
+        ],
+        "title": "We now have $$342$$ of $$\\frac{m}{s}$$ and $$\\frac{1m}{s}$$ $$=\\frac{3.6km}{h}$$, convert that",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

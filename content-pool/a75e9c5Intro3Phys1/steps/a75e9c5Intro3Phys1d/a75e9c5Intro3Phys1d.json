@@ -1,0 +1,18 @@
+{
+    "id": "a75e9c5Intro3Phys1d",
+    "stepAnswer": [
+        "$$10.4m-\\frac{4.6m}{s}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Calculate the displacement and velocity at a time of $$2.00$$ s for a ball thrown straight up with an initial velocity of $$15.0$$ $$\\frac{m}{s}$$. Take the point of release to be $$y0=0$$",
+    "stepBody": "Answer is in the form (displacement,velocity)",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$10.4m-\\frac{4.6m}{s}$$",
+    "choices": [
+        "$$10.3m-\\frac{4.6m}{s}$$",
+        "$$10.5m-\\frac{4.7m}{s}$$",
+        "$$10.4m-\\frac{4.6m}{s}$$",
+        "$$10.7m-\\frac{4.6m}{s}$$"
+    ]
+}

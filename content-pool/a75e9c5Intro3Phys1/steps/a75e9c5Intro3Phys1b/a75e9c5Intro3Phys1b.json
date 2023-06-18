@@ -1,0 +1,17 @@
+{
+    "id": "a75e9c5Intro3Phys1b",
+    "stepAnswer": [
+        "(10.1m,5.20m/s)"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Calculate the displacement and velocity at a time of $$1.00$$ s for a ball thrown straight up with an initial velocity of $$15.0$$ $$\\frac{m}{s}$$. Take the point of release to be $$y0=0$$",
+    "stepBody": "Answer is in the form (displacement,velocity)",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "(10.1m,5.20m/s)",
+        "(10.3m,5.10m/s)",
+        "(10.5m,4.95m/s)",
+        "(10.2m,5.10m/s)"
+    ]
+}

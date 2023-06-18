@@ -1,0 +1,12 @@
+{
+    "id": "ad09381accel4a",
+    "stepAnswer": [
+        "$$1.43$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A commuter backs her car out of her garage with an acceleration of $$1.40$$ $$\\frac{m}{s^2}$$. How long does it take her to reach a speed of $$2.00$$ $$\\frac{m}{s}$$? The answer should be in seconds.",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$1.43$$"
+}

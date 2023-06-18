@@ -1,0 +1,12 @@
+{
+    "id": "a75e9c5Intro3Phys11b",
+    "stepAnswer": [
+        "$$-38.3$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "An object is dropped from a height of $$75.0$$ $$m$$ above ground level. (b) Determine the final velocity at which the object hits the ground.",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$-38.3$$"
+}

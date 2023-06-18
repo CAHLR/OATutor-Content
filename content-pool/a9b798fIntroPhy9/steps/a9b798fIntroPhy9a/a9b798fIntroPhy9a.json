@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy9a",
+    "stepAnswer": [
+        "$$67$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A can contains $$375$$ mL of soda. How much is left\\nafter $$308$$ mL is removed?",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$67$$"
+}

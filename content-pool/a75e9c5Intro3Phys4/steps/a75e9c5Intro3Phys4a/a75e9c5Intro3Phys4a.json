@@ -1,0 +1,16 @@
+{
+    "id": "a75e9c5Intro3Phys4a",
+    "stepAnswer": [
+        "(V=-1.4m/s,t=1.8s,y=0)"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "A rescue helicopter is hovering over a person whose boat has sunk. One of the rescuers throws a life preserver straight down to the victim with an initial velocity of $$1.40$$ $$\\frac{m}{s}$$ and observes that it takes $$1.8$$ s to reach the water. List the knowns in this problem.",
+    "stepBody": "Note that the downdraft of the helicopter reduces the effects of air resistance on the falling life preserver, so that an acceleration equal to that of gravity is reasonable.",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "(V=-1.4m/s,t=1.8s,y=0)",
+        "(V=-1.5m/s,t=1s,y=0)",
+        "(V=-1.43m/s,t=1.84s,y=0)"
+    ]
+}

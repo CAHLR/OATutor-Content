@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys9c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Position",
+        "text": "The final position is equal to inital position + inital velocity times time elapse + $$\\frac{acceleration}{2}$$ multiplied by $${time}^2$$. We can rearrange this and plug in unkowns to find time in the air.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

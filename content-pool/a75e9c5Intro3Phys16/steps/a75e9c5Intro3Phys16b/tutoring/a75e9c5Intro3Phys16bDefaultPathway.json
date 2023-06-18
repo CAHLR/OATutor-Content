@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys16b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Position",
+        "text": "Position can be calculated as follows: initial $$position+initial$$ $$velocity time+0.5acceleration {time}^2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys16b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys16b-h1"
+        ],
+        "title": "velocity",
+        "text": "Velocity can be calculated as follows: initial $$velocity+acceleration time$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

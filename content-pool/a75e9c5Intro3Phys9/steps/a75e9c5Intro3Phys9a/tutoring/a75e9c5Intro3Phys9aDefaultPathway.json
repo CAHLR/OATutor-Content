@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys9a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Quadratic Formula",
+        "text": "You can use the quadratoc formula to slolev for $$t$$.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a75e9c5Intro3Phys9a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys9a-h1"
+        ],
+        "title": "Position Y",
+        "text": "$$y$$ $$=$$ initial velocity * time + $$\\frac{acceleration}{2}$$ * $${time}^2$$",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

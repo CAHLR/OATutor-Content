@@ -1,0 +1,12 @@
+{
+    "id": "ab04de2veloc2a",
+    "stepAnswer": [
+        "$$5.53$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Allen encountered a headwind averaging $$2.00$$ $$\\frac{m}{s}$$ almost precisely in the opposite direction of his motion relative to the Earth and flew at an average velocity of $$3.53$$ $$\\frac{m}{s}$$ in a direction 45\u00b0 south of east. What was his average velocity $$\\frac{m}{s}$$ relative to the air?",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$5.53$$"
+}

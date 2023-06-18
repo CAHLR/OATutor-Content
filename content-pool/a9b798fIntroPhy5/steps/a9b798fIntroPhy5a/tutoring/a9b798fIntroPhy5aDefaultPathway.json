@@ -1,0 +1,41 @@
+[
+    {
+        "id": "a9b798fIntroPhy5a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "Convert absolute uncertainty to percent uncertainty",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy5a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$5$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy5a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "What's absolute uncerntainty",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy5a-h3",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy5a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "What's that of the whole $$130$$ pulses?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

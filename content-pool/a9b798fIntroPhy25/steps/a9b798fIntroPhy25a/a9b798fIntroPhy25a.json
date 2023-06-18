@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy25a",
+    "stepAnswer": [
+        "$$0.003$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "What is the uncertainty in the average\\nspeed",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$0.003$$"
+}

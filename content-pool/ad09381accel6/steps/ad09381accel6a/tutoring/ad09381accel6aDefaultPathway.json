@@ -1,0 +1,52 @@
+[
+    {
+        "id": "ad09381accel6a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Acceleration Equation",
+        "text": "Average acceleration is defined as the change in velocity divided by the change in time.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ad09381accel6a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$60$$"
+        ],
+        "dependencies": [],
+        "title": "Velocity",
+        "text": "What is the change in velocity in $$\\frac{km}{s}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ad09381accel6a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6.5$$"
+        ],
+        "dependencies": [],
+        "title": "Time",
+        "text": "What is the change in time in s?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ad09381accel6a-h4",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Multiples of G",
+        "text": "When calculating acceleration in multiples of g, divide acceleration by g, $$9.80$$ $$\\frac{m}{s^2}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

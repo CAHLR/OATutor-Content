@@ -1,0 +1,97 @@
+[
+    {
+        "id": "a9b798fIntroPhy19a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.5$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "30s in minutes",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy19a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$80$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy19a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "Heart beat in a minute",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy19a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.025$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy19a-h2"
+        ],
+        "title": "Sub-questions",
+        "text": "Percent Uncertainty of heart beat",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy19a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.016$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy19a-h3"
+        ],
+        "title": "Sub-questions",
+        "text": "Percent Uncertainty of time",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy19a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.04$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy19a-h4"
+        ],
+        "title": "Sub-questions",
+        "text": "Total percent uncertainty",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy19a-h6",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy19a-h5"
+        ],
+        "title": "Use formula to convert percent uncertainty to uncertainty, keep correct sig-figs.",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

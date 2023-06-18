@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys15b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Velocity",
+        "text": "We can calculate this velocity by using the following formula: sqrt(initial velocity+2*acceleration*(final height-initial height))",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

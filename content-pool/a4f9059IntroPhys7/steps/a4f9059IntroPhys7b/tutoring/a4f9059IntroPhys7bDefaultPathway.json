@@ -1,0 +1,41 @@
+[
+    {
+        "id": "a4f9059IntroPhys7b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bacterium mass",
+        "text": "the mass of a bacterium is on the order of $${10}^{\\left(-15\\right)}$$ kg.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys7b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a4f9059IntroPhys7b-h1"
+        ],
+        "title": "Human mass",
+        "text": "The mass of an average human is $${10}^2$$.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys7b-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$${10}^{16}$$"
+        ],
+        "dependencies": [
+            "a4f9059IntroPhys7b-h2"
+        ],
+        "title": "Calculate",
+        "text": "$$\\frac{{10}^2}{10{10}^{\\left(-15\\right)}}$$",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

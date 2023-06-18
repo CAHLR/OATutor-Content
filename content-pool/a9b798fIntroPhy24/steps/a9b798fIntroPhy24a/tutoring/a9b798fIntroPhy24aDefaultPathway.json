@@ -1,0 +1,46 @@
+[
+    {
+        "id": "a9b798fIntroPhy24a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$46188$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "Distance is?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy24a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$9012$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy24a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "TIme is?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy24a-h3",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy24a-h2"
+        ],
+        "title": "Use formula $$v=\\frac{Distance}{Time}$$",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

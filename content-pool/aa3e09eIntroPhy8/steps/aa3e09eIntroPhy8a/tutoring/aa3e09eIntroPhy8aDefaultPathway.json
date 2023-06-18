@@ -1,0 +1,75 @@
+[
+    {
+        "id": "aa3e09eIntroPhy8a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "Re collect unit conversion from yard to feet and then feet to meters",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy8a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$12$$"
+        ],
+        "dependencies": [
+            "aa3e09eIntroPhy8a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "$$1$$ feet $$=$$ ? inch",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy8a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$73$$"
+        ],
+        "dependencies": [
+            "aa3e09eIntroPhy8a-h2"
+        ],
+        "title": "Sub-questions",
+        "text": "$$6$$ ft and $$1$$ inch $$=$$ ?inch",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy8a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.025$$"
+        ],
+        "dependencies": [
+            "aa3e09eIntroPhy8a-h3"
+        ],
+        "title": "Sub-questions",
+        "text": "$$1$$ inch $$=$$ ?m",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy8a-h5",
+        "type": "hint",
+        "dependencies": [
+            "aa3e09eIntroPhy8a-h4"
+        ],
+        "title": "We have $$73$$ inches and convert that to meters",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

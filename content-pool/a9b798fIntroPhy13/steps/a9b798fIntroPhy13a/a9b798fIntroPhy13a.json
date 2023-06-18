@@ -1,0 +1,18 @@
+{
+    "id": "a9b798fIntroPhy13a",
+    "stepAnswer": [
+        "$$2$$ and $$3$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "(a) How many significant figures are in the\\nnumbers $$99$$ and 100?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$2$$ and $$3$$",
+    "choices": [
+        "$$2$$ and $$3$$",
+        "$$1$$ and $$2$$",
+        "$$2$$ and $$1$$",
+        "$$2$$ and $$2$$"
+    ]
+}
