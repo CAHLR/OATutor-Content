@@ -1,0 +1,17 @@
+{
+    "id": "a75e9c5Intro3Phys16b",
+    "stepAnswer": [
+        "$$262m-\\frac{29.3m}{s}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "A coin is dropped from a hot-air balloon that is $$300$$ $$m$$ above the ground and rising at $$10.0$$ $$\\frac{m}{s}$$ upward. For the coin, find (b) its position and velocity $$4.00$$ s after being released",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$262m-\\frac{29.3m}{s}$$",
+    "choices": [
+        "$$262m-\\frac{29.3m}{s}$$",
+        "$$242m-\\frac{29.5m}{s}$$",
+        "$$261m-\\frac{29.8m}{s}$$"
+    ]
+}

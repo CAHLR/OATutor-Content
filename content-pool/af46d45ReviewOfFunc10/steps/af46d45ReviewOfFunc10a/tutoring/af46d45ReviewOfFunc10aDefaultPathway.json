@@ -1,0 +1,36 @@
+[
+    {
+        "id": "af46d45ReviewOfFunc10a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "Plug in $$0$$, what's the result",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "af46d45ReviewOfFunc10a-h2",
+        "type": "hint",
+        "dependencies": [
+            "af46d45ReviewOfFunc10a-h1"
+        ],
+        "title": "Plug in $$1$$, what's the result",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "af46d45ReviewOfFunc10a-h3",
+        "type": "hint",
+        "dependencies": [
+            "af46d45ReviewOfFunc10a-h2"
+        ],
+        "title": "Using the above info, determine the answer by plugging in requried value each time",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

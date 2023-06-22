@@ -1,0 +1,80 @@
+[
+    {
+        "id": "a9b798fIntroPhy23a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$120$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "$$2$$ $$h$$ $$=$$? minutes",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy23a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$7200$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy23a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "$$120$$ $$minutes=?seconds$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy23a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1800$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy23a-h2"
+        ],
+        "title": "Sub-questions",
+        "text": "$$30$$ minutes $$=$$? seconds",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy23a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$9012$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy23a-h3"
+        ],
+        "title": "Sub-questions",
+        "text": "Total seconds",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy23a-h5",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy23a-h4"
+        ],
+        "title": "Use formula to convert uncertainty to percent uncertainty, keep correct sig-figs.",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": "af46d45ReviewOfFunc14a",
+    "stepAnswer": [
+        "a.-2,b.3,c.13,d.-5x-2,e.-5a-2,f.5a+5h-2"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "For the following exercises, find the domain, range, and all $$zeros/intercepts$$, if any, of the functions.",
+    "stepBody": "$$f(x)=\\frac{x}{x^2-16}$$",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "a.-2,b.3,c.13,d.-5x-2,e.-5a-2,f.5a+5h-2",
+        "not a function",
+        "$$zero(-4,0)$$, domain: exclude $$4$$ range:0 to $$\\infty$$",
+        "zero: $$(0,0)$$ domain: exclude $$4$$ and $$-4$$ from R, range:-inf to $$+\\infty$$",
+        "$$zero:(4,0)$$ domain: R range: $$-\\infty$$ to $$0$$"
+    ]
+}

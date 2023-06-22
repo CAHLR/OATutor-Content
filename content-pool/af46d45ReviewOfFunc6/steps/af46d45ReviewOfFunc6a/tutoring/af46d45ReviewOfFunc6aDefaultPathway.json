@@ -1,0 +1,17 @@
+[
+    {
+        "id": "af46d45ReviewOfFunc6a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "Is $$x$$ and $$y$$ one to one? If yes, type $$1$$, if not, type $$0$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

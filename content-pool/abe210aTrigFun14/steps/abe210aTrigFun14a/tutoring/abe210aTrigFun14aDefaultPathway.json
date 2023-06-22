@@ -1,0 +1,53 @@
+[
+    {
+        "id": "abe210aTrigFun14a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Unit Circle $$1$$",
+        "text": "The value inside the parenthesis of the sin refers to an angle which also corresponds to a point on the unit circle.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "abe210aTrigFun14a-h2",
+        "type": "hint",
+        "dependencies": [
+            "abe210aTrigFun14a-h1"
+        ],
+        "title": "Unit Circle $$2$$",
+        "text": "The angle $$\\frac{\u03c0}{6}$$ corresponds to the point $$(\\frac{\\sqrt{3}}{2},\\frac{1}{2})$$ on the unit circle.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "abe210aTrigFun14a-h3",
+        "type": "hint",
+        "dependencies": [
+            "abe210aTrigFun14a-h2"
+        ],
+        "title": "Definition of trigonometric functions",
+        "text": "Letting \ud835\udf03 be an angle, csc\ud835\udf03 $$=$$ $$\\frac{1}{y}$$, sec\ud835\udf03 $$=$$ $$\\frac{1}{x}$$, and cot\ud835\udf03 $$=$$ $$\\frac{x}{y}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "abe210aTrigFun14a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$\\frac{2}{\\sqrt{3}}$$"
+        ],
+        "dependencies": [
+            "abe210aTrigFun14a-h3"
+        ],
+        "title": "Combining",
+        "text": "Based on the above information, what is the value of sec\ud835\udf03 at the angle $$\\frac{\u03c0}{6}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

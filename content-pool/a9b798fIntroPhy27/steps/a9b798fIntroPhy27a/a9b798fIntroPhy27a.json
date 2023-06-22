@@ -1,0 +1,18 @@
+{
+    "id": "a9b798fIntroPhy27a",
+    "stepAnswer": [
+        "$$11+-1$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "The sides of a small rectangular box are measured to be $$1.8+-0.01cm$$, $$2.05+-0.02cm$$ and $$3.1+-0.1cm$$ long. Calculate its volume and uncertainty in cubic centimeters.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$11+-1$$",
+    "choices": [
+        "$$11+-1$$",
+        "$$12+-1$$",
+        "$$11+-0.5$$",
+        "$$12+-2$$"
+    ]
+}

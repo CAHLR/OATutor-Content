@@ -1,0 +1,12 @@
+{
+    "id": "abe210aTrigFun13a",
+    "stepAnswer": [
+        "$$\\frac{-\\sqrt{2}}{2}$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Evaluate the expression, sin((-3\ud835\udf45)/4) .",
+    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$\\frac{-\\sqrt{2}}{2}$$"
+}

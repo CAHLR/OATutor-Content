@@ -1,0 +1,18 @@
+{
+    "id": "af46d45ReviewOfFunc18a",
+    "stepAnswer": [
+        "zero: DNE domain: $$(9,\\infty)$$, $$range:(0,\\infty)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "For the following exercises, find the domain, range, and all $$zeros/intercepts$$, if any, of the functions.",
+    "stepBody": "$$f(x)=\\frac{1}{\\sqrt{x-9}}$$",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "zero: DNE domain: $$(9,\\infty)$$, $$range:(0,\\infty)$$",
+    "choices": [
+        "zero: DNE domain: $$[9,\\infty)$$, $$range:[0,\\infty)$$",
+        "not a function",
+        "zero: DNE domain: $$[9,\\infty)$$, $$range:(0,\\infty)$$",
+        "zero: DNE domain: $$(9,\\infty)$$, $$range:(0,\\infty)$$"
+    ]
+}

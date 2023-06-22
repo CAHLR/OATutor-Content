@@ -1,0 +1,12 @@
+{
+    "id": "a75e9c5Intro3Phys14a",
+    "stepAnswer": [
+        "$$19.6$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Suppose you drop a rock into a dark well and, using precision equipment, you measure the time for the sound of a splash to return. (a) Neglecting the time required for sound to travel up the well, calculate the distance to the water if the sound returns in $$2.0000$$ s. The speed of sound is $$332.00$$ $$\\frac{m}{s}$$ in this well.",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$19.6$$"
+}

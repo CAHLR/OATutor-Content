@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy17a",
+    "stepAnswer": [
+        "$$0.02$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "(a) A person\u2019s blood pressure is measured to be $$120+2$$ mmHg or $$120-2mmHg$$. What is its percent uncertainty",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$0.02$$"
+}

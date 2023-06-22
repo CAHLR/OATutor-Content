@@ -1,0 +1,12 @@
+{
+    "id": "a75e9c5Intro3Phys4b",
+    "stepAnswer": [
+        "$$18$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A rescue helicopter is hovering over a person whose boat has sunk. One of the rescuers throws a life preserver straight down to the victim with an initial velocity of $$1.40$$ $$\\frac{m}{s}$$ and observes that it takes $$1.8$$ s to reach the water How high above the water was the preserver released?",
+    "stepBody": "Note that the downdraft of the helicopter reduces the effects of air resistance on the falling life preserver, so that an acceleration equal to that of gravity is reasonable. Input your answer in terms of meters.",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$18$$"
+}

@@ -1,0 +1,155 @@
+[
+    {
+        "id": "abd3dd1prob1a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Newton\u2019s Laws of Motion",
+        "text": "$$F_{net}$$ $$=$$ T - f - mg $$=$$ ma such that a $$=$$ (T - f - mg)/m, where $$F_{net}$$ is the net force, $$m$$ is the mass, a is the acceleration, g is the acceleration of an object due to gravity, T is the thrust, and f is the force of friction opposing the motion.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h2",
+        "type": "hint",
+        "dependencies": [
+            "abd3dd1prob1a-h1"
+        ],
+        "title": "Solving for a",
+        "text": "Plug values into a $$=$$ (T - f - mg)/m to find a, the acceleration.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1.250$$ $$x$$ $${10}^7$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h2"
+        ],
+        "title": "Thrust",
+        "text": "What is T, the thrust (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$4.50$$ $$x$$ $${10}^6$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h2"
+        ],
+        "title": "Force of Friction Opposing the Motion",
+        "text": "What is f, the force of friction opposing the motion (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$5.00$$ $$x$$ $${10}^5$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h2"
+        ],
+        "title": "Mass",
+        "text": "What is $$m$$, the mass of the rocket in kg?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h6",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$9.8$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h2"
+        ],
+        "title": "Acceleration Due to Gravity",
+        "text": "What is g, the acceleration of an object due to gravity $$\\frac{m}{s^2}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "subHints": [
+            {
+                "id": "abd3dd1prob1a-h6-s1",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$9.8$$"
+                ],
+                "dependencies": [],
+                "title": "Acceleration Towards Earth Value",
+                "text": "The rocket is being accelerated towards the earth by gravity, which has a value of $$9.8$$ $$\\frac{m}{s^2}$$. What is g?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            }
+        ]
+    },
+    {
+        "id": "abd3dd1prob1a-h7",
+        "type": "hint",
+        "dependencies": [
+            "abd3dd1prob1a-h6"
+        ],
+        "title": "Plugging Into the Equation",
+        "text": "Substitute the values into a $$=$$ (T - f - mg)/m.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h8",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6.2$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h7"
+        ],
+        "title": "Plugged-In Equation",
+        "text": "The plugged-in equation is a $$=$$ $$(1.250$$ $$x$$ $${10}^7$$ N - $$4.50$$ $$x$$ $${10}^6$$ N - $$(5.00$$ $$x$$ $${10}^5$$ $$kg)(9.80$$ m/s**2))/5.00 $$x$$ $${10}^5$$ kg. Solve for a.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob1a-h9",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6.2$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob1a-h8"
+        ],
+        "title": "Simplified Equation",
+        "text": "a $$=$$ $$(1.250$$ $$x$$ $${10}^7$$ N - $$4.50$$ $$x$$ $${10}^6$$ N - $$(5.00$$ $$x$$ $${10}^5$$ $$kg)(9.80$$ m/s**2))/5.00 $$x$$ $${10}^5$$ kg\\na $$=$$ (12,500,000 - 4,500,000 N - (500,000 $$kg)(9.80$$ m/s**2))/500,000 kg\\na $$=$$ (8,000,000 N - 4,900,000 kg)/500,000 kg\\na $$=$$ 3,100,000/500,000\\nWhat is a, the rocket's acceleration?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

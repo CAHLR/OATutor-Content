@@ -1,0 +1,16 @@
+{
+    "id": "ab04de2veloc5a",
+    "stepAnswer": [
+        "Second Runner"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "If the front runner is $$250$$ meters from the finish line, who will win the race, assuming they run at constant velocity?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Second Runner",
+        "Front Runner",
+        "Second Runner"
+    ]
+}

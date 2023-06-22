@@ -1,0 +1,48 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys13a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Top position",
+        "text": "The top position is the height above ground + window height.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a75e9c5Intro3Phys13a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys13a-h1"
+        ],
+        "title": "Solving",
+        "text": "We can use the formula as follow to get the upward velocity: top height - above ground height + .5*acceleration*time**2)/time.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a75e9c5Intro3Phys13a-h3",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys13a-h2"
+        ],
+        "title": "Final Speed",
+        "text": "Final $${speed}^2$$ $$=$$ inital $${speed}^2$$ - $$2acceleration$$ multipled by change in height",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a75e9c5Intro3Phys13a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys13a-h3"
+        ],
+        "title": "Initial Velocity",
+        "text": "The inital velocity is equal to sqrt((upward velocity**2)+2*acceleration*height))",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

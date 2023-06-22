@@ -1,0 +1,70 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys1a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Acceleration",
+        "text": "Because of gravity, the ball has an acceleration of $$\\frac{-9.8m}{s^2}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys1a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys1a-h1"
+        ],
+        "title": "Displacement",
+        "text": "To calculate the displacement, we can use the formula inital velocity multiplied by time in the air + $$\\frac{acceleration}{2}$$ multiplied by time squared.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys1a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6.275$$"
+        ],
+        "dependencies": [
+            "a75e9c5Intro3Phys1a-h2"
+        ],
+        "title": "Calculate",
+        "text": "$$15\\times0.5+0.5\\times-9.8 {0.5}^2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys1a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys1a-h3"
+        ],
+        "title": "Velocity",
+        "text": "To calculate velocity, we can use the formula initial velocity + acceleration multiplied by time elapsed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys1a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$10.1$$"
+        ],
+        "dependencies": [
+            "a75e9c5Intro3Phys1a-h4"
+        ],
+        "title": "Calculate",
+        "text": "$$15\\times-9.8\\times0.5$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys11c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Solving",
+        "text": "$$height-\\frac{1}{2} {acceleration}^2$$ times the time at which object is at y1.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

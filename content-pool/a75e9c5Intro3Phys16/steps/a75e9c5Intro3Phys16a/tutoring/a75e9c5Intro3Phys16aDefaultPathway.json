@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys16a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Maximum Height",
+        "text": "We can use the follwing to find max height. Max $$height=(initial$$ height-initial velocity**2)/2/-acceleration.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

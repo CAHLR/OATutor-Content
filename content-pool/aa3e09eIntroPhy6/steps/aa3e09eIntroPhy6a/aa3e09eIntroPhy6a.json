@@ -1,0 +1,12 @@
+{
+    "id": "aa3e09eIntroPhy6a",
+    "stepAnswer": [
+        "$$91$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "American football is played on a 100-yd-long field,\\nexcluding the end zones. How long is the field in\\nmeters? (Assume that $$1$$ meter equals $$3.281$$ feet.)",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$91$$"
+}

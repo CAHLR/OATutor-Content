@@ -1,0 +1,18 @@
+{
+    "id": "abe210aTrigFun1a",
+    "stepAnswer": [
+        "$$\\frac{4\u03c0}{3}$$ radians"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Convert the angle, $$240$$ degrees, from degrees to radians.",
+    "stepBody": "Write the answer as a multiple of \ud835\udf45.",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$\\frac{4\u03c0}{3}$$ radians",
+    "choices": [
+        "$$\\frac{4\u03c0}{3}$$ radians",
+        "$$\\frac{4}{3}$$ radians",
+        "$$\\frac{8\u03c0}{3}$$ radians",
+        "$$\\frac{5\u03c0}{3}$$ radians"
+    ]
+}

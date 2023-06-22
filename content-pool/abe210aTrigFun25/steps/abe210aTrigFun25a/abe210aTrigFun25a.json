@@ -1,0 +1,19 @@
+{
+    "id": "abe210aTrigFun25a",
+    "stepAnswer": [
+        "$$cos\\left(x\\right) cos\\left(x\\right)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$sin\\left(x\\right) \\left(\\operatorname{csc}\\left(x\\right)-sin\\left(x\\right)\\right)$$",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$cos\\left(x\\right) cos\\left(x\\right)$$",
+    "choices": [
+        "(cos(x)*cos(x)",
+        "$$1$$",
+        "$$cos\\left(x\\right) cos\\left(x\\right)$$",
+        "sec(x)",
+        "$$sin\\left(x\\right) sin\\left(x\\right)$$"
+    ]
+}

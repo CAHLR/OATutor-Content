@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys4b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Inital position",
+        "text": "We can rearrange the formula: final $$position=initial$$ position + Initial Velocity times time - $$\\frac{aceleration}{2}$$ multiplied by time squared.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

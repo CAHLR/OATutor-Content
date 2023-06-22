@@ -1,0 +1,87 @@
+[
+    {
+        "id": "a64704anewton2a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Newton\u2019s Second Law of Motion",
+        "text": "In equation form, Newton\u2019s second law of motion is a $$=$$ $$\\frac{F_{net}}{m}$$, where a is the acceleration, $$F_{net}$$ is the net external force, and $$m$$ is the mass. When only the magnitude of force and acceleration are considered, this equation is simply $$F_{net}$$ $$=$$ ma.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton2a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton2a-h1"
+        ],
+        "title": "What to Calculate",
+        "text": "To find the magnitude of acceleration, we must solve for a in a $$=$$ $$\\frac{F_{net}}{m}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton2a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$60$$"
+        ],
+        "dependencies": [
+            "a64704anewton2a-h2"
+        ],
+        "title": "The Net External Force",
+        "text": "What is F, the net external force (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton2a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$4.5$$"
+        ],
+        "dependencies": [
+            "a64704anewton2a-h2"
+        ],
+        "title": "Mass",
+        "text": "What is $$m$$, the mass of the laundry cart in kg?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton2a-h5",
+        "type": "hint",
+        "dependencies": [
+            "a64704anewton2a-h4"
+        ],
+        "title": "Substituting Into the Equation",
+        "text": "Plug the net external force and mass values into a $$=$$ $$\\frac{F_{net}}{m}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a64704anewton2a-h6",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$13.3$$"
+        ],
+        "dependencies": [
+            "a64704anewton2a-h5"
+        ],
+        "title": "Plugged-In Equation",
+        "text": "The plugged-in equation is a $$=$$ $$\\frac{60}{4.5}$$. What is a, the magnitude of acceleration? Round to the nearest tenths place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

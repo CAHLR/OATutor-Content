@@ -1,0 +1,12 @@
+{
+    "id": "a4f9059IntroPhys4a",
+    "stepAnswer": [
+        "$${10}^{12}$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Calculate the approximate number of atoms in a bacterium. Assume that the average mass of an atom in the bacterium is ten times the mass of a hydrogen atom.",
+    "stepBody": "(Hint: The mass of a hydrogen atom is on the order of $${10}^{\\left(-27\\right)}$$ kg and the mass of a bacterium is on the order of $${10}^{\\left(-15\\right)}$$ kg.)",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$${10}^{12}$$"
+}

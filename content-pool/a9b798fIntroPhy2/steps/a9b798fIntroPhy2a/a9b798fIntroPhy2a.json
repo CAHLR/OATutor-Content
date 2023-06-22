@@ -1,0 +1,12 @@
+{
+    "id": "a9b798fIntroPhy2a",
+    "stepAnswer": [
+        "$$2.5{10}^{-4}$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A good-quality measuring tape can be off by $$0.50$$\\ncm over a distance of $$20$$ $$m$$. What is its percent\\nuncertainty",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$2.5{10}^{-4}$$"
+}

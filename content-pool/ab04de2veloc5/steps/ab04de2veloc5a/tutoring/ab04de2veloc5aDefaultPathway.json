@@ -1,0 +1,187 @@
+[
+    {
+        "id": "ab04de2veloc5a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Velocity Formula",
+        "text": "Velocity is displacement (change in position) divided by the time of travel. The velocity equation is shown, where \u1e7d is the average velocity, \u25b3x is the change in position (or displacement), and $$x_f$$ and $$x_0$$ are the final and beginning positions at times $$t_f$$ and $$t_0$$, respectively. If the starting time $$t_0$$ is taken to be zero, then the average velocity is simply \u1e7d $$=$$ \u25b3x/t.\\n##figure1.gif##",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h2",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc5a-h1"
+        ],
+        "title": "What to Calculate",
+        "text": "To find out which runner will win the race, compare the times it takes both runners to finish the marathon race by reordering the equation \u1e7d $$=$$ \u25b3x/t to solve for t: $$t$$ $$=$$ \u25b3x/\u1e7d.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h3",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc5a-h2"
+        ],
+        "title": "Substituting Into the Equation",
+        "text": "Plug the values in for $$t$$ $$=$$ \u25b3x/\u1e7d.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$250$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h3"
+        ],
+        "title": "Change in Position (Displacement)",
+        "text": "What is \u25b3x, the change in position (or displacement)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$3.5$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h3"
+        ],
+        "title": "Front Runner Velocity",
+        "text": "What is the velocity (\u1e7d) of the front runner?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h6",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$4.2$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h3"
+        ],
+        "title": "Second Runner Velocity",
+        "text": "What is the velocity (\u1e7d) of the second runner?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h7",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc5a-h6"
+        ],
+        "title": "Front Runner Time",
+        "text": "Solve for the front runner's time by plugging your values into $$t$$ $$=$$ \u25b3x/\u1e7d.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h8",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$71.43$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h7"
+        ],
+        "title": "Calculating the Front Runner Time",
+        "text": "The front runner's velocity and displacement was $$3.5$$ $$\\frac{m}{s}$$ and $$250$$ meters, respectively. What is $$t$$ (in seconds) $$=$$ \u25b3x/\u1e7d $$=$$ $$\\frac{250}{3.5}$$? Round to the nearest hundredths place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h9",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc5a-h8"
+        ],
+        "title": "Second Runner Time",
+        "text": "Solve for the second runner's time by plugging your values into $$t$$ $$=$$ \u25b3x/\u1e7d. Remember that the first two runners are separated by a distance of $$45.0$$ meters.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h10",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$70.24$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h9"
+        ],
+        "title": "Calculating the Second Runner Time",
+        "text": "The second runner's velocity and displacement was $$4.2$$ $$\\frac{m}{s}$$ and (250 + 45) meters, respectively. What is $$t$$ (in seconds) $$=$$ \u25b3x/\u1e7d $$=$$ $$\\frac{295}{4.2}$$? Round to the nearest hundredths place.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc5a-h11",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Second Runner"
+        ],
+        "dependencies": [
+            "ab04de2veloc5a-h10"
+        ],
+        "title": "Comparing Runner Times",
+        "text": "Comparing the front runner and second runner's times to run the marathon race, which runner was faster, and thus, won the race?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "choices": [
+            "Front Runner",
+            "Second Runner"
+        ],
+        "subHints": [
+            {
+                "id": "ab04de2veloc5a-h11-s1",
+                "type": "scaffold",
+                "problemType": "MultipleChoice",
+                "answerType": "string",
+                "hintAnswer": [
+                    "Second Runner"
+                ],
+                "dependencies": [],
+                "title": "Numeric Comparison of Runners",
+                "text": "The front runner took $$\\pm 71.43$$ seconds to run the marathon and the second runner took $$\\pm 70.24$$ seconds to run the marathon. Which runner took the shortest amount of time to run the marathon?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+                "choices": [
+                    "Front Runner",
+                    "Second Runner"
+                ]
+            }
+        ]
+    }
+]

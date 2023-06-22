@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys5b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Max height",
+        "text": "Maximum height is when velocity $$=$$ $$0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys5b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys5b-h1"
+        ],
+        "title": "Final Velocity",
+        "text": "Final $${velocity}^2$$ $$=$$ inital $${velocity}^2$$ plus $$2$$ times acceleration * final position - inital position.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

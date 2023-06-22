@@ -1,0 +1,63 @@
+[
+    {
+        "id": "a9b798fIntroPhy2a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Breaking down the question",
+        "text": "Convert absolute uncertainty to percent uncertainty",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy2a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.01$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy2a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "$$1$$ cm $$=$$ ? $$m$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy2a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.005$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy2a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "$$0.50$$ cm $$=$$ ? $$m$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy2a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.00025$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy2a-h3"
+        ],
+        "title": "Sub-questions",
+        "text": "What's percent will $$0.005m$$ be of $$20$$ $$m$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

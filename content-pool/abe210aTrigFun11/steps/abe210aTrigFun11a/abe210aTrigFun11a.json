@@ -1,0 +1,12 @@
+{
+    "id": "abe210aTrigFun11a",
+    "stepAnswer": [
+        "$$-0.5$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Evaluate the expression, cos((4\ud835\udf45)/3) .",
+    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$-0.5$$"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "a75e9c5Intro3Phys3a",
+    "stepAnswer": [
+        "$$4.95$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A basketball referee tosses the ball straight up for the starting tip-off. At what minimum velocity must a basketball player leave the ground to rise $$1.25$$ $$m$$ above the floor in an attempt to get the ball?",
+    "stepBody": "Input answer in terms of $$\\frac{m}{s}$$. Round to the hundredth place.",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$4.95$$"
+}

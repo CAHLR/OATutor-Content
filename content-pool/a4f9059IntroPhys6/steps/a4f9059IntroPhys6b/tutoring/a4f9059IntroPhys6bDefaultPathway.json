@@ -1,0 +1,41 @@
+[
+    {
+        "id": "a4f9059IntroPhys6b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Earth's diameter",
+        "text": "The earth's diameter is 12,756 km.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys6b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a4f9059IntroPhys6b-h1"
+        ],
+        "title": "Mountain's height",
+        "text": "The highest mountain, Mt. Everest, is approximately $$8.8$$ km",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys6b-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6.9{10}^{\\left(-4\\right)}$$"
+        ],
+        "dependencies": [
+            "a4f9059IntroPhys6b-h2"
+        ],
+        "title": "calculate",
+        "text": "$$\\frac{8.8}{12756}$$",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

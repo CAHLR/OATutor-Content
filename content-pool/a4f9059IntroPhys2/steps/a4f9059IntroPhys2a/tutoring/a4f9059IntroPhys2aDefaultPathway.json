@@ -1,0 +1,41 @@
+[
+    {
+        "id": "a4f9059IntroPhys2a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Lifespan",
+        "text": "The average lifespan of a human in the world is approximately $$72$$ years.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys2a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a4f9059IntroPhys2a-h1"
+        ],
+        "title": "Years since $$0$$ AD",
+        "text": "It is $$2023$$ AD, so $$2023$$ years have passed since $$0$$ AD",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a4f9059IntroPhys2a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$84$$"
+        ],
+        "dependencies": [
+            "a4f9059IntroPhys2a-h2"
+        ],
+        "title": "Calculate (Round to the nearest whole number)",
+        "text": "$$\\frac{2023}{\\frac{72}{3}}$$",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

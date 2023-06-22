@@ -1,0 +1,153 @@
+[
+    {
+        "id": "abd3dd1prob2a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Newton's Second Law of Motion",
+        "text": "$$D_F$$ - $$R_F$$ $$=$$ mg, where $$m$$ is the mass, g is the acceleration of an object, $$D_F$$ is the driving force, and $$R_F$$ is the resistive force.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h2",
+        "type": "hint",
+        "dependencies": [
+            "abd3dd1prob2a-h1"
+        ],
+        "title": "What to Calculate",
+        "text": "The problem asks us to find the total force that resists the motion of the car, boat, and trailer. As such, we must solve for $$R_F$$, the resistive force, and reorder the formula $$D_F$$ - $$R_F$$ $$=$$ mg to $$R_F$$ $$=$$ $$D_F$$ - mg, which we will use.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1900$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob2a-h2"
+        ],
+        "title": "Driving Force",
+        "text": "What is $$D_F$$, the driving force (N)?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1800$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob2a-h2"
+        ],
+        "title": "Mass",
+        "text": "What is $$m$$, the total mass in kg?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "subHints": [
+            {
+                "id": "abd3dd1prob2a-h4-s1",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$1800$$"
+                ],
+                "dependencies": [],
+                "title": "How to Calculate the Total Mass",
+                "text": "To find the total mass of the car, boat, and trailer, we must add together the mass of the boat plus the trailer and the mass of the car pulling the boat on the trailer. What answer do you get?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            },
+            {
+                "id": "abd3dd1prob2a-h4-s2",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$1800$$"
+                ],
+                "dependencies": [],
+                "title": "Mass Equation",
+                "text": "What is $$1100$$ kg + $$700$$ kg?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            }
+        ]
+    },
+    {
+        "id": "abd3dd1prob2a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.55$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob2a-h2"
+        ],
+        "title": "Acceleration",
+        "text": "What is g, the acceleration?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h6",
+        "type": "hint",
+        "dependencies": [
+            "abd3dd1prob2a-h5"
+        ],
+        "title": "Plugging Into the Equation",
+        "text": "Substitute the values into $$R_F$$ $$=$$ $$D_F$$ - mg.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h7",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$910$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob2a-h6"
+        ],
+        "title": "Plugged-In Equation",
+        "text": "The plugged-in equation is $$R_F$$ $$=$$ $$1900$$ - $$1800\\times0.55$$. Solve for $$R_F$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "abd3dd1prob2a-h8",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$910$$"
+        ],
+        "dependencies": [
+            "abd3dd1prob2a-h7"
+        ],
+        "title": "Simplified Equation",
+        "text": "$$R_F$$ $$=$$ $$1900$$ - $$1800\\times0.55$$\\n$$R_F$$ $$=$$ $$1900$$ - $$990$$\\nWhat is $$R_F$$, the total resistive force?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

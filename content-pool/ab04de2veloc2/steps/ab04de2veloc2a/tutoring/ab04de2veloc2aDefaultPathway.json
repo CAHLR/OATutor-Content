@@ -1,0 +1,121 @@
+[
+    {
+        "id": "ab04de2veloc2a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Average Velocity",
+        "text": "The average velocity equation is as follows: \ud835\udcb1 $$=$$ \ud835\udcb1' - $$V_a$$, where \ud835\udcb1 is the velocity relative to the ground, \ud835\udcb1' is the velocity relative to the air, and $$V_a$$ is the air's speed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc2a-h2",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc2a-h1"
+        ],
+        "title": "Reordering the Equation",
+        "text": "In the problem, we are asked to find the average velocity $$\\frac{m}{s}$$ relative to the air. As such, we must reorder the equation \ud835\udcb1 $$=$$ \ud835\udcb1' - $$V_a$$ to solve for \ud835\udcb1'. The final equation we will be calculating is \ud835\udcb1' $$=$$ \ud835\udcb1 + $$V_a$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc2a-h3",
+        "type": "hint",
+        "dependencies": [
+            "ab04de2veloc2a-h2"
+        ],
+        "title": "Substituting Into the Equation",
+        "text": "Plug the values for \ud835\udcb1 and $$V_a$$ into the equation \ud835\udcb1' $$=$$ \ud835\udcb1 + $$V_a$$. Remember that \ud835\udcb1 is the velocity relative to the ground and $$V_a$$ is the air's speed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ab04de2veloc2a-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$3.53$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc2a-h3"
+        ],
+        "title": "Velocity Relative to the Ground",
+        "text": "What is \ud835\udcb1, Allen's velocity relative to the ground $$\\frac{m}{s}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "subHints": [
+            {
+                "id": "ab04de2veloc2a-h4-s1",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$3.53$$"
+                ],
+                "dependencies": [],
+                "title": "Finding the Velocity Relative to the Ground",
+                "text": "Allen's velocity relative to the ground (\ud835\udcb1) is the direction that is opposite the headwind at 45\u00b0 north of west. As such, what is the average velocity in a direction 45\u00b0 south of east $$\\frac{m}{s}$$?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            }
+        ]
+    },
+    {
+        "id": "ab04de2veloc2a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$2$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc2a-h3"
+        ],
+        "title": "The Air's Speed",
+        "text": "What is $$V_a$$, the air's speed?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "subHints": [
+            {
+                "id": "ab04de2veloc2a-h5-s1",
+                "type": "scaffold",
+                "problemType": "TextBox",
+                "answerType": "arithmetic",
+                "hintAnswer": [
+                    "$$2$$"
+                ],
+                "dependencies": [],
+                "title": "Finding the Air's Speed",
+                "text": "The air's speed $$V_a$$ is the average velocity of the headwind in the opposite direction of his motion relative to the Earth. What is $$V_a$$ $$\\frac{m}{s}$$?",
+                "variabilization": {},
+                "oer": "https://OATutor.io <OATutor>",
+                "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+            }
+        ]
+    },
+    {
+        "id": "ab04de2veloc2a-h6",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$5.53$$"
+        ],
+        "dependencies": [
+            "ab04de2veloc2a-h5"
+        ],
+        "title": "Final Plugged-In Equation",
+        "text": "The plugged-in equation for \ud835\udcb1' $$=$$ \ud835\udcb1 + $$V_a$$ is \ud835\udcb1' $$=$$ $$3.53$$ + $$2.00$$. What is the answer $$\\frac{m}{s}$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

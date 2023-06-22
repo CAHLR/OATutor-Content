@@ -1,0 +1,12 @@
+{
+    "id": "a4f9059IntroPhys7a",
+    "stepAnswer": [
+        "$${10}^{12}$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Calculate the number of cells in a hummingbird assuming the mass of an average cell is ten times the mass of a bacterium.",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$${10}^{12}$$"
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys3a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Acceleration",
+        "text": "Because of gravity, the rock has an acceleration of $$\\frac{-9.8m}{s^2}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys3a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys3a-h1"
+        ],
+        "title": "velocity",
+        "text": "To calculate velocity, we can use the formula sqrt of $$-2$$ times acceleration times the final position.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys3a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$4.9497$$"
+        ],
+        "dependencies": [
+            "a75e9c5Intro3Phys3a-h2"
+        ],
+        "title": "calculate",
+        "text": "$$\\sqrt{-2\\times-9.8\\times1.25}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

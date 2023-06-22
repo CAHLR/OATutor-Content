@@ -1,0 +1,29 @@
+[
+    {
+        "id": "aa3e09eIntroPhy13b-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1000$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "$$1$$ km $$=$$ ? $$m$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "aa3e09eIntroPhy13b-h2",
+        "type": "hint",
+        "dependencies": [
+            "aa3e09eIntroPhy13b-h1"
+        ],
+        "title": "Convert kilometers to meter and we are done",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

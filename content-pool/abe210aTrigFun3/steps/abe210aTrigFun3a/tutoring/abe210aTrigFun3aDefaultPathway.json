@@ -1,0 +1,47 @@
+[
+    {
+        "id": "abe210aTrigFun3a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Conversion between degrees and radians",
+        "text": "Remember that $$180$$ degrees is equal to \ud835\udf45 radians.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "abe210aTrigFun3a-h2",
+        "type": "hint",
+        "dependencies": [
+            "abe210aTrigFun3a-h1"
+        ],
+        "title": "Conversion Factor",
+        "text": "$$1=((\ud835\udf45$$ rad)/180 $$degrees)=(180$$ degrees/(\ud835\udf45 rad))",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "abe210aTrigFun3a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$\\frac{\\left(-\u03c0\\right)}{3}$$ radians"
+        ],
+        "dependencies": [
+            "abe210aTrigFun3a-h2"
+        ],
+        "title": "Calculate",
+        "text": "$$-60$$ degrees * ((\ud835\udf45 rad)/180 degrees)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$\\frac{\\left(-\u03c0\\right)}{3}$$ radians",
+            "$$\\left(-\\frac{\u03c0}{12}\\right)$$ radians",
+            "$$\\frac{\u03c0}{8}$$ radians",
+            "$$\\frac{\u03c0}{3}$$ radians"
+        ]
+    }
+]

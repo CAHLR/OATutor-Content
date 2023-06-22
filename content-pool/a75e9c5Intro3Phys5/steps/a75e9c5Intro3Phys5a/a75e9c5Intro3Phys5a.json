@@ -1,0 +1,17 @@
+{
+    "id": "a75e9c5Intro3Phys5a",
+    "stepAnswer": [
+        "$$(a=\\frac{-9.8m}{s^2}$$, $$v=\\frac{13m}{s}$$, $$y_0=0m)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "A dolphin in an aquatic show jumps straight up out of the water at a velocity of $$13.0$$ $$\\frac{m}{s}$$. List the knowns in this problem.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$(a=\\frac{-9.8m}{s^2}$$, $$v=\\frac{13m}{s}$$, $$y_0=0m)$$",
+    "choices": [
+        "$$(a=\\frac{-9.8m}{s^2}$$, $$v=\\frac{13m}{s}$$, $$y_0=0m)$$",
+        "( $$v=\\frac{13m}{s}$$, $$y_0=0m)$$",
+        "$$(a=\\frac{-9.8m}{s^2}$$, $$v=\\frac{11m}{s}$$, $$y_0=0m)$$"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "a8aec89graphs8a",
+    "stepAnswer": [
+        "$$12$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A graph of v(t) is shown for a world-class track sprinter in a $$100-m$$ race. What is his instantaneous velocity at $$t=5$$ s?",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$12$$",
+    "choices": [
+        "$$-3$$ $$\\frac{m}{s}$$",
+        "$$-5$$ $$\\frac{m}{s}$$",
+        "$$12$$",
+        "$$2.5$$ $$\\frac{m}{s}$$",
+        "$$4$$ $$\\frac{m}{s}$$"
+    ]
+}

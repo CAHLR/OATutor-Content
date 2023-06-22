@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys17d-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Velocity",
+        "text": "Final $${velocity}^2$$ $$=$$ initial velocity** subtracted by $$2acceleration$$ multiplied by the change in position. We can rearrange this equation to solve for position.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys17d-h1",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys17a-h2"
+        ],
+        "title": "Compression",
+        "text": "We can use the following formula to find compression: (initial negative velocity**2)/(2*acceleration**2)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

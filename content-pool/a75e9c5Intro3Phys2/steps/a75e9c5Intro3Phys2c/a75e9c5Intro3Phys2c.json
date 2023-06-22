@@ -1,0 +1,17 @@
+{
+    "id": "a75e9c5Intro3Phys2c",
+    "stepAnswer": [
+        "$$\\left(-32m-\\frac{28.7m}{s}\\right)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Calculate the displacement and velocity at times of $$1.50$$ for a rock thrown straight down with an initial velocity of $$14.0$$ $$\\frac{m}{s}$$ from the Verrazano Narrows Bridge in New York City. The roadway of this bridge is $$70.0$$ $$m$$ above the water.",
+    "stepBody": "Answer is in the form (displacement,velocity)",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "$$\\left(-32m-\\frac{28.7m}{s}\\right)$$",
+    "choices": [
+        "$$\\left(-32m-\\frac{28.7m}{s}\\right)$$",
+        "$$\\left(-32.4m-\\frac{27.7m}{s}\\right)$$",
+        "$$\\left(-32.1m-\\frac{27.4m}{s}\\right)$$"
+    ]
+}

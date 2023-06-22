@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys6b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Velocity",
+        "text": "Final $${velocity}^2$$ $$=$$ initial velocity** subtracted by $$2acceleration$$ multiplied by the change in position. We can rearrange this equation to solve for position.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys6b-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys6b-h1"
+        ],
+        "title": "Solving",
+        "text": "We can solve this problem by doing the following: inital $${velocity}^2$$ - $${velocity}^2$$ at maximum height + $$2{acceleration}^2$$ multiplied by inital height of fiving $$\\frac{board}{2} acceleration$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

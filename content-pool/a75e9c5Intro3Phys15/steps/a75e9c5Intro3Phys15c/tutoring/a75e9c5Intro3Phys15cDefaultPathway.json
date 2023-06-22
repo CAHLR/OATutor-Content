@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys15c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Acceleration",
+        "text": "Acceleration is the change in velocity divided by time.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys15c-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys15c-h1"
+        ],
+        "title": "Solving",
+        "text": "We can solve using the following formula: (final velocity-initial velocity -inital negative velocity)/(time touchung ground)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

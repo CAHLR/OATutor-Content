@@ -1,0 +1,12 @@
+{
+    "id": "a4f9059IntroPhys5a",
+    "stepAnswer": [
+        "$$47$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Approximately how many atoms thick is a cell membrane, assuming all atoms there average about twice the size of a hydrogen atom? (Round to the nearest whole atom)",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$47$$"
+}

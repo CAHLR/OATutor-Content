@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a75e9c5Intro3Phys8a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Final Position",
+        "text": "The final position is equal to inital position + inital velocity times time elapse + $$\\frac{acceleration}{2}$$ multiplied by $${time}^2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a75e9c5Intro3Phys8a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a75e9c5Intro3Phys8a-h1"
+        ],
+        "title": "Time",
+        "text": "Remember, time is usually expressed as a positive number so we can ignore negative results when solving the quadratic formula.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

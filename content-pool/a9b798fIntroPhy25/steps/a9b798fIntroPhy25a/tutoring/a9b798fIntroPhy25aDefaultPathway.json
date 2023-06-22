@@ -1,0 +1,63 @@
+[
+    {
+        "id": "a9b798fIntroPhy25a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.06$$"
+        ],
+        "dependencies": [],
+        "title": "Sub-questions",
+        "text": "What's percent of uncertainty in distance",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy25a-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.01$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy25a-h1"
+        ],
+        "title": "Sub-questions",
+        "text": "What's percent of uncerntainty in time?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy25a-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0.07$$"
+        ],
+        "dependencies": [
+            "a9b798fIntroPhy25a-h2"
+        ],
+        "title": "Sub-questions",
+        "text": "What's the total percent uncertainty?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "a9b798fIntroPhy25a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a9b798fIntroPhy25a-h3"
+        ],
+        "title": "Use formula to convert uncertainty to percent uncertainty, keep correct sig-figs.",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
