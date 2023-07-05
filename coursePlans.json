@@ -8,15 +8,10 @@
                 "id": "4NpzBTH7-uVPO-B7xAhBsW8B",
                 "name": "Lesson EA2.1C1",
                 "topics": "Pre-test: Solve Equations Using the Subtraction and Addition Properties of Equality",
-                "allowRecycle": false,
+                "allowRecycle": true,
                 "learningObjectives": {
                     "solve_equations_using_the_subtraction_and_addition_properties_of_equality_pretest_control1": 0.85
-                },
-                "giveStuFeedback": false,
-                "giveStuHints": false,
-                "doMasteryUpdate": false,
-                "showStuMastery": false,
-                "unlockFirstHint": false
+                }
             },
             {
                 "id": "0G6jm7LL-V90r-iTcLbC8qea",
