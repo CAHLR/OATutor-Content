@@ -1,6 +1,6 @@
 [
     {
-        "courseName": "Hint Pathways",
+        "courseName": "Hint Pathway A/B Testing Manual",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -39,6 +39,55 @@
                 "allowRecycle": false,
                 "learningObjectives": {
                     "solve_equations_using_the_subtraction_and_addition_properties_of_equality_posttest_control1": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": false,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": false
+            }
+        ]
+    },
+    {
+        "courseName": "Hint Pathway A/B Testing Experiment",
+        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "1v9Lcpfg-MiTX-l25CqzHnx1",
+                "name": "Lesson EA2.1E",
+                "topics": "Pre-test: Solve Equations Using the Subtraction and Addition Properties of Equality",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality_pretest_experiment": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": false,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": false
+            },
+            {
+                "id": "6pxCunWS-EE1y-PhAPdcl3Zj",
+                "name": "Lesson EA2.1E:",
+                "topics": "Solve Equations Using the Subtraction and Addition Properties of Equality",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality_experiment": 0.85
+                },
+                "giveStuFeedback": true,
+                "giveStuHints": true,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": true
+            },
+            {
+                "id": "3G8Y0kJT-tOtI-RTflWbJhI3",
+                "name": "Lesson EA2.1E",
+                "topics": "Post-test: Solve Equations Using the Subtraction and Addition Properties of Equality",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality_posttest_experiment": 0.85
                 },
                 "giveStuFeedback": false,
                 "giveStuHints": false,
