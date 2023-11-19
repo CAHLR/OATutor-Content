@@ -1,0 +1,18 @@
+[
+    {
+        "courseName": "Debugging",
+        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "0pDEAYDr-oXlS-JNqzc08GRZ",
+                "name": "Lesson Debugging",
+                "topics": "Sheet",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "algebra_with_absolute_values": 0.85
+                }
+            }
+        ]
+    }
+]
