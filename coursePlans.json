@@ -1,0 +1,61 @@
+[
+    {
+        "courseName": "Question Generation Lesson 3.3",
+        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "4PMoNFwc-cDVr-IDV5uMcoO4",
+                "name": "Lesson Prolific",
+                "topics": "ID",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "prolific_id_experiment": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": false,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": false
+            },
+            {
+                "id": "5DUi1qV6-6Ykh-vIBOVeBPEX",
+                "name": "Lesson Phase",
+                "topics": "1",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "addition_rule": 0.85,
+                    "complement_rule": 0.85,
+                    "multiplication_rule": 0.85,
+                    "probability": 0.85,
+                    "the_addition_rule": 0.85,
+                    "the_multiplication_rule": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": false,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": false
+            },
+            {
+                "id": "3Xvyw3vj-m54L-4M4XMrwk2L",
+                "name": "Lesson Phase",
+                "topics": "2",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "addition_rule": 0.85,
+                    "complement_rule": 0.85,
+                    "multiplication_rule": 0.85,
+                    "probability": 0.85,
+                    "the_addition_rule": 0.85,
+                    "the_multiplication_rule": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": false,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": false
+            }
+        ]
+    }
+]
