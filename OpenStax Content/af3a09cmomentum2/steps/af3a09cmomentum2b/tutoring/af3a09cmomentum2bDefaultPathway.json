@@ -1,0 +1,31 @@
+[
+    {
+        "id": "af3a09cmomentum2b-h3",
+        "type": "hint",
+        "dependencies": [
+            "af3a09cmomentum2a-h1"
+        ],
+        "title": "Calculate the Momentum",
+        "text": "Apply the momentum formula(momentum=mass*velocity) to the airplane using the given speed(velocity).",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "af3a09cmomentum2b-h4",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$1.2{10}^6$$"
+        ],
+        "dependencies": [
+            "af3a09cmomentum2b-h3"
+        ],
+        "title": "Calculate the Momentum",
+        "text": "What is $$60\\times2 {10}^4$$?",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]
