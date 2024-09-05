@@ -1,68 +1,68 @@
 [
-    {
-        "id": "swedish_a394625deriv20a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Bryta ner frågan",
-        "text": "Gör förstaderivatan och derivera sedan den en gång till",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv20a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$1-\\frac{1}{2} cos\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv20a-h1"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är förstaderivatan?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$1-\\frac{1}{2} cos\\left(x\\right)$$",
-            "$$1+\\frac{1}{2} sin\\left(x\\right)$$",
-            "$$1+\\frac{1}{2} cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv20a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$\\frac{1}{2} sin\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv20a-h2"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av förstaderivatan?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$\\frac{1}{2} sin\\left(x\\right)$$",
-            "$$\\frac{-1}{2} sin\\left(x\\right)$$",
-            "$$\\frac{1}{2} cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv20a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a394625deriv20a-h3"
-        ],
-        "title": "Derivatan av den första derivatan är den andra derivatan",
-        "text": "Dra slutsatsen från dina del-frågor",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_a394625deriv20a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Bryta ner frågan",
+    "text": "Gör förstaderivatan och derivera sedan den en gång till",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv20a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$1-\\frac{1}{2} cos\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv20a-h1"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är förstaderivatan?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$1-\\frac{1}{2} cos\\left(x\\right)$$",
+      "$$1+\\frac{1}{2} sin\\left(x\\right)$$",
+      "$$1+\\frac{1}{2} cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv20a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$\\frac{1}{2} sin\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv20a-h2"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av förstaderivatan?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$\\frac{1}{2} sin\\left(x\\right)$$",
+      "$$\\frac{-1}{2} sin\\left(x\\right)$$",
+      "$$\\frac{1}{2} cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv20a-h4",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a394625deriv20a-h3"
+    ],
+    "title": "Derivatan av den första derivatan är den andra derivatan",
+    "text": "Dra slutsatsen från dina del-frågor",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]

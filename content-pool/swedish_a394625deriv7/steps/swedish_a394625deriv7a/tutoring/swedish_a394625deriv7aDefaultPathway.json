@@ -1,68 +1,68 @@
 [
-    {
-        "id": "swedish_a394625deriv7a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Bryta ner frågan",
-        "text": "Vi kan dela upp funktionerna i $$x+cos\\left(x\\right)$$ och $$1-sin(x)$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv7a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$1-sin(x)$$"
-        ],
-        "dependencies": [
-            "a394625deriv7a-h1"
-        ],
-        "title": "Delfråga",
-        "text": "Vad är derivatan av $$x+cos\\left(x\\right)$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$1-sin(x)$$",
-            "$$cos(x)$$",
-            "$$sin(x)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv7a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$-cos(x)$$"
-        ],
-        "dependencies": [
-            "a394625deriv7a-h2"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av $$1-sin(x)$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$sin(x)$$",
-            "$$-cos(x)$$",
-            "$$-sin(x)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv7a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a394625deriv7a-h3"
-        ],
-        "title": "Tillämpa derivatregeln",
-        "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_a394625deriv7a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Bryta ner frågan",
+    "text": "Vi kan dela upp funktionerna i $$x+cos\\left(x\\right)$$ och $$1-sin(x)$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv7a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$1-sin(x)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv7a-h1"
+    ],
+    "title": "Delfråga",
+    "text": "Vad är derivatan av $$x+cos\\left(x\\right)$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$1-sin(x)$$",
+      "$$cos(x)$$",
+      "$$sin(x)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv7a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$-cos(x)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv7a-h2"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av $$1-sin(x)$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$sin(x)$$",
+      "$$-cos(x)$$",
+      "$$-sin(x)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv7a-h4",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a394625deriv7a-h3"
+    ],
+    "title": "Tillämpa derivatregeln",
+    "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]

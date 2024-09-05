@@ -1,80 +1,80 @@
 [
-    {
-        "id": "swedish_a394625deriv11a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Bryta ner frågan",
-        "text": "Bestäm derivatans värde och det kommer att vara lutningen.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv11a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$-cos(x)$$"
-        ],
-        "dependencies": [
-            "a394625deriv11a-h1"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av $$-sin(x)$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$cos(x)$$",
-            "$$-cos(x)$$",
-            "$$sin(x)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv11a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$-1$$"
-        ],
-        "dependencies": [
-            "a394625deriv11a-h2"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatans värde vid $$x$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv11a-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$0$$"
-        ],
-        "dependencies": [
-            "a394625deriv11a-h3"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är funktionsvärdet vid $$x$$?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv11a-h5",
-        "type": "hint",
-        "dependencies": [
-            "a394625deriv11a-h4"
-        ],
-        "title": "En fast punkt och bestämd lutning bestämmer linjen",
-        "text": "Vi fick linjen att passera genom tangentpunkten och vi fick dess lutning till att vara derivatans värde, så vi kan bestämma linjen.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_a394625deriv11a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Bryta ner frågan",
+    "text": "Bestäm derivatans värde och det kommer att vara lutningen.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv11a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$-cos(x)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv11a-h1"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av $$-sin(x)$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$cos(x)$$",
+      "$$-cos(x)$$",
+      "$$sin(x)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv11a-h3",
+    "type": "scaffold",
+    "problemType": "TextBox",
+    "answerType": "arithmetic",
+    "hintAnswer": [
+      "$$-1$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv11a-h2"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatans värde vid $$x$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv11a-h4",
+    "type": "scaffold",
+    "problemType": "TextBox",
+    "answerType": "arithmetic",
+    "hintAnswer": [
+      "$$0$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv11a-h3"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är funktionsvärdet vid $$x$$?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv11a-h5",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a394625deriv11a-h4"
+    ],
+    "title": "En fast punkt och bestämd lutning bestämmer linjen",
+    "text": "Vi fick linjen att passera genom tangentpunkten och vi fick dess lutning till att vara derivatans värde, så vi kan bestämma linjen.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]

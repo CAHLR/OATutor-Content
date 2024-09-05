@@ -1,140 +1,140 @@
 [
-    {
-        "id": "swedish_a2d77b8chainrule8a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Kedjeregeln",
-        "text": "Kom ihåg, kedjeregeln i Leibniz notation säger oss att $$\\frac{dy}{dx}=\\frac{dy}{du} \\frac{du}{dx}$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h2",
-        "type": "hint",
-        "dependencies": [
-            "a2d77b8chainrule8a-h1"
-        ],
-        "title": "Dekomponera funktionen",
-        "text": "Först behöver vi dela upp vår funktion $$y$$ i formen $$y=f(u)$$ och $$u=g(x)$$, försök att hitta vad f(u) och g(x) bör vara i detta fall!",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$u^7$$"
-        ],
-        "dependencies": [
-            "a2d77b8chainrule8a-h2"
-        ],
-        "title": "Bestäm f(u)",
-        "text": "Vad är f(u)?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "choices": [
-            "$$u^3$$",
-            "$$u^2$$",
-            "$$u^6$$",
-            "$$u^7$$"
-        ]
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$\\frac{x}{7}+\\frac{7}{x}$$"
-        ],
-        "dependencies": [
-            "a2d77b8chainrule8a-h3"
-        ],
-        "title": "Bestäm g(x)",
-        "text": "Vad är g(x)?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "choices": [
-            "$$\\frac{x}{7}+\\frac{7}{x}$$",
-            "$$7\\ln(x)$$",
-            "$$\\frac{x}{7}$$",
-            "$$\\frac{7}{x}$$"
-        ]
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h5",
-        "type": "hint",
-        "dependencies": [
-            "a2d77b8chainrule8a-h4"
-        ],
-        "title": "Bestäm derivatan",
-        "text": "Nästa tar vi derivatan av f(u) med avseende på u, $$\\frac{dy}{du}$$, och derivatan av g(x) med avseende på $$x$$, $$\\frac{du}{dx}$$. Att multiplicera dessa två uttryck tillsammans ger vårt slutgiltiga svar, dy/dx!",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h6",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$7u^6$$"
-        ],
-        "dependencies": [
-            "a2d77b8chainrule8a-h5"
-        ],
-        "title": "Bestäm $$\\frac{dy}{du}$$",
-        "text": "Vad är $$\\frac{dy}{du}$$?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "choices": [
-            "$$7u^6$$",
-            "$$7u^7$$",
-            "$$u^6$$",
-            "$$\\frac{1}{8} u^8$$"
-        ]
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h7",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$\\frac{1}{7}-\\frac{7}{x^2}$$"
-        ],
-        "dependencies": [
-            "a2d77b8chainrule8a-h6"
-        ],
-        "title": "Bestäm $$\\frac{du}{dx}$$",
-        "text": "Vad är $$\\frac{du}{dx}$$?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "choices": [
-            "$$1-\\frac{7}{x^2}$$",
-            "$$\\frac{1}{7}-\\frac{1}{x^2}$$",
-            "$$1-\\frac{1}{x^2}$$",
-            "$$\\frac{1}{7}-\\frac{7}{x^2}$$"
-        ]
-    },
-    {
-        "id": "swedish_a2d77b8chainrule8a-h8",
-        "type": "hint",
-        "dependencies": [
-            "a2d77b8chainrule8a-h7"
-        ],
-        "title": "Sätt in",
-        "text": "Slutligen behöver vi bara multiplicera dessa två uttryck för att hitta vårt slutgiltiga svar. Glöm inte att sätta in vad vi har för u i termer av $$x$$ i vårt slutgiltiga svar!",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    }
+  {
+    "id": "swedish_a2d77b8chainrule8a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Kedjeregeln",
+    "text": "Kom ihåg, kedjeregeln i Leibniz notation säger oss att $$\\frac{dy}{dx}=\\frac{dy}{du} \\frac{du}{dx}$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h2",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h1"
+    ],
+    "title": "Dekomponera funktionen",
+    "text": "Först behöver vi dela upp vår funktion $$y$$ i formen $$y=f(u)$$ och $$u=g(x)$$, försök att hitta vad f(u) och g(x) bör vara i detta fall!",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$u^7$$"
+    ],
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h2"
+    ],
+    "title": "Bestäm f(u)",
+    "text": "Vad är f(u)?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "choices": [
+      "$$u^3$$",
+      "$$u^2$$",
+      "$$u^6$$",
+      "$$u^7$$"
+    ]
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h4",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$\\frac{x}{7}+\\frac{7}{x}$$"
+    ],
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h3"
+    ],
+    "title": "Bestäm g(x)",
+    "text": "Vad är g(x)?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "choices": [
+      "$$\\frac{x}{7}+\\frac{7}{x}$$",
+      "$$7\\ln(x)$$",
+      "$$\\frac{x}{7}$$",
+      "$$\\frac{7}{x}$$"
+    ]
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h5",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h4"
+    ],
+    "title": "Bestäm derivatan",
+    "text": "Nästa tar vi derivatan av f(u) med avseende på u, $$\\frac{dy}{du}$$, och derivatan av g(x) med avseende på $$x$$, $$\\frac{du}{dx}$$. Att multiplicera dessa två uttryck tillsammans ger vårt slutgiltiga svar, dy/dx!",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h6",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$7u^6$$"
+    ],
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h5"
+    ],
+    "title": "Bestäm $$\\frac{dy}{du}$$",
+    "text": "Vad är $$\\frac{dy}{du}$$?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "choices": [
+      "$$7u^6$$",
+      "$$7u^7$$",
+      "$$u^6$$",
+      "$$\\frac{1}{8} u^8$$"
+    ]
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h7",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$\\frac{1}{7}-\\frac{7}{x^2}$$"
+    ],
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h6"
+    ],
+    "title": "Bestäm $$\\frac{du}{dx}$$",
+    "text": "Vad är $$\\frac{du}{dx}$$?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "choices": [
+      "$$1-\\frac{7}{x^2}$$",
+      "$$\\frac{1}{7}-\\frac{1}{x^2}$$",
+      "$$1-\\frac{1}{x^2}$$",
+      "$$\\frac{1}{7}-\\frac{7}{x^2}$$"
+    ]
+  },
+  {
+    "id": "swedish_a2d77b8chainrule8a-h8",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a2d77b8chainrule8a-h7"
+    ],
+    "title": "Sätt in",
+    "text": "Slutligen behöver vi bara multiplicera dessa två uttryck för att hitta vårt slutgiltiga svar. Glöm inte att sätta in vad vi har för u i termer av $$x$$ i vårt slutgiltiga svar!",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  }
 ]

@@ -1,130 +1,130 @@
 [
-    {
-        "id": "swedish_aca1a7dderivative2a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Potensregeln",
-        "text": "Om $$f(x)=x^n$$, då $$f'(x)={nx}^{n-1}$$.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h2",
-        "type": "hint",
-        "dependencies": [
-            "aca1a7dderivative2a-h1"
-        ],
-        "title": "Tillämpning av potensregeln $$1$$",
-        "text": "För att få derivatan av $$5x^3$$, multiplicerar vi vår konstant (5) med vår exponent (3) och subtraherar exponentens potens med $$1$$.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$15x^2$$"
-        ],
-        "dependencies": [
-            "aca1a7dderivative2a-h2"
-        ],
-        "title": "Tillämpning av potensregeln $$2$$",
-        "text": "Vad är derivatan av $$5x^3$$?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$15x^2-1$$",
-            "$$5x^3-x$$",
-            "$$15x^2-x$$",
-            "$$4x^2+1$$",
-            "$$15x^2$$"
-        ]
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h4",
-        "type": "hint",
-        "dependencies": [
-            "aca1a7dderivative2a-h3"
-        ],
-        "title": "Tillämpning av potensregeln $$3$$",
-        "text": "För att få derivatan av $$-x$$, multiplicerar vi vår konstant $$(-1)$$ med vår exponent (1) och subtraherar exponentens potens med $$1$$.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$-1$$"
-        ],
-        "dependencies": [
-            "aca1a7dderivative2a-h4"
-        ],
-        "title": "Tillämpning av potensregeln $$2$$",
-        "text": "Vad är derivatan av $$-x$$?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$0$$",
-            "$$1$$",
-            "$$-1$$",
-            "$$x$$"
-        ]
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h6",
-        "type": "hint",
-        "dependencies": [
-            "aca1a7dderivative2a-h5"
-        ],
-        "title": "Konstanteregeln",
-        "text": "Om f(x) är en konstant c, $$f'(x)=0$$.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h7",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$0$$"
-        ],
-        "dependencies": [
-            "aca1a7dderivative2a-h6"
-        ],
-        "title": "Tillämpning av konstantregeln",
-        "text": "Vad är derivatan av 1?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$0$$",
-            "$$1$$",
-            "$$-1$$",
-            "$$10$$"
-        ]
-    },
-    {
-        "id": "swedish_aca1a7dderivative2a-h8",
-        "type": "hint",
-        "dependencies": [
-            "aca1a7dderivative2a-h7"
-        ],
-        "title": "Summaregeln",
-        "text": "Du kan lägga ihop de två separata derivatorna som vi just hittade för att hitta vårt svar.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_aca1a7dderivative2a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Potensregeln",
+    "text": "Om $$f(x)=x^n$$, då $$f'(x)={nx}^{n-1}$$.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h2",
+    "type": "hint",
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h1"
+    ],
+    "title": "Tillämpning av potensregeln $$1$$",
+    "text": "För att få derivatan av $$5x^3$$, multiplicerar vi vår konstant (5) med vår exponent (3) och subtraherar exponentens potens med $$1$$.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$15x^2$$"
+    ],
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h2"
+    ],
+    "title": "Tillämpning av potensregeln $$2$$",
+    "text": "Vad är derivatan av $$5x^3$$?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$15x^2-1$$",
+      "$$5x^3-x$$",
+      "$$15x^2-x$$",
+      "$$4x^2+1$$",
+      "$$15x^2$$"
+    ]
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h4",
+    "type": "hint",
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h3"
+    ],
+    "title": "Tillämpning av potensregeln $$3$$",
+    "text": "För att få derivatan av $$-x$$, multiplicerar vi vår konstant $$(-1)$$ med vår exponent (1) och subtraherar exponentens potens med $$1$$.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h5",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$-1$$"
+    ],
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h4"
+    ],
+    "title": "Tillämpning av potensregeln $$2$$",
+    "text": "Vad är derivatan av $$-x$$?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$0$$",
+      "$$1$$",
+      "$$-1$$",
+      "$$x$$"
+    ]
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h6",
+    "type": "hint",
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h5"
+    ],
+    "title": "Konstanteregeln",
+    "text": "Om f(x) är en konstant c, $$f'(x)=0$$.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h7",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$0$$"
+    ],
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h6"
+    ],
+    "title": "Tillämpning av konstantregeln",
+    "text": "Vad är derivatan av 1?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$0$$",
+      "$$1$$",
+      "$$-1$$",
+      "$$10$$"
+    ]
+  },
+  {
+    "id": "swedish_aca1a7dderivative2a-h8",
+    "type": "hint",
+    "dependencies": [
+      "swedish_aca1a7dderivative2a-h7"
+    ],
+    "title": "Summaregeln",
+    "text": "Du kan lägga ihop de två separata derivatorna som vi just hittade för att hitta vårt svar.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]

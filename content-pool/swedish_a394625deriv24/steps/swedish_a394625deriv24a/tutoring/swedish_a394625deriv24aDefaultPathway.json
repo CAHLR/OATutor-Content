@@ -1,116 +1,116 @@
 [
-    {
-        "id": "swedish_a394625deriv24a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Bryta ner frågan",
-        "text": "Gör förstaderivatan och derivera sedan den tre gånger till",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv24a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$-5sin\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv24a-h1"
-        ],
-        "title": "Delfråga",
-        "text": "Vad är förstaderivatan?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$-5sin\\left(x\\right)$$",
-            "$$-5cos\\left(x\\right)$$",
-            "$$5sin\\left(x\\right)$$",
-            "$$5cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv24a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$-5cos\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv24a-h2"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av första derivatan",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$-5sin\\left(x\\right)$$",
-            "$$-5cos\\left(x\\right)$$",
-            "$$5sin\\left(x\\right)$$",
-            "$$5cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv24a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$5sin\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv24a-h1"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av andraderivatan?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$-5sin\\left(x\\right)$$",
-            "$$-5cos\\left(x\\right)$$",
-            "$$5sin\\left(x\\right)$$",
-            "$$5cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv24a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$5cos\\left(x\\right)$$"
-        ],
-        "dependencies": [
-            "a394625deriv24a-h1"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av den tredje derivatan?",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$-5sin\\left(x\\right)$$",
-            "$$-5cos\\left(x\\right)$$",
-            "$$5sin\\left(x\\right)$$",
-            "$$5cos\\left(x\\right)$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv24a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a394625deriv24a-h3"
-        ],
-        "title": "Derivatan av $$n-1th$$ derivatan är den n:te derivatan",
-        "text": "Dra slutsatsen från dina del-frågor",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_a394625deriv24a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Bryta ner frågan",
+    "text": "Gör förstaderivatan och derivera sedan den tre gånger till",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv24a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$-5sin\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv24a-h1"
+    ],
+    "title": "Delfråga",
+    "text": "Vad är förstaderivatan?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$-5sin\\left(x\\right)$$",
+      "$$-5cos\\left(x\\right)$$",
+      "$$5sin\\left(x\\right)$$",
+      "$$5cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv24a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$-5cos\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv24a-h2"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av första derivatan",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$-5sin\\left(x\\right)$$",
+      "$$-5cos\\left(x\\right)$$",
+      "$$5sin\\left(x\\right)$$",
+      "$$5cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv24a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$5sin\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv24a-h1"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av andraderivatan?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$-5sin\\left(x\\right)$$",
+      "$$-5cos\\left(x\\right)$$",
+      "$$5sin\\left(x\\right)$$",
+      "$$5cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv24a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$5cos\\left(x\\right)$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv24a-h1"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av den tredje derivatan?",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$-5sin\\left(x\\right)$$",
+      "$$-5cos\\left(x\\right)$$",
+      "$$5sin\\left(x\\right)$$",
+      "$$5cos\\left(x\\right)$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv24a-h4",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a394625deriv24a-h3"
+    ],
+    "title": "Derivatan av $$n-1th$$ derivatan är den n:te derivatan",
+    "text": "Dra slutsatsen från dina del-frågor",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]

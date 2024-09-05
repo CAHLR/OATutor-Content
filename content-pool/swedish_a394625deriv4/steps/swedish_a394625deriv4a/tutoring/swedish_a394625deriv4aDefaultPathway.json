@@ -1,68 +1,68 @@
 [
-    {
-        "id": "swedish_a394625deriv4a-h1",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Bryta ner frågan",
-        "text": "Vi kan dela upp de svåra funktionerna i $$x^3$$ och $$3sin\\left(x\\right)$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    },
-    {
-        "id": "swedish_a394625deriv4a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "$$3x^2$$"
-        ],
-        "dependencies": [
-            "a394625deriv4a-h1"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av $$x^3$$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "$$3x^2$$",
-            "$$3x$$",
-            "$$3$$"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv4a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "cos(x)"
-        ],
-        "dependencies": [
-            "a394625deriv4a-h2"
-        ],
-        "title": "Deluppgift",
-        "text": "Vad är derivatan av sin(x)",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "",
-        "choices": [
-            "cos(x)",
-            "tan(x)",
-            "sin(x)"
-        ]
-    },
-    {
-        "id": "swedish_a394625deriv4a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a394625deriv4a-h3"
-        ],
-        "title": "Tillämpa deriveringsregeln",
-        "text": "Använd kedjeregeln för att hitta den slutliga lösningen",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": ""
-    }
+  {
+    "id": "swedish_a394625deriv4a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "Bryta ner frågan",
+    "text": "Vi kan dela upp de svåra funktionerna i $$x^3$$ och $$3sin\\left(x\\right)$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  },
+  {
+    "id": "swedish_a394625deriv4a-h2",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "$$3x^2$$"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv4a-h1"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av $$x^3$$",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "$$3x^2$$",
+      "$$3x$$",
+      "$$3$$"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv4a-h3",
+    "type": "scaffold",
+    "problemType": "MultipleChoice",
+    "answerType": "string",
+    "hintAnswer": [
+      "cos(x)"
+    ],
+    "dependencies": [
+      "swedish_a394625deriv4a-h2"
+    ],
+    "title": "Deluppgift",
+    "text": "Vad är derivatan av sin(x)",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "",
+    "choices": [
+      "cos(x)",
+      "tan(x)",
+      "sin(x)"
+    ]
+  },
+  {
+    "id": "swedish_a394625deriv4a-h4",
+    "type": "hint",
+    "dependencies": [
+      "swedish_a394625deriv4a-h3"
+    ],
+    "title": "Tillämpa deriveringsregeln",
+    "text": "Använd kedjeregeln för att hitta den slutliga lösningen",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": ""
+  }
 ]
