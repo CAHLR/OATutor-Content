@@ -1,0 +1,12 @@
+{
+    "id": "swedish_a1cc0dcareas3a",
+    "stepAnswer": [
+        "$$2\\sqrt{2}$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Identifiera kurvorna",
+    "stepBody": "Först måste du identifiera de två kurvorna som definierar området vars area du vill hitta. I detta fall är f(x) den övre kurvan och g(x) den nedre kurvan. Notera att från $$0$$ till $$\\frac{\\pi}{4}$$ är grafen g(x) en övre kurva. Men från $$\\frac{\\pi}{4}$$ till pi är f(x) en övre kurva och g(x) en nedre kurva.##figure1.gif## ",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$2\\sqrt{2}$$"
+}

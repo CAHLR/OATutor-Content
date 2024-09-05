@@ -1,0 +1,90 @@
+[
+    {
+        "id": "swedish_a394625deriv23a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bryta ner frågan",
+        "text": "Gör den första derivatan och derivera sedan den två gånger till.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a394625deriv23a-h2",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$-3sin\\left(x\\right)$$"
+        ],
+        "dependencies": [
+            "a394625deriv23a-h1"
+        ],
+        "title": "Deluppgift",
+        "text": "Vad är förstaderivatan?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$-3sin\\left(x\\right)$$",
+            "$$-3cos\\left(x\\right)$$",
+            "$$3sin\\left(x\\right)$$"
+        ]
+    },
+    {
+        "id": "swedish_a394625deriv23a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$-3cos\\left(x\\right)$$"
+        ],
+        "dependencies": [
+            "a394625deriv23a-h2"
+        ],
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av första derivatan",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$-3sin\\left(x\\right)$$",
+            "$$-3cos\\left(x\\right)$$",
+            "$$3sin\\left(x\\right)$$"
+        ]
+    },
+    {
+        "id": "swedish_a394625deriv23a-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$3sin\\left(x\\right)$$"
+        ],
+        "dependencies": [
+            "a394625deriv23a-h3"
+        ],
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av andraderivatan?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$-3sin\\left(x\\right)$$",
+            "$$-3cos\\left(x\\right)$$",
+            "$$3sin\\left(x\\right)$$"
+        ]
+    },
+    {
+        "id": "swedish_a394625deriv23a-h5",
+        "type": "hint",
+        "dependencies": [
+            "a394625deriv23a-h4"
+        ],
+        "title": "Derivatan av $$(n-1)th$$ derivatan är den n:te derivatan",
+        "text": "Dra din slutsats från del-frågor",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

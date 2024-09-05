@@ -1,0 +1,68 @@
+[
+    {
+        "id": "swedish_a394625deriv6a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bryta ner frågan",
+        "text": "Vi kan separera funktionerna i sin(x) och tan(x)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a394625deriv6a-h2",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "cos(x)"
+        ],
+        "dependencies": [
+            "a394625deriv6a-h1"
+        ],
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av sin(x)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "cos(x)",
+            "sin(x)",
+            "tan(x)"
+        ]
+    },
+    {
+        "id": "swedish_a394625deriv6a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$${\\operatorname{sec}\\left(x\\right)}^2$$"
+        ],
+        "dependencies": [
+            "a394625deriv6a-h2"
+        ],
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av tan(x)",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$tan^2\\left(x\\right)$$",
+            "csc(x)",
+            "$${\\operatorname{sec}\\left(x\\right)}^2$$"
+        ]
+    },
+    {
+        "id": "swedish_a394625deriv6a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a394625deriv6a-h3"
+        ],
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

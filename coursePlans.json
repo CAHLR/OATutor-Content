@@ -3451,5 +3451,66 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "Matematik 4",
+        "courseOER": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus - Volume 1>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "1",
+                "name": "1",
+                "topics": "Derivator av trigonometriska funktioner",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "derivator_av_trigonometriska_funktioner": 0.85
+                }
+            },
+            {
+                "id": "2",
+                "name": "2",
+                "topics": "Deriveringsregler",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "deriveringsregler": 0.85
+                }
+            },
+            {
+                "id": "3",
+                "name": "3",
+                "topics": "Kedjeregeln",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "kedjeregeln": 0.85
+                }
+            },
+            {
+                "id": "4",
+                "name": "4",
+                "topics": "Areor",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "Areor": 0.85
+                }
+            },
+            {
+                "id": "5",
+                "name": "5",
+                "topics": "Area av ett område mellan två kurvor",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "area_av_ett_område_mellan_två_kurvor": 0.85
+                }
+            },
+            {
+                "id": "6",
+                "name": "6",
+                "topics": "Områden av sammansatta regioner",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "områden_av_sammansatta_regioner": 0.85
+                }
+            }
+        ]
     }
 ]

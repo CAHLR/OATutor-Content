@@ -1,0 +1,106 @@
+[
+    {
+        "id": "swedish_aca1a7dderivative1a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Potensregeln",
+        "text": "Om $$f(x)=x^n$$, då $$f'(x)={nx}^{n-1}$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h2",
+        "type": "hint",
+        "dependencies": [
+            "aca1a7dderivative1a-h1"
+        ],
+        "title": "Tillämpning av potensregeln $$1$$",
+        "text": "För att få derivatan av $$x^7$$, multiplicerar vi vår konstant (1) med vår exponent (7) och subtraherar exponentens potens med $$1$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$7x^6$$"
+        ],
+        "dependencies": [
+            "aca1a7dderivative1a-h2"
+        ],
+        "title": "Tillämpning av potensregeln $$2$$",
+        "text": "Vad är derivatan av $$x^7$$?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$7x^6$$",
+            "$$x^7$$",
+            "$$7x^7$$",
+            "$$7x$$"
+        ]
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h4",
+        "type": "hint",
+        "dependencies": [
+            "aca1a7dderivative1a-h3"
+        ],
+        "title": "Konstantregeln",
+        "text": "Om f(x) är en konstant c, $$f'(x)=0$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h5",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$0$$"
+        ],
+        "dependencies": [
+            "aca1a7dderivative1a-h4"
+        ],
+        "title": "Tillämpning av konstantregeln",
+        "text": "Vad är derivatan av 10?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "$$0$$",
+            "$$1$$",
+            "$$-1$$",
+            "$$10$$"
+        ]
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h6",
+        "type": "hint",
+        "dependencies": [
+            "aca1a7dderivative1a-h5"
+        ],
+        "title": "Summaregeln $$1$$",
+        "text": "Derivatan av summan av en funktion f och en funktion g är densamma som summan av derivatan av f och derivatan av g.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_aca1a7dderivative1a-h7",
+        "type": "hint",
+        "dependencies": [
+            "aca1a7dderivative1a-h6"
+        ],
+        "title": "Summaregeln $$2$$",
+        "text": "Du kan lägga ihop de två separata derivatorna som vi just hittade för att hitta vårt svar.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]

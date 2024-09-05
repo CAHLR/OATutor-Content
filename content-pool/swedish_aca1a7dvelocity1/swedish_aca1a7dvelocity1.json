@@ -1,0 +1,10 @@
+{
+    "id": "swedish_aca1a7dvelocity1",
+    "title": "",
+    "body": "En sill som simmar längs en rät linje har färdats $$s(t)=\\frac{t^2}{t^2+2}$$ fot på $$t$$ sekunder.",
+    "variabilization": {},
+    "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
+    "license": 0.0,
+    "lesson": "3.3 Deriveringsregler",
+    "courseName": "OpenStax: Calculus Volume 1"
+}

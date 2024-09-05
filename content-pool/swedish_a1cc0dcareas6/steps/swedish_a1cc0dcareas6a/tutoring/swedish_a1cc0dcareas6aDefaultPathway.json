@@ -1,0 +1,93 @@
+[
+    {
+        "id": "swedish_a1cc0dcareas6a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bestäm gränsvärdena",
+        "text": "För att ställa upp de bestämda integralerna av $$2$$-funktionerna måste vi hitta gränserna där de skär varandra genom att sätta dem lika och lösa för $$x$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h2",
+        "type": "hint",
+        "dependencies": [
+            "a1cc0dcareas6a-h1"
+        ],
+        "title": "Bestäm gränsvärdena",
+        "text": "$$x^2-3=1$$ sedan $$x=2$$ och $$x=-2$$. Så vi erhåller $$x=-2$$ som en nedre gräns och $$x=2$$ som en övre gräns.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h3",
+        "type": "hint",
+        "dependencies": [
+            "a1cc0dcareas6a-h2"
+        ],
+        "title": "Definiera den övre grafen",
+        "text": "Arean av A ges av $$int{|f(x)-g(x)|, a, b, x$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "g(x)"
+        ],
+        "dependencies": [
+            "a1cc0dcareas6a-h3"
+        ],
+        "title": "Definiera den övre grafen",
+        "text": "Vad är den övre grafen i detta problem?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "",
+        "choices": [
+            "g(x)",
+            "f(x)"
+        ]
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h5",
+        "type": "hint",
+        "dependencies": [
+            "a1cc0dcareas6a-h4"
+        ],
+        "title": "Ställ upp integralen",
+        "text": "$$\\int_{-2}^{2} 1-x^2+3 \\,dx$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h6",
+        "type": "hint",
+        "dependencies": [
+            "a1cc0dcareas6a-h5"
+        ],
+        "title": "Beräkna integralen",
+        "text": "$$4x-\\frac{x^3}{3}$$ när gränserna går från $$x=-2$$ till $$x=2$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    },
+    {
+        "id": "swedish_a1cc0dcareas6a-h7",
+        "type": "hint",
+        "dependencies": [
+            "a1cc0dcareas6a-h6"
+        ],
+        "title": "Utvärdera",
+        "text": "$$4\\times2-\\frac{2^3}{3}-4\\left(-2\\right)-\\frac{{\\left(-2\\right)}^3}{3}=\\frac{32}{3}$$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": ""
+    }
+]
