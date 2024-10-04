@@ -1,18 +1,21 @@
 {
     "id": "swedish_a394625deriv7a",
     "stepAnswer": [
-        "$$\\left(1-sin\\left(x\\right)\\right) \\left(x-sin\\left(x\\right)-cos\\left(x\\right)\\right)$$"
+        "$$1-2sin(x)+sin^2(x)-xcos(x)-cos^2(x)$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "För följande övningar, bestäm $$\\frac{dy}{dx}$$ för de givna funktionerna.",
     "stepBody": "$$y=\\left(x+cos\\left(x\\right)\\right) \\left(1-sin\\left(x\\right)\\right)$$",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$\\left(1-sin\\left(x\\right)\\right) \\left(x-sin\\left(x\\right)-cos\\left(x\\right)\\right)$$",
+    "answerLatex": "$$1-2sin(x)+sin^2(x)-xcos(x)-cos^2(x)$$",
     "choices": [
         "$$1+cos\\left(x\\right)$$",
         "$$1-sin(x)$$",
         "$$x cos\\left(x\\right)$$",
-        "$$\\left(1-sin\\left(x\\right)\\right) \\left(x-sin\\left(x\\right)-cos\\left(x\\right)\\right)$$"
+        "$$1-2sin(x)+sin^2(x)-xcos(x)-cos^2(x)$$"
     ]
 }
+
+
+

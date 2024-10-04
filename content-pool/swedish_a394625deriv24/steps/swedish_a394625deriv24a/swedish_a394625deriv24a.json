@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "För följande övningar, bestäm andraderivatan för de givna funktionerna.",
-    "stepBody": "$$y=5cos\\left(x\\right)$$, fjärde derivatan",
+    "stepBody": "$$y=5cos\\left(x\\right)$$",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$5cos\\left(x\\right)$$",
