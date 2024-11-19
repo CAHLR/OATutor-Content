@@ -26,6 +26,9 @@ The textbooks contained in this repo are:
 * Pre-Calculus Essentials (UC Berkeley Math 1B)
 * Matematik 4 (OpenStax Calculus Content in Swedish)
 
+All content is available in JSON format within the repository. To view the raw spreadsheets for specific textbooks, use the links below:
+* **Elementary Algebra 2e**: [Link]([https://openstax.org/details/books/elementary-algebra-2e](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUR06L_4klVsd_RUCy2gACmXKDqGhzSMCWsRXwDvNrwvbNfcoEHohgZt8nvBpULjaWHu7AqmV-h5BY/pubhtml))
+
 ## License/Atribution
 
 All content in this repository is made available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
