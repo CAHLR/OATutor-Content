@@ -10,7 +10,7 @@ such as [Canvas](https://www.instructure.com/).
 
 ## Content
 
-This content repository contains problems curated from [OpenStax](https://openstax.org/) with hints and scaffolds authored by the OATutor Project. 
+This content repository contains problems curated from [OpenStax](https://openstax.org/) and classroom syllabus with hints and scaffolds authored by the OATutor Project. 
 As of Fall 2024, these materials have been piloted in classrooms. The hints and scaffolds for the problems have been curated by the OATutor team. 
 If you identify any errors please issue a pull request or bug report.
 
