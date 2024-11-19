@@ -27,7 +27,7 @@ The textbooks contained in this repo are:
 * Matematik 4 (OpenStax Calculus Content in Swedish)
 
 All content is available in JSON format within the repository. To view the raw spreadsheets for specific textbooks, use the links below:
-* **Elementary Algebra 2e**: [Link]([https://openstax.org/details/books/elementary-algebra-2e](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUR06L_4klVsd_RUCy2gACmXKDqGhzSMCWsRXwDvNrwvbNfcoEHohgZt8nvBpULjaWHu7AqmV-h5BY/pubhtml))
+* **Elementary Algebra 2e**: [Link](https://openstax.org/details/books/elementary-algebra-2e](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUR06L_4klVsd_RUCy2gACmXKDqGhzSMCWsRXwDvNrwvbNfcoEHohgZt8nvBpULjaWHu7AqmV-h5BY/pubhtml)
 
 ## License/Atribution
 
