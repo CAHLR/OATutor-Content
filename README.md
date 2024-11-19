@@ -15,13 +15,16 @@ There are currently three completed OpenStax textbooks which have been piloted i
 The hints and scaffolds for the problems have been curated by the OATutor team. 
 If you identify any errors please issue a pull request or bug report.
 
-> Jump to our website: [OATutor.io](OATutor.io)
+> Jump to our website: [OATutor.io](https://www.oatutor.io/)
 
 The textbooks contained in this repo are:
-* [Introductory Statistics 2e](https://openstax.org/details/books/introductory-statistics-2e)
-* [College Algebra 2e with Corequisite Support](https://openstax.org/details/books/college-algebra-corequisite-support-2e) 
-* [Intermediate Algebra 2e](https://openstax.org/details/books/intermediate-algebra-2e)
 * [Elementary Algebra 2e](https://openstax.org/details/books/elementary-algebra-2e)
+* [Intermediate Algebra 2e](https://openstax.org/details/books/intermediate-algebra-2e)
+* [College Algebra 2e with Corequisite Support](https://openstax.org/details/books/college-algebra-corequisite-support-2e) 
+* [Introductory Statistics 2e](https://openstax.org/details/books/introductory-statistics-2e)
+* [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1)
+* Pre-Calculus Essentials (UC Berkeley Math 1B)
+* Matematik 4 (OpenStax Calculus Content in Swedish)
 
 ## License/Atribution
 
