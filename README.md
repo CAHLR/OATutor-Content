@@ -28,6 +28,7 @@ The textbooks contained in this repo are:
 
 All content is available in JSON format within the repository. To view the raw spreadsheets for specific textbooks, use the links below:
 * **Elementary Algebra 2e**: [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUR06L_4klVsd_RUCy2gACmXKDqGhzSMCWsRXwDvNrwvbNfcoEHohgZt8nvBpULjaWHu7AqmV-h5BY/pubhtml)
+* **Intermediate Algebra 2e**: [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1QhiXiCAPZ8qCqwPF6FqAMMOn17CTk7DFakz8vFpOG2dPDL-hT_wqZPwrgKRVt1MrhbwdIrVGAmse/pubhtml)
 
 ## License/Atribution
 
