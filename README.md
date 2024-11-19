@@ -29,8 +29,8 @@ The textbooks contained in this repo are:
 All content is available in JSON format within the repository. To view the raw spreadsheets for specific textbooks, use the links below:
 * **Elementary Algebra 2e**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUR06L_4klVsd_RUCy2gACmXKDqGhzSMCWsRXwDvNrwvbNfcoEHohgZt8nvBpULjaWHu7AqmV-h5BY/pubhtml)
 * **Intermediate Algebra 2e**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR1QhiXiCAPZ8qCqwPF6FqAMMOn17CTk7DFakz8vFpOG2dPDL-hT_wqZPwrgKRVt1MrhbwdIrVGAmse/pubhtml)
-* **College Algebra 2e with Corequisite Support**: [Link to Spreadsheet] (https://docs.google.com/spreadsheets/d/e/2PACX-1vRf6h3onSaY11dvqitkNp9TY0YlrEkJbxngIHfM9gIEy7-6nK0qZMgsCRBAdQ59oZBoF9OcylvGsqXU/pubhtml)
-* **Introductory Statistics 2e**: [Link to Spreadsheet] (https://docs.google.com/spreadsheets/d/e/2PACX-1vRKUBUHZDbd5BTfExIsfthpIwHAmBsMRRxEVylJpIMUtxNDZL61_HZXaffaioWo1Lhlwu3MTItQqYAr/pubhtml)
+* **College Algebra 2e with Corequisite Support**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRf6h3onSaY11dvqitkNp9TY0YlrEkJbxngIHfM9gIEy7-6nK0qZMgsCRBAdQ59oZBoF9OcylvGsqXU/pubhtml)
+* **Introductory Statistics 2e**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKUBUHZDbd5BTfExIsfthpIwHAmBsMRRxEVylJpIMUtxNDZL61_HZXaffaioWo1Lhlwu3MTItQqYAr/pubhtml)
 * **Calculus Volume 1**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSoW5hNq7_4J7PFmxVrb5P5ICRIGqsboFyplDtkeIsngPcvwqiyyRsFU7yHzZoNrySaW52aHjBxQKnA/pubhtml)
 * **Pre-Calculus Essentials (UC Berkeley Math 1B)**: [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7keDhDHAa4gtFz0ahHiZ4AxEvL2CawLVmcUh9aMg6nMBjiXzkIo2TPnqjfypM7OG4aKYOrULmMPqv/pubhtml)
 
