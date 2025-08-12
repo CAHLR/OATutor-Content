@@ -16,7 +16,7 @@
             "ac9c764addand13a-h1"
         ],
         "title": "Substitute",
-        "text": "We get $$2{\\left(\\frac{1}{4}\\right)}^2 \\left(-\\frac{2}{3}\\right)$$ after the substitution.",
+        "text": "We get $$2\\left(\\frac{1}{4}\\right)^2 \\left(-\\frac{2}{3}\\right)$$ after the substitution.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -45,7 +45,7 @@
             "ac9c764addand13a-h3"
         ],
         "title": "Exponents",
-        "text": "What do we get for $${\\left(\\frac{1}{4}\\right)}^2$$?",
+        "text": "What do we get for $$\\left(\\frac{1}{4}\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

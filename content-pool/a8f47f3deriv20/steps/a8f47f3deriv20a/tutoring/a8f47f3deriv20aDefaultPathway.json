@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{-1}{{\\left(x-1\\right)}^2}$$"
+            "$$\\frac{-1}{\\left(x-1\\right)^2}$$"
         ],
         "dependencies": [
             "a8f47f3deriv20a-h1"
@@ -26,8 +26,8 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\frac{-1}{{\\left(x-1\\right)}^2}$$",
-            "$$\\frac{{\\left(x+1\\right)}^2}{2}$$",
+            "$$\\frac{-1}{\\left(x-1\\right)^2}$$",
+            "$$\\frac{\\left(x+1\\right)^2}{2}$$",
             "$$x^2+x$$"
         ]
     }

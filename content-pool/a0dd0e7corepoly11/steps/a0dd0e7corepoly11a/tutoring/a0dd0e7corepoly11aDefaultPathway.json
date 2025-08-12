@@ -40,7 +40,7 @@
             "a0dd0e7corepoly11a-h3"
         ],
         "title": "Solving the Equation",
-        "text": "To find the value to add to $$x^2+b x$$, you must add $${\\left(\\frac{b}{2}\\right)}^2$$ within the parantheses.",
+        "text": "To find the value to add to $$x^2+b x$$, you must add $$\\left(\\frac{b}{2}\\right)^2$$ within the parantheses.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -81,7 +81,7 @@
             "a0dd0e7corepoly11a-h6"
         ],
         "title": "Solving the Equation",
-        "text": "For some quadratic $$f(x)=x^2+2b x+b^2$$, it can be simplified to $${\\left(x+b\\right)}^2$$.",
+        "text": "For some quadratic $$f(x)=x^2+2b x+b^2$$, it can be simplified to $$\\left(x+b\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -92,7 +92,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(x-1\\right)}^2$$"
+            "$$\\left(x-1\\right)^2$$"
         ],
         "dependencies": [
             "a0dd0e7corepoly11a-h7"
@@ -103,10 +103,10 @@
         "oer": "https://OATutor.io",
         "license": "",
         "choices": [
-            "$${\\left(x-1\\right)}^2$$",
-            "$${\\left(x+1\\right)}^2$$",
-            "$${\\left(x-2\\right)}^2$$",
-            "$${\\left(x+2\\right)}^2$$"
+            "$$\\left(x-1\\right)^2$$",
+            "$$\\left(x+1\\right)^2$$",
+            "$$\\left(x-2\\right)^2$$",
+            "$$\\left(x+2\\right)^2$$"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "a0dd0e7corepoly11a-h8"
         ],
         "title": "Finding One Intersection Point",
-        "text": "Given $${\\left(x-1\\right)}^2=A+1$$, $$A+1$$ could either be $$A+1>0$$, $$A+1<0$$, $$A+1=0$$",
+        "text": "Given $$\\left(x-1\\right)^2=A+1$$, $$A+1$$ could either be $$A+1>0$$, $$A+1<0$$, $$A+1=0$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -173,7 +173,7 @@
             "a0dd0e7corepoly11a-h12"
         ],
         "title": "Negative Consant",
-        "text": "When $$A+1<0$$, then it is impossible for $$x$$ to intersect with the line as $${\\left(x-1\\right)}^2$$ cannot be negative.",
+        "text": "When $$A+1<0$$, then it is impossible for $$x$$ to intersect with the line as $$\\left(x-1\\right)^2$$ cannot be negative.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

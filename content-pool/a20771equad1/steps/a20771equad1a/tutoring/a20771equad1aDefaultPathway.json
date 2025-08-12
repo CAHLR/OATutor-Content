@@ -45,7 +45,7 @@
             "a20771equad1a-h3"
         ],
         "title": "Simplification",
-        "text": "Now that we added $$\\frac{1}{24}$$ to both sides, we get that $${\\left(\\sqrt{6} x-\\frac{\\sqrt{6}}{12}\\right)}^2=2+\\frac{1}{24}$$",
+        "text": "Now that we added $$\\frac{1}{24}$$ to both sides, we get that $$\\left(\\sqrt{6} x-\\frac{\\sqrt{6}}{12}\\right)^2=2+\\frac{1}{24}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

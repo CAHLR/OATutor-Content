@@ -67,7 +67,7 @@
             "af4e405log11b-h3"
         ],
         "title": "Solve for $$x$$",
-        "text": "Substitution $$2^2$$ into the exponential equation we found before, we get $${\\left(2^2\\right)}^x=2^1$$. We can simplify this into $$2^{2x}=2^1$$. What is $$x$$?",
+        "text": "Substitution $$2^2$$ into the exponential equation we found before, we get $$\\left(2^2\\right)^x=2^1$$. We can simplify this into $$2^{2x}=2^1$$. What is $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

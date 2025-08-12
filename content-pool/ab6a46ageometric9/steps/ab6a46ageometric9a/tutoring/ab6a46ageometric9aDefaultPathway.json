@@ -74,7 +74,7 @@
             "ab6a46ageometric9a-h4"
         ],
         "title": "Answer",
-        "text": "Therefore, the answer is $$a_n=-1-\\left(3^{n-1}\\right)$$.",
+        "text": "Therefore, the answer is $$a_n=-1\\times-3^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

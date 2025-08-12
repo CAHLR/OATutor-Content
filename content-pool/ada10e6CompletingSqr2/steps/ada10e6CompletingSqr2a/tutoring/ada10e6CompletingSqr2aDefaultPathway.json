@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(b+6\\right)}^2$$"
+            "$$\\left(b+6\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr2a-h3"

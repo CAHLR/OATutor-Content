@@ -126,7 +126,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{T\\left(t\\right)-T_s}{A})}{t}$$"
+            "$$\\frac{\\ln\\left(\\frac{T\\left(t\\right)-T_s}{A}\\right)}{t}$$"
         ],
         "dependencies": [
             "af69facexpolog28a-h9"

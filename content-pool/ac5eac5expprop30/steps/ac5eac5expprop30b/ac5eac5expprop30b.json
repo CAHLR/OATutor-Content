@@ -4,7 +4,7 @@
         "$$5^{xy}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(5^x\\right)}^y$$",
+    "stepTitle": "$$\\left(5^x\\right)^y$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

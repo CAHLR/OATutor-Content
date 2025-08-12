@@ -62,7 +62,7 @@
             "ae173b9deriv12a-h4"
         ],
         "title": "Calculating R(101)",
-        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(101) $$=$$ $$-\\left({\\operatorname{0.03}\\left(101\\right)}^2\\right)$$ + 9(101)\\nR(101) $$=$$ $$-306.03$$ + $$909$$\\nR(101) $$=$$ $$602.97$$",
+        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(101) $$=$$ $$-{\\operatorname{0.03}\\left(101\\right)}^2$$ + 9(101)\\nR(101) $$=$$ $$-306.03$$ + $$909$$\\nR(101) $$=$$ $$602.97$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -103,7 +103,7 @@
             "ae173b9deriv12a-h7"
         ],
         "title": "Calculating R(100)",
-        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(100) $$=$$ $$-\\left({\\operatorname{0.03}\\left(100\\right)}^2\\right)$$ + 9(100)\\nR(100) $$=$$ $$-300$$ + $$900$$\\nR(100) $$=$$ $$600$$",
+        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(100) $$=$$ $$-{\\operatorname{0.03}\\left(100\\right)}^2$$ + 9(100)\\nR(100) $$=$$ $$-300$$ + $$900$$\\nR(100) $$=$$ $$600$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$-\\left(x^2\\right)+4x-3$$"
+            "$$-x^2+4x-3$$"
         ],
         "dependencies": [
             "ac561a1systems27b-h1"
@@ -26,7 +26,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$-\\left(x^2\\right)+4x-3$$",
+            "$$-x^2+4x-3$$",
             "$$x^2-4x+3$$",
             "$$2x^2+6x+1$$",
             "None of the Above"

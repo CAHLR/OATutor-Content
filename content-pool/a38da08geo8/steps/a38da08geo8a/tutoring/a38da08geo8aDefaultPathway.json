@@ -16,7 +16,7 @@
             "a38da08geo8a-h1"
         ],
         "title": "Distance",
-        "text": "To find the distance between (a,b) and $$(2,-1)$$, we can use the distance formula $$d=\\sqrt{{\\left(x2-x1\\right)}^2+{\\left(y2-y1\\right)}^2}$$",
+        "text": "To find the distance between (a,b) and $$(2,-1)$$, we can use the distance formula $$d=\\sqrt{\\left(x2-x1\\right)^2+\\left(y2-y1\\right)^2}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -48,7 +48,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Distance",
-                "text": "Using the distance formula, $$d=\\sqrt{{\\left(a-2\\right)}^2+{\\left(b+1\\right)}^2}=\\sqrt{{\\left(a-2\\right)}^2+{\\left(a^2+1\\right)}^2}=\\sqrt{a^2-4a+4+a^4+2a^2+1}=\\sqrt{a^4+3a^2-4a+5}$$",
+                "text": "Using the distance formula, $$d=\\sqrt{\\left(a-2\\right)^2+\\left(b+1\\right)^2}=\\sqrt{\\left(a-2\\right)^2+\\left(a^2+1\\right)^2}=\\sqrt{a^2-4a+4+a^4+2a^2+1}=\\sqrt{a^4+3a^2-4a+5}$$",
                 "variabilization": {},
                 "oer": "",
                 "license": ""
@@ -62,7 +62,7 @@
             "a38da08geo8a-h3"
         ],
         "title": "Values of a",
-        "text": "$$a^4+3a^2-4a+5={\\left(a-2\\right)}^2+{\\left(a^2+1\\right)}^2 \\geq 0$$",
+        "text": "$$a^4+3a^2-4a+5=\\left(a-2\\right)^2+\\left(a^2+1\\right)^2 \\geq 0$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

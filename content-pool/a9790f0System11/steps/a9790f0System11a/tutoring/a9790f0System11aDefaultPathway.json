@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$x^2+9{\\left(\\frac{1}{3} x+1\\right)}^2=9$$"
+            "$$x^2+9\\left(\\frac{1}{3} x+1\\right)^2=9$$"
         ],
         "dependencies": [
             "a9790f0System11a-h1"

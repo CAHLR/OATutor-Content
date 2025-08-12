@@ -20,7 +20,7 @@
         "dependencies": [
             "aef8b03optimize3a-h1"
         ],
-        "title": "shore's length",
+        "title": "Determine the Shore's Length",
         "text": "Let $$x$$ be the distance running and let $$y$$ be the distance swimming. Let T be the time it takes to get from the cabin to the island. How can we rewrite the shore's length between the cabin and island using $$x$$?\\n##figure1.gif##",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -36,7 +36,7 @@
         "dependencies": [
             "aef8b03optimize3a-h2"
         ],
-        "title": "Equations",
+        "title": "Time Spent Traveling",
         "text": "The second step is to set up equation for the total time spent traveling.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -76,7 +76,7 @@
             "aef8b03optimize3a-h4"
         ],
         "title": "Time Spent Running",
-        "text": "Since $$Distance=RatexTime$$ can be written as $$Time=\\frac{Distance}{Running}$$, which equation represents the time spent running?",
+        "text": "Since $$Distance=Rate Time$$ can be written as $$Time=\\frac{Distance}{Rate}$$, which equation represents the time spent running?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -98,7 +98,7 @@
             "aef8b03optimize3a-h5"
         ],
         "title": "Time Spent Swimming",
-        "text": "Since $$Distance=RatexTime$$ can be written as $$Time=\\frac{Distance}{Running}$$, which equation represents the time spent swimming?",
+        "text": "Since $$Distance=Rate Time$$ can be written as $$Time=\\frac{Distance}{Rate}$$, which equation represents the time spent swimming?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -148,20 +148,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2^2+{\\left(6-x\\right)}^2=y^2$$"
+            "$$2^2+\\left(6-x\\right)^2=y^2$$"
         ],
         "dependencies": [
             "aef8b03optimize3a-h8"
         ],
-        "title": "pythagorean theorem",
+        "title": "Pythagorean Theorem",
         "text": "If the Pythagorean theorem is $$a^2+b^2=c^2$$, which equation correctly represent the relevant variables and values?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
             "$$y^2+x^2=2^2$$",
-            "$${\\left(6-x\\right)}^2+x^2=y^2$$",
-            "$$2^2+{\\left(6-x\\right)}^2=y^2$$"
+            "$$\\left(6-x\\right)^2+x^2=y^2$$",
+            "$$2^2+\\left(6-x\\right)^2=y^2$$"
         ]
     },
     {
@@ -170,20 +170,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\sqrt{{\\left(6-x\\right)}^2+4}$$"
+            "$$\\sqrt{\\left(6-x\\right)^2+4}$$"
         ],
         "dependencies": [
             "aef8b03optimize3a-h9"
         ],
-        "title": "isolate $$y$$",
+        "title": "Isolate $$y$$",
         "text": "Considering the previous equation, $$y=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "(6-x)**2+4)",
-            "$$\\sqrt{{\\left(6-x\\right)}^2+4}$$",
-            "$$\\sqrt{{\\left(4-x\\right)}^2+6}$$"
+            "$$\\left(6-x\\right)^2+4$$",
+            "$$\\sqrt{\\left(6-x\\right)^2+4}$$",
+            "$$\\sqrt{\\left(4-x\\right)^2+6}$$"
         ]
     },
     {
@@ -213,8 +213,8 @@
         "dependencies": [
             "aef8b03optimize3a-h11"
         ],
-        "title": "subsitute $$y$$",
-        "text": "If $$T=\\frac{x}{8}+\\frac{y}{3}$$, subsitute $$y$$ with $$y=\\sqrt{{\\left(6-x\\right)}^2+4}$$.",
+        "title": "Subsitute $$y$$",
+        "text": "If $$T=\\frac{x}{8}+\\frac{y}{3}$$, subsitute $$y$$ with $$y=\\sqrt{\\left(6-x\\right)^2+4}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -242,7 +242,7 @@
         "dependencies": [
             "aef8b03optimize3a-h13"
         ],
-        "title": "Shore length's domain",
+        "title": "Shore Length's Fomain",
         "text": "If the shore length must be positive and less than $$6$$ miles, $$x$$ can only be within what two numbers?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -271,19 +271,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}{8}-\\frac{2\\frac{1}{2} \\left(6-x\\right) {\\left({\\left(6-x\\right)}^2+4\\right)}^{\\left(-\\frac{1}{2}\\right)}}{3}$$"
+            "$$\\frac{1}{8}-\\frac{2\\frac{1}{2} \\left(6-x\\right) \\left(\\left(6-x\\right)^2+4\\right)^{\\left(-\\frac{1}{2}\\right)}}{3}$$"
         ],
         "dependencies": [
             "aef8b03optimize3a-h15"
         ],
-        "title": "Derivative",
+        "title": "Find the Derivative of T(x)",
         "text": "Since T(x) is a continuous function over a closed, bounded interval, it has a maximum and a minimum. In order to find the critical points, what is the derivative of T(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "$$\\frac{2\\frac{1}{2} \\left(6-x\\right) {\\left({\\left(6-x\\right)}^2+4\\right)}^{\\left(-\\frac{1}{2}\\right)}}{3}$$",
-            "$$\\frac{1}{8}-\\frac{2\\frac{1}{2} \\left(6-x\\right) {\\left({\\left(6-x\\right)}^2+4\\right)}^{\\left(-\\frac{1}{2}\\right)}}{3}$$"
+            "$$\\frac{2\\frac{1}{2} \\left(6-x\\right) \\left(\\left(6-x\\right)^2+4\\right)^{\\left(-\\frac{1}{2}\\right)}}{3}$$",
+            "$$\\frac{1}{8}-\\frac{2\\frac{1}{2} \\left(6-x\\right) \\left(\\left(6-x\\right)^2+4\\right)^{\\left(-\\frac{1}{2}\\right)}}{3}$$"
         ]
     },
     {
@@ -292,19 +292,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$6\\pm \\frac{6}{sqrt55}$$"
+            "$$6\\pm \\frac{6}{\\sqrt{55}}$$"
         ],
         "dependencies": [
             "aef8b03optimize3a-h16"
         ],
-        "title": "$$T'(x)=0$$",
+        "title": "Find $$x$$ when $$T'(x)=0$$",
         "text": "If $$T'(x)=0$$, what is $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "$$6\\pm \\frac{6}{sqrt55}$$",
-            "$$6+\\frac{6}{sqrt55}$$"
+            "$$6\\pm \\frac{6}{\\sqrt{55}}$$",
+            "$$6+\\frac{6}{\\sqrt{55}}$$"
         ]
     },
     {
@@ -313,19 +313,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$6-\\frac{6}{sqrt55}$$"
+            "$$6-\\frac{6}{\\sqrt{55}}$$"
         ],
         "dependencies": [
             "aef8b03optimize3a-h17"
         ],
-        "title": "critial points within the domain",
+        "title": "Critial Points Within the Domain",
         "text": "Which of the following $$x$$ values are within the domain?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "$$6+\\frac{6}{sqrt55}$$",
-            "$$6-\\frac{6}{sqrt55}$$"
+            "$$6+\\frac{6}{\\sqrt{55}}$$",
+            "$$6-\\frac{6}{\\sqrt{55}}$$"
         ]
     },
     {
@@ -351,7 +351,7 @@
         "dependencies": [
             "aef8b03optimize3a-h20"
         ],
-        "title": "left endpoint",
+        "title": "Left Endpoint",
         "text": "What does $$T(0)=___$$? Round to the third decimal place.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -368,7 +368,7 @@
         "dependencies": [
             "aef8b03optimize3a-h21"
         ],
-        "title": "right endpoint",
+        "title": "Right Endpoint",
         "text": "What does $$T(6)=___$$? Round to the third decimal place.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -380,20 +380,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "minimum"
+            "Minimum"
         ],
         "dependencies": [
             "aef8b03optimize3a-h22"
         ],
-        "title": "justified critical point",
+        "title": "Justified Critical Point",
         "text": "We find that $$T(0)\u22482.108h$$ and $$T(6)\u22481.417h$$, whereas T(6-6/sqrt55)\u22481.368h. Therefore, $$x=6-\\frac{6}{sqrt55}$$ is a $$___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "neither",
-            "minimum",
-            "maximum"
+            "Neither",
+            "Minimum",
+            "Maximum"
         ]
     }
 ]

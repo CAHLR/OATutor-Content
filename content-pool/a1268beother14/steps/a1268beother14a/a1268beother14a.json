@@ -4,7 +4,7 @@
         "$$8, -2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x+1\\right)}^2-8\\left(x+1\\right)-9=0$$",
+    "stepTitle": "$$\\left(x+1\\right)^2-8\\left(x+1\\right)-9=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

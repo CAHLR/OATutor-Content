@@ -16,7 +16,7 @@
             "a08d293Rational17a-h1"
         ],
         "title": "Property to use",
-        "text": "We want to use $$a^{\\frac{m}{n}}$$ $$=$$ $${\\left(a^m\\right)}^n$$ when writing each radical.",
+        "text": "We want to use $$a^{\\frac{m}{n}}$$ $$=$$ $$\\left(a^m\\right)^n$$ when writing each radical.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

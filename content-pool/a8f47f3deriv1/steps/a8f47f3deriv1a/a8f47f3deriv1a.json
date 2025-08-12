@@ -1,7 +1,7 @@
 {
     "id": "a8f47f3deriv1a",
     "stepAnswer": [
-        "inflection point"
+        "Inflection point"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "For the function $$y=x^3$$, choose what the point $$x=0$$ is.",
@@ -9,8 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "inflection point and local $$\\frac{max}{min}$$",
-        "inflection point",
-        "local $$\\frac{max}{min}$$"
+        "Inflection point",
+        "Local max or min",
+        "Inflection point",
+        "Inflection point and local max or min"
     ]
 }

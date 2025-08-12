@@ -4,7 +4,7 @@
         "B"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x=-\\left(y^2\\right)-4y+12$$",
+    "stepTitle": "$$x=-y^2-4y+12$$",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

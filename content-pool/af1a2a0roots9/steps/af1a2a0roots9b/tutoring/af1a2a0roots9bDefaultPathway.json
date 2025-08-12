@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Square Root",
-        "text": "$${\\left(y^8\\right)}^2=y^{16}$$",
+        "text": "$$\\left(y^8\\right)^2=y^{16}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

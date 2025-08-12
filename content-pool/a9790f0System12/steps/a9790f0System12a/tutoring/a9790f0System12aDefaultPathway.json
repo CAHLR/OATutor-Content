@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$4x^2+{\\left(x+2\\right)}^2=4$$"
+            "$$4x^2+\\left(x+2\\right)^2=4$$"
         ],
         "dependencies": [
             "a9790f0System12a-h1"

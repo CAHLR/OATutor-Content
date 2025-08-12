@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(y-3\\right)}^2=25$$"
+            "$$\\left(y-3\\right)^2=25$$"
         ],
         "dependencies": [
             "a985d52Square8a-h3"

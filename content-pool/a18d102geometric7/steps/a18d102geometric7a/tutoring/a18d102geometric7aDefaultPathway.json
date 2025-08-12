@@ -87,7 +87,7 @@
                 ],
                 "dependencies": [],
                 "title": "Plug in the Values into Formula",
-                "text": "What is $$64{\\left(\\frac{1}{2}\\right)}^{14-1}$$?",
+                "text": "What is $$64\\left(\\frac{1}{2}\\right)^{14-1}$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

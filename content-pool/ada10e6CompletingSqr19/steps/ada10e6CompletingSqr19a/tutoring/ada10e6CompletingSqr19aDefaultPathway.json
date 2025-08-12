@@ -159,7 +159,7 @@
             "ada10e6CompletingSqr19a-h10"
         ],
         "title": "Principle",
-        "text": "Recall that $$a^2+2ab+b^2={\\left(a+b\\right)}^2$$",
+        "text": "Recall that $$a^2+2ab+b^2=\\left(a+b\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

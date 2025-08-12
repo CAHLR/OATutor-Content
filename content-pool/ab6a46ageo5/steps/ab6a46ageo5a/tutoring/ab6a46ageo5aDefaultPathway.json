@@ -74,7 +74,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$a_n=-1-\\left(2^{n-1}\\right)$$"
+            "$$a_n=-1\\times-2^{n-1}$$"
         ],
         "dependencies": [
             "ab6a46ageo5a-h5"

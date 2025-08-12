@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$x+3={\\left(3x-1\\right)}^2$$"
+            "$$x+3=\\left(3x-1\\right)^2$$"
         ],
         "dependencies": [
             "a1268beother20a-h1"

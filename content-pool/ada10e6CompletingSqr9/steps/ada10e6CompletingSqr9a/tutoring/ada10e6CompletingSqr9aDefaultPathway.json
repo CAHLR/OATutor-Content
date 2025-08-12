@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p-0.167\\right)}^2$$"
+            "$$\\left(p-0.167\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr9a-h3"

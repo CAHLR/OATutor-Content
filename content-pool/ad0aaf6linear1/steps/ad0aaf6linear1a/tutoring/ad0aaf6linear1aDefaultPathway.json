@@ -148,7 +148,7 @@
         "dependencies": [
             "ad0aaf6linear1a-h8"
         ],
-        "title": "Final Answer",
+        "title": "Estimating $$\\sqrt{9.1}$$",
         "text": "$$L(9.1)$$ $$=$$ $$3$$ + (1/6)(9.1 - 9) $$=$$ $$3$$ + $$0.1\\frac{1}{6}$$ $$=$$ $$3$$ + $$0.0166666$$ $$=$$ $$3.0167$$\\n##figure1.gif##",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

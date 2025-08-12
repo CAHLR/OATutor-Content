@@ -4,7 +4,7 @@
         "Even"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$f(x)={\\left(x-2\\right)}^2$$",
+    "stepTitle": "$$f(x)=\\left(x-2\\right)^2$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

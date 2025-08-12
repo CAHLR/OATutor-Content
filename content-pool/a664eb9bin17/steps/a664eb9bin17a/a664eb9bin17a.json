@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Using Pascal's Triangle to Expand a polynomial.",
-    "stepBody": "$${\\left(x+2\\right)}^5$$",
+    "stepBody": "$$\\left(x+2\\right)^5$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$x^5+10x^4+40x^3+80x^2+80x^1+32$$"

@@ -62,7 +62,7 @@
             "a746c1bFactoring8a-h4"
         ],
         "title": "Finished Factoring",
-        "text": "We can rewrite $$4x^2+25$$ as $${\\left(2x\\right)}^2+5^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further than the factor $$4x^2+25$$.",
+        "text": "We can rewrite $$4x^2+25$$ as $$\\left(2x\\right)^2+5^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further than the factor $$4x^2+25$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

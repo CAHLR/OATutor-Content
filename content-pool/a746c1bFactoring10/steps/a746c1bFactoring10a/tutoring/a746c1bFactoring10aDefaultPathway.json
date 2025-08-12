@@ -62,7 +62,7 @@
             "a746c1bFactoring10a-h4"
         ],
         "title": "Finished Factoring",
-        "text": "We can rewrite $$9y^2+16$$ as $${\\left(3y\\right)}^2+4^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further factor $$9y^2+16$$.",
+        "text": "We can rewrite $$9y^2+16$$ as $$\\left(3y\\right)^2+4^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further factor $$9y^2+16$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -4,7 +4,7 @@
         "Center: $$(-2,5)$$, Radius: $$2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x+2\\right)}^2+{\\left(y-5\\right)}^2=4$$",
+    "stepTitle": "$$\\left(x+2\\right)^2+\\left(y-5\\right)^2=4$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

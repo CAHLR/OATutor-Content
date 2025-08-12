@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(d+5\\right)}^2=16$$"
+            "$$\\left(d+5\\right)^2=16$$"
         ],
         "dependencies": [
             "a985d52Square7a-h3"

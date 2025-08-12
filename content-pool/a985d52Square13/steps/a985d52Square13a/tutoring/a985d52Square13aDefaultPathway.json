@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+5\\right)}^2=36$$"
+            "$$\\left(x+5\\right)^2=36$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",

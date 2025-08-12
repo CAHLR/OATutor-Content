@@ -3,8 +3,8 @@
         "id": "ab19046LimitLaw1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "We can separate the functions into $$4x^2$$, $$-2x$$ and $$3$$ as $$x$$ approaches $$0$$",
+        "title": "Breaking Down the Question",
+        "text": "We can separate the functions into $$3$$ limits of $$4x^2$$, $$-2x$$ and $$3$$ as $$x$$ approaches $$0$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "ab19046LimitLaw1a-h1"
         ],
         "title": "Find Limits",
-        "text": "What is $$\\lim_{x\\to0} 4x^2,\\lim_{x\\to0} -2x$$ and $$\\lim_{x\\to0} 3\uff1f$$",
+        "text": "What is $$\\lim_{x\\to0} 4x^2,\\lim_{x\\to0} -2x$$ and $$\\lim_{x\\to0} 3$$ \uff1f",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,7 +27,7 @@
         "dependencies": [
             "ab19046LimitLaw1a-h2"
         ],
-        "title": "Using the above info, add all three limits and get the answer.",
+        "title": "Add All Three Limits",
         "text": "$$0-0+3=3$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

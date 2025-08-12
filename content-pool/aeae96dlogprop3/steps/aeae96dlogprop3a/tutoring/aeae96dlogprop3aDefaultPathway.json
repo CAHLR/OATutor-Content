@@ -16,7 +16,7 @@
             "aeae96dlogprop3a-h1"
         ],
         "title": "Representing the Expression With Many Logarithms",
-        "text": "$$\\ln(\\frac{a}{b})$$ is equivalent to $$\\ln(a)-\\ln(b)$$",
+        "text": "$$\\ln\\left(\\frac{a}{b}\\right)$$ is equivalent to $$\\ln\\left(a\\right)-\\ln\\left(b\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

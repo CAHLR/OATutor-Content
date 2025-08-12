@@ -134,7 +134,7 @@
             "a4a0f7dradicalroot4a-h10"
         ],
         "title": "Binomial Squares",
-        "text": "Recall the binomial square formula: $${\\left(a+b\\right)}^2=a^2+2ab+b^2$$",
+        "text": "Recall the binomial square formula: $$\\left(a+b\\right)^2=a^2+2ab+b^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -163,7 +163,7 @@
             "a4a0f7dradicalroot4a-h12"
         ],
         "title": "Substitution",
-        "text": "What is $${\\left(m-1\\right)}^2$$?",
+        "text": "What is $$\\left(m-1\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

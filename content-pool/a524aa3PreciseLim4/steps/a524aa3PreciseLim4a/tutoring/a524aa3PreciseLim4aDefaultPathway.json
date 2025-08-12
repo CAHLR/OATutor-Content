@@ -3,7 +3,7 @@
         "id": "a524aa3PreciseLim4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Universal quantifier",
+        "title": "Universal Quantifier",
         "text": "Remember that epsilon in a \u03b5-\u03b4 defintion is used to quantify the distance between the function and what the limit is equal to.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

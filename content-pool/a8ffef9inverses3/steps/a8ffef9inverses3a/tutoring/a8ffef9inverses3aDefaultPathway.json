@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding the Domain",
-        "text": "The original function $$f(x)={\\left(x-4\\right)}^2$$ is not one-to-one, but the function is restricted to a domain of $$x \\geq 4$$ on which it is one-to-one.",
+        "text": "The original function $$f(x)=\\left(x-4\\right)^2$$ is not one-to-one, but the function is restricted to a domain of $$x \\geq 4$$ on which it is one-to-one.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -27,7 +27,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$y={\\left(x-4\\right)}^2$$"
+            "$$y=\\left(x-4\\right)^2$$"
         ],
         "dependencies": [
             "a8ffef9inverses3a-h2"
@@ -38,9 +38,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$y={\\left(x-4\\right)}^2$$",
-            "$$x={\\left(y-4\\right)}^2$$",
-            "$$f(x)={\\left(x-4\\right)}^2$$"
+            "$$y=\\left(x-4\\right)^2$$",
+            "$$x=\\left(y-4\\right)^2$$",
+            "$$f(x)=\\left(x-4\\right)^2$$"
         ]
     },
     {
@@ -49,7 +49,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$x={\\left(y-4\\right)}^2$$"
+            "$$x=\\left(y-4\\right)^2$$"
         ],
         "dependencies": [
             "a8ffef9inverses3a-h3"
@@ -60,9 +60,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$y={\\left(x-4\\right)}^2$$",
-            "$$x={\\left(y-4\\right)}^2$$",
-            "$$f(x)={\\left(x-4\\right)}^2$$"
+            "$$y=\\left(x-4\\right)^2$$",
+            "$$x=\\left(y-4\\right)^2$$",
+            "$$f(x)=\\left(x-4\\right)^2$$"
         ]
     },
     {

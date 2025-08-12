@@ -4,7 +4,7 @@
         "$$25u^4+90u^2+81$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(5u^2+9\\right)}^2$$",
+    "stepTitle": "$$\\left(5u^2+9\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -16,7 +16,7 @@
             "a39b8a0def21a-h1"
         ],
         "title": "Plugging In",
-        "text": "In this question, $$t$$ goes from $$4$$ to $$4.01$$. Plug $$4.01s$$ in for $$t$$ and 4s in for a in the previous equation.",
+        "text": "In this question, $$t$$ goes from $$4$$ to $$4.01$$. To find s(t), plug $$4.01$$ in for $$t$$ and $$4$$ in for a to find s(a).",
         "variabilization": {},
         "oer": "",
         "license": ""

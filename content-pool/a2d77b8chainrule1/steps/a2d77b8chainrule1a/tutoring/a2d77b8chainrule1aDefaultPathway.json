@@ -16,7 +16,7 @@
             "a2d77b8chainrule1a-h1"
         ],
         "title": "Find the Derivative",
-        "text": "First, try finding the derivative of $$y$$ in terms of u. Then, find the derivative of u in terms of $$x$$. Multiplying the two should yield the correct answer!",
+        "text": "First, try finding the derivative of $$y$$ in terms of u. Then, find the derivative of u in terms of $$x$$. Multiplying the two should yield the correct answer.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -73,8 +73,8 @@
         "dependencies": [
             "a2d77b8chainrule1a-h4"
         ],
-        "title": "Plug in",
-        "text": "Don't forget to plug in what we have for u in terms of $$x$$ to give our final answer in terms of $$x!$$",
+        "title": "Plug In and Solve in Terms of $$x$$",
+        "text": "Don't forget to plug in what we have for u in terms of $$x$$ to give our final answer in terms of $$x$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

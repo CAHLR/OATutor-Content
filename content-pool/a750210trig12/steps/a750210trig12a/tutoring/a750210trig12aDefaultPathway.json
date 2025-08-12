@@ -39,7 +39,7 @@
         "dependencies": [
             "a750210trig12a-h3"
         ],
-        "title": "Definition of trigonometric functions",
+        "title": "Definition of Trigonometric Functions",
         "text": "Letting $$x$$ be an angle, sinx $$=$$ $$y$$, cosx $$=$$ $$x$$, and tanx $$=$$ $$\\frac{y}{x}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

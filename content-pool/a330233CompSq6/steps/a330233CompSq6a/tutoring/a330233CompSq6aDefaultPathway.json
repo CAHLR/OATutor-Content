@@ -15,8 +15,8 @@
         "dependencies": [
             "a330233CompSq6a-h1"
         ],
-        "title": "Find $${\\left(\\frac{1}{2} b\\right)}^2$$",
-        "text": "$${\\left(\\frac{1}{2} \\frac{1}{4}\\right)}^2=\\frac{1}{64}$$",
+        "title": "Find $$\\left(\\frac{1}{2} b\\right)^2$$",
+        "text": "$$\\left(\\frac{1}{2} \\frac{1}{4}\\right)^2=\\frac{1}{64}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -27,7 +27,7 @@
         "dependencies": [
             "a330233CompSq6a-h2"
         ],
-        "title": "Add $${\\left(\\frac{1}{2} b\\right)}^2$$ to $$x^2+bx$$",
+        "title": "Add $$\\left(\\frac{1}{2} b\\right)^2$$ to $$x^2+bx$$",
         "text": "$$x^2+\\frac{1}{4} x+\\frac{1}{64}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -40,7 +40,7 @@
             "a330233CompSq6a-h3"
         ],
         "title": "Write as a perfect squared binomial",
-        "text": "$${\\left(x+\\frac{1}{2}\\right)}^2$$",
+        "text": "$$\\left(x+\\frac{1}{2}\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

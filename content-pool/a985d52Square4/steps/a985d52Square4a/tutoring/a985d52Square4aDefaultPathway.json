@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(u-\\frac{9}{2}\\right)}^2$$"
+            "$$\\left(u-\\frac{9}{2}\\right)^2$$"
         ],
         "dependencies": [
             "a985d52Square4a-h3"

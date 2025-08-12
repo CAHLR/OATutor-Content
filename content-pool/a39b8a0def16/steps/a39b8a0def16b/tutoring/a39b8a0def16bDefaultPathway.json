@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "the same"
+            "The same"
         ],
         "dependencies": [
             "a39b8a0def16b-h1"
@@ -26,8 +26,8 @@
         "oer": "",
         "license": "",
         "choices": [
-            "the same",
-            "different"
+            "The same",
+            "Different"
         ]
     }
 ]

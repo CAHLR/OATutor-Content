@@ -27,7 +27,7 @@
         "dependencies": [
             "a750210trig15a-h2"
         ],
-        "title": "Subtraction formula of sinx",
+        "title": "Subtraction Formula of sin(x)",
         "text": "The subtraction formula for sinx is sin $$(A-B)=sinA CosB-cosA sinB$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

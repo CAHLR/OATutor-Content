@@ -16,7 +16,7 @@
             "a512f5aexplog15a-h1"
         ],
         "title": "Properties of logs",
-        "text": "Recall that ln(a) + ln(b) $$=$$ $$\\ln(a b)$$.",
+        "text": "Recall that ln(a) + ln(b) $$=$$ $$\\ln\\left(a b\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

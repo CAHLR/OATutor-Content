@@ -15,8 +15,8 @@
         "dependencies": [
             "a330233CompSq1a-h1"
         ],
-        "title": "Find $${\\left(\\frac{1}{2} b\\right)}^2$$",
-        "text": "$${\\left(\\frac{1}{2} \\left(-26\\right)\\right)}^2=169$$",
+        "title": "Find $$\\left(\\frac{1}{2} b\\right)^2$$",
+        "text": "$$\\left(\\frac{1}{2} \\left(-26\\right)\\right)^2=169$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -27,7 +27,7 @@
         "dependencies": [
             "a330233CompSq1a-h2"
         ],
-        "title": "Add $${\\left(\\frac{1}{2} b\\right)}^2$$ to $$x^2+bx$$",
+        "title": "Add $$\\left(\\frac{1}{2} b\\right)^2$$ to $$x^2+bx$$",
         "text": "$$x^2-26x+169$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -40,7 +40,7 @@
             "a330233CompSq1a-h3"
         ],
         "title": "Write as a perfect squared binomial",
-        "text": "$${\\left(x-13\\right)}^2$$",
+        "text": "$$\\left(x-13\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

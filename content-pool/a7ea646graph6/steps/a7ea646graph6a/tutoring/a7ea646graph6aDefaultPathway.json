@@ -40,7 +40,7 @@
             "a7ea646graph6a-h3"
         ],
         "title": "Putting Identified Traits Together",
-        "text": "Together, this gives us $$f(x)=a\\left(x+3\\right) {\\left(x-2\\right)}^2 \\left(x-5\\right)$$.",
+        "text": "Together, this gives us $$f(x)=a\\left(x+3\\right) \\left(x-2\\right)^2 \\left(x-5\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

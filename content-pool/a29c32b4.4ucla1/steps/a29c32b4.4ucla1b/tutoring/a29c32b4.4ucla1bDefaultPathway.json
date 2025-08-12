@@ -3,7 +3,7 @@
         "id": "a29c32b4.4ucla1b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Use the probability distribution function formula P(X) $$=$$ $$p {\\left(1-p\\right)}^{x-1}$$",
+        "title": "Use the probability distribution function formula P(X) $$=$$ $$p \\left(1-p\\right)^{x-1}$$",
         "text": "",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

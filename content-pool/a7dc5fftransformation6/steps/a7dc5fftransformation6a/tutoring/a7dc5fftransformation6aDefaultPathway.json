@@ -28,7 +28,7 @@
             "a7dc5fftransformation6a-h2"
         ],
         "title": "How to Find $$f(-x)$$",
-        "text": "Find $$f(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when $$n$$ is an even, and $${\\left(-x\\right)}^n=-\\left(x^n\\right)$$ when $$n$$ is odd-- for example, $${\\left(x+5\\right)}^2$$ $$=$$ $${\\left(-\\left(-x-5\\right)\\right)}^2={\\left(x+5\\right)}^2$$.",
+        "text": "Find $$f(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when $$n$$ is an even, and $${\\left(-x\\right)}^n=-x^n$$ when $$n$$ is odd-- for example, $$\\left(x+5\\right)^2$$ $$=$$ $${\\left(-\\left(-x-5\\right)\\right)}^2=\\left(x+5\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -39,7 +39,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(x+2\\right)}^2$$"
+            "$$\\left(x+2\\right)^2$$"
         ],
         "dependencies": [
             "a7dc5fftransformation6a-h3"
@@ -50,9 +50,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$-\\left({\\left(x+2\\right)}^2\\right)$$",
-            "$${\\left(x+2\\right)}^2$$",
-            "$${\\left(x-2\\right)}^2$$"
+            "$$-\\left(x+2\\right)^2$$",
+            "$$\\left(x+2\\right)^2$$",
+            "$$\\left(x-2\\right)^2$$"
         ]
     },
     {
@@ -73,7 +73,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$-\\left({\\left(x+2\\right)}^2\\right)$$"
+            "$$-\\left(x+2\\right)^2$$"
         ],
         "dependencies": [
             "a7dc5fftransformation6a-h5"
@@ -84,9 +84,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$-\\left({\\left(x+2\\right)}^2\\right)$$",
-            "$${\\left(x+2\\right)}^2$$",
-            "$${\\left(x-2\\right)}^2$$"
+            "$$-\\left(x+2\\right)^2$$",
+            "$$\\left(x+2\\right)^2$$",
+            "$$\\left(x-2\\right)^2$$"
         ]
     },
     {

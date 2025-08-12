@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p-11\\right)}^2$$"
+            "$$\\left(p-11\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr5a-h3"

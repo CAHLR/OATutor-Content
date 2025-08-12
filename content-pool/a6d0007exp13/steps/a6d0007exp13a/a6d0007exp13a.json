@@ -4,7 +4,7 @@
         "$$a^3 b^6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left({ab}^2\\right)}^3$$",
+    "stepTitle": "$$\\left({ab}^2\\right)^3$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

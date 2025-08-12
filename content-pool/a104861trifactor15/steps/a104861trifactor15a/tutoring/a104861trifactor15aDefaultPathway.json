@@ -16,7 +16,7 @@
             "a104861trifactor15a-h1"
         ],
         "title": "Square of the Binomial",
-        "text": "Take the perfect squares of the first and last term and write is as a binomial so you will get $${\\left(7s+11\\right)}^2$$. Notice how it's now subtraction since the original middle term was negative.",
+        "text": "Take the perfect squares of the first and last term and write is as a binomial so you will get $$\\left(7s+11\\right)^2$$. Notice how it's now subtraction since the original middle term was negative.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

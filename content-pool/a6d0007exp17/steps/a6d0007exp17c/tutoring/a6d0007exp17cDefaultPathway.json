@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Scientific Notation",
-        "text": "A number is written in scientific notation if it is written in the form $$a {10}^n$$, where 1<=|a|<10 and $$n$$ is an integer.",
+        "text": "A number is written in scientific notation if it is written in the form $${10}^na$$, where 1<=|a|<10 and $$n$$ is an integer.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

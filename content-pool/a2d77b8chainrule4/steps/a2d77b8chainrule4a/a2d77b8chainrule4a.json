@@ -11,8 +11,8 @@
     "answerLatex": "$$\\frac{\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)}{8}$$",
     "choices": [
         "$$\\frac{\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)}{8}$$",
-        "$$\\frac{-\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)}{8}$$",
+        "$$\\left(-\\frac{\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)}{8}\\right)$$",
         "$$\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)$$",
-        "$$-\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)$$"
+        "$$\\left(-\\operatorname{sinnegneg}\\left(\\frac{x}{8}\\right)\\right)$$"
     ]
 }

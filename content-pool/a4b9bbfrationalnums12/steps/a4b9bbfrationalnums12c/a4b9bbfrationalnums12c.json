@@ -4,7 +4,7 @@
         "$$z^6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(z^9\\right)}^{\\frac{2}{3}}$$",
+    "stepTitle": "$$\\left(z^9\\right)^{\\frac{2}{3}}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -16,7 +16,7 @@
             "a6d0007exp2c-h1"
         ],
         "title": "Product Rule of Exponents",
-        "text": "Use the product rule to simplify the expression: $${\\left(\\frac{2}{y}\\right)}^4 \\frac{2}{y}={\\left(\\frac{2}{y}\\right)}^4 {\\left(\\frac{2}{y}\\right)}^1={\\left(\\frac{2}{y}\\right)}^{4+1}$$",
+        "text": "Use the product rule to simplify the expression: $$\\left(\\frac{2}{y}\\right)^4 \\frac{2}{y}=\\left(\\frac{2}{y}\\right)^4 \\left(\\frac{2}{y}\\right)^1=\\left(\\frac{2}{y}\\right)^{4+1}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

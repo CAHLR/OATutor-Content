@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Write with a rational exponent",
-    "stepBody": "$${\\left(5j\\right)}^{\\frac{1}{2}}$$",
+    "stepBody": "$$\\left(5j\\right)^{\\frac{1}{2}}$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$\\sqrt{5j}$$"

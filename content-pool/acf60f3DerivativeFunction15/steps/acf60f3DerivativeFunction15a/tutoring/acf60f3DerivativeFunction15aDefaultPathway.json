@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction15a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivative function",
-        "text": "Acording to derivative function, the given limit represents $$f'(a)=\\lim_{h\\to0} \\frac{f{\\left(a+h\\right)}-f{\\left(a\\right)}}{h}$$",
+        "title": "Derivative Function",
+        "text": "Acording to Derivative Function, the given limit represents $$f'(a)=\\lim_{h\\to0} \\frac{f{\\left(a+h\\right)}-f{\\left(a\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -21,12 +21,12 @@
             "acf60f3DerivativeFunction15a-h1"
         ],
         "title": "Find f(a)",
-        "text": "Reflecting derivative function, what is f(a)?",
+        "text": "Reflecting Derivative Function, what is f(a)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$${\\left(2+h\\right)}^4$$",
+            "$$\\left(2+h\\right)^4$$",
             "$$16$$",
             "$$-16$$"
         ]
@@ -37,18 +37,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(2+h\\right)}^4$$"
+            "$$\\left(2+h\\right)^4$$"
         ],
         "dependencies": [
             "acf60f3DerivativeFunction15a-h2"
         ],
         "title": "Find $$f{\\left(a+h\\right)}$$",
-        "text": "Reflecting derivative function, what is $$f{\\left(a+h\\right)}$$?",
+        "text": "Reflecting Derivative Function, what is $$f{\\left(a+h\\right)}$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$${\\left(2+h\\right)}^4$$",
+            "$$\\left(2+h\\right)^4$$",
             "$$16$$",
             "$$-16$$"
         ]
@@ -60,7 +60,7 @@
             "acf60f3DerivativeFunction15a-h3"
         ],
         "title": "Find a and f(x)",
-        "text": "From $$f{\\left(a+h\\right)}={\\left(2+h\\right)}^4$$, we can find a, and f(x) by substituting $$x$$ into $$x$$ and ignoring $$h$$ too",
+        "text": "From $$f{\\left(a+h\\right)}=\\left(2+h\\right)^4$$, we can find a, and f(x) by substituting $$x$$ into $$x$$ and ignoring $$h$$ too",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -104,7 +104,7 @@
         "license": "",
         "choices": [
             "$$x^4$$",
-            "$${\\left(2+x\\right)}^4$$"
+            "$$\\left(2+x\\right)^4$$"
         ]
     }
 ]

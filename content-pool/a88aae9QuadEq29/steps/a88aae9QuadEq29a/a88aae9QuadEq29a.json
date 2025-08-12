@@ -4,7 +4,7 @@
         "None"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$-\\left(x^2\\right)+x-7>0$$",
+    "stepTitle": "$$-x^2+x-7>0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {}

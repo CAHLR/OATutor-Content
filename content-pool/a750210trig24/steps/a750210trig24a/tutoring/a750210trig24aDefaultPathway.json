@@ -27,7 +27,7 @@
         "dependencies": [
             "a750210trig24a-h2"
         ],
-        "title": "Reciprocal",
+        "title": "Finding Reciprocals of Fractions",
         "text": "Remember that instead of dividing $$2$$ fractions, we can multiply the fraction in the numerator by the reciprocal of the fraction in the denominator.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -45,7 +45,7 @@
             "a750210trig24a-h3"
         ],
         "title": "Use the above to simplify the following",
-        "text": "$${\\left(\\frac{sinx}{cosx}\\right)}^2 {\\left(\\frac{1}{cosx}\\right)}^2$$",
+        "text": "$$\\left(\\frac{sinx}{cosx}\\right)^2 \\left(\\frac{1}{cosx}\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",

@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Simplify the expression to a single number.",
-    "stepBody": "$$-\\left(6^2\\right)$$",
+    "stepBody": "$$-6^2$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-36$$"

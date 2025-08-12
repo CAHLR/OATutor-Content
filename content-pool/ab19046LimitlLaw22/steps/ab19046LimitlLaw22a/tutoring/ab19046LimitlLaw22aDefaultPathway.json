@@ -8,7 +8,7 @@
             "$$4$$"
         ],
         "dependencies": [],
-        "title": "Sub-questions",
+        "title": "Plug In $$x=6$$ and Solve for f(x)",
         "text": "What is $$\\lim_{x\\to6} f(x)$$?",
         "variabilization": {},
         "oer": "",
@@ -25,7 +25,7 @@
         "dependencies": [
             "ab19046LimitlLaw22a-h1"
         ],
-        "title": "Sub-questions",
+        "title": "Plug In $$x=6$$ and Solve for $$g(x)-1$$",
         "text": "What is $$\\lim_{x\\to6} g(x)-1$$?",
         "variabilization": {},
         "oer": "",
@@ -37,7 +37,7 @@
         "dependencies": [
             "ab19046LimitlLaw22a-h2"
         ],
-        "title": "The property of the limit",
+        "title": "Multiply the Limit Values Together",
         "text": "The limit of functions at same point commute and can be directly divided.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

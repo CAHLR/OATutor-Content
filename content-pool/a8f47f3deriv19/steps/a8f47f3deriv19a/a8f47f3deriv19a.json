@@ -1,18 +1,18 @@
 {
     "id": "a8f47f3deriv19a",
     "stepAnswer": [
-        "all $$x$$"
+        "All $$x$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Consider $$f(x)=sin\\left(x\\right)+tan\\left(x\\right)$$ over x=[-pi/2, pi/2]. Find the intervals where f is increasing.",
+    "stepTitle": "Consider $$f(x)=sin\\left(x\\right)+tan\\left(x\\right)$$ over $$x=[-$$ pi /2, pi /2]. Find the intervals where f is increasing.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "all $$x$$",
+    "answerLatex": "All $$x$$",
     "choices": [
         "$$x>\\frac{\\pi}{2}$$",
         "$$x<\\frac{\\pi}{2}$$",
-        "none of $$x$$",
-        "all $$x$$"
+        "None of $$x$$",
+        "All $$x$$"
     ]
 }

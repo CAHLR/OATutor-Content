@@ -52,7 +52,7 @@
         "choices": [
             "$$\\lim_{x\\to3} \\frac{2x}{1}$$",
             "$$\\lim_{x\\to3} \\frac{x}{2}$$",
-            "$$\\lim_{x\\to3} \\frac{2x \\left(x-3\\right)-x^2}{{\\left(x-3\\right)}^2}$$",
+            "$$\\lim_{x\\to3} \\frac{2x \\left(x-3\\right)-x^2}{\\left(x-3\\right)^2}$$",
             "$$\\lim_{x\\to3} x$$"
         ]
     },

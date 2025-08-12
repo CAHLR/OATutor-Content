@@ -4,7 +4,7 @@
         "$$(1,1),(1,2),y=0$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-1\\right)}^2=4(y-1)$$",
+    "stepTitle": "$$\\left(x-1\\right)^2=4(y-1)$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -20,7 +20,7 @@
         "dependencies": [
             "aef8b03optimize13a-h1"
         ],
-        "title": "Perimeter",
+        "title": "Perimeter Equation",
         "text": "What is the perimeter in terms of $$x$$ and $$y$$? $$P=400=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -32,7 +32,7 @@
         "dependencies": [
             "aef8b03optimize13a-h2"
         ],
-        "title": "A(x)",
+        "title": "Find A(x) for Area",
         "text": "Write the area as a function of its length.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -49,7 +49,7 @@
         "dependencies": [
             "aef8b03optimize13a-h3"
         ],
-        "title": "$$y$$",
+        "title": "Find $$y$$ with $$x$$",
         "text": "First, solve for $$y$$ using the perimeter's equation. $$y=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -61,12 +61,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(x^2\\right)+200$$"
+            "$$-x^2+200$$"
         ],
         "dependencies": [
             "aef8b03optimize13a-h4"
         ],
-        "title": "subsitute $$y$$",
+        "title": "Find A(x) for Area",
         "text": "Rewrite $$A=xy$$ in terms of only $$x$$ by substituting $$y$$ with $$y=200-x$$. $$A(x)=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -78,7 +78,7 @@
         "dependencies": [
             "aef8b03optimize13a-h5"
         ],
-        "title": "critical points",
+        "title": "Critical Points",
         "text": "Find the area function's critical point(s) using its derivative.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -95,7 +95,7 @@
         "dependencies": [
             "aef8b03optimize13a-h6"
         ],
-        "title": "derivative",
+        "title": "Find A'(x)",
         "text": "What is $$A'(x)=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -112,7 +112,7 @@
         "dependencies": [
             "aef8b03optimize13a-h7"
         ],
-        "title": "slope of zero",
+        "title": "Find $$x$$ where $$A'(x)=0$$",
         "text": "When $$A'(x)=0$$, $$x=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -124,7 +124,7 @@
         "dependencies": [
             "aef8b03optimize13a-h8"
         ],
-        "title": "dimensions",
+        "title": "Find Dimension of the Width",
         "text": "Lastly, find the dimension of the width.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -141,7 +141,7 @@
         "dependencies": [
             "aef8b03optimize13a-h9"
         ],
-        "title": "width",
+        "title": "Find Dimension of the Width",
         "text": "If $$x=100$$, what is $$y=200-x=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

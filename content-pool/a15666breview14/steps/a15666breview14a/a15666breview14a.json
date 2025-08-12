@@ -4,7 +4,7 @@
         "Zero: $$(0,0)$$, Domain: exclude $$4$$ and $$-4$$ from R, Range: $$-\\infty$$ to $$+\\infty$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the domain, range, and all $$zeros/intercepts$$. $$f(x)=\\frac{x}{x^2-16}$$.",
+    "stepTitle": "Find the domain, range, and all zeros or $$x$$ intercepts. $$f(x)=\\frac{x}{x^2-16}$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

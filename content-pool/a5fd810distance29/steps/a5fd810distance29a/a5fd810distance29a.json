@@ -4,7 +4,7 @@
         "Center: $$(3,7)$$, Radius: $$2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-3\\right)}^2+{\\left(y-7\\right)}^2=4$$",
+    "stepTitle": "$$\\left(x-3\\right)^2+\\left(y-7\\right)^2=4$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

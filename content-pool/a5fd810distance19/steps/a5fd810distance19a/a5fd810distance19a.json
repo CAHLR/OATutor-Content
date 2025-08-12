@@ -4,7 +4,7 @@
         "Center: $$(4,-2)$$, Radius: $$4$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-4\\right)}^2+{\\left(y+2\\right)}^2=16$$",
+    "stepTitle": "$$\\left(x-4\\right)^2+\\left(y+2\\right)^2=16$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

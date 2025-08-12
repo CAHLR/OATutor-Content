@@ -4,7 +4,7 @@
         "$$x=\\frac{\\pm 1}{2}$$, $$x=\\pm 1$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(4x\\right)}^4-{\\left(5x\\right)}^2+1=0$$",
+    "stepTitle": "$$\\left(4x\\right)^4-\\left(5x\\right)^2+1=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

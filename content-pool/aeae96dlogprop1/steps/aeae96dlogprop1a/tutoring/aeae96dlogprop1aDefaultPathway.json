@@ -16,7 +16,7 @@
             "aeae96dlogprop1a-h1"
         ],
         "title": "Representing the Expression With Many Logarithms",
-        "text": "$$\\ln(ab)$$ is equivalent to $$\\ln(a)+\\ln(b)$$ by product rule.",
+        "text": "$$\\ln\\left(ab\\right)$$ is equivalent to $$\\ln\\left(a\\right)+\\ln\\left(b\\right)$$ by product rule.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

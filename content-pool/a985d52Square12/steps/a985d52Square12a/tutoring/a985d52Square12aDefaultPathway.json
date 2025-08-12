@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(y+4\\right)}^2=27$$"
+            "$$\\left(y+4\\right)^2=27$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",

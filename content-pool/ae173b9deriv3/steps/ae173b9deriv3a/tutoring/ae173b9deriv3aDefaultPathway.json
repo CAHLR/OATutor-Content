@@ -15,7 +15,7 @@
         "dependencies": [
             "ae173b9deriv3a-h1"
         ],
-        "title": "Time When s(t) $$=$$ $$0$$",
+        "title": "Find Time When s(t) $$=$$ $$0$$",
         "text": "The first step is determining how long it takes the ball to reach the ground. To do this, set s(t) $$=$$ $$0$$ and solve for $$t$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

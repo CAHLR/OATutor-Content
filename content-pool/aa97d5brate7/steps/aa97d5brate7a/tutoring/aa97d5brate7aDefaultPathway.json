@@ -36,7 +36,7 @@
                 ],
                 "dependencies": [],
                 "title": "Simplify",
-                "text": "What is $${\\left(1+h\\right)}^3$$?",
+                "text": "What is $$\\left(1+h\\right)^3$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

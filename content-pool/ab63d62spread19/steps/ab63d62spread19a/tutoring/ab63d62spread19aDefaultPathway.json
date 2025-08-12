@@ -70,7 +70,7 @@
                 ],
                 "dependencies": [],
                 "title": "Determine sum{}{}{f*m**2}",
-                "text": "What is $$14{54.5}^2+32{64.5}^2+15{74.5}^2+23{84.5}^2+2{94.5}^2$$?",
+                "text": "What is $$14\\times{54.5}^2+32\\times{64.5}^2+15\\times{74.5}^2+23\\times{84.5}^2+2\\times{94.5}^2$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

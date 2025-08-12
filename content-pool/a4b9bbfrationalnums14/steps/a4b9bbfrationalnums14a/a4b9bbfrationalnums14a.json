@@ -4,7 +4,7 @@
         "$$m n^3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(m^3 n^9\\right)}^{\\frac{1}{3}}$$",
+    "stepTitle": "$$\\left(m^3 n^9\\right)^{\\frac{1}{3}}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

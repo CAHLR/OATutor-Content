@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Isolate the Quadratic term",
-        "text": "We minus $$4$$ on both sides to get $$5{\\left(x-5\\right)}^2$$ isolated by itself which gives $$5{\\left(x-5\\right)}^2=100$$.",
+        "text": "We minus $$4$$ on both sides to get $$5\\left(x-5\\right)^2$$ isolated by itself which gives $$5\\left(x-5\\right)^2=100$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -33,7 +33,7 @@
             "a5e282bSolvquad21a-h2"
         ],
         "title": "Make the Leading Coefficient \"1\"",
-        "text": "Divide by the leading coefficient on both sides which gives $${\\left(x-5\\right)}^2=20$$.",
+        "text": "Divide by the leading coefficient on both sides which gives $$\\left(x-5\\right)^2=20$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -45,7 +45,7 @@
             "a5e282bSolvquad21a-h3"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(x-5\\right)}^2=20$$, we can take square root both sides and get $$x-5=\\sqrt{20}$$ or $$x-5=-\\sqrt{20}$$.",
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$\\left(x-5\\right)^2=20$$, we can take square root both sides and get $$x-5=\\sqrt{20}$$ or $$x-5=-\\sqrt{20}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -125,7 +125,7 @@
             "a5e282bSolvquad21a-h8"
         ],
         "title": "Final Answer",
-        "text": "Therefore, $$5{\\left(x-5\\right)}^2+4=104$$ has two solutions which are $$x=5-2\\sqrt{5}$$, and $$x=5+2\\sqrt{5}$$.",
+        "text": "Therefore, $$5\\left(x-5\\right)^2+4=104$$ has two solutions which are $$x=5-2\\sqrt{5}$$, and $$x=5+2\\sqrt{5}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

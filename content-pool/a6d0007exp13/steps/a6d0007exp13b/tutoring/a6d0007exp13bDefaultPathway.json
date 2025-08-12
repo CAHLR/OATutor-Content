@@ -16,7 +16,7 @@
             "a6d0007exp13b-h1"
         ],
         "title": "Power of a Product Rule",
-        "text": "Use the power of a product rule to simplify the expression: $${\\left(2t\\right)}^{15}=2^{15} t^{15}$$",
+        "text": "Use the power of a product rule to simplify the expression: $$\\left(2t\\right)^{15}=2^{15} t^{15}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -4,7 +4,7 @@
         "$$p=\\frac{\\left(-1+\\sqrt{26} i\\right)}{3}$$ or $$\\frac{\\left(-1-\\sqrt{26} i\\right)}{3}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(3p\\right)}^2+2p+9=0$$",
+    "stepTitle": "$$\\left(3p\\right)^2+2p+9=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

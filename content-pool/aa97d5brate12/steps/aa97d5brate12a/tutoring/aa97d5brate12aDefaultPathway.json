@@ -48,9 +48,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$2{\\left(b-4\\right)}^2$$",
+            "$$2\\left(b-4\\right)^2$$",
             "$$2\\left(b+4\\right) \\left(b-4\\right)$$",
-            "$$2{\\left(b+4\\right)}^2$$"
+            "$$2\\left(b+4\\right)^2$$"
         ]
     },
     {

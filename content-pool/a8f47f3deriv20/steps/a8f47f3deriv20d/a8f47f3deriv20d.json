@@ -1,7 +1,7 @@
 {
     "id": "a8f47f3deriv20d",
     "stepAnswer": [
-        "none"
+        "None"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Find the inflection points of f(x).",
@@ -11,7 +11,7 @@
     "choices": [
         "$$x=-1$$, $$x=0$$",
         "$$x=1$$, $$x=-1$$",
-        "none",
+        "None",
         "$$x=1$$"
     ]
 }

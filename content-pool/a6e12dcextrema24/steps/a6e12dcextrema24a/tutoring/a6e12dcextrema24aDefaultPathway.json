@@ -3,7 +3,7 @@
         "id": "a6e12dcextrema24a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Finding the derivative",
+        "title": "Finding the Derivative",
         "text": "To find the critical points, we need to find the first derivative of the function.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a6e12dcextrema24a-h1"
         ],
-        "title": "Finding the first derivative",
+        "title": "Finding the First Derivative",
         "text": "Find the first derivative of $$y=3x^4+8x^3-18x^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -37,7 +37,7 @@
         "dependencies": [
             "a6e12dcextrema24a-h2"
         ],
-        "title": "Finding the critical point(s)",
+        "title": "Finding the Critical Point(s)",
         "text": "The critical point(s) are the values of $$x$$ which cause the first derivative of the function to be equal to zero within the given domain",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -54,7 +54,7 @@
         "dependencies": [
             "a6e12dcextrema24a-h3"
         ],
-        "title": "Solve for the value(s) of $$x$$ that set the first derivative of the function to zero.",
+        "title": "Solve for X That Sets the First Derivative at Zero",
         "text": "Solve for value(s) of $$x$$ in the following: $$0=12x^3+24x^2-36x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -72,7 +72,7 @@
         "dependencies": [
             "a6e12dcextrema24a-h4"
         ],
-        "title": "Finding the local and absolute maxima",
+        "title": "Finding the Local and Absolute Maxima",
         "text": "The final step is to compare the resulting $$y$$ values from the critical values. Because this function is a positive, even degree polynomial, we know that there cannot be an absolute maximum. Instead,the $$x$$ value with the highest corresponding $$y$$ value is the local maximum. The $$x$$ value with the lowest corresponding $$y$$ value is the absolute minimum and any other continuous critical points are local minimums.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

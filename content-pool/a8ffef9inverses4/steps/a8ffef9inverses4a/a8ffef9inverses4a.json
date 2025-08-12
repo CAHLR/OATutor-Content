@@ -4,7 +4,7 @@
         "$$2+\\sqrt{x+3}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$f(x)={\\left(x-2\\right)}^2-3$$",
+    "stepTitle": "$$f(x)=\\left(x-2\\right)^2-3$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

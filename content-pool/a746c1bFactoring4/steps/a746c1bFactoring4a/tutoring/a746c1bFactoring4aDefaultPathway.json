@@ -37,7 +37,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(3y\\right)}^2$$"
+            "$$\\left(3y\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring4a-h2"
@@ -75,7 +75,7 @@
                 ],
                 "dependencies": [],
                 "title": "Rewrite",
-                "text": "We can rewrite $$9y^2-16$$ as $${\\left(3y\\right)}^2-4^2$$. Use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. We can factor $$9y^2-16$$ as?",
+                "text": "We can rewrite $$9y^2-16$$ as $$\\left(3y\\right)^2-4^2$$. Use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. We can factor $$9y^2-16$$ as?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

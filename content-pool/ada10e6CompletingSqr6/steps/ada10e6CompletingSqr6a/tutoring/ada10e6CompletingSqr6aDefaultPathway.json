@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(q-3\\right)}^2$$"
+            "$$\\left(q-3\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr6a-h3"

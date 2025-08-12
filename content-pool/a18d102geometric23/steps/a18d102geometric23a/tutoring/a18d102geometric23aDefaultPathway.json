@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula for Value of an Annuity",
-        "text": "For a principal, P, invested at the end of a compounding period, with an interest rate, $$r$$, which is compounded $$n$$ times in a year, the new balance A, after $$t$$ years, is $$A_t=\\frac{P \\left({\\left(1+\\frac{r}{n}\\right)}^{nt}-1\\right)}{\\frac{r}{n}}$$.",
+        "text": "For a principal, P, invested at the end of a compounding period, with an interest rate, $$r$$, which is compounded $$n$$ times in a year, the new balance A, after $$t$$ years, is $$A_t=\\frac{P \\left(\\left(1+\\frac{r}{n}\\right)^{nt}-1\\right)}{\\frac{r}{n}}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -106,7 +106,7 @@
             "a18d102geometric23a-h6"
         ],
         "title": "Use the Formula for Value of an Annuity",
-        "text": "What is $$\\frac{100\\left({\\left(1+\\frac{0.05}{12}\\right)}^{12\\times18}-1\\right)}{\\frac{0.05}{12}}$$?",
+        "text": "What is $$\\frac{100\\left(\\left(1+\\frac{0.05}{12}\\right)^{12\\times18}-1\\right)}{\\frac{0.05}{12}}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

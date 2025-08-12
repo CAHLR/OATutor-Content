@@ -16,7 +16,7 @@
             "ad0aaf6linear20a-h1"
         ],
         "title": "Solving for y'",
-        "text": "$$y$$ $$=$$ $$\\frac{1}{x+1}$$ $$=$$ $${\\left(x+1\\right)}^{-1}$$ such that y' $$=$$ $$-\\left({\\left(x+1\\right)}^{\\left(-1-1\\right)}\\right)$$ $$=$$ $$\\frac{-1}{{\\left(x+1\\right)}^2}$$. Thus, dy $$=$$ $$\\left(-\\frac{1}{{\\left(x+1\\right)}^2}\\right) dx$$.",
+        "text": "$$y$$ $$=$$ $$\\frac{1}{x+1}$$ $$=$$ $$\\left(x+1\\right)^{-1}$$ such that y' $$=$$ $$-\\left(x+1\\right)^{\\left(-1-1\\right)}$$ $$=$$ $$\\frac{-1}{\\left(x+1\\right)^2}$$. Thus, dy $$=$$ $$\\left(-\\frac{1}{\\left(x+1\\right)^2}\\right) dx$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "ad0aaf6linear20a-h2"
         ],
         "title": "Plugging Into y'",
-        "text": "Plug $$x$$ $$=$$ $$1$$ and dx $$=$$ $$0.25$$ into dy $$=$$ $$\\left(-\\frac{1}{{\\left(x+1\\right)}^2}\\right) dx$$ to solve for dy.",
+        "text": "Plug $$x$$ $$=$$ $$1$$ and dx $$=$$ $$0.25$$ into dy $$=$$ $$\\left(-\\frac{1}{\\left(x+1\\right)^2}\\right) dx$$ to solve for dy.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -60,7 +60,7 @@
                 ],
                 "dependencies": [],
                 "title": "Substitution and Simplification to Getting dy",
-                "text": "dy $$=$$ $$\\left(-\\frac{1}{{\\left(x+1\\right)}^2}\\right) dx$$ $$=$$ $$0.25\\left(-\\frac{1}{{\\left(1+1\\right)}^2}\\right)$$ $$=$$ $$0.25\\left(-\\frac{1}{4}\\right)$$. What is dy?",
+                "text": "dy $$=$$ $$\\left(-\\frac{1}{\\left(x+1\\right)^2}\\right) dx$$ $$=$$ $$0.25\\left(-\\frac{1}{\\left(1+1\\right)^2}\\right)$$ $$=$$ $$0.25\\left(-\\frac{1}{4}\\right)$$. What is dy?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""

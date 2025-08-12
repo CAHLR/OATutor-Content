@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Write with a rational exponent",
-    "stepBody": "$$3{\\left(5z\\right)}^{\\frac{1}{4}}$$",
+    "stepBody": "$$3\\left(5z\\right)^{\\frac{1}{4}}$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$3\\times5z \\frac{1}{4}$$"

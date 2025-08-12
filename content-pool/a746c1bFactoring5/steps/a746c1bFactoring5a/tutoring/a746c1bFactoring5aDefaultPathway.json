@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(2a\\right)}^2$$"
+            "$$\\left(2a\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring5a-h1"
@@ -32,7 +32,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(3b\\right)}^2$$"
+            "$$\\left(3b\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring5a-h1"
@@ -51,7 +51,7 @@
             "a746c1bFactoring5a-h2"
         ],
         "title": "Formula",
-        "text": "We can rewrite the expression $$4a^2-12a b+9b^2={\\left(2a\\right)}^2-12a b+{\\left(3b\\right)}^2$$. Does it fit the pattern $$x^2-2x y+y^2$$?",
+        "text": "We can rewrite the expression $$4a^2-12a b+9b^2=\\left(2a\\right)^2-12a b+\\left(3b\\right)^2$$. Does it fit the pattern $$x^2-2x y+y^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -68,7 +68,7 @@
             "a746c1bFactoring5a-h4"
         ],
         "title": "Finding $$x$$",
-        "text": "If $$4a^2-12a b+9b^2={\\left(2a\\right)}^2-12a b+{\\left(3b\\right)}^2$$ fits the pattern $$x^2-2x y+y^2$$, then what is $$x$$?",
+        "text": "If $$4a^2-12a b+9b^2=\\left(2a\\right)^2-12a b+\\left(3b\\right)^2$$ fits the pattern $$x^2-2x y+y^2$$, then what is $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -85,7 +85,7 @@
             "a746c1bFactoring5a-h4"
         ],
         "title": "Finding $$y$$",
-        "text": "If $$4a^2-12a b+9b^2={\\left(2a\\right)}^2-12a b+{\\left(3b\\right)}^2$$ fits the pattern $$x^2-2x y+y^2$$, then what is $$y$$?",
+        "text": "If $$4a^2-12a b+9b^2=\\left(2a\\right)^2-12a b+\\left(3b\\right)^2$$ fits the pattern $$x^2-2x y+y^2$$, then what is $$y$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -126,7 +126,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(2a-3b\\right)}^2$$"
+            "$$\\left(2a-3b\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring5a-h8"
@@ -143,7 +143,7 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "$${\\left(2a-3b\\right)}^2$$"
+                    "$$\\left(2a-3b\\right)^2$$"
                 ],
                 "dependencies": [],
                 "title": "Rewrite",

@@ -45,7 +45,7 @@
             "a20771equad2a-h3"
         ],
         "title": "Simplification",
-        "text": "Now that we added $$\\frac{9}{8}$$ to both sides, we get that $${\\left(\\sqrt{2} x-\\frac{3\\sqrt{2}}{4}\\right)}^2=1+\\frac{9}{8}$$",
+        "text": "Now that we added $$\\frac{9}{8}$$ to both sides, we get that $$\\left(\\sqrt{2} x-\\frac{3\\sqrt{2}}{4}\\right)^2=1+\\frac{9}{8}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

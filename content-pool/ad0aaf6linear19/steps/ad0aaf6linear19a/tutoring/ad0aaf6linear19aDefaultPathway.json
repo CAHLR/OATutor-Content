@@ -50,7 +50,7 @@
                     "((x**2 - $$2x$$ - 2)/((x - 1)**2))dx"
                 ],
                 "dependencies": [],
-                "title": "Final Answer",
+                "title": "Taking the Derivative",
                 "text": "dy $$=$$ ((x**2 - $$2x$$ - 2)/((x - 1)**2))dx. This is your answer.",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",

@@ -4,7 +4,7 @@
         "No"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Using the definition, determine whether the function $$f(x)=-\\left(x^2\\right)+4$$ if $$x \\leq 3;$$ $$4x-8$$ if $$x>3$$ is continuous at $$x=3$$. Justify the conclusion.",
+    "stepTitle": "Using the definition, determine whether the function $$f(x)=-x^2+4$$ if $$x \\leq 3;$$ $$4x-8$$ if $$x>3$$ is continuous at $$x=3$$. Justify the conclusion.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

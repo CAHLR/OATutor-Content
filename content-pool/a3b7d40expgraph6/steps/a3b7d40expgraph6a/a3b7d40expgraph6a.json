@@ -12,6 +12,6 @@
     "choices": [
         "$$g(x)=4.4\\times3^{\\left(-x\\right)}$$",
         "$$g(x)=-4.4\\times3^{\\left(-x\\right)}$$",
-        "$$g(x)=4.4-\\left(3^{\\left(-x\\right)}\\right)$$"
+        "$$g(x)=4.4\\times-3^{\\left(-x\\right)}$$"
     ]
 }

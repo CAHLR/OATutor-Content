@@ -4,7 +4,7 @@
         "$$2, -2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x^2-1\\right)}^2+x^2-1-12=0$$",
+    "stepTitle": "$$\\left(x^2-1\\right)^2+x^2-1-12=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

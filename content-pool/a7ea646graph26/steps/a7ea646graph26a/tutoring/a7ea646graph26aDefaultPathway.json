@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(2x-3\\right)}^2$$"
+            "$$\\left(2x-3\\right)^2$$"
         ],
         "dependencies": [],
         "title": "Factoring Expressions",
@@ -20,7 +20,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x-4\\right)}^2$$"
+            "$$\\left(x-4\\right)^2$$"
         ],
         "dependencies": [
             "a7ea646graph26a-h1"

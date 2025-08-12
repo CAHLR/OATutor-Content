@@ -4,7 +4,7 @@
         "$$-3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Identify any vertical asymptotes of the function $$f(x)=\\frac{1}{{\\left(x+3\\right)}^4}$$.",
+    "stepTitle": "Identify any vertical asymptotes of the function $$f(x)=\\frac{1}{\\left(x+3\\right)^4}$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

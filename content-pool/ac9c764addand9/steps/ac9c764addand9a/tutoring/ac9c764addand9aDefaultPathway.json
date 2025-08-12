@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Numerator",
-        "text": "Remember $${\\left(\\frac{1}{2}\\right)}^2$$ means $$\\frac{1}{2} \\frac{1}{2}$$",
+        "text": "Remember $$\\left(\\frac{1}{2}\\right)^2$$ means $$\\frac{1}{2} \\frac{1}{2}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

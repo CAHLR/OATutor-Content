@@ -4,7 +4,7 @@
         "D"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x=-\\left(y^2\\right)+2y+8$$",
+    "stepTitle": "$$x=-y^2+2y+8$$",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor the Perfect Square",
-        "text": "Does the expression match any of these formats: $${\\left(a x\\right)}^2+2a b x$$ + $$b^2$$ $$=$$ $${\\left(a x+b\\right)}^2$$, $${\\left(a x\\right)}^2-2a b x+b^2$$ $$=$$ $${\\left(a x-b\\right)}^2$$ ? Yes.",
+        "text": "Does the expression match any of these formats: $$\\left(a x\\right)^2+2a b x$$ + $$b^2$$ $$=$$ $$\\left(a x+b\\right)^2$$, $$\\left(a x\\right)^2-2a b x+b^2$$ $$=$$ $$\\left(a x-b\\right)^2$$ ? Yes.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -16,7 +16,7 @@
             "a5e282bSolvquad29a-h1"
         ],
         "title": "Factor the Perfect Square",
-        "text": "In this case, we can see that $$9n^2+30n+25$$ as $${\\left(a x\\right)}^2+2a b x+b^2={\\left(ax+b\\right)}^2$$ where $$ax=3n$$ and $$b=5$$. We can factor $$9n^2+30n+25$$ as $${\\left(3n+5\\right)}^2$$.",
+        "text": "In this case, we can see that $$9n^2+30n+25$$ as $$\\left(a x\\right)^2+2a b x+b^2=\\left(ax+b\\right)^2$$ where $$ax=3n$$ and $$b=5$$. We can factor $$9n^2+30n+25$$ as $$\\left(3n+5\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -28,7 +28,7 @@
             "a5e282bSolvquad29a-h2"
         ],
         "title": "Rewrite the Equation",
-        "text": "We can rewrite $$9n^2+30n+25=8$$ as $${\\left(3n+5\\right)}^2=8$$.",
+        "text": "We can rewrite $$9n^2+30n+25=8$$ as $$\\left(3n+5\\right)^2=8$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -40,7 +40,7 @@
             "a5e282bSolvquad29a-h3"
         ],
         "title": "Solve for Unknown Variable",
-        "text": "$${\\left(3n+5\\right)}^2=8$$. What is $$n$$?",
+        "text": "$$\\left(3n+5\\right)^2=8$$. What is $$n$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -52,7 +52,7 @@
             "a5e282bSolvquad29a-h4"
         ],
         "title": "Use Square Root Property",
-        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $${\\left(3n+5\\right)}^2=8$$, we can take square root both sides and get $$3n+5=\\sqrt{8}$$ and $$3n+5=-\\sqrt{8}$$.",
+        "text": "The square root property: if $$x^2$$ $$=$$ k, then $$x$$ $$=$$ $$\\sqrt{k}$$, or $$x$$ $$=$$ $$-\\sqrt{k}$$, or $$x$$ $$=\\sqrt{k}$$. $$\\left(3n+5\\right)^2=8$$, we can take square root both sides and get $$3n+5=\\sqrt{8}$$ and $$3n+5=-\\sqrt{8}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

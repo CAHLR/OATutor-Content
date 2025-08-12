@@ -4,7 +4,7 @@
         "D"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Graph $$\\frac{{\\left(y-1\\right)}^2}{25}-\\frac{{\\left(x-4\\right)}^2}{16}=1$$.",
+    "stepTitle": "Graph $$\\frac{\\left(y-1\\right)^2}{25}-\\frac{\\left(x-4\\right)^2}{16}=1$$.",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

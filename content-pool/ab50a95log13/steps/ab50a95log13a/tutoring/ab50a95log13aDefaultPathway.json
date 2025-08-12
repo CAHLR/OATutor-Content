@@ -5,7 +5,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\ln(500)=x$$"
+            "$$\\ln\\left(500\\right)=x$$"
         ],
         "dependencies": [],
         "title": "Conversion",
@@ -14,8 +14,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$\\ln(500)=x$$",
-            "$$\\ln(x)=500$$",
+            "$$\\ln\\left(500\\right)=x$$",
+            "$$\\ln\\left(x\\right)=500$$",
             "$$\\log_{x}\\left(500\\right)=10$$",
             "None of the above"
         ]

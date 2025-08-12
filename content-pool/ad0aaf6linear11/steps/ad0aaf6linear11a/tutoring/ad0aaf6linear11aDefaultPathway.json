@@ -48,10 +48,10 @@
     {
         "id": "ad0aaf6linear11a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$4\\pi {4000}^2\\times80$$"
+            "$$4\\pi\\times{4000}^2\\times80$$"
         ],
         "dependencies": [
             "ad0aaf6linear11a-h4"
@@ -60,7 +60,11 @@
         "text": "What is dV (\u00b1)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$4\\pi\\times{4000}^2\\times80$$",
+            "$$2\\pi\\times{4000}^2\\times40$$"
+        ]
     },
     {
         "id": "ad0aaf6linear11a-h6",
@@ -68,8 +72,8 @@
         "dependencies": [
             "ad0aaf6linear11a-h5"
         ],
-        "title": "dV",
-        "text": "$$-4\\pi {4000}^2\\times80$$ $$ \\leq $$ dV $$ \\leq $$ $$4\\pi {4000}^2\\times80$$",
+        "title": "Solving for dV",
+        "text": "$$-4\\pi\\times{4000}^2\\times80$$ $$ \\leq $$ dV $$ \\leq $$ $$4\\pi\\times{4000}^2\\times80$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -86,7 +90,7 @@
             "ad0aaf6linear11a-h6"
         ],
         "title": "Estimating the Relative Error",
-        "text": "To estimate the relative error, consider $$\\frac{dV}{V}$$. Since we do not know the exact value of the volume V, use the measured radius $$r$$ $$=$$ $$4000$$ mi to estimate V. We obtain V \u2248 $$\\frac{4}{3} {\\operatorname{\\pi}\\left(4000\\right)}^3$$. Therefore, the relative error satisfies $$\\frac{\\left(-4\\pi {4000}^2\\times80\\right)}{\\frac{4\\pi {4000}^3}{3}}$$ $$ \\leq $$ $$\\frac{dV}{V}$$ $$ \\leq $$ $$\\frac{4\\pi {4000}^2\\times80}{\\frac{4\\pi {4000}^3}{3}}$$. What does $$\\frac{4\\pi {4000}^2\\times80}{\\frac{4\\pi {4000}^3}{3}}$$ simplify to?",
+        "text": "To estimate the relative error, consider $$\\frac{dV}{V}$$. Since we do not know the exact value of the volume V, use the measured radius $$r$$ $$=$$ $$4000$$ mi to estimate V. We obtain V \u2248 $$\\frac{4}{3} {\\operatorname{\\pi}\\left(4000\\right)}^3$$. Therefore, the relative error satisfies $$\\frac{\\left(-4\\pi\\times{4000}^2\\times80\\right)}{\\frac{4\\pi\\times{4000}^3}{3}}$$ $$ \\leq $$ $$\\frac{dV}{V}$$ $$ \\leq $$ $$\\frac{4\\pi\\times{4000}^2\\times80}{\\frac{4\\pi\\times{4000}^3}{3}}$$. What does $$\\frac{4\\pi\\times{4000}^2\\times80}{\\frac{4\\pi\\times{4000}^3}{3}}$$ simplify to?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

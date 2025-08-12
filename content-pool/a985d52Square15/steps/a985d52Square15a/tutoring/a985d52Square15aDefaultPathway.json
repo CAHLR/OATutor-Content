@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p-\\frac{5}{2}\\right)}^2=\\frac{61}{4}$$"
+            "$$\\left(p-\\frac{5}{2}\\right)^2=\\frac{61}{4}$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",

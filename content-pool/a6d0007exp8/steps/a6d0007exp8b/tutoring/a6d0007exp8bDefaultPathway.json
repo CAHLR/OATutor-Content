@@ -16,7 +16,7 @@
             "a6d0007exp8b-h1"
         ],
         "title": "Quotient Rule of Exponents",
-        "text": "Use the quotient rule to simplify the expression: $$\\frac{{\\left({de}^2\\right)}^{11}}{{2\\left({de}^2\\right)}^{11}}=\\frac{1}{2} {\\left({de}^2\\right)}^{11-11}=\\frac{1}{2} {\\left({de}^2\\right)}^0$$",
+        "text": "Use the quotient rule to simplify the expression: $$\\frac{\\left({de}^2\\right)^{11}}{{2\\left({de}^2\\right)}^{11}}=\\frac{1}{2} \\left({de}^2\\right)^{11-11}=\\frac{1}{2} \\left({de}^2\\right)^0$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -40,7 +40,7 @@
             "a6d0007exp8b-h3"
         ],
         "title": "Simplify",
-        "text": "Use the Zero Exponent Rule to simplify the expression: $$\\frac{1}{2} {\\left({de}^2\\right)}^0=1\\frac{1}{2}$$",
+        "text": "Use the Zero Exponent Rule to simplify the expression: $$\\frac{1}{2} \\left({de}^2\\right)^0=1\\frac{1}{2}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

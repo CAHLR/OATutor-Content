@@ -32,7 +32,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(n^2\\right)$$"
+            "$$-n^2$$"
         ],
         "dependencies": [
             "a251a50MultiplyPoly9a-h2"

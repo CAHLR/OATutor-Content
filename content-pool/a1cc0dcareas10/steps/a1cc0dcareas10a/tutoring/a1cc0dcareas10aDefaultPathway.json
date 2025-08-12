@@ -16,7 +16,7 @@
             "a1cc0dcareas10a-h1"
         ],
         "title": "Find the limits",
-        "text": "$$x^2=-\\left(x^2\\right)+18x$$ then $$x=0$$ and $$x=9$$.",
+        "text": "$$x^2=-x^2+18x$$ then $$x=0$$ and $$x=9$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,7 +27,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$y=-\\left(x^2\\right)+18x$$"
+            "$$y=-x^2+18x$$"
         ],
         "dependencies": [
             "a1cc0dcareas10a-h2"
@@ -38,7 +38,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "$$y=-\\left(x^2\\right)+18x$$",
+            "$$y=-x^2+18x$$",
             "$$y=x^2$$"
         ]
     },
@@ -61,7 +61,7 @@
             "a1cc0dcareas10a-h4"
         ],
         "title": "Set up the integral",
-        "text": "$$\\int_{0}^{9} -\\left(x^2\\right)+18x-x^2 \\,dx$$",
+        "text": "$$\\int_{0}^{9} -x^2+18x-x^2 \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

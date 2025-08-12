@@ -88,7 +88,7 @@
             "ad33ee8parabolas6a-h7"
         ],
         "title": "Finding the Vertex",
-        "text": "Since our $$x$$ is $$\\frac{-1}{6}$$, we plug it into our equation as, $$y=-\\left({\\left(-\\frac{1}{6}\\right)}^2\\right)+2\\left(-\\frac{1}{6}\\right)-1$$. This gives us $$y=\\frac{-7}{6}$$.",
+        "text": "Since our $$x$$ is $$\\frac{-1}{6}$$, we plug it into our equation as, $$y=-{\\left(-\\frac{1}{6}\\right)}^2+2\\left(-\\frac{1}{6}\\right)-1$$. This gives us $$y=\\frac{-7}{6}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

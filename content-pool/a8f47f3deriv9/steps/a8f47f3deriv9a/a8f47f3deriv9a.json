@@ -1,17 +1,17 @@
 {
     "id": "a8f47f3deriv9a",
     "stepAnswer": [
-        "all $$x$$"
+        "All $$x$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Analyze the graph of f\u2032, then list all the intervals where f(x) is concave up.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "all $$x$$",
+    "answerLatex": "All $$x$$",
     "choices": [
-        "none of $$x$$",
-        "all $$x$$",
+        "None of $$x$$",
+        "All $$x$$",
         "$$x<0$$",
         "$$x>0$$"
     ]

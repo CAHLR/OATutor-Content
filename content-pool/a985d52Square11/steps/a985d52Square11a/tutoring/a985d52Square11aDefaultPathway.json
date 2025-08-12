@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p-9\\right)}^2=75$$"
+            "$$\\left(p-9\\right)^2=75$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",

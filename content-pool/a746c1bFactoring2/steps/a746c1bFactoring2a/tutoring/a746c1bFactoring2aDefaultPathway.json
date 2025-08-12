@@ -75,7 +75,7 @@
                 ],
                 "dependencies": [],
                 "title": "Rewrite",
-                "text": "We can rewrite $$4y^2-25$$ as $${\\left(2y\\right)}^2-5^2$$, use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. we can factor $$4y^2-25$$ as?",
+                "text": "We can rewrite $$4y^2-25$$ as $$\\left(2y\\right)^2-5^2$$, use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. we can factor $$4y^2-25$$ as?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

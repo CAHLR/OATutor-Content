@@ -4,7 +4,7 @@
         "$$5+12i$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(3+2i\\right)}^2$$",
+    "stepTitle": "$$\\left(3+2i\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

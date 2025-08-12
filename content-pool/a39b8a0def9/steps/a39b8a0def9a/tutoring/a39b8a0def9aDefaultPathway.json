@@ -16,7 +16,7 @@
             "a39b8a0def9a-h1"
         ],
         "title": "Plugging In",
-        "text": "As $$a=-2$$ in this equation, plug $$2$$ into f(a).",
+        "text": "As $$a=-2$$ in this equation, plug $$-2$$ into f(a).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a39b8a0def9a-h2"
         ],
         "title": "Simplify",
-        "text": "Simplify the resulting equation: $$\\frac{2-3{\\left(h-2\\right)}^2-3-3{\\left(-2\\right)}^2}{h}$$",
+        "text": "Simplify the resulting equation: $$\\frac{2-3\\left(h-2\\right)^2-2-3{\\left(-2\\right)}^2}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

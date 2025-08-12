@@ -95,7 +95,7 @@
             "ac561a1systems9a-h6"
         ],
         "title": "Substitution #1",
-        "text": "Substituting $$y=\\frac{1-\\sqrt{5}}{2}$$ into $$y=-\\left(x^2\\right)$$. What is the corresponding $$x$$ coordinate?",
+        "text": "Substituting $$y=\\frac{1-\\sqrt{5}}{2}$$ into $$y=-x^2$$. What is the corresponding $$x$$ coordinate?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

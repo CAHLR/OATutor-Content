@@ -16,7 +16,7 @@
             "aeae96dlogprop12a-h1"
         ],
         "title": "Using the Product Rule for Logarithms",
-        "text": "Using the product rule, $$\\ln(x^2 y^3)-\\ln(z^4)=\\ln(x^2)+\\ln(y^3)-\\ln(z^4)$$",
+        "text": "Using the product rule, $$\\ln\\left(x^2 y^3\\right)-\\ln\\left(z^4\\right)=\\ln\\left(x^2\\right)+\\ln\\left(y^3\\right)-\\ln\\left(z^4\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -28,7 +28,7 @@
             "aeae96dlogprop12a-h2"
         ],
         "title": "Using the Power Rule",
-        "text": "Using the power rule, $$\\ln(x^2)+\\ln(y^3)-\\ln(z^4)=2\\ln(x)+3\\ln(y)-4\\ln(z)$$",
+        "text": "Using the power rule, $$\\ln\\left(x^2\\right)+\\ln\\left(y^3\\right)-\\ln\\left(z^4\\right)=2\\ln\\left(x\\right)+3\\ln\\left(y\\right)-4\\ln\\left(z\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left({\\sqrt{25}}^3\\right)$$"
+            "$$-{\\sqrt{25}}^3$$"
         ],
         "dependencies": [],
         "title": "Rewrite",
@@ -20,7 +20,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(5^3\\right)$$"
+            "$$-5^3$$"
         ],
         "dependencies": [
             "a4b9bbfrationalnums10a-h1"

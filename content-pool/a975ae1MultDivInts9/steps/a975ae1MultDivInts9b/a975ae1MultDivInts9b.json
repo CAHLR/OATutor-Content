@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Simplify the expression to a single number.",
-    "stepBody": "$$-\\left(7^2\\right)$$",
+    "stepBody": "$$-7^2$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-49$$"

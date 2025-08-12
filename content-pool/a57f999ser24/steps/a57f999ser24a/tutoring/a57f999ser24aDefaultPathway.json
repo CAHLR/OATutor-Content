@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Explicit Formula",
-        "text": "The given formula, $$-\\left({\\left(-\\frac{1}{2}\\right)}^{k-1}\\right)$$, is exponential with a base of $$\\frac{-1}{2}$$.",
+        "text": "The given formula, $$-{\\left(-\\frac{1}{2}\\right)}^{k-1}$$, is exponential with a base of $$\\frac{-1}{2}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

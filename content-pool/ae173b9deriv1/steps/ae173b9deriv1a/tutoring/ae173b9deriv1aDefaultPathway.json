@@ -32,7 +32,7 @@
         "dependencies": [
             "ae173b9deriv1a-h2"
         ],
-        "title": "Determining the X-Value",
+        "title": "Determining the $$x-Value$$",
         "text": "What is a, the x-value at which the function is defined?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -81,7 +81,7 @@
                     "$$3.2$$"
                 ],
                 "dependencies": [],
-                "title": "f(a + h)",
+                "title": "Solving for f(a + h)",
                 "text": "f(a + h) is the y-value that we wish to estimate. Given that we are estimating $$f(3.2)$$, what is a + $$h$$, the x-value at which the estimated function is defined?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",

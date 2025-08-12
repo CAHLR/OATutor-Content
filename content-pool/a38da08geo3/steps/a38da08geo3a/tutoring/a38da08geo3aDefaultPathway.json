@@ -45,7 +45,7 @@
             "a38da08geo3a-h3"
         ],
         "title": "Semi-circle Area",
-        "text": "The area of the semi-circle is $$\\frac{\\pi r^2}{2}=\\frac{\\pi {\\left(\\frac{a}{2}\\right)}^2}{2}=\\frac{\\pi}{8} a^2$$.",
+        "text": "The area of the semi-circle is $$\\frac{\\pi r^2}{2}=\\frac{\\pi \\left(\\frac{a}{2}\\right)^2}{2}=\\frac{\\pi}{8} a^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

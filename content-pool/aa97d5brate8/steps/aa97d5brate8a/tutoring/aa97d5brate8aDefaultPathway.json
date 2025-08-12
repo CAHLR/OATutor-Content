@@ -34,7 +34,7 @@
                 ],
                 "dependencies": [],
                 "title": "Simplify",
-                "text": "What is $${\\left(2+h\\right)}^3$$?",
+                "text": "What is $$\\left(2+h\\right)^3$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -51,7 +51,7 @@
                     "aa97d5brate8a-h2-s1"
                 ],
                 "title": "multiply",
-                "text": "What is $$4{\\left(2+h\\right)}^3$$, using the expression you get from the last part?",
+                "text": "What is $$4\\left(2+h\\right)^3$$, using the expression you get from the last part?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

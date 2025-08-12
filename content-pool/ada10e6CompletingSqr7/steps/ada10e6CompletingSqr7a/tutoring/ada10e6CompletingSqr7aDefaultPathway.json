@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x-4.5\\right)}^2$$"
+            "$$\\left(x-4.5\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr7a-h3"

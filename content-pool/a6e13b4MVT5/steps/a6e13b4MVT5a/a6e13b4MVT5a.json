@@ -4,7 +4,7 @@
         "$$1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(x-1\\right)}^{10}$$",
+    "stepTitle": "$$\\left(x-1\\right)^{10}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

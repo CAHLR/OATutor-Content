@@ -16,7 +16,7 @@
             "a320fba11.6airline2d-h1"
         ],
         "title": "Chi-square Test Statistic",
-        "text": "With n=25,q**2=150,s=15, $$X^2=\\frac{\\left(25-1\\right) {15}^2}{150}$$.",
+        "text": "With n=25,q**2=150,s=15, $$X^2=\\frac{{15}^2\\left(25-1\\right)}{150}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(y+6\\right)}^2$$"
+            "$$\\left(y+6\\right)^2$$"
         ],
         "dependencies": [
             "a985d52Square1a-h3"

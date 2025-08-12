@@ -54,7 +54,7 @@
         "dependencies": [
             "aef8b03optimize4a-h3"
         ],
-        "title": "Domain",
+        "title": "Find the Domain",
         "text": "Secondly, find the domain of interest.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -71,7 +71,7 @@
         "dependencies": [
             "aef8b03optimize4a-h4"
         ],
-        "title": "Domain",
+        "title": "Find the Domain",
         "text": "If the owners plan to charge between $50 and $200 per day to rent a car, the domain is $$___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -89,7 +89,7 @@
         "dependencies": [
             "aef8b03optimize4a-h5"
         ],
-        "title": "Critical Points",
+        "title": "Find the Critical Points",
         "text": "Thirdly, find the critical points.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -106,7 +106,7 @@
         "dependencies": [
             "aef8b03optimize4a-h6"
         ],
-        "title": "Derivative",
+        "title": "Find the Derivative",
         "text": "What is the derivative of R(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -128,7 +128,7 @@
         "dependencies": [
             "aef8b03optimize4a-h7"
         ],
-        "title": "R'(0)",
+        "title": "Find the R'(0)",
         "text": "To find the critical point, set $$R'(p)=0$$ and solve for $$p$$. $$P=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -150,9 +150,9 @@
         "id": "aef8b03optimize4a-h10",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "string",
+        "answerType": "arithmetic",
         "hintAnswer": [
-            "50000"
+            "$$50000$$"
         ],
         "dependencies": [
             "aef8b03optimize4a-h9"
@@ -167,9 +167,9 @@
         "id": "aef8b03optimize4a-h11",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "string",
+        "answerType": "arithmetic",
         "hintAnswer": [
-            "37500"
+            "$$37500$$"
         ],
         "dependencies": [
             "aef8b03optimize4a-h10"
@@ -184,9 +184,9 @@
         "id": "aef8b03optimize4a-h12",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "string",
+        "answerType": "arithmetic",
         "hintAnswer": [
-            "0"
+            "$$0$$"
         ],
         "dependencies": [
             "aef8b03optimize4a-h11"
@@ -203,7 +203,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "maximum"
+            "Maximum"
         ],
         "dependencies": [
             "aef8b03optimize4a-h12"
@@ -214,9 +214,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "neither",
-            "maximum",
-            "minimum"
+            "Neither",
+            "Minimum",
+            "Maximum"
         ]
     }
 ]

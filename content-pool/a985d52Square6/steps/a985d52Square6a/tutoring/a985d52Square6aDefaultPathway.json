@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(c+2\\right)}^2=9$$"
+            "$$\\left(c+2\\right)^2=9$$"
         ],
         "dependencies": [
             "a985d52Square6a-h3"

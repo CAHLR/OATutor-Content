@@ -4,7 +4,7 @@
         "removable"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$f(x)=\\frac{x^2-4}{x-2}$$ is discontinuous at $$x=2$$. Classify this discontinuity as removable, jump, or infinite.",
+    "stepTitle": "$$f(x)=\\frac{x^2-4}{x-2}$$ is discontinuous at $$x=2$$. Classify this discontinuity as removable, jump, or $$infinite$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

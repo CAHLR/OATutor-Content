@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Find $$a_1$$",
-        "text": "Find $$a_1$$ by substituting $$n=1$$ into the given explicit formula: $$-2{\\left(\\frac{1}{2}\\right)}^{n-1}$$",
+        "text": "Find $$a_1$$ by substituting $$n=1$$ into the given explicit formula: $$-2\\left(\\frac{1}{2}\\right)^{n-1}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -21,7 +21,7 @@
             "a57f999ser16a-h1"
         ],
         "title": "Solve for $$a_1$$",
-        "text": "What is $$a_1=-2{\\left(\\frac{1}{2}\\right)}^{1-1}$$",
+        "text": "What is $$a_1=-2\\left(\\frac{1}{2}\\right)^{1-1}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -74,7 +74,7 @@
             "a57f999ser16a-h5"
         ],
         "title": "Simplify to find $$S_{10}$$",
-        "text": "What is $$S_{10}=\\frac{-2\\left(1-{\\left(\\frac{1}{2}\\right)}^{10}\\right)}{1-\\frac{1}{2}}$$?",
+        "text": "What is $$S_{10}=\\frac{-2\\left(1-\\left(\\frac{1}{2}\\right)^{10}\\right)}{1-\\frac{1}{2}}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

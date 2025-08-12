@@ -4,7 +4,7 @@
         "Center: $$(1,3)$$, Radius: $$\\frac{3}{2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-1\\right)}^2+{\\left(y-3\\right)}^2=\\frac{9}{4}$$",
+    "stepTitle": "$$\\left(x-1\\right)^2+\\left(y-3\\right)^2=\\frac{9}{4}$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

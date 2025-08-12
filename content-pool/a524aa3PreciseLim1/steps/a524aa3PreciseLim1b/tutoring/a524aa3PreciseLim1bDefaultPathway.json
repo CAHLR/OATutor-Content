@@ -3,7 +3,7 @@
         "id": "a524aa3PreciseLim1b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Existential quantifier",
+        "title": "Existential Quantifier",
         "text": "Remember tha delta in a \u03b5-\u03b4 defintion must be greater than the distance between the variable(x in this case) and what the variable is going to (a in this case).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

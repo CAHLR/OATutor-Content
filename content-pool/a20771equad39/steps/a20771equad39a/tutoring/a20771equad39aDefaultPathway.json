@@ -16,7 +16,7 @@
             "a20771equad39a-h1"
         ],
         "title": "Add",
-        "text": "Add $${\\left(\\frac{9}{2}\\right)}^2$$ to both sides",
+        "text": "Add $$\\left(\\frac{9}{2}\\right)^2$$ to both sides",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -39,7 +39,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(x-\\frac{9}{2}\\right)}^2=22+\\frac{81}{4}$$"
+            "$$\\left(x-\\frac{9}{2}\\right)^2=22+\\frac{81}{4}$$"
         ],
         "dependencies": [
             "a20771equad39a-h3"
@@ -50,9 +50,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$${\\left(x-\\frac{9}{2}\\right)}^2=22+\\frac{81}{4}$$",
-            "$${\\left(x+\\frac{9}{3}\\right)}^2=22+\\frac{81}{4}$$",
-            "$${\\left(x-\\frac{3}{2}\\right)}^2=22+\\frac{81}{4}$$"
+            "$$\\left(x-\\frac{9}{2}\\right)^2=22+\\frac{81}{4}$$",
+            "$$\\left(x+\\frac{9}{3}\\right)^2=22+\\frac{81}{4}$$",
+            "$$\\left(x-\\frac{3}{2}\\right)^2=22+\\frac{81}{4}$$"
         ]
     },
     {

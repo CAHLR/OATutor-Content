@@ -4,7 +4,7 @@
         "$${\\left(-g\\right)}^{16}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left({\\left(-g\\right)}^4\\right)}^4$$",
+    "stepTitle": "$$\\left({\\left(-g\\right)}^4\\right)^4$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

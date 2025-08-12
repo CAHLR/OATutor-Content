@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(b^2\\right)$$"
+            "$$-b^2$$"
         ],
         "dependencies": [
             "a012999exa26a-h1"

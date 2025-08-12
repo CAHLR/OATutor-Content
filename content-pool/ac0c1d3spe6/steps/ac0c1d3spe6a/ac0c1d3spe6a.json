@@ -4,7 +4,7 @@
         "$$y^2-6y+9$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(y-3\\right)}^2$$",
+    "stepTitle": "$$\\left(y-3\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

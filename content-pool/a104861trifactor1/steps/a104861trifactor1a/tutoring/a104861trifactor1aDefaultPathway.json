@@ -16,7 +16,7 @@
             "a104861trifactor1a-h1"
         ],
         "title": "Square of the Binomial",
-        "text": "Take the perfect squares of the first and last term and write is as a binomial so you will get $${\\left(3x+2\\right)}^2$$.",
+        "text": "Take the perfect squares of the first and last term and write is as a binomial so you will get $$\\left(3x+2\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

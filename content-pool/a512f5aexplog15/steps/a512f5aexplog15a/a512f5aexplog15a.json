@@ -4,7 +4,7 @@
         "$$10$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\ln(x)+\\ln(x-3)$$ $$=$$ ln(7x)",
+    "stepTitle": "$$\\ln\\left(x\\right)+\\ln\\left(x-3\\right)$$ $$=$$ ln(7x)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

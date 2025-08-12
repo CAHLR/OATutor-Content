@@ -3,7 +3,7 @@
         "id": "a394625deriv20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
+        "title": "Breaking Down the Question",
         "text": "Do the first derivative and then derive that one more time",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv20a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Find the First Derivative",
         "text": "What's first derivative?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv20a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of First Derivative",
         "text": "What's the derivative of first derivative",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -59,7 +59,7 @@
         "dependencies": [
             "a394625deriv20a-h3"
         ],
-        "title": "The derivative of the first derivative is the second derivative",
+        "title": "The Derivative of the First Derivative is the Second Derivative",
         "text": "Conclude your answer from sub-questions",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

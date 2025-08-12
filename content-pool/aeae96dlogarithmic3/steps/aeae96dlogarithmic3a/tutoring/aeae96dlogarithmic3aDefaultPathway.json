@@ -65,7 +65,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(\\frac{a}{d})$$"
+            "$$\\ln\\left(\\frac{a}{d}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic3a-h5"
@@ -82,13 +82,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(\\frac{a}{d c})$$"
+            "$$\\ln\\left(\\frac{a}{d c}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic3a-h6"
         ],
         "title": "Apply the Quotient Rule for Logarithms",
-        "text": "We can apply the quotient rule to the difference again. What is $$\\ln(\\frac{a}{d})-\\ln(c)$$?",
+        "text": "We can apply the quotient rule to the difference again. What is $$\\ln\\left(\\frac{a}{d}\\right)-\\ln\\left(c\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

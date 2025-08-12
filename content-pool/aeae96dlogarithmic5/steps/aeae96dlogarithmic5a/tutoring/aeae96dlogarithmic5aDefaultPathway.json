@@ -64,7 +64,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(y \\sqrt{y})-\\ln(\\sqrt{1-y})$$"
+            "$$\\ln\\left(y \\sqrt{y}\\right)-\\ln\\left(\\sqrt{1-y}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic5a-h5"
@@ -99,7 +99,7 @@
             "aeae96dlogarithmic5a-h7"
         ],
         "title": "Exponent",
-        "text": "What is the exponent of $$y$$ in $$\\ln(y \\sqrt{y})$$?",
+        "text": "What is the exponent of $$y$$ in $$\\ln\\left(y \\sqrt{y}\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -116,7 +116,7 @@
             "aeae96dlogarithmic5a-h8"
         ],
         "title": "Exponent",
-        "text": "What is the exponent of $$(1-y)$$ in $$\\ln(\\sqrt{1-y})$$?",
+        "text": "What is the exponent of $$(1-y)$$ in $$\\ln\\left(\\sqrt{1-y}\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -127,7 +127,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{3}{2} \\ln(y)-\\frac{1}{2} \\ln(1-y)$$"
+            "$$\\frac{3}{2} \\ln\\left(y\\right)-\\frac{1}{2} \\ln\\left(1-y\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic5a-h9"

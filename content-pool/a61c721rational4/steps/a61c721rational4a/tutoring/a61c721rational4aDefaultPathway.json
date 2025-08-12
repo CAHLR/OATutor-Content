@@ -39,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+2\\right)}^2$$"
+            "$$\\left(x+2\\right)^2$$"
         ],
         "dependencies": [
             "a61c721rational4a-h3"
@@ -85,7 +85,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$"
+            "$$\\left(x+2\\right)^{2\\left(x-2\\right)}$$"
         ],
         "dependencies": [
             "a61c721rational4a-h6"
@@ -120,7 +120,7 @@
             "a61c721rational4a-h8"
         ],
         "title": "Multiplication by $$1$$",
-        "text": "What should we multiply to $$\\frac{6}{x^2+4x+4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
+        "text": "What should we multiply to $$\\frac{6}{x^2+4x+4}$$ so that its denominator becomes $$\\left(x+2\\right)^{2\\left(x-2\\right)}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -137,7 +137,7 @@
             "a61c721rational4a-h9"
         ],
         "title": "Multiplication by $$1$$",
-        "text": "What should we multiply to $$\\frac{2}{x^2-4}$$ so that its denominator becomes $${\\left(x+2\\right)}^{2\\left(x-2\\right)}$$?",
+        "text": "What should we multiply to $$\\frac{2}{x^2-4}$$ so that its denominator becomes $$\\left(x+2\\right)^{2\\left(x-2\\right)}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -148,7 +148,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{4\\left(x-4\\right)}{{\\left(x+2\\right)}^{2\\left(x-2\\right)}}$$"
+            "$$\\frac{4\\left(x-4\\right)}{\\left(x+2\\right)^{2\\left(x-2\\right)}}$$"
         ],
         "dependencies": [
             "a61c721rational4a-h10"

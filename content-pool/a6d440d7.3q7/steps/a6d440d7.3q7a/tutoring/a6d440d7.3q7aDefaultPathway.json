@@ -16,7 +16,7 @@
             "a6d440d7.3q7a-h1"
         ],
         "title": "Find the k Value",
-        "text": "1E99 $$=$$ $${10}^{99}$$ and -1E99 $$=$$ $$-\\left({10}^{99}\\right)$$. Press the EE key for E. Or just use $${10}^{99}$$ instead of 1E99.",
+        "text": "1E99 $$=$$ $${10}^{99}$$ and -1E99 $$=$$ $$-{10}^{99}$$. Press the EE key for E. Or just use $${10}^{99}$$ instead of 1E99.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

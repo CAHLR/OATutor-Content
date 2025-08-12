@@ -69,7 +69,7 @@
             "ad220b3GraphQuadratic23a-h5"
         ],
         "title": "Find the $$y$$ coordinate of Vertex",
-        "text": "Subsitute $$x=2$$ into $$f(x)=-\\left(x^2\\right)+4x-5$$. $$f(x)=$$? Please enter your answer in decimal form.",
+        "text": "Subsitute $$x=2$$ into $$f(x)=-x^2+4x-5$$. $$f(x)=$$? Please enter your answer in decimal form.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

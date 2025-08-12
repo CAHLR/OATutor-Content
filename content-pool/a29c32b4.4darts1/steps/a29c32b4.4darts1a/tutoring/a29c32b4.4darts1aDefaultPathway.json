@@ -28,7 +28,7 @@
             "a29c32b4.4darts1a-h2"
         ],
         "title": "Random Variable of a Geometric Distribution",
-        "text": "Theoretically, the number of trials in a geometric experiment can be infinite.",
+        "text": "Theoretically, the number of trials in a geometric experiment can be $$infinite$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

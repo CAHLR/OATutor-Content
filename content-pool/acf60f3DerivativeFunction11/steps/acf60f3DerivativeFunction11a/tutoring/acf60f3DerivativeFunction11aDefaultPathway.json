@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction11a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivative function",
-        "text": "Start directly with the definition of the derivative function. $$f\u2032(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
+        "title": "Derivative Function",
+        "text": "Start directly with the definition of the Derivative Function. $$f\u2032(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction11a-h1"
         ],
-        "title": "Derivative function",
+        "title": "Derivative Function",
         "text": "We will get $$f'(x)=\\lim_{h\\to0} \\frac{x+h+\\frac{1}{x+h}-x+\\frac{1}{x}}{h}$$",
         "variabilization": {},
         "oer": "",
@@ -61,8 +61,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction11a-h4"
         ],
-        "title": "Evaluate the limit",
-        "text": "Evaluate the limit by inserting h-->0 $$=$$ $$h=0$$",
+        "title": "Evaluate the Limit",
+        "text": "Evaluate the Limit by inserting h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

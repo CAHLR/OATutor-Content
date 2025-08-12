@@ -11,7 +11,7 @@
     "answerLatex": "$$\\frac{1}{2} ln|x|+C$$",
     "choices": [
         "$$\\frac{1}{2} ln$$",
-        "$$\\frac{1}{2} \\ln(x)+C$$",
+        "$$\\frac{1}{2} \\ln\\left(x\\right)+C$$",
         "$$\\frac{1}{2} ln|x|+C$$",
         "$$+C$$",
         "$$x$$"

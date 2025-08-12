@@ -3,8 +3,8 @@
         "id": "a394625deriv19a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Write csc(x) as sin(x) and cos(x)",
+        "title": "Breaking Down the Question",
+        "text": "Write csc(x) as an expression of sin(x) and cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv19a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Transform sec(x)",
         "text": "What's sec(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv19a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of sin(x)",
         "text": "What's the derivative of sin(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -64,7 +64,7 @@
         "dependencies": [
             "a394625deriv19a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of $$\\frac{1}sin^$\\left(x\\righ$$",
         "text": "What's the derivative of $$\\frac{1}sin^$\\left(x\\righ$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

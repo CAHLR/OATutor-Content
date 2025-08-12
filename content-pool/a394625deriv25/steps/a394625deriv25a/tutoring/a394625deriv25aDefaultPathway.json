@@ -3,7 +3,7 @@
         "id": "a394625deriv25a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
+        "title": "Breaking Down the Question",
         "text": "The derivative of the function is the slope of the tangent line",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv25a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Find Derivative of $$x-2cos\\left(x\\right)$$",
         "text": "What's derivative of $$x-2cos\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -43,7 +43,7 @@
         "dependencies": [
             "a394625deriv25a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Solve for When Derivative $$=$$ $$2$$",
         "text": "Solve $$1+2sin\\left(x\\right)=2$$, what will sin(x) be?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -55,7 +55,7 @@
         "dependencies": [
             "a394625deriv25a-h3"
         ],
-        "title": "$$sin(x)=0.5$$ find specific $$x$$",
+        "title": "$$sin(x)=0.5$$ Find Specific $$x$$",
         "text": "$$x$$ is from $$0$$ to $$2\\pi$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -67,7 +67,7 @@
         "dependencies": [
             "a394625deriv25a-h4"
         ],
-        "title": "The derivative of the function is the slope of the tangent line",
+        "title": "Determine the Slope",
         "text": "Conclude your answer from sub-questions",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

@@ -90,7 +90,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+1\\right)}^2$$"
+            "$$\\left(x+1\\right)^2$$"
         ],
         "dependencies": [
             "a61c721rational2a-h6"

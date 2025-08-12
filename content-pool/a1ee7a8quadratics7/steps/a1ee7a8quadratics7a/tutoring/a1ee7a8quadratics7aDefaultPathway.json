@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Set a placeholder variable",
-        "text": "Since $${\\left(x^2\\right)}^2=x^4$$, we can let $$u=x^2$$. Substitute $$x^2$$ for u throughout the equation.",
+        "text": "Since $$\\left(x^2\\right)^2=x^4$$, we can let $$u=x^2$$. Substitute $$x^2$$ for u throughout the equation.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

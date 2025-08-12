@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewrite the Integral",
-        "text": "Rewrite the integral as $$\\int z\\left({\\left(z^2-5\\right)}^{\\frac{1}{2}}\\right) \\,dz$$.",
+        "text": "Rewrite the integral as $$\\int z\\left(\\left(z^2-5\\right)^{\\frac{1}{2}}\\right) \\,dz$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -56,7 +56,7 @@
         "dependencies": [
             "a82ea5csubstitution2a-h4"
         ],
-        "title": "Write the Integral in Terms of u",
+        "title": "Select the Integral in Terms of u",
         "text": "What would the integral look like?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

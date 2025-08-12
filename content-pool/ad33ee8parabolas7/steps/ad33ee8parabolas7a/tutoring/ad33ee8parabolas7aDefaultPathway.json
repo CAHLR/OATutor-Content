@@ -88,7 +88,7 @@
             "ad33ee8parabolas7a-h8"
         ],
         "title": "Finding the Vertex",
-        "text": "Since our $$x$$ is $$\\frac{5}{8}$$, we plug it into our equation as, $$y=-\\left({\\left(-\\frac{5}{8}\\right)}^2\\right)-10\\frac{5}{8}+3$$. This gives us $$y=\\frac{-1}{8}$$.",
+        "text": "Since our $$x$$ is $$\\frac{5}{8}$$, we plug it into our equation as, $$y=-{\\left(-\\frac{5}{8}\\right)}^2-10\\frac{5}{8}+3$$. This gives us $$y=\\frac{-1}{8}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

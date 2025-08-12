@@ -3,8 +3,8 @@
         "id": "a394625deriv17a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Write cot(x) as sin(x) and cos(x)",
+        "title": "Breaking Down the Question",
+        "text": "Write cot(x) as an expression of sin(x) and cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv17a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Transform cot(x)",
         "text": "What's cot(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -41,7 +41,7 @@
         "dependencies": [
             "a394625deriv17a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of sin(x)",
         "text": "What's the derivative of sin(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -63,7 +63,7 @@
         "dependencies": [
             "a394625deriv17a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of cos(x)",
         "text": "What's the derivative of cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -80,7 +80,7 @@
         "dependencies": [
             "a394625deriv17a-h4"
         ],
-        "title": "Apply derivatives' rule",
+        "title": "Apply Derivatives' Rule",
         "text": "Apply the quotient derivative rule of composed functions to find the final solution",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

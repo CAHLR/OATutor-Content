@@ -88,7 +88,7 @@
             "ad33ee8parabolas2a-h8"
         ],
         "title": "Finding the Vertex",
-        "text": "Since our $$x$$ is $$2.5$$, we plug it into our equation as, $$y=-\\left({2.5}^2\\right)+5\\times2.5-6$$. This gives us $$y=0.25$$.",
+        "text": "Since our $$x$$ is $$2.5$$, we plug it into our equation as, $$y=-{2.5}^2+5\\times2.5-6$$. This gives us $$y=0.25$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

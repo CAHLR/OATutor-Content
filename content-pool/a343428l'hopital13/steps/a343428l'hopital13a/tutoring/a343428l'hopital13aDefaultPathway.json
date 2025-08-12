@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Operation",
-        "text": "Let $$y=x^{\\frac{1}{x}}$$. Using one-to-one property of logarithms, we obtain $$ln(y)=\\ln(x^{\\frac{1}{x}})$$. According to the Power Properties of Logarithms, the expression can be written as $$ln(y)=\\frac{1}{x} \\ln(x)=\\frac{\\ln(x)}{x}$$",
+        "text": "Let $$y=x^{\\frac{1}{x}}$$. Using one-to-one property of logarithms, we obtain $$ln(y)=\\ln\\left(x^{\\frac{1}{x}}\\right)$$. According to the Power Properties of Logarithms, the expression can be written as $$ln(y)=\\frac{1}{x} \\ln\\left(x\\right)=\\frac{\\ln\\left(x\\right)}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a343428l'hopital13a-h2"
         ],
         "title": "Operation",
-        "text": "We set up a new limit based on the function we just created $$\\lim_{x\\to\\infty} \\frac{\\ln(x)}{x}$$",
+        "text": "We set up a new limit based on the function we just created $$\\lim_{x\\to\\infty} \\frac{\\ln\\left(x\\right)}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -71,7 +71,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Substitute the limit",
-                "text": "$$\\frac{\\ln(\\infty)}{\\infty}$$",
+                "text": "$$\\frac{\\ln\\left(\\infty\\right)}{\\infty}$$",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
@@ -87,7 +87,7 @@
             "a343428l'hopital13a-h5"
         ],
         "title": "Apply L\u2019H\u00f4pital\u2019s Rule",
-        "text": "Differentiate the denominator and the numerator seperatedly: $$\\lim_{x\\to\\infty} \\frac{\\frac{d}{dx} \\ln(x)}{\\frac{d}{dx} x}$$",
+        "text": "Differentiate the denominator and the numerator seperatedly: $$\\lim_{x\\to\\infty} \\frac{\\frac{d}{dx} \\ln\\left(x\\right)}{\\frac{d}{dx} x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -134,7 +134,7 @@
             "a343428l'hopital13a-h8"
         ],
         "title": "Operation",
-        "text": "$$\\lim_{x\\to\\infty} \\frac{\\ln(x)}{x}=\\lim_{x\\to\\infty} ln(y)=0$$",
+        "text": "$$\\lim_{x\\to\\infty} \\frac{\\ln\\left(x\\right)}{x}=\\lim_{x\\to\\infty} ln(y)=0$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -144,7 +144,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Operation",
-                "text": "We set $$ln(y)=\\frac{\\ln(x)}{x}$$ in the very first step",
+                "text": "We set $$ln(y)=\\frac{\\ln\\left(x\\right)}{x}$$ in the very first step",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""

@@ -85,7 +85,7 @@
             "a526a0cintegration13a-h5"
         ],
         "title": "Evaluate",
-        "text": "$$\\frac{8\\pi {\\left(2R\\right)}^2}{2}-\\frac{8\\pi R^2}{2}=12\\pi R$$",
+        "text": "$$\\frac{8\\pi \\left(2R\\right)^2}{2}-\\frac{8\\pi R^2}{2}=12\\pi R$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -4,7 +4,7 @@
         "$$x=-1$$, $$x=12$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-3\\right)}^2-5\\left(x-3\\right)-36=0$$",
+    "stepTitle": "$$\\left(x-3\\right)^2-5\\left(x-3\\right)-36=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -38,7 +38,7 @@
             "ad4fd60center8a-h2"
         ],
         "title": "The moments",
-        "text": "Next, we calculate the moments. $$\ud835\udc40x=\ud835\udf0c*\\int_{a}^{b} \\frac{1}{2} \\left({f{\\left(x\\right)}}^2-{g{\\left(x\\right)}}^2\\right) \\,dx=(1/2)*\\int_{-2}^{1} {\\left(1-x^2\\right)}^2-{\\left(x-1\\right)}^2 \\,dx$$. What is the value of\ud835\udc40x?",
+        "text": "Next, we calculate the moments. $$\ud835\udc40x=\ud835\udf0c*\\int_{a}^{b} \\frac{1}{2} \\left({f{\\left(x\\right)}}^2-{g{\\left(x\\right)}}^2\\right) \\,dx=(1/2)*\\int_{-2}^{1} \\left(1-x^2\\right)^2-\\left(x-1\\right)^2 \\,dx$$. What is the value of\ud835\udc40x?",
         "variabilization": {},
         "oer": "",
         "license": ""

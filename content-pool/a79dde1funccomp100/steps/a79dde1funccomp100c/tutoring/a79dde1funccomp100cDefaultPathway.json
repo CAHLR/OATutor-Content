@@ -45,7 +45,7 @@
             "a79dde1funccomp100c-h3"
         ],
         "title": "Solving $$f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}$$",
-        "text": "$$f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}={\\left(6-\\sqrt{5}\\right)}^2$$",
+        "text": "$$f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}=\\left(6-\\sqrt{5}\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -57,7 +57,7 @@
             "a79dde1funccomp100c-h4"
         ],
         "title": "Solving $$g{\\left(f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}\\right)}$$",
-        "text": "$$g{\\left(f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}\\right)}=\\frac{1}{{\\left(6-\\sqrt{5}\\right)}^2-2}$$",
+        "text": "$$g{\\left(f{\\left(h{\\left(\\sqrt{5}-3\\right)}\\right)}\\right)}=\\frac{1}{\\left(6-\\sqrt{5}\\right)^2-2}$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

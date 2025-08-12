@@ -8,5 +8,5 @@
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$\\frac{1}{2} \\ln(\\frac{4}{3})$$"
+    "answerLatex": "$$\\frac{1}{2} \\ln\\left(\\frac{4}{3}\\right)$$"
 }

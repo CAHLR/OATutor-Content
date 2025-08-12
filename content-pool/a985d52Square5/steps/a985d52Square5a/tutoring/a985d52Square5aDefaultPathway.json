@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p+\\frac{1}{8}\\right)}^2$$"
+            "$$\\left(p+\\frac{1}{8}\\right)^2$$"
         ],
         "dependencies": [
             "a985d52Square5a-h3"

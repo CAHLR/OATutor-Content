@@ -100,7 +100,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{{\\left(x+2\\right)}^2}{9}+\\frac{{\\left(y+3\\right)}^2}{25}=1$$"
+            "$$\\frac{\\left(x+2\\right)^2}{9}+\\frac{\\left(y+3\\right)^2}{25}=1$$"
         ],
         "dependencies": [
             "af60b4fellipse3a-h6"

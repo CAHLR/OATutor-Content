@@ -5,11 +5,11 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(p^4\\right)}^{\\frac{1}{4}} {\\left(q^8\\right)}^{\\frac{1}{4}}$$"
+            "$$\\left(p^4\\right)^{\\frac{1}{4}} \\left(q^8\\right)^{\\frac{1}{4}}$$"
         ],
         "dependencies": [],
         "title": "Product to a Power Property",
-        "text": "The Power Property: $${\\left(a^m\\right)}^n$$ $$=$$ $$a^{m n}$$, the Product Property: $$a^m a^n=a^{m+n}$$",
+        "text": "The Power Property: $$\\left(a^m\\right)^n$$ $$=$$ $$a^{m n}$$, the Product Property: $$a^m a^n=a^{m+n}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

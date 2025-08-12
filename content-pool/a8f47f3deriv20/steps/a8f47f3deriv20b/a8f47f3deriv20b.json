@@ -1,7 +1,7 @@
 {
     "id": "a8f47f3deriv20b",
     "stepAnswer": [
-        "none"
+        "None"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Find the local or maxima.",
@@ -9,9 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "none",
-        "maximum: $$x=1$$",
-        "maximum: $$x=-1$$, minimum: $$x=0$$",
-        "minimum: $$x=-1$$"
+        "None",
+        "Maximum: $$x=1$$",
+        "Maximum: $$x=-1$$, minimum: $$x=0$$",
+        "Minimum: $$x=-1$$"
     ]
 }

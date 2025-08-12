@@ -129,7 +129,7 @@
             "ab6a46ageo2a-h8"
         ],
         "title": "Explicit Formula for a Geometric Sequence",
-        "text": "The formula for this geometric sequence is $$a_n=800{0.5}^{n-1}$$.",
+        "text": "The formula for this geometric sequence is $$a_n=800\\times{0.5}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -141,7 +141,7 @@
             "ab6a46ageo2a-h9"
         ],
         "title": "Find $$a_2$$",
-        "text": "To find the second term, let $$n=2$$ and plug in $$2$$ into $$a_n=800{0.5}^{n-1}$$.",
+        "text": "To find the second term, let $$n=2$$ and plug in $$2$$ into $$a_n=800\\times{0.5}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -158,7 +158,7 @@
             "ab6a46ageo2a-h10"
         ],
         "title": "Find $$a_2$$",
-        "text": "What is $$a_2=800{0.5}^{2-1}$$?",
+        "text": "What is $$a_2=800\\times{0.5}^{2-1}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -170,7 +170,7 @@
             "ab6a46ageo2a-h9"
         ],
         "title": "Find $$a_3$$",
-        "text": "To find the third term, let $$n=3$$ and plug in $$3$$ into $$a_n=800{0.5}^{n-1}$$.",
+        "text": "To find the third term, let $$n=3$$ and plug in $$3$$ into $$a_n=800\\times{0.5}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -187,7 +187,7 @@
             "ab6a46ageo2a-h12"
         ],
         "title": "Find $$a_3$$",
-        "text": "What is $$a_3=800{0.5}^{3-1}$$?",
+        "text": "What is $$a_3=800\\times{0.5}^{3-1}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -199,7 +199,7 @@
             "ab6a46ageo2a-h9"
         ],
         "title": "Find $$a_4$$",
-        "text": "To find the fourth term, let $$n=4$$ and plug in $$4$$ into $$a_n=800{0.5}^{n-1}$$.",
+        "text": "To find the fourth term, let $$n=4$$ and plug in $$4$$ into $$a_n=800\\times{0.5}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -216,7 +216,7 @@
             "ab6a46ageo2a-h14"
         ],
         "title": "Find $$a_4$$",
-        "text": "What is $$a_4=800{0.5}^{4-1}$$?",
+        "text": "What is $$a_4=800\\times{0.5}^{4-1}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -228,7 +228,7 @@
             "ab6a46ageo2a-h9"
         ],
         "title": "Find $$a_5$$",
-        "text": "To find the fifth term, let $$n=5$$ and plug in $$5$$ into $$a_n=800{0.5}^{n-1}$$.",
+        "text": "To find the fifth term, let $$n=5$$ and plug in $$5$$ into $$a_n=800\\times{0.5}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -245,7 +245,7 @@
             "ab6a46ageo2a-h16"
         ],
         "title": "Find $$a_5$$",
-        "text": "What is $$a_5=800{0.5}^{5-1}$$?",
+        "text": "What is $$a_5=800\\times{0.5}^{5-1}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

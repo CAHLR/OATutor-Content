@@ -4,7 +4,7 @@
         "$$2\\left(h^2+6h+12\\right)$$\\n"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following position function $$y=2t^3+3$$, find the simplified expression for the average velocity from $$t=2$$\\nto $$t=2+h$$.",
+    "stepTitle": "For the following position function $$y=2t^3+3$$, find the simplified expression for the average velocity from $$t=2$$ to $$t=2+h$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

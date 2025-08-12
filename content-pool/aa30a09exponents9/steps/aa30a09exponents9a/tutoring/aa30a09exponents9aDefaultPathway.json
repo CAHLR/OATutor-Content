@@ -16,7 +16,7 @@
             "aa30a09exponents9a-h1"
         ],
         "title": "Use the Power Property",
-        "text": "$${\\left(a^m\\right)}^n=a^m n$$. Simplify the exponents under the k variable.",
+        "text": "$$\\left(a^m\\right)^n=a^m n$$. Simplify the exponents under the k variable.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

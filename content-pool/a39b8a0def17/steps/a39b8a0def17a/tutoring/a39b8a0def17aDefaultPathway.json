@@ -28,7 +28,7 @@
             "a39b8a0def17a-h2"
         ],
         "title": "Expanding Powers of Three",
-        "text": "The equation for $${\\left(a+b\\right)}^3$$ is $$a^3+3a^b+{3\\left(a b\\right)}^2+b^3$$.",
+        "text": "The equation for $$\\left(a+b\\right)^3$$ is $$a^3+3a^b+{3\\left(a b\\right)}^2+b^3$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

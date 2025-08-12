@@ -37,7 +37,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(2x\\right)}^2$$"
+            "$$\\left(2x\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring3a-h2"
@@ -75,7 +75,7 @@
                 ],
                 "dependencies": [],
                 "title": "Rewrite",
-                "text": "We can rewrite $$4x^2-9^2$$ as $${\\left(2x\\right)}^2-3^2$$. Use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. How do you factor $$4x^2-9$$?",
+                "text": "We can rewrite $$4x^2-9^2$$ as $$\\left(2x\\right)^2-3^2$$. Use the formula $$a^2-b^2=\\left(a-b\\right) \\left(a+b\\right)$$. How do you factor $$4x^2-9$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

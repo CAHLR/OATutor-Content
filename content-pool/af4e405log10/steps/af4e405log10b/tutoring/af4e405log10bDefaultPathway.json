@@ -67,7 +67,7 @@
             "af4e405log10b-h3"
         ],
         "title": "Solve for $$x$$",
-        "text": "Substitution $$3^2$$ into the exponential equation we found before, we get $${\\left(3^2\\right)}^x=3^1$$. We can simplify this into $$3^{2x}=3^1$$. What is $$x$$?",
+        "text": "Substitution $$3^2$$ into the exponential equation we found before, we get $$\\left(3^2\\right)^x=3^1$$. We can simplify this into $$3^{2x}=3^1$$. What is $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

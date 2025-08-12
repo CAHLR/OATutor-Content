@@ -63,7 +63,7 @@
             "ac0c1d3spe30a-h4"
         ],
         "title": "Plug in the Terms",
-        "text": "Substitute $$a=b$$ and $$b=\\frac{6}{7}$$ into the product of conjugates pattern formula:\\n$$\\left(a+b\\right) \\left(a-b\\right)=a^2-b^2$$\\n$$\\left(b+\\frac{6}{7}\\right) \\left(b-\\frac{6}{7}\\right)=b^2-{\\left(\\frac{6}{7}\\right)}^2$$",
+        "text": "Substitute $$a=b$$ and $$b=\\frac{6}{7}$$ into the product of conjugates pattern formula:\\n$$\\left(a+b\\right) \\left(a-b\\right)=a^2-b^2$$\\n$$\\left(b+\\frac{6}{7}\\right) \\left(b-\\frac{6}{7}\\right)=b^2-\\left(\\frac{6}{7}\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

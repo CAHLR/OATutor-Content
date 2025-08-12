@@ -71,7 +71,7 @@
             "add2dfegeneral3a-h4"
         ],
         "title": "Trinomial square pattern",
-        "text": "The expression fits the square pattern $${\\left(a-b\\right)}^2=a^2-2ab+b^2$$",
+        "text": "The expression fits the square pattern $$\\left(a-b\\right)^2=a^2-2ab+b^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

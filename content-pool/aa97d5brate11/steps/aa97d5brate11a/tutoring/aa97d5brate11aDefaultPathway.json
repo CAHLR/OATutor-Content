@@ -48,8 +48,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$4{\\left(b+1\\right)}^2$$",
-            "$$4{\\left(b-1\\right)}^2$$",
+            "$$4\\left(b+1\\right)^2$$",
+            "$$4\\left(b-1\\right)^2$$",
             "$$4\\left(b+1\\right) \\left(b-1\\right)$$"
         ]
     },

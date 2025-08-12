@@ -204,7 +204,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$8{\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)}^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17{\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)}^2=20$$"
+            "$$8\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)^2=20$$"
         ],
         "dependencies": [
             "a5c2168rotation3a-h13"
@@ -215,8 +215,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$8{\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)}^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17{\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)}^2=20$$",
-            "$$8{\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)}^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17{\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)}^2=20$$"
+            "$$8\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)^2=20$$",
+            "$$8\\left(\\frac{x'+2y'}{\\sqrt{5}}\\right)^2-12\\frac{2x'-y'}{\\sqrt{5}} \\frac{x'+2y'}{\\sqrt{5}}+17\\left(\\frac{2x'-y'}{\\sqrt{5}}\\right)^2=20$$"
         ]
     },
     {

@@ -45,7 +45,7 @@
             "a79dde1funccomp100a-h3"
         ],
         "title": "Solving f(g(4))",
-        "text": "$$f(g(4))={\\left(\\frac{1}{2}\\right)}^2$$",
+        "text": "$$f(g(4))=\\left(\\frac{1}{2}\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -62,7 +62,7 @@
             "a79dde1funccomp100a-h4"
         ],
         "title": "Solving f(g(4))",
-        "text": "What is $${\\left(\\frac{1}{2}\\right)}^2$$?",
+        "text": "What is $$\\left(\\frac{1}{2}\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

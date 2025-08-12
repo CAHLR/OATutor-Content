@@ -52,7 +52,7 @@
             "a91e303graphhyper18a-h4"
         ],
         "title": "Finding the Center",
-        "text": "Since the equation is in the form of $$\\frac{{\\left(x-h\\right)}^2}{a^2}-\\frac{{\\left(y-k\\right)}^2}{b^2}=1$$, we can find our center, which is shown from $$h$$ and k.",
+        "text": "Since the equation is in the form of $$\\frac{\\left(x-h\\right)^2}{a^2}-\\frac{\\left(y-k\\right)^2}{b^2}=1$$, we can find our center, which is shown from $$h$$ and k.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

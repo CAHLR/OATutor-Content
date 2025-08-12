@@ -4,7 +4,7 @@
         "$${10}^{18}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left({10}^3\\right)}^6$$",
+    "stepTitle": "$$\\left({10}^3\\right)^6$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

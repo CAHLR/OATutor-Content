@@ -78,7 +78,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-\\frac{x'-y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2{\\left(\\frac{x'+y'}{\\sqrt{2}}\\right)}^2-30=0$$"
+            "$$2\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)^2-\\frac{x'-y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2\\left(\\frac{x'+y'}{\\sqrt{2}}\\right)^2-30=0$$"
         ],
         "dependencies": [
             "a5c2168rotation2a-h5"
@@ -89,8 +89,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-\\frac{x'-y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2{\\left(\\frac{x'+y'}{\\sqrt{2}}\\right)}^2-30=0$$",
-            "$$2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-\\frac{x'+y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2{\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)}^2-30=0$$"
+            "$$2\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)^2-\\frac{x'-y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2\\left(\\frac{x'+y'}{\\sqrt{2}}\\right)^2-30=0$$",
+            "$$2\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)^2-\\frac{x'+y'}{\\sqrt{2}} \\frac{x'+y'}{\\sqrt{2}}+2\\left(\\frac{x'-y'}{\\sqrt{2}}\\right)^2-30=0$$"
         ]
     },
     {

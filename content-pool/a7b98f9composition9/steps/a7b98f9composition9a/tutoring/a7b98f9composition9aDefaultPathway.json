@@ -16,7 +16,7 @@
             "a7b98f9composition9a-h1"
         ],
         "title": "Inner Function",
-        "text": "The expression $${\\left(x+2\\right)}^2$$ is the denominator of the expression.",
+        "text": "The expression $$\\left(x+2\\right)^2$$ is the denominator of the expression.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -40,7 +40,7 @@
             "a7b98f9composition9a-h3"
         ],
         "title": "Answer",
-        "text": "$$g(x)={\\left(x+2\\right)}^2$$, $$f(x)=\\frac{4}{x}$$",
+        "text": "$$g(x)=\\left(x+2\\right)^2$$, $$f(x)=\\frac{4}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

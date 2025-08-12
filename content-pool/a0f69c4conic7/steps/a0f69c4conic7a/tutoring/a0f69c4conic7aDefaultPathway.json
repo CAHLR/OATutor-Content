@@ -99,13 +99,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$3{\\left(x-\\frac{4}{3}\\right)}^2-\\frac{4}{3}$$"
+            "$$3\\left(x-\\frac{4}{3}\\right)^2-\\frac{4}{3}$$"
         ],
         "dependencies": [
             "a0f69c4conic7a-h8"
         ],
         "title": "Completing the Square",
-        "text": "Notice that we have $$y^2=3x^2-8x+4$$ or something similar if you have rearranged differently. We would like to complete the square on the RHS. For $$a x^2+b x+c$$, we can complete the square as $$a {\\left(x+d\\right)}^2+e$$ where $$d=\\frac{b}{2a}$$ and $$e=c-\\frac{b^2}{4a}$$. Completing the square on $$3x^2-8x+4$$, what expression do you get?",
+        "text": "Notice that we have $$y^2=3x^2-8x+4$$ or something similar if you have rearranged differently. We would like to complete the square on the RHS. For $$a x^2+b x+c$$, we can complete the square as $$a \\left(x+d\\right)^2+e$$ where $$d=\\frac{b}{2a}$$ and $$e=c-\\frac{b^2}{4a}$$. Completing the square on $$3x^2-8x+4$$, what expression do you get?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -129,7 +129,7 @@
             "a0f69c4conic7a-h10"
         ],
         "title": "Standard Form",
-        "text": "If there is a constant coefficient in the numerator, we shift the multiplier to the denominator by multiplying by the reciprocal of the constant. For e.g., a(x-h)**/b will be divided by $$\\frac{\\frac{1}{a}}{\\frac{1}{a}}$$ so that it becomes $$\\frac{{\\left(x-h\\right)}^2}{\\frac{b}{a}}$$. This will allow us to obtain the standard form.",
+        "text": "If there is a constant coefficient in the numerator, we shift the multiplier to the denominator by multiplying by the reciprocal of the constant. For e.g., a(x-h)**/b will be divided by $$\\frac{\\frac{1}{a}}{\\frac{1}{a}}$$ so that it becomes $$\\frac{\\left(x-h\\right)^2}{\\frac{b}{a}}$$. This will allow us to obtain the standard form.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

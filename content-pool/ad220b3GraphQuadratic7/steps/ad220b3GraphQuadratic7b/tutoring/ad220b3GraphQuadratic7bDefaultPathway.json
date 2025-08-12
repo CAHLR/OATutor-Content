@@ -21,7 +21,7 @@
             "ad220b3GraphQuadratic7b-h1"
         ],
         "title": "Compute The y-coordinate",
-        "text": "Plug $$x=1$$ into the equation $$f(x)=-\\left(x^2\\right)+2x+5$$. What is f(1)?",
+        "text": "Plug $$x=1$$ into the equation $$f(x)=-x^2+2x+5$$. What is f(1)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Reflection across the x-axis",
-        "text": "For the parent function f(x) $$=$$ $$b^x$$, a reflection across the x-axis is represented by g(x) $$=$$ $$-\\left(b^x\\right)$$.",
+        "text": "For the parent function f(x) $$=$$ $$b^x$$, a reflection across the x-axis is represented by g(x) $$=$$ $$-b^x$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

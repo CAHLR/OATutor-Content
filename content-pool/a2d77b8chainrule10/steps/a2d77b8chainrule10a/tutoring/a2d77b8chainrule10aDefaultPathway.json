@@ -16,7 +16,7 @@
             "a2d77b8chainrule10a-h1"
         ],
         "title": "Decompose the Function",
-        "text": "First we need to decompose our function $$y$$ into the form $$y=f(u)$$ and $$u=g(x)$$, try finding what f(u) and g(x) should be in this case!",
+        "text": "First we need to decompose our function $$y$$ into the form $$y=f(u)$$ and $$u=g(x)$$, try finding what f(u) and g(x) should be in this case.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -74,7 +74,7 @@
             "a2d77b8chainrule10a-h4"
         ],
         "title": "Find the Derivative",
-        "text": "Next, we take the derivative of f(u) in terms of u, $$\\frac{dy}{du}$$, and the derivative of g(x) in terms of $$x$$, $$\\frac{du}{dx}$$. Multiplying these two expressions together yields our final answer, dy/dx!",
+        "text": "Next, we take the derivative of f(u) in terms of u, $$\\frac{dy}{du}$$, and the derivative of g(x) in terms of $$x$$, $$\\frac{du}{dx}$$. Multiplying these two expressions together yields our final answer, $$\\frac{dy}{dx}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -108,7 +108,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$-\\left({\\operatorname{csc}\\left(x\\right)}^2\\right)$$"
+            "$$-{\\operatorname{csc}\\left(x\\right)}^2$$"
         ],
         "dependencies": [
             "a2d77b8chainrule10a-h6"
@@ -121,7 +121,7 @@
         "choices": [
             "$${\\operatorname{sec}\\left(x\\right)}^2$$",
             "$$\\operatorname{sec}\\left(x\\right) tan\\left(x\\right)$$",
-            "$$-\\left({\\operatorname{csc}\\left(x\\right)}^2\\right)$$",
+            "$$-{\\operatorname{csc}\\left(x\\right)}^2$$",
             "$$-\\operatorname{csc}\\left(x\\right) \\operatorname{cot}\\left(x\\right)$$"
         ]
     },
@@ -131,8 +131,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h7"
         ],
-        "title": "Plug in",
-        "text": "Finally, we only need to multiply these two expressions to find our final answer. Don't forget to plug in what we have for u in terms of $$x$$ into our final answer!",
+        "title": "Plug In and Solve in Terms of $$x$$",
+        "text": "Finally, we only need to multiply these two expressions to find our final answer. Don't forget to plug in what we have for u in terms of $$x$$ into our final answer.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

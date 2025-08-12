@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+\\frac{5}{2}\\right)}^2$$ + $$\\frac{37}{2}$$"
+            "$$\\left(x+\\frac{5}{2}\\right)^2$$ + $$\\frac{37}{2}$$"
         ],
         "dependencies": [
             "a35b0d9quadratic20a-h2"

@@ -37,8 +37,8 @@
         "dependencies": [
             "aef8b03optimize15a-h2"
         ],
-        "title": "legnth of the wire",
-        "text": "What is the length of the wire in which the sides are $$10$$ ft and $$x$$ ft?",
+        "title": "Length of the Wire",
+        "text": "What is the length squared of the wire in which the sides are $$10$$ ft and $$x$$ ft?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -54,8 +54,8 @@
         "dependencies": [
             "aef8b03optimize15a-h3"
         ],
-        "title": "legnth of the wire",
-        "text": "What is the length of the wire in which the sides are $$20$$ ft and $$(30-x)$$ ft?",
+        "title": "Length of the Wire",
+        "text": "What is the length squared of the wire in which the sides are $$20$$ ft and $$(30-x)$$ ft?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -71,8 +71,8 @@
         "dependencies": [
             "aef8b03optimize15a-h4"
         ],
-        "title": "total lenght",
-        "text": "What is the total length of the wire in terms of $$x$$? $$L(x)=___$$?",
+        "title": "Total Length",
+        "text": "What is the total length of the wires squared in terms of $$x$$? $$L(x)=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -83,8 +83,8 @@
         "dependencies": [
             "aef8b03optimize15a-h5"
         ],
-        "title": "critical point",
-        "text": "Find the critical point.",
+        "title": "Critical Point",
+        "text": "Find the critical point. (The minimum of their squared lengths will be the same as the minimum of their length)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -100,7 +100,7 @@
         "dependencies": [
             "aef8b03optimize15a-h6"
         ],
-        "title": "derivative",
+        "title": "Find L'(x)",
         "text": "First, find the derivative. $$L'(x)=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -117,7 +117,7 @@
         "dependencies": [
             "aef8b03optimize15a-h7"
         ],
-        "title": "slope of zero",
+        "title": "Find $$x$$ where $$L'(x)=0$$",
         "text": "When $$L'(x)=0$$, $$x=___$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

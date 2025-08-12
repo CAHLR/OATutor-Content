@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$x+4$$, $${\\left(x+4\\right)}^2$$"
+            "$$x+4$$, $$\\left(x+4\\right)^2$$"
         ],
         "dependencies": [
             "a18dde9partfrac20a-h1"
@@ -26,7 +26,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$x+4$$, $${\\left(x+4\\right)}^2$$",
+            "$$x+4$$, $$\\left(x+4\\right)^2$$",
             "$$x$$, $$x+2$$, $$x+2$$",
             "$$(x-4)$$, $$x+4$$"
         ]

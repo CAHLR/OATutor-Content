@@ -28,7 +28,7 @@
             "a20771equad15a-h2"
         ],
         "title": "Factoring",
-        "text": "Finally, we can simplify and factor: $${\\left(x-3\\right)}^2=22$$.",
+        "text": "Finally, we can simplify and factor: $$\\left(x-3\\right)^2=22$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -40,7 +40,7 @@
             "a20771equad15a-h3"
         ],
         "title": "Square Root",
-        "text": "We now take the square root of both sides: $$(x-(3))=\\left(+plusminus\\right)+\\sqrt{22}$$.",
+        "text": "We now take the square root of both sides: $$(x-(3))=\\pm \\sqrt{22}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -3,7 +3,7 @@
         "id": "a524aa3PreciseLim13c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Using the precise definition of a limit",
+        "title": "Using the Precise Definition of a Limit",
         "text": "We are trying to prove that for the limit, the function must be closer to epsilon than L for the limit $$\\lim_{x\\toa} f(x)=L)$$. The general form we are proving is $$|f{\\left(x\\right)}-L|<\\epsilon$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,7 +15,7 @@
         "dependencies": [
             "a524aa3PreciseLim13c-h1"
         ],
-        "title": "Determining the function",
+        "title": "Determining the Function",
         "text": "First we need to determine the function, we can do this by simplifying the function inside the limit into $$x+3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

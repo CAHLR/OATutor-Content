@@ -53,7 +53,7 @@
         "dependencies": [
             "ad1b49dc3a-h2"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "Next, calculate $$\\lim_{x\\to0} f(x)$$. What is the value of the limit?",
         "variabilization": {},
         "oer": "",
@@ -63,7 +63,7 @@
                 "id": "ad1b49dc3a-h3-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
+                "title": "Determine the Limit",
                 "text": "$$\\lim_{x\\to0} f(x)=\\lim_{x\\to0} \\fracsin^x\\left(x\\right)}=1$$",
                 "variabilization": {},
                 "oer": "",
@@ -82,7 +82,7 @@
         "dependencies": [
             "ad1b49dc3a-h3"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "Last, compare f(0) and $$\\lim_{x\\to0} f(x)$$. Are they equal to each other?",
         "variabilization": {},
         "oer": "",
@@ -96,7 +96,7 @@
                 "id": "ad1b49dc3a-h4-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
+                "title": "Determine the Limit",
                 "text": "$$f(0)=\\lim_{x\\to0} f(x)=1$$",
                 "variabilization": {},
                 "oer": "",

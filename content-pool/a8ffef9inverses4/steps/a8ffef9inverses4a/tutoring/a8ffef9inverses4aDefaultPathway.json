@@ -39,7 +39,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$y={\\left(x-2\\right)}^2-3$$"
+            "$$y=\\left(x-2\\right)^2-3$$"
         ],
         "dependencies": [
             "a8ffef9inverses4a-h3"
@@ -50,9 +50,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$y={\\left(x-2\\right)}^2-3$$",
-            "$$f(x)={\\left(x-2\\right)}^2-3$$",
-            "$$x={\\left(y-2\\right)}^2-3$$"
+            "$$y=\\left(x-2\\right)^2-3$$",
+            "$$f(x)=\\left(x-2\\right)^2-3$$",
+            "$$x=\\left(y-2\\right)^2-3$$"
         ]
     },
     {
@@ -61,7 +61,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$x={\\left(y-2\\right)}^2-3$$"
+            "$$x=\\left(y-2\\right)^2-3$$"
         ],
         "dependencies": [
             "a8ffef9inverses4a-h4"
@@ -72,9 +72,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$y={\\left(x-2\\right)}^2-3$$",
-            "$$f(x)={\\left(x-2\\right)}^2-3$$",
-            "$$x={\\left(y-2\\right)}^2-3$$"
+            "$$y=\\left(x-2\\right)^2-3$$",
+            "$$f(x)=\\left(x-2\\right)^2-3$$",
+            "$$x=\\left(y-2\\right)^2-3$$"
         ]
     },
     {

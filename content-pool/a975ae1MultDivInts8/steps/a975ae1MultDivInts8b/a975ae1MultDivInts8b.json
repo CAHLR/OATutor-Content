@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Simplify the expression to a single number.",
-    "stepBody": "$$-\\left(2^4\\right)$$",
+    "stepBody": "$$-2^4$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-16$$"

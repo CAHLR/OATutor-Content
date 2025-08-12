@@ -4,7 +4,7 @@
         "$$p^2-26p+169$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(p-13\\right)}^2$$",
+    "stepTitle": "$$\\left(p-13\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

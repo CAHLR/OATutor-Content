@@ -8,5 +8,5 @@
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$ln|x|\\left(+x^{\\left(-1\\right)}\\right)+C$$"
+    "answerLatex": "$$ln|x|+x^{\\left(-1\\right)}+C$$"
 }

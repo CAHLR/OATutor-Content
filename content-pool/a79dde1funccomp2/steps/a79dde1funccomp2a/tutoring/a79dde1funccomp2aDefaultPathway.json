@@ -16,7 +16,7 @@
             "a79dde1funccomp2a-h1"
         ],
         "title": "Substituting $$x$$ in $$3x^2$$",
-        "text": "Replacing $$x$$ within $$3x^2$$ results in $$3{\\left(4x^4\\right)}^2$$.",
+        "text": "Replacing $$x$$ within $$3x^2$$ results in $$3\\left(4x^4\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -40,7 +40,7 @@
             "a79dde1funccomp2a-h3"
         ],
         "title": "Substituting $$x$$ in $$3x^2$$",
-        "text": "Distribute the exponent to each component: $$3\\times4^2 {\\left(x^4\\right)}^2$$.",
+        "text": "Distribute the exponent to each component: $$3\\times4^2 \\left(x^4\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -74,7 +74,7 @@
             "a79dde1funccomp2a-h4"
         ],
         "title": "Substituting $$x$$ in $$3x^2$$",
-        "text": "What is $${\\left(x^4\\right)}^2$$?",
+        "text": "What is $$\\left(x^4\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",

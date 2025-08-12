@@ -4,7 +4,7 @@
         "Zero: $$(-5,0)$$, Domain: R, Range: $$0$$ to $$+\\infty$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the domain, range, and all $$zeros/intercepts$$. f(x)=4|x+5|",
+    "stepTitle": "Find the domain, range, and all zeros or $$x$$ intercepts. f(x)=4|x+5|",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Explicit Formula",
-        "text": "The given formula, $$\\frac{1}{9} {\\left(\\frac{4}{3}\\right)}^k$$, is exponential with a base of $$\\frac{4}{3}$$.",
+        "text": "The given formula, $$\\frac{1}{9} \\left(\\frac{4}{3}\\right)^k$$, is exponential with a base of $$\\frac{4}{3}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

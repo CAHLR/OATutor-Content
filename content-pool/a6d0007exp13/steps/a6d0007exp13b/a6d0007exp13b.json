@@ -4,7 +4,7 @@
         "$$32768t^{15}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(2t\\right)}^{15}$$",
+    "stepTitle": "$$\\left(2t\\right)^{15}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

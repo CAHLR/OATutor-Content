@@ -49,7 +49,7 @@
             "a512f5aexplog10a-h3"
         ],
         "title": "Properties of logarithms",
-        "text": "Recall that $${\\ln(b)}^a$$ $$=$$ $$a \\ln(b)$$.",
+        "text": "Recall that $${\\ln\\left(b\\right)}^a$$ $$=$$ $$a \\ln\\left(b\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

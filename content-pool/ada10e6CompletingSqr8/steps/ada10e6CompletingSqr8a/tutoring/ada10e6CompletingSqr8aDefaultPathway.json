@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(y+5.5\\right)}^2$$"
+            "$$\\left(y+5.5\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr8a-h3"

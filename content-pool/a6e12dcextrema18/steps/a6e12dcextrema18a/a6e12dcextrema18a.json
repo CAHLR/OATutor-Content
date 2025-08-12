@@ -10,9 +10,10 @@
     "variabilization": {},
     "answerLatex": "Absolute maximum: $$x=-3, y=6;$$ Absolute minimum:x=-1<x<1,y=2",
     "choices": [
+        "Absolute maximum: $$x=-1;$$ Absolute minimum: $$x=-1<x<1$$, $$y=2$$",
+        "Absolute maximum: $$x=-3$$, $$y=6;$$ Absolute $$minimum:x=-1<x<1$$, $$y=2$$",
         "Absolute maximum: $$x=-3, y=6;$$ Absolute minimum:x=-1<x<1,y=2",
-        "Absolute maximum: $$x=-3;$$ Absolute minimum:x=x<1,y=2",
-        "Absolute maximum: $$x=-1;$$ Absolute minimum:x=-1<x<1,y=2",
+        "Absolute maximum: $$x=-3;$$ Absolute $$minimum:x=x<1$$, $$y=2$$",
         "None"
     ]
 }

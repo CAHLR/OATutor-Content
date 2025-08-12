@@ -4,7 +4,7 @@
         "Center: $$(1,0)$$, Radius: $$6$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x-1\\right)}^2+y^2=36$$",
+    "stepTitle": "$$\\left(x-1\\right)^2+y^2=36$$",
     "stepBody": "Please select the correct answer.",
     "answerType": "string",
     "variabilization": {},

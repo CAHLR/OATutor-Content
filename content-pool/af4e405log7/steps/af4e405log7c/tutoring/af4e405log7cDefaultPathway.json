@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(\\frac{1}{2}\\right)}^x=\\frac{1}{8}$$"
+            "$$\\left(\\frac{1}{2}\\right)^x=\\frac{1}{8}$$"
         ],
         "dependencies": [
             "af4e405log7c-h1"
@@ -26,10 +26,10 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$${\\left(\\frac{1}{2}\\right)}^x=\\frac{1}{8}$$",
-            "$${\\left(\\frac{1}{8}\\right)}^x=\\frac{1}{2}$$",
+            "$$\\left(\\frac{1}{2}\\right)^x=\\frac{1}{8}$$",
+            "$$\\left(\\frac{1}{8}\\right)^x=\\frac{1}{2}$$",
             "$$x^{\\frac{1}{2}}=\\frac{1}{8}$$",
-            "$${\\left(\\frac{1}{8}\\right)}^{\\frac{1}{2}}=x$$"
+            "$$\\left(\\frac{1}{8}\\right)^{\\frac{1}{2}}=x$$"
         ]
     },
     {
@@ -38,7 +38,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(\\frac{1}{2}\\right)}^3$$"
+            "$$\\left(\\frac{1}{2}\\right)^3$$"
         ],
         "dependencies": [
             "af4e405log7c-h2"
@@ -49,7 +49,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$${\\left(\\frac{1}{2}\\right)}^3$$",
+            "$$\\left(\\frac{1}{2}\\right)^3$$",
             "$$3^{\\frac{1}{2}}$$"
         ]
     },
@@ -65,7 +65,7 @@
             "af4e405log7c-h3"
         ],
         "title": "Solve for $$x$$",
-        "text": "Substituting $${\\left(\\frac{1}{2}\\right)}^3$$ into the exponential equation we found before, we get $${\\left(\\frac{1}{2}\\right)}^x={\\left(\\frac{1}{2}\\right)}^3$$. What is the solution for $$x$$ in this exponential equation?",
+        "text": "Substituting $$\\left(\\frac{1}{2}\\right)^3$$ into the exponential equation we found before, we get $$\\left(\\frac{1}{2}\\right)^x=\\left(\\frac{1}{2}\\right)^3$$. What is the solution for $$x$$ in this exponential equation?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -4,7 +4,7 @@
         "C"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$x=-\\left(y^2\\right)+2y-3$$",
+    "stepTitle": "$$x=-y^2+2y-3$$",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

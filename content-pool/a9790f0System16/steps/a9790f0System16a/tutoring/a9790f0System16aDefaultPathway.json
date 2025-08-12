@@ -32,7 +32,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(x^2\\right)+4=-4$$"
+            "$$-x^2+4=-4$$"
         ],
         "dependencies": [
             "a9790f0System16a-h2"

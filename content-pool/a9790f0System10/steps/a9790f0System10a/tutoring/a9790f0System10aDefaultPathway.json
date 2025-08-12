@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$9x^2+{\\left(3x-3\\right)}^2=9$$"
+            "$$9x^2+\\left(3x-3\\right)^2=9$$"
         ],
         "dependencies": [
             "a9790f0System10a-h1"

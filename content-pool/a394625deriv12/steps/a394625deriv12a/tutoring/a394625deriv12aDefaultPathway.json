@@ -3,7 +3,7 @@
         "id": "a394625deriv12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
+        "title": "Breaking Down the Question",
         "text": "Find the derivative value and that will be the slope",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv12a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of csc(x)",
         "text": "What's the derivative of csc(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv12a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative Value at $$x$$",
         "text": "What's the derivative value at $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -63,7 +63,7 @@
         "dependencies": [
             "a394625deriv12a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Find the Function Value at $$x$$",
         "text": "What's the function value at $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

@@ -4,7 +4,7 @@
         "$$\\frac{q^{24}}{p^{32}}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(p^{-4} q^3\\right)}^8$$",
+    "stepTitle": "$$\\left(p^{-4} q^3\\right)^8$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

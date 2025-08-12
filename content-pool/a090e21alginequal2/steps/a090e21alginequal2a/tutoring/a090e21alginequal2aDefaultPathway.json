@@ -33,7 +33,7 @@
             "a090e21alginequal2a-h2"
         ],
         "title": "Same Base",
-        "text": "Rewrite $$4^{1-2x}$$ with a base of $$2$$. Remember that $${\\left(a^b\\right)}^c=a^{b c}$$.",
+        "text": "Rewrite $$4^{1-2x}$$ with a base of $$2$$. Remember that $$\\left(a^b\\right)^c=a^{b c}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

@@ -45,7 +45,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(x)-\\ln(\\sqrt{y})+\\ln(z^3)$$"
+            "$$\\ln\\left(x\\right)-\\ln\\left(\\sqrt{y}\\right)+\\ln\\left(z^3\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic7a-h4"
@@ -62,7 +62,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(x z^3)-\\ln(\\sqrt{y})$$"
+            "$$\\ln\\left(x z^3\\right)-\\ln\\left(\\sqrt{y}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic7a-h5"
@@ -79,7 +79,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(\\frac{x z^3}{\\sqrt{y}})$$"
+            "$$\\ln\\left(\\frac{x z^3}{\\sqrt{y}}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic7a-h6"

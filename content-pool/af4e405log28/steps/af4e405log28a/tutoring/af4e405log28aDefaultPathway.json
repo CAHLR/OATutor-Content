@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(\\frac{1}{5}\\right)}^y=x$$"
+            "$$\\left(\\frac{1}{5}\\right)^y=x$$"
         ],
         "dependencies": [
             "af4e405log28a-h1"
@@ -26,8 +26,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$${\\left(\\frac{1}{5}\\right)}^y=x$$",
-            "$${\\left(\\frac{1}{5}\\right)}^x=y$$",
+            "$$\\left(\\frac{1}{5}\\right)^y=x$$",
+            "$$\\left(\\frac{1}{5}\\right)^x=y$$",
             "$$x^y=\\frac{1}{5}$$",
             "$$y^{\\frac{1}{5}}=x$$"
         ]
@@ -56,7 +56,7 @@
             "af4e405log28a-h3"
         ],
         "title": "Determining $$x$$ when $$y=0$$",
-        "text": "We know $$x={\\left(\\frac{1}{5}\\right)}^y$$ so what is $$x$$ when $$y=-1$$?",
+        "text": "We know $$x=\\left(\\frac{1}{5}\\right)^y$$ so what is $$x$$ when $$y=-1$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -73,7 +73,7 @@
             "af4e405log28a-h4"
         ],
         "title": "Determining $$x$$ when $$y=0$$",
-        "text": "We know $$x={\\left(\\frac{1}{5}\\right)}^y$$ so what is $$x$$ when $$y=0$$?",
+        "text": "We know $$x=\\left(\\frac{1}{5}\\right)^y$$ so what is $$x$$ when $$y=0$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -90,7 +90,7 @@
             "af4e405log28a-h5"
         ],
         "title": "Determining $$x$$ when $$y=1$$",
-        "text": "We know $$x={\\left(\\frac{1}{5}\\right)}^y$$ so what is $$x$$ when $$y=1$$?",
+        "text": "We know $$x=\\left(\\frac{1}{5}\\right)^y$$ so what is $$x$$ when $$y=1$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -107,7 +107,7 @@
             "af4e405log28a-h6"
         ],
         "title": "Determining $$x$$ when $$y=2$$",
-        "text": "We know $$x={\\left(\\frac{1}{5}\\right)}^y$$ so what is $$x$$ when $$y=2$$?",
+        "text": "We know $$x=\\left(\\frac{1}{5}\\right)^y$$ so what is $$x$$ when $$y=2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -124,7 +124,7 @@
             "af4e405log28a-h7"
         ],
         "title": "Determining $$x$$ when $$y=3$$",
-        "text": "We know $$x={\\left(\\frac{1}{5}\\right)}^y$$ so what is $$x$$ when $$y=3$$?",
+        "text": "We know $$x=\\left(\\frac{1}{5}\\right)^y$$ so what is $$x$$ when $$y=3$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -3,7 +3,7 @@
         "id": "a73ccaalimits18a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Evaluating the limit",
+        "title": "Evaluating the Limit",
         "text": "The first step to evaluate the limit is plug in infinity for $$x$$ in the function.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -27,7 +27,7 @@
         "dependencies": [
             "a73ccaalimits18a-h2"
         ],
-        "title": "What we are really looking at",
+        "title": "Cancel out the Infinities",
         "text": "What we are really looking at in this problem is $$\\frac{4\\infty}{\\infty}$$. We can cancel out infinity and are left with $$4$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

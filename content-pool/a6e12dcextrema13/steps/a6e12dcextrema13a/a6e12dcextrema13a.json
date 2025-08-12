@@ -4,7 +4,7 @@
         "Absolute maximum: $$x=-1, y=4;$$ Absolute $$minimum:x=0, 1, y=0;$$ Local maximum: $$x=0.5, y=0.063$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$y={\\left(x-x^2\\right)}^2$$ over [-1,1]",
+    "stepTitle": "$$y=\\left(x-x^2\\right)^2$$ over [-1,1]",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

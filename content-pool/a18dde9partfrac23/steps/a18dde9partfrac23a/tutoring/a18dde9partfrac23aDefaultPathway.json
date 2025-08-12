@@ -27,7 +27,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$x+3$$, $${\\left(x+3\\right)}^2$$"
+            "$$x+3$$, $$\\left(x+3\\right)^2$$"
         ],
         "dependencies": [
             "a18dde9partfrac23a-h2"
@@ -38,7 +38,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$x+3$$, $${\\left(x+3\\right)}^2$$",
+            "$$x+3$$, $$\\left(x+3\\right)^2$$",
             "$$(x-3),(x-3)2**$$",
             "$$x\\left(x+3\\right)$$"
         ]

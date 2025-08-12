@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Square Root",
-        "text": "$${\\left(4n\\right)}^2=16n^2$$",
+        "text": "$$\\left(4n\\right)^2=16n^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -116,21 +116,6 @@
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
-            },
-            {
-                "id": "ad0aaf6linear6a-h4-s3",
-                "type": "scaffold",
-                "problemType": "TextBox",
-                "answerType": "arithmetic",
-                "hintAnswer": [
-                    "$$15$$"
-                ],
-                "dependencies": [],
-                "title": "Simplification of the Equation",
-                "text": "$$y$$ $$=$$ $$9$$ + $$6$$. What is f(x)?",
-                "variabilization": {},
-                "oer": "https://OATutor.io <OATutor>",
-                "license": ""
             }
         ]
     },
@@ -180,21 +165,6 @@
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
-            },
-            {
-                "id": "ad0aaf6linear6a-h5-s3",
-                "type": "scaffold",
-                "problemType": "TextBox",
-                "answerType": "arithmetic",
-                "hintAnswer": [
-                    "$$15.81$$"
-                ],
-                "dependencies": [],
-                "title": "Simplification of the Equation",
-                "text": "$$y$$ $$=$$ $$9.61$$ + $$6.2$$. What is $$f{\\left(x_1\\right)}$$?",
-                "variabilization": {},
-                "oer": "https://OATutor.io <OATutor>",
-                "license": ""
             }
         ]
     },
@@ -210,7 +180,7 @@
             "ad0aaf6linear6a-h4",
             "ad0aaf6linear6a-h5"
         ],
-        "title": "Putting it Together",
+        "title": "Putting It Together",
         "text": "Now that we know that f(x) $$=$$ $$15$$ and $$f{\\left(x_1\\right)}$$ $$=$$ $$15.81$$, what is \u0394y?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

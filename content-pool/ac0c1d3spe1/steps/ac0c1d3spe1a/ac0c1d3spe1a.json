@@ -4,7 +4,7 @@
         "$$x^2+10x+25$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(x+5\\right)}^2$$",
+    "stepTitle": "$$\\left(x+5\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

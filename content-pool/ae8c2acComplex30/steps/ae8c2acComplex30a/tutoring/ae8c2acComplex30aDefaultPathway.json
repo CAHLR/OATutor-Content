@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(i^4\\right)}^{23} i^0$$"
+            "$$\\left(i^4\\right)^{23} i^0$$"
         ],
         "dependencies": [
             "ae8c2acComplex30a-h1"
         ],
         "title": "Factoring Rules",
-        "text": "Divide $$86$$ by $$4$$ and rewrite $$i^{86}$$ in the $$i^n={\\left(i^4\\right)}^q i^r$$ form.",
+        "text": "Divide $$86$$ by $$4$$ and rewrite $$i^{86}$$ in the $$i^n=\\left(i^4\\right)^q i^r$$ form.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

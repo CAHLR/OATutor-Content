@@ -74,7 +74,7 @@
             "a9f55eblinearmodels18a-h5"
         ],
         "title": "Using the Pythagorean Theorem",
-        "text": "$$\\sqrt{{\\left(\\frac{50}{13}\\right)}^2+{\\left(\\frac{10}{13}\\right)}^2}=$$?",
+        "text": "$$\\sqrt{\\left(\\frac{50}{13}\\right)^2+\\left(\\frac{10}{13}\\right)^2}=$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

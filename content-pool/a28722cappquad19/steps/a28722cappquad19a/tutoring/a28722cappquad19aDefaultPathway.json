@@ -28,7 +28,7 @@
             "a28722cappquad19a-h2"
         ],
         "title": "Translate into an equation.",
-        "text": "We can use the Pythagorean Theorem to solve for s: $$s^2$$ $$+s^2$$ $$=$$ $${\\left(s+3\\right)}^2$$",
+        "text": "We can use the Pythagorean Theorem to solve for s: $$s^2$$ $$+s^2$$ $$=$$ $$\\left(s+3\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

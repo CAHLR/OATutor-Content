@@ -4,7 +4,7 @@
         "$$4+25m+20\\sqrt{m}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(2+5\\sqrt{m}\\right)}^2$$",
+    "stepTitle": "$$\\left(2+5\\sqrt{m}\\right)^2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

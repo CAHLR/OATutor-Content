@@ -4,7 +4,7 @@
         "Absolute maximum: $$x=1, y=\\sqrt{8}$$ Absolute $$minimum:x=9, y=0$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$y={\\left(9-x\\right)}^{\\frac{1}{2}}$$ over [1,9]",
+    "stepTitle": "$$y=\\left(9-x\\right)^{\\frac{1}{2}}$$ over [1,9]",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -48,7 +48,7 @@
             "a10b60arealnumbers9b-h3"
         ],
         "title": "Rewriting the Expression in the Root",
-        "text": "What is $${\\left(a^2\\right)}^4$$ equivalent to?",
+        "text": "What is $$\\left(a^2\\right)^4$$ equivalent to?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

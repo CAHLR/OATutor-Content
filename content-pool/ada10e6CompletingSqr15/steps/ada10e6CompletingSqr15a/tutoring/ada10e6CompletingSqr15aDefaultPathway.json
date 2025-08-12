@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(m-12\\right)}^2$$"
+            "$$\\left(m-12\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr15a-h3"

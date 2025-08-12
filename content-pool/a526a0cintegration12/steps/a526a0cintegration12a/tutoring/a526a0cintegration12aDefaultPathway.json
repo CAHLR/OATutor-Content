@@ -87,7 +87,7 @@
             "a526a0cintegration12a-h5"
         ],
         "title": "Evaluate",
-        "text": "$$\\frac{12{\\left(2s\\right)}^2}{2}-\\frac{12s^2}{2}=18s^2$$",
+        "text": "$$\\frac{12\\left(2s\\right)^2}{2}-\\frac{12s^2}{2}=18s^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

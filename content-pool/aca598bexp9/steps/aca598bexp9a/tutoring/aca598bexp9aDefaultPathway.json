@@ -16,7 +16,7 @@
             "aca598bexp9a-h1"
         ],
         "title": "LHS",
-        "text": "$$b*(\\log_{c}\\left(a\\right))=\\log_{c}\\left(a^b\\right)$$, so $$\\log_{7}\\left(49\\right)+3*(\\log_{7}\\left(x-1\\right))-\\log_{7}\\left(x^3-3x-10\\right)=\\log_{7}\\left(49\\right)+\\log_{7}\\left({\\left(x-1\\right)}^3\\right)-\\log_{7}\\left(x^3-3x-10\\right)$$",
+        "text": "$$b*(\\log_{c}\\left(a\\right))=\\log_{c}\\left(a^b\\right)$$, so $$\\log_{7}\\left(49\\right)+3*(\\log_{7}\\left(x-1\\right))-\\log_{7}\\left(x^3-3x-10\\right)=\\log_{7}\\left(49\\right)+\\log_{7}\\left(\\left(x-1\\right)^3\\right)-\\log_{7}\\left(x^3-3x-10\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -28,7 +28,7 @@
             "aca598bexp9a-h2"
         ],
         "title": "LHS",
-        "text": "Since $$\\log_{c}\\left(a b\\right)=\\log_{c}\\left(a\\right)+\\log_{c}\\left(b\\right)$$ and $$\\log_{c}\\left(\\frac{a}{b}\\right)=\\log_{c}\\left(a\\right)-\\log_{c}\\left(b\\right)$$, so $$\\log_{7}\\left(49\\right)+\\log_{7}\\left({\\left(x-1\\right)}^3\\right)-\\log_{7}\\left(x^3-3x-10\\right)=\\log_{7}\\left(\\frac{49{\\left(x-1\\right)}^3}{x^3-3x-10}\\right)$$",
+        "text": "Since $$\\log_{c}\\left(a b\\right)=\\log_{c}\\left(a\\right)+\\log_{c}\\left(b\\right)$$ and $$\\log_{c}\\left(\\frac{a}{b}\\right)=\\log_{c}\\left(a\\right)-\\log_{c}\\left(b\\right)$$, so $$\\log_{7}\\left(49\\right)+\\log_{7}\\left(\\left(x-1\\right)^3\\right)-\\log_{7}\\left(x^3-3x-10\\right)=\\log_{7}\\left(\\frac{49\\left(x-1\\right)^3}{x^3-3x-10}\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -52,7 +52,7 @@
             "aca598bexp9a-h4"
         ],
         "title": "Simplification",
-        "text": "$$\\log_{7}\\left(\\frac{49{\\left(x-1\\right)}^3}{x^3-3x-10}\\right)=2$$ is equivalent to $$\\frac{49{\\left(x-1\\right)}^3}{x^3-3x-10}=7^2=49$$",
+        "text": "$$\\log_{7}\\left(\\frac{49\\left(x-1\\right)^3}{x^3-3x-10}\\right)=2$$ is equivalent to $$\\frac{49\\left(x-1\\right)^3}{x^3-3x-10}=7^2=49$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -64,7 +64,7 @@
             "aca598bexp9a-h5"
         ],
         "title": "Simplification",
-        "text": "Divide by $$49$$ on both sides, we get $$\\frac{{\\left(x-1\\right)}^3}{x^3-3x-10}=1$$",
+        "text": "Divide by $$49$$ on both sides, we get $$\\frac{\\left(x-1\\right)^3}{x^3-3x-10}=1$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -75,19 +75,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(x-1\\right)}^3=x^3-3x-10$$"
+            "$$\\left(x-1\\right)^3=x^3-3x-10$$"
         ],
         "dependencies": [
             "aca598bexp9a-h6"
         ],
         "title": "Simplification",
-        "text": "Since we've showed $$x^3-3x-10>0$$, which one is equivalent to $$\\frac{{\\left(x-1\\right)}^3}{x^3-3x-10}=1$$?",
+        "text": "Since we've showed $$x^3-3x-10>0$$, which one is equivalent to $$\\frac{\\left(x-1\\right)^3}{x^3-3x-10}=1$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
         "choices": [
-            "$${\\left(x-1\\right)}^3=x^3-3x-10$$",
-            "$$-\\left({\\left(x-1\\right)}^3\\right)=x^3-3x-10$$"
+            "$$\\left(x-1\\right)^3=x^3-3x-10$$",
+            "$$-\\left(x-1\\right)^3=x^3-3x-10$$"
         ]
     },
     {
@@ -102,7 +102,7 @@
             "aca598bexp9a-h7"
         ],
         "title": "Simplification",
-        "text": "Which one is equivalent to $${\\left(x-1\\right)}^3$$?",
+        "text": "Which one is equivalent to $$\\left(x-1\\right)^3$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",

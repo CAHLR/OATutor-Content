@@ -76,7 +76,7 @@
             "aca598bexp2a-h4"
         ],
         "title": "Simplification",
-        "text": "Is $$9^{x^2}$$ equivalent to $${\\left(3^2\\right)}^{x^2}$$?",
+        "text": "Is $$9^{x^2}$$ equivalent to $$\\left(3^2\\right)^{x^2}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -97,7 +97,7 @@
             "aca598bexp2a-h5"
         ],
         "title": "Simplification",
-        "text": "Is $${\\left(3^2\\right)}^{x^2}$$ equivalent to $$3^{2x^2}$$?",
+        "text": "Is $$\\left(3^2\\right)^{x^2}$$ equivalent to $$3^{2x^2}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -111,7 +111,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Simplification",
-                "text": "Note $${\\left(a^b\\right)}^c=a^{b c}$$",
+                "text": "Note $$\\left(a^b\\right)^c=a^{b c}$$",
                 "variabilization": {},
                 "oer": "https://OATutor.io",
                 "license": ""

@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(p^2\\right)$$"
+            "$$-p^2$$"
         ],
         "dependencies": [
             "a012999exa29a-h1"

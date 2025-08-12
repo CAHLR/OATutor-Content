@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(z+4\\right)}^2$$"
+            "$$\\left(z+4\\right)^2$$"
         ],
         "dependencies": [
             "a985d52Square2a-h3"

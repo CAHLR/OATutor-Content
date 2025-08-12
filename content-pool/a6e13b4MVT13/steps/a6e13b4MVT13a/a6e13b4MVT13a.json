@@ -4,7 +4,7 @@
         "Yes"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\ln(x+1)$$",
+    "stepTitle": "$$\\ln\\left(x+1\\right)$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

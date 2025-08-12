@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(y^2\\right)$$"
+            "$$-y^2$$"
         ],
         "dependencies": [
             "a012999exa27a-h1"

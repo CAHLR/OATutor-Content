@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula",
-        "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
+        "text": "$$\\left(a+b\\right)^2$$ $$=$$ $$a^2+2ab+b^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -205,7 +205,7 @@
             "ada10e6CompletingSqr26a-h13"
         ],
         "title": "Simplifying",
-        "text": "It can be simplified to $${\\left(x+2\\right)}^2=-21$$",
+        "text": "It can be simplified to $$\\left(x+2\\right)^2=-21$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

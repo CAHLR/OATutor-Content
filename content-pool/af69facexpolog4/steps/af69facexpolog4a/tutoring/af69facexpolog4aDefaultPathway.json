@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(0.5)}{50}$$"
+            "$$\\frac{\\ln\\left(0.5\\right)}{50}$$"
         ],
         "dependencies": [
             "af69facexpolog4a-h2"
@@ -57,7 +57,7 @@
             "af69facexpolog4a-h4"
         ],
         "title": "Substitute Known Values",
-        "text": "Substitute $$1$$ as A, $$200$$ as $$A_0$$, and k as $$\\frac{\\ln(0.5)}{50}$$",
+        "text": "Substitute $$1$$ as A, $$200$$ as $$A_0$$, and k as $$\\frac{\\ln\\left(0.5\\right)}{50}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

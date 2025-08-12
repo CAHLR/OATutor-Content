@@ -1,12 +1,12 @@
 {
     "id": "a3b7d40expgraph15a",
     "stepAnswer": [
-        "$$g(x)=$$ $$-\\left({10}^x\\right)+7$$"
+        "$$g(x)=$$ $$-{10}^x+7$$"
     ],
     "problemType": "TextBox",
     "stepTitle": "",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$g(x)=$$ $$-\\left({10}^x\\right)+7$$"
+    "answerLatex": "$$g(x)=$$ $$-{10}^x+7$$"
 }

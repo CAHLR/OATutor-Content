@@ -3,7 +3,7 @@
         "id": "a524aa3PreciseLim10a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Translating the limit",
+        "title": "Translating the Limit",
         "text": "Based on the precise definition of a limit, then if we use the information from the limit we get If $$0<|x-3|<\\delta$$, then $$|f{\\left(x\\right)}-2|<\\epsilon$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,7 +15,7 @@
         "dependencies": [
             "a524aa3PreciseLim10a-h1"
         ],
-        "title": "Using the precise definition of a limit",
+        "title": "Using the Precise Definition of a Limit",
         "text": "The precise definition of a limit tells us that if $$x$$ is closer than delta to $$3$$ and $$x$$ is not equal to $$3$$, then f(x) is closer to than epsilon to $$2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

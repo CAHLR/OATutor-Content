@@ -1,12 +1,12 @@
 {
     "id": "aeae96dlogarithmic1a",
     "stepAnswer": [
-        "$$\\ln(3)+\\ln(a)+\\ln(b)+\\ln(5)+\\ln(c)$$"
+        "$$\\ln\\left(3\\right)+\\ln\\left(a\\right)+\\ln\\left(b\\right)+\\ln\\left(5\\right)+\\ln\\left(c\\right)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\ln(3a b 5c)$$",
+    "stepTitle": "$$\\ln\\left(3a b 5c\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$\\ln(3)+\\ln(a)+\\ln(b)+\\ln(5)+\\ln(c)$$"
+    "answerLatex": "$$\\ln\\left(3\\right)+\\ln\\left(a\\right)+\\ln\\left(b\\right)+\\ln\\left(5\\right)+\\ln\\left(c\\right)$$"
 }

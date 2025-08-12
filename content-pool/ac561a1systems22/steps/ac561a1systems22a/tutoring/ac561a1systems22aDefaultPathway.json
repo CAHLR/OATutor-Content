@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$y=-\\left(x^2\\right)$$"
+            "$$y=-x^2$$"
         ],
         "dependencies": [
             "ac561a1systems22a-h1"
@@ -26,7 +26,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$y=-\\left(x^2\\right)$$",
+            "$$y=-x^2$$",
             "$$y=x^2$$",
             "$$y=2x$$",
             "$$y=-2x$$"
@@ -39,7 +39,7 @@
             "ac561a1systems22a-h1"
         ],
         "title": "Substitute",
-        "text": "Next, plug $$y=-\\left(x^2\\right)$$ into the first equation.",
+        "text": "Next, plug $$y=-x^2$$ into the first equation.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -16,7 +16,7 @@
             "a343428l'hopital3a-h1"
         ],
         "title": "Substitute the limit",
-        "text": "$$\\frac{\\ln(\\infty)}{5} \\infty=\\frac{\\infty}{\\infty}$$",
+        "text": "$$\\frac{\\ln\\left(\\infty\\right)}{5} \\infty=\\frac{\\infty}{\\infty}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

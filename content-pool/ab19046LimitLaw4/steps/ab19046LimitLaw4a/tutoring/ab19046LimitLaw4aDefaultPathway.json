@@ -3,8 +3,8 @@
         "id": "ab19046LimitLaw4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "$${\\left(9x+1\\right)}^2=\\left(9x+1\\right) \\left(9x+1\\right)$$",
+        "title": "Breaking Down the Question",
+        "text": "$$\\left(9x+1\\right)^2=\\left(9x+1\\right) \\left(9x+1\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "ab19046LimitLaw4a-h1"
         ],
-        "title": "Sub-questions",
+        "title": "Calculate the Limit",
         "text": "What's $$\\lim_{x\\to-1} 9x+1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -32,7 +32,7 @@
         "dependencies": [
             "ab19046LimitLaw4a-h2"
         ],
-        "title": "Breaking down the question",
+        "title": "Square the Results",
         "text": "Square your results to get the answer.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

@@ -16,7 +16,7 @@
             "a7b98f9composition24b-h1"
         ],
         "title": "Composition",
-        "text": "We need to plug in f(x), or $$\\sqrt{x}+2$$, for the $$x$$ in the function f: $${\\left(\\sqrt{x}+2\\right)}^2+3$$.",
+        "text": "We need to plug in f(x), or $$\\sqrt{x}+2$$, for the $$x$$ in the function f: $$\\left(\\sqrt{x}+2\\right)^2+3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -28,7 +28,7 @@
             "a7b98f9composition24b-h2"
         ],
         "title": "Exponents",
-        "text": "Based off the Order of Operations, the first step is the exponent: $${\\left(\\sqrt{x}+2\\right)}^2=x+4\\left(\\sqrt{x}\\right)+4$$.",
+        "text": "Based off the Order of Operations, the first step is the exponent: $$\\left(\\sqrt{x}+2\\right)^2=x+4\\left(\\sqrt{x}\\right)+4$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

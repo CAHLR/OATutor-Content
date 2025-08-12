@@ -20,8 +20,8 @@
         "dependencies": [
             "ad16e82class7a-h1"
         ],
-        "title": "Calculate the slope",
-        "text": "What is the slope of this line?",
+        "title": "Calculate the Slope",
+        "text": "What is the slope of this line? Enter the answer as a fraction.",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -30,7 +30,7 @@
                 "id": "ad16e82class7a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Calculate the slope",
+                "title": "How to Calculate the Slope",
                 "text": "$$m=\\frac{9-5}{1+8}=\\frac{4}{9}$$",
                 "variabilization": {},
                 "oer": "",

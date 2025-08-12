@@ -28,7 +28,7 @@
             "ada10e6CompletingSqr29a-h2"
         ],
         "title": "Formula",
-        "text": "$${\\left(a+b\\right)}^2$$ $$=$$ $$a^2+2ab+b^2$$",
+        "text": "$$\\left(a+b\\right)^2$$ $$=$$ $$a^2+2ab+b^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -159,7 +159,7 @@
             "ada10e6CompletingSqr29a-h10"
         ],
         "title": "Squaring",
-        "text": "What is $${\\left(\\frac{3}{4}\\right)}^2$$?",
+        "text": "What is $$\\left(\\frac{3}{4}\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -229,7 +229,7 @@
             "ada10e6CompletingSqr29a-h15"
         ],
         "title": "Simplifying",
-        "text": "It can be simplified to $${\\left(x-\\frac{3}{4}\\right)}^2=\\frac{169}{16}$$",
+        "text": "It can be simplified to $$\\left(x-\\frac{3}{4}\\right)^2=\\frac{169}{16}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

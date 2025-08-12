@@ -62,7 +62,7 @@
             "a9cf449complex22a-h4"
         ],
         "title": "Writing Expressions",
-        "text": "Rewrite the expression as $${\\left(i^4\\right)}^5 i^2$$.",
+        "text": "Rewrite the expression as $$\\left(i^4\\right)^5 i^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

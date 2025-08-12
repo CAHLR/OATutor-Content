@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$(6x-7)$$, $${\\left(6x-7\\right)}^2$$"
+            "$$(6x-7)$$, $$\\left(6x-7\\right)^2$$"
         ],
         "dependencies": [
             "a18dde9partfrac22a-h1"
@@ -26,7 +26,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$(6x-7)$$, $${\\left(6x-7\\right)}^2$$",
+            "$$(6x-7)$$, $$\\left(6x-7\\right)^2$$",
             "$$(6x-7)$$, $$6x+7$$",
             "$$6x$$, $$-7$$"
         ]

@@ -4,7 +4,7 @@
         "$$y^{3x}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(y^3\\right)}^x$$",
+    "stepTitle": "$$\\left(y^3\\right)^x$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

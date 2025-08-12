@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(n-8\\right)}^2$$"
+            "$$\\left(n-8\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr4a-h3"

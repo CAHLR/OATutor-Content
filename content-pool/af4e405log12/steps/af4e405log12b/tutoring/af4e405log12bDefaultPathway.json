@@ -67,7 +67,7 @@
             "af4e405log12b-h3"
         ],
         "title": "Solve for $$x$$",
-        "text": "Substitution $$2^3$$ into the exponential equation we found before, we get $${\\left(2^3\\right)}^x=2^1$$. We can simplify this into $$2^{3x}=2^1$$. What is $$x$$?",
+        "text": "Substitution $$2^3$$ into the exponential equation we found before, we get $$\\left(2^3\\right)^x=2^1$$. We can simplify this into $$2^{3x}=2^1$$. What is $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

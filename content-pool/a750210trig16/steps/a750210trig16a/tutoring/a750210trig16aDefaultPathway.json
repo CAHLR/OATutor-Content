@@ -15,7 +15,7 @@
         "dependencies": [
             "a750210trig16a-h1"
         ],
-        "title": "Half angle formula",
+        "title": "Half Angle Formula",
         "text": "Since $$\\frac{5\\pi}{12}$$ is not a common angle on the unit circle, we need to use the half angle formula. The half angle formula is $$cos\\left(\\frac{x}{2}\\right)$$ $$=$$ $$\\pm \\sqrt{\\frac{1+cosx}{2}}$$. Note that if $$\\frac{x}{2}$$ $$=$$ $$\\frac{5\\pi}{12}$$, then $$x=\\frac{5\\pi}{6}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

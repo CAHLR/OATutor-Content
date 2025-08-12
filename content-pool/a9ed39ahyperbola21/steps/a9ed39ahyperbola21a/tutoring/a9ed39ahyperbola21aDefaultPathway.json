@@ -40,7 +40,7 @@
             "a9ed39ahyperbola21a-h3"
         ],
         "title": "Rewrite and Divide",
-        "text": "Rewrite as perfect squares and divide both sides by constants so that it's in standard form $$\\frac{{\\left(x-1\\right)}^2}{4^2}-\\frac{{\\left(y-1\\right)}^2}{3^2}=1$$",
+        "text": "Rewrite as perfect squares and divide both sides by constants so that it's in standard form $$\\frac{\\left(x-1\\right)^2}{4^2}-\\frac{\\left(y-1\\right)^2}{3^2}=1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

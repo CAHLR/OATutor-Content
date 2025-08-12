@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(q+0.375\\right)}^2$$"
+            "$$\\left(q+0.375\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr10a-h3"

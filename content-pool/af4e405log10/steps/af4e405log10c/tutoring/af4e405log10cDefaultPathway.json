@@ -27,7 +27,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$2^x=\\frac{1}{16}$$",
-            "$${\\left(\\frac{1}{16}\\right)}^x=2$$",
+            "$$\\left(\\frac{1}{16}\\right)^x=2$$",
             "$$x^2=\\frac{1}{16}$$",
             "$$x^{\\frac{1}{16}}=2$$"
         ]
@@ -38,7 +38,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(\\frac{1}{2}\\right)}^4$$"
+            "$$\\left(\\frac{1}{2}\\right)^4$$"
         ],
         "dependencies": [
             "af4e405log10c-h2"
@@ -49,7 +49,7 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$${\\left(\\frac{1}{2}\\right)}^4$$",
+            "$$\\left(\\frac{1}{2}\\right)^4$$",
             "$$4^{\\frac{1}{2}}$$"
         ]
     },
@@ -65,7 +65,7 @@
             "af4e405log10c-h3"
         ],
         "title": "Simplifying the Exponential",
-        "text": "We note that $${\\left(\\frac{1}{x}\\right)}^y=x^{\\left(-y\\right)}$$. How can we rewrite $$\\frac{1}{16}={\\left(\\frac{1}{2}\\right)}^4$$ in terms of powers of 2?",
+        "text": "We note that $$\\left(\\frac{1}{x}\\right)^y=x^{\\left(-y\\right)}$$. How can we rewrite $$\\frac{1}{16}=\\left(\\frac{1}{2}\\right)^4$$ in terms of powers of 2?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

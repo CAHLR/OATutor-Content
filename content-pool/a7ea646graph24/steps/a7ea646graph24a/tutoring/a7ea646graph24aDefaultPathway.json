@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(3x-1\\right)}^2$$"
+            "$$\\left(3x-1\\right)^2$$"
         ],
         "dependencies": [],
         "title": "Factoring Expressions",

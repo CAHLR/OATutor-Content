@@ -3,7 +3,7 @@
         "id": "a394625deriv1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
+        "title": "Breaking Down the Question",
         "text": "We can separate the functions into $$x^2$$ $$-sec(x)$$ and $$1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv1a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of $$x^2$$",
         "text": "What's the derivative of $$x^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv1a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Find the Derivative of sec(x)",
         "text": "What's the derivative of sec(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv1a-h3"
         ],
-        "title": "Adding up derivatives",
-        "text": "Add all the derivatives and get the final answer.(Derivatives of constants are 0)",
+        "title": "Adding Up Derivatives",
+        "text": "Add all the derivatives and get the final answer. (Derivatives of constants are 0)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$x^2+{\\left(10-2x\\right)}^2=25$$"
+            "$$x^2+\\left(10-2x\\right)^2=25$$"
         ],
         "dependencies": [
             "a9790f0System29a-h1"

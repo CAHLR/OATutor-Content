@@ -4,7 +4,7 @@
         "$$36$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate $${\\left(x+y\\right)}^2$$ when $$x=-18$$ and $$y=24$$.",
+    "stepTitle": "Evaluate $$\\left(x+y\\right)^2$$ when $$x=-18$$ and $$y=24$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

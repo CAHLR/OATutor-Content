@@ -28,7 +28,7 @@
             "a7dc5fftransformation7a-h2"
         ],
         "title": "How to Find $$g(-x)$$",
-        "text": "Find $$g(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when $$n$$ is an even, and $${\\left(-x\\right)}^n=-\\left(x^n\\right)$$ when $$n$$ is odd.",
+        "text": "Find $$g(-x)$$ by subsituting $$-x$$ in wherever $$x$$ appears in the original equation. $${\\left(-x\\right)}^n=x^n$$ when $$n$$ is an even, and $${\\left(-x\\right)}^n=-x^n$$ when $$n$$ is odd.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

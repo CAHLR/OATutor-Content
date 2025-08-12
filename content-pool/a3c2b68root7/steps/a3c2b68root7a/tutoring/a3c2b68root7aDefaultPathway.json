@@ -26,7 +26,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiplying Each Root",
-        "text": "$${\\left(3\\sqrt{6}\\right)}^2=9\\sqrt{36}$$",
+        "text": "$$\\left(3\\sqrt{6}\\right)^2=9\\sqrt{36}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

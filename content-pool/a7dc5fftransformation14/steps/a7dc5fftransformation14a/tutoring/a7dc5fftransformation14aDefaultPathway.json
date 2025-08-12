@@ -62,7 +62,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}{9} {\\left(x-4\\right)}^2$$"
+            "$$\\frac{1}{9} \\left(x-4\\right)^2$$"
         ],
         "dependencies": [
             "a7dc5fftransformation14a-h4"
@@ -73,8 +73,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$\\frac{1}{9} {\\left(x+4\\right)}^2$$",
-            "$$\\frac{1}{9} {\\left(x-4\\right)}^2$$"
+            "$$\\frac{1}{9} \\left(x+4\\right)^2$$",
+            "$$\\frac{1}{9} \\left(x-4\\right)^2$$"
         ]
     },
     {
@@ -95,7 +95,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}{9} {\\left(x-4\\right)}^2-3$$"
+            "$$\\frac{1}{9} \\left(x-4\\right)^2-3$$"
         ],
         "dependencies": [
             "a7dc5fftransformation14a-h6"
@@ -106,8 +106,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$\\frac{1}{9} {\\left(x-4\\right)}^2-3$$",
-            "$$\\frac{1}{9} {\\left(x-4\\right)}^2+3$$"
+            "$$\\frac{1}{9} \\left(x-4\\right)^2-3$$",
+            "$$\\frac{1}{9} \\left(x-4\\right)^2+3$$"
         ]
     }
 ]

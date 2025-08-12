@@ -4,7 +4,7 @@
         "$${10}^t=v$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\ln(v)=t$$",
+    "stepTitle": "$$\\ln\\left(v\\right)=t$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

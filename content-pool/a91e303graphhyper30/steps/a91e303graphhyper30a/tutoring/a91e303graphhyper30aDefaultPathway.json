@@ -40,7 +40,7 @@
             "a91e303graphhyper30a-h3"
         ],
         "title": "Completing the Square",
-        "text": "After completing the square, we have the equation, $$9{\\left(x+1\\right)}^2-16{\\left(y-2\\right)}^2=144$$",
+        "text": "After completing the square, we have the equation, $$9\\left(x+1\\right)^2-16\\left(y-2\\right)^2=144$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

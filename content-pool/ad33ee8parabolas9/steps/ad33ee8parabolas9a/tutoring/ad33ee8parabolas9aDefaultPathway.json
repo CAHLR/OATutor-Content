@@ -28,7 +28,7 @@
             "ad33ee8parabolas9a-h2"
         ],
         "title": "Completing the Square",
-        "text": "After we find a, our equation now looks like, $$a \\left(x^2+\\frac{b}{a} x\\right)+c$$. We must complete the square by adding $${\\left(\\frac{\\frac{b}{a}}{2}\\right)}^2$$ into the parenthesis.",
+        "text": "After we find a, our equation now looks like, $$a \\left(x^2+\\frac{b}{a} x\\right)+c$$. We must complete the square by adding $$\\left(\\frac{\\frac{b}{a}}{2}\\right)^2$$ into the parenthesis.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

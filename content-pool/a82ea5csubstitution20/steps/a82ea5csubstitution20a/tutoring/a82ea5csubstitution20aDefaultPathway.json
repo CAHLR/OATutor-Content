@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Estimate the Coefficients",
-        "text": "The graph is a function of the form $$f(x)=\\arccos(nt)+\\operatorname{bcos}\\left(mt\\right)$$. Take a look at the graph and note the frequencies. Note the frequency parameters are $$n$$ and $$m$$.",
+        "text": "The graph is a function of the form $$f(x)=\\arccos\\left(nt\\right)+\\operatorname{bcos}\\left(mt\\right)$$. Take a look at the graph and note the frequencies. Note the frequency parameters are $$n$$ and $$m$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a82ea5csubstitution20a-h1"
         ],
-        "title": "Estimate the Coefficients",
+        "title": "Selected the Estimate of Coefficients",
         "text": "2cos",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -70,7 +70,7 @@
                     "$$0$$"
                 ],
                 "dependencies": [],
-                "title": "Approximate the Integral",
+                "title": "Approximating the Result",
                 "text": "What is $$0-0$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",

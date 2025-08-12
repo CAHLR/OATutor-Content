@@ -50,7 +50,7 @@
             "a9cf449complex21a-h3"
         ],
         "title": "Writing Expressions",
-        "text": "$$i^8$$ can be rewritten as $${\\left(i^4\\right)}^2$$.",
+        "text": "$$i^8$$ can be rewritten as $$\\left(i^4\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -79,7 +79,7 @@
             "a9cf449complex21a-h5"
         ],
         "title": "Evaluating $$i^4$$",
-        "text": "$$I^4$$ can be rewritten as $${\\left(i^2\\right)}^2$$",
+        "text": "$$I^4$$ can be rewritten as $$\\left(i^2\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

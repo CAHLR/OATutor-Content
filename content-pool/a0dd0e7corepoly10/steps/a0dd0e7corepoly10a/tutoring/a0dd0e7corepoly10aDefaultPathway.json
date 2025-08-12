@@ -45,7 +45,7 @@
             "a0dd0e7corepoly10a-h3"
         ],
         "title": "Completing the Square",
-        "text": "To find the value to add to $$f(x)=a \\left(x^2+b x\\right)+c$$, you must add $${\\left(\\frac{b}{2}\\right)}^2$$ within the parantheses. To do so, you must multiply the result by a.",
+        "text": "To find the value to add to $$f(x)=a \\left(x^2+b x\\right)+c$$, you must add $$\\left(\\frac{b}{2}\\right)^2$$ within the parantheses. To do so, you must multiply the result by a.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -62,7 +62,7 @@
             "a0dd0e7corepoly10a-h4"
         ],
         "title": "Completing the Square",
-        "text": "What is $${\\left(\\frac{2}{2}\\right)}^2$$?",
+        "text": "What is $$\\left(\\frac{2}{2}\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -132,7 +132,7 @@
             "a0dd0e7corepoly10a-h9"
         ],
         "title": "Completing the Square",
-        "text": "For some quadratic $$f(x)=x^2+2b x+b^2$$, it can be simplified to $${\\left(x+b\\right)}^2$$.",
+        "text": "For some quadratic $$f(x)=x^2+2b x+b^2$$, it can be simplified to $$\\left(x+b\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -143,7 +143,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$${\\left(x-1\\right)}^2$$"
+            "$$\\left(x-1\\right)^2$$"
         ],
         "dependencies": [
             "a0dd0e7corepoly10a-h10"
@@ -154,10 +154,10 @@
         "oer": "https://OATutor.io",
         "license": "",
         "choices": [
-            "$${\\left(x-1\\right)}^2$$",
-            "$${\\left(x+1\\right)}^2$$",
-            "$${\\left(x-2\\right)}^2$$",
-            "$${\\left(x+2\\right)}^2$$"
+            "$$\\left(x-1\\right)^2$$",
+            "$$\\left(x+1\\right)^2$$",
+            "$$\\left(x-2\\right)^2$$",
+            "$$\\left(x+2\\right)^2$$"
         ]
     },
     {
@@ -167,7 +167,7 @@
             "a0dd0e7corepoly10a-h11"
         ],
         "title": "Finding the Range",
-        "text": "The range of the function $$f(x)=-3{\\left(x-1\\right)}^2+10$$ can be found by breaking the function into parts.",
+        "text": "The range of the function $$f(x)=-3\\left(x-1\\right)^2+10$$ can be found by breaking the function into parts.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -184,7 +184,7 @@
             "a0dd0e7corepoly10a-h12"
         ],
         "title": "Finding the Range",
-        "text": "What is the range of $${\\left(x-1\\right)}^2$$?",
+        "text": "What is the range of $$\\left(x-1\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -199,8 +199,8 @@
                 "id": "a0dd0e7corepoly10a-h13-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Range of $${\\left(x+a\\right)}^2$$",
-                "text": "The range of $${\\left(x+a\\right)}^2$$ will be $$[0,\\infty)$$. a will only shift the equation left and right, changing the domain but not the range.",
+                "title": "Range of $$\\left(x+a\\right)^2$$",
+                "text": "The range of $$\\left(x+a\\right)^2$$ will be $$[0,\\infty)$$. a will only shift the equation left and right, changing the domain but not the range.",
                 "variabilization": {},
                 "oer": "https://OATutor.io",
                 "license": ""
@@ -219,7 +219,7 @@
             "a0dd0e7corepoly10a-h13"
         ],
         "title": "Finding the Range",
-        "text": "What is the range of $$-3{\\left(x-1\\right)}^2$$?",
+        "text": "What is the range of $$-3\\left(x-1\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -254,7 +254,7 @@
             "a0dd0e7corepoly10a-h14"
         ],
         "title": "Finding the Range",
-        "text": "What is the range of $$-3{\\left(x-1\\right)}^2+10$$?",
+        "text": "What is the range of $$-3\\left(x-1\\right)^2+10$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",

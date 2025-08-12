@@ -4,7 +4,7 @@
         "Zero: DNE, Domain: $$(5,\\infty)$$, Range: $$0$$ to $$+\\infty$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the domain, range, and all $$zeros/intercepts$$ for $$f(x)=\\sqrt{\\frac{7}{x-5}}$$.",
+    "stepTitle": "Find the domain, range, and all zeros or $$x$$ intercepts for $$f(x)=\\sqrt{\\frac{7}{x-5}}$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

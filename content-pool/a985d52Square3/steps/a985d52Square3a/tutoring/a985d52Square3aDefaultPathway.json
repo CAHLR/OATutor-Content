@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(a-10\\right)}^2$$"
+            "$$\\left(a-10\\right)^2$$"
         ],
         "dependencies": [
             "a985d52Square3a-h3"

@@ -8,8 +8,8 @@
             "No"
         ],
         "dependencies": [],
-        "title": "One to one",
-        "text": "Is the $$x$$ and $$y$$ one to one?",
+        "title": "One to One Functions",
+        "text": "Is $$x$$ and $$y$$ one to one? Recall that a one to one function is a function in which each input value is mapped to one unique output value.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -24,7 +24,7 @@
         "dependencies": [
             "a15666breview3a-h1"
         ],
-        "title": "One to one",
+        "title": "Understanding One to One Functions",
         "text": "Note that when $$x=1$$, $$y$$ can be $$-3$$ or $$1$$. So $$x$$ and $$y$$ is not one to one.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

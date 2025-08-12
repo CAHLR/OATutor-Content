@@ -4,7 +4,7 @@
         "$$b^{35}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(b^7\\right)}^5$$",
+    "stepTitle": "$$\\left(b^7\\right)^5$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

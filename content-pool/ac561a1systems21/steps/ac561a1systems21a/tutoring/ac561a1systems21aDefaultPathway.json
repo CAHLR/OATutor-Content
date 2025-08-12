@@ -50,7 +50,7 @@
             "ac561a1systems21a-h3"
         ],
         "title": "Expand",
-        "text": "Now, expand the quantity of $${\\left(x-6\\right)}^2$$ and multiply by $$-25$$ to simplify.",
+        "text": "Now, expand the quantity of $$\\left(x-6\\right)^2$$ and multiply by $$-25$$ to simplify.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -67,7 +67,7 @@
             "ac561a1systems21a-h4"
         ],
         "title": "Expand and multiply",
-        "text": "What is your new equation after expanding and multiplying $$-\\left({\\operatorname{25}\\left(x-6\\right)}^2\\right)$$?",
+        "text": "What is your new equation after expanding and multiplying $$-{\\operatorname{25}\\left(x-6\\right)}^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

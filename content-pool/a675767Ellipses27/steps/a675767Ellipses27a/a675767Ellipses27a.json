@@ -4,7 +4,7 @@
         "https://ibb.co/RBh2PKT"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\frac{{\\left(x+3\\right)}^2}{16}+\\frac{{\\left(y+1\\right)}^2}{4}=1$$",
+    "stepTitle": "$$\\frac{\\left(x+3\\right)^2}{16}+\\frac{\\left(y+1\\right)^2}{4}=1$$",
     "stepBody": "Choose the graph that represents the given equation.",
     "answerType": "string",
     "variabilization": {},

@@ -10,7 +10,7 @@
     "variabilization": {},
     "answerLatex": "$$cos\\left(x\\right) cos\\left(x\\right)$$",
     "choices": [
-        "(cos(x)*cos(x)",
+        "$$cos\\left(x\\right) cos\\left(x\\right)$$",
         "$$1$$",
         "$$cos\\left(x\\right) cos\\left(x\\right)$$",
         "sec(x)",

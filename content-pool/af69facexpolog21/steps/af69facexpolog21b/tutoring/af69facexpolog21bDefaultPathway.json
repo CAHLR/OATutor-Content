@@ -39,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{y}{A_0})}{k}$$"
+            "$$\\frac{\\ln\\left(\\frac{y}{A_0}\\right)}{k}$$"
         ],
         "dependencies": [
             "af69facexpolog21b-h3"

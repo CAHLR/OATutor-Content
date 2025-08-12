@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "undefined"
+            "Undefined"
         ],
         "dependencies": [
             "a342e92limit16a-h1"
@@ -26,8 +26,8 @@
         "oer": "",
         "license": "",
         "choices": [
-            "defined",
-            "undefined"
+            "Defined",
+            "Undefined"
         ]
     },
     {

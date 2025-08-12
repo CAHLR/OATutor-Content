@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Model",
-        "text": "We were given that the model is for measuring magnitude of earthquake is $$M=\\frac{2}{3} \\ln(\\frac{S}{S_0})$$. In the model, M is the magnitude of the earthquake, $$S_0$$ is the initial seismic moment that led to the occurence of earthquake. S is the seismic moment associated with an earthquake. If we denote the seismic moment of the first earthquake as $$S_1$$. In the context of the question, since the second earthquake has $$750$$ times as much energy as the first, we can interpret its seismic moment as $$750S_1$$.",
+        "text": "We were given that the model is for measuring magnitude of earthquake is $$M=\\frac{2}{3} \\ln\\left(\\frac{S}{S_0}\\right)$$. In the model, M is the magnitude of the earthquake, $$S_0$$ is the initial seismic moment that led to the occurence of earthquake. S is the seismic moment associated with an earthquake. If we denote the seismic moment of the first earthquake as $$S_1$$. In the context of the question, since the second earthquake has $$750$$ times as much energy as the first, we can interpret its seismic moment as $$750S_1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{2}{3} \\ln(\\frac{750S_1}{S_0})$$"
+            "$$\\frac{2}{3} \\ln\\left(\\frac{750S_1}{S_0}\\right)$$"
         ],
         "dependencies": [
             "af69facexpolog29a-h1"
         ],
         "title": "Logarithmic Model",
-        "text": "Given that the equation for the first earthquake is $$M=\\frac{2}{3} \\ln(\\frac{S_1}{S_0})=3.9$$. What is M equals to for the second earthquake? Express in terms of $$S_1$$ and $$S_0$$.",
+        "text": "Given that the equation for the first earthquake is $$M=\\frac{2}{3} \\ln\\left(\\frac{S_1}{S_0}\\right)=3.9$$. What is M equals to for the second earthquake? Express in terms of $$S_1$$ and $$S_0$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{2}{3} \\ln(\\frac{S_1}{S_0})+\\frac{2}{3} \\ln(750)$$"
+            "$$\\frac{2}{3} \\ln\\left(\\frac{S_1}{S_0}\\right)+\\frac{2}{3} \\ln\\left(750\\right)$$"
         ],
         "dependencies": [
             "af69facexpolog29a-h3"
@@ -61,13 +61,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(M)+\\ln(N)$$"
+            "$$\\ln\\left(M\\right)+\\ln\\left(N\\right)$$"
         ],
         "dependencies": [
             "af69facexpolog29a-h4"
         ],
         "title": "Apply the Product Rule for Logarithms",
-        "text": "What is the expression after applying product rule to $$\\ln(M N)$$? Express in terms of M and N.",
+        "text": "What is the expression after applying product rule to $$\\ln\\left(M N\\right)$$? Express in terms of M and N.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -78,13 +78,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$a \\ln(M)+a \\ln(N)$$"
+            "$$a \\ln\\left(M\\right)+a \\ln\\left(N\\right)$$"
         ],
         "dependencies": [
             "af69facexpolog29a-h5"
         ],
         "title": "Apply the Product Rule for Logarithms",
-        "text": "What is the expression after applying product rule to $$a \\ln(M N)$$? Express in terms of a, M and N. (In our question, what values / variables does a, M and N refer to?)",
+        "text": "What is the expression after applying product rule to $$a \\ln\\left(M N\\right)$$? Express in terms of a, M and N. (In our question, what values / variables does a, M and N refer to?)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -101,7 +101,7 @@
             "af69facexpolog29a-h6"
         ],
         "title": "Simplification",
-        "text": "What is $$\\frac{2}{3} \\ln(750)$$? Round to the nearest hundredth.",
+        "text": "What is $$\\frac{2}{3} \\ln\\left(750\\right)$$? Round to the nearest hundredth.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -113,7 +113,7 @@
             "af69facexpolog29a-h7"
         ],
         "title": "Substitution",
-        "text": "We were previously given in the question that $$M=\\frac{2}{3} \\ln(\\frac{S_1}{S_0})=3.9$$. We can substitute this as well as the simplification that was previously done into $$M=\\frac{2}{3} \\ln(\\frac{S_1}{S_0})+\\frac{2}{3} \\ln(750)$$ to find the magnitude of the second earthquake.",
+        "text": "We were previously given in the question that $$M=\\frac{2}{3} \\ln\\left(\\frac{S_1}{S_0}\\right)=3.9$$. We can substitute this as well as the simplification that was previously done into $$M=\\frac{2}{3} \\ln\\left(\\frac{S_1}{S_0}\\right)+\\frac{2}{3} \\ln\\left(750\\right)$$ to find the magnitude of the second earthquake.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

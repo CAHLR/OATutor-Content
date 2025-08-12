@@ -28,7 +28,7 @@
             "a39b8a0def7a-h2"
         ],
         "title": "Simplify",
-        "text": "Simplify the resulting equation: $${\\left(1+h\\right)}^2+1+h-\\frac{1^2-1}{h}$$",
+        "text": "Simplify the resulting equation: $$\\frac{\\left(1+h\\right)^2+1+h-1^2-1}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

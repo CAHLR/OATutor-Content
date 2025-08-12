@@ -8,7 +8,7 @@
             "$$0$$"
         ],
         "dependencies": [],
-        "title": "Sub-questions",
+        "title": "Plug In $$x=1$$ and Solve for $$x^3-1$$",
         "text": "Plug in the $$x$$ value to the function $$x^3-1$$",
         "variabilization": {},
         "oer": "",
@@ -25,7 +25,7 @@
         "dependencies": [
             "ab19046LimitlLaw18a-h1"
         ],
-        "title": "Sub-questions",
+        "title": "Plug In $$x=1$$ and Solve for $$x^2-1$$",
         "text": "Plug in the $$x$$ value to the function $$x^2-1$$",
         "variabilization": {},
         "oer": "",
@@ -61,7 +61,7 @@
         "dependencies": [
             "ab19046LimitlLaw18a-h4"
         ],
-        "title": "Simplify the whole function",
+        "title": "Simplify the Whole Function",
         "text": "$$\\frac{\\left(x-1\\right) \\left(x^2+x+1\\right)}{\\left(x+1\\right) \\left(x-1\\right)}=\\frac{x^2+x+1}{x+1}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -73,7 +73,7 @@
         "dependencies": [
             "ab19046LimitlLaw18a-h5"
         ],
-        "title": "Plug in $$x$$ values to the new simplified function to get the result",
+        "title": "Plug In $$x=1$$ Values for Result",
         "text": "$$\\frac{1+1+1}{1+1}=\\frac{3}{2}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

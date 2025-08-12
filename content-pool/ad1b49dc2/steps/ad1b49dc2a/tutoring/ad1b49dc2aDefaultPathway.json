@@ -60,7 +60,7 @@
         "dependencies": [
             "ad1b49dc2a-h3"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "Next, we calculate $$\\lim_{x\\to3} f(x)$$. To do this, we must compute $$\\lim_{x\\to3-} f(x)$$ and /lim{x,3+,f(x)}.",
         "variabilization": {},
         "oer": "",
@@ -77,7 +77,7 @@
         "dependencies": [
             "ad1b49dc2a-h4"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of $$\\lim_{x\\to3-} f(x)$$?",
         "variabilization": {},
         "oer": "",
@@ -87,8 +87,8 @@
                 "id": "ad1b49dc2a-h5-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
-                "text": "$$\\lim_{x\\to3-} f(x)=-\\left(3^2\\right)+4=-9+4=-5$$",
+                "title": "Determine the Limit",
+                "text": "$$\\lim_{x\\to3-} f(x)=-3^2+4=-9+4=-5$$",
                 "variabilization": {},
                 "oer": "",
                 "license": ""
@@ -106,7 +106,7 @@
         "dependencies": [
             "ad1b49dc2a-h5"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of /lim{x,3+,f(x)}?",
         "variabilization": {},
         "oer": "",
@@ -116,7 +116,7 @@
                 "id": "ad1b49dc2a-h6-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
+                "title": "Determine the Limit",
                 "text": "/lim{x,3+,f(x)}=4*3-8=4",
                 "variabilization": {},
                 "oer": "",
@@ -135,7 +135,7 @@
         "dependencies": [
             "ad1b49dc2a-h6"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "Does the limit exist?",
         "variabilization": {},
         "oer": "",
@@ -149,7 +149,7 @@
                 "id": "ad1b49dc2a-h7-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
+                "title": "Determine the Limit",
                 "text": "The limit does not exist since $$\\lim_{x\\to3-} f(x)$$ does not equal to /lim{x,3+,f(x)}",
                 "variabilization": {},
                 "oer": "",

@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(a+5\\right)}^2$$"
+            "$$\\left(a+5\\right)^2$$"
         ],
         "dependencies": [
             "ada10e6CompletingSqr1a-h3"

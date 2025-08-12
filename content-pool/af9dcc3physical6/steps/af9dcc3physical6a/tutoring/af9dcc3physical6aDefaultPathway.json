@@ -74,7 +74,7 @@
             "af9dcc3physical6a-h5"
         ],
         "title": "Evaluate",
-        "text": "What is $$\\frac{2}{3} {12}^2$$ ?",
+        "text": "What is $${12}^2\\frac{2}{3}$$ ?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

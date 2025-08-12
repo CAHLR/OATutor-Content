@@ -53,7 +53,7 @@
         "dependencies": [
             "ad1b49dc5a-h2"
         ],
-        "title": "Determine continuity",
+        "title": "Determine Continuity",
         "text": "Therefore, is the function continuous at $$x=-1$$?",
         "variabilization": {},
         "oer": "",
@@ -69,8 +69,8 @@
         "dependencies": [
             "ad1b49dc5a-h3"
         ],
-        "title": "Determine the limit",
-        "text": "To determine the type of discontinuity, we must determine the limit at $$-1$$.",
+        "title": "Determine the Limit",
+        "text": "To determine the type of discontinuity, we must Determine the Limit at $$-1$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -86,7 +86,7 @@
         "dependencies": [
             "ad1b49dc5a-h4"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of $$\\lim_{x\\to-1-} \\frac{x+2}{x+1}$$?",
         "variabilization": {},
         "oer": "",
@@ -108,7 +108,7 @@
         "dependencies": [
             "ad1b49dc5a-h5"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of /lim{x,-1+,(x+2)/(x+1)}?",
         "variabilization": {},
         "oer": "",
@@ -130,7 +130,7 @@
         "dependencies": [
             "ad1b49dc5a-h6"
         ],
-        "title": "Determine the type of discontinuity",
+        "title": "Determine the Type of Discontinuity",
         "text": "What is the type of discontinuity at $$x=-1$$?",
         "variabilization": {},
         "oer": "",

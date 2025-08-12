@@ -86,7 +86,7 @@
             "ad3a8eeSolveMixture5a-h6"
         ],
         "title": "Combining the equations",
-        "text": "Seperate one variable in one of the equations and plug it in the second equation. In this case it would be easier to plug in $$x=115-y$$ into the equation $$5x+12y=1163$$ which would equal $$5(115-y)$$ $$\\left(+12\\right) y=1163$$",
+        "text": "Seperate one variable in one of the equations and plug it in the second equation. In this case it would be easier to plug in $$x=115-y$$ into the equation $$5x+12y=1163$$ which would equal $$5(115-y)$$ $$+12y=1163$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

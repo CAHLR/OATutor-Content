@@ -28,7 +28,7 @@
             "a28722cappquad18a-h2"
         ],
         "title": "Translate into an equation.",
-        "text": "We can use the Pythagorean Theorem to solve for w: $$w^2+{\\left(3w\\right)}^2={\\left(w+5\\right)}^2$$",
+        "text": "We can use the Pythagorean Theorem to solve for w: $$w^2+\\left(3w\\right)^2=\\left(w+5\\right)^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

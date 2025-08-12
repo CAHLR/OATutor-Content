@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(3x\\right)}^2$$"
+            "$$\\left(3x\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring7a-h1"
@@ -32,7 +32,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(4y\\right)}^2$$"
+            "$$\\left(4y\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring7a-h1"
@@ -51,7 +51,7 @@
             "a746c1bFactoring7a-h2"
         ],
         "title": "Formula",
-        "text": "We can rewrite the expression $$9x^2-24x y+16y^2={\\left(3x\\right)}^2-24x y+{\\left(4y\\right)}^2$$. Does it fit the pattern $$a^2-2a b+b^2$$?",
+        "text": "We can rewrite the expression $$9x^2-24x y+16y^2=\\left(3x\\right)^2-24x y+\\left(4y\\right)^2$$. Does it fit the pattern $$a^2-2a b+b^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -68,7 +68,7 @@
             "a746c1bFactoring7a-h4"
         ],
         "title": "Finding $$x$$",
-        "text": "If $$9x^2-24x y+16y^2={\\left(3x\\right)}^2-24x y+{\\left(4y\\right)}^2$$ fits the pattern $$a^2-2a b+b^2$$, then what is a?",
+        "text": "If $$9x^2-24x y+16y^2=\\left(3x\\right)^2-24x y+\\left(4y\\right)^2$$ fits the pattern $$a^2-2a b+b^2$$, then what is a?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -85,7 +85,7 @@
             "a746c1bFactoring7a-h4"
         ],
         "title": "Finding $$y$$",
-        "text": "If $$9x^2-24x y+16y^2={\\left(3x\\right)}^2-24x y+{\\left(4y\\right)}^2$$ fits the pattern $$a^2-2a b+b^2$$, then what is $$b$$?",
+        "text": "If $$9x^2-24x y+16y^2=\\left(3x\\right)^2-24x y+\\left(4y\\right)^2$$ fits the pattern $$a^2-2a b+b^2$$, then what is $$b$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -126,7 +126,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(3x-4y\\right)}^2$$"
+            "$$\\left(3x-4y\\right)^2$$"
         ],
         "dependencies": [
             "a746c1bFactoring7a-h8"
@@ -143,7 +143,7 @@
                 "problemType": "TextBox",
                 "answerType": "arithmetic",
                 "hintAnswer": [
-                    "$${\\left(3x-4y\\right)}^2$$"
+                    "$$\\left(3x-4y\\right)^2$$"
                 ],
                 "dependencies": [],
                 "title": "Rewrite",

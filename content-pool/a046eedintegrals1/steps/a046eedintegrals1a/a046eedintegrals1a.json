@@ -1,17 +1,17 @@
 {
     "id": "a046eedintegrals1a",
     "stepAnswer": [
-        "$$-\\left(e^{\\left(-x\\right)}\\right)+C$$"
+        "$$-e^{\\left(-x\\right)}+C$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the antiderivative of the exponential function $$e^{-x}$$.",
+    "stepTitle": "Find the $$antiderivative/integral$$ of the exponential function $$e^{-x}$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$-\\left(e^{\\left(-x\\right)}\\right)+C$$",
+    "answerLatex": "$$-e^{\\left(-x\\right)}+C$$",
     "choices": [
-        "$$-\\left(e^{\\left(-x\\right)}\\right)+C$$",
-        "$$-\\left(e^x\\right)+C$$",
-        "$$-\\left(e^u\\right)+C$$"
+        "$$-e^{\\left(-x\\right)}+C$$",
+        "$$-e^x+C$$",
+        "$$-e^u+C$$"
     ]
 }

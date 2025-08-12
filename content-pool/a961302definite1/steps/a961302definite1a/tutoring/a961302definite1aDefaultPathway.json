@@ -87,7 +87,7 @@
                 ],
                 "dependencies": [],
                 "title": "Calculate the Function Value at the Right Endpoint",
-                "text": "$$f{\\left(x_i\\right)}={x_i}^2={\\left(\\frac{2i}{n}\\right)}^2=$$?",
+                "text": "$$f{\\left(x_i\\right)}={x_i}^2=\\left(\\frac{2i}{n}\\right)^2=$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "",

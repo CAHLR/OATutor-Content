@@ -4,7 +4,7 @@
         "Zero: $$(-1,0)$$, Domain: $$[-2,\\infty)$$, $$Range:-1$$ to $$\\infty$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the domain, range, and all $$zeros/intercepts$$. $$f(x)=-1+\\sqrt{x+2}$$.",
+    "stepTitle": "Find the domain, range, and all zeros or $$x$$ intercepts. $$f(x)=-1+\\sqrt{x+2}$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

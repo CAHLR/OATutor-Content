@@ -32,7 +32,7 @@
         "dependencies": [
             "ad1b49dc8a-h2"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of $$\\lim_{x\\to\\frac{\\pi}{2}} x-\\frac{\\pi}{2}$$?",
         "variabilization": {},
         "oer": "",
@@ -49,7 +49,7 @@
         "dependencies": [
             "ad1b49dc8a-h3"
         ],
-        "title": "Determine the continuity",
+        "title": "Determine the Continuity",
         "text": "Is cos(x) continuous at $$x=0$$?",
         "variabilization": {},
         "oer": "",
@@ -82,7 +82,7 @@
         "dependencies": [
             "ad1b49dc8a-h5"
         ],
-        "title": "Determine the limit",
+        "title": "Determine the Limit",
         "text": "What is the value of $$\\lim_{x\\to\\frac{\\pi}{2}} cos\\left(x-\\frac{\\pi}{2}\\right)$$?",
         "variabilization": {},
         "oer": "",
@@ -92,7 +92,7 @@
                 "id": "ad1b49dc8a-h6-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the limit",
+                "title": "Determine the Limit",
                 "text": "$$\\lim_{x\\to\\frac{\\pi}{2}} cos\\left(x-\\frac{\\pi}{2}\\right)=cos(\\lim_{x\\to\\frac{\\pi}{2}} x-\\frac{\\pi}{2})=cos(0)=1$$",
                 "variabilization": {},
                 "oer": "",

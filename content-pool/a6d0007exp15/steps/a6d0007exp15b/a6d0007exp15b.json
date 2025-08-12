@@ -4,7 +4,7 @@
         "$$\\frac{p^6}{q^{18}}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(\\frac{p}{q^3}\\right)}^6$$",
+    "stepTitle": "$$\\left(\\frac{p}{q^3}\\right)^6$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

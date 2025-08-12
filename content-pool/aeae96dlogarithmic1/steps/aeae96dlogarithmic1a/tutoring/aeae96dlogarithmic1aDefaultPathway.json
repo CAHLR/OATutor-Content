@@ -55,13 +55,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(a)+\\ln(b)$$"
+            "$$\\ln\\left(a\\right)+\\ln\\left(b\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic1a-h4"
         ],
         "title": "Apply the Product Rule for Logarithms",
-        "text": "We can expand by applying the product rule to the entire expression. Consider expanding $$\\ln(a b)$$.",
+        "text": "We can expand by applying the product rule to the entire expression. Consider expanding $$\\ln\\left(a b\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

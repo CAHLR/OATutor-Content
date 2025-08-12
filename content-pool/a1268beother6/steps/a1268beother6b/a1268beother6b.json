@@ -4,7 +4,7 @@
         "$$-1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(x+5\\right)}^{\\frac{3}{2}}=8$$.",
+    "stepTitle": "$$\\left(x+5\\right)^{\\frac{3}{2}}=8$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

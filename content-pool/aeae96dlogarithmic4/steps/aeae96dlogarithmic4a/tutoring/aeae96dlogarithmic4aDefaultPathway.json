@@ -65,7 +65,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\log_{b}\\left({\\left(\\frac{1}{7}\\right)}^{\\left(-1\\right)}\\right)$$"
+            "$$\\log_{b}\\left(\\left(\\frac{1}{7}\\right)^{\\left(-1\\right)}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic4a-h5"

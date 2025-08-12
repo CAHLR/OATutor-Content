@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the a and $$b$$.",
-        "text": "Identify the a, $$b$$, and $$n$$ of $${\\left(a+b\\right)}^n$$. Here, $$a=3x$$, $$b=-y$$, $$n=5$$.",
+        "text": "Identify the a, $$b$$, and $$n$$ of $$\\left(a+b\\right)^n$$. Here, $$a=3x$$, $$b=-y$$, $$n=5$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

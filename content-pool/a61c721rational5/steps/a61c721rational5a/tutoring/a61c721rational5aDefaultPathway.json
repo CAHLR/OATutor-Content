@@ -45,7 +45,7 @@
             "a61c721rational5a-h3"
         ],
         "title": "Factor the expression",
-        "text": "What does $$x^2+11x-\\left(+30\\right)$$ factor into?",
+        "text": "What does $$x^2+11x-+30$$ factor into?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -90,7 +90,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(x+4\\right)}^2$$"
+            "$$\\left(x+4\\right)^2$$"
         ],
         "dependencies": [
             "a61c721rational5a-h6"

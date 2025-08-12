@@ -3,7 +3,7 @@
         "id": "a6e12dcextrema5a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Finding the derivative",
+        "title": "Finding the Derivative",
         "text": "To find the critical points, we need to find the first derivative of the function.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a6e12dcextrema5a-h1"
         ],
-        "title": "Finding the first derivative",
+        "title": "Finding the First Derivative",
         "text": "Find the first derivative of $$y=tan(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -38,7 +38,7 @@
         "dependencies": [
             "a6e12dcextrema5a-h2"
         ],
-        "title": "Finding the critical point(s)",
+        "title": "Finding the Critical Point(s)",
         "text": "The critical point(s) are the values of $$x$$ which cause the first derivative of the function to be equal to zero.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -55,7 +55,7 @@
         "dependencies": [
             "a6e12dcextrema5a-h3"
         ],
-        "title": "Solve for the value(s) of $$x$$ that set the first derivative of the function to zero.",
+        "title": "Solve for X That Sets the First Derivative at Zero",
         "text": "Solve for value(s) of $$x$$ in the following: $$0=\\operatorname{sec}\\left(x\\right) \\operatorname{sec}\\left(x\\right)$$. Input \"12345\" if there are no values of $$x$$ which satisfy this condition.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

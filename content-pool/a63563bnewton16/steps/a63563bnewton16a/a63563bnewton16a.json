@@ -4,7 +4,7 @@
         "$$0.159$$, $$3.146$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\ln(x)+2$$",
+    "stepTitle": "$$\\ln\\left(x\\right)+2$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

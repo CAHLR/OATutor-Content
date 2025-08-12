@@ -16,7 +16,7 @@
             "a2d77b8chainrule8a-h1"
         ],
         "title": "Decompose the Function",
-        "text": "First we need to decompose our function $$y$$ into the form $$y=f(u)$$ and $$u=g(x)$$, try finding what f(u) and g(x) should be in this case!",
+        "text": "First we need to decompose our function $$y$$ into the form $$y=f(u)$$ and $$u=g(x)$$, try finding what f(u) and g(x) should be in this case.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -62,7 +62,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
             "$$\\frac{x}{7}+\\frac{7}{x}$$",
-            "$$7\\ln(x)$$",
+            "$$7\\ln\\left(x\\right)$$",
             "$$\\frac{x}{7}$$",
             "$$\\frac{7}{x}$$"
         ]
@@ -74,7 +74,7 @@
             "a2d77b8chainrule8a-h4"
         ],
         "title": "Find the Derivative",
-        "text": "Next, we take the derivative of f(u) in terms of u, $$\\frac{dy}{du}$$, and the derivative of g(x) in terms of $$x$$, $$\\frac{du}{dx}$$. Multiplying these two expressions together yields our final answer, dy/dx!",
+        "text": "Next, we take the derivative of f(u) in terms of u, $$\\frac{dy}{du}$$, and the derivative of g(x) in terms of $$x$$, $$\\frac{du}{dx}$$. Multiplying these two expressions together yields our final answer, $$\\frac{dy}{dx}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -131,8 +131,8 @@
         "dependencies": [
             "a2d77b8chainrule8a-h7"
         ],
-        "title": "Plug in",
-        "text": "Finally, we only need to multiply these two expressions to find our final answer. Don't forget to plug in what we have for u in terms of $$x$$ into our final answer!",
+        "title": "Plug In and Solve in Terms of $$x$$",
+        "text": "Finally, we only need to multiply these two expressions to find our final answer. Don't forget to plug in what we have for u in terms of $$x$$ into our final answer.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

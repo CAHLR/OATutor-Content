@@ -16,7 +16,7 @@
             "a9e42b3CompInv23a-h1"
         ],
         "title": "What's the equation after replacing $$x$$ with $$y$$ and $$y$$ with $$x$$",
-        "text": "$$x$$ $$=$$ $${\\left(3y-2\\right)}^{\\frac{1}{5}}$$",
+        "text": "$$x$$ $$=$$ $$\\left(3y-2\\right)^{\\frac{1}{5}}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

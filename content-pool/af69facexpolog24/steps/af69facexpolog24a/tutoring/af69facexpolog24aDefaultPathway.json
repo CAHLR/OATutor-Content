@@ -51,7 +51,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{y}{A_0})}{t}$$"
+            "$$\\frac{\\ln\\left(\\frac{y}{A_0}\\right)}{t}$$"
         ],
         "dependencies": [
             "af69facexpolog24a-h4"
@@ -97,7 +97,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\ln(\\frac{y}{A_0})}{k}$$"
+            "$$\\frac{\\ln\\left(\\frac{y}{A_0}\\right)}{k}$$"
         ],
         "dependencies": [
             "af69facexpolog24a-h7"

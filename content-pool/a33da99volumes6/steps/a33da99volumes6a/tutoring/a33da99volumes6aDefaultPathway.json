@@ -16,7 +16,7 @@
             "a33da99volumes6a-h1"
         ],
         "title": "Disk Method",
-        "text": "$$V=\\int_{0}^{4} \\pi {\\left(4x-x^2\\right)}^2 \\,dx$$",
+        "text": "$$V=\\int_{0}^{4} \\pi \\left(4x-x^2\\right)^2 \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

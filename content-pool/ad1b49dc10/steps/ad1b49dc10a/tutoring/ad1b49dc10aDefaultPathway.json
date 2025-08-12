@@ -20,7 +20,7 @@
         "dependencies": [
             "ad1b49dc10a-h1"
         ],
-        "title": "Determine the continuity",
+        "title": "Determine the Continuity",
         "text": "Is the function continuous over [-1,1]?",
         "variabilization": {},
         "oer": "",
@@ -34,7 +34,7 @@
                 "id": "ad1b49dc10a-h2-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Determine the continuity",
+                "title": "Determine the Continuity",
                 "text": "f(x) is undefined at $$x=0$$.",
                 "variabilization": {},
                 "oer": "",

@@ -91,13 +91,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\ln(x^{\\frac{8}{3}})+\\ln(y^{\\frac{14}{3}})$$"
+            "$$\\ln\\left(x^{\\frac{8}{3}}\\right)+\\ln\\left(y^{\\frac{14}{3}}\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic6a-h7"
         ],
         "title": "Apply the Product Rule for Logarithms",
-        "text": "Write the equivalent expression of $$\\ln(x^{\\frac{8}{3}} y^{\\frac{14}{3}})$$ by summing the logarithms of each factor.",
+        "text": "Write the equivalent expression of $$\\ln\\left(x^{\\frac{8}{3}} y^{\\frac{14}{3}}\\right)$$ by summing the logarithms of each factor.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -108,7 +108,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{8}{3} \\ln(x)+\\frac{14}{3} \\ln(y)$$"
+            "$$\\frac{8}{3} \\ln\\left(x\\right)+\\frac{14}{3} \\ln\\left(y\\right)$$"
         ],
         "dependencies": [
             "aeae96dlogarithmic6a-h8"

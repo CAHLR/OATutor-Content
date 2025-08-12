@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$23900{1.09}^x$$"
+            "$$23900\\times{1.09}^x$$"
         ],
         "dependencies": [
             "ae3c1a1exponential18a-h1"

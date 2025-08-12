@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Using the Binomial Theorem to Expand a Polynomial.",
-    "stepBody": "$${\\left(x+y\\right)}^3$$",
+    "stepBody": "$$\\left(x+y\\right)^3$$",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$x^3+3x^2 y^1+3x^1 y^2+y^3$$"

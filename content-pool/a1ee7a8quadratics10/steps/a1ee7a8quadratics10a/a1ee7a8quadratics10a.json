@@ -4,7 +4,7 @@
         "$$x=7$$, $$x=-8$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$${\\left(x+2\\right)}^2-3\\left(x+2\\right)-54=0$$",
+    "stepTitle": "$$\\left(x+2\\right)^2-3\\left(x+2\\right)-54=0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

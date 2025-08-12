@@ -62,7 +62,7 @@
             "a746c1bFactoring9a-h4"
         ],
         "title": "Finished Factoring",
-        "text": "We can rewrite $$25x^2+36$$ as $${\\left(5x\\right)}^2+6^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further factor $$25x^2+36$$.",
+        "text": "We can rewrite $$25x^2+36$$ as $$\\left(5x\\right)^2+6^2$$. Note that sum of squares is prime so it is not factorable. Therefore, we can not further factor $$25x^2+36$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

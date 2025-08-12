@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${\\left(u+1\\right)}^2=4$$"
+            "$$\\left(u+1\\right)^2=4$$"
         ],
         "dependencies": [],
         "title": "Completing the Square",

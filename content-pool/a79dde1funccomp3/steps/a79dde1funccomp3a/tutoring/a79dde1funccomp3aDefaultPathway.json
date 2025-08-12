@@ -16,7 +16,7 @@
             "a79dde1funccomp3a-h1"
         ],
         "title": "Substituting $$x$$ in $$3x^2$$",
-        "text": "Replacing $$x$$ within $$3x^2$$ results in $$3{\\left(2x-1\\right)}^2$$.",
+        "text": "Replacing $$x$$ within $$3x^2$$ results in $$3\\left(2x-1\\right)^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -33,7 +33,7 @@
             "a79dde1funccomp3a-h2"
         ],
         "title": "Substituting $$x$$ in $$3x^2$$",
-        "text": "What is $${\\left(2x-1\\right)}^2$$?",
+        "text": "What is $$\\left(2x-1\\right)^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -43,7 +43,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Multiplying Binomials",
-                "text": "For a,b, $${\\left(a x+b\\right)}^2=a^2 x^2+2a b x+b^2$$",
+                "text": "For a,b, $$\\left(a x+b\\right)^2=a^2 x^2+2a b x+b^2$$",
                 "variabilization": {},
                 "oer": "https://OATutor.io",
                 "license": ""

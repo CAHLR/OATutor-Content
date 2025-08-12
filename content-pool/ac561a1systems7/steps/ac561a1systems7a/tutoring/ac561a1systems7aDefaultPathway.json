@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$-\\left(x^2\\right)+x=0$$"
+            "$$-x^2+x=0$$"
         ],
         "dependencies": [
             "ac561a1systems7a-h1"
@@ -26,8 +26,8 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "choices": [
-            "$$-\\left(x^2\\right)+x=0$$",
-            "$$-\\left(x^2\\right)-x=0$$"
+            "$$-x^2+x=0$$",
+            "$$-x^2-x=0$$"
         ]
     },
     {
@@ -37,7 +37,7 @@
             "ac561a1systems7a-h2"
         ],
         "title": "Solving for $$x$$",
-        "text": "With the equation $$-\\left(x^2\\right)+x=0$$, we can solve for $$x$$. The x-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
+        "text": "With the equation $$-x^2+x=0$$, we can solve for $$x$$. The x-coordinate found indicates a possible solution where an intersection may occur if the system of equations yield a feasible solution later on.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -75,7 +75,7 @@
             "ac561a1systems7a-h4"
         ],
         "title": "Solving for $$x$$",
-        "text": "What are the solution to $$-\\left(x^2\\right)+x=0$$?",
+        "text": "What are the solution to $$-x^2+x=0$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

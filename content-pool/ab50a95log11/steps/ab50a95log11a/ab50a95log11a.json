@@ -4,7 +4,7 @@
         "$$2.5065$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$y=\\ln(321)$$",
+    "stepTitle": "$$y=\\ln\\left(321\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

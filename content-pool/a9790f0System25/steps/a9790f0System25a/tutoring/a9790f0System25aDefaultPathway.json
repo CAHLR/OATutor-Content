@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$x^2+16{\\left(\\frac{1}{2} x-1\\right)}^2=4$$"
+            "$$x^2+16\\left(\\frac{1}{2} x-1\\right)^2=4$$"
         ],
         "dependencies": [
             "a9790f0System25a-h1"

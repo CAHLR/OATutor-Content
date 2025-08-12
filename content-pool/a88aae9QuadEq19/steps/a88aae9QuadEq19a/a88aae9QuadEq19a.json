@@ -4,7 +4,7 @@
         "[-3,4]"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$-\\left(x^2\\right)+x+12 \\geq 0$$",
+    "stepTitle": "$$-x^2+x+12 \\geq 0$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {}

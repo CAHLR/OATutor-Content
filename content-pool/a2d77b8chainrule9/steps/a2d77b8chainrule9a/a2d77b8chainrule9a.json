@@ -12,7 +12,7 @@
     "choices": [
         "$$-\\operatorname{csc}\\left(x+1\\right) \\operatorname{cot}\\left(x+1\\right)$$",
         "$$\\operatorname{sec}\\left(x+1\\right) tan\\left(x+1\\right)$$",
-        "$$-\\left({\\operatorname{csc}\\left(x+1\\right)}^2\\right)$$",
+        "$$-{\\operatorname{csc}\\left(x+1\\right)}^2$$",
         "$${\\operatorname{sec}\\left(x+1\\right)}^2$$"
     ]
 }

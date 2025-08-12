@@ -16,7 +16,7 @@
             "aca598bexp6a-h1"
         ],
         "title": "LHS",
-        "text": "$$a^{b c}={\\left(a^b\\right)}^c$$, so $$3^{2x}={\\left(3^2\\right)}^x=9^x$$",
+        "text": "$$a^{b c}=\\left(a^b\\right)^c$$, so $$3^{2x}=\\left(3^2\\right)^x=9^x$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -28,7 +28,7 @@
             "aca598bexp6a-h2"
         ],
         "title": "LHS",
-        "text": "Therefore, $$3^{2x+2}$$ + $$9^x=3^2 3^{2x}+9^x=9{\\left(3^2\\right)}^x+9x=9\\times9^x+9^x=\\left(9+1\\right) 9^x=10\\times9^x$$.",
+        "text": "Therefore, $$3^{2x+2}$$ + $$9^x=3^2 3^{2x}+9^x=9\\left(3^2\\right)^x+9x=9\\times9^x+9^x=\\left(9+1\\right) 9^x=10\\times9^x$$.",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""
@@ -40,7 +40,7 @@
             "aca598bexp6a-h3"
         ],
         "title": "RHS",
-        "text": "$${81}^x={\\left(9^2\\right)}^x=9^{2x}$$",
+        "text": "$${81}^x=\\left(9^2\\right)^x=9^{2x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": ""

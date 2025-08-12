@@ -49,7 +49,7 @@
             "a33da99volumes5a-h3"
         ],
         "title": "Disk Method",
-        "text": "$$V=\\int_{0}^{1} \\pi x^2 \\,dx+\\int_{1}^{2} \\pi {\\left(2-x\\right)}^2 \\,dx$$",
+        "text": "$$V=\\int_{0}^{1} \\pi x^2 \\,dx+\\int_{1}^{2} \\pi \\left(2-x\\right)^2 \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

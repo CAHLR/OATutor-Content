@@ -33,10 +33,10 @@
     {
         "id": "a8f47f3deriv1a-s1",
         "type": "scaffold",
-        "problemType": "TextBox",
+        "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "positive"
+            "Positive"
         ],
         "dependencies": [
             "a8f47f3deriv1a-h2"
@@ -47,17 +47,17 @@
         "oer": "",
         "license": "",
         "choices": [
-            "positive",
-            "negative"
+            "Positive",
+            "Negative"
         ]
     },
     {
         "id": "a8f47f3deriv1a-s2",
         "type": "scaffold",
-        "problemType": "TextBox",
+        "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "positive"
+            "Positive"
         ],
         "dependencies": [
             "a8f47f3deriv1a-s1"
@@ -68,8 +68,8 @@
         "oer": "",
         "license": "",
         "choices": [
-            "positive",
-            "negative"
+            "Positive",
+            "Negative"
         ]
     }
 ]

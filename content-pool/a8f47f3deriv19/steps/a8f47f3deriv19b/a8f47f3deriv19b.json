@@ -1,7 +1,7 @@
 {
     "id": "a8f47f3deriv19b",
     "stepAnswer": [
-        "none"
+        "None"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Find the local or maxima.",
@@ -9,9 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "none",
-        "maximum: $$x=\\frac{\\pi}{2}$$",
-        "maximum: $$x=-2\\pi$$",
-        "maximum: $$x=-1$$"
+        "None",
+        "Maximum: $$x=\\frac{\\pi}{2}$$",
+        "Maximum: $$x=-2\\pi$$",
+        "Maximum: $$x=-1$$"
     ]
 }

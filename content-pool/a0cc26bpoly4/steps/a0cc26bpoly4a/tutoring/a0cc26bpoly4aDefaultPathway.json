@@ -39,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\left(x^2\\right)$$"
+            "$$-x^2$$"
         ],
         "dependencies": [
             "a0cc26bpoly4a-h3"

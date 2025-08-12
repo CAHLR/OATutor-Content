@@ -16,7 +16,7 @@
             "a5ccaf6logarithmsandlogistic20a-h1"
         ],
         "title": "Using LnReg on the Calculator",
-        "text": "Use the \u201cLnReg\u201d command from the STAT then CALC menu to obtain the logarithmic model, $$y=42.52722583+13.85752327\\ln(x)$$.",
+        "text": "Use the \u201cLnReg\u201d command from the STAT then CALC menu to obtain the logarithmic model, $$y=42.52722583+13.85752327\\ln\\left(x\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -9,7 +9,7 @@
         ],
         "dependencies": [],
         "title": "LHS simplification",
-        "text": "Is $$|\\frac{{\\left(x+2\\right)}^3}{2}|$$ equivalent to $$\\frac{|{\\left(x+2\\right)}^3|}{|2|}$$?",
+        "text": "Is $$|\\frac{\\left(x+2\\right)^3}{2}|$$ equivalent to $$\\frac{|\\left(x+2\\right)^3|}{|2|}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",
@@ -42,7 +42,7 @@
             "aff8a70precalnew8a-h1"
         ],
         "title": "LHS simplification",
-        "text": "Is $$\\frac{|{\\left(x+2\\right)}^3|}{|2|}$$ equivalent to $$\\frac{{|x+2|}^3}{2}$$?",
+        "text": "Is $$\\frac{|\\left(x+2\\right)^3|}{|2|}$$ equivalent to $$\\frac{{|x+2|}^3}{2}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io",
         "license": "",

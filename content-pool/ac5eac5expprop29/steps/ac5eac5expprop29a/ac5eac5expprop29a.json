@@ -4,7 +4,7 @@
         "$$m^8$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$${\\left(b^2\\right)}^7$$",
+    "stepTitle": "$$\\left(b^2\\right)^7$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

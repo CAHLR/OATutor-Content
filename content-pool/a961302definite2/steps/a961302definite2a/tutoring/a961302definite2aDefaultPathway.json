@@ -72,7 +72,7 @@
             "a961302definite2a-h3"
         ],
         "title": "Evaluate the Limit",
-        "text": "Evaluate $$\\int_{3}^{6} \\sqrt{9-{\\left(x-3\\right)}^2} \\,dx$$.",
+        "text": "Evaluate $$\\int_{3}^{6} \\sqrt{9-\\left(x-3\\right)^2} \\,dx$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

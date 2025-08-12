@@ -27,7 +27,7 @@
         "dependencies": [
             "a750210trig14a-h2"
         ],
-        "title": "Definition of trigonometric functions",
+        "title": "Definition of Trigonometric Functions",
         "text": "Letting $$x$$ be an angle, cscx $$=$$ $$\\frac{1}{y}$$, secx $$=$$ $$\\frac{1}{x}$$, and cotx $$=$$ $$\\frac{x}{y}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

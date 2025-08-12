@@ -51,7 +51,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{{\\left(x-6\\right)}^2}{25}-\\frac{{\\left(y-1\\right)}^2}{11}=1$$"
+            "$$\\frac{\\left(x-6\\right)^2}{25}-\\frac{\\left(y-1\\right)^2}{11}=1$$"
         ],
         "dependencies": [
             "a9ed39ahyperbola24a-h4"
