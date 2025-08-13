@@ -1,7 +1,6 @@
 # OATutor
 
-OATutor is an Open-source Adaptive Tutoring System using Bayesian Knowledge Tracing
-implemented in ReactJS and optionally using [Firebase](https://firebase.google.com/) for logging. 
+OATutor is an Open-source Adaptive Tutoring System using Bayesian Knowledge Tracing (BKT) implemented in ReactJS and optionally using [Firebase](https://firebase.google.com/) for logging. 
 The whole tutoring system can be deployed on Github Pages without the use of servers. If desired, 
 a server can be used to operate an included ExpressJS middleware for interoperability with LTI-compatible learning management systems 
 such as [Canvas](https://www.instructure.com/).
