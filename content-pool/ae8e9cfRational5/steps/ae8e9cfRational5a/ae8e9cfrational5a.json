@@ -1,12 +1,12 @@
 {
-    "id": "ae8e9cfrational5a",
+    "id": "ae8e9cfRational5a",
     "stepAnswer": [
-        "$$\\frac{1}{3}$$"
+        "$$\\frac{a-2b}{2\\left(a+2b\\right)}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\frac{4}{21}+\\frac{3}{21}$$",
+    "stepTitle": "$$\\frac{3a^2-12ab+12b^2}{6a^2-24b^2}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$\\frac{1}{3}$$"
+    "answerLatex": "$$\\frac{a-2b}{2\\left(a+2b\\right)}$$"
 }

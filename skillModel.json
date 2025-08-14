@@ -1159,30 +1159,6 @@
     "ae8e9cfRational9a": [
         "multiply_rational_expressions"
     ],
-    "ae8e9cfrational1a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational2a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational3a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational4a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational5a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational6a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational7a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
-    "ae8e9cfrational8a": [
-        "add_rational_expressions_with_a_common_denominator"
-    ],
     "ae8e9cfrationaldenom1a": [
         "find_equivalent_rational_expressions"
     ],
@@ -1209,6 +1185,30 @@
     ],
     "ae8e9cfrationaldenom9a": [
         "add_rational_expressions_with_different_denominators"
+    ],
+    "ae8e9cfrationalstep1a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep2a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep3a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep4a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep5a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep6a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep7a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationalstep8a": [
+        "add_rational_expressions_with_a_common_denominator"
     ],
     "a27f9f4Polynomial1a": [
         "determine_the_degree_of_polynomials"
