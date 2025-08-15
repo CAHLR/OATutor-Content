@@ -1120,45 +1120,6 @@
     "a85f143linear9a": [
         "solve_linear_inequalities"
     ],
-    "ae8e9cfRational10a": [
-        "multiply_rational_expressions"
-    ],
-    "ae8e9cfRational11a": [
-        "multiply_rational_expressions"
-    ],
-    "ae8e9cfRational12a": [
-        "multiply_rational_expressions"
-    ],
-    "ae8e9cfRational13a": [
-        "determine_the_values_for_which_a_rational_expression_is_undefined"
-    ],
-    "ae8e9cfRational14a": [
-        "determine_the_values_for_which_a_rational_expression_is_undefined"
-    ],
-    "ae8e9cfRational15a": [
-        "multiply_and_divide_rational_functions"
-    ],
-    "ae8e9cfRational3a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational4a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational5a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational6a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational7a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational8a": [
-        "simplify_rational_expressions"
-    ],
-    "ae8e9cfRational9a": [
-        "multiply_rational_expressions"
-    ],
     "ae8e9cfrationaldenom1a": [
         "find_equivalent_rational_expressions"
     ],
@@ -1185,6 +1146,45 @@
     ],
     "ae8e9cfrationaldenom9a": [
         "add_rational_expressions_with_different_denominators"
+    ],
+    "ae8e9cfrationalprob10a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfrationalprob11a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfrationalprob12a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfrationalprob13a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "ae8e9cfrationalprob14a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "ae8e9cfrationalprob15a": [
+        "multiply_and_divide_rational_functions"
+    ],
+    "ae8e9cfrationalprob3a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob4a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob5a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob6a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob7a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob8a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfrationalprob9a": [
+        "multiply_rational_expressions"
     ],
     "ae8e9cfrationalstep1a": [
         "add_rational_expressions_with_a_common_denominator"
