@@ -963,6 +963,15 @@
                 }
             },
             {
+                "id": "6nUtpeK1-5Aoe-Cj6mDFwWAK",
+                "name": "Lesson 1.3-Rates",
+                "topics": "of Change and Behavior of Graphs",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "rates_of_change_and_behavior_of_graphs": 0.85
+                }
+            },
+            {
                 "id": "51ukvlfX-chiP-S46rcW2BcC",
                 "name": "Lesson 1.4",
                 "topics": "- Composition of Functions",
