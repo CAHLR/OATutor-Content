@@ -2833,6 +2833,1803 @@
     "a7c96ccslope30a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
+    "a507f9eFraction1a": [
+        "simplify_fractions"
+    ],
+    "a507f9eFraction2a": [
+        "multiply_and_divide_fractions"
+    ],
+    "a507f9eFraction3a": [
+        "multiply_and_divide_fractions"
+    ],
+    "a507f9elang1a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a507f9elang2a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a507f9elang3a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a28bee8Properties14a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a28bee8Properties6a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a28bee8addand10a": [
+        "use_the_order_of_operations_to_simplify_complex_fractions"
+    ],
+    "a28bee8addand9a": [
+        "use_the_order_of_operations_to_simplify_complex_fractions"
+    ],
+    "a1dc8b2Rational13a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "a1dc8b2Rational14a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "a982aa6exe1a": [
+        "factor_trinomials_of_the_form_x**2_+_bx_+_c"
+    ],
+    "a982aa6exe12a": [
+        "factor_trinomials_of_the_form_x**2_+_bx_+_c"
+    ],
+    "a982aa6factoring1a": [
+        "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf"
+    ],
+    "a982aa6factoring2a": [
+        "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf"
+    ],
+    "a982aa6general1a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
+    "a982aa6gre17a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a982aa6gre20a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a982aa6trifactor5a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a982aa6trifactor6a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a152fa9CompletingSqr1a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "a152fa9Square11a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "a152fa9Square18a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "a152fa9Square20a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "a152fa9gaussian28a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "a152fa9gaussian29a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "a39362cAbsolute1a": [
+        "solving_an_absolute_value_equation"
+    ],
+    "a39362cAbsolute1b": [
+        "solving_an_absolute_value_equation"
+    ],
+    "a39362cAbsolute2a": [
+        "solving_an_absolute_value_equation"
+    ],
+    "a39362cAbsolute2b": [
+        "solving_an_absolute_value_equation"
+    ],
+    "a39362cline11a": [
+        "find_an_equation_of_the_line_given_two_points"
+    ],
+    "a39362cline12a": [
+        "find_an_equation_of_the_line_given_two_points"
+    ],
+    "a39362cline25a": [
+        "find_an_equation_of_the_line_given_the_slope_and_a_point"
+    ],
+    "a39362cline3a": [
+        "find_an_equation_of_the_line_given_the_slope_and_y_intercept"
+    ],
+    "a39362cline30a": [
+        "find_an_equation_of_a_line_perpendicular_to_a_given_line"
+    ],
+    "a39362cline4a": [
+        "find_an_equation_of_the_line_given_the_slope_and_y_intercept"
+    ],
+    "ab6e016comp3a": [
+        "create_a_function_by_composition_of_functions"
+    ],
+    "ab6e016composition2a": [
+        "decomposing_a_composite_function_into_its_component_functions"
+    ],
+    "ab6e016composition24a": [
+        "create_a_function_by_composition_of_functions"
+    ],
+    "ab6e016composition24b": [
+        "create_a_function_by_composition_of_functions"
+    ],
+    "ab6e016inverse1a": [
+        "finding_and_evaluating_inverse_functions"
+    ],
+    "ab6e016inverse24a": [
+        "finding_and_evaluating_inverse_functions"
+    ],
+    "ab6e016inverse3a": [
+        "finding_and_evaluating_inverse_functions"
+    ],
+    "ab7c38dgraphExp1a": [
+        "solve_exponential_equations"
+    ],
+    "ab7c38dgraphExp12a": [
+        "solve_exponential_equations"
+    ],
+    "ab7c38dgraphExp13a": [
+        "solve_exponential_equations"
+    ],
+    "ab7c38dgraphExp2a": [
+        "solve_exponential_equations"
+    ],
+    "ab7c38dlog1a": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog1b": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog1c": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog13a": [
+        "graph_logarithmic_functions"
+    ],
+    "ab7c38dlog14a": [
+        "graph_logarithmic_functions"
+    ],
+    "ab7c38dlog2a": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog2b": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog2c": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog3a": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "ab7c38dlog3b": [
+        "convert_between_exponential_and_logarithmic_form"
+    ],
+    "a7defd5Radicals2a": [
+        "use_the_product_property_to_simplify_radical_expressions"
+    ],
+    "a7defd5Radicals23a": [
+        "use_the_quotient_property_to_simplify_radical_expressions"
+    ],
+    "a7defd5Sim13a": [
+        "simplify_a_complex_rational_expression_by_writing_it_as_division"
+    ],
+    "a7defd5Sim14a": [
+        "simplify_a_complex_rational_expression_by_writing_it_as_division"
+    ],
+    "a6a9476geo2a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a6a9476geo3a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "aa47907quad19a": [
+        "using_the_pythagorean_theorem"
+    ],
+    "aa47907quad21a": [
+        "using_the_pythagorean_theorem"
+    ],
+    "aa47907trig23a": [
+        "trigonometric_identities"
+    ],
+    "aa47907trig24a": [
+        "trigonometric_identities"
+    ],
+    "aa47907trig25a": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18a": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18b": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18c": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18d": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18e": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18f": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig18g": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19a": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19b": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19c": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19d": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19e": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19f": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig19g": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20a": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20b": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20c": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20d": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20e": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20f": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig20g": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21a": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21b": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21c": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21d": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21e": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21f": [
+        "trigonometric_identities"
+    ],
+    "add1c75trig21g": [
+        "trigonometric_identities"
+    ],
+    "a6ca47dc4a": [
+        "types_of_discontinuities"
+    ],
+    "a6ca47dc5a": [
+        "types_of_discontinuities"
+    ],
+    "a6ca47ddomain12a": [
+        "graphing_piecewise_defined_functions"
+    ],
+    "a6ca47ddomain12b": [
+        "graphing_piecewise_defined_functions"
+    ],
+    "a6ca47dlimit11a": [
+        "infinite_limits"
+    ],
+    "a6ca47dradfunc2a": [
+        "evaluate_a_radical_function"
+    ],
+    "a6ca47dtrig14a": [
+        "trigonometric_identities"
+    ],
+    "af564d8LimitLaw10a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitLaw2a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitLaw9a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw13a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw15a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw16a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw17a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw18a": [
+        "the_limit_laws"
+    ],
+    "af564d8LimitlLaw20a": [
+        "the_limit_laws"
+    ],
+    "a49fa00c1a": [
+        "continuity_at_a_point"
+    ],
+    "a49fa00c2a": [
+        "continuity_at_a_point"
+    ],
+    "a49fa00c3a": [
+        "continuity_at_a_point"
+    ],
+    "a49fa00c4a": [
+        "types_of_discontinuities"
+    ],
+    "a49fa00c7a": [
+        "continuity_over_an_interval"
+    ],
+    "a28896cDerivativeFunction8a": [
+        "the_derivative_as_a_function"
+    ],
+    "a28896cDerivativeFunction8b": [
+        "the_derivative_as_a_function"
+    ],
+    "a28896cdef16a": [
+        "derivative_definition"
+    ],
+    "a28896cdef16b": [
+        "derivative_definition"
+    ],
+    "a28896cdef16c": [
+        "derivative_definition"
+    ],
+    "a28896cdef20a": [
+        "derivative_definition"
+    ],
+    "a28896cdef20b": [
+        "derivative_definition"
+    ],
+    "a28896cdef21a": [
+        "derivative_definition"
+    ],
+    "a28896cdef21b": [
+        "derivative_definition"
+    ],
+    "a28896cdef7a": [
+        "derivative_definition"
+    ],
+    "a7b7c31limits1a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a7b7c31limits19a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a7b7c31limits2a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a7b7c31limits20a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a7b7c31limits21a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a7b7c31limits22a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "ac039acderiv10a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv10b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv18a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv18b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv18c": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv18d": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv7a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv7b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv8a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv8b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv9a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acderiv9b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "ac039acl'hopital2a": [
+        "other_indeterminate_forms"
+    ],
+    "ac039acl'hopital7a": [
+        "applying_l\u2019h\u00f4pital\u2019s_rule"
+    ],
+    "adc85fdderiv1a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "adc85fdderiv2a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "adc85fdderiv3a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "adc85fdderivative1a": [
+        "differentiation_rules"
+    ],
+    "adc85fdderivative10a": [
+        "differentiation_rules"
+    ],
+    "adc85fdderivative11a": [
+        "differentiation_rules"
+    ],
+    "adc85fdderivative12a": [
+        "differentiation_rules"
+    ],
+    "adc85fdderivative2a": [
+        "differentiation_rules"
+    ],
+    "adc85fdtangentline1a": [
+        "differentiation_rules"
+    ],
+    "adc85fdtangentline2a": [
+        "differentiation_rules"
+    ],
+    "a76c342chainrule1a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule2a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule3a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule4a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule5a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule6a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule7a": [
+        "the_chain_rule"
+    ],
+    "a76c342chainrule8a": [
+        "the_chain_rule"
+    ],
+    "a82f4c0inverse1a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse12a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse13a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse14a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse15a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse5a": [
+        "deriving_an_inverse_function"
+    ],
+    "a82f4c0inverse6a": [
+        "deriving_an_inverse_function"
+    ],
+    "ae5c4c1implicit4a": [
+        "implicit_differentiation"
+    ],
+    "ae5c4c1implicit5a": [
+        "implicit_differentiation"
+    ],
+    "ae5c4c1implicit6a": [
+        "implicit_differentiation"
+    ],
+    "a649fc5linear1a": [
+        "linear_approximation_of_a_function_at_a_point"
+    ],
+    "a649fc5linear12a": [
+        "calculating_the_amount_of_error"
+    ],
+    "a649fc5linear15a": [
+        "linear_approximation_of_a_function_at_a_point"
+    ],
+    "a649fc5linear18a": [
+        "differentials"
+    ],
+    "a649fc5linear21a": [
+        "differentials"
+    ],
+    "a649fc5linear6a": [
+        "differentials"
+    ],
+    "a649fc5linear9a": [
+        "calculating_the_amount_of_error"
+    ],
+    "a94dfb6extrema11a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema12a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema13a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema17a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema18a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema19a": [
+        "maxima_and_minima"
+    ],
+    "a94dfb6extrema20a": [
+        "maxima_and_minima"
+    ],
+    "a6cbbb5deriv18a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv18b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv18c": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv18d": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv2a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv20a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv20b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv20c": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv20d": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv3a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv4a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv5a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv6a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv7a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv7b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv8a": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a6cbbb5deriv8b": [
+        "derivatives_and_the_shape_of_the_graph"
+    ],
+    "a3476d7optimize1a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize1b": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize12a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize13a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize14a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize15a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize16a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize17a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize2a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize3a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize4a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize5a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize6a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize7a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize7b": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize9a": [
+        "applied_optimization_problems"
+    ],
+    "a3476d7optimize9b": [
+        "applied_optimization_problems"
+    ],
+    "ad88052l'hopital1a": [
+        "applying_l\u2019h\u00f4pital\u2019s_rule"
+    ],
+    "ad88052l'hopital21a": [
+        "other_indeterminate_forms"
+    ],
+    "ad88052l'hopital3a": [
+        "section_4.8_exercises"
+    ],
+    "ad88052l'hopital4a": [
+        "applying_l\u2019h\u00f4pital\u2019s_rule"
+    ],
+    "ad88052l'hopital5a": [
+        "applying_l\u2019h\u00f4pital\u2019s_rule"
+    ],
+    "ad88052l'hopital9a": [
+        "applying_l\u2019h\u00f4pital\u2019s_rule"
+    ],
+    "a3f10ebl'hopital13a": [
+        "section_4.8_exercises"
+    ],
+    "a3f10ebl'hopital2a": [
+        "other_indeterminate_forms"
+    ],
+    "ac95150antiderivative1a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative12a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative14a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative2a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative3a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative4a": [
+        "finding_antiderivatives"
+    ],
+    "ac95150antiderivative7a": [
+        "finding_antiderivatives"
+    ],
+    "a8238deaccuracy1a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy2a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy3a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy4a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy4b": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy5a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy6a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy7a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy8a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy8b": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy9a": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deaccuracy9b": [
+        "accuracy",
+        "precision",
+        "and_significant_figures"
+    ],
+    "a8238deapproximation1a": [
+        "approximation"
+    ],
+    "a8238deapproximation2a": [
+        "approximation"
+    ],
+    "a8238deapproximation3a": [
+        "approximation"
+    ],
+    "a8238deapproximation4a": [
+        "approximation"
+    ],
+    "a8238deapproximation5a": [
+        "approximation"
+    ],
+    "a8238dephysical1a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical1b": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical10a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical10b": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical2a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical2b": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical3a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical4a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical5a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical6a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical7a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical8a": [
+        "physical_quantities_and_units"
+    ],
+    "a8238dephysical9a": [
+        "physical_quantities_and_units"
+    ],
+    "a464cab16a": [
+        "kinematics"
+    ],
+    "a464cab18a": [
+        "kinematics"
+    ],
+    "a464cab18b": [
+        "kinematics"
+    ],
+    "a464cab20aa": [
+        "kinematics"
+    ],
+    "a464cab21a": [
+        "kinematics"
+    ],
+    "a464cab23a": [
+        "kinematics"
+    ],
+    "a464cab23b": [
+        "kinematics"
+    ],
+    "a464cab23c": [
+        "kinematics"
+    ],
+    "a464cab27a": [
+        "kinematics"
+    ],
+    "a464cab28aa": [
+        "kinematics"
+    ],
+    "a464cab29aa": [
+        "kinematics"
+    ],
+    "a464cab29ab": [
+        "kinematics"
+    ],
+    "a464cab29ac": [
+        "kinematics"
+    ],
+    "a464cab31aa": [
+        "kinematics"
+    ],
+    "a464cab31ab": [
+        "kinematics"
+    ],
+    "a464cab33aa": [
+        "kinematics"
+    ],
+    "a464cab33ab": [
+        "kinematics"
+    ],
+    "a464cab35aa": [
+        "kinematics"
+    ],
+    "a464cab39a": [
+        "kinematics"
+    ],
+    "a464cab47a": [
+        "kinematics"
+    ],
+    "a464cab57a": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed11a": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed11b": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed11c": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed5a": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed5b": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed9a": [
+        "kinematics"
+    ],
+    "a464cabaverage_speed9b": [
+        "kinematics"
+    ],
+    "a464cabdisplacement1a": [
+        "kinematics"
+    ],
+    "a464cabdisplacement1b": [
+        "kinematics"
+    ],
+    "a464cabdisplacement1c": [
+        "kinematics"
+    ],
+    "a464cabdisplacement3a": [
+        "kinematics"
+    ],
+    "a464cabdisplacement3b": [
+        "kinematics"
+    ],
+    "a464cabdisplacement3c": [
+        "kinematics"
+    ],
+    "a464cabtime7a": [
+        "kinematics"
+    ],
+    "af02d1cprojectile1a": [
+        "projectile_motion"
+    ],
+    "af02d1cprojectile1b": [
+        "projectile_motion"
+    ],
+    "af02d1cprojectile2a": [
+        "projectile_motion"
+    ],
+    "af02d1cprojectile2b": [
+        "projectile_motion"
+    ],
+    "af02d1cprojectile3a": [
+        "projectile_motion"
+    ],
+    "af02d1cprojectile4a": [
+        "projectile_motion"
+    ],
+    "af02d1cvectoranalytical1a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical1b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical1c": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical2a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical2b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical2c": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical3a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical3b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical3c": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical4a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical4b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical5a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical5b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical6a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical6b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical7a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical7b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical8a": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical8b": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectoranalytical8c": [
+        "vector_addition_and_subtraction:_analytical_methods"
+    ],
+    "af02d1cvectorgraphical1a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical1b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical1c": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical2a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical2b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical2c": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical3a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical3b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical3c": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical4a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical4b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical5a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical6a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical6b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical7a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical7b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical8a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical8b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical9a": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "af02d1cvectorgraphical9b": [
+        "vector_addition_and_subtraction:_graphical_methods"
+    ],
+    "ad047cddynamics1a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics10a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics11a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics12a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics13a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics14a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics15a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics16a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics17a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics18a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics19a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics2a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics20a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics21a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics22a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics23a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics24a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics25a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics26a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics3a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics4a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics4b": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics5a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics6a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics7a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics8a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ad047cddynamics9a": [
+        "dynamics:_force_and_newton's_laws_of_motion"
+    ],
+    "ab231bedrag1a": [
+        "drag_forces"
+    ],
+    "ab231bedrag2a": [
+        "drag_forces"
+    ],
+    "ab231bedrag3a": [
+        "drag_forces"
+    ],
+    "ab231bedrag4a": [
+        "drag_forces"
+    ],
+    "ab231beelasticity1a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity2a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity3a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity4a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity5a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity6a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231beelasticity7a": [
+        "elasticity:_stress_and_strain"
+    ],
+    "ab231befriction1a": [
+        "friction"
+    ],
+    "ab231befriction10a": [
+        "friction"
+    ],
+    "ab231befriction2a": [
+        "friction"
+    ],
+    "ab231befriction2b": [
+        "friction"
+    ],
+    "ab231befriction3a": [
+        "friction"
+    ],
+    "ab231befriction4a": [
+        "friction"
+    ],
+    "ab231befriction5a": [
+        "friction"
+    ],
+    "ab231befriction6a": [
+        "friction"
+    ],
+    "ab231befriction7a": [
+        "friction"
+    ],
+    "ab231befriction7b": [
+        "friction"
+    ],
+    "ab231befriction8a": [
+        "friction"
+    ],
+    "ab231befriction9a": [
+        "friction"
+    ],
+    "af2c240problem1a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem10a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem12a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem14a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem14b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem14c": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem16a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem16b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem16c": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem18a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem18b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem20a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem20b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem20c": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem20d": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem21a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem21b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem22a": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem22b": [
+        "centripetal_acceleration"
+    ],
+    "af2c240problem23a": [
+        "centripetal_force"
+    ],
+    "af2c240problem23b": [
+        "centripetal_force"
+    ],
+    "af2c240problem25a": [
+        "centripetal_force"
+    ],
+    "af2c240problem27a": [
+        "centripetal_force"
+    ],
+    "af2c240problem27b": [
+        "centripetal_force"
+    ],
+    "af2c240problem29a": [
+        "centripetal_force"
+    ],
+    "af2c240problem3a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem30a": [
+        "centripetal_force"
+    ],
+    "af2c240problem30b": [
+        "centripetal_force"
+    ],
+    "af2c240problem32a": [
+        "centripetal_force"
+    ],
+    "af2c240problem33a": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem35a": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem35b": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem37a": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem37b": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem39a": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem39b": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem39c": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem41a": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem41b": [
+        "newton\u2019s_universal_law_of_gravitation"
+    ],
+    "af2c240problem44a": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem48a": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem48b": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem48c": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem48d": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem48e": [
+        "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity"
+    ],
+    "af2c240problem5a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem7a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem7b": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem8a": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem8b": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "af2c240problem8c": [
+        "rotation_angle_and_angular_velocity"
+    ],
+    "adbbf3bgravitational1a": [
+        "gravitational_potential_energy"
+    ],
+    "adbbf3bgravitational2a": [
+        "gravitational_potential_energy"
+    ],
+    "adbbf3bgravitational3a": [
+        "gravitational_potential_energy"
+    ],
+    "adbbf3bgravitational4a": [
+        "gravitational_potential_energy"
+    ],
+    "adbbf3bgravitational5a": [
+        "gravitational_potential_energy"
+    ],
+    "adbbf3bkinetic1a": [
+        "kinetic_energy_and_the_work_energy_theorem"
+    ],
+    "adbbf3bkinetic2a": [
+        "kinetic_energy_and_the_work_energy_theorem"
+    ],
+    "adbbf3bpower1a": [
+        "power"
+    ],
+    "adbbf3bpower2a": [
+        "power"
+    ],
+    "adbbf3bpower3a": [
+        "power"
+    ],
+    "adbbf3bwork1a": [
+        "work:_the_scientific_definition"
+    ],
+    "adbbf3bwork2a": [
+        "work:_the_scientific_definition"
+    ],
+    "adbbf3bwork3a": [
+        "work:_the_scientific_definition"
+    ],
+    "adbbf3bwork4a": [
+        "work:_the_scientific_definition"
+    ],
+    "adbbf3bwork5a": [
+        "work:_the_scientific_definition"
+    ],
+    "adbbf3bwork5b": [
+        "work:_the_scientific_definition"
+    ],
+    "aaa02b6momentum1a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum1b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum1c": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum10a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum11a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum13a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum14a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum15a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum15b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum15c": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum16a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum16b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum17a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum18a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum18b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum18c": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum19a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum19b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum2a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum2b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum20a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum21a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum21b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum22a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum23a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum23b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum24a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum24b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum25a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum26a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum27a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum3a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum4a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum5a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum5b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum6a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum6b": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum7a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum8a": [
+        "linear_momentum_and_force"
+    ],
+    "aaa02b6momentum9a": [
+        "linear_momentum_and_force"
+    ],
+    "ac0ca55equilibrium1a": [
+        "the_second_condition_for_equilibrium"
+    ],
+    "ac0ca55equilibrium2a": [
+        "the_second_condition_for_equilibrium"
+    ],
+    "ac0ca55equilibrium3a": [
+        "the_second_condition_for_equilibrium"
+    ],
+    "ac0ca55equilibrium4a": [
+        "the_second_condition_for_equilibrium"
+    ],
+    "ac0ca55equilibrium5a": [
+        "the_second_condition_for_equilibrium"
+    ],
+    "ac0ca55stability1a": [
+        "stability"
+    ],
+    "ac0ca55stability10a": [
+        "forces_and_torques_in_muscles_and_joints"
+    ],
+    "ac0ca55stability2a": [
+        "stability"
+    ],
+    "ac0ca55stability3a": [
+        "stability"
+    ],
+    "ac0ca55stability4a": [
+        "stability"
+    ],
+    "ac0ca55stability5a": [
+        "stability"
+    ],
+    "ac0ca55stability6a": [
+        "simple_machines"
+    ],
+    "ac0ca55stability7a": [
+        "simple_machines"
+    ],
+    "ac0ca55stability8a": [
+        "simple_machines"
+    ],
+    "ac0ca55stability9a": [
+        "simple_machines"
+    ],
+    "a2e88ferotational1a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational10a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational11a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational11b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational11c": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational12a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational12b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational13a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational14a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational15a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational15b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational2a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational2b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational3a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational3b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational4a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational4b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational5a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational5b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational5c": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational6a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational7a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational7b": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational7c": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational8a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a2e88ferotational9a": [
+        "rotational_motion_and_angular_momentum"
+    ],
+    "a7583f3density1a": [
+        "density"
+    ],
+    "a7583f3density2a": [
+        "density"
+    ],
+    "a7583f3density3a": [
+        "density"
+    ],
+    "a7583f3density4a": [
+        "density"
+    ],
+    "a7583f3density5a": [
+        "density"
+    ],
+    "a7583f3density6a": [
+        "density"
+    ],
+    "a7583f3density7a": [
+        "density"
+    ],
+    "a7583f3density8a": [
+        "density"
+    ],
+    "a7583f3density9a": [
+        "density"
+    ],
+    "a7583f3pressure1a": [
+        "pressure"
+    ],
+    "a7583f3pressure2a": [
+        "pressure"
+    ],
+    "a7583f3pressure3a": [
+        "pressure"
+    ],
+    "a0b4d00fluid1a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid2a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid23a": [
+        "bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid23b": [
+        "bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid25a": [
+        "the_most_general_applications_of_bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid25b": [
+        "the_most_general_applications_of_bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid27a": [
+        "the_most_general_applications_of_bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid29a": [
+        "viscosity_and_laminar_flow;_poiseuille\u2019s_law"
+    ],
+    "a0b4d00fluid3a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid3b": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid31a": [
+        "viscosity_and_laminar_flow;_poiseuille\u2019s_law"
+    ],
+    "a0b4d00fluid37a": [
+        "viscosity_and_laminar_flow;_poiseuille\u2019s_law"
+    ],
+    "a0b4d00fluid4a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid4b": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid41a": [
+        "viscosity_and_laminar_flow;_poiseuille\u2019s_law"
+    ],
+    "a0b4d00fluid45a": [
+        "viscosity_and_laminar_flow;_poiseuille\u2019s_law"
+    ],
+    "a0b4d00fluid5a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid5b": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid53a": [
+        "the_onset_of_turbulence"
+    ],
+    "a0b4d00fluid53b": [
+        "the_onset_of_turbulence"
+    ],
+    "a0b4d00fluid53c": [
+        "the_onset_of_turbulence"
+    ],
+    "a0b4d00fluid53d": [
+        "the_onset_of_turbulence"
+    ],
+    "a0b4d00fluid6a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid6b": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid6c": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid7a": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid7b": [
+        "flow_rate_and_its_relation_to_velocity"
+    ],
+    "a0b4d00fluid8a": [
+        "bernoulli\u2019s_equation"
+    ],
+    "a0b4d00fluid9a": [
+        "bernoulli\u2019s_equation"
+    ],
     "a2cd345stat1a": [
         "key_terms"
     ],
@@ -6843,6 +8640,9 @@
     "aba0997real9a": [
         "absolute_value_functions"
     ],
+    "ab0ba5einverses1a": [
+        "verifying_that_two_functions_are_inverse_functions"
+    ],
     "ab0ba5einverses10a": [
         "finding_and_evaluating_inverse_functions"
     ],
@@ -7291,6 +9091,9 @@
         "quadratic_functions"
     ],
     "abfba37quadratic18a": [
+        "quadratic_functions"
+    ],
+    "abfba37quadratic19a": [
         "quadratic_functions"
     ],
     "abfba37quadratic2a": [
