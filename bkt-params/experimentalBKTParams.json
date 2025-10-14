@@ -1,4 +1,46 @@
 {
+    "and_least_common_multiples": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "evaluate_an_expression": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "find_factors": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identify_and_combine_like_terms": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "prime_factorizations": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "simplify_expressions_using_the_order_of_operations": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "translate_an_english_phrase_to_an_algebraic_expression": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "add_and_subtract_fractions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -126,18 +168,6 @@
         "probGuess": 0.1
     },
     "binomials_and_trinomials": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "evaluate_an_expression": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "identify_and_combine_like_terms": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -522,24 +552,6 @@
         "probGuess": 0.1
     },
     "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "and_least_common_multiples": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "find_factors": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "prime_factorizations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -1673,6 +1685,402 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "review_of_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "symmetry_of_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "linear_functions_and_slope": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "polynomials": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "radian_measure": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "inverse_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "exponential_and_logarithmic_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "a_preview_of_calculus": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "intuitive_definition_of_a_limit": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "one_sided_limits": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_existence_of_a_limit": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "limit_of_a_composite_cosine_function": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_intermediate_value_theorem": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_precise_definition_of_a_limit": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "amount_of_change_formula": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "changes_in_cost_and_revenue": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "motion_along_a_line": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "population_change": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "related_rates": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_mean_value_theorem": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "describing_newton's_method": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "failures_of_newton's_method": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "other_iterative_processes": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "section_4.9_exercises": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "approximating_area": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "section_5.1_exercises": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "sigma_(summation)_notation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "area_and_the_definite_integral": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "average_value_of_a_function": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "definition_and_notation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "evaluating_definite_integrals": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "properties_of_the_definite_integral": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "section_5.2_exercises": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_fundamental_theorem_of_calculus": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "applying_the_net_change_theorem": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "basic_integration_formulas": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_net_change_theorem": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_basic_integration_formulas": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "constant_of_integration": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "section_5.5_exercises": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "substitution": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "substitution_for_definite_integrals": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "integrals_involving_logarithmic_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "integrals_of_exponential_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "section_5.6_exercises": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "integrals_resulting_in_other_inverse_trigonometric_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "integrals_that_result_in_inverse_sine_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "area_between_curves": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "area_of_a_region_between_two_curves": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "areas_of_compound_regions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "regions_defined_with_respect_to_y": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solids_of_revolution": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_disk_method": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_slicing_method": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_washer_method": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_volume_of_revolution:_cylindrical_shells": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "arc_length_of_a_curve_and_surface_area": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "physics_application": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "arc_length_of_the_curve": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "finding_the_centroid_of_a_region_bounded_by_two_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "the_symmetry_principle": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_the_theorem_of_pappus_for_volume": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "3.5_derivator_av_trigonometriska_funktioner": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "3.3_deriveringsregler": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "3.6_kedjeregeln": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "6.1_areor_mellan_kurvor": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "determining_whether_a_function_is_one_to_one": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -1920,6 +2328,12 @@
         "probGuess": 0.1
     },
     "exponential_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "graphs_of_exponential_functions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -2286,12 +2700,6 @@
         "probGuess": 0.1
     },
     "use_place_value_with_whole_numbers": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "simplify_expressions_using_the_order_of_operations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3060,12 +3468,6 @@
         "probGuess": 0.1
     },
     "solve_maximum_and_minimum_applications": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "translate_an_english_phrase_to_an_algebraic_expression": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -5298,378 +5700,6 @@
         "probGuess": 0.1
     },
     "linear_and_quadratic": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "review_of_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "symmetry_of_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "linear_functions_and_slope": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "polynomials": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "radian_measure": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "inverse_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "exponential_and_logarithmic_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "a_preview_of_calculus": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "intuitive_definition_of_a_limit": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "one_sided_limits": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_existence_of_a_limit": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "limit_of_a_composite_cosine_function": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_intermediate_value_theorem": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_precise_definition_of_a_limit": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "amount_of_change_formula": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "changes_in_cost_and_revenue": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "motion_along_a_line": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "population_change": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "related_rates": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_mean_value_theorem": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "describing_newton's_method": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "failures_of_newton's_method": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "other_iterative_processes": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "section_4.9_exercises": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "approximating_area": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "section_5.1_exercises": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "sigma_(summation)_notation": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "area_and_the_definite_integral": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "average_value_of_a_function": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "definition_and_notation": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "evaluating_definite_integrals": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "properties_of_the_definite_integral": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "section_5.2_exercises": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_fundamental_theorem_of_calculus": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "applying_the_net_change_theorem": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "basic_integration_formulas": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_net_change_theorem": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "using_basic_integration_formulas": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "constant_of_integration": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "section_5.5_exercises": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "substitution": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "substitution_for_definite_integrals": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "integrals_involving_logarithmic_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "integrals_of_exponential_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "section_5.6_exercises": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "integrals_resulting_in_other_inverse_trigonometric_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "integrals_that_result_in_inverse_sine_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "area_between_curves": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "area_of_a_region_between_two_curves": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "areas_of_compound_regions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "regions_defined_with_respect_to_y": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "solids_of_revolution": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_disk_method": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_slicing_method": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_washer_method": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_volume_of_revolution:_cylindrical_shells": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "arc_length_of_a_curve_and_surface_area": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "physics_application": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "arc_length_of_the_curve": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "finding_the_centroid_of_a_region_bounded_by_two_functions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "the_symmetry_principle": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "using_the_theorem_of_pappus_for_volume": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
