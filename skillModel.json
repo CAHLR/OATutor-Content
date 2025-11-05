@@ -2707,6 +2707,51 @@
     "a97d67fcoordinates9a": [
         "verify_solutions_to_an_equation_in_two_variables"
     ],
+    "a3b059ageo13a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt1a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt10a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt11a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt12a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt13a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt14a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt2a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt3a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt4a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt5a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt6a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt7a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt8a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a3b059asrt9a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
     "a7104fcdistance1a": [
         "use_the_distance_formula"
     ],
@@ -2764,76 +2809,76 @@
     "a70ee94pyth1a": [
         "solve_applications_using_properties_of_triangles"
     ],
-    "a5c0841LinEqua27a": [
-        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
-    ],
-    "a5c0841LinEqua27b": [
-        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
-    ],
-    "a5c0841LinEqua28a": [
-        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
-    ],
-    "a5c0841LinEqua28b": [
-        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
-    ],
-    "a5c0841LinEqua29a": [
+    "a41f771LinEqua29a": [
         "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
     ],
-    "a5c0841LinEqua30a": [
+    "a41f771LinEqua30a": [
         "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
     ],
-    "a5c0841LinEqua31a": [
+    "a41f771slope14a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope15a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope16a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope17a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope18a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope19a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope20a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope21a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a41f771slope22a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a9f1ed7LinEqua27a": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a9f1ed7LinEqua27b": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a9f1ed7LinEqua28a": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a9f1ed7LinEqua28b": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a9f1ed7LinEqua31a": [
         "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
     ],
-    "a5c0841slope14a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope15a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope16a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope17a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope18a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope19a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope20a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope21a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope22a": [
-        "use_slopes_to_identify_parallel_lines"
-    ],
-    "a5c0841slope23a": [
+    "a9f1ed7slope23a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope24a": [
+    "a9f1ed7slope24a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope25a": [
+    "a9f1ed7slope25a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope26a": [
+    "a9f1ed7slope26a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope27a": [
+    "a9f1ed7slope27a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope28a": [
+    "a9f1ed7slope28a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope29a": [
+    "a9f1ed7slope29a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
-    "a5c0841slope30a": [
+    "a9f1ed7slope30a": [
         "use_slopes_to_identify_perpendicular_lines"
     ],
     "a507f9eFraction1a": [
@@ -11190,6 +11235,12 @@
     "a193928real9a": [
         "domain_and_range"
     ],
+    "a4bb453real1a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real2a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
     "a4bb453real5a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
@@ -11202,22 +11253,10 @@
     "a005bd5real11a": [
         "composition_of_functions"
     ],
-    "a005bd5real12a": [
-        "composition_of_functions"
-    ],
     "a005bd5real14a": [
         "composition_of_functions"
     ],
     "a005bd5real15a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real17a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real18a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real19a": [
         "composition_of_functions"
     ],
     "a005bd5real2a": [
@@ -11230,15 +11269,6 @@
         "composition_of_functions"
     ],
     "a005bd5real2d": [
-        "composition_of_functions"
-    ],
-    "a005bd5real20a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real21a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real22a": [
         "composition_of_functions"
     ],
     "a005bd5real24a": [
@@ -11331,6 +11361,9 @@
     "ad70fe4real28a": [
         "transformation_of_functions"
     ],
+    "ad70fe4real29a": [
+        "transformation_of_functions"
+    ],
     "ad70fe4real3a": [
         "transformation_of_functions"
     ],
@@ -11398,9 +11431,6 @@
         "absolute_value_functions"
     ],
     "aba0997real22a": [
-        "absolute_value_functions"
-    ],
-    "aba0997real23a": [
         "absolute_value_functions"
     ],
     "aba0997real24a": [
@@ -12978,6 +13008,9 @@
     "a37e07emodels26a": [
         "exponential_and_logarithmic_models"
     ],
+    "a37e07emodels27a": [
+        "exponential_and_logarithmic_models"
+    ],
     "a37e07emodels28a": [
         "exponential_and_logarithmic_models"
     ],
@@ -13452,6 +13485,9 @@
     "adaa3f9righttrig6a": [
         "right_triangle_trigonometry"
     ],
+    "adaa3f9righttrig7a": [
+        "right_triangle_trigonometry"
+    ],
     "adaa3f9righttrig8a": [
         "right_triangle_trigonometry"
     ],
@@ -13808,6 +13844,96 @@
     ],
     "a9cf10atrig5a": [
         "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "aae56detrig1a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig10a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig11a": [
+        "openstax"
+    ],
+    "aae56detrig12a": [
+        "openstax"
+    ],
+    "aae56detrig13a": [
+        "openstax"
+    ],
+    "aae56detrig14a": [
+        "openstax"
+    ],
+    "aae56detrig15a": [
+        "openstax"
+    ],
+    "aae56detrig16a": [
+        "openstax"
+    ],
+    "aae56detrig17a": [
+        "openstax"
+    ],
+    "aae56detrig18a": [
+        "openstax"
+    ],
+    "aae56detrig19a": [
+        "openstax"
+    ],
+    "aae56detrig2a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig20a": [
+        "openstax"
+    ],
+    "aae56detrig21a": [
+        "openstax"
+    ],
+    "aae56detrig22a": [
+        "openstax"
+    ],
+    "aae56detrig23a": [
+        "openstax"
+    ],
+    "aae56detrig24a": [
+        "openstax"
+    ],
+    "aae56detrig25a": [
+        "openstax"
+    ],
+    "aae56detrig26a": [
+        "openstax"
+    ],
+    "aae56detrig27a": [
+        "openstax"
+    ],
+    "aae56detrig28a": [
+        "openstax"
+    ],
+    "aae56detrig29a": [
+        "openstax"
+    ],
+    "aae56detrig3a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig30a": [
+        "openstax"
+    ],
+    "aae56detrig4a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig5a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig6a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig7a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig8a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig9a": [
+        "sum_and_difference_identities"
     ],
     "a649252angle1a": [
         "double_angle",
@@ -16220,22 +16346,22 @@
         "3.6_kedjeregeln"
     ],
     "a9c994ba1cc0dcareas10a": [
-        "6.1_areor_mellan_kurvor"
+        "6.1_areor"
     ],
     "a9c994ba1cc0dcareas11a": [
-        "6.1_areor_mellan_kurvor"
+        "6.1_areor"
     ],
     "a9c994ba1cc0dcareas6a": [
-        "6.1_areor_mellan_kurvor"
+        "6.1_areor"
     ],
     "af985e8a1cc0dcareas1a": [
         "6.1_areor_mellan_kurvor"
     ],
     "a1fac02a1cc0dcareas3a": [
-        "6.1_areor_mellan_kurvor"
+        "6.1_omr\u00e5den_av_sammansatta_regioner"
     ],
     "a1fac02a1cc0dcareas4a": [
-        "6.1_areor_mellan_kurvor"
+        "6.1_omr\u00e5den_av_sammansatta_regioner"
     ],
     "a53b893whole1a": [
         "use_place_value_with_whole_numbers"
