@@ -647,6 +647,165 @@
         ]
     },
     {
+        "courseName": "SJSU 1018",
+        "courseOER": "https://openstax.org/",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "4RQFHFJl-30dg-bmFCWGptb2",
+                "name": "Lesson 1018.1.1",
+                "topics": "Order of Operations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "simplify_expressions_using_the_order_of_operations": 0.85
+                }
+            },
+            {
+                "id": "06tRgWRG-UqKh-lvebPZ3PMa",
+                "name": "Lesson 1018.1.2",
+                "topics": "Positive Integer Powers",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_the_power_of_a_product": 0.85,
+                    "finding_the_quotient_of_a_product": 0.85,
+                    "using_scientific_notation": 0.85,
+                    "using_the_negative_exponent_rule_of_exponents": 0.85,
+                    "using_the_power_rule_of_exponents": 0.85,
+                    "using_the_product_exponent_rule_of_exponents": 0.85,
+                    "using_the_quotient_exponent_rule_of_exponents": 0.85,
+                    "using_the_quotient_rule_of_exponents": 0.85,
+                    "using_the_zero_exponent_rule_of_exponents": 0.85
+                }
+            },
+            {
+                "id": "55RLh6WH-ojgO-2BFeB29q2X",
+                "name": "Lesson 1018.1.3",
+                "topics": "Factoring Integers",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "and_least_common_multiples": 0.85,
+                    "find_factors": 0.85,
+                    "find_prime_factorizations_and_least_common_multiples": 0.85,
+                    "prime_factorizations": 0.85
+                }
+            },
+            {
+                "id": "0zwqHoph-zaeX-kuExy3Rj7S",
+                "name": "Lesson 1018.1.4",
+                "topics": "Greatest Common Factor/Least Common Multiple",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "find_prime_factorizations_and_least_common_multiples": 0.85
+                }
+            },
+            {
+                "id": "5YGERWqf-rY3f-LTAX7KWy7M",
+                "name": "Lesson 1018.2.1",
+                "topics": "Integers vs. Rational Numbers vs. Irrational Numbers",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "and_real_numbers": 0.85,
+                    "classifying_a_real_number": 0.85,
+                    "evaluating_algebraic_expressions": 0.85,
+                    "identify_integers": 0.85,
+                    "irrational_numbers": 0.85,
+                    "locate_decimals_on_the_number_line": 0.85,
+                    "performing_calculations_using_the_order_of_operations": 0.85,
+                    "rational_numbers": 0.85,
+                    "simplify_expressions_with_square_roots": 0.85
+                }
+            },
+            {
+                "id": "0GFQwsX3-wlia-YYGstiGNGa",
+                "name": "Lesson 1018.2.2",
+                "topics": "Reducing Fractions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "evaluate_variable_expressions_with_fractions": 0.85,
+                    "multiply_and_divide_fractions": 0.85,
+                    "simplify_fractions": 0.85
+                }
+            },
+            {
+                "id": "55pSwMAx-Pb69-QGn6lL2SHm",
+                "name": "Lesson 1018.2.3",
+                "topics": "Multiplying and Dividing Fractions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "divide_fractions": 0.85,
+                    "evaluate_variable_expressions_with_fractions": 0.85,
+                    "multiply_and_divide_fractions": 0.85,
+                    "multiply_fractions": 0.85,
+                    "simplify_expressions_with_a_fraction_bar": 0.85,
+                    "translate_phrases_to_expressions_with_fractions": 0.85
+                }
+            },
+            {
+                "id": "6zTTWy9Q-5TGI-mItCE9aJjc",
+                "name": "Lesson 1018.2.4",
+                "topics": "Adding and Subtracting Fractions with and without a Common Denominator",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "add_and_subtract_fractions": 0.85,
+                    "add_or_subtract_fractions_with_a_common_denominator": 0.85,
+                    "add_or_subtract_fractions_with_different_denominators": 0.85,
+                    "evaluate_variable_expressions_with_fractions": 0.85,
+                    "use_the_order_of_operations_to_simplify_complex_fractions": 0.85,
+                    "use_the_order_of_operations_to_simplify_fractions": 0.85
+                }
+            },
+            {
+                "id": "6BI9ClS2-kY2o-3swn7EtFUO",
+                "name": "Lesson 1018.5.1",
+                "topics": "Ratios, Rates, and Writing and Solving Proportions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "and_percents": 0.85,
+                    "convert_decimals": 0.85,
+                    "fractions": 0.85,
+                    "round_decimals": 0.85
+                }
+            },
+            {
+                "id": "1mfYyfjM-Akd3-d3cWKCk8J4",
+                "name": "Lesson 1018.5.2",
+                "topics": "Percents and Fractions and Decimals",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "add_and_subtract_decimals": 0.85,
+                    "add_or_subtract_decimals.": 0.85,
+                    "multiply_and_divide_decimals": 0.85,
+                    "name_and_write_decimals": 0.85,
+                    "round_decimals": 0.85
+                }
+            },
+            {
+                "id": "63fV5P2g-Fz95-OVwQeLzBIb",
+                "name": "Lesson 1018.5.3",
+                "topics": "The Percent Equation",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "find_percent_increase_and_percent_decrease": 0.85,
+                    "solve_applications_of_percent": 0.85,
+                    "solve_simple_interest_applications": 0.85,
+                    "translate_and_solve_basic_percent_equations": 0.85
+                }
+            },
+            {
+                "id": "54EfU0rX-HUoU-I6sGUQRYiU",
+                "name": "Lesson 1018.6.1",
+                "topics": "The Coordinate Plane and Plotting Ordered Pairs",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "complete_a_table_of_solutions_to_a_linear_equation": 0.85,
+                    "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables": 0.85,
+                    "plot_points_on_a_rectangular_coordinate_system": 0.85,
+                    "verify_solutions_to_an_equation_in_two_variables": 0.85
+                }
+            }
+        ]
+    },
+    {
         "courseName": "OpenStax: College Physics",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -1816,6 +1975,67 @@
         ]
     },
     {
+        "courseName": "Matematik 4",
+        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "7fwSYN5U-yr7g-s4xwu5UodE",
+                "name": "Lesson 1",
+                "topics": "Derivator av trigonometriska funktioner",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "3.5_derivator_av_trigonometriska_funktioner": 0.85
+                }
+            },
+            {
+                "id": "4EE9oovP-up2N-vdrE7VLFVt",
+                "name": "Lesson 2",
+                "topics": "Deriveringsregler",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "3.3_deriveringsregler": 0.85
+                }
+            },
+            {
+                "id": "0CkE3CLL-eTQ5-k6vMeA2oSc",
+                "name": "Lesson 3",
+                "topics": "Kedjeregeln",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "3.6_kedjeregeln": 0.85
+                }
+            },
+            {
+                "id": "4w3okOpy-tgvm-3jxmLBdLdS",
+                "name": "Lesson 4",
+                "topics": "Areor",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "6.1_areor": 0.85
+                }
+            },
+            {
+                "id": "7NJFcfIE-jg9N-hsHAvtQ1CA",
+                "name": "Lesson 5",
+                "topics": "Area av ett omr\u00e5de mellan tv\u00e5 kurvor",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "6.1_areor_mellan_kurvor": 0.85
+                }
+            },
+            {
+                "id": "2ksr98rM-23N5-e0TKVh2URv",
+                "name": "Lesson 6",
+                "topics": "Omr\u00e5den av sammansatta regioner",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "6.1_omr\u00e5den_av_sammansatta_regioner": 0.85
+                }
+            }
+        ]
+    },
+    {
         "courseName": "OpenStax: Pre-Calculus",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -2443,67 +2663,6 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "derivatives": 0.85
-                }
-            }
-        ]
-    },
-    {
-        "courseName": "Matematik 4",
-        "courseOER": "https://openstax.org/ <OpenStax>",
-        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-        "lessons": [
-            {
-                "id": "7fwSYN5U-yr7g-s4xwu5UodE",
-                "name": "Lesson 1",
-                "topics": "Derivator av trigonometriska funktioner",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "3.5_derivator_av_trigonometriska_funktioner": 0.85
-                }
-            },
-            {
-                "id": "4EE9oovP-up2N-vdrE7VLFVt",
-                "name": "Lesson 2",
-                "topics": "Deriveringsregler",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "3.3_deriveringsregler": 0.85
-                }
-            },
-            {
-                "id": "0CkE3CLL-eTQ5-k6vMeA2oSc",
-                "name": "Lesson 3",
-                "topics": "Kedjeregeln",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "3.6_kedjeregeln": 0.85
-                }
-            },
-            {
-                "id": "4w3okOpy-tgvm-3jxmLBdLdS",
-                "name": "Lesson 4",
-                "topics": "Areor",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "6.1_areor": 0.85
-                }
-            },
-            {
-                "id": "7NJFcfIE-jg9N-hsHAvtQ1CA",
-                "name": "Lesson 5",
-                "topics": "Area av ett omr\u00e5de mellan tv\u00e5 kurvor",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "6.1_areor_mellan_kurvor": 0.85
-                }
-            },
-            {
-                "id": "2ksr98rM-23N5-e0TKVh2URv",
-                "name": "Lesson 6",
-                "topics": "Omr\u00e5den av sammansatta regioner",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "6.1_omr\u00e5den_av_sammansatta_regioner": 0.85
                 }
             }
         ]
