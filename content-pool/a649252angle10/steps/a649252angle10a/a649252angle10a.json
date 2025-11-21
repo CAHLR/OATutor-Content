@@ -1,10 +1,10 @@
 {
     "id": "a649252angle10a",
     "stepAnswer": [
-        "cos(56\u2218)"
+        "cos(56)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "cos**2(28\u2218)-sin**2(28\u2218)",
+    "stepTitle": "$${cos}^{2\\left(28\\right)}-{sin}^{2\\left(28\\right)}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

@@ -37,5 +37,17 @@
         "variabilization": {},
         "oer": "",
         "license": ""
+    },
+    {
+        "id": "a8cc02freal25a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a8cc02freal25a-h3"
+        ],
+        "title": "Plug in the solved $$x$$ value into one of the two original equations and solve for $$y$$.",
+        "text": "",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
     }
 ]

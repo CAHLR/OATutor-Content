@@ -3,9 +3,12 @@
     "stepAnswer": [
         "Disproved"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Prove or disprove $$\\frac{tanx}{secx} \\operatorname{sinnegneg}\\left(x\\right)=cos^2\\left(x\\right)$$.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "Disproved"
+    ]
 }

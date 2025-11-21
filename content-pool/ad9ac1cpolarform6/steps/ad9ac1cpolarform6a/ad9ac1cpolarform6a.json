@@ -10,7 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$3\\operatorname{cis}\\left(\\frac{\\pi}{2}\\right)$$",
     "choices": [
-        "$$3\\operatorname{cis}\\left(\\frac{\\pi}{2}\\right)$$",
-        "$$3\\operatorname{icis}\\left(\\frac{\\pi}{2}\\right)$$, 3i, 3tan(0), $$3\\operatorname{cis}\\left(\\frac{\\pi}{2}\\right)$$"
+        "$$3\\operatorname{icis}\\left(\\frac{\\pi}{2}\\right)$$",
+        "3i",
+        "3tan(0)",
+        "$$3\\operatorname{cis}\\left(\\frac{\\pi}{2}\\right)$$"
     ]
 }

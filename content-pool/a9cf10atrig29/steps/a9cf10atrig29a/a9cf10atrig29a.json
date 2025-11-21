@@ -3,9 +3,13 @@
     "stepAnswer": [
         "True"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Determine whether $$3sin^2\\left(\\theta\\right)+4cos^2\\left(\\theta\\right)=3+cos^2\\left(\\theta\\right)$$ is true or false. Find an appropriate equivalent expression.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "True",
+        "False"
+    ]
 }

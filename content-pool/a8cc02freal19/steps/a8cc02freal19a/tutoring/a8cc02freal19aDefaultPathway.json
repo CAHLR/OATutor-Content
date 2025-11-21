@@ -20,17 +20,5 @@
         "variabilization": {},
         "oer": "",
         "license": ""
-    },
-    {
-        "id": "a8cc02freal19a-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8cc02freal19a-h2"
-        ],
-        "title": "Pick one of the two original equations with $$x$$ and $$y$$ and plug the $$y$$ value in to solve for the $$x$$ values.",
-        "text": "",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
     }
 ]

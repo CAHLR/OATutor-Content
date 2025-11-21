@@ -3,7 +3,7 @@
         "id": "a8cc02freal29a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Observe that the first equation is $$x=$$ some equation in term of y's format.",
+        "title": "Observe that when you try to match the coefficients of $$x$$ or $$y$$, they both cancel out.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -14,18 +14,6 @@
         "type": "hint",
         "dependencies": [
             "a8cc02freal29a-h1"
-        ],
-        "title": "Plug in the first equation into the second equation. The $$y$$ cancels out and the constants remain.",
-        "text": "",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
-    },
-    {
-        "id": "a8cc02freal29a-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8cc02freal29a-h2"
         ],
         "title": "Does the equality hold? If not, what system can we conclude it as? If so, what system is it?",
         "text": "",

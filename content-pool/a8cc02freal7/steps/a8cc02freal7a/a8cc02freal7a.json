@@ -4,7 +4,7 @@
         "independent system"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Solve the following system of equations by graphing. Identify the type of system. $$2x+y=-8$$, $$x-y=-1$$",
+    "stepTitle": "Solve the following system of equations by graphing. $$2x-5y=-25$$, $$-4x+5y=35$$. Identify the type of the system.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -1,10 +1,10 @@
 {
     "id": "a8cc02freal10a",
     "stepAnswer": [
-        "dependent system"
+        "inconsistent system"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Solve the following system of equations by graphing. Identify the type of system. $$4x-2y=10$$, $$2x-y=5$$.",
+    "stepTitle": "Solve the following system of equations by graphing. Identify the type of system. $$x-2y=3$$, $$x-2y=-4$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

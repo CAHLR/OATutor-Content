@@ -9,10 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
+        "Circle",
         "Limacon",
         "Line",
-        "Rose Curve",
-        "Circle",
-        "Limacon"
+        "Rose Curve"
     ]
 }

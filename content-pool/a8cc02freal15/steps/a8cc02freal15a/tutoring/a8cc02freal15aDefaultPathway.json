@@ -32,17 +32,5 @@
         "variabilization": {},
         "oer": "",
         "license": ""
-    },
-    {
-        "id": "a8cc02freal15a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a8cc02freal15a-h3"
-        ],
-        "title": "Then plug the calculated $$y$$ into an equation both $$x$$ and $$y$$ and solve for the $$x$$.",
-        "text": "",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
     }
 ]

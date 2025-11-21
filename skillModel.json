@@ -3196,6 +3196,9 @@
     "a6ca47dradfunc2a": [
         "evaluate_a_radical_function"
     ],
+    "a6ca47drational13a": [
+        "solve_a_rational_equation_for_a_specific_variable"
+    ],
     "a6ca47dtrig14a": [
         "trigonometric_identities"
     ],
@@ -3266,6 +3269,9 @@
         "derivative_definition"
     ],
     "a28896cdef21b": [
+        "derivative_definition"
+    ],
+    "a28896cdef6a": [
         "derivative_definition"
     ],
     "a28896cdef7a": [
@@ -4514,6 +4520,425 @@
     "ab05b78addand9a": [
         "use_the_order_of_operations_to_simplify_complex_fractions"
     ],
+    "a143c97addprop1a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop1b": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop10a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop11a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop12a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop13a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop2a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop2b": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop3a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop3b": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop4a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop4b": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop5a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop6a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop7a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a143c97addprop8a": [
+        "use_the_identity_and_inverse_properties_of_addition_and_multiplication"
+    ],
+    "a143c97addprop9a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "abf491amultprop1a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop10a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop11a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop12a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop12b": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop12c": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop13a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop13b": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop13c": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop14a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop14b": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop14c": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop15a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop2a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop3a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop4a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop5a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop6a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "abf491amultprop9a": [
+        "use_the_properties_of_identity",
+        "inverse",
+        "and_zero"
+    ],
+    "a48640cdistprop10a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop11a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop12a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop12b": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop13a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop13b": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop14a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop14b": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop15a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop15b": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop2a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop3a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop4a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop5a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop6a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop7a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop8a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a48640cdistprop9a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "ab8f575addsubeq1a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq10a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq11a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq12a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq13a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq14a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq15a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq16a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq2a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq3a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq4a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq5a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq6a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq7a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq8a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "ab8f575addsubeq9a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
+    ],
+    "a1c617cmultdiveq1a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq10a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq11a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq12a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq13a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq14a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq15a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq16a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq2a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq3a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq4a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq5a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq6a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq7a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq8a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "a1c617cmultdiveq9a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
+    ],
+    "ab3bde5multistep1a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep10a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep11a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep12a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep13a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep14a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep15a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep16a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep17a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep18a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep19a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep2a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep3a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep4a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep5a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep6a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep7a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep8a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "ab3bde5multistep9a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a0363bcineq1a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq10a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq11a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq12a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq13a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq14a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq15a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq16a": [
+        "solving_compound_inequalities"
+    ],
+    "a0363bcineq17a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a0363bcineq18a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a0363bcineq19a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a0363bcineq2a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq20a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a0363bcineq21a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "a0363bcineq22a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "a0363bcineq3a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a0363bcineq4a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq5a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq6a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq7a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq8a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a0363bcineq9a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
     "a67bbc4decimals20a": [
         "convert_decimals",
         "fractions",
@@ -4918,6 +5343,657 @@
     ],
     "a873512coordinates9a": [
         "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a502645sqroot1a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot1b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot1c": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot1d": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot10a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot11a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot12a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot13a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot14a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot15a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot16a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot2a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot2b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot6a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot6b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot7a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot7b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot8a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot8b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot9a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "ad82f2bhighroot1a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot1b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot1c": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot10a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot10b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot11a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot11b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot12a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot12b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot2a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot2b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot2c": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot3a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot3b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot4a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot4b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot4c": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot5a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot5b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot5c": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot6a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot6b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot7a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot7b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot7c": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot7d": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot8a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot8b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot9a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bhighroot9b": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "a4da5e5rootdomain1a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain10a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain11a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain11b": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain12a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain13a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain14a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain15a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain16a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain17a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain18a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain2a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain3a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain4a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain5a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain6a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain7a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain8a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a4da5e5rootdomain9a": [
+        "finding_the_domain_of_a_function_with_an_even_root"
+    ],
+    "a3e2de7expo10a": [
+        "using_the_negative_rule"
+    ],
+    "a3e2de7expo10b": [
+        "using_the_negative_rule"
+    ],
+    "a3e2de7expo9a": [
+        "using_the_negative_rule"
+    ],
+    "a3e2de7expo9b": [
+        "using_the_negative_rule"
+    ],
+    "ab5d0bbratioexpo1a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo10a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo10b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo10c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo11a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo11b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo11c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo12a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo12b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo12c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo13a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo14a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo15a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo2a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo3a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo4a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo5a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo6a": [
+        "using_rational_exponents"
+    ],
+    "ab5d0bbratioexpo7a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo7b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo7c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo8a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo8b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo8c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo9a": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo9b": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "ab5d0bbratioexpo9c": [
+        "simplify_expressions_with_a**(1/n)"
+    ],
+    "a6b05b8poly1a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly10a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly10b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly10c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly11a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly11b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly11c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly12a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly12b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly12c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly13a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly14a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly15a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly2a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly3a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly4a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly5a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly6a": [
+        "add_and_subtract_monomials"
+    ],
+    "a6b05b8poly7a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly7b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly7c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly8a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly8b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly8c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly9a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly9b": [
+        "add_and_subtract_polynomials"
+    ],
+    "a6b05b8poly9c": [
+        "add_and_subtract_polynomials"
+    ],
+    "a638351distmono1a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono1b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono10a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono10b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono10c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono11a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono11b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono11c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono12a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono12b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono12c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono13a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono13b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono13c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono14a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono14b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono14c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono15a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono15b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono15c": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono2a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono2b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono3a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono3b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono4a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono5a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono6a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono7a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono8a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a638351distmono9a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "a5340a6foil1a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil10a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil11a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil12a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil13a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil14a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil15a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil16a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil2a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil3a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil4a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil5a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil6a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil7a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil8a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a5340a6foil9a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "a19d043polysq1a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq2a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq3a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq4a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq5a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq6a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq7a": [
+        "perfect_square_trinomials"
+    ],
+    "a19d043polysq8a": [
+        "perfect_square_trinomials"
+    ],
+    "a389170multpoly1a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly10a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly11a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly12a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly2a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly3a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly4a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly5a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly6a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly7a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly8a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly9a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a7db3eepolygcf1a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf1b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf10a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf10b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf11a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf11b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf12a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf12b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf2a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf2b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf3a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf3b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf4a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf4b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf5a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf5b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf6a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf6b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf7a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf7b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf8a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf8b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf9a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepolygcf9b": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
     ],
     "a8238deaccuracy1a": [
         "accuracy",
@@ -12694,10 +13770,82 @@
     "a4bb453real1a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
+    "a4bb453real10a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real11a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real13a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real14a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real15a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real17a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real18a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real19a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
     "a4bb453real2a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
+    "a4bb453real20a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real21a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real22a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real23a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real24a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real25a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real26a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real27a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real28a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real29a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real30a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real4a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
     "a4bb453real5a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real6a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real7a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real8a": [
+        "rates_of_change_and_behavior_of_graphs"
+    ],
+    "a4bb453real9a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
     "a005bd5real1a": [
@@ -12709,10 +13857,25 @@
     "a005bd5real11a": [
         "composition_of_functions"
     ],
+    "a005bd5real12a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real13a": [
+        "composition_of_functions"
+    ],
     "a005bd5real14a": [
         "composition_of_functions"
     ],
     "a005bd5real15a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real17a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real18a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real19a": [
         "composition_of_functions"
     ],
     "a005bd5real2a": [
@@ -12727,6 +13890,15 @@
     "a005bd5real2d": [
         "composition_of_functions"
     ],
+    "a005bd5real20a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real21a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real23a": [
+        "composition_of_functions"
+    ],
     "a005bd5real24a": [
         "composition_of_functions"
     ],
@@ -12736,7 +13908,13 @@
     "a005bd5real26a": [
         "composition_of_functions"
     ],
+    "a005bd5real27a": [
+        "composition_of_functions"
+    ],
     "a005bd5real28a": [
+        "composition_of_functions"
+    ],
+    "a005bd5real3a": [
         "composition_of_functions"
     ],
     "a005bd5real5a": [
@@ -12889,6 +14067,9 @@
     "aba0997real22a": [
         "absolute_value_functions"
     ],
+    "aba0997real23a": [
+        "absolute_value_functions"
+    ],
     "aba0997real24a": [
         "absolute_value_functions"
     ],
@@ -12932,6 +14113,9 @@
         "verifying_that_two_functions_are_inverse_functions"
     ],
     "ab0ba5einverses10a": [
+        "finding_and_evaluating_inverse_functions"
+    ],
+    "ab0ba5einverses11a": [
         "finding_and_evaluating_inverse_functions"
     ],
     "ab0ba5einverses12a": [
@@ -13099,6 +14283,12 @@
     "a3bdccdfunctions27a": [
         "linear_functions"
     ],
+    "a3bdccdfunctions28a": [
+        "linear_functions"
+    ],
+    "a3bdccdfunctions29a": [
+        "linear_functions"
+    ],
     "a3bdccdfunctions3a": [
         "linear_functions"
     ],
@@ -13129,10 +14319,16 @@
     "af0394ereal11a": [
         "graph_of_linear_functions"
     ],
+    "af0394ereal13a": [
+        "graph_of_linear_functions"
+    ],
     "af0394ereal14a": [
         "graph_of_linear_functions"
     ],
     "af0394ereal15a": [
+        "graph_of_linear_functions"
+    ],
+    "af0394ereal16a": [
         "graph_of_linear_functions"
     ],
     "af0394ereal17a": [
@@ -13147,7 +14343,19 @@
     "af0394ereal2a": [
         "graph_of_linear_functions"
     ],
+    "af0394ereal5a": [
+        "graph_of_linear_functions"
+    ],
     "af0394ereal6a": [
+        "graph_of_linear_functions"
+    ],
+    "af0394ereal7a": [
+        "graph_of_linear_functions"
+    ],
+    "af0394ereal8a": [
+        "graph_of_linear_functions"
+    ],
+    "af0394ereal9a": [
         "graph_of_linear_functions"
     ],
     "a83b2ddmodel1a": [
@@ -13390,6 +14598,9 @@
     "abfba37quadratic22a": [
         "quadratic_functions"
     ],
+    "abfba37quadratic23a": [
+        "quadratic_functions"
+    ],
     "abfba37quadratic24a": [
         "quadratic_functions"
     ],
@@ -13570,13 +14781,25 @@
     "a755010polynomial23a": [
         "graphs_of_polynomial_functions"
     ],
+    "a755010polynomial24a": [
+        "graphs_of_polynomial_functions"
+    ],
     "a755010polynomial25a": [
         "graphs_of_polynomial_functions"
     ],
     "a755010polynomial26a": [
         "graphs_of_polynomial_functions"
     ],
+    "a755010polynomial27a": [
+        "graphs_of_polynomial_functions"
+    ],
+    "a755010polynomial28a": [
+        "graphs_of_polynomial_functions"
+    ],
     "a755010polynomial4a": [
+        "graphs_of_polynomial_functions"
+    ],
+    "a755010polynomial5a": [
         "graphs_of_polynomial_functions"
     ],
     "a755010polynomial6a": [
@@ -13618,6 +14841,9 @@
     "a8435depolynomial17a": [
         "dividing_polynomials"
     ],
+    "a8435depolynomial18a": [
+        "dividing_polynomials"
+    ],
     "a8435depolynomial19a": [
         "dividing_polynomials"
     ],
@@ -13639,10 +14865,25 @@
     "a8435depolynomial24a": [
         "dividing_polynomials"
     ],
+    "a8435depolynomial25a": [
+        "dividing_polynomials"
+    ],
     "a8435depolynomial26a": [
         "dividing_polynomials"
     ],
+    "a8435depolynomial27a": [
+        "dividing_polynomials"
+    ],
+    "a8435depolynomial28a": [
+        "dividing_polynomials"
+    ],
+    "a8435depolynomial29a": [
+        "dividing_polynomials"
+    ],
     "a8435depolynomial3a": [
+        "dividing_polynomials"
+    ],
+    "a8435depolynomial30a": [
         "dividing_polynomials"
     ],
     "a8435depolynomial4a": [
@@ -13999,6 +15240,9 @@
     "a18e27bvariation21a": [
         "solving_problems_involving_joint_variation"
     ],
+    "a18e27bvariation22a": [
+        "solving_problems_involving_joint_variation"
+    ],
     "a18e27bvariation23a": [
         "real_world_applications_of_variation"
     ],
@@ -14116,6 +15360,9 @@
     "a6dffedreal30a": [
         "exponential_functions"
     ],
+    "a6dffedreal4a": [
+        "exponential_functions"
+    ],
     "a6dffedreal5a": [
         "exponential_functions"
     ],
@@ -14131,13 +15378,103 @@
     "a6dffedreal9a": [
         "exponential_functions"
     ],
+    "afa63f8real1a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real10a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real11a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real13a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real15a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real16a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real17a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real18a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real19a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real2a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real20a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real21a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real23a": [
+        "graphs_of_exponential_functions"
+    ],
     "afa63f8real24a": [
         "graphs_of_exponential_functions"
+    ],
+    "afa63f8real25a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real26a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real27a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real28a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real29a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real3a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real30a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real5a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real6a": [
+        "graphs_of_exponential_functions"
+    ],
+    "afa63f8real9a": [
+        "graphs_of_exponential_functions"
+    ],
+    "a3d3e89log1a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log10a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log11a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log12a": [
+        "logarithmic_functions"
     ],
     "a3d3e89log14a": [
         "logarithmic_functions"
     ],
     "a3d3e89log15a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log16a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log19a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log2a": [
         "logarithmic_functions"
     ],
     "a3d3e89log20a": [
@@ -14149,7 +15486,37 @@
     "a3d3e89log23a": [
         "logarithmic_functions"
     ],
+    "a3d3e89log24a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log25a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log26a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log27a": [
+        "logarithmic_functions"
+    ],
     "a3d3e89log28a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log3a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log4a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log6a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log7a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log8a": [
+        "logarithmic_functions"
+    ],
+    "a3d3e89log9a": [
         "logarithmic_functions"
     ],
     "a095e7dlog1a": [
@@ -14182,6 +15549,9 @@
     "a095e7dlog18a": [
         "graphs_of_logarithmic_functions"
     ],
+    "a095e7dlog19a": [
+        "graphs_of_logarithmic_functions"
+    ],
     "a095e7dlog2a": [
         "graphs_of_logarithmic_functions"
     ],
@@ -14200,7 +15570,16 @@
     "a095e7dlog24a": [
         "graphs_of_logarithmic_functions"
     ],
+    "a095e7dlog25a": [
+        "graphs_of_logarithmic_functions"
+    ],
+    "a095e7dlog26a": [
+        "graphs_of_logarithmic_functions"
+    ],
     "a095e7dlog27a": [
+        "graphs_of_logarithmic_functions"
+    ],
+    "a095e7dlog28a": [
         "graphs_of_logarithmic_functions"
     ],
     "a095e7dlog29a": [
@@ -14276,6 +15655,9 @@
         "logarithmic_properties"
     ],
     "a1a7c70log23a": [
+        "logarithmic_properties"
+    ],
+    "a1a7c70log24a": [
         "logarithmic_properties"
     ],
     "a1a7c70log25a": [
@@ -14485,6 +15867,12 @@
     "a37e07emodels8a": [
         "exponential_and_logarithmic_models"
     ],
+    "a37e07emodels9a": [
+        "exponential_and_logarithmic_models"
+    ],
+    "a4384a1model1a": [
+        "fitting_exponential_models_to_data"
+    ],
     "a4384a1model10a": [
         "fitting_exponential_models_to_data"
     ],
@@ -14515,7 +15903,13 @@
     "a4384a1model19a": [
         "fitting_exponential_models_to_data"
     ],
+    "a4384a1model2a": [
+        "fitting_exponential_models_to_data"
+    ],
     "a4384a1model20a": [
+        "fitting_exponential_models_to_data"
+    ],
+    "a4384a1model21a": [
         "fitting_exponential_models_to_data"
     ],
     "a4384a1model22a": [
@@ -14540,6 +15934,15 @@
         "fitting_exponential_models_to_data"
     ],
     "a4384a1model29a": [
+        "fitting_exponential_models_to_data"
+    ],
+    "a4384a1model3a": [
+        "fitting_exponential_models_to_data"
+    ],
+    "a4384a1model4a": [
+        "fitting_exponential_models_to_data"
+    ],
+    "a4384a1model5a": [
         "fitting_exponential_models_to_data"
     ],
     "a4384a1model6a": [
@@ -14572,6 +15975,9 @@
     "af3b50aangles14a": [
         "angles"
     ],
+    "af3b50aangles15a": [
+        "angles"
+    ],
     "af3b50aangles16a": [
         "angles"
     ],
@@ -14585,6 +15991,9 @@
         "angles"
     ],
     "af3b50aangles2a": [
+        "angles"
+    ],
+    "af3b50aangles20a": [
         "angles"
     ],
     "af3b50aangles21a": [
@@ -15250,6 +16659,12 @@
     "a9cf10atrig1a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
+    "a9cf10atrig10a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig11a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
     "a9cf10atrig12a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
@@ -15257,6 +16672,9 @@
         "simplifying_and_verifying_trigonometric_identities"
     ],
     "a9cf10atrig14a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig16a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
     "a9cf10atrig17a": [
@@ -15283,6 +16701,9 @@
     "a9cf10atrig23a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
+    "a9cf10atrig24a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
     "a9cf10atrig26a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
@@ -15299,6 +16720,18 @@
         "simplifying_and_verifying_trigonometric_identities"
     ],
     "a9cf10atrig5a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig6a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig7a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig8a": [
+        "simplifying_and_verifying_trigonometric_identities"
+    ],
+    "a9cf10atrig9a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
     "aae56detrig1a": [
@@ -15516,6 +16949,11 @@
         "half_angle",
         "and_reduction_formulas"
     ],
+    "a649252angle5a": [
+        "double_angle",
+        "half_angle",
+        "and_reduction_formulas"
+    ],
     "a649252angle6a": [
         "double_angle",
         "half_angle",
@@ -15695,6 +17133,9 @@
     "a590f38trigonometric4a": [
         "solving_trigonometric_equations"
     ],
+    "a590f38trigonometric5a": [
+        "solving_trigonometric_equations"
+    ],
     "a590f38trigonometric6a": [
         "solving_trigonometric_equations"
     ],
@@ -15737,13 +17178,31 @@
     "aea0f93trigmodel18a": [
         "modeling_with_trigonometric_functions"
     ],
+    "aea0f93trigmodel19a": [
+        "modeling_with_trigonometric_functions"
+    ],
     "aea0f93trigmodel2a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel20a": [
         "modeling_with_trigonometric_functions"
     ],
     "aea0f93trigmodel21a": [
         "modeling_with_trigonometric_functions"
     ],
     "aea0f93trigmodel22a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel23a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel24a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel25a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel26a": [
         "modeling_with_trigonometric_functions"
     ],
     "aea0f93trigmodel27a": [
@@ -15765,6 +17224,9 @@
         "modeling_with_trigonometric_functions"
     ],
     "aea0f93trigmodel7a": [
+        "modeling_with_trigonometric_functions"
+    ],
+    "aea0f93trigmodel8a": [
         "modeling_with_trigonometric_functions"
     ],
     "aea0f93trigmodel9a": [
@@ -15845,10 +17307,19 @@
     "a662caelawsin4a": [
         "non_right_triangles:_law_of_sines"
     ],
+    "a662caelawsin5a": [
+        "non_right_triangles:_law_of_sines"
+    ],
     "a662caelawsin6a": [
         "non_right_triangles:_law_of_sines"
     ],
+    "a662caelawsin7a": [
+        "non_right_triangles:_law_of_sines"
+    ],
     "a662caelawsin8a": [
+        "non_right_triangles:_law_of_sines"
+    ],
+    "a662caelawsin9a": [
         "non_right_triangles:_law_of_sines"
     ],
     "af4dc22Lawcos1a": [
@@ -16097,7 +17568,34 @@
     "aac5661polarcoords21a": [
         "polar_coordinates:_graphs"
     ],
+    "aac5661polarcoords22a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords23a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords24a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords25a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords26a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords27a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords28a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords29a": [
+        "polar_coordinates:_graphs"
+    ],
     "aac5661polarcoords3a": [
+        "polar_coordinates:_graphs"
+    ],
+    "aac5661polarcoords30a": [
         "polar_coordinates:_graphs"
     ],
     "aac5661polarcoords4a": [
@@ -16120,6 +17618,9 @@
     ],
     "ad9ac1cpolarform1a": [
         "finding_the_absolute_value_of_a_complex_number"
+    ],
+    "ad9ac1cpolarform10a": [
+        "converting_a_complex_number_from_polar_to_rectangular_form"
     ],
     "ad9ac1cpolarform11a": [
         "converting_a_complex_number_from_polar_to_rectangular_form"
@@ -16397,13 +17898,13 @@
     "a8cc02freal3a": [
         "systems_of_linear_equations:_two_variables"
     ],
-    "a8cc02freal30a": [
-        "systems_of_linear_equations:_two_variables"
-    ],
     "a8cc02freal4a": [
         "systems_of_linear_equations:_two_variables"
     ],
     "a8cc02freal5a": [
+        "systems_of_linear_equations:_two_variables"
+    ],
+    "a8cc02freal6a": [
         "systems_of_linear_equations:_two_variables"
     ],
     "a8cc02freal7a": [
@@ -16414,6 +17915,9 @@
     ],
     "a8cc02freal9a": [
         "systems_of_linear_equations:_two_variables"
+    ],
+    "ae39497systems1a": [
+        "systems_of_linear_equations___three_variables"
     ],
     "ae39497systems17a": [
         "systems_of_linear_equations___three_variables"
@@ -16592,6 +18096,9 @@
     "a518506partialfractions9a": [
         "partial_fractions"
     ],
+    "a9fd720matrix1a": [
+        "matrices_and_matrix_operations"
+    ],
     "a9fd720matrix10a": [
         "matrices_and_matrix_operations"
     ],
@@ -16617,6 +18124,9 @@
         "matrices_and_matrix_operations"
     ],
     "a9fd720matrix19a": [
+        "matrices_and_matrix_operations"
+    ],
+    "a9fd720matrix2a": [
         "matrices_and_matrix_operations"
     ],
     "a9fd720matrix20a": [
@@ -16677,6 +18187,12 @@
         "solving_systems_with_gaussian_elimination"
     ],
     "a8d81afgaussian15a": [
+        "solving_systems_with_gaussian_elimination"
+    ],
+    "a8d81afgaussian16a": [
+        "solving_systems_with_gaussian_elimination"
+    ],
+    "a8d81afgaussian17a": [
         "solving_systems_with_gaussian_elimination"
     ],
     "a8d81afgaussian18a": [
@@ -17063,6 +18579,93 @@
     "a642536polar9a": [
         "conic_sections_in_polar_coordinates"
     ],
+    "a3faf0areal1a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal10a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal11a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal12a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal13a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal14a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal15a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal16a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal17a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal18a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal19a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal2a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal20a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal21a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal23a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal24a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal25a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal26a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal27a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal28a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal29a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal3a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal30a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal4a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal5a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal6a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal7a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal8a": [
+        "sequences_and_their_notations"
+    ],
+    "a3faf0areal9a": [
+        "sequences_and_their_notations"
+    ],
     "a2f61b7sequences1a": [
         "arithmetic_sequences"
     ],
@@ -17264,6 +18867,9 @@
     "a9c64f0series15a": [
         "series_and_their_notations"
     ],
+    "a9c64f0series16a": [
+        "series_and_their_notations"
+    ],
     "a9c64f0series17a": [
         "series_and_their_notations"
     ],
@@ -17384,6 +18990,9 @@
     "a73b129counting25a": [
         "counting_principles"
     ],
+    "a73b129counting26a": [
+        "counting_principles"
+    ],
     "a73b129counting27a": [
         "counting_principles"
     ],
@@ -17409,6 +19018,9 @@
         "counting_principles"
     ],
     "a73b129counting7a": [
+        "counting_principles"
+    ],
+    "a73b129counting8a": [
         "counting_principles"
     ],
     "a73b129counting9a": [

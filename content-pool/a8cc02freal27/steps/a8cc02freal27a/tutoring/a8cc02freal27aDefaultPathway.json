@@ -5,10 +5,10 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-30$$"
+            "$$10$$"
         ],
         "dependencies": [],
-        "title": "Find the least common multiple for the $$y$$ values. What is it?",
+        "title": "Find the least common multiple for the $$x$$ values. What is it?",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a8cc02freal27a-h1"
         ],
-        "title": "Then, subtract the two eqauations and combine the like terms and solve for $$x$$.",
+        "title": "Then, subtract the two eqauations and combine the like terms and solve for $$y$$.",
         "text": "",
         "variabilization": {},
         "oer": "",

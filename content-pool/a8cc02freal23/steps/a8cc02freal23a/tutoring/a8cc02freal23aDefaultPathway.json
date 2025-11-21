@@ -32,5 +32,17 @@
         "variabilization": {},
         "oer": "",
         "license": ""
+    },
+    {
+        "id": "a8cc02freal23a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a8cc02freal23a-h3"
+        ],
+        "title": "If you solved for $$x$$ first, then plug the $$x$$ value into one of the starting equations to solve for $$y$$.",
+        "text": "",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
     }
 ]

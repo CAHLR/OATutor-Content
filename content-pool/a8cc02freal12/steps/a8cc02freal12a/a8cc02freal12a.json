@@ -1,16 +1,12 @@
 {
     "id": "a8cc02freal12a",
     "stepAnswer": [
-        "inconsistent system"
+        "$$8$$"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "Solve the following system of equations by graphing. Identify the type of system. $$6x+2y=4$$, $$3x+y=5$$.",
+    "problemType": "TextBox",
+    "stepTitle": "Solve the following system of equations by substitution. $$-x+y=-5$$, $$2x-5y=1$$. What is the resulting $$x$$ value?",
     "stepBody": "",
-    "answerType": "string",
+    "answerType": "arithmetic",
     "variabilization": {},
-    "choices": [
-        "independent system",
-        "inconsistent system",
-        "dependent system"
-    ]
+    "answerLatex": "$$8$$"
 }

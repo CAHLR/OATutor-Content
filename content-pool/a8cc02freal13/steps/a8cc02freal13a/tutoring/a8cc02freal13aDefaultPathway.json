@@ -27,7 +27,19 @@
         "dependencies": [
             "a8cc02freal13a-h2"
         ],
-        "title": "Group the common terms, $$x$$ with $$x$$ and constants with constants to find the $$x$$ value.",
+        "title": "Group the common terms, $$x$$ with $$x$$ and constants with constants to find the $$x$$ value first.",
+        "text": "",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    },
+    {
+        "id": "a8cc02freal13a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a8cc02freal13a-h3"
+        ],
+        "title": "Plug the $$x$$ value you found into any equation with two variables, $$x$$ and $$y$$ and solve for $$y$$.",
         "text": "",
         "variabilization": {},
         "oer": "",

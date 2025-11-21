@@ -40,7 +40,7 @@
         "choices": [
             "$$1$$",
             "sec(x)",
-            "(cos(x)",
+            "cos(x)",
             "sin(x)"
         ]
     }

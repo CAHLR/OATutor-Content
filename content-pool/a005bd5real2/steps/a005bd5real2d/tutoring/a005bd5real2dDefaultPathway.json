@@ -34,10 +34,10 @@
     {
         "id": "a005bd5real2d-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
+        "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No, so (x**2+2x)/(6-x**2) is our final answer."
+            "No"
         ],
         "dependencies": [
             "a005bd5real2d-h2"
@@ -46,6 +46,10 @@
         "text": "Can we factor or divide either function?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Yes",
+            "No"
+        ]
     }
 ]

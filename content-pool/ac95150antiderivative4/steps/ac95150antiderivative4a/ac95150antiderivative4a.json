@@ -1,16 +1,17 @@
 {
     "id": "ac95150antiderivative4a",
     "stepAnswer": [
-        "$$e^x+C$$"
+        "$$\\frac{e^{2x}}{2}+C$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The antiderivative of $$f(x)=e^x=___$$?",
+    "stepTitle": "The antiderivative of $$f(x)=e^{2x}=___$$?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$e^x+C$$",
+    "answerLatex": "$$\\frac{e^{2x}}{2}+C$$",
     "choices": [
-        "$$e^x+C$$",
-        "$$e^x$$"
+        "$$\\frac{e^{2x}}{2}+C$$",
+        "$$e^{2x}+C$$",
+        "$$e^{2x}$$"
     ]
 }

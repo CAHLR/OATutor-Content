@@ -9,8 +9,7 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "less",
         "more",
-        "more"
+        "less"
     ]
 }

@@ -9,10 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
+        "linear",
         "exponential",
         "logarithmic",
-        "logistic",
-        "linear",
-        "logarithmic"
+        "logistic"
     ]
 }

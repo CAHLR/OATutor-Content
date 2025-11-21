@@ -3,7 +3,7 @@
         "id": "a8cc02freal7a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Represent the first equaion in the form of $$y=$$",
+        "title": "Represent the second equaion in the form of $$y=$$ or slope-intercept form.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -15,7 +15,7 @@
         "dependencies": [
             "a8cc02freal7a-h1"
         ],
-        "title": "Represent the second equaion in the form of $$y=$$",
+        "title": "Represent the second equaion in the form of $$y=$$ or slope-intercept form.",
         "text": "",
         "variabilization": {},
         "oer": "",

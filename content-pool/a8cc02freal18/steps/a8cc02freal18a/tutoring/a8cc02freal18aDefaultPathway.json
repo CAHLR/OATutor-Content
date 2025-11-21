@@ -3,7 +3,7 @@
         "id": "a8cc02freal18a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Observe that the first equation is $$x=$$ some equation in term of y's format.",
+        "title": "First add both equations. Notice that the $$x$$ cancels out.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -15,7 +15,7 @@
         "dependencies": [
             "a8cc02freal18a-h1"
         ],
-        "title": "Plug the $$y$$ terms into the second question, into the $$x$$.",
+        "title": "Divide both sides by $$3$$ to solve for the $$y$$.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -27,7 +27,7 @@
         "dependencies": [
             "a8cc02freal18a-h2"
         ],
-        "title": "Combine like terms and calculate $$y$$.",
+        "title": "Pick one of the two original equations with $$x$$ and $$y$$ and plug the $$y$$ value in to solve for the $$x$$ values.",
         "text": "",
         "variabilization": {},
         "oer": "",

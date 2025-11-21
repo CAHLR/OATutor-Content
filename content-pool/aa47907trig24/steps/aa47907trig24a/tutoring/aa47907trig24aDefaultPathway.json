@@ -52,7 +52,7 @@
         "choices": [
             "$$\\operatorname{csc}\\left(x\\right) \\operatorname{csc}\\left(x\\right)$$",
             "$$1$$",
-            "(cos(x)",
+            "cos(x)",
             "$$sin\\left(x\\right) sin\\left(x\\right)$$"
         ]
     }

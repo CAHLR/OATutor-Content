@@ -10,10 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$y=10\\times2^t$$",
     "choices": [
-        "$$y={12}^t$$",
+        "$$y=10\\times2^t$$",
         "$$y=5\\times3^t$$",
         "$$y=8t+1$$",
-        "$$y=10\\times2^t$$",
-        "$$y=10\\times2^t$$"
+        "$$y={12}^t$$"
     ]
 }

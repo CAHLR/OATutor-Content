@@ -1,12 +1,12 @@
 {
     "id": "a8cc02freal18a",
     "stepAnswer": [
-        "$$1$$"
+        "$$\\frac{-7}{3}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Solve the following system of equations by substitution. $$x=2y-1$$, $$5=4x+y$$. Find the solution's $$y$$ value.",
+    "stepTitle": "Solve the given system of equations by addition. $$x+2y=-1$$, $$-x+y=3$$. Calculate the $$x$$ value of the solution.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$1$$"
+    "answerLatex": "$$\\frac{-7}{3}$$"
 }

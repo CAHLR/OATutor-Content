@@ -3,9 +3,13 @@
     "stepAnswer": [
         "Disproved"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Prove or disprove $${\\operatorname{csc}\\left(x\\right)}^{2\\left(1+sin^2\\left(x\\right)\\right)}={\\operatorname{cot}\\left(x\\right)}^2$$.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "Proved",
+        "Disproved"
+    ]
 }

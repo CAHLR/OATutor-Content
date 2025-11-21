@@ -10,10 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{5730} t}$$",
     "choices": [
-        "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{2} t}$$",
-        "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{5730} t}$$",
-        "$$f(t)=A_0 e^{5730t}$$",
         "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.3\\right)}{5730} t}$$",
-        "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{5730} t}$$"
+        "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{5730} t}$$",
+        "$$f(t)=A_0 e^{\\frac{\\ln\\left(0.5\\right)}{2} t}$$",
+        "$$f(t)=A_0 e^{5730t}$$"
     ]
 }

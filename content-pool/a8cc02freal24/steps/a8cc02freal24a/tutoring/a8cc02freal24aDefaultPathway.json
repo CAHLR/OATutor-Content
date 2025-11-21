@@ -3,7 +3,7 @@
         "id": "a8cc02freal24a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Choose whether to match the coefficient in front of the $$x$$ or the $$y$$.",
+        "title": "Looking at the problem, it's easier to multiply a constant to the $$y$$ to match the other.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -11,11 +11,16 @@
     },
     {
         "id": "a8cc02freal24a-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$7$$"
+        ],
         "dependencies": [
             "a8cc02freal24a-h1"
         ],
-        "title": "Multiply by a constant to match the other equation. Then subtract both equations.",
+        "title": "What number do we have to multiply to the $$y$$ of the second equation to match the first equation?",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -27,19 +32,7 @@
         "dependencies": [
             "a8cc02freal24a-h2"
         ],
-        "title": "Solve for the single remaining variable by combining like terms and dividing.",
-        "text": "",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
-    },
-    {
-        "id": "a8cc02freal24a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a8cc02freal24a-h3"
-        ],
-        "title": "If you solved for $$x$$ first, then plug the $$x$$ value into one of the starting equations to solve for $$y$$.",
+        "title": "Now, subtract and solve for $$x$$ by combining like terms and dividing.",
         "text": "",
         "variabilization": {},
         "oer": "",

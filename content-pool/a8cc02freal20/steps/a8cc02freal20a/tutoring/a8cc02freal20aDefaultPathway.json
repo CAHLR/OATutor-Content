@@ -3,7 +3,7 @@
         "id": "a8cc02freal20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "First add both equations. Notice that the $$x$$ cancels out.",
+        "title": "Observe that the $$y$$ values cancel out and only the $$x$$ terms are left.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -11,11 +11,16 @@
     },
     {
         "id": "a8cc02freal20a-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$6$$"
+        ],
         "dependencies": [
             "a8cc02freal20a-h1"
         ],
-        "title": "Divide both sides by $$3$$ to solve for the $$y$$.",
+        "title": "Now, divide both sides by a number infront of $$x$$ to solve for $$x$$. What number is this?",
         "text": "",
         "variabilization": {},
         "oer": "",

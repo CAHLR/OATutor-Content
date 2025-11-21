@@ -1,12 +1,12 @@
 {
     "id": "a8cc02freal24a",
     "stepAnswer": [
-        "$$-4$$"
+        "$$-6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Solve the given system of equations by the addition method. $$3x+5y=-11$$, $$x-2y=11$$. Solve for the $$y$$ value of the solution.",
+    "stepTitle": "Solve the system of equations by addition. $$2x-7y=2$$, $$3x+y=-20$$. Solve for the $$x$$ value of the solution.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-4$$"
+    "answerLatex": "$$-6$$"
 }

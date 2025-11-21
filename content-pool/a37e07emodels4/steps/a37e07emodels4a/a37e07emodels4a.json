@@ -10,10 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$A_0 e^{\\frac{ln2}{2} t}$$",
     "choices": [
-        "$$A_0 e^{\\frac{ln2}{4} t}$$",
-        "$$A_0 e^{\\frac{ln5}{2} t}$$",
-        "$$A_0 e^{16t}$$",
         "$$A_0 e^{\\frac{ln2}{2} t}$$",
-        "$$A_0 e^{\\frac{ln2}{2} t}$$"
+        "$$A_0 e^{\\frac{ln5}{2} t}$$",
+        "$$A_0 e^{\\frac{ln2}{4} t}$$",
+        "$$A_0 e^{16t}$$"
     ]
 }

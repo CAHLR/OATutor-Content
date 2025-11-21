@@ -32,5 +32,17 @@
         "variabilization": {},
         "oer": "",
         "license": ""
+    },
+    {
+        "id": "a8cc02freal16a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a8cc02freal16a-h3"
+        ],
+        "title": "Calculate the $$x$$ value by plugging in the calculated $$y$$ value into an equation with both $$x$$ and $$y$$ and solve for $$x$$.",
+        "text": "",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
     }
 ]

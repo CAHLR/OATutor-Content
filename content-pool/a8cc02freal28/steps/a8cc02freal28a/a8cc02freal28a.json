@@ -1,12 +1,11 @@
 {
     "id": "a8cc02freal28a",
     "stepAnswer": [
-        "$$-2$$"
+        "inconsistent"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Solve the given system of equations in two variables by addition. $$2x+3y=-16$$, $$5x-10y=30$$. Solve for the $$y$$ value of the solution.",
+    "stepTitle": "Solve the following system of equations. $$x=y-2y$$, $$x+2y=13$$. If inconsistent or dependent, please pick type \"inconsistent\" or \"dependent\". If not find the $$x$$ and $$y$$ values in (x,y) format.",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {},
-    "answerLatex": "$$-2$$"
+    "answerType": "string",
+    "variabilization": {}
 }

@@ -9,10 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
+        "a",
         "$$b$$",
         "c",
-        "$$t$$",
-        "a",
-        "c"
+        "$$t$$"
     ]
 }

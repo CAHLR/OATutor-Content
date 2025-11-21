@@ -3,9 +3,13 @@
     "stepAnswer": [
         "Proved"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Prove or disprove $$\\frac{1+sinx}{cosx}=\\frac{cosx}{1+\\operatorname{sinnegneg}\\left(x\\right)}$$",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "Disproved",
+        "Proved"
+    ]
 }

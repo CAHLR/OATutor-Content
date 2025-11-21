@@ -677,6 +677,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "solve_a_rational_equation_for_a_specific_variable": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "types_of_discontinuities": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -959,6 +965,30 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "use_the_identity_and_inverse_properties_of_addition_and_multiplication": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "and_zero": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "inverse": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "use_the_properties_of_identity": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "and_percents": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -1032,6 +1062,48 @@
         "probGuess": 0.1
     },
     "complete_a_table_of_solutions_to_a_linear_equation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "simplifying_expressions_with_higher_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "finding_the_domain_of_a_function_with_an_even_root": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_the_negative_rule": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "simplify_expressions_with_a**(1/n)": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_rational_exponents": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "perfect_square_trinomials": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "performing_operations_with_polynomials_of_several_variables": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -2939,6 +3011,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "sequences_and_their_notations": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "arithmetic_sequences": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -3024,12 +3102,6 @@
         "probGuess": 0.1
     },
     "use_integers_in_applications": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "use_the_identity_and_inverse_properties_of_addition_and_multiplication": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3545,12 +3617,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "simplify_expressions_with_a**(1/n)": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "simplify_expressions_with_a**(m/n)": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -3852,12 +3918,6 @@
         "probGuess": 0.1
     },
     "add_and_subtract_rational_expressions_with_unlike_denominators": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "solve_a_rational_equation_for_a_specific_variable": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
