@@ -756,6 +756,76 @@
                 }
             },
             {
+                "id": "2jnPQZxr-32iL-vnm2RdEqpK",
+                "name": "Lesson 1018.3.1",
+                "topics": "- Properties of Addition",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "use_the_commutative_and_associative_properties": 0.85,
+                    "use_the_identity_and_inverse_properties_of_addition_and_multiplication": 0.85
+                }
+            },
+            {
+                "id": "3GPRhTox-ONO8-8NEGWe8O1N",
+                "name": "Lesson 1018.3.2",
+                "topics": "- Properties of Multiplication",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "and_zero": 0.85,
+                    "inverse": 0.85,
+                    "use_the_properties_of_identity": 0.85
+                }
+            },
+            {
+                "id": "54Fz6uFY-pF1B-O1xGivIehL",
+                "name": "Lesson 1018.3.3",
+                "topics": "- The Distributive Property",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "simplify_expressions_using_the_distributive_property": 0.85
+                }
+            },
+            {
+                "id": "1slzKjVw-zj56-25yi90Qhyq",
+                "name": "Lesson 1018.4.1",
+                "topics": "- Solving Equations Using Addition or Subtraction",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality": 0.85
+                }
+            },
+            {
+                "id": "2xFpwfr5-3i7m-jXf1wp6d3m",
+                "name": "Lesson 1018.4.2",
+                "topics": "- Solving Equations Using Multiplication or Division",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_equations_using_the_division_and_multiplication_properties_of_equality": 0.85
+                }
+            },
+            {
+                "id": "5cOEqsC4-xqIu-JCnOKoYMkL",
+                "name": "Lesson 1018.4.3",
+                "topics": "- Solving Multi-Step Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_equations_using_the_general_strategy": 0.85
+                }
+            },
+            {
+                "id": "0m3k9lCT-7viS-aEKOXBItI5",
+                "name": "Lesson 1018.4.4",
+                "topics": "- Inequalities",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_compound_inequalities_with_and": 0.85,
+                    "solve_compound_inequalities_with_or": 0.85,
+                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
+                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
+                    "solving_compound_inequalities": 0.85
+                }
+            },
+            {
                 "id": "6BI9ClS2-kY2o-3swn7EtFUO",
                 "name": "Lesson 1018.5.1",
                 "topics": "Ratios, Rates, and Writing and Solving Proportions",
@@ -802,76 +872,6 @@
                     "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables": 0.85,
                     "plot_points_on_a_rectangular_coordinate_system": 0.85,
                     "verify_solutions_to_an_equation_in_two_variables": 0.85
-                }
-            },
-            {
-                "id": "2jnPQZxr-32iL-vnm2RdEqpK",
-                "name": "Lesson 1018",
-                "topics": "3.1 - Properties of Addition",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "use_the_commutative_and_associative_properties": 0.85,
-                    "use_the_identity_and_inverse_properties_of_addition_and_multiplication": 0.85
-                }
-            },
-            {
-                "id": "3GPRhTox-ONO8-8NEGWe8O1N",
-                "name": "Lesson 1018",
-                "topics": "3.2 - Properties of Multiplication",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "and_zero": 0.85,
-                    "inverse": 0.85,
-                    "use_the_properties_of_identity": 0.85
-                }
-            },
-            {
-                "id": "54Fz6uFY-pF1B-O1xGivIehL",
-                "name": "Lesson 1018",
-                "topics": "3.3 - The Distributive Property",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "simplify_expressions_using_the_distributive_property": 0.85
-                }
-            },
-            {
-                "id": "1slzKjVw-zj56-25yi90Qhyq",
-                "name": "Lesson 1018",
-                "topics": "4.1 - Solving Equations Using Addition or Subtraction",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality": 0.85
-                }
-            },
-            {
-                "id": "2xFpwfr5-3i7m-jXf1wp6d3m",
-                "name": "Lesson 1018",
-                "topics": "4.2 - Solving Equations Using Multiplication or Division",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solve_equations_using_the_division_and_multiplication_properties_of_equality": 0.85
-                }
-            },
-            {
-                "id": "5cOEqsC4-xqIu-JCnOKoYMkL",
-                "name": "Lesson 1018",
-                "topics": "4.3 - Solving Multi-Step Equations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solve_equations_using_the_general_strategy": 0.85
-                }
-            },
-            {
-                "id": "0m3k9lCT-7viS-aEKOXBItI5",
-                "name": "Lesson 1018",
-                "topics": "4.4 - Inequalities",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solve_compound_inequalities_with_and": 0.85,
-                    "solve_compound_inequalities_with_or": 0.85,
-                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
-                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
-                    "solving_compound_inequalities": 0.85
                 }
             },
             {

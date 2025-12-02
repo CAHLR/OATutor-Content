@@ -109,7 +109,7 @@
         "dependencies": [
             "a193928real11a-h7"
         ],
-        "title": "Inteval Union",
+        "title": "Interval Union",
         "text": "The answers are all real numbers where $$x>4$$ and $$x \\geq 6$$. We combine the two sets to get the answer.",
         "variabilization": {},
         "oer": "",
