@@ -4,7 +4,7 @@
         "$$\\frac{3}{x-3}-\\frac{2}{x-2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the partial fraction decomposition of the following expression: $$\\frac{x}{\\left(x-3\\right) \\left(x-2\\right)}$$",
+    "stepTitle": "$$\\frac{x}{\\left(x-3\\right) \\left(x-2\\right)}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

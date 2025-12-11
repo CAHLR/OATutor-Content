@@ -4,7 +4,7 @@
         "$$\\frac{2.5}{x-3}+\\frac{2.5}{x+3}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the decomposition of the partial fraction for the nonrepeating linear factors: $$\\frac{5x}{x^2-9}$$",
+    "stepTitle": "$$\\frac{5x}{x^2-9}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

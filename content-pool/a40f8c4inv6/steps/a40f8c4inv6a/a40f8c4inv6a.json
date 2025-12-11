@@ -3,10 +3,16 @@
     "stepAnswer": [
         "$$-1/8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Matrix",
     "stepBody": "A $$=$$ $$\\begin{bmatrix} -2 & 2 \\\\ 3 & 1 \\end{bmatrix}$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$-1/8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$"
+    "answerLatex": "$$-1/8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$",
+    "choices": [
+        "$$1/8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$",
+        "$$-1/8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$",
+        "$$-8*\\begin{bmatrix} 1 & -2 \\\\ -3 & -2 \\end{bmatrix}$$",
+        "$$0$$"
+    ]
 }

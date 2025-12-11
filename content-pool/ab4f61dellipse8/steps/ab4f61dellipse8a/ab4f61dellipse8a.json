@@ -1,7 +1,7 @@
 {
     "id": "ab4f61dellipse8a",
     "stepAnswer": [
-        "Major Axis Vertical; Foci at (0, \u00b11)"
+        "Major Axis Horizontal; Foci at (~2*sqrt(2)/3,0)"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$x^2+9y^2=1$$",
@@ -9,8 +9,7 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "Major Axis Horizontal; Foci at (\u00b11, 0)",
-        "Major Axis Vertical; Foci at (0, \u00b11)",
-        "Major Axis Vertical; Foci at (0, \u00b11)"
+        "Major Axis Vertical; Foci at $$0\\pm 1$$",
+        "Major Axis Horizontal; Foci at (~2*sqrt(2)/3,0)"
     ]
 }

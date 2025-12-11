@@ -11,17 +11,12 @@
     },
     {
         "id": "a25b88enonlinear9a-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$22y^2=22$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "a25b88enonlinear9a-h1"
         ],
         "title": "Expression in terms of $$y$$",
-        "text": "What is the resulting expression in terms of only $$y$$ after simplifying?",
+        "text": "After eliminating, we get $$22y^2=22$$",
         "variabilization": {},
         "oer": "",
         "license": ""

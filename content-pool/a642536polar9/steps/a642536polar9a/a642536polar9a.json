@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$x^2+4y-4=0$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Convert the conic $$r=\\frac{4}{2+2sintheta}$$ to rectangular form.",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$x^2+4y-4=0$$"
+    "answerLatex": "$$x^2+4y-4=0$$",
+    "choices": [
+        "$$x^2+4y-4=0$$",
+        "$$x^2+4y-4=0$$",
+        "$$x^2+4y-4=0$$"
+    ]
 }

@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$\\begin{bmatrix} \\frac{-35}{34} \\\\ \\frac{-97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Equations",
     "stepBody": "$$4x-2y+3z=-12$$, $$2x+2y-9z=33$$, $$6y-4z=1$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$\\begin{bmatrix} \\frac{-35}{34} \\\\ \\frac{-97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$"
+    "answerLatex": "$$\\begin{bmatrix} \\frac{-35}{34} \\\\ \\frac{-97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$",
+    "choices": [
+        "$$\\begin{bmatrix} \\frac{-35}{34} \\\\ \\frac{97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} \\frac{35}{34} \\\\ \\frac{-97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} \\frac{-35}{34} \\\\ \\frac{-97}{34} \\\\ \\frac{-154}{34} \\end{bmatrix}$$"
+    ]
 }

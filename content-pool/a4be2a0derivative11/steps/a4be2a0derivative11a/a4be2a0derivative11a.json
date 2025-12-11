@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$3x^2$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Find the derivative of the polynomial $$f(x)=x^3+1$$",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$3x^2$$"
+    "answerLatex": "$$3x^2$$",
+    "choices": [
+        "$$3x^2$$",
+        "$$x^2$$",
+        "$$\\frac{x^2}{3}$$"
+    ]
 }

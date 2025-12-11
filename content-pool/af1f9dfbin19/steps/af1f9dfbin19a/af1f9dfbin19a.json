@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$a^{15}-30a^{14} b+420a^{13} b^2$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "$$\\left(a-2b\\right)^{15}$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$a^{15}-30a^{14} b+420a^{13} b^2$$"
+    "answerLatex": "$$a^{15}-30a^{14} b+420a^{13} b^2$$",
+    "choices": [
+        "$$a^{15}-30a^{14} b+420a^{13} b$$",
+        "$$a^{15}-30a^{14} b+420a^{13} b^2$$",
+        "$$a^{15}-3a^{14} b+42a^{13} b^2$$"
+    ]
 }

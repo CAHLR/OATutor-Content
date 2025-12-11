@@ -3,7 +3,7 @@
         "id": "a8cc02freal9a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Represent the second equaion in the form of $$y=$$ or slope-intercept form.",
+        "title": "Represent the second equation in the form of $$y=$$ or slope-intercept form.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -15,7 +15,7 @@
         "dependencies": [
             "a8cc02freal9a-h1"
         ],
-        "title": "Represent the second equaion in the form of $$y=$$ or slope-intercept form.",
+        "title": "Represent the second equation in the form of $$y=$$ or slope-intercept form.",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -39,7 +39,7 @@
         "dependencies": [
             "a8cc02freal9a-h3"
         ],
-        "title": "Do the intersect at a single point, are parallel, or overlap?",
+        "title": "Do they intersect at a single point, are parallel, or overlap?",
         "text": "",
         "variabilization": {},
         "oer": "",

@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$\\begin{bmatrix} 7 \\\\ \\frac{1}{2} \\\\ \\frac{1}{5} \\end{bmatrix}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Equations",
     "stepBody": "$$3x-2y+5z=21$$, $$5x+4y=37$$, $$x-2y-5z=5$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$\\begin{bmatrix} 7 \\\\ \\frac{1}{2} \\\\ \\frac{1}{5} \\end{bmatrix}$$"
+    "answerLatex": "$$\\begin{bmatrix} 7 \\\\ \\frac{1}{2} \\\\ \\frac{1}{5} \\end{bmatrix}$$",
+    "choices": [
+        "$$\\begin{bmatrix} 7 \\\\ \\frac{1}{2} \\\\ \\frac{1}{5} \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} -7 \\\\ \\frac{1}{2} \\\\ \\frac{1}{5} \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} 7 \\\\ \\frac{1}{5} \\\\ \\frac{1}{2} \\end{bmatrix}$$"
+    ]
 }

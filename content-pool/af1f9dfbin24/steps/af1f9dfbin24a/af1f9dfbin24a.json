@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$35x^3 y^4$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "The fifth term of $$\\left(x-y\\right)^7$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$35x^3 y^4$$"
+    "answerLatex": "$$35x^3 y^4$$",
+    "choices": [
+        "$$35x^3 y^4$$",
+        "$$15x^3 y^4$$",
+        "$$35x^3 y^3$$"
+    ]
 }

@@ -3,9 +3,14 @@
     "stepAnswer": [
         "undefined"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Find the average rate of change between $$(7,-2)$$ and $$(7,10)$$.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "$$12$$",
+        "undefined",
+        "$$0$$"
+    ]
 }

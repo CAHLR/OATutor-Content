@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$16x^4+96x^3 y+216x^2 y^2+216x y^3+81y^4$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "$$\\left(2x+3y\\right)^4$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$16x^4+96x^3 y+216x^2 y^2+216x y^3+81y^4$$"
+    "answerLatex": "$$16x^4+96x^3 y+216x^2 y^2+216x y^3+81y^4$$",
+    "choices": [
+        "$$16x^4+96x^3 y+216x^2 y^2+216x y^3+81y^4$$",
+        "$$x^4+96x^3 y+216x^2 y^2+216x y^3+81y^4$$",
+        "$$16x^4+96x^3 y+216x^2 y^2+216x y^3$$"
+    ]
 }

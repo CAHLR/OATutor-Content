@@ -3005,6 +3005,30 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "writing_equations_of_parabolas_in_standard_form": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "finding_a_new_representation_of_the_given_equation_after_rotating_through_a_given_angle": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifying_conics_without_rotating_axes": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifying_nondegenerate_conics_in_general_form": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "conic_sections_in_polar_coordinates": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -5501,31 +5525,7 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "writing_equations_of_parabolas_in_standard_form": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "writing_the_equation_of_a_parabola_in_standard_form": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "finding_a_new_representation_of_the_given_equation_after_rotating_through_a_given_angle": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "identifying_conics_without_rotating_axes": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "identifying_nondegenerate_conics_in_general_form": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

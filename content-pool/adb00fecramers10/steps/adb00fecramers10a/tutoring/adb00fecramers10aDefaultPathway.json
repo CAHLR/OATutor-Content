@@ -38,7 +38,7 @@
             "adb00fecramers10a-h2"
         ],
         "title": "Find minor M21",
-        "text": "What is the determinant of [0,1;0,0]?",
+        "text": "What is the determinant of $$\\begin{bmatrix} 0 & 1 \\\\ 0 & 0 \\end{bmatrix}$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

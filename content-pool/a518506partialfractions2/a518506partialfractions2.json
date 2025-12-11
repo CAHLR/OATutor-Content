@@ -1,7 +1,7 @@
 {
     "id": "a518506partialfractions2",
     "title": "Finding the Partial Fraction Decomposition",
-    "body": "Find the partial fraction decomposition of the following expression: $$\\frac{x}{\\left(x-3\\right) \\left(x-2\\right)}$$",
+    "body": "Find the partial fraction decomposition of the following expression.",
     "variabilization": {},
     "oer": "https://openstax.org/books/precalculus-2e",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

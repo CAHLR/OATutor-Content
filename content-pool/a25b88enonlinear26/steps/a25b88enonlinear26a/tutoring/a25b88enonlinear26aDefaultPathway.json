@@ -4,24 +4,19 @@
         "type": "hint",
         "dependencies": [],
         "title": "Strategy of Elimination",
-        "text": "To eliminate variables, add the second equation from the first equation to remove the $$y^2$$ term.",
+        "text": "To eliminate variables, add the second equation to the first equation to remove the $$y^2$$ term.",
         "variabilization": {},
         "oer": "",
         "license": ""
     },
     {
         "id": "a25b88enonlinear26a-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$8x^2=72$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "a25b88enonlinear26a-h1"
         ],
         "title": "Resulting Expression",
-        "text": "What is the resulting expression only in terms of $$x$$ when the first and second equations are added?",
+        "text": "After eliminating, we get $$8x^2=72$$",
         "variabilization": {},
         "oer": "",
         "license": ""

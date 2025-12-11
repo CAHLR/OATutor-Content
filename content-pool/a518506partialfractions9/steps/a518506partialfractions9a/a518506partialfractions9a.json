@@ -4,7 +4,7 @@
         "$$\\frac{5}{x-5}+\\frac{5}{x+5}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the decomposition of the partial fraction for the nonrepeating linear factors: $$\\frac{10x}{x^2-25}$$",
+    "stepTitle": "$$\\frac{10x}{x^2-25}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

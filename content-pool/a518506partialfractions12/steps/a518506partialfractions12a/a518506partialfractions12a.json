@@ -4,7 +4,7 @@
         "$$\\frac{1}{x-2}+\\frac{2}{\\left(x-2\\right)^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Decompose the given rational expression with repeated rational factors: $$\\frac{x}{\\left(x-2\\right)^2}$$",
+    "stepTitle": "$$\\frac{x}{\\left(x-2\\right)^2}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

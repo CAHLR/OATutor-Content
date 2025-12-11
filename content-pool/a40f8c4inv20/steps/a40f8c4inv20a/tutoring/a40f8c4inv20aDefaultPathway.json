@@ -2,8 +2,8 @@
     {
         "id": "a40f8c4inv20a-h1",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\begin{bmatrix} 3 & -2 & 5 \\\\ 5 & 4 & 0 \\\\ 1 & -2 & -5 \\end{bmatrix}$$"
         ],
@@ -12,7 +12,12 @@
         "text": "What is the matrix corresponding to this system of equations?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\begin{bmatrix} 3 & -2 & 5 \\\\ -5 & -4 & 0 \\\\ 1 & -2 & -5 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 3 & -2 & 5 \\\\ 5 & 4 & 0 \\\\ 1 & -2 & -5 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 5 & 4 & 0 \\\\ 3 & -2 & 5 \\\\ 1 & -2 & -5 \\end{bmatrix}$$"
+        ]
     },
     {
         "id": "a40f8c4inv20a-h2",
@@ -41,8 +46,8 @@
     {
         "id": "a40f8c4inv20a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$1/180*\\begin{bmatrix} 20 & 20 & 20 \\\\ -25 & 20 & -25 \\\\ 14 & -4 & -22 \\end{bmatrix}$$"
         ],
@@ -54,6 +59,11 @@
         "text": "Using gaussian elimination what is the matrix inverse? You can verify that the matrix is correct by multiplying it with the original matrix A and ending up with the identity matrix. Review gaussian elimination as necessary and be careful with the intermediate steps. Remember that the left hand side of the augmented matrix has to finally be the identity matrix.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\begin{bmatrix} 20 & 20 & 20 \\\\ -25 & 20 & -25 \\\\ 14 & -4 & -22 \\end{bmatrix}$$",
+            "$$1/18*\\begin{bmatrix} 20 & 2 & 20 \\\\ -25 & 20 & -25 \\\\ 14 & -4 & -22 \\end{bmatrix}$$",
+            "$$1/180*\\begin{bmatrix} 20 & 20 & 20 \\\\ -25 & 20 & -25 \\\\ 14 & -4 & -22 \\end{bmatrix}$$"
+        ]
     }
 ]

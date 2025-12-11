@@ -1,7 +1,7 @@
 {
     "id": "a518506partialfractions4",
     "title": "Decomposing with Repeated Linear Factors",
-    "body": "Decompose the given rational expression with repeated rational factors: $$\\frac{6x-11}{\\left(x-1\\right)^2}$$",
+    "body": "Decompose the given rational expression with repeated rational factors.",
     "variabilization": {},
     "oer": "https://openstax.org/books/precalculus-2e",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

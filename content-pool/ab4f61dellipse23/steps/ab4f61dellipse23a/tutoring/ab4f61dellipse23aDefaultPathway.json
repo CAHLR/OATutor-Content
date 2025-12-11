@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify $$a^2$$ and $$b^2$$",
-        "text": "$$a^2$$ $$=$$ $$100$$, $$b^2$$ $$=$$ 4; since $$a^2$$ > $$b^2$$, the major axis is horizontal.",
+        "text": "$$a^2=100$$, $$b^2=4;$$ since $$a^2>b^2$$, the major axis is horizontal.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab4f61dellipse23a-h1"
         ],
         "title": "Use c $$=$$ sqrt(a**2 - b**2)",
-        "text": "Compute c $$=$$ sqrt(100 - 4); foci lie along the horizontal axis from the center.",
+        "text": "Compute $$c=\\sqrt{100-4}$$ foci lie along the horizontal axis from the center.",
         "variabilization": {},
         "oer": "",
         "license": ""

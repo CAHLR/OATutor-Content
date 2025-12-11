@@ -4,7 +4,7 @@
         "$$\\frac{3}{x-2}+\\frac{3}{x+2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the decomposition of the partial fraction for the nonrepeating linear factors: $$\\frac{6x}{x^2-4}$$",
+    "stepTitle": "$$\\frac{6x}{x^2-4}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

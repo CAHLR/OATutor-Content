@@ -40,7 +40,7 @@
             "a642536polar27a-h3"
         ],
         "title": "Isolate $$r$$",
-        "text": "r=\u221a(4/(cos\u03b8*sin\u03b8+1))=2/\u221a(cos\u03b8*sin\u03b8+1)",
+        "text": "$$r=\\sqrt{\\frac{4}{costheta sintheta+1}}=\\frac{2}{\\sqrt{costheta sintheta+1}}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Solve the system of nonlinear equations for the coordinate answer in the third quadrant.",
-    "stepBody": "4x**2+y**2=13,x**2+y**2=10",
+    "stepBody": "4*x**2+y**2=13,x**2+y**2=10",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$(-1,-3)$$",

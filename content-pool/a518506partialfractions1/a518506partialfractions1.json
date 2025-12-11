@@ -1,7 +1,7 @@
 {
     "id": "a518506partialfractions1",
     "title": "Decomposing a Rational Fraction with Distinct Linear Factors",
-    "body": "Decompose the given rational expression with distinct linear factors: $$\\frac{3x}{\\left(x+2\\right) \\left(x-1\\right)}$$",
+    "body": "Decompose the given rational expression with distinct linear factors.",
     "variabilization": {},
     "oer": "https://openstax.org/books/precalculus-2e",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

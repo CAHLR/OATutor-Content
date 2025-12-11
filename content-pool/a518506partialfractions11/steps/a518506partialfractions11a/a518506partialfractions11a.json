@@ -4,7 +4,7 @@
         "$$\\frac{-5}{x+4}+\\frac{1}{\\left(x+4\\right)^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Decompose the given rational expression with repeated rational factors: $$-5x-\\frac{19}{\\left(x+4\\right)^2}$$",
+    "stepTitle": "$$\\frac{\\left(-5x-19\\right)}{\\left(x+4\\right)^2}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

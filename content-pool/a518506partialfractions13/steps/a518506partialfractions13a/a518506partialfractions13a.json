@@ -4,7 +4,7 @@
         "$$\\frac{7}{x+3}-\\frac{7}{\\left(x+3\\right)^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Decompose the given rational expression with repeated rational factors: $$\\frac{7x+14}{\\left(x+3\\right)^2}$$",
+    "stepTitle": "$$\\frac{7x+14}{\\left(x+3\\right)^2}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

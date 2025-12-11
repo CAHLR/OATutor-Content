@@ -2,8 +2,8 @@
     {
         "id": "a40f8c4inv21a-h1",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\begin{bmatrix} 6 & -5 & 1 \\\\ -1 & 2 & 1 \\\\ 3 & 3 & 2 \\end{bmatrix}$$"
         ],
@@ -12,7 +12,12 @@
         "text": "What is the matrix corresponding to this system of equations?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\begin{bmatrix} 6 & -5 & 1 \\\\ 3 & 3 & 2 \\\\ -1 & 2 & 1 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 6 & -5 & 1 \\\\ -1 & 2 & 1 \\\\ 3 & 3 & 2 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 6 & 5 & 1 \\\\ -1 & 2 & 1 \\\\ 3 & 3 & 2 \\end{bmatrix}$$"
+        ]
     },
     {
         "id": "a40f8c4inv21a-h2",
@@ -41,8 +46,8 @@
     {
         "id": "a40f8c4inv21a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$1/10*\\begin{bmatrix} -1 & -7 & 3 \\\\ -5 & -15 & 5 \\\\ 9 & 33 & -7 \\end{bmatrix}$$"
         ],
@@ -54,6 +59,11 @@
         "text": "Using gaussian elimination what is the matrix inverse? You can verify that the matrix is correct by multiplying it with the original matrix A and ending up with the identity matrix. Review gaussian elimination as necessary and be careful with the intermediate steps. Remember that the left hand side of the augmented matrix has to finally be the identity matrix.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1/10*\\begin{bmatrix} -5 & -15 & 5 \\\\ -1 & -7 & 3 \\\\ 9 & 33 & -7 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} -1 & -7 & 3 \\\\ -5 & -15 & 5 \\\\ 9 & 33 & -7 \\end{bmatrix}$$",
+            "$$1/10*\\begin{bmatrix} -1 & -7 & 3 \\\\ -5 & -15 & 5 \\\\ 9 & 33 & -7 \\end{bmatrix}$$"
+        ]
     }
 ]

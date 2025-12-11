@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$\\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Equations",
     "stepBody": "$$3x-2y=6$$, $$-x+5y=-2$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$\\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix}$$"
+    "answerLatex": "$$\\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix}$$",
+    "choices": [
+        "$$\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix}$$",
+        "$$\\begin{bmatrix} 0 \\\\ 2 \\end{bmatrix}$$"
+    ]
 }

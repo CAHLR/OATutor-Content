@@ -11,17 +11,12 @@
     },
     {
         "id": "a25b88enonlinear24a-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$y^2=-5$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "a25b88enonlinear24a-h1"
         ],
         "title": "Substituted Expression",
-        "text": "What is the resulting expression in terms of only $$y$$ after simplifying?",
+        "text": "After substituting, we get $$y^2=-5$$",
         "variabilization": {},
         "oer": "",
         "license": ""

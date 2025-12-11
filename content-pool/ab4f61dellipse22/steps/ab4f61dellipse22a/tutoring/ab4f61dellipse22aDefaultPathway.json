@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify $$a^2$$ and $$b^2$$",
-        "text": "Since $$a^2$$ $$=$$ $$225$$ and $$b^2$$ $$=$$ $$36$$, and $$a^2$$ > $$b^2$$, the major axis is horizontal.",
+        "text": "Since $$a^2=225$$ and $$b^2=36$$, and $$a^2$$ > $$b^2$$, the major axis is horizontal.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab4f61dellipse22a-h1"
         ],
         "title": "Use formula for c",
-        "text": "Use c $$=$$ \u221a(a\u00b2 - b\u00b2) $$=$$ \u221a(225 - 36) $$=$$ \u221a189; foci lie along the x-axis direction.",
+        "text": "Use $$c=\\sqrt{a^2-b^2}=\\sqrt{225-36}=\\sqrt{189}$$ foci lie along the x-axis direction.",
         "variabilization": {},
         "oer": "",
         "license": ""

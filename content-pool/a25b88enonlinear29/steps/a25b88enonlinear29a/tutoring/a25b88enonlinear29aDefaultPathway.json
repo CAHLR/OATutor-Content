@@ -11,17 +11,12 @@
     },
     {
         "id": "a25b88enonlinear29a-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$2x^2=26$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "a25b88enonlinear29a-h1"
         ],
         "title": "Resulting Expression",
-        "text": "What is the resulting expression only in terms of $$x$$ when the first and second equations are added?",
+        "text": "After eliminating, we get $$2x^2=26$$",
         "variabilization": {},
         "oer": "",
         "license": ""

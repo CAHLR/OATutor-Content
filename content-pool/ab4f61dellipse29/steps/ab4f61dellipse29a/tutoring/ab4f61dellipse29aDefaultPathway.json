@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify a and $$b$$",
-        "text": "Compare to the standard form \\((x-h)**2/a**2 + $$\\frac{\\left(y-k\\right)^2}{b^2}$$ $$=$$ 1\\). Here, a $$=$$ \u221a5, $$b$$ $$=$$ $$2$$.",
+        "text": "Compare to the standard form $$\\frac{\\left(x-h\\right)^2}{a^2}+\\frac{\\left(y-k\\right)^2}{b^2}=1$$. Here, $$a=2$$, $$b=\\sqrt{5}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

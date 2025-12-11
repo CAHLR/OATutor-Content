@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$3x^2+4y^2-4x-1=0$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Convert the conic $$r(2-cos\\theta)=1$$ to rectangular form.",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$3x^2+4y^2-4x-1=0$$"
+    "answerLatex": "$$3x^2+4y^2-4x-1=0$$",
+    "choices": [
+        "$$x^2+4y^2-4x-1=0$$",
+        "$$3x^2+y^2-4x-1=0$$",
+        "$$3x^2+4y^2-4x-1=0$$"
+    ]
 }

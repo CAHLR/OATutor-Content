@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$27a^3+54a^2 b+36a b^2+8b^3$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "$$\\left(3a+2b\\right)^3$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$27a^3+54a^2 b+36a b^2+8b^3$$"
+    "answerLatex": "$$27a^3+54a^2 b+36a b^2+8b^3$$",
+    "choices": [
+        "$$a^3+54a^2 b+36a b^2+8b^3$$",
+        "$$27a^3+54a^2 b+36a b^2+8b^3$$",
+        "$$27a^3+24a^2 b+12a b^2+8b^3$$"
+    ]
 }

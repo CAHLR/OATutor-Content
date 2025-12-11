@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor and Complete the Square",
-        "text": "Factor out 9: 9(x**2-6x + y**2-6y) $$=$$ $$-81$$. Complete the square for both $$x$$ and $$y$$.",
+        "text": "Factor out 9: $$9\\left(x^2-6x+y^2-6y\\right)=-81$$. Complete the square for both $$x$$ and $$y$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab4f61dellipse15a-h1"
         ],
         "title": "Recognize the Circle Form",
-        "text": "After completing the square: $$\\left(x-3\\right)^2$$ + $$\\left(y-3\\right)^2$$ $$=$$ $$9$$ is a circle with radius $$3$$.",
+        "text": "After completing the square: $$\\left(x-3\\right)^2+\\left(y-3\\right)^2=9$$ is a circle with radius $$3$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

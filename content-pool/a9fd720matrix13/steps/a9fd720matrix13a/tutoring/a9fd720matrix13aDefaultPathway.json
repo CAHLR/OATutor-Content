@@ -14,17 +14,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Multiply",
-        "text": "$$a_{11}$$ $$=$$ $$a_{11}$$ * $$b_{11}$$ + $$a_{12}$$ * $$b_{21}$$",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
-    },
-    {
-        "id": "a9fd720matrix13a-h3",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Multiply",
-        "text": "$$a_{12}$$ $$=$$ $$a_{11}$$ * $$b_{12}$$ + $$a_{12}$$ * $$b_{22}$$",
+        "text": "Recall that $$ab_{ij}$$ is the sum of $$a_{ik} b_{kj}$$ as k goes from $$1$$ to $$3$$",
         "variabilization": {},
         "oer": "",
         "license": ""

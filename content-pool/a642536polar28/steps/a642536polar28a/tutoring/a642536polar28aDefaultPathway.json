@@ -64,7 +64,7 @@
             "a642536polar28a-h5"
         ],
         "title": "Isolate $$r$$",
-        "text": "r=\u221a(9/(2sin2\u03b8+2))=3/\u221a(2sin2\u03b8+2)=3/\u221a(2(1+sin2\u03b8))",
+        "text": "r=sqrt(9/(2sin2\u03b8+2))=3/sqrt(2sin2\u03b8+2)=3/\u221a(2(1+sin2\u03b8))",
         "variabilization": {},
         "oer": "",
         "license": ""

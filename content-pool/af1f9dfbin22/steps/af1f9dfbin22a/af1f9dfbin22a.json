@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$-720x^2 y^3$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "The fourth term of $$\\left(3x-2y\\right)^5$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$-720x^2 y^3$$"
+    "answerLatex": "$$-720x^2 y^3$$",
+    "choices": [
+        "$$-720x y^3$$",
+        "$$-720x^2 y^3$$",
+        "$$-720x^2 y^2$$"
+    ]
 }

@@ -53,8 +53,8 @@
     {
         "id": "a40f8c4inv19a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$1/13*\\begin{bmatrix} 5 & 2 \\\\ 1 & 3 \\end{bmatrix}$$"
         ],
@@ -67,6 +67,11 @@
         "text": "Using any of the previous approaches what is the matrix inverse?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1/13*\\begin{bmatrix} 2 & 5 \\\\ 1 & 3 \\end{bmatrix}$$",
+            "$$-1/13*\\begin{bmatrix} 5 & 2 \\\\ 1 & 3 \\end{bmatrix}$$",
+            "$$1/13*\\begin{bmatrix} 5 & 2 \\\\ 1 & 3 \\end{bmatrix}$$"
+        ]
     }
 ]

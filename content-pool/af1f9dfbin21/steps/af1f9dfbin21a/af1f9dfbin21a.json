@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$x^{24}-8x^{21} \\sqrt{y}+28x^{18} y$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "$$\\left(x^3-\\sqrt{y}\\right)^8$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$x^{24}-8x^{21} \\sqrt{y}+28x^{18} y$$"
+    "answerLatex": "$$x^{24}-8x^{21} \\sqrt{y}+28x^{18} y$$",
+    "choices": [
+        "$$x^{24}-8x^{21} \\sqrt{y}+28x^{18} y$$",
+        "$$x^{24}-8x^{21} \\sqrt{y}+28x^{18} y^2$$",
+        "$$x^{24}-8x^{21} \\sqrt{y}+28xy$$"
+    ]
 }

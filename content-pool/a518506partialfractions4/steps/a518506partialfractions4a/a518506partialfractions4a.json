@@ -4,7 +4,7 @@
         "$$\\frac{6}{x-1}-\\frac{5}{\\left(x-1\\right)^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Decompose the given rational expression with repeated rational factors: $$\\frac{6x-11}{\\left(x-1\\right)^2}$$",
+    "stepTitle": "$$\\frac{6x-11}{\\left(x-1\\right)^2}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

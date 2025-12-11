@@ -11,17 +11,12 @@
     },
     {
         "id": "a25b88enonlinear14a-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$3x^2=3$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "a25b88enonlinear14a-h1"
         ],
         "title": "Expression in terms of $$y$$",
-        "text": "What is the resulting expression in terms of only $$x$$ after simplifying?",
+        "text": "After eliminating, we get $$3x^2=3$$",
         "variabilization": {},
         "oer": "",
         "license": ""

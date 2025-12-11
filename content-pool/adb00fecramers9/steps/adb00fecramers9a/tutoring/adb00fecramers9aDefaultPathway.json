@@ -21,7 +21,7 @@
             "adb00fecramers9a-h1"
         ],
         "title": "Find minor of a11",
-        "text": "What is the 2x2 determinant of [2,0;-3,-3]?",
+        "text": "What is the 2x2 determinant of $$\\begin{bmatrix} 2 & 0 \\\\ -3 & -3 \\end{bmatrix}$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

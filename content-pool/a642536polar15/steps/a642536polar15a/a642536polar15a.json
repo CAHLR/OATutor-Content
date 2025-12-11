@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$x^2-4y-4=0$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Convert the conic $$r(2.5-2.5sin\\theta)=5$$ to rectangular form.",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$x^2-4y-4=0$$"
+    "answerLatex": "$$x^2-4y-4=0$$",
+    "choices": [
+        "$$x^2-y-4=0$$",
+        "$$x^2-4y-4=0$$",
+        "$$x^2-4=0$$"
+    ]
 }

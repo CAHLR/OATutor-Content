@@ -4,7 +4,7 @@
         "Yes"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$4x^2$$ + $$9y^2$$ $$=$$ $$1$$",
+    "stepTitle": "$$4x^2+9y^2=1$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

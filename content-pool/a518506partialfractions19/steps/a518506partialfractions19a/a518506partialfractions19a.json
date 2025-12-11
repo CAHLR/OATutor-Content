@@ -4,7 +4,7 @@
         "$$\\frac{1}{6\\left(x+1\\right)}+\\frac{\\frac{5x+8}{6}}{x^2+5x-2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the decomposition of the partial fraction for the irreducible nonrepeating quadratic factor: $$\\frac{x^2+3x+1}{\\left(x+1\\right) \\left(x^2+5x-2\\right)}$$",
+    "stepTitle": "$$\\frac{x^2+3x+1}{\\left(x+1\\right) \\left(x^2+5x-2\\right)}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

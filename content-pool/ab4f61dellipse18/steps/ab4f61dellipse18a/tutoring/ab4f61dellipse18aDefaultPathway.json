@@ -16,7 +16,7 @@
             "ab4f61dellipse18a-h1"
         ],
         "title": "Divide to Get Standard Form",
-        "text": "After completing the square: $$\\frac{\\left(x+5\\right)^2}{9}$$ + $$\\frac{\\left(y-2\\right)^2}{4}$$ $$=$$ $$1$$. Identify a $$=$$ $$3$$, $$b$$ $$=$$ $$2$$.",
+        "text": "After completing the square: $$\\frac{\\left(x+5\\right)^2}{25}+\\frac{\\left(y-2\\right)^2}{4}=1$$. Identify $$a=5$$, $$b=2$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

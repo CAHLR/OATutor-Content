@@ -4,7 +4,7 @@
         "$$\\frac{-4}{6x-7}-\\frac{55}{\\left(6x-7\\right)^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Decompose the given rational expression with repeated rational factors: $$-24x-\\frac{27}{\\left(6x-7\\right)^2}$$",
+    "stepTitle": "$$\\frac{\\left(-24x-27\\right)}{\\left(6x-7\\right)^2}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -16,7 +16,7 @@
             "ab4f61dellipse14a-h1"
         ],
         "title": "Convert to Standard Form",
-        "text": "After completing the square: $$\\frac{\\left(x-1\\right)^2}{9}$$ + $$\\frac{\\left(y-4\\right)^2}{16}$$ $$=$$ $$1$$, then use $$a^2$$ $$=$$ $$16$$, $$b^2$$ $$=$$ $$9$$ to identify features.",
+        "text": "After completing the square: $$\\frac{\\left(x-1\\right)^2}{9}+\\frac{\\left(y-4\\right)^2}{4}=1$$, then use $$a^2=9$$, $$b^2=4$$ to identify features.",
         "variabilization": {},
         "oer": "",
         "license": ""

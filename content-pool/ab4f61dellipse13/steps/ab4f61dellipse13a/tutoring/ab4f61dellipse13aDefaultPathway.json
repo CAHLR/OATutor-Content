@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recognize Special Case of Ellipse",
-        "text": "If $$a^2$$ $$=$$ $$b^2$$, the ellipse is a circle. Here, $$a^2$$ $$=$$ $$b^2$$ $$=$$ $$49$$.",
+        "text": "If $$a^2=b^2$$, the ellipse is a circle. Here, $$a^2=b^2=49$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab4f61dellipse13a-h1"
         ],
         "title": "Identify Center and Radius",
-        "text": "The center is $$(7,7)$$ and radius is $$\\sqrt{49}$$ $$=$$ $$7$$.",
+        "text": "The center is $$(7,7)$$ and radius is $$\\sqrt{49}=7$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

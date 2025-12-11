@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$1082565a^3 b^{16}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "",
     "stepBody": "The ninth term of $$\\left(a-3b^2\\right)^{11}$$",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$1082565a^3 b^{16}$$"
+    "answerLatex": "$$1082565a^3 b^{16}$$",
+    "choices": [
+        "$$a^3 b^{16}$$",
+        "$$15a^3 b^{16}$$",
+        "$$1082565a^3 b^{16}$$"
+    ]
 }

@@ -984,8 +984,8 @@
         "lessons": [
             {
                 "id": "06rV6nbr-8UUD-y1MiIm1Qpw",
-                "name": "Lesson Section",
-                "topics": "1",
+                "name": "Lesson 1",
+                "topics": "The Nature of Science and Physics",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "accuracy": 0.85,
@@ -997,8 +997,8 @@
             },
             {
                 "id": "7h7y7Hlc-pFRP-RAdaEwbs6N",
-                "name": "Lesson Section",
-                "topics": "2",
+                "name": "Lesson 2",
+                "topics": "Kinematics",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "kinematics": 0.85
@@ -1006,8 +1006,8 @@
             },
             {
                 "id": "30vwd37Y-1c8q-DvtSCiTfwr",
-                "name": "Lesson Section",
-                "topics": "3",
+                "name": "Lesson 3",
+                "topics": "Two-Dimensional Kinematics",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "projectile_motion": 0.85,
@@ -1017,8 +1017,8 @@
             },
             {
                 "id": "6f8rZDjf-7U7Q-YzasKOsAaP",
-                "name": "Lesson Section",
-                "topics": "4",
+                "name": "Lesson 4",
+                "topics": "Dynamics: Force and Newton's Laws of Motion",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "dynamics:_force_and_newton's_laws_of_motion": 0.85
@@ -1026,8 +1026,8 @@
             },
             {
                 "id": "1bX4cxYK-qlU0-qefGGXRHqd",
-                "name": "Lesson Section",
-                "topics": "5",
+                "name": "Lesson 5",
+                "topics": "Further Applications of Newton's Laws: Friction, Drag, and Elasticity",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "drag_forces": 0.85,
@@ -1037,8 +1037,8 @@
             },
             {
                 "id": "1Ibe56Ti-0kVH-bKOtgx2xvh",
-                "name": "Lesson Section",
-                "topics": "6",
+                "name": "Lesson 6",
+                "topics": "Uniform Circular Motion and Gravitation",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "centripetal_acceleration": 0.85,
@@ -1050,8 +1050,8 @@
             },
             {
                 "id": "3zr9encK-DWlR-FkKVrnxhGX",
-                "name": "Lesson Section",
-                "topics": "7",
+                "name": "Lesson 7",
+                "topics": "Work, Energy, and Energy Resources",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "gravitational_potential_energy": 0.85,
@@ -1062,8 +1062,8 @@
             },
             {
                 "id": "7Frw4UCg-EcqB-iOsZYtTTPB",
-                "name": "Lesson Section",
-                "topics": "8",
+                "name": "Lesson 8",
+                "topics": "Linear Momentum and Collisions",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "linear_momentum_and_force": 0.85
@@ -1071,8 +1071,8 @@
             },
             {
                 "id": "1M8UHjls-GRSr-jLadDuHC97",
-                "name": "Lesson Section",
-                "topics": "9",
+                "name": "Lesson 9",
+                "topics": "Statics and Torque",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "forces_and_torques_in_muscles_and_joints": 0.85,
@@ -1083,8 +1083,8 @@
             },
             {
                 "id": "5W3fWdfm-oeEs-OgNYdwtSaB",
-                "name": "Lesson Section",
-                "topics": "10",
+                "name": "Lesson 10",
+                "topics": "Rotational Motion and Angular Momentum",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "rotational_motion_and_angular_momentum": 0.85
@@ -1092,8 +1092,8 @@
             },
             {
                 "id": "6OWGA89P-VmPg-eGh6VYIfLp",
-                "name": "Lesson Section",
-                "topics": "11",
+                "name": "Lesson 11",
+                "topics": "Fluid Statics",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "density": 0.85,
@@ -1102,8 +1102,8 @@
             },
             {
                 "id": "5cyLdq0n-GtuH-JulBUigJZT",
-                "name": "Lesson Section",
-                "topics": "12",
+                "name": "Lesson 12",
+                "topics": "Fluid Dynamics and Its Biological and Medical Applications",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "bernoulli\u2019s_equation": 0.85,
@@ -2762,6 +2762,26 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "the_ellipse": 0.85
+                }
+            },
+            {
+                "id": "0KUD6ck8-CFRF-Soww7npNJ8",
+                "name": "Lesson 10.3",
+                "topics": "- The Parabola",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "writing_equations_of_parabolas_in_standard_form": 0.85
+                }
+            },
+            {
+                "id": "4sKmLqrq-68H3-Z6QxNXVJAM",
+                "name": "Lesson 10.4",
+                "topics": "- Rotation of Axes",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_a_new_representation_of_the_given_equation_after_rotating_through_a_given_angle": 0.85,
+                    "identifying_conics_without_rotating_axes": 0.85,
+                    "identifying_nondegenerate_conics_in_general_form": 0.85
                 }
             },
             {

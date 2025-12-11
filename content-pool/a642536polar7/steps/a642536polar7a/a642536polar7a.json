@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$x^2-8y^2+24y-16=0$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Convert the conic $$r=\\frac{4}{1+3sintheta}$$ to rectangular form.",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$x^2-8y^2+24y-16=0$$"
+    "answerLatex": "$$x^2-8y^2+24y-16=0$$",
+    "choices": [
+        "$$x^2-8y^2+24y-16=0$$",
+        "$$x^2-y^2+24y-16=0$$",
+        "$$x^2-8y^2+24y=0$$"
+    ]
 }

@@ -3,10 +3,15 @@
     "stepAnswer": [
         "$$0$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Find the average rate of change between $$(0,5)$$ and $$(6,5)$$.",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$0$$"
+    "answerLatex": "$$0$$",
+    "choices": [
+        "$$\\frac{6}{5}$$",
+        "undefined",
+        "$$0$$"
+    ]
 }

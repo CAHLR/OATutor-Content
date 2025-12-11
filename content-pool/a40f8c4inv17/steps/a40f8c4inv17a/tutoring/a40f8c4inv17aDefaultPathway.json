@@ -2,8 +2,8 @@
     {
         "id": "a40f8c4inv17a-h1",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\begin{bmatrix} 5 & -6 \\\\ 4 & 3 \\end{bmatrix}$$"
         ],
@@ -12,7 +12,12 @@
         "text": "What is the matrix corresponding to this system of equations?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\begin{bmatrix} 5 & -6 \\\\ 4 & 3 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 5 & -6 \\\\ 3 & 4 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} -5 & -6 \\\\ 4 & 3 \\end{bmatrix}$$"
+        ]
     },
     {
         "id": "a40f8c4inv17a-h2",
@@ -53,8 +58,8 @@
     {
         "id": "a40f8c4inv17a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$1/39*\\begin{bmatrix} 3 & 6 \\\\ -4 & 5 \\end{bmatrix}$$"
         ],
@@ -67,13 +72,18 @@
         "text": "Using any of the previous approaches what is the matrix inverse?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1/39*\\begin{bmatrix} -4 & 5 \\\\ 3 & 6 \\end{bmatrix}$$",
+            "$$-1/39*\\begin{bmatrix} 3 & 6 \\\\ -4 & 5 \\end{bmatrix}$$",
+            "$$1/39*\\begin{bmatrix} 3 & 6 \\\\ -4 & 5 \\end{bmatrix}$$"
+        ]
     },
     {
         "id": "a40f8c4inv17a-h6",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\begin{bmatrix} -5 \\\\ 6 \\end{bmatrix}$$"
         ],
@@ -84,6 +94,11 @@
         "text": "Using the inverse matrix what is our final solution?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\begin{bmatrix} -5 \\\\ 6 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 6 \\\\ -5 \\end{bmatrix}$$",
+            "$$\\begin{bmatrix} 5 \\\\ -6 \\end{bmatrix}$$"
+        ]
     }
 ]

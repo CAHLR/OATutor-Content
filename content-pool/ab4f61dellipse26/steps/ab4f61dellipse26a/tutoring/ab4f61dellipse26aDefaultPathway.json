@@ -16,7 +16,7 @@
             "ab4f61dellipse26a-h1"
         ],
         "title": "Convert to standard form",
-        "text": "Rewrite as \\((x + 10)**2/1 + $$\\frac{y^2}{10}$$ $$=$$ 1\\) and find c $$=$$ $$\\sqrt{10-1}$$.",
+        "text": "Rewrite as $$\\frac{\\left(x+10\\right)^2}{100}+\\frac{y^2}{1000}=1$$ and find $$c=\\sqrt{1000-100}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -16,7 +16,7 @@
             "ab4f61dellipse9a-h1"
         ],
         "title": "Determine Orientation and Foci",
-        "text": "Since a**2=1/4\u200b and b**2=1/16\u200b, the major axis is vertical. Use c=sqrt(b**2-a**2)\u200b to find foci.",
+        "text": "Since a**2=1/4\u200b and b**2=1/16\u200b, the major axis is horizontal. Use c=sqrt(a**2-b**2)\u200b to find foci.",
         "variabilization": {},
         "oer": "",
         "license": ""

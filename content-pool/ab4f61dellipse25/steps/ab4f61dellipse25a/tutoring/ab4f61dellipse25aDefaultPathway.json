@@ -16,7 +16,7 @@
             "ab4f61dellipse25a-h1"
         ],
         "title": "Identify standard form and use c\u00b2 $$=$$ a\u00b2 - b\u00b2",
-        "text": "Convert to form ((x + 2)**2)/1 + ((y + 1)**2)/4 $$=$$ $$1$$ and calculate c $$=$$ $$\\sqrt{4-1}$$.",
+        "text": "Convert to form ((x + 2)**2)/9+((y + 1)**2)/(9/4)=1 and calculate $$c=\\sqrt{9-\\frac{9}{4}}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
