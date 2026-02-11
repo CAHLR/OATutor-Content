@@ -1,4 +1,306 @@
 {
+    "a76e5d4tab1a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab1b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab1c": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab1d": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab1e": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab1f": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab2a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3c": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3d": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3e": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3f": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab3g": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab4a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab4b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab4c": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab4d": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab5a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab5b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab6a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab7a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab8a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab8b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab9a": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab9b": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "a76e5d4tab9c": [
+        "table_methods",
+        "conditionals",
+        "iteration"
+    ],
+    "aaac80bvis1a": [
+        "visualizations",
+        "functions"
+    ],
+    "aaac80bvis1b": [
+        "visualizations",
+        "functions"
+    ],
+    "aaac80bvis1c": [
+        "visualizations",
+        "functions"
+    ],
+    "aaac80bvis1d": [
+        "visualizations",
+        "functions"
+    ],
+    "aaac80bvis1e": [
+        "visualizations",
+        "functions"
+    ],
+    "aaac80bvis10a": [
+        "visualizations"
+    ],
+    "aaac80bvis10b": [
+        "visualizations"
+    ],
+    "aaac80bvis10c": [
+        "visualizations"
+    ],
+    "aaac80bvis10d": [
+        "visualizations"
+    ],
+    "aaac80bvis10e": [
+        "visualizations"
+    ],
+    "aaac80bvis10f": [
+        "visualizations"
+    ],
+    "aaac80bvis10g": [
+        "visualizations"
+    ],
+    "aaac80bvis10h": [
+        "visualizations"
+    ],
+    "aaac80bvis11a": [
+        "visualizations"
+    ],
+    "aaac80bvis11b": [
+        "visualizations"
+    ],
+    "aaac80bvis11c": [
+        "visualizations"
+    ],
+    "aaac80bvis11d": [
+        "visualizations"
+    ],
+    "aaac80bvis11e": [
+        "visualizations"
+    ],
+    "aaac80bvis3a": [
+        "visualizations"
+    ],
+    "aaac80bvis3b": [
+        "visualizations"
+    ],
+    "aaac80bvis3c": [
+        "visualizations"
+    ],
+    "aaac80bvis3d": [
+        "visualizations"
+    ],
+    "aaac80bvis3e": [
+        "visualizations"
+    ],
+    "aaac80bvis4a": [
+        "visualizations"
+    ],
+    "aaac80bvis4b": [
+        "visualizations"
+    ],
+    "aaac80bvis4c": [
+        "visualizations"
+    ],
+    "aaac80bvis5a": [
+        "visualizations"
+    ],
+    "aaac80bvis5b": [
+        "visualizations"
+    ],
+    "aaac80bvis5c": [
+        "visualizations"
+    ],
+    "aaac80bvis5d": [
+        "visualizations"
+    ],
+    "aaac80bvis6a": [
+        "visualizations"
+    ],
+    "aaac80bvis6b": [
+        "visualizations"
+    ],
+    "aaac80bvis6c": [
+        "visualizations"
+    ],
+    "aaac80bvis6d": [
+        "visualizations"
+    ],
+    "aaac80bvis6e": [
+        "visualizations"
+    ],
+    "aaac80bvis6f": [
+        "visualizations"
+    ],
+    "aaac80bvis6g": [
+        "visualizations"
+    ],
+    "aaac80bvis7a": [
+        "visualizations"
+    ],
+    "aaac80bvis7b": [
+        "visualizations"
+    ],
+    "aaac80bvis7c": [
+        "visualizations"
+    ],
+    "aaac80bvis7d": [
+        "visualizations"
+    ],
+    "aaac80bvis7e": [
+        "visualizations"
+    ],
+    "aaac80bvis7f": [
+        "visualizations"
+    ],
+    "aaac80bvis7g": [
+        "visualizations"
+    ],
+    "aaac80bvis8a": [
+        "visualizations"
+    ],
+    "aaac80bvis8b": [
+        "visualizations"
+    ],
+    "aaac80bvis8c": [
+        "visualizations"
+    ],
+    "aaac80bvis8d": [
+        "visualizations"
+    ],
+    "aaac80bvis9a": [
+        "visualizations"
+    ],
+    "aaac80bvis9b": [
+        "visualizations"
+    ],
+    "aaac80bvis9c": [
+        "visualizations"
+    ],
+    "aaac80bvis9d": [
+        "visualizations"
+    ],
+    "aaac80bvis9e": [
+        "visualizations"
+    ],
+    "aaac80bvis9f": [
+        "visualizations"
+    ],
     "a11c719lang1a": [
         "find_factors",
         "prime_factorizations",
@@ -14072,310 +14374,310 @@
     "ad4fd60center9a": [
         "arc_length_of_the_curve"
     ],
-    "a764a0ffunctions1a": [
+    "a423e1cfunctions1a": [
         "determining_whether_a_relation_represents_a_function"
     ],
-    "a764a0ffunctions1b": [
+    "a423e1cfunctions1b": [
         "determining_whether_a_relation_represents_a_function"
     ],
-    "a764a0ffunctions10a": [
+    "a423e1cfunctions10a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions11a": [
+    "a423e1cfunctions11a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions12a": [
+    "a423e1cfunctions12a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions13a": [
+    "a423e1cfunctions13a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions14a": [
+    "a423e1cfunctions14a": [
         "evaluating_functions_expressed_in_formulas"
     ],
-    "a764a0ffunctions15a": [
+    "a423e1cfunctions15a": [
         "evaluating_functions_expressed_in_formulas"
     ],
-    "a764a0ffunctions16a": [
+    "a423e1cfunctions16a": [
         "evaluating_functions_expressed_in_formulas"
     ],
-    "a764a0ffunctions17a": [
+    "a423e1cfunctions17a": [
         "evaluating_a_function_given_in_tabular_form"
     ],
-    "a764a0ffunctions17b": [
+    "a423e1cfunctions17b": [
         "evaluating_a_function_given_in_tabular_form"
     ],
-    "a764a0ffunctions18a": [
+    "a423e1cfunctions18a": [
         "evaluating_a_function_given_in_tabular_form"
     ],
-    "a764a0ffunctions18b": [
+    "a423e1cfunctions18b": [
         "evaluating_a_function_given_in_tabular_form"
     ],
-    "a764a0ffunctions19a": [
+    "a423e1cfunctions19a": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions2a": [
+    "a423e1cfunctions2a": [
         "using_function_notation"
     ],
-    "a764a0ffunctions20a": [
+    "a423e1cfunctions20a": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions20b": [
+    "a423e1cfunctions20b": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions20c": [
+    "a423e1cfunctions20c": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions21a": [
+    "a423e1cfunctions21a": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions21b": [
+    "a423e1cfunctions21b": [
         "determining_whether_a_function_is_one_to_one"
     ],
-    "a764a0ffunctions22a": [
+    "a423e1cfunctions22a": [
         "using_the_vertical_line_test"
     ],
-    "a764a0ffunctions23a": [
+    "a423e1cfunctions23a": [
         "using_the_vertical_line_test"
     ],
-    "a764a0ffunctions24a": [
+    "a423e1cfunctions24a": [
         "using_the_horizontal_line_test"
     ],
-    "a764a0ffunctions25a": [
+    "a423e1cfunctions25a": [
         "determining_whether_a_relation_represents_a_function"
     ],
-    "a764a0ffunctions26a": [
+    "a423e1cfunctions26a": [
         "determining_whether_a_relation_represents_a_function"
     ],
-    "a764a0ffunctions27a": [
+    "a423e1cfunctions27a": [
         "determining_whether_a_relation_represents_a_function"
     ],
-    "a764a0ffunctions28a": [
+    "a423e1cfunctions28a": [
         "using_the_vertical_line_test"
     ],
-    "a764a0ffunctions29a": [
+    "a423e1cfunctions29a": [
         "using_the_horizontal_line_test"
     ],
-    "a764a0ffunctions29b": [
+    "a423e1cfunctions29b": [
         "using_the_horizontal_line_test"
     ],
-    "a764a0ffunctions3a": [
+    "a423e1cfunctions3a": [
         "using_function_notation"
     ],
-    "a764a0ffunctions30a": [
+    "a423e1cfunctions30a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions30b": [
+    "a423e1cfunctions30b": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions4a": [
+    "a423e1cfunctions4a": [
         "using_function_notation"
     ],
-    "a764a0ffunctions5a": [
+    "a423e1cfunctions5a": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions5b": [
+    "a423e1cfunctions5b": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions6a": [
+    "a423e1cfunctions6a": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions6b": [
+    "a423e1cfunctions6b": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions6c": [
+    "a423e1cfunctions6c": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions7a": [
+    "a423e1cfunctions7a": [
         "representing_functions_using_tables"
     ],
-    "a764a0ffunctions8a": [
+    "a423e1cfunctions8a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions8b": [
+    "a423e1cfunctions8b": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions8c": [
+    "a423e1cfunctions8c": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions8d": [
+    "a423e1cfunctions8d": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a764a0ffunctions9a": [
+    "a423e1cfunctions9a": [
         "evaluation_of_functions_in_algebra_forms"
     ],
-    "a193928real1a": [
+    "adc8562real1a": [
         "domain_and_range"
     ],
-    "a193928real10a": [
+    "adc8562real10a": [
         "domain_and_range"
     ],
-    "a193928real11a": [
+    "adc8562real11a": [
         "domain_and_range"
     ],
-    "a193928real12a": [
+    "adc8562real12a": [
         "domain_and_range"
     ],
-    "a193928real13a": [
+    "adc8562real13a": [
         "domain_and_range"
     ],
-    "a193928real14a": [
+    "adc8562real14a": [
         "domain_and_range"
     ],
-    "a193928real15a": [
+    "adc8562real15a": [
         "domain_and_range"
     ],
-    "a193928real16a": [
+    "adc8562real16a": [
         "domain_and_range"
     ],
-    "a193928real17a": [
+    "adc8562real17a": [
         "domain_and_range"
     ],
-    "a193928real18a": [
+    "adc8562real18a": [
         "domain_and_range"
     ],
-    "a193928real19a": [
+    "adc8562real19a": [
         "domain_and_range"
     ],
-    "a193928real2a": [
+    "adc8562real2a": [
         "domain_and_range"
     ],
-    "a193928real20a": [
+    "adc8562real20a": [
         "domain_and_range"
     ],
-    "a193928real21a": [
+    "adc8562real21a": [
         "domain_and_range"
     ],
-    "a193928real22a": [
+    "adc8562real22a": [
         "domain_and_range"
     ],
-    "a193928real23a": [
+    "adc8562real23a": [
         "domain_and_range"
     ],
-    "a193928real24a": [
+    "adc8562real24a": [
         "domain_and_range"
     ],
-    "a193928real25a": [
+    "adc8562real25a": [
         "domain_and_range"
     ],
-    "a193928real26a": [
+    "adc8562real26a": [
         "domain_and_range"
     ],
-    "a193928real27a": [
+    "adc8562real27a": [
         "domain_and_range"
     ],
-    "a193928real28a": [
+    "adc8562real28a": [
         "domain_and_range"
     ],
-    "a193928real29a": [
+    "adc8562real29a": [
         "domain_and_range"
     ],
-    "a193928real3a": [
+    "adc8562real3a": [
         "domain_and_range"
     ],
-    "a193928real30a": [
+    "adc8562real30a": [
         "domain_and_range"
     ],
-    "a193928real4a": [
+    "adc8562real4a": [
         "domain_and_range"
     ],
-    "a193928real5a": [
+    "adc8562real5a": [
         "domain_and_range"
     ],
-    "a193928real6a": [
+    "adc8562real6a": [
         "domain_and_range"
     ],
-    "a193928real7a": [
+    "adc8562real7a": [
         "domain_and_range"
     ],
-    "a193928real8a": [
+    "adc8562real8a": [
         "domain_and_range"
     ],
-    "a193928real9a": [
+    "adc8562real9a": [
         "domain_and_range"
     ],
-    "a4bb453real1a": [
+    "a5676cbreal1a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real10a": [
+    "a5676cbreal10a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real11a": [
+    "a5676cbreal11a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real13a": [
+    "a5676cbreal13a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real14a": [
+    "a5676cbreal14a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real15a": [
+    "a5676cbreal15a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real17a": [
+    "a5676cbreal17a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real18a": [
+    "a5676cbreal18a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real19a": [
+    "a5676cbreal19a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real2a": [
+    "a5676cbreal2a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real20a": [
+    "a5676cbreal20a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real21a": [
+    "a5676cbreal21a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real22a": [
+    "a5676cbreal22a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real23a": [
+    "a5676cbreal23a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real24a": [
+    "a5676cbreal24a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real25a": [
+    "a5676cbreal25a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real26a": [
+    "a5676cbreal26a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real27a": [
+    "a5676cbreal27a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real28a": [
+    "a5676cbreal28a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real29a": [
+    "a5676cbreal29a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real3a": [
+    "a5676cbreal3a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real30a": [
+    "a5676cbreal30a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real4a": [
+    "a5676cbreal4a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real5a": [
+    "a5676cbreal5a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real6a": [
+    "a5676cbreal6a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real7a": [
+    "a5676cbreal7a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real8a": [
+    "a5676cbreal8a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
-    "a4bb453real9a": [
+    "a5676cbreal9a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
     "a005bd5real1a": [
@@ -14462,94 +14764,94 @@
     "a005bd5real9a": [
         "composition_of_functions"
     ],
-    "ad70fe4real1a": [
+    "acb4287real1a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real10a": [
+    "acb4287real10a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real11a": [
+    "acb4287real11a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real12a": [
+    "acb4287real12a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real13a": [
+    "acb4287real13a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real14a": [
+    "acb4287real14a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real15a": [
+    "acb4287real15a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real16a": [
+    "acb4287real16a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real17a": [
+    "acb4287real17a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real18a": [
+    "acb4287real18a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real19a": [
+    "acb4287real19a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real2a": [
+    "acb4287real2a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real20a": [
+    "acb4287real20a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real21a": [
+    "acb4287real21a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real22a": [
+    "acb4287real22a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real23a": [
+    "acb4287real23a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real24a": [
+    "acb4287real24a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real25a": [
+    "acb4287real25a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real26a": [
+    "acb4287real26a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real27a": [
+    "acb4287real27a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real28a": [
+    "acb4287real28a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real29a": [
+    "acb4287real29a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real3a": [
+    "acb4287real3a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real30a": [
+    "acb4287real30a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real4a": [
+    "acb4287real4a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real5a": [
+    "acb4287real5a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real6a": [
+    "acb4287real6a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real7a": [
+    "acb4287real7a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real8a": [
+    "acb4287real8a": [
         "transformation_of_functions"
     ],
-    "ad70fe4real9a": [
+    "acb4287real9a": [
         "transformation_of_functions"
     ],
     "aba0997real1a": [

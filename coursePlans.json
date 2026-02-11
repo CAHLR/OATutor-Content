@@ -1,5 +1,34 @@
 [
     {
+        "courseName": "Data 8 Discussion Worksheets",
+        "language": "",
+        "courseOER": "https://drive.google.com/file/d/1WXuGyAe3OtZTxrddc6aqCVoiR8KpkFSV/view?usp=drive_link",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "0dJYDToW-hati-SjwIXGncTg",
+                "name": "Lesson Disc4",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "functions": 0.85,
+                    "visualizations": 0.85
+                }
+            },
+            {
+                "id": "7IYYDN35-tPVp-P9gwfgQ1wz",
+                "name": "Lesson Disc5",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "conditionals": 0.85,
+                    "iteration": 0.85,
+                    "table_methods": 0.85
+                }
+            }
+        ]
+    },
+    {
         "courseName": "SJSU 1019S",
         "language": "",
         "courseOER": "https://openstax.org/",
@@ -2322,7 +2351,7 @@
             {
                 "id": "4rgZA7mW-Nemm-Xc1ADdx7xH",
                 "name": "Lesson 1.1",
-                "topics": "- Functions and Function Notation",
+                "topics": "Functions and Function Notation",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "determining_whether_a_function_is_one_to_one": 0.85,
@@ -2339,7 +2368,7 @@
             {
                 "id": "3RjWaoqA-djgd-BMnWFJNBqp",
                 "name": "Lesson 1.2",
-                "topics": "- Domain and Range",
+                "topics": "Domain and Range",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "domain_and_range": 0.85
@@ -2347,8 +2376,8 @@
             },
             {
                 "id": "6nUtpeK1-5Aoe-Cj6mDFwWAK",
-                "name": "Lesson 1.3-Rates",
-                "topics": "of Change and Behavior of Graphs",
+                "name": "Lesson 1.3",
+                "topics": "Rates of Change and Behavior of Graphs",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "rates_of_change_and_behavior_of_graphs": 0.85
@@ -2365,8 +2394,8 @@
             },
             {
                 "id": "51ukvlfX-chiP-S46rcW2BcC",
-                "name": "Lesson 1.5-Transformation",
-                "topics": "of Functions",
+                "name": "Lesson 1.5",
+                "topics": "Transformation of Functions",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "transformation_of_functions": 0.85
