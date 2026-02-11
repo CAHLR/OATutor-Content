@@ -10,6 +10,7 @@
                 "name": "Lesson Disc4",
                 "topics": "",
                 "allowRecycle": true,
+                "giveStuBottomHint": false,
                 "learningObjectives": {
                     "functions": 0.85,
                     "visualizations": 0.85
@@ -20,6 +21,7 @@
                 "name": "Lesson Disc5",
                 "topics": "",
                 "allowRecycle": true,
+                "giveStuBottomHint": false,
                 "learningObjectives": {
                     "conditionals": 0.85,
                     "iteration": 0.85,
