@@ -1,7 +1,7 @@
 [
     {
         "courseName": "Data 8 Discussion Worksheets",
-        "language": "",
+        "language": "en",
         "courseOER": "https://drive.google.com/file/d/1WXuGyAe3OtZTxrddc6aqCVoiR8KpkFSV/view?usp=drive_link",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -10,7 +10,6 @@
                 "name": "Lesson Disc4",
                 "topics": "",
                 "allowRecycle": true,
-                "giveStuBottomHint": false,
                 "learningObjectives": {
                     "functions": 0.85,
                     "visualizations": 0.85
@@ -21,18 +20,36 @@
                 "name": "Lesson Disc5",
                 "topics": "",
                 "allowRecycle": true,
-                "giveStuBottomHint": false,
                 "learningObjectives": {
                     "conditionals": 0.85,
                     "iteration": 0.85,
                     "table_methods": 0.85
+                }
+            },
+            {
+                "id": "2yX8UAm4-yRvV-nSIBuvDC3s",
+                "name": "Lesson Disc6",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "chance": 0.85,
+                    "models": 0.85
+                }
+            },
+            {
+                "id": "6uvLFIOx-w1jl-PpwgIKOFGL",
+                "name": "Lesson Disc7",
+                "topics": "- wip",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "models": 0.85
                 }
             }
         ]
     },
     {
         "courseName": "SJSU 1019S",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -373,7 +390,7 @@
     },
     {
         "courseName": "SJSU Calculus 1 (Quiz Collection)",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -682,7 +699,7 @@
     },
     {
         "courseName": "SJSU 1018",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -1013,7 +1030,7 @@
     },
     {
         "courseName": "Mission College: Introductory Statistics",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -1686,7 +1703,7 @@
     },
     {
         "courseName": "Pre-Calculus Essentials (UC Berkeley Math 1B)",
-        "language": "",
+        "language": "en",
         "courseOER": 0.0,
         "courseLicense": 0.0,
         "lessons": [
@@ -1785,7 +1802,7 @@
     },
     {
         "courseName": "OpenStax: College Physics",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -1924,7 +1941,7 @@
     },
     {
         "courseName": "OpenStax: Calculus Volume 1",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -2346,7 +2363,7 @@
     },
     {
         "courseName": "OpenStax: Pre-Calculus",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -3008,7 +3025,7 @@
     },
     {
         "courseName": "OpenStax: Elementary Algebra",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/details/books/elementary-algebra-2e <OpenStax: Elementary Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -3788,7 +3805,7 @@
     },
     {
         "courseName": "OpenStax: Intermediate Algebra",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/details/books/intermediate-algebra-2e <OpenStax: Intermediate Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -4537,7 +4554,7 @@
     },
     {
         "courseName": "OpenStax: College Algebra",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -5305,7 +5322,7 @@
     },
     {
         "courseName": "OpenStax: Introductory Stats",
-        "language": "",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
