@@ -39,10 +39,28 @@
             {
                 "id": "6uvLFIOx-w1jl-PpwgIKOFGL",
                 "name": "Lesson Disc7",
-                "topics": "- wip",
+                "topics": "",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "models": 0.85
+                }
+            },
+            {
+                "id": "5GdmdaBp-BBke-crZ5GxO2hO",
+                "name": "Lesson Disc8",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "review": 0.85
+                }
+            },
+            {
+                "id": "7dw8HjLH-wSxb-4z25gNKkoM",
+                "name": "Lesson Disc9",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "the_bootstrap": 0.85
                 }
             }
         ]
@@ -425,19 +443,6 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "determine_the_values_for_which_a_rational_expression_is_undefined": 0.85
-                }
-            },
-            {
-                "id": "0cVFGCZw-5vMu-Ahp03eOmqe",
-                "name": "Lesson Quiz",
-                "topics": "4",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "factor_perfect_square_trinomials": 0.85,
-                    "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf": 0.85,
-                    "factor_trinomials_of_the_form_x**2_+_bx_+_c": 0.85,
-                    "find_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
-                    "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely": 0.85
                 }
             },
             {
@@ -3810,7 +3815,7 @@
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
             {
-                "id": "1dmull1r-t834-5gjKIDF3rb",
+                "id": "2kmull1r-t834-5gjKIDF3rb",
                 "name": "Lesson 1.1",
                 "topics": "Use the Language of Algebra",
                 "allowRecycle": true,
