@@ -62,6 +62,15 @@
                 "learningObjectives": {
                     "the_bootstrap": 0.85
                 }
+            },
+            {
+                "id": "3VPojrSX-AJ4B-DHNPyCLuWw",
+                "name": "Lesson Disc10",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "review": 0.85
+                }
             }
         ]
     },
@@ -111,7 +120,7 @@
                 }
             },
             {
-                "id": "5yCh3BU0-uHoo-JsjHWIW0Ai",
+                "id": "6D73EB4O-YQgA-h4CdYb5TyD",
                 "name": "Lesson 2.1",
                 "topics": "Evaluating Expressions",
                 "allowRecycle": true,
@@ -132,7 +141,7 @@
                 }
             },
             {
-                "id": "4LI7GIeE-Qpw8-y5vMWwZAln",
+                "id": "6A2jdQdM-xaXO-mQvzs7TftS",
                 "name": "Lesson 2.3",
                 "topics": "Substituting into expressions",
                 "allowRecycle": true,
@@ -299,8 +308,10 @@
                 "learningObjectives": {
                     "add_and_subtract_like_square_roots": 0.85,
                     "divide_square_roots": 0.85,
+                    "multiply_square_roots": 0.85,
                     "rationalize_a_one_term_denominator": 0.85,
-                    "rationalize_a_two_term_denominator": 0.85
+                    "rationalize_a_two_term_denominator": 0.85,
+                    "use_polynomial_multiplication_to_multiply_square_roots": 0.85
                 }
             },
             {
@@ -319,7 +330,7 @@
                 "topics": "Rationalizing a denominator",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "rationalize_a_one_term_denominator": 0.85
+                    "rationalizing_denominators": 0.85
                 }
             },
             {
@@ -356,7 +367,7 @@
                 }
             },
             {
-                "id": "6bS8b840-vpfB-mZ7oeM85aN",
+                "id": "4bXbO3O1-lf6j-2nvdsw7fWB",
                 "name": "Lesson 5.2",
                 "topics": "Special right triangles",
                 "allowRecycle": true,
@@ -375,12 +386,13 @@
                 }
             },
             {
-                "id": "1IGTMXm6-gNQi-sXEvjTsNu6",
+                "id": "3OTe5TG6-LPhE-qQ1Zrq9tyF",
                 "name": "Lesson 5.4",
                 "topics": "Pythagorean theorem",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "solve_applications_using_properties_of_triangles": 0.85
+                    "solve_applications_using_properties_of_triangles": 0.85,
+                    "solve_applications_using_the_pythagorean_theorem": 0.85
                 }
             },
             {
@@ -890,6 +902,7 @@
                     "and_percents": 0.85,
                     "convert_decimals": 0.85,
                     "fractions": 0.85,
+                    "ratios_and_proportions": 0.85,
                     "round_decimals": 0.85
                 }
             },
@@ -963,7 +976,12 @@
                 "topics": "7.4 - Rules of Exponents",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "using_the_negative_rule": 0.85
+                    "finding_the_power_of_a_product": 0.85,
+                    "using_the_negative_rule": 0.85,
+                    "using_the_power_rule": 0.85,
+                    "using_the_product_rule": 0.85,
+                    "using_the_quotient_rule": 0.85,
+                    "using_the_zero_exponent_rule": 0.85
                 }
             },
             {
@@ -1010,6 +1028,7 @@
                 "topics": "8.4- Expanding the Square Power of a Binomial",
                 "allowRecycle": true,
                 "learningObjectives": {
+                    "expanding_the_square": 0.85,
                     "perfect_square_trinomials": 0.85
                 }
             },
@@ -2417,7 +2436,7 @@
                 }
             },
             {
-                "id": "51ukvlfX-chiP-S46rcW2BcC",
+                "id": "62ukvlfX-chiP-S46rcW2BcC",
                 "name": "Lesson 1.5",
                 "topics": "Transformation of Functions",
                 "allowRecycle": true,
@@ -2466,7 +2485,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "5Dln1Scx-YLCJ-NdepUGhiU3",
                 "name": "Lesson 2.3",
                 "topics": "- Modeling with Linear Functions",
                 "allowRecycle": true,
@@ -2831,7 +2850,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "7Eln1Scx-YLCJ-NdepUGhiZ4",
                 "name": "Lesson 8.8",
                 "topics": "- Vectors",
                 "allowRecycle": true,
@@ -2945,7 +2964,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "7Eln1Scx-AFCJ-NdepUGhiU3",
                 "name": "Lesson 10.5",
                 "topics": "- Conic Sections in Polar Coordinates",
                 "allowRecycle": true,
@@ -3018,7 +3037,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "7Eln1Scx-YLAP-NdepUGhiU3",
                 "name": "Lesson 12.4",
                 "topics": "- Derivatives",
                 "allowRecycle": true,

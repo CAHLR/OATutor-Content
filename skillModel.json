@@ -1,4 +1,46 @@
 {
+    "aefaff5clt1a": [
+        "review"
+    ],
+    "aefaff5clt1b": [
+        "review"
+    ],
+    "aefaff5clt1c": [
+        "review"
+    ],
+    "aefaff5clt1d": [
+        "review"
+    ],
+    "aefaff5clt1e": [
+        "review"
+    ],
+    "aefaff5clt2a": [
+        "review"
+    ],
+    "aefaff5clt2b": [
+        "review"
+    ],
+    "aefaff5clt3a": [
+        "review"
+    ],
+    "aefaff5clt3b": [
+        "review"
+    ],
+    "aefaff5clt3c": [
+        "review"
+    ],
+    "aefaff5clt3d": [
+        "review"
+    ],
+    "aefaff5clt3e": [
+        "review"
+    ],
+    "aefaff5clt3f": [
+        "review"
+    ],
+    "aefaff5clt3g": [
+        "review"
+    ],
     "ada72c8boot1a": [
         "the_bootstrap"
     ],
@@ -6,6 +48,81 @@
         "the_bootstrap"
     ],
     "ada72c8boot1c": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2a": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2b": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2c": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2d": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2e": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2f": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2g": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2h": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2i": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot2j": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3a": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3b": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3c": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3d": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3e": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3f": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3g": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3h": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3i": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3j": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3k": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3l": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3m": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3n": [
+        "the_bootstrap"
+    ],
+    "ada72c8boot3o": [
         "the_bootstrap"
     ],
     "a1f1064rev1a": [
@@ -1373,6 +1490,9 @@
     "a3b574dRealNums16a": [
         "use_the_commutative_and_associative_properties"
     ],
+    "a3b574dRealNums17a": [
+        "use_the_commutative_and_associative_properties"
+    ],
     "a3b574dRealNums18a": [
         "use_the_commutative_and_associative_properties"
     ],
@@ -2449,6 +2569,15 @@
     "ae63c0clinear3c": [
         "graph_inequalities_on_the_number_line"
     ],
+    "ae63c0clinear4a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear4b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear4c": [
+        "graph_inequalities_on_the_number_line"
+    ],
     "ae63c0clinear5a": [
         "graph_inequalities_on_the_number_line"
     ],
@@ -2818,6 +2947,9 @@
     "a5dd108gcf1a": [
         "finding_the_greatest_common_factor_of_two_or_more_expressions"
     ],
+    "a5dd108gcf16a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
     "a5dd108gcf2a": [
         "factor_the_greatest_common_factor_from_a_polynomial"
     ],
@@ -2976,6 +3108,69 @@
     ],
     "af0b12cgaussian30a": [
         "solve_quadratic_equations_by_factoring"
+    ],
+    "a4dc64froot10a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot11a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot12a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot13a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot14a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot15a": [
+        "use_polynomial_multiplication_to_multiply_square_roots"
+    ],
+    "a4dc64froot16a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot17a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot18a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot19a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot20a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot21a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot22a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot23a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot24a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot25a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot26a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot27a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot28a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot29a": [
+        "multiply_square_roots"
+    ],
+    "a4dc64froot30a": [
+        "multiply_square_roots"
     ],
     "a4dc64fsqroots11a": [
         "rationalize_a_one_term_denominator"
@@ -3178,11 +3373,50 @@
     "ab35892radical9a": [
         "use_the_product_property_to_simplify_square_roots"
     ],
+    "a9bee85RadRat11a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat12a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat13a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat14a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat15a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat15b": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat16a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat16b": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat17a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat18a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat19a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat20a": [
+        "rationalizing_denominators"
+    ],
+    "a9bee85RadRat21a": [
+        "rationalizing_denominators"
+    ],
     "a9bee85sqroots12a": [
-        "rationalize_a_one_term_denominator"
+        "rationalizing_denominators"
     ],
     "a9bee85sqroots13a": [
-        "rationalize_a_one_term_denominator"
+        "rationalizing_denominators"
     ],
     "a179588expprop1a": [
         "simplify_expressions_using_the_properties_for_exponents"
@@ -3578,12 +3812,33 @@
         "use_the_distance_formula"
     ],
     "a70ee94geo2a": [
-        "solve_applications_using_properties_of_triangles"
+        "solve_applications_using_the_pythagorean_theorem"
     ],
     "a70ee94geo3a": [
         "solve_applications_using_properties_of_triangles"
     ],
     "a70ee94pyth1a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a70ee94pythagorean1a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean2a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean3a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean4a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean5a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean6a": [
+        "solve_applications_using_the_pythagorean_theorem"
+    ],
+    "a70ee94pythagorean_trianglea": [
         "solve_applications_using_properties_of_triangles"
     ],
     "a41f771LinEqua29a": [
@@ -4633,12 +4888,42 @@
     "abfb1f3exp9c": [
         "using_the_negative_exponent_rule_of_exponents"
     ],
+    "a70d110lang10a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
     "a70d110lang2a": [
         "find_factors",
         "prime_factorizations",
         "and_least_common_multiples"
     ],
     "a70d110lang3a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a70d110lang4a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a70d110lang5a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a70d110lang6a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a70d110lang7a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
+    ],
+    "a70d110lang9a": [
         "find_factors",
         "prime_factorizations",
         "and_least_common_multiples"
@@ -5084,6 +5369,12 @@
     "a37a2f0Fraction4a": [
         "multiply_and_divide_fractions"
     ],
+    "a37a2f0FractionReduction1a": [
+        "multiply_and_divide_fractions"
+    ],
+    "a37a2f0FractionSimplification1a": [
+        "multiply_and_divide_fractions"
+    ],
     "a37a2f0Visualize1a": [
         "simplify_fractions"
     ],
@@ -5098,6 +5389,9 @@
     ],
     "a37a2f0Visualize5a": [
         "simplify_fractions"
+    ],
+    "a37a2f0fraction_reduction1a": [
+        "multiply_and_divide_fractions"
     ],
     "a37a2f0fractions1a": [
         "simplify_fractions"
@@ -5288,6 +5582,15 @@
     "a30046daddprop13a": [
         "use_the_commutative_and_associative_properties"
     ],
+    "a30046daddprop14a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a30046daddprop15a": [
+        "use_the_commutative_and_associative_properties"
+    ],
+    "a30046daddprop16a": [
+        "use_the_commutative_and_associative_properties"
+    ],
     "a30046daddprop2a": [
         "use_the_commutative_and_associative_properties"
     ],
@@ -5415,6 +5718,12 @@
         "use_the_properties_of_identity",
         "inverse",
         "and_zero"
+    ],
+    "a60909cdistprop1a": [
+        "simplify_expressions_using_the_distributive_property"
+    ],
+    "a60909cdistprop1b": [
+        "simplify_expressions_using_the_distributive_property"
     ],
     "a60909cdistprop10a": [
         "simplify_expressions_using_the_distributive_property"
@@ -5797,6 +6106,30 @@
     "a67bbc4decimals31a": [
         "round_decimals"
     ],
+    "a67bbc4reducefrac1a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac2a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac3a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac4a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac5a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac6a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac7a": [
+        "ratios_and_proportions"
+    ],
+    "a67bbc4reducefrac8a": [
+        "ratios_and_proportions"
+    ],
     "a846989decimals1a": [
         "name_and_write_decimals"
     ],
@@ -6133,6 +6466,33 @@
     "a502645sqroot2b": [
         "simplify_expressions_with_square_roots"
     ],
+    "a502645sqroot3a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot3b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot3c": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot4a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot4b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot4c": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot5a": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot5b": [
+        "simplify_expressions_with_square_roots"
+    ],
+    "a502645sqroot5c": [
+        "simplify_expressions_with_square_roots"
+    ],
     "a502645sqroot6a": [
         "simplify_expressions_with_square_roots"
     ],
@@ -6244,6 +6604,24 @@
     "ad82f2bhighroot9b": [
         "simplifying_expressions_with_higher_roots"
     ],
+    "ad82f2bsimplifyRoot1a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bsimplifyRoot2a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bsimplifyRoot3a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bsimplifyRoot4a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bsimplifyRoot5a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
+    "ad82f2bsimplifyRoot6a": [
+        "simplifying_expressions_with_higher_roots"
+    ],
     "a4da5e5rootdomain1a": [
         "finding_the_domain_of_a_function_with_an_even_root"
     ],
@@ -6301,17 +6679,107 @@
     "a4da5e5rootdomain9a": [
         "finding_the_domain_of_a_function_with_an_even_root"
     ],
+    "a3e2de7expo1a": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo1b": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo1c": [
+        "using_the_product_rule"
+    ],
     "a3e2de7expo10a": [
         "using_the_negative_rule"
     ],
     "a3e2de7expo10b": [
         "using_the_negative_rule"
     ],
+    "a3e2de7expo11a": [
+        "finding_the_power_of_a_product"
+    ],
+    "a3e2de7expo11b": [
+        "finding_the_power_of_a_product"
+    ],
+    "a3e2de7expo14a": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo2a": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo2b": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo2c": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo3a": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo3b": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo3c": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo4a": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo4b": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo4c": [
+        "using_the_quotient_rule"
+    ],
+    "a3e2de7expo5a": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo5b": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo5c": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo6a": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo6b": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo6c": [
+        "using_the_power_rule"
+    ],
+    "a3e2de7expo7a": [
+        "using_the_zero_exponent_rule"
+    ],
+    "a3e2de7expo7b": [
+        "using_the_zero_exponent_rule"
+    ],
+    "a3e2de7expo7c": [
+        "using_the_zero_exponent_rule"
+    ],
+    "a3e2de7expo8a": [
+        "using_the_zero_exponent_rule"
+    ],
+    "a3e2de7expo8b": [
+        "using_the_zero_exponent_rule"
+    ],
+    "a3e2de7expo8c": [
+        "using_the_zero_exponent_rule"
+    ],
     "a3e2de7expo9a": [
         "using_the_negative_rule"
     ],
     "a3e2de7expo9b": [
         "using_the_negative_rule"
+    ],
+    "a3e2de7expo_rule1a": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo_rule2a": [
+        "using_the_product_rule"
+    ],
+    "a3e2de7expo_rule2b": [
+        "using_the_product_rule"
     ],
     "ab5d0bbratioexpo1a": [
         "using_rational_exponents"
@@ -6613,6 +7081,15 @@
     "a5340a6foil9a": [
         "multiply_a_binomial_by_a_binomial"
     ],
+    "a19d043binomialsq1a": [
+        "expanding_the_square"
+    ],
+    "a19d043expand_binomial_squarea": [
+        "expanding_the_square"
+    ],
+    "a19d043expand_square_binomiala": [
+        "expanding_the_square"
+    ],
     "a19d043polysq1a": [
         "perfect_square_trinomials"
     ],
@@ -6649,10 +7126,22 @@
     "a389170multpoly12a": [
         "performing_operations_with_polynomials_of_several_variables"
     ],
+    "a389170multpoly13a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
     "a389170multpoly2a": [
         "performing_operations_with_polynomials_of_several_variables"
     ],
+    "a389170multpoly28a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly29a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
     "a389170multpoly3a": [
+        "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a389170multpoly30a": [
         "performing_operations_with_polynomials_of_several_variables"
     ],
     "a389170multpoly4a": [
@@ -6672,6 +7161,18 @@
     ],
     "a389170multpoly9a": [
         "performing_operations_with_polynomials_of_several_variables"
+    ],
+    "a7db3eepoly_gcf_1a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepoly_gcf_2a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepoly_gcf_4a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a7db3eepoly_gcf_5a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
     ],
     "a7db3eepolygcf1a": [
         "factor_the_greatest_common_factor_from_a_polynomial"
@@ -15041,9 +15542,6 @@
     "adc8562real8a": [
         "domain_and_range"
     ],
-    "adc8562real9a": [
-        "domain_and_range"
-    ],
     "a5676cbreal1a": [
         "rates_of_change_and_behavior_of_graphs"
     ],
@@ -15191,9 +15689,6 @@
     "a005bd5real27a": [
         "composition_of_functions"
     ],
-    "a005bd5real28a": [
-        "composition_of_functions"
-    ],
     "a005bd5real3a": [
         "composition_of_functions"
     ],
@@ -15201,9 +15696,6 @@
         "composition_of_functions"
     ],
     "a005bd5real6a": [
-        "composition_of_functions"
-    ],
-    "a005bd5real7a": [
         "composition_of_functions"
     ],
     "a005bd5real8a": [
@@ -15866,9 +16358,6 @@
     "abfba37quadratic14a": [
         "quadratic_functions"
     ],
-    "abfba37quadratic15a": [
-        "quadratic_functions"
-    ],
     "abfba37quadratic16a": [
         "quadratic_functions"
     ],
@@ -15879,6 +16368,9 @@
         "quadratic_functions"
     ],
     "abfba37quadratic19a": [
+        "quadratic_functions"
+    ],
+    "abfba37quadratic19b": [
         "quadratic_functions"
     ],
     "abfba37quadratic2a": [

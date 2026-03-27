@@ -14,7 +14,7 @@
         "oer": "",
         "license": "",
         "choices": [
-            "(-inf,-2.5]U[1,inf)",
+            "$$\\left(-\\infty-2.5\\right) \\cup (1,\\infty)$$",
             "$$\\left(-\\infty-2.5\\right) \\cup (1,\\infty)$$",
             "$$(-\\infty,-1) \\cup (1,\\infty)$$"
         ]

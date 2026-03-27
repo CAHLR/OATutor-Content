@@ -1,11 +1,11 @@
 {
-    "the_bootstrap": {
+    "review": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "review": {
+    "the_bootstrap": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -491,6 +491,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "multiply_square_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "rationalize_a_one_term_denominator": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -503,6 +509,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "use_polynomial_multiplication_to_multiply_square_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "use_the_product_property_to_simplify_square_roots": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -510,6 +522,12 @@
         "probGuess": 0.1
     },
     "use_the_quotient_property_to_simplify_square_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "rationalizing_denominators": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -582,6 +600,12 @@
         "probGuess": 0.1
     },
     "use_the_midpoint_formula": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solve_applications_using_the_pythagorean_theorem": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -1055,6 +1079,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "ratios_and_proportions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "round_decimals": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -1133,6 +1163,30 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "using_the_power_rule": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_the_product_rule": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_the_quotient_rule": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "using_the_zero_exponent_rule": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "simplify_expressions_with_a**(1/n)": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -1140,6 +1194,12 @@
         "probGuess": 0.1
     },
     "using_rational_exponents": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "expanding_the_square": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3707,18 +3767,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "multiply_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "use_polynomial_multiplication_to_multiply_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "solve_radical_equations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -4416,12 +4464,6 @@
         "probGuess": 0.1
     },
     "evaluating_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "rationalizing_denominators": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
