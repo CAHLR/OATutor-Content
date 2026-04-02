@@ -6,7 +6,7 @@
         "title": "Understanding Roots",
         "text": "The nth root of a number is a value that, when raised to the power of $$n$$, gives the original number. For example, the 5th root of $$32$$ is a number that, when raised to the power of $$5$$, equals $$32$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Breaking Down the Problem",
         "text": "To find the 5th root of $$32$$, think about what number multiplied by itself $$5$$ times equals $$32$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Calculating the 5th Root",
         "text": "Try calculating $$2^5$$. Does it equal 32?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -47,7 +47,7 @@
         "title": "Verification",
         "text": "Verify your answer by raising it to the power of $$5$$ and checking if it equals $$32$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

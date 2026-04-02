@@ -4,8 +4,8 @@
         "$$22$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "",
-    "stepBody": "$$0+22$$",
+    "stepTitle": "$$0+22$$",
+    "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$22$$"

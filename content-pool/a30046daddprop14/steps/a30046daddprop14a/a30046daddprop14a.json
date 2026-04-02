@@ -4,8 +4,8 @@
         "$$1+5+7$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "",
-    "stepBody": "$$1+5+7$$",
+    "stepTitle": "$$1+5+7$$",
+    "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$1+5+7$$"

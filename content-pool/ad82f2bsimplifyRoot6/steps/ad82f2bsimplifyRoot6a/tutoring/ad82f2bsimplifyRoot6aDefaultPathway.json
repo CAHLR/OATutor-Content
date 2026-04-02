@@ -6,7 +6,7 @@
         "title": "Understanding Roots",
         "text": "The nth root of a number is a value that, when raised to the power of $$n$$, gives the original number. For example, the 3rd root of $$8$$ is $$2$$ because $$2^3=8$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Breaking Down the Problem",
         "text": "To simplify $$\\sqrt[3]{125}$$, we need to find a number that, when multiplied by itself three times, equals $$125$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Prime Factorization",
         "text": "What is the prime factorization of 125?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -47,24 +47,19 @@
         "title": "Using Prime Factorization",
         "text": "Since $$125=5^3$$, the 3rd root of $$125$$ is the same as the 3rd root of $$5^3$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
         "id": "ad82f2bsimplifyRoot6a-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$5$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "ad82f2bsimplifyRoot6a-h4"
         ],
         "title": "Simplifying the Expression",
         "text": "What is the 3rd root of $$5^3$$?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -73,10 +68,10 @@
         "dependencies": [
             "ad82f2bsimplifyRoot6a-h5"
         ],
-        "title": "Final Answer",
-        "text": "The 3rd root of $$125$$ is $$5$$ because $$5^3=125$$.",
+        "title": "Verification",
+        "text": "Verify your answer by calculating $$5^3$$. Does it equal 125?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

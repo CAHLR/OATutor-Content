@@ -64,7 +64,7 @@
             "abfb1f3exp16c-h5"
         ],
         "title": "Power Rule of Exponents",
-        "text": "Use the power rule to simplify the expression: $$\\frac{\\left(q^3\\right)^8}{\\left(p^4\\right)^8}=\\frac{q^{3\\times8}}{k^{4\\times8}}$$",
+        "text": "Use the power rule to simplify the expression: $$\\frac{\\left(q^3\\right)^8}{\\left(p^4\\right)^8}=\\frac{q^{3\\times8}}{p^{4\\times8}}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

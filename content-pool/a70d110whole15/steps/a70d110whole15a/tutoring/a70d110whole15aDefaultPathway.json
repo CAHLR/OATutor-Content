@@ -252,7 +252,7 @@
         "dependencies": [
             "a70d110whole15a-h14"
         ],
-        "title": "Answer",
+        "title": "Prime Factorization",
         "text": "The found prime factors of $$60$$ were $$2$$, $$2$$, $$3$$, and $$5$$. Thus $$2\\times2\\times3\\times5=60$$, and $$2\\times2\\times3\\times5$$ is the factorization of $$60$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

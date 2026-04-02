@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Simplifying Square Roots",
-        "text": "Ignoring the $$-1$$ outside of the square root, What number times itself yields 64?",
+        "text": "Ignoring the $$-1$$ outside of the square root, What number times itself yields 49?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -6,7 +6,7 @@
         "title": "Understanding the Identity Property of Addition",
         "text": "The identity property of addition states that adding zero to any number does not change the value of that number.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Applying the Identity Property",
         "text": "When you see an expression like $$0+22$$, think about what happens when you add zero to a number.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Simplifying the Expression",
         "text": "Use the identity property of addition to simplify $$0+22$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

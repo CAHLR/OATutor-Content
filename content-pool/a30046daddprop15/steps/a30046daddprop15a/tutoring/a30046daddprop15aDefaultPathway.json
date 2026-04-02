@@ -6,7 +6,7 @@
         "title": "Understanding the Commutative Property",
         "text": "The commutative property of addition states that changing the order of the addends does not change the sum. For example, $$a+b$$ is the same as $$b+a$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Applying the Commutative Property",
         "text": "To apply the commutative property to the expression $$3+8$$, rearrange the numbers.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Rearranging the Terms",
         "text": "What is the expression when you rearrange the terms $$3$$ and $$8$$ using the commutative property?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -47,7 +47,7 @@
         "title": "Verifying the Result",
         "text": "Check if the sum of $$3+8$$ is the same as $$8+3$$ to verify the commutative property.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

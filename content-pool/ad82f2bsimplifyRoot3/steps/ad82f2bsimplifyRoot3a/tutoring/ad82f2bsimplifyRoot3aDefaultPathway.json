@@ -6,7 +6,7 @@
         "title": "Understanding Roots",
         "text": "The nth root of a number is a value that, when raised to the power of $$n$$, gives the original number.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Breaking Down the Problem",
         "text": "To simplify $$\\sqrt[6]{64}$$, we need to find a number that, when raised to the power of $$6$$, equals $$64$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Finding the 6th Root",
         "text": "What is the 6th root of 64?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -47,7 +47,7 @@
         "title": "Verification",
         "text": "Verify your answer by raising it to the power of $$6$$ and checking if it equals $$64$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -64,7 +64,7 @@
         "title": "Verification Step",
         "text": "Calculate $$2^6$$. Does it equal 64?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

@@ -315,7 +315,7 @@
         "dependencies": [
             "a70d110whole14a-h17"
         ],
-        "title": "Answer",
+        "title": "Prime Factorization",
         "text": "The found prime factors of $$80$$ were $$2$$, $$2$$, $$2$$, $$2$$, and $$5$$. Thus $$2\\times2\\times2\\times2\\times5=80$$, and $$2\\times2\\times2\\times2\\times5$$ is the prime factorization of $$80$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

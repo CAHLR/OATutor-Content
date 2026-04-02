@@ -211,7 +211,7 @@
         "dependencies": [
             "a70d110whole10a-h12"
         ],
-        "title": "Answer",
+        "title": "Finding Prime Factors",
         "text": "The found prime factors of $$48$$ were $$2$$, $$2$$, $$2$$, $$2$$, and $$3$$. Thus $$2\\times2\\times2\\times2\\times3=48$$, and $$2\\times2\\times2\\times2\\times3$$ is the prime factorization of $$48$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

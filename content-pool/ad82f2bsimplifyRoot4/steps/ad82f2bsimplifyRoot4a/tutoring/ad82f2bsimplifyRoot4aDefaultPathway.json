@@ -6,7 +6,7 @@
         "title": "Understanding Roots",
         "text": "The nth root of a number is a value that, when raised to the power of $$n$$, gives the original number.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -18,7 +18,7 @@
         "title": "Identify the Root",
         "text": "In this problem, we are looking for the 3rd root of $$27$$. This means we need to find a number that, when multiplied by itself three times, equals $$27$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -35,7 +35,7 @@
         "title": "Calculate the 3rd Root",
         "text": "What is the 3rd root of 27?",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     },
     {
@@ -47,7 +47,7 @@
         "title": "Verify Your Answer",
         "text": "To verify, multiply the number you found by itself three times and check if it equals $$27$$.",
         "variabilization": {},
-        "oer": "openai",
+        "oer": "https://OATutor.io <OATutor>",
         "license": ""
     }
 ]

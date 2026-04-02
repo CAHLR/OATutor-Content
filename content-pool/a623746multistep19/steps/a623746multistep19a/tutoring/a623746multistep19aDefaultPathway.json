@@ -111,7 +111,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$s=-2$$"
+            "$$-2$$"
         ],
         "dependencies": [
             "a623746multistep19a-h9"

@@ -3,7 +3,7 @@
         "id": "ada72c8boot2d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Think",
+        "title": "hint",
         "text": "How can we resample from the data in the table with the same sample size?",
         "variabilization": {},
         "oer": "",

@@ -725,7 +725,6 @@
                 "name": "Lesson 1018.1.1",
                 "topics": "Order of Operations",
                 "allowRecycle": true,
-                "doMasteryUpdate" : true,
                 "learningObjectives": {
                     "simplify_expressions_using_the_order_of_operations": 0.85
                 }
@@ -829,7 +828,6 @@
                 "name": "Lesson 1018.3.1",
                 "topics": "- Properties of Addition",
                 "allowRecycle": true,
-                "doMasteryUpdate" : true,
                 "learningObjectives": {
                     "use_the_commutative_and_associative_properties": 0.85,
                     "use_the_identity_and_inverse_properties_of_addition_and_multiplication": 0.85
@@ -891,8 +889,7 @@
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
                     "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
-                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
-                    "solving_compound_inequalities": 0.85
+                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85
                 }
             },
             {
@@ -960,7 +957,8 @@
                 "topics": "7.2 - Simplifying Different Order Roots",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "simplifying_expressions_with_higher_roots": 0.85
+                    "simplifying_expressions_with_higher_roots": 0.85,
+                    "simplifying_roots": 0.85
                 }
             },
             {
@@ -2416,7 +2414,8 @@
                 "topics": "Domain and Range",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "domain_and_range": 0.85
+                    "domain_and_range": 0.85,
+                    "finding_domain_and_ranges": 0.85
                 }
             },
             {
@@ -2487,7 +2486,7 @@
                 }
             },
             {
-                "id": "5Dln1Scx-YLCJ-NdepUGhiU3",
+                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
                 "name": "Lesson 2.3",
                 "topics": "- Modeling with Linear Functions",
                 "allowRecycle": true,
@@ -2741,55 +2740,7 @@
                 }
             },
             {
-                "id": "33st8wd2-gZiG-sKgfBIrAAd",
-                "name": "Lesson 7.2",
-                "topics": "- Sum and Difference Identities",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "openstax": 0.85,
-                    "sum_and_difference_identities": 0.85
-                }
-            },
-            {
-                "id": "2YFXfs6y-8x8E-enZ7Vnn2CK",
-                "name": "Lesson 7.3",
-                "topics": "- Double-Angle, Half-Angle, and Reduction Formulas",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "and_reduction_formulas": 0.85,
-                    "double_angle": 0.85,
-                    "half_angle": 0.85
-                }
-            },
-            {
-                "id": "6jGWcXHr-LoSm-o22Zxh6jX2",
-                "name": "Lesson 7.4",
-                "topics": "- Sum-to-Product and Product-to-Sum Formulas",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "sum_to_product_and_product_to_sum_formulas": 0.85
-                }
-            },
-            {
-                "id": "3mxv047t-V0es-ljG6vf3ITL",
-                "name": "Lesson 7.5",
-                "topics": "- Solving Trigonometric Equations",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "solving_trigonometric_equations": 0.85
-                }
-            },
-            {
-                "id": "1Ef2WNy9-My0p-mGmOmUqLTx",
-                "name": "Lesson 7.6",
-                "topics": "- Modeling with Trigonometric Functions",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "modeling_with_trigonometric_functions": 0.85
-                }
-            },
-            {
-                "id": "5UbzG9UQ-zkNa-PU7AsQWvWf",
+                "id": "3TAjgK1l-XNSM-EOgpvOVHEY",
                 "name": "Lesson 8.1",
                 "topics": "- Non-right Triangles: Law of Sines",
                 "allowRecycle": true,
@@ -2836,6 +2787,7 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "converting_a_complex_number_from_polar_to_rectangular_form": 0.85,
+                    "finding_powers_of_complex_numbers_in_polar_form": 0.85,
                     "finding_products_of_complex_numbers_in_polar_form": 0.85,
                     "finding_quotients_of_complex_numbers_in_polar_form": 0.85,
                     "finding_the_absolute_value_of_a_complex_number": 0.85,
