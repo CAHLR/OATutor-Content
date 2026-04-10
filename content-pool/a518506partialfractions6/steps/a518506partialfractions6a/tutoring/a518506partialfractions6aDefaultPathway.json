@@ -70,7 +70,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions6a-h7",
+        "id": "a518506partialfractions6a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -78,7 +78,7 @@
             "$$-5$$"
         ],
         "dependencies": [
-            "a518506partialfractions6a-h6"
+            "a518506partialfractions6a-h1"
         ],
         "title": "Solving Equations",
         "text": "Substitute $$B=3-A$$ into the second equation and solve for A. What is A equal to?",
@@ -87,7 +87,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions6a-h8",
+        "id": "a518506partialfractions6a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -95,7 +95,7 @@
             "$$8$$"
         ],
         "dependencies": [
-            "a518506partialfractions6a-h7"
+            "a518506partialfractions6a-h2"
         ],
         "title": "Solving Equations",
         "text": "Substitute $$A=-5$$ into the first equation and solve for B. What is B equal to?",
@@ -104,7 +104,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions6a-h9",
+        "id": "a518506partialfractions6a-s3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -112,7 +112,7 @@
             "$$\\frac{-5}{x-8}+\\frac{8}{x+3}$$"
         ],
         "dependencies": [
-            "a518506partialfractions6a-h8"
+            "a518506partialfractions6a-h3"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

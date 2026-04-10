@@ -3,9 +3,15 @@
     "stepAnswer": [
         "(10,5,10)"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "$$5x-6y+3z=50$$, $$-x+4y=10$$, $$2x-z=10$$",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "(10,5,10)",
+        "$$(-10, 5, 10)$$",
+        "$$(10, -5, 10)$$",
+        "(5,10,10)"
+    ]
 }

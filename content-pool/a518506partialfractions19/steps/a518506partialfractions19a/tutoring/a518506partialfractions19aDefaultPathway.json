@@ -58,7 +58,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions19a-h6",
+        "id": "a518506partialfractions19a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -66,7 +66,7 @@
             "$$\\frac{1}{6}$$"
         ],
         "dependencies": [
-            "a518506partialfractions19a-h5"
+            "a518506partialfractions19a-h1"
         ],
         "title": "Solving Equations",
         "text": "What is A equal to?",
@@ -75,7 +75,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions19a-h7",
+        "id": "a518506partialfractions19a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -83,7 +83,7 @@
             "$$\\frac{5}{6}$$"
         ],
         "dependencies": [
-            "a518506partialfractions19a-h6"
+            "a518506partialfractions19a-h2"
         ],
         "title": "Solving Equations",
         "text": "What is B equal to?",
@@ -92,7 +92,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions19a-h8",
+        "id": "a518506partialfractions19a-s3",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -100,7 +100,7 @@
             "$$\\frac{4}{3}$$"
         ],
         "dependencies": [
-            "a518506partialfractions19a-h7"
+            "a518506partialfractions19a-h3"
         ],
         "title": "Solving Equations",
         "text": "What is C equal to?",
@@ -109,7 +109,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions19a-h9",
+        "id": "a518506partialfractions19a-s4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -117,7 +117,7 @@
             "$$\\frac{1}{6\\left(x+1\\right)}+\\frac{\\frac{5x+8}{6}}{x^2+5x-2}$$"
         ],
         "dependencies": [
-            "a518506partialfractions19a-h8"
+            "a518506partialfractions19a-h4"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

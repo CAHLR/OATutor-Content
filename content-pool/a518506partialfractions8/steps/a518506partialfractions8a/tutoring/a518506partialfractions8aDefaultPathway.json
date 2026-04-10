@@ -70,7 +70,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions8a-h7",
+        "id": "a518506partialfractions8a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -78,7 +78,7 @@
             "$$2.5$$"
         ],
         "dependencies": [
-            "a518506partialfractions8a-h6"
+            "a518506partialfractions8a-h1"
         ],
         "title": "Solving Equations",
         "text": "From the second equation, we get that $$A=B$$, plugging this into the first equation, solve for A. What is A equal to?",
@@ -87,7 +87,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions8a-h8",
+        "id": "a518506partialfractions8a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -95,7 +95,7 @@
             "$$2.5$$"
         ],
         "dependencies": [
-            "a518506partialfractions8a-h7"
+            "a518506partialfractions8a-h2"
         ],
         "title": "Solving Equations",
         "text": "Substitute $$A=2.5$$ into the first equation and solve for B. What is B equal to?",
@@ -104,7 +104,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions8a-h9",
+        "id": "a518506partialfractions8a-s3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -112,7 +112,7 @@
             "$$\\frac{2.5}{x-3}+\\frac{2.5}{x+3}$$"
         ],
         "dependencies": [
-            "a518506partialfractions8a-h8"
+            "a518506partialfractions8a-h3"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

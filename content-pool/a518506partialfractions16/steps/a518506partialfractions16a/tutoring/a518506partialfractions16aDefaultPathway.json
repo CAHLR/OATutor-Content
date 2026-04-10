@@ -58,7 +58,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions16a-h6",
+        "id": "a518506partialfractions16a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -66,7 +66,7 @@
             "$$-2$$"
         ],
         "dependencies": [
-            "a518506partialfractions16a-h5"
+            "a518506partialfractions16a-h1"
         ],
         "title": "Solving Equations",
         "text": "The two equations are $$-1=A$$ and $$5=-7A+B$$. Plug $$A=7$$ into the second equation to solve for B. What is B equal to?",
@@ -75,7 +75,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions16a-h7",
+        "id": "a518506partialfractions16a-s2",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -83,7 +83,7 @@
             "$$\\frac{-1}{x-7}-\\frac{2}{\\left(x-7\\right)^2}$$"
         ],
         "dependencies": [
-            "a518506partialfractions16a-h6"
+            "a518506partialfractions16a-h2"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

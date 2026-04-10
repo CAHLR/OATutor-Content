@@ -1,4 +1,10 @@
 {
+    "correlation_&_regression": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "review": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -402,6 +408,12 @@
         "probGuess": 0.1
     },
     "factor_by_grouping": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "factor_differences_of_squares": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -1200,12 +1212,6 @@
         "probGuess": 0.1
     },
     "using_rational_exponents": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "expanding_the_square": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -2969,6 +2975,48 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "sum_and_difference_identities": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "and_reduction_formulas": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "double_angle": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "half_angle": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "sum_to_product_and_product_to_sum_formulas": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solving_trigonometric_equations": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "modeling_with_trigonometric_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "non_right_triangles:_law_of_sines": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -3666,12 +3714,6 @@
         "probGuess": 0.1
     },
     "factor_trinomials_using_trial_and_error": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "factor_differences_of_squares": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

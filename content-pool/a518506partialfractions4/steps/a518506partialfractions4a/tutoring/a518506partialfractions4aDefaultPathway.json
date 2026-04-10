@@ -58,7 +58,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions4a-h6",
+        "id": "a518506partialfractions4a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -66,7 +66,7 @@
             "$$-5$$"
         ],
         "dependencies": [
-            "a518506partialfractions4a-h5"
+            "a518506partialfractions4a-h1"
         ],
         "title": "Solving Equations",
         "text": "The two equations are $$6=A$$ and $$-11=B-A$$. Plug $$A=6$$ into the second equation to solve for B. What is B equal to?",
@@ -75,7 +75,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions4a-h7",
+        "id": "a518506partialfractions4a-s2",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -83,7 +83,7 @@
             "$$\\frac{6}{x-1}-\\frac{5}{\\left(x-1\\right)^2}$$"
         ],
         "dependencies": [
-            "a518506partialfractions4a-h6"
+            "a518506partialfractions4a-h2"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

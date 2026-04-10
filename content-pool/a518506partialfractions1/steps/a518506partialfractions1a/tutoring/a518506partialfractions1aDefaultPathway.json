@@ -46,7 +46,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions1a-h5",
+        "id": "a518506partialfractions1a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -54,7 +54,7 @@
             "$$1$$"
         ],
         "dependencies": [
-            "a518506partialfractions1a-h4"
+            "a518506partialfractions1a-h1"
         ],
         "title": "Solving Equations",
         "text": "The two equations are $$3=A+B$$ and $$0=-A+2B$$. Add the two equations and solve for B. What is B equal to?",
@@ -63,7 +63,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions1a-h6",
+        "id": "a518506partialfractions1a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -71,7 +71,7 @@
             "$$2$$"
         ],
         "dependencies": [
-            "a518506partialfractions1a-h5"
+            "a518506partialfractions1a-h2"
         ],
         "title": "Solving Equations",
         "text": "Substitute $$B=1$$ into one of the original equations in the system and solve for A. What is A equal to?",
@@ -80,7 +80,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions1a-h7",
+        "id": "a518506partialfractions1a-s3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -88,7 +88,7 @@
             "$$\\frac{2}{x+2}+\\frac{1}{x-1}$$"
         ],
         "dependencies": [
-            "a518506partialfractions1a-h6"
+            "a518506partialfractions1a-h3"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

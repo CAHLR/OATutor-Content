@@ -58,7 +58,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions17a-h6",
+        "id": "a518506partialfractions17a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -66,7 +66,7 @@
             "$$3$$"
         ],
         "dependencies": [
-            "a518506partialfractions17a-h5"
+            "a518506partialfractions17a-h1"
         ],
         "title": "Solving Equations",
         "text": "What is A equal to?",
@@ -75,7 +75,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions17a-h7",
+        "id": "a518506partialfractions17a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -83,7 +83,7 @@
             "$$1$$"
         ],
         "dependencies": [
-            "a518506partialfractions17a-h6"
+            "a518506partialfractions17a-h2"
         ],
         "title": "Solving Equations",
         "text": "What is B equal to?",
@@ -92,7 +92,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions17a-h8",
+        "id": "a518506partialfractions17a-s3",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -100,7 +100,7 @@
             "$$1$$"
         ],
         "dependencies": [
-            "a518506partialfractions17a-h7"
+            "a518506partialfractions17a-h3"
         ],
         "title": "Solving Equations",
         "text": "What is C equal to?",
@@ -109,7 +109,7 @@
         "license": ""
     },
     {
-        "id": "a518506partialfractions17a-h9",
+        "id": "a518506partialfractions17a-s4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -117,7 +117,7 @@
             "$$\\frac{3}{x+2}+\\frac{x+1}{x^2+x+3}$$"
         ],
         "dependencies": [
-            "a518506partialfractions17a-h8"
+            "a518506partialfractions17a-h4"
         ],
         "title": "Partial Fraction Decomposition",
         "text": "What is the partial fraction decomposition after plugging in the values for A and B?",

@@ -3,9 +3,15 @@
     "stepAnswer": [
         "(20+s-t,s,t)"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "$$0.5x-0.5y+0.5z=10$$, $$0.2x-0.2y+0.2z=4$$, $$0.1x-0.1y+0.1z=2$$",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {}
+    "variabilization": {},
+    "choices": [
+        "(20+s-t,s,t)",
+        "(20-s+t,s,t)",
+        "(20+s+t,s,t)",
+        "$$(20-s-t, s, t)$$"
+    ]
 }
