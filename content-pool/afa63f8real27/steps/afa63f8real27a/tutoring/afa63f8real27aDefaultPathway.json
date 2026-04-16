@@ -5,11 +5,11 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$800$$ $$+\\left(\\frac{1}{3}\\right)$$"
+            "$$39214.333$$"
         ],
         "dependencies": [],
-        "title": "Input the $$x$$ into the function to find the solution.",
-        "text": "",
+        "title": "Guided Hint",
+        "text": "Input the $$x$$ into the function to find the solution.",
         "variabilization": {},
         "oer": "",
         "license": ""

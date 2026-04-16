@@ -31,7 +31,7 @@
             "a18e27bvariation15a-h3"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=3$$, $$z=5$$, and $$w=6$$ and $$y=10$$ into our relationship $$y$$ $$=$$ $$\\frac{kxz}{w}$$ to solve for k. What do you get?",
+        "text": "Substitute $$x=3, z=5$$, and $$w=6$$ and $$y=10$$ into our relationship $$y=\\frac{kxz}{w}$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

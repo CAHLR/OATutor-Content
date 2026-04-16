@@ -1,12 +1,12 @@
 {
     "id": "a6a6a73inverse19a",
     "stepAnswer": [
-        "(2 / x) - $$8$$"
+        "$$\\frac{2}{x}-8$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ $$2$$ / (x + 8)",
+    "stepTitle": "$$f(x)=\\frac{2}{x+8}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "(2 / x) - $$8$$"
+    "answerLatex": "$$\\frac{2}{x}-8$$"
 }

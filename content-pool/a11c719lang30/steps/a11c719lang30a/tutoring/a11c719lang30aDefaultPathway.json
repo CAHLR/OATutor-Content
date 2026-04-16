@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Plugging In For $$x$$ and $$y$$",
-        "text": "Plugging in $$x=4$$ and $$y=1$$, we get $$4^2+13\\left(4\\right)-{7\\left(1\\right)}^2$$",
+        "text": "Plugging in $$x=4$$ and $$y=1$$, we get $$4^2+3\\times4\\times1-7\\times1^2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

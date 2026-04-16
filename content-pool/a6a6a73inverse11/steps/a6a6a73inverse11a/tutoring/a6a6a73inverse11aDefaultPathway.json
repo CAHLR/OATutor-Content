@@ -5,7 +5,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-x^3$$ $$=$$ $$x$$ - $$4$$"
+            "$$-x^3=x-4$$"
         ],
         "dependencies": [],
         "title": "Move the cubic term",

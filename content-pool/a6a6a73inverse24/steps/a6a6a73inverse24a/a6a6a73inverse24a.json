@@ -1,11 +1,12 @@
 {
     "id": "a6a6a73inverse24a",
     "stepAnswer": [
-        "(2 - x) / (5 + 5x)"
+        "$$\\frac{2-x}{5+5x}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ (5x + 1) / (2 - 5x)",
+    "stepTitle": "$$f(x)=\\frac{5x+1}{2-5x}$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{2-x}{5+5x}$$"
 }

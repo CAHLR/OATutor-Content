@@ -10,8 +10,8 @@
     "variabilization": {},
     "choices": [
         "$$many-to-one$$ function",
-        "vertical asymptote: $$x$$ $$=$$ $$0$$",
-        "domain: (0, infinity)",
-        "range: (-infinity, infinity)"
+        "vertical asymptote: $$x=0$$",
+        "domain: $$(0,\\infty)$$",
+        "range: $$(-\\infty,\\infty)$$"
     ]
 }

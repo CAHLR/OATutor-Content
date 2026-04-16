@@ -33,7 +33,7 @@
             "a18e27bvariation9a-h2"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=36$$ and $$y=24$$ into our relationship $$y$$ $$=$$ $$\\operatorname{ksqrt}\\left(x\\right)$$, to solve for k. What do you get?",
+        "text": "Substitute $$x=36$$ and $$y=24$$ into our relationship $$y=\\operatorname{ksqrt}\\left(x\\right)$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

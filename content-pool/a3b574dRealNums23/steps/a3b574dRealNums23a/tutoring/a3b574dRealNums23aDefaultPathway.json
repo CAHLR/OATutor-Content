@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifying Reciprocals",
-        "text": "Notice the second and third terms are reciprocals: $$0.2=\\frac{2}{10}=\\frac{1}{5}$$ which is a reciprocal of $$5$$ thus they cancel out to $$1$$ when multiplied.",
+        "text": "Notice the second and third terms are reciprocals: $$0.2=\\frac{1}{5}$$, which is the reciprocal of $$5$$, so they multiply to $$1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -21,7 +21,7 @@
             "a3b574dRealNums23a-h1"
         ],
         "title": "Simplifying the Expression",
-        "text": "Multiply the resulting expression from left to right. What is the simplified expression?",
+        "text": "What is the simplified expression once all terms are multiplied?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

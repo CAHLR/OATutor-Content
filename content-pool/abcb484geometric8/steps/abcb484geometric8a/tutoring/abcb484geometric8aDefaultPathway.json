@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric8a-h2",
+        "id": "abcb484geometric8a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,10 +27,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric8a-h3",
+        "id": "abcb484geometric8a-h2",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric8a-h2"
+            "abcb484geometric8a-h1"
         ],
         "title": "Finding Common Ratio",
         "text": "Substitute the common ratio into the recursive formula for geometric sequences and define $$a_1$$.",
@@ -39,10 +39,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric8a-h4",
+        "id": "abcb484geometric8a-h3",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric8a-h3"
+            "abcb484geometric8a-h2"
         ],
         "title": "Recursive Formula",
         "text": "The recursive formula for a geometric sequence with common ratio $$r$$ and first term $$a_1$$ is $$a_n=r a_n-1$$, $$n \\geq 2$$",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rewrite the quadratic expression",
-        "text": "Can you complete the square for $$x^2$$ - $$6x$$ + $$3$$ to make solving for $$x$$ easier?",
+        "text": "Can you complete the square for $$x^2-6x+3$$ to make solving for $$x$$ easier?",
         "variabilization": {},
         "oer": "",
         "license": ""

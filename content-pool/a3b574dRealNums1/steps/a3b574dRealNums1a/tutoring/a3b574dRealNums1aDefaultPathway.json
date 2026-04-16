@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$18p+15p+5q+6q$$"
+            "$$18p+15p+6q+5q$$"
         ],
         "dependencies": [
             "a3b574dRealNums1a-h1"
@@ -38,7 +38,7 @@
             "a3b574dRealNums1a-h2"
         ],
         "title": "Combining Like Terms",
-        "text": "Combine the terms, what is the answer?",
+        "text": "Combine the terms. What is the answer?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

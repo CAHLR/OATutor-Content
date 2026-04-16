@@ -8,8 +8,8 @@
             "it is $$3$$ up"
         ],
         "dependencies": [],
-        "title": "How is the graph shown different from the original (y=2**x)?",
-        "text": "",
+        "title": "Guided Hint",
+        "text": "How is the graph shown different from the original (y=2**x)?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -26,13 +26,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$y=2^x$$ $$+3$$"
+            "$$y=2^x+3$$"
         ],
         "dependencies": [
             "afa63f8real25a-h1"
         ],
-        "title": "How is such a transformation changed in the equation?",
-        "text": "",
+        "title": "Guided Hint",
+        "text": "How is such a transformation changed in the equation?",
         "variabilization": {},
         "oer": "",
         "license": ""

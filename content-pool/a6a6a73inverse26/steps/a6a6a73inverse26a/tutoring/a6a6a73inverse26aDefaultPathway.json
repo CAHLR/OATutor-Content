@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Express as a perfect square",
-        "text": "Can you rewrite $$x^2+4x+1$$ in a way that includes a squared term?",
+        "text": "Can you rewrite $$x^2+4x+1$$ as $$\\left(x+2\\right)^2-3$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a6a6a73inverse26a-h1"
         ],
         "title": "Solve for $$x$$ after rewriting",
-        "text": "Now that you've rewritten the equation, how can you isolate $$x$$?",
+        "text": "After rewriting the quadratic, how do you solve for $$x$$ using the given domain?",
         "variabilization": {},
         "oer": "",
         "license": ""

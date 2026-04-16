@@ -22,7 +22,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting19a-h3",
+        "id": "a73b129counting19a-s1",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "id": "a73b129counting19a-h4",
+        "id": "a73b129counting19a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -53,7 +53,7 @@
             "$$6$$"
         ],
         "dependencies": [
-            "a73b129counting19a-h3"
+            "a73b129counting19a-h2"
         ],
         "title": "Shortcut",
         "text": "Simplify (8*7*6)/3!. What is 3!?",
@@ -62,10 +62,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting19a-h5",
+        "id": "a73b129counting19a-h3",
         "type": "hint",
         "dependencies": [
-            "a73b129counting19a-h4"
+            "a73b129counting19a-h2"
         ],
         "title": "Finding the answer",
         "text": "Finally, simplify $$8\\times7$$.",

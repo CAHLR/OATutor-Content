@@ -1,12 +1,12 @@
 {
     "id": "a6a6a73inverse3a",
     "stepAnswer": [
-        "sqrt(x + 3) - $$1$$"
+        "$$\\sqrt{x+3}-1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ (x + 1)**2 - $$3$$, (-1, \u221e)",
+    "stepTitle": "f(x)=(x+1)**2-3,(-1,\u221e)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "sqrt(x + 3) - $$1$$"
+    "answerLatex": "$$\\sqrt{x+3}-1$$"
 }

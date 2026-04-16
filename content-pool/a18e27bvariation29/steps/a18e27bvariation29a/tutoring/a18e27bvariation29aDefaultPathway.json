@@ -33,7 +33,7 @@
             "a18e27bvariation29a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=c r$$. If $$c=40$$ when $$r=10$$, what is k?",
+        "text": "$$k=c r$$. If $$c=40$$ when $$r=10$$, what is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "a18e27bvariation29a-h3"
         ],
-        "title": "Finding new distance",
+        "title": "Finding new current",
         "text": "Now we know our relationship is $$c=\\frac{400}{r}$$. To find the new current if the resistance were $$12$$ ohms, simply plug in $$r=12$$. Answer exactly (as a fraction).",
         "variabilization": {},
         "oer": "",

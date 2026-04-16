@@ -10,9 +10,7 @@
     "variabilization": {},
     "choices": [
         "(-inf, inf)",
-        "$$(-\\infty,\\infty)$$",
-        "$$(-\\infty,\\infty)$$",
-        "$$(-\\infty,\\infty)$$",
-        "$$(-\\infty,\\infty)$$"
+        "(-inf, inf]",
+        "[-inf, inf)"
     ]
 }

@@ -8,8 +8,8 @@
             "shift up by $$3$$"
         ],
         "dependencies": [],
-        "title": "What type of transformation is this?",
-        "text": "",
+        "title": "Transformation Type",
+        "text": "What type of transformation is this?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -27,8 +27,8 @@
         "dependencies": [
             "afa63f8real18a-h1"
         ],
-        "title": "Graph the $$2^x$$ function by inputting x-values, then shift the graph up by $$3$$.",
-        "text": "\\n##figure2.gif##",
+        "title": "Guided Hint",
+        "text": "Graph the $$2^x$$ function by inputting x-values, then shift the graph up by $$3$$.\\n##figure2.gif##",
         "variabilization": {},
         "oer": "",
         "license": ""

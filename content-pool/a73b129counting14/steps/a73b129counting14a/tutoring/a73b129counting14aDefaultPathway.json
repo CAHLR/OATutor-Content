@@ -22,7 +22,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting14a-h3",
+        "id": "a73b129counting14a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -39,7 +39,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting14a-h4",
+        "id": "a73b129counting14a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -47,7 +47,7 @@
             "$$6$$"
         ],
         "dependencies": [
-            "a73b129counting14a-h3"
+            "a73b129counting14a-h2"
         ],
         "title": "3!",
         "text": "What is 3!",
@@ -56,10 +56,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting14a-h5",
+        "id": "a73b129counting14a-h3",
         "type": "hint",
         "dependencies": [
-            "a73b129counting14a-h4"
+            "a73b129counting14a-h2"
         ],
         "title": "Substitution",
         "text": "Substitute the values into the permutation formula",

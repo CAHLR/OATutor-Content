@@ -8,8 +8,8 @@
             "$$3$$"
         ],
         "dependencies": [],
-        "title": "What value is being raised to the xth power?",
-        "text": "",
+        "title": "Identify the Base",
+        "text": "What value is being raised to the xth power?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -25,8 +25,8 @@
         "dependencies": [
             "afa63f8real26a-h1"
         ],
-        "title": "What further transformations were done so that this graph can be our equation?",
-        "text": "",
+        "title": "Apply the Transformations",
+        "text": "What further transformations were done so that this graph can be our equation?",
         "variabilization": {},
         "oer": "",
         "license": ""

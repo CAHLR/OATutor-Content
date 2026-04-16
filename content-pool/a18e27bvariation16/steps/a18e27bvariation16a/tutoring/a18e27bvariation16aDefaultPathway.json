@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "General form",
-        "text": "If \"y varies jointly as the square of $$x$$ and the square root of $$z$$ and inversely as the cube of w\" then the general form of our relationship will be $$y=\\frac{{kx}^2 \\sqrt{x}}{w^3}$$.",
+        "text": "If \"y varies jointly as the square of $$x$$ and the square root of $$z$$ and inversely as the cube of w\" then the general form of our relationship will be $$y=\\frac{{kx}^2 \\sqrt{z}}{w^3}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -35,13 +35,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$1$$"
+            "$$9$$"
         ],
         "dependencies": [
             "a18e27bvariation16a-h3"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=3$$, $$z=4$$, $$w=3$$, and $$y=6$$ into our relationship $$y$$ $$=$$ $$\\frac{k\\left(x^2\\right) \\sqrt{z}}{w^3}$$ to solve for k. What do you get?",
+        "text": "Substitute $$x=3, z=4, w=3$$, and $$y=6$$ into our relationship $$y=\\frac{{kx}^2 \\sqrt{z}}{w^3}$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

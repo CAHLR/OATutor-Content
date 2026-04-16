@@ -8,8 +8,8 @@
             "$$0$$"
         ],
         "dependencies": [],
-        "title": "What is the original vertical asymptote for the logarithmic parent function? $$x$$ $$=$$ a. What is a?",
-        "text": "",
+        "title": "Parent Vertical Asymptote",
+        "text": "What is the original vertical asymptote for the logarithmic parent function? $$x=a$$. What is a?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -25,8 +25,8 @@
         "dependencies": [
             "a095e7dlog19a-h1"
         ],
-        "title": "Are we shifting $$4$$ to the left or right?",
-        "text": "",
+        "title": "Direction of Shift",
+        "text": "Are we shifting $$4$$ to the left or right?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -41,8 +41,8 @@
         "dependencies": [
             "a095e7dlog19a-h2"
         ],
-        "title": "Subtract $$4$$ from the original vertical asymptote of the parent logarithmic function. What is the new vertical asymptote?",
-        "text": "",
+        "title": "Parent Vertical Asymptote",
+        "text": "Subtract $$4$$ from the original vertical asymptote of the parent logarithmic function. What is the new vertical asymptote?",
         "variabilization": {},
         "oer": "",
         "license": ""

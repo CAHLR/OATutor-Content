@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric9a-h4",
+        "id": "abcb484geometric9a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -51,10 +51,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric9a-h5",
+        "id": "abcb484geometric9a-h4",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric9a-h4"
+            "abcb484geometric9a-h3"
         ],
         "title": "Finding Second Term",
         "text": "Find the second term by multiplying the first term by the common ratio.",

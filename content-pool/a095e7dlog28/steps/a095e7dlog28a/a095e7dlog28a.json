@@ -1,15 +1,16 @@
 {
     "id": "a095e7dlog28a",
     "stepAnswer": [
-        "(-infinity, 0)"
+        "$$(-\\infty,0)$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$f(x)=-\\ln\\left(-x\\right)$$. Please find the domain of this reflected graph.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
+    "answerLatex": "$$(-\\infty,0)$$",
     "choices": [
-        "(-infinity, 0)",
-        "(-infinity, infinity), (0, infinity), (-infinity, 0), (-infinity, 1)"
+        "$$(-\\infty,0)$$",
+        "$$(-\\infty,\\infty)$$, $$(0,\\infty)$$, $$(-\\infty,0)$$, $$(-\\infty,1)$$"
     ]
 }

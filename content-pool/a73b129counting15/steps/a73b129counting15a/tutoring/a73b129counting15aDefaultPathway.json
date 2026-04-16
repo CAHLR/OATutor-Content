@@ -22,7 +22,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting15a-h3",
+        "id": "a73b129counting15a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -39,10 +39,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting15a-h4",
+        "id": "a73b129counting15a-h3",
         "type": "hint",
         "dependencies": [
-            "a73b129counting15a-h3"
+            "a73b129counting15a-h2"
         ],
         "title": "Substitution",
         "text": "Substitute the values into the permutation formula",

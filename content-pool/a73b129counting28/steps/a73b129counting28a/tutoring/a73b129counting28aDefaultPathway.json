@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting28a-h2",
+        "id": "a73b129counting28a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,7 +27,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting28a-h3",
+        "id": "a73b129counting28a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -35,7 +35,7 @@
             "$$1$$"
         ],
         "dependencies": [
-            "a73b129counting28a-h2"
+            "a73b129counting28a-h1"
         ],
         "title": "Repeated Lettings",
         "text": "Since most of the letters are only repeated once, the denominator only needs to be the factorials of the letters repeated more than once. How many letters show up more than once?",
@@ -44,10 +44,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting28a-h4",
+        "id": "a73b129counting28a-h2",
         "type": "hint",
         "dependencies": [
-            "a73b129counting28a-h3"
+            "a73b129counting28a-h1"
         ],
         "title": "Using the Formula",
         "text": "Now, factorialize the frequencies and plug them into the formula.",

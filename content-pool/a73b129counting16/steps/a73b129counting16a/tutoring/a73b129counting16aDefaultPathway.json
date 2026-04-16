@@ -22,7 +22,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting16a-h3",
+        "id": "a73b129counting16a-s1",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -45,10 +45,10 @@
         ]
     },
     {
-        "id": "a73b129counting16a-h4",
+        "id": "a73b129counting16a-h3",
         "type": "hint",
         "dependencies": [
-            "a73b129counting16a-h3"
+            "a73b129counting16a-h2"
         ],
         "title": "Solving Factorials",
         "text": "Recall that 8!=8*7*6*5*4!, so the the 4! terms cancel out.",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Principle",
-        "text": "Convert the division to multiplying the reciprocal of the second term: $$\\frac{a}{8} \\frac{6}{ab}$$",
+        "text": "Convert the division to multiplying the reciprocal of the second term: $$\\frac{a}{8} \\frac{6}{a b}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -26,7 +26,7 @@
             "a23c2f8Fraction4a-h2"
         ],
         "title": "Factor",
-        "text": "Factor the numerator to 2x3xa",
+        "text": "Factor the numerator to $$2\\times3 a$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -38,7 +38,7 @@
             "a23c2f8Fraction4a-h3"
         ],
         "title": "Factor",
-        "text": "Factor the denominator to 2x2x2xaxb",
+        "text": "Factor the denominator to $$2\\times2\\times2 a b$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -49,7 +49,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "2a"
+            "$$2a$$"
         ],
         "dependencies": [
             "a23c2f8Fraction4a-h4"

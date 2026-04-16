@@ -22,7 +22,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting20a-h3",
+        "id": "a73b129counting20a-s1",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -45,10 +45,10 @@
         ]
     },
     {
-        "id": "a73b129counting20a-h4",
+        "id": "a73b129counting20a-h3",
         "type": "hint",
         "dependencies": [
-            "a73b129counting20a-h3"
+            "a73b129counting20a-h2"
         ],
         "title": "Finding the answer",
         "text": "Finally, simplify (12*11*10*9)/4!",

@@ -3,8 +3,8 @@
         "id": "a9c64f0series23a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formula for S",
-        "text": "The formula is S $$=$$ $$\\frac{a_1}{1-r}$$",
+        "title": "Find $$r$$",
+        "text": "In an expression of the form c * $$b^k$$, the base $$b$$ is the common ratio. Here $$r$$ $$=$$ $$\\frac{4}{3}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a9c64f0series23a-h1"
         ],
-        "title": "Check base",
-        "text": "There is a base of $$\\frac{4}{3}$$",
+        "title": "Check |r|",
+        "text": "Since $$r$$ $$=$$ $$\\frac{4}{3}$$, we have |r| $$=$$ $$\\frac{4}{3}$$ > $$1$$. When |r| $$ \\geq $$ $$1$$, the terms grow and the series diverges.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a9c64f0series23a-h2"
         ],
-        "title": "Check base",
-        "text": "Although there is a base, it is greater than $$1$$. The sum does not exist",
+        "title": "Conclusion",
+        "text": "Because |r| > $$1$$, the infinite geometric series diverges and its sum is not defined.",
         "variabilization": {},
         "oer": "",
         "license": ""

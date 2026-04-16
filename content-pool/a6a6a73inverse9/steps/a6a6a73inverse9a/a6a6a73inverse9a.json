@@ -4,7 +4,7 @@
         "$$cbrt(x-5)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ $$x^3$$ + $$5$$",
+    "stepTitle": "$$f(x)=x^3+5$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

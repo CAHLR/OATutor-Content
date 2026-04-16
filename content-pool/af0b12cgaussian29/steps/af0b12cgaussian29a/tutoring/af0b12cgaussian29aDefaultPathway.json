@@ -16,7 +16,7 @@
             "af0b12cgaussian29a-h1"
         ],
         "title": "Factoring the Equation",
-        "text": "To factor this equation, we must expand and re-factor. $$\\left(x+6\\right) \\left(x-3\\right)=x^2+3x-18$$. So, we have $$x^2+3x-10$$. Factoring this, we get $$\\left(x+5\\right) \\left(x-2\\right)=0$$",
+        "text": "To factor this equation, we must expand and re-factor. $$\\left(x+6\\right) \\left(x-3\\right)=x^2+3x-18$$. So, we have $$x^2+3x-10=0$$. Factoring this, we get $$\\left(x+5\\right) \\left(x-2\\right)=0$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

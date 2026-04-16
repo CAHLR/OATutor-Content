@@ -3,8 +3,8 @@
         "id": "a095e7dlog10a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Think about the x-intercept and the y-intercept about a logarithmic parent function. Which one does a log graph not have?",
-        "text": "",
+        "title": "Intercept Check",
+        "text": "Think about the x-intercept and the y-intercept about a logarithmic parent function. Which one does a log graph not have?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a095e7dlog10a-h1"
         ],
-        "title": "There is no y-intercept! Think about which option is the answer and what the correct x-intercept actually has to be.",
-        "text": "",
+        "title": "Intercept Check",
+        "text": "There is no y-intercept! Think about which option is the answer and what the correct x-intercept actually has to be.",
         "variabilization": {},
         "oer": "",
         "license": ""

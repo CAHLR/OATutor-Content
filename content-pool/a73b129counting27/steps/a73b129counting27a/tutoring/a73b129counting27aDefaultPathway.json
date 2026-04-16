@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting27a-h2",
+        "id": "a73b129counting27a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,7 +27,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting27a-h3",
+        "id": "a73b129counting27a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -35,7 +35,7 @@
             "$$10$$"
         ],
         "dependencies": [
-            "a73b129counting27a-h2"
+            "a73b129counting27a-h1"
         ],
         "title": "Counting Letters",
         "text": "How many letters are in \"juggernaut\"?",
@@ -44,10 +44,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting27a-h4",
+        "id": "a73b129counting27a-h2",
         "type": "hint",
         "dependencies": [
-            "a73b129counting27a-h3"
+            "a73b129counting27a-h1"
         ],
         "title": "Using the Formula",
         "text": "Now, factorialize the frequencies and plug them into the formula.",

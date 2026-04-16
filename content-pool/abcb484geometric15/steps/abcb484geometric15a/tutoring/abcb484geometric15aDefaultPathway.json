@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric15a-h2",
+        "id": "abcb484geometric15a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,7 +27,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric15a-h3",
+        "id": "abcb484geometric15a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -35,7 +35,7 @@
             "$$-2$$"
         ],
         "dependencies": [
-            "abcb484geometric15a-h2"
+            "abcb484geometric15a-h1"
         ],
         "title": "Finding Common Ratio",
         "text": "Divide the rest of the terms by their previous term. What do you get for all of them?",
@@ -44,10 +44,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric15a-h4",
+        "id": "abcb484geometric15a-h2",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric15a-h3"
+            "abcb484geometric15a-h1"
         ],
         "title": "Finding Common Ratio",
         "text": "The number that you get when dividing each term by the previous term is the common ratio.",

@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\left(-57p\\right)+\\left(-10q\\right)$$"
+            "$$-57p-10q$$"
         ],
         "dependencies": [
             "a3b574dRealNums17a-h1"

@@ -5,11 +5,11 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$(-Inf,Inf)$$, (0,Inf)"
+            "$$(-Inf,Inf),(0,Inf)$$"
         ],
         "dependencies": [],
-        "title": "What is the range of x-values (domain) and the range of y-values (range)?",
-        "text": "",
+        "title": "Domain and Range",
+        "text": "What is the range of x-values (domain) and the range of y-values (range)?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -26,13 +26,13 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$Y-intercept=(0,4)$$, g(x)=4(3))**(-x)"
+            "$$Y-intercept=(0,4),g(x)={4\\left(3\\right)}^{\\left(-x\\right)}$$"
         ],
         "dependencies": [
             "afa63f8real7a-h1"
         ],
-        "title": "Find the value of $$y$$ when $$x=0;$$ the y-axis reflection means that $$x$$ has its sign reflected.",
-        "text": "",
+        "title": "Y-Intercept",
+        "text": "Find the value of $$y$$ when $$x=0;$$ the y-axis reflection means that $$x$$ has its sign reflected.",
         "variabilization": {},
         "oer": "",
         "license": "",

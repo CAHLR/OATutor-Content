@@ -33,7 +33,7 @@
             "a18e27bvariation12a-h2"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=2$$ and $$y=5$$ into our relationship $$y$$ $$=$$ $$\\frac{k}{x^3}$$ to solve for k. What do you get?",
+        "text": "Substitute $$x=2$$ and $$y=5$$ into our relationship $$y=\\frac{k}{x^3}$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

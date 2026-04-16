@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "cbrt(x) $$=$$ (x - 9) / $$2$$"
+            "$$cbrt(x)=\\frac{x-9}{2}$$"
         ],
         "dependencies": [
             "a6a6a73inverse17a-h1"

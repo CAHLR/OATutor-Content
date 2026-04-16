@@ -3,8 +3,8 @@
         "id": "a9c64f0series27a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formula for S",
-        "text": "The formula is S $$=$$ $$\\frac{a_1}{1-r}$$",
+        "title": "Check if Geometric",
+        "text": "A geometric series has a constant ratio between consecutive terms. Here $$\\frac{18}{12}$$ $$=$$ $$\\frac{3}{2}$$ but $$\\frac{24}{18}$$ $$=$$ $$\\frac{4}{3}$$ \u2014 the ratio is not constant. This is arithmetic (common difference $$d$$ $$=$$ 6).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a9c64f0series27a-h1"
         ],
-        "title": "Check base",
-        "text": "There is no base",
+        "title": "Can an arithmetic series have an infinite sum?",
+        "text": "Arithmetic series with a positive common difference grow without bound. The terms never shrink to zero.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a9c64f0series27a-h2"
         ],
-        "title": "Check base",
-        "text": "Because there is no base, that means the formula is not geometric and the sum does not exist",
+        "title": "Conclusion",
+        "text": "Because this is an arithmetic series with growing terms, the infinite sum is not defined.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -8,8 +8,8 @@
             "B"
         ],
         "dependencies": [],
-        "title": "Choose some $$x$$ values and use the function to calculate y-values for the equation.",
-        "text": "",
+        "title": "Table of Values",
+        "text": "Choose some $$x$$ values and use the function to calculate y-values for the equation.",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -32,8 +32,8 @@
         "dependencies": [
             "afa63f8real11a-h1"
         ],
-        "title": "Draw a graph matching what we found and match it with one of the available images.",
-        "text": "",
+        "title": "Match the Graph",
+        "text": "Draw a graph matching what we found and match it with one of the available images.",
         "variabilization": {},
         "oer": "",
         "license": "",

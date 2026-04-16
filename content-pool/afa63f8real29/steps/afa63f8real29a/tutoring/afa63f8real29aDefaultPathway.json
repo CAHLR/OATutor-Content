@@ -8,8 +8,8 @@
             "$$-2.953$$"
         ],
         "dependencies": [],
-        "title": "Do the opposites of the transformations applied to $$x$$ to f(x) in order to find the true value of $$x$$.",
-        "text": "",
+        "title": "Undo the Transformations",
+        "text": "Do the opposites of the transformations applied to $$x$$ to f(x) in order to find the true value of $$x$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

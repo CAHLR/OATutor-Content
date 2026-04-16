@@ -4,7 +4,7 @@
         "$$13$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Simplify: 5+2**3+3*[6-3*(4-2)].",
+    "stepTitle": "Simplify:5+2**3+3*(6-3*(4-2)).",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

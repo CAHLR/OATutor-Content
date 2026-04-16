@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Distributive Property",
-        "text": "Distribute the term by multiplying each term inside the bracket by the term outside the bracket, separately.",
+        "text": "Distribute the term by multiplying each term inside the parentheses by the term outside the parentheses, separately.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

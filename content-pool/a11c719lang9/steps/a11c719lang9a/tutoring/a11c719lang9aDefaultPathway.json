@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Write a phrase",
-        "text": "Write a phrase about the length of the rectangl: $$14$$ less than the width",
+        "text": "Write a phrase about the length of the rectangle: $$14$$ less than the width.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -27,7 +27,7 @@
         "dependencies": [
             "a11c719lang9a-h2"
         ],
-        "title": "Subtration",
+        "title": "Subtraction",
         "text": "Rewrite less than as subtracted from.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -40,7 +40,7 @@
             "a11c719lang9a-h3"
         ],
         "title": "Translate",
-        "text": "Translate the phrase into algebra: w - $$14$$",
+        "text": "Translate the phrase into algebra: w-14",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

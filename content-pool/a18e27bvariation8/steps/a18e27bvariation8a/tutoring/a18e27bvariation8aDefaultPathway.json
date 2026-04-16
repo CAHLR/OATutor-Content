@@ -16,7 +16,7 @@
             "a18e27bvariation8a-h1"
         ],
         "title": "General form",
-        "text": "If \"y varies directly as $$x$$ the square of x,\" then the general form of our relationship will be $$y={kx}^2$$.",
+        "text": "If \"y varies directly as the square of x,\" then the general form of our relationship will be $$y={kx}^2$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a18e27bvariation8a-h2"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=4$$ and $$y=80$$ into our relationship $$y$$ $$=$$ $${kx}^2$$, to solve for k. What do you get?",
+        "text": "Substitute $$x=4$$ and $$y=80$$ into our relationship $$y={kx}^2$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

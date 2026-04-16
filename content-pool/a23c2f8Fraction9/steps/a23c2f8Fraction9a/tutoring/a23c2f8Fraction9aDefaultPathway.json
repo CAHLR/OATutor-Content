@@ -38,7 +38,7 @@
             "a23c2f8Fraction9a-h1"
         ],
         "title": "Calculation",
-        "text": "What is the LCD in denomerator?",
+        "text": "What is the LCD in denominator?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -58,7 +58,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Calculation",
-        "text": "Calculate the value of numerator and denomerator",
+        "text": "Calculate the value of numerator and denominator",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

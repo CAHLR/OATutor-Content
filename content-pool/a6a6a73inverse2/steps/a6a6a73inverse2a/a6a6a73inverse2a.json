@@ -1,12 +1,12 @@
 {
     "id": "a6a6a73inverse2a",
     "stepAnswer": [
-        "$$\\sqrt{x}$$ - $$2$$"
+        "$$\\sqrt{x}-2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ (x + 2)**2, (-2, \u221e)",
+    "stepTitle": "f(x)=(x+2)**2,(-2,\u221e)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$\\sqrt{x}$$ - $$2$$"
+    "answerLatex": "$$\\sqrt{x}-2$$"
 }

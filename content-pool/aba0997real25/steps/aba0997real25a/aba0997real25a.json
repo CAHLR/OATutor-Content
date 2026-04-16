@@ -11,7 +11,6 @@
     "answerLatex": "$$(0,16),no$$ solution",
     "choices": [
         "$$(0,6),no$$ solution",
-        "no $$solution,(0,16)$$",
         "$$(0,0),(0,16)$$",
         "$$(0,16),no$$ solution"
     ]

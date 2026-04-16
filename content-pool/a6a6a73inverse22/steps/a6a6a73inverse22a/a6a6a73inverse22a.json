@@ -1,11 +1,12 @@
 {
     "id": "a6a6a73inverse22a",
     "stepAnswer": [
-        "(7x + 2) / (1 - x)"
+        "$$\\frac{7x+2}{1-x}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ (x - 2) / (x + 7)",
+    "stepTitle": "$$f(x)=\\frac{x-2}{x+7}$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{7x+2}{1-x}$$"
 }

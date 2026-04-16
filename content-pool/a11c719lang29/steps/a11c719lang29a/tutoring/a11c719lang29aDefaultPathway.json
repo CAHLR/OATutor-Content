@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Plugging In For $$x$$",
-        "text": "if $$x=3$$ in $$x^5$$, then we have $$3^5$$",
+        "text": "If $$x=3$$ in $$x^5$$, then we have $$3^5$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

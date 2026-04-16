@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$7.14m+6.57n$$"
+            "$$7.41m+6.57n$$"
         ],
         "dependencies": [
             "a3b574dRealNums19a-h1"

@@ -38,7 +38,7 @@
             "a0bf68dadd6a-h2"
         ],
         "title": "Multiplying the Expression in the Parentheses",
-        "text": "The next step is to multiply the expression in the parentheses by the factor outside of it, which is $$4$$. What is $$4(3-1)$$?",
+        "text": "The next step is to multiply the expression in the parentheses by the factor outside of it, which is $$4$$. What is $$4\\left(3-1\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -55,7 +55,7 @@
             "a0bf68dadd6a-h3"
         ],
         "title": "Subtracting Inside the Absolute Value Bars",
-        "text": "Then, subtract within the absolute value bar. What is $$11-4(3-1)$$? Remember that you've calculated the second term in the previous step.",
+        "text": "Then, subtract within the absolute value bar. What is $$11-4\\left(3-1\\right)$$? Remember that you've calculated the second term in the previous step.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -67,7 +67,7 @@
             "a0bf68dadd6a-h4"
         ],
         "title": "Getting Rid of the Absolute Value Bars",
-        "text": "The value $$11-4(3-1)$$, calculated in the previous step, is positive. so we can get rid of the absolute value bars. Then, the expression is $$19-3$$.",
+        "text": "The value $$11-4\\left(3-1\\right)$$, calculated in the previous step, is positive, so we can get rid of the absolute value bars. Then, the expression is $$19-3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

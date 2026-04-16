@@ -5,11 +5,11 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$b=2$$, $$c=1$$, $$d=-3$$"
+            "$$b=2, c=1, d=-3$$"
         ],
         "dependencies": [],
-        "title": "The exponential equation is of the form $$f(x)=b^{x+c}+d$$ what is $$b$$, c, and $$d$$ in these cases?",
-        "text": "",
+        "title": "Guided Hint",
+        "text": "The exponential equation is of the form $$f(x)=b^{x+c}+d$$ what is $$b$$, c, and $$d$$ in these cases?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -31,8 +31,8 @@
         "dependencies": [
             "afa63f8real2a-h1"
         ],
-        "title": "The horizontal asymptote is defined as $$y=d$$. What is the horizontal asymptote?",
-        "text": "",
+        "title": "Horizontal Asymptote",
+        "text": "The horizontal asymptote is defined as $$y=d$$. What is the horizontal asymptote?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -48,8 +48,8 @@
         "dependencies": [
             "afa63f8real2a-h2"
         ],
-        "title": "The shift is $$(-c,d)$$. Input some values of $$x$$ and find f(x), then graphing these points.",
-        "text": "\\n##figure2.gif##",
+        "title": "Table of Values",
+        "text": "The shift is $$(-c,d)$$. Input some values of $$x$$ and find f(x), then graphing these points.\\n##figure2.gif##",
         "variabilization": {},
         "oer": "",
         "license": "",

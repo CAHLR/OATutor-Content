@@ -33,7 +33,7 @@
             "a18e27bvariation27a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=w d^2$$. If $$w=50$$ when $$d=3960$$, what is k?",
+        "text": "$$k=w d^2$$. If $$w=50$$ when $$d=3960$$, what is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "a18e27bvariation27a-h3"
         ],
-        "title": "Finding new distance",
+        "title": "Finding new weight",
         "text": "Now we know our relationship is $$w=\\frac{784080000}{d^2}$$. To find the new weight if it were $$3970$$ miles from Earth's center, plug in $$d=3970!$$ Round to three decimal places.",
         "variabilization": {},
         "oer": "",

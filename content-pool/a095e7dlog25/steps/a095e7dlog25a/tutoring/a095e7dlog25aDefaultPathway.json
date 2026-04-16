@@ -8,8 +8,8 @@
             "left"
         ],
         "dependencies": [],
-        "title": "Lets apply and think about the horizontal shift first. Are we shifting left by $$2$$ or right by 2?",
-        "text": "",
+        "title": "Direction of Shift",
+        "text": "Let's apply and think about the horizontal shift first. Are we shifting left by $$2$$ or right by 2?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -29,8 +29,8 @@
         "dependencies": [
             "a095e7dlog25a-h1"
         ],
-        "title": "Now, solve for the new lower bound of the domain. What is the value?",
-        "text": "",
+        "title": "Update the Domain Bound",
+        "text": "Now, solve for the new lower bound of the domain. What is the value?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -41,8 +41,8 @@
         "dependencies": [
             "a095e7dlog25a-h2"
         ],
-        "title": "Afterwards, apply a vertical stretch of $$5$$. Does this change the value of the domain? Think about this carefully.",
-        "text": "",
+        "title": "Effect of Vertical Stretch",
+        "text": "Afterwards, apply a vertical stretch of $$5$$. Does this change the value of the domain? Think about this carefully.",
         "variabilization": {},
         "oer": "",
         "license": ""

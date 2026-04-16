@@ -12,9 +12,11 @@
     {
         "id": "a6a6a73inverse4a-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a6a6a73inverse4a-h1"
+        ],
         "title": "Isolate the square root term",
-        "text": "Move terms around so that sqrt(3 + x) is by itself.",
+        "text": "Move terms around so that $$\\sqrt{3+x}$$ is by itself.",
         "variabilization": {},
         "oer": "",
         "license": ""

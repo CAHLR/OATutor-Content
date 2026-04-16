@@ -4,7 +4,7 @@
         "$$y=10wxz$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$y$$ varies jointly with $$x$$, w, and $$z$$ and when $$x$$ $$=$$ $$1$$, $$w=5$$, and $$z$$ $$=$$ $$2$$, $$y$$ $$=$$ $$100$$.",
+    "stepTitle": "$$y$$ varies jointly with x,w, and $$z$$ and when $$x=1, w=5$$, and $$z=2, y=100$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

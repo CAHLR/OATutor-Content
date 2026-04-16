@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$72$$"
+            "$$128$$"
         ],
         "dependencies": [
             "a18e27bvariation4a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=$$ $$y x^2$$. What is k?",
+        "text": "$$k=y x^2$$. What is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a18e27bvariation4a-h3"
         ],
         "title": "New value of $$y$$",
-        "text": "You can use the equation $$y={kx}^2$$ with your new $$x$$ and k value to get the new $$y$$ value.",
+        "text": "You can use the equation $$y=\\frac{k}{x^2}$$ with your new $$x$$ and k value to get the new $$y$$ value.",
         "variabilization": {},
         "oer": "",
         "license": ""

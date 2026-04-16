@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$8\\left(x+y\\right)$$"
+            "$$8x+y$$"
         ],
         "dependencies": [
             "a11c719lang8b-h1"

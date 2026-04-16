@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(x - 9)**2 $$=$$ $$4x$$ - $$4$$"
+            "$$\\left(x-9\\right)^2=4x-4$$"
         ],
         "dependencies": [
             "a6a6a73inverse15a-h1"

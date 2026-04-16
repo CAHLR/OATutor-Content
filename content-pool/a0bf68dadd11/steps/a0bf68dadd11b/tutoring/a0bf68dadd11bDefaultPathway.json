@@ -48,7 +48,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-7$$"
+            "$$\\frac{12}{23}$$"
         ],
         "dependencies": [
             "a0bf68dadd11b-h3"

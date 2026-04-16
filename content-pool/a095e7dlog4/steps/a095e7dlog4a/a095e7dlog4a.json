@@ -9,10 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "$$25$$",
-        "$$5$$",
-        "$$6$$",
         "infinity",
-        "inifinity"
+        "$$25$$",
+        "$$6$$",
+        "$$5$$"
     ]
 }

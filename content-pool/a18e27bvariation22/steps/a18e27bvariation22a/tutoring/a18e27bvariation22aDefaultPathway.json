@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "General form",
-        "text": "You can represent the relationship between the variables as $$y$$ $$=$$ $${kx}^2$$ * $$z^3$$ / $$\\sqrt{w}$$",
+        "text": "You can represent the relationship between the variables as $$y=\\frac{{kx}^2 z^3}{\\sqrt{w}}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a18e27bvariation22a-h1"
         ],
         "title": "Finding k",
-        "text": "Substitute $$x=2$$, $$z=2$$, $$w=64$$, and $$y=12$$ to find the value of the constant k.",
+        "text": "Substitute $$x=2, z=2, w=64$$, and $$y=12$$ to find the value of the constant k.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a18e27bvariation22a-h2"
         ],
         "title": "Evaluating k",
-        "text": "$$y$$ $$=$$ $${kx}^2$$ * $$z^3$$ / $$\\sqrt{w}$$, so k $$=$$ sqrt(w)y/(x**2 * z**3). What is k?",
+        "text": "$$y={kx}^2$$ * $$\\frac{z^3}{\\sqrt{w}}$$, so k=sqrt(w)y/(x**2 * z**3). What is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a18e27bvariation22a-h3"
         ],
         "title": "New value of $$y$$",
-        "text": "You can use the equation $$y$$ $$=$$ $${kx}^2$$ * $$z^3$$ / $$\\sqrt{w}$$ with your new $$y$$, $$z$$, w, and k value to get the new $$y$$ value.",
+        "text": "You can use the equation $$y=\\frac{{kx}^2 z^3}{\\sqrt{w}}$$ with your new x,z,w, and k value to get the new $$y$$ value.",
         "variabilization": {},
         "oer": "",
         "license": ""

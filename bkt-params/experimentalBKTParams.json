@@ -1,4 +1,10 @@
 {
+    "residuals": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "correlation_&_regression": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -353,25 +359,25 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "identifiying_end_behavior_of_power_functions": {
+    "identifying_end_behavior_of_power_functions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "identifiying_local_behavior_of_polynomial_functions": {
+    "identifying_local_behavior_of_polynomial_functions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "identifiying_power_functions": {
+    "identifying_power_functions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": {
+    "identifying_the_degree_and_leading_coefficient_of_a_polynomial_function": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -413,12 +419,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "factor_differences_of_squares": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "factor_perfect_square_trinomials": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -438,12 +438,6 @@
         "probGuess": 0.1
     },
     "factor_trinomials_of_the_form_x**2_+_bx_+_c": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "find_the_greatest_common_factor_of_two_or_more_expressions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -503,12 +497,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "multiply_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "rationalize_a_one_term_denominator": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -521,12 +509,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "use_polynomial_multiplication_to_multiply_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "use_the_product_property_to_simplify_square_roots": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -534,12 +516,6 @@
         "probGuess": 0.1
     },
     "use_the_quotient_property_to_simplify_square_roots": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "rationalizing_denominators": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -612,12 +588,6 @@
         "probGuess": 0.1
     },
     "use_the_midpoint_formula": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "solve_applications_using_the_pythagorean_theorem": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -1217,7 +1187,7 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "perfect_square_trinomials": {
+    "perfect_square_binomials": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3257,6 +3227,18 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "finding_limits:_numerical_and_graphical_approaches": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "finding_limits:_properties_of_limits": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "derivatives": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -3701,6 +3683,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "find_the_greatest_common_factor_of_two_or_more_expressions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -3714,6 +3702,12 @@
         "probGuess": 0.1
     },
     "factor_trinomials_using_trial_and_error": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "factor_differences_of_squares": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3774,6 +3768,18 @@
         "probGuess": 0.1
     },
     "simplify_variable_expressions_with_square_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "multiply_square_roots": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "use_polynomial_multiplication_to_multiply_square_roots": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -4481,6 +4487,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "rationalizing_denominators": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "using_rational_roots": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -4950,6 +4962,30 @@
         "probGuess": 0.1
     },
     "understanding_how_the_graphs_of_parabolas_are_related_to_their_quadratic_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifiying_end_behavior_of_power_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifiying_local_behavior_of_polynomial_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifiying_power_functions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

@@ -60,7 +60,7 @@
                 "type": "hint",
                 "dependencies": [],
                 "title": "Right Hand Side",
-                "text": "We know that $$|-4|=4$$, so the opposite of $$|-4|$$ is $$--4$$.",
+                "text": "We know that $$|-4|=4$$, so the opposite of $$|-4|$$ is $$-4$$.",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

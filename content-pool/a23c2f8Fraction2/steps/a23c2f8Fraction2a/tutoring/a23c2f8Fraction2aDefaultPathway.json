@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Factor",
-        "text": "Factor $$(-9a)$$ to -3x3xa",
+        "text": "Factor $$(-9a)$$ to $$-3\\times3 a$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

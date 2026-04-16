@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$y$$ + $$2$$ $$=$$ $$\\sqrt{x}$$"
+            "$$y+2=\\sqrt{x}$$"
         ],
         "dependencies": [
             "a6a6a73inverse2a-h1"
         ],
         "title": "Isolate the squared term",
-        "text": "Solve for (y + 2)**2 in terms of $$x$$.",
+        "text": "Solve for $$\\left(y+2\\right)^2$$ in terms of $$x$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

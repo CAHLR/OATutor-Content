@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "a73b129counting26a-h4",
+        "id": "a73b129counting26a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -51,10 +51,10 @@
         "license": ""
     },
     {
-        "id": "a73b129counting26a-h5",
+        "id": "a73b129counting26a-h4",
         "type": "hint",
         "dependencies": [
-            "a73b129counting26a-h4"
+            "a73b129counting26a-h3"
         ],
         "title": "Applying the Subset Formula",
         "text": "Now that you know there are $$9$$ elements in the set, apply the subset formula, with the elements representing $$n$$.",

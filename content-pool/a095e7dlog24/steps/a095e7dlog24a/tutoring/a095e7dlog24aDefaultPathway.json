@@ -8,8 +8,8 @@
             "$$0$$"
         ],
         "dependencies": [],
-        "title": "Think about the original parent logarithmic function's vertical asymptote. If it's represented as $$x=a$$, what is a?",
-        "text": "",
+        "title": "Parent Vertical Asymptote",
+        "text": "Think about the original parent logarithmic function's vertical asymptote. If it's represented as $$x=a$$, what is a?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a095e7dlog24a-h1"
         ],
-        "title": "When we vertically stretch the graph by $$2$$, does it change the vertical asymptote? Try to graph it and visualize.",
-        "text": "",
+        "title": "Effect of Transformation",
+        "text": "When we vertically stretch the graph by $$2$$, does it change the vertical asymptote? Try to graph it and visualize.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$3$$ - $$4x$$ $$=$$ $$x^2$$"
+            "$$3-4x=x^2$$"
         ],
         "dependencies": [
             "a6a6a73inverse14a-h1"

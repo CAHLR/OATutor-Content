@@ -8,8 +8,8 @@
             "left"
         ],
         "dependencies": [],
-        "title": "Lets apply and think about the horizontal shift first. Are we shifting left by $$2$$ or right by 2?",
-        "text": "",
+        "title": "Direction of Shift",
+        "text": "Let's apply and think about the horizontal shift first. Are we shifting left by $$2$$ or right by 2?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -24,8 +24,8 @@
         "dependencies": [
             "a095e7dlog26a-h1"
         ],
-        "title": "Think about what the vertical asymptote becomes after the horizontal shift by $$2$$ to the left.",
-        "text": "",
+        "title": "Update the Asymptote",
+        "text": "Think about what the vertical asymptote becomes after the horizontal shift by $$2$$ to the left.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -36,8 +36,8 @@
         "dependencies": [
             "a095e7dlog26a-h2"
         ],
-        "title": "Now, think about the vertical stretch of $$5$$ on the horizotally shifted graph. Does it change the vertical asymptote?",
-        "text": "",
+        "title": "Effect of Vertical Stretch",
+        "text": "Now, think about the vertical stretch of $$5$$ on the horizotally shifted graph. Does it change the vertical asymptote?",
         "variabilization": {},
         "oer": "",
         "license": ""

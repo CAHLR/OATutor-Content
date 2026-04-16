@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$x$$ + $$8$$ $$=$$ $$2$$ / $$y$$"
+            "$$x+8=\\frac{2}{y}$$"
         ],
         "dependencies": [
             "a6a6a73inverse19a-h1"
         ],
         "title": "Multiply both sides by an expression",
-        "text": "What do you get when you multiply both sides by (x + 8)?",
+        "text": "What do you get when you multiply both sides by $$x+8$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a095e7dlog2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Think about if there's any limit to the upper bound.",
-        "text": "",
+        "title": "Upper-Bound Restriction",
+        "text": "Think about if there's any limit to the upper bound.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a095e7dlog2a-h1"
         ],
-        "title": "There are no limits! So, what's the largest possible value it can be?",
-        "text": "",
+        "title": "Interpret the Domain",
+        "text": "There are no limits! So, what's the largest possible value it can be?",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "(x - 5)**2 $$=$$ $$6x$$ - $$8$$"
+            "$$\\left(x-5\\right)^2=6x-8$$"
         ],
         "dependencies": [
             "a6a6a73inverse16a-h1"

@@ -10,9 +10,9 @@
     "variabilization": {},
     "answerLatex": "y-intercept: $$(0,1)$$",
     "choices": [
-        "vertical asymptote: $$x$$ $$=$$ $$0$$",
-        "domain: (0, infinity)",
-        "range: (-infinity, infinity)",
+        "vertical asymptote: $$x=0$$",
+        "domain: $$(0,\\infty)$$",
+        "range: $$(-\\infty,\\infty)$$",
         "$$y-intercept$$: $$(0,1)$$"
     ]
 }

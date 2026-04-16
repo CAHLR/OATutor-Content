@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric27a-h2",
+        "id": "abcb484geometric27a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,10 +27,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric27a-h3",
+        "id": "abcb484geometric27a-h2",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric27a-h2"
+            "abcb484geometric27a-h1"
         ],
         "title": "Writing Formula",
         "text": "Substitute the common ratio and first term of the sequence into the formula: $$a_n=a_1 r^{n-1}$$",

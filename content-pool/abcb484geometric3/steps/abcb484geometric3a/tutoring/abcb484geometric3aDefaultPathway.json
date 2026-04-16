@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric3a-h2",
+        "id": "abcb484geometric3a-s1",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -27,7 +27,7 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric3a-h3",
+        "id": "abcb484geometric3a-s2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -35,7 +35,7 @@
             "$$\\frac{3}{2}$$"
         ],
         "dependencies": [
-            "abcb484geometric3a-h2"
+            "abcb484geometric3a-h1"
         ],
         "title": "Finding Common Ratio",
         "text": "What is $$\\frac{15}{10}$$?",
@@ -44,10 +44,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric3a-h4",
+        "id": "abcb484geometric3a-h2",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric3a-h3"
+            "abcb484geometric3a-h1"
         ],
         "title": "Finding Common Ratio",
         "text": "Since we do not get the same answer when dividing terms by their previous terms, a common ratio does not exist.",
@@ -56,10 +56,10 @@
         "license": ""
     },
     {
-        "id": "abcb484geometric3a-h5",
+        "id": "abcb484geometric3a-h3",
         "type": "hint",
         "dependencies": [
-            "abcb484geometric3a-h4"
+            "abcb484geometric3a-h2"
         ],
         "title": "Determining if Sequence is Geometric",
         "text": "A sequence is geometric if a common ratio exists.",

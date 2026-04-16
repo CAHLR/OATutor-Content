@@ -80,6 +80,15 @@
                 "learningObjectives": {
                     "correlation_&_regression": 0.85
                 }
+            },
+            {
+                "id": "5sBIx72F-VjTj-x4iSm0Uu5H",
+                "name": "Lesson Disc12",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "residuals": 0.85
+                }
             }
         ]
     },
@@ -129,7 +138,7 @@
                 }
             },
             {
-                "id": "6D73EB4O-YQgA-h4CdYb5TyD",
+                "id": "0MIs6WXz-kMML-qXqRbNzz0W",
                 "name": "Lesson 2.1",
                 "topics": "Evaluating Expressions",
                 "allowRecycle": true,
@@ -140,7 +149,7 @@
                 }
             },
             {
-                "id": "1srYHUJS-SNMt-E6yBZMLg33",
+                "id": "2YLTVyqx-85bE-4l26QUcYFP",
                 "name": "Lesson 2.2",
                 "topics": "Rules of Algebra",
                 "allowRecycle": true,
@@ -150,9 +159,9 @@
                 }
             },
             {
-                "id": "6A2jdQdM-xaXO-mQvzs7TftS",
+                "id": "1SlCWZkI-fBoG-bX85TFYgGS",
                 "name": "Lesson 2.3",
-                "topics": "Substituting into expressions",
+                "topics": "Substituting into expressio",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "and_time_formula": 0.85,
@@ -166,7 +175,7 @@
             {
                 "id": "2N2RgOGL-lski-xWfRCQtdvH",
                 "name": "Lesson 2.4",
-                "topics": "Simplifying algebraic expressions",
+                "topics": "Simplifying algebraic expre",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "add_and_subtract_monomials": 0.85,
@@ -181,7 +190,7 @@
             {
                 "id": "7Z60aZff-ebNp-mHBJpxJc8X",
                 "name": "Lesson 2.5",
-                "topics": "Solving One-Variable Equations",
+                "topics": "Solving One-Variable Equati",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "solve_a_formula_for_a_specific_variable": 0.85,
@@ -205,7 +214,7 @@
             {
                 "id": "2sav0fjG-Y3Qq-OHoAWhgJ26",
                 "name": "Lesson 2.7",
-                "topics": "Operations with Rational Expressions",
+                "topics": "Operations with Rational Ex",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "add_rational_expressions_with_a_common_denominator": 0.85,
@@ -220,32 +229,32 @@
             {
                 "id": "0CRIE8QH-xwtt-L4hMdEiSo7",
                 "name": "Lesson 3.1",
-                "topics": "Identifying Polynomials by Degree",
+                "topics": "Identifying Polynomials by",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "and_trinomials": 0.85,
                     "binomials": 0.85,
                     "comparing_smooth_and_continuous_graphs": 0.85,
                     "determine_the_degree_of_polynomials": 0.85,
-                    "identifiying_end_behavior_of_power_functions": 0.85,
-                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
-                    "identifiying_power_functions": 0.85,
-                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85,
                     "identify_polynomials": 0.85,
+                    "identifying_end_behavior_of_power_functions": 0.85,
+                    "identifying_local_behavior_of_polynomial_functions": 0.85,
+                    "identifying_power_functions": 0.85,
+                    "identifying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85,
                     "monomials": 0.85
                 }
             },
             {
                 "id": "6et6L3Fl-XL7n-yQEYINhxve",
                 "name": "Lesson 3.2",
-                "topics": "End Behavior using Leading Term Test",
+                "topics": "End Behavior using Leading",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "comparing_smooth_and_continuous_graphs": 0.85,
-                    "identifiying_end_behavior_of_power_functions": 0.85,
-                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
-                    "identifiying_power_functions": 0.85,
-                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85
+                    "identifying_end_behavior_of_power_functions": 0.85,
+                    "identifying_local_behavior_of_polynomial_functions": 0.85,
+                    "identifying_power_functions": 0.85,
+                    "identifying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85
                 }
             },
             {
@@ -287,12 +296,10 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "factor_by_grouping": 0.85,
-                    "factor_differences_of_squares": 0.85,
                     "factor_perfect_square_trinomials": 0.85,
                     "factor_the_greatest_common_factor_from_a_polynomial": 0.85,
                     "factor_trinomials_of_the_form_x**2+bx+c": 0.85,
                     "factor_trinomials_of_the_form_x**2_+_bx_+_c": 0.85,
-                    "find_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
                     "finding_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
                     "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely": 0.85
                 }
@@ -318,16 +325,14 @@
                 "learningObjectives": {
                     "add_and_subtract_like_square_roots": 0.85,
                     "divide_square_roots": 0.85,
-                    "multiply_square_roots": 0.85,
                     "rationalize_a_one_term_denominator": 0.85,
-                    "rationalize_a_two_term_denominator": 0.85,
-                    "use_polynomial_multiplication_to_multiply_square_roots": 0.85
+                    "rationalize_a_two_term_denominator": 0.85
                 }
             },
             {
                 "id": "2gAru9Df-dxnI-KTBQZoSR47",
                 "name": "Lesson 4.2",
-                "topics": "Simplifying radicals & radical expressions",
+                "topics": "Simplifying radicals & radi",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "use_the_product_property_to_simplify_square_roots": 0.85,
@@ -340,13 +345,13 @@
                 "topics": "Rationalizing a denominator",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "rationalizing_denominators": 0.85
+                    "rationalize_a_one_term_denominator": 0.85
                 }
             },
             {
                 "id": "2Sw78gtq-xvkL-YcOVUK7Im2",
                 "name": "Lesson 4.4",
-                "topics": "Basic properties of exponents",
+                "topics": "Basic properties of exponen",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "simplify_expressions_using_the_properties_for_exponents": 0.85
@@ -355,7 +360,7 @@
             {
                 "id": "1z6a8nZj-xmpz-2mmBnmBsux",
                 "name": "Lesson 4.5",
-                "topics": "Domain and range restrictions",
+                "topics": "Domain and range restrictio",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "finding_domain_and_range_from_graphs": 0.85,
@@ -377,7 +382,7 @@
                 }
             },
             {
-                "id": "4bXbO3O1-lf6j-2nvdsw7fWB",
+                "id": "6bS8b840-vpfB-mZ7oeM85aN",
                 "name": "Lesson 5.2",
                 "topics": "Special right triangles",
                 "allowRecycle": true,
@@ -388,7 +393,7 @@
             {
                 "id": "1HfsBIUG-YEbw-KMMow56Bu8",
                 "name": "Lesson 5.3",
-                "topics": "Distance & Midpoint formulas",
+                "topics": "Distance & Midpoint formula",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "use_the_distance_formula": 0.85,
@@ -396,19 +401,18 @@
                 }
             },
             {
-                "id": "3OTe5TG6-LPhE-qQ1Zrq9tyF",
+                "id": "1IGTMXm6-gNQi-sXEvjTsNu6",
                 "name": "Lesson 5.4",
                 "topics": "Pythagorean theorem",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "solve_applications_using_properties_of_triangles": 0.85,
-                    "solve_applications_using_the_pythagorean_theorem": 0.85
+                    "solve_applications_using_properties_of_triangles": 0.85
                 }
             },
             {
                 "id": "5tm7vI9A-DDLQ-SKFWZijHoB",
                 "name": "Lesson 5.5",
-                "topics": "Relationship between parallel Lines",
+                "topics": "Relationship between parall",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "use_slopes_to_identify_parallel_lines": 0.85,
@@ -418,7 +422,7 @@
             {
                 "id": "4T1uJ4pK-aZ7N-w1g3CtA9ts",
                 "name": "Lesson 5.6",
-                "topics": "Relationship between perpendicular lines",
+                "topics": "Relationship between perpen",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "determining_whether_graphs_of_lines_are_parallel_or_perpendicular": 0.85,
@@ -1038,7 +1042,7 @@
                 "topics": "8.4- Expanding the Square Power of a Binomial",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "perfect_square_trinomials": 0.85
+                    "perfect_square_binomials": 0.85
                 }
             },
             {
@@ -3044,6 +3048,24 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "probability": 0.85
+                }
+            },
+            {
+                "id": "44E2cvP6-qH7K-KcM4N6JzvG",
+                "name": "Lesson 12.1",
+                "topics": "- Finding Limits",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_limits:_numerical_and_graphical_approaches": 0.85
+                }
+            },
+            {
+                "id": "2gH4NVIe-M0V9-T6PYM2l055",
+                "name": "Lesson 12.2",
+                "topics": "- Properties of Limits",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_limits:_properties_of_limits": 0.85
                 }
             },
             {

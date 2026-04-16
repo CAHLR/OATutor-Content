@@ -1,11 +1,12 @@
 {
     "id": "a6a6a73inverse12a",
     "stepAnswer": [
-        "cbrt((4 - x) / 2)"
+        "$$\\operatorname{cbrt}\\left(\\frac{4-x}{2}\\right)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "f(x) $$=$$ $$4$$ - $$2x^3$$",
+    "stepTitle": "$$f(x)=4-2x^3$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\operatorname{cbrt}\\left(\\frac{4-x}{2}\\right)$$"
 }

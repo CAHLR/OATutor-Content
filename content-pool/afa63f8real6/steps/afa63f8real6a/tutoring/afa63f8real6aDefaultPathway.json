@@ -5,11 +5,11 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$b=e$$, $$a=2$$"
+            "$$b=e, a=2$$"
         ],
         "dependencies": [],
-        "title": "Find an equation of the form $$f(x)={ab}^{x+c}$$ $$+d$$. What are the variables?",
-        "text": "",
+        "title": "General Exponential Form",
+        "text": "Find an equation of the form $$f(x)={ab}^{x+c}$$ $$+d$$. What are the variables?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -26,13 +26,13 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2e^{\\left(-x\\right)}+4$$ $$(-Inf,Inf)$$ (4,Inf)"
+            "2e**(-x)+4;(-Inf,Inf) (4,Inf)"
         ],
         "dependencies": [
             "afa63f8real6a-h1"
         ],
-        "title": "Substitute the general form to get a function; find the domain $$(x-values)$$ and range $$(y-values)$$.",
-        "text": "",
+        "title": "Domain and Range",
+        "text": "Substitute the general form to get a function; find the domain $$(x-values)$$ and range $$(y-values)$$.",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -54,8 +54,8 @@
         "dependencies": [
             "afa63f8real6a-h2"
         ],
-        "title": "Find the horizontal asymptote.",
-        "text": "",
+        "title": "Horizontal Asymptote",
+        "text": "Find the horizontal asymptote.",
         "variabilization": {},
         "oer": "",
         "license": ""

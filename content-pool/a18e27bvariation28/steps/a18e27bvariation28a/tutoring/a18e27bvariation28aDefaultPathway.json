@@ -33,7 +33,7 @@
             "a18e27bvariation28a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=I d^2$$. If $$I=0.08$$ when $$d=3$$, what is k?",
+        "text": "$$k=I d^2$$. If $$I=0.08$$ when $$d=3$$, what is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a18e27bvariation28a-h3"
         ],
-        "title": "Finding new distance",
-        "text": "Now we know our relationship is I $$=\\frac{0.72}{d^2}$$. To find the new intensity at a distance of $$8$$ meters, plug in $$d=8!$$",
+        "title": "Finding new intensity",
+        "text": "Now we know our relationship is $$I=\\frac{0.72}{d^2}$$. To find the new intensity at a distance of $$8$$ meters, plug in $$d=8!$$",
         "variabilization": {},
         "oer": "",
         "license": ""

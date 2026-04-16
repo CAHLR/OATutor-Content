@@ -9,10 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "$$-{10}^5$$",
+        "$$-\\infty$$",
         "$$-10$$",
         "$$\\frac{-5}{2}$$",
-        "$$-\\infty$$",
-        "$$-inifinity$$"
+        "$$-{10}^5$$"
     ]
 }

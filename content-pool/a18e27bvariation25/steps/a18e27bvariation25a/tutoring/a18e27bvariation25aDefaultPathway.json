@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "General form",
-        "text": "If \"R varies inversely with L\" then the general form of our relationship will be R $$=$$ $$\\frac{k}{L}$$.",
+        "text": "If \"R varies inversely with L\" then the general form of our relationship will be $$R=\\frac{k}{L}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a18e27bvariation25a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=RL$$. If $$R=128$$ when L $$=$$ $$24$$, what is k?",
+        "text": "$$k=RL$$. If $$R=128$$ when $$L=24$$, what is k?",
         "variabilization": {},
         "oer": "",
         "license": ""

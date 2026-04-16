@@ -16,7 +16,7 @@
             "a18e27bvariation14a-h1"
         ],
         "title": "General form",
-        "text": "If \"y varies jointly with $$x$$, w, and z,\" then the general form of our relationship will be $$y=kxwz$$.",
+        "text": "If \"y varies jointly with x,w, and z,\" then the general form of our relationship will be $$y=kxwz$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a18e27bvariation14a-h2"
         ],
         "title": "Solving for k.",
-        "text": "Substitute $$x=1$$, $$z=2$$, and $$w=5$$ and $$y=100$$ into our relationship $$y$$ $$=$$ kxwz to solve for k. What do you get?",
+        "text": "Substitute $$x=1, z=2$$, and $$w=5$$ and $$y=100$$ into our relationship $$y=kxwz$$ to solve for k. What do you get?",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "General form",
-        "text": "If \"F varies jointly with the square of v and with A\" then the general form of our relationship will be $$F=kvA$$.",
+        "text": "If \"F varies jointly with the square of v and with A\" then the general form of our relationship will be $$F={kv}^2 A$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a18e27bvariation30a-h1"
         ],
         "title": "Finding k",
-        "text": "The constant k can be found by dividng $$\\frac{F}{vA}$$.",
+        "text": "The constant k can be found by dividing F by $$v^2 A$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{15}{800}$$"
+            "$$\\frac{3}{3200}$$"
         ],
         "dependencies": [
             "a18e27bvariation30a-h2"
         ],
         "title": "Evaluating k",
-        "text": "k $$=\\frac{F}{vA}$$. If $$F=15$$ when $$A=40$$ and $$v=20$$, what is k?",
+        "text": "$$k=\\frac{F}{v^2 A}$$. If $$F=15$$ when $$A=40$$ and $$v=20$$, what is k?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a18e27bvariation30a-h3"
         ],
-        "title": "Finding new distance",
-        "text": "Now we know our relationship is $$0.01875F v A$$ To find the new force on a surface with an area of $$65$$ sq. ft. and velocity of $$30$$, just plug in $$A=65$$ and $$v=30!$$ Round to two decimal places.",
+        "title": "Finding new force",
+        "text": "Now we know our relationship is $$F=\\frac{3}{3200} v^2 A$$. To find the new force on a surface with an area of $$65$$ sq. ft. and velocity $$30$$, just plug in $$A=65$$ and $$v=30!$$ Round to two decimal places.",
         "variabilization": {},
         "oer": "",
         "license": ""

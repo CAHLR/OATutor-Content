@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "cbrt(x) $$=$$ $$3$$ - $$x$$"
+            "$$cbrt(x)=3-x$$"
         ],
         "dependencies": [
             "a6a6a73inverse18a-h1"

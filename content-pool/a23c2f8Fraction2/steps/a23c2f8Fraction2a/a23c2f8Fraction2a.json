@@ -1,11 +1,12 @@
 {
     "id": "a23c2f8Fraction2a",
     "stepAnswer": [
-        "-33a"
+        "$$-33a$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\frac{11}{3}$$ * $$(-9a)$$",
+    "stepTitle": "$$\\frac{11}{3} \\left(-9a\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$-33a$$"
 }
