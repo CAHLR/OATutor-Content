@@ -99,6 +99,15 @@
                     "intervals_for_prediction_&_knn_classification": 0.85,
                     "intervals_for_predictions_&_knn_classification": 0.85
                 }
+            },
+            {
+                "id": "50dMOnSd-wuK3-4P45cwRWSM",
+                "name": "Lesson Disc14",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "bayes": 0.85
+                }
             }
         ]
     },
@@ -392,7 +401,7 @@
                 }
             },
             {
-                "id": "6bS8b840-vpfB-mZ7oeM85aN",
+                "id": "0yVITAbw-bdHq-uG7gc0a2Pt",
                 "name": "Lesson 5.2",
                 "topics": "Special right triangles",
                 "allowRecycle": true,
@@ -2772,7 +2781,7 @@
                 }
             },
             {
-                "id": "6rYuiR1f-dOe6-Yny7J9kGC5",
+                "id": "7gJKjb55-rfA1-9neD1msWB1",
                 "name": "Lesson 7.3",
                 "topics": "- Double-Angle, Half-Angle, and Reduction Formulas",
                 "allowRecycle": true,
