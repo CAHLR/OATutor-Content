@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{2\\pi}{3}$$"
+            "$$2\\frac{\\pi}{3}$$"
         ],
         "dependencies": [
             "aea0f93trigmodel8b-h1"

@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$\\frac{\\pi}{12}$"
+            "$$\\frac{\\pi}{12}$$"
         ],
         "dependencies": [
             "aea0f93trigmodel26a-h2"

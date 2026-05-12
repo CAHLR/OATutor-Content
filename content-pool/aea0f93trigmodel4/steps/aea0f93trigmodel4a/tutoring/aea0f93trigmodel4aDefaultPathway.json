@@ -91,7 +91,7 @@
         "id": "aea0f93trigmodel4a-h3",
         "type": "hint",
         "dependencies": [],
-        "title": "Determine the phase shift $$(C).$$",
+        "title": "Determine the phase shift (C).",
         "text": "For a sine function $$y=A\\sin(B(t-t_{shift}))+D$$, $$t_{shift}$$ is the time when the function crosses the midline going upwards. Then $$C$$ $$=$$ $$B$$ $$\\cdot$$ t_{shift}$$.",
         "variabilization": {},
         "oer": "",
@@ -120,7 +120,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{5\\pi}{6}$$"
+            "$$5\\frac{\\pi}{6}$$"
         ],
         "dependencies": [
             "aea0f93trigmodel4a-h3"

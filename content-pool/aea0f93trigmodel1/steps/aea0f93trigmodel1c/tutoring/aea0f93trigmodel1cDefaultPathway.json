@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Finding phase shift given equation",
-        "text": "Given an equation f(x) $$=$$ $$A\\sin(B(x-C))$$ + D, the phase shift is C. Remember to factor B out of the argument.",
+        "text": "Given an equation $$f(x)=A\\sin(B(x-C))+D$$, $$the$$ $$phase$$ $$shift$$ $$is$$ $$C$$. $$Remember$$ $$to$$ $$factor$$ $$B$$ $$out$$ $$of$$ $$the$$ $$argument$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

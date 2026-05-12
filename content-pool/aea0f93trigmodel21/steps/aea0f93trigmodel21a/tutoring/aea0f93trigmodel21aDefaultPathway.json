@@ -51,7 +51,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Midline, increasing"
+            "$$Midline$$, $$increasing$$"
         ],
         "dependencies": [
             "aea0f93trigmodel21a-h4"
@@ -62,8 +62,8 @@
         "oer": "",
         "license": "",
         "choices": [
-            "Midline, increasing",
-            "Midline, decreasing",
+            "$$Midline$$, $$increasing$$",
+            "$$Midline$$, $$decreasing$$",
             "Maximum",
             "Minimum"
         ]

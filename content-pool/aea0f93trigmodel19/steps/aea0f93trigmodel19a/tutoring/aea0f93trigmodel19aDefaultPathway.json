@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Max $$=$$ $$2$$, Min $$=$$ $$-4$$"
+            "$$Max$$ $$=$$ $$2$$, $$Min$$ $$=$$ $$-4$$"
         ],
         "dependencies": [
             "aea0f93trigmodel19a-h1"
@@ -26,10 +26,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "Max $$=$$ $$2$$, Min $$=$$ $$-4$$",
-            "Max $$=$$ $$-4$$, Min $$=$$ $$2$$",
-            "Max $$=$$ $$2$$, Min $$=$$ $$4$$",
-            "Max $$=$$ $$5$$, Min $$=$$ $$-3$$"
+            "$$Max$$ $$=$$ $$2$$, $$Min$$ $$=$$ $$-4$$",
+            "$$Max$$ $$=$$ $$-4$$, $$Min$$ $$=$$ $$2$$",
+            "$$Max$$ $$=$$ $$2$$, $$Min$$ $$=$$ $$4$$",
+            "$$Max$$ $$=$$ $$5$$, $$Min$$ $$=$$ $$-3$$"
         ]
     },
     {
@@ -50,7 +50,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "A $$=$$ $$3$$, D $$=$$ $$-1$$"
+            "$$A$$ $$=$$ $$3$$, $$D$$ $$=$$ $$-1$$"
         ],
         "dependencies": [
             "aea0f93trigmodel19a-h2"
@@ -61,10 +61,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "A $$=$$ $$3$$, D $$=$$ $$-1$$",
-            "A $$=$$ $$6$$, D $$=$$ $$-1$$",
-            "A $$=$$ $$3$$, D $$=$$ $$1$$",
-            "A $$=$$ $$2$$, D $$=$$ $$-4$$"
+            "$$A$$ $$=$$ $$3$$, $$D$$ $$=$$ $$-1$$",
+            "$$A$$ $$=$$ $$6$$, $$D$$ $$=$$ $$-1$$",
+            "$$A$$ $$=$$ $$3$$, $$D$$ $$=$$ $$1$$",
+            "$$A$$ $$=$$ $$2$$, $$D$$ $$=$$ $$-4$$"
         ]
     },
     {
@@ -85,7 +85,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "P $$=$$ $$12$$, $$B$$ $$=$$ $$\\frac{\\pi}{6}$$"
+            "$$P$$ $$=$$ $$12, \\$\\$B$$ $$=$$ $$\\frac{\\pi}{6}$$"
         ],
         "dependencies": [
             "aea0f93trigmodel19a-h3"
@@ -96,10 +96,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "P $$=$$ $$12$$, $$B$$ $$=$$ $$\\frac{\\pi}{6}$$",
-            "P $$=$$ $$6$$, $$B$$ $$=$$ $$\\frac{\\pi}{3}$$",
-            "P $$=$$ $$24$$, $$B$$ $$=$$ $$\\frac{\\pi}{12}$$",
-            "P $$=$$ $$12$$, B $$=$$ $$12$$"
+            "$$P$$ $$=$$ $$12, B$$ $$=$$ $$\\frac{\\pi}{6}$$",
+            "$$P$$ $$=$$ $$6, B$$ $$=$$ $$\\frac{\\pi}{3}$$",
+            "$$P$$ $$=$$ $$24, B$$ $$=$$ $$\\frac{\\pi}{12}$$",
+            "$$P$$ $$=$$ $$12$$, $$B$$ $$=$$ $$12$$"
         ]
     },
     {
@@ -109,7 +109,7 @@
             "aea0f93trigmodel19a-h3"
         ],
         "title": "Determine the Phase Shift and Function Type",
-        "text": "Look at the y-value at $$x=0$$. Does it start at a maximum, minimum, or midline? This helps determine if it's a sine or cosine function and its phase shift $$(C).$$",
+        "text": "Look at the y-value at $$x=0$$. Does it start at a maximum, minimum, or midline? This helps determine if it's a sine or cosine function and its phase shift (C).",
         "variabilization": {},
         "oer": "",
         "license": ""

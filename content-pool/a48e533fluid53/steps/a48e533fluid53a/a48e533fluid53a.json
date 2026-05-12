@@ -1,12 +1,12 @@
 {
     "id": "a48e533fluid53a",
     "stepAnswer": [
-        "$$127550$$"
+        "$$127325$$"
     ],
     "problemType": "TextBox",
     "stepTitle": "Calculate (a)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$127550$$"
+    "answerLatex": "$$127325$$"
 }

@@ -64,8 +64,8 @@
         "choices": [
             "Maximum",
             "Minimum",
-            "Midline, increasing",
-            "Midline, decreasing"
+            "$$Midline$$, $$increasing$$",
+            "$$Midline$$, $$decreasing$$"
         ]
     }
 ]
