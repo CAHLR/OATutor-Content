@@ -11,12 +11,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "intervals_for_predictions_&_knn_classification": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "residuals": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -953,18 +947,6 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "classifying_a_real_number": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "evaluating_algebraic_expressions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "identify_integers": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -978,12 +960,6 @@
         "probGuess": 0.1
     },
     "locate_decimals_on_the_number_line": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "performing_calculations_using_the_order_of_operations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -1007,31 +983,19 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "multiply_fractions": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
     "simplify_expressions_with_a_fraction_bar": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "translate_phrases_to_expressions_with_fractions": {
+    "multiply_fractions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "add_or_subtract_fractions_with_a_common_denominator": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "add_or_subtract_fractions_with_different_denominators": {
+    "add_or_subtract_fractions": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -3329,6 +3293,24 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "translate_phrases_to_expressions_with_fractions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "add_or_subtract_fractions_with_a_common_denominator": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "add_or_subtract_fractions_with_different_denominators": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "use_the_properties_of_zero": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -4506,6 +4488,24 @@
         "probGuess": 0.1
     },
     "use_the_binomial_theorem_to_expand_a_binomial": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "classifying_a_real_number": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "evaluating_algebraic_expressions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "performing_calculations_using_the_order_of_operations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

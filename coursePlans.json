@@ -96,8 +96,7 @@
                 "topics": "",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "intervals_for_prediction_&_knn_classification": 0.85,
-                    "intervals_for_predictions_&_knn_classification": 0.85
+                    "intervals_for_prediction_&_knn_classification": 0.85
                 }
             },
             {
@@ -180,7 +179,7 @@
             {
                 "id": "1SlCWZkI-fBoG-bX85TFYgGS",
                 "name": "Lesson 2.3",
-                "topics": "Substituting into expressio",
+                "topics": "Substituting into expressions",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "and_time_formula": 0.85,
@@ -291,7 +290,7 @@
                 }
             },
             {
-                "id": "0CRIE8QH-xwtt-L4hMdEiSo7",
+                "id": "2aMVlY7V-wqwH-tV82aNsVRg",
                 "name": "Lesson 3.4",
                 "topics": "Operations with Polynomials",
                 "allowRecycle": true,
@@ -458,7 +457,7 @@
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
             {
-                "id": "1dmull1r-t834-5gjKIDF3rb",
+                "id": "0j8vtVD3-KRAG-4WdRrNAlH3",
                 "name": "Lesson Quiz",
                 "topics": "1",
                 "allowRecycle": true,
@@ -807,12 +806,9 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "and_real_numbers": 0.85,
-                    "classifying_a_real_number": 0.85,
-                    "evaluating_algebraic_expressions": 0.85,
                     "identify_integers": 0.85,
                     "irrational_numbers": 0.85,
                     "locate_decimals_on_the_number_line": 0.85,
-                    "performing_calculations_using_the_order_of_operations": 0.85,
                     "rational_numbers": 0.85,
                     "simplify_expressions_with_square_roots": 0.85
                 }
@@ -823,8 +819,8 @@
                 "topics": "Reducing Fractions",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "evaluate_variable_expressions_with_fractions": 0.85,
-                    "multiply_and_divide_fractions": 0.85,
+                    "divide_fractions": 0.85,
+                    "simplify_expressions_with_a_fraction_bar": 0.85,
                     "simplify_fractions": 0.85
                 }
             },
@@ -835,11 +831,9 @@
                 "allowRecycle": true,
                 "learningObjectives": {
                     "divide_fractions": 0.85,
-                    "evaluate_variable_expressions_with_fractions": 0.85,
                     "multiply_and_divide_fractions": 0.85,
                     "multiply_fractions": 0.85,
-                    "simplify_expressions_with_a_fraction_bar": 0.85,
-                    "translate_phrases_to_expressions_with_fractions": 0.85
+                    "simplify_expressions_with_a_fraction_bar": 0.85
                 }
             },
             {
@@ -848,12 +842,8 @@
                 "topics": "Adding and Subtracting Fractions with and without a Common Denominator",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "add_and_subtract_fractions": 0.85,
-                    "add_or_subtract_fractions_with_a_common_denominator": 0.85,
-                    "add_or_subtract_fractions_with_different_denominators": 0.85,
-                    "evaluate_variable_expressions_with_fractions": 0.85,
-                    "use_the_order_of_operations_to_simplify_complex_fractions": 0.85,
-                    "use_the_order_of_operations_to_simplify_fractions": 0.85
+                    "add_or_subtract_fractions": 0.85,
+                    "evaluate_variable_expressions_with_fractions": 0.85
                 }
             },
             {
@@ -1601,7 +1591,7 @@
                 }
             },
             {
-                "id": "5hZp9w4Y-xs7c-y5zb1U0Oh3",
+                "id": "6vYDVQXc-whL4-owIRqdphSM",
                 "name": "Lesson 10.5",
                 "topics": "Testing the Significance of the Correlation Coefficient",
                 "allowRecycle": true,
@@ -2518,7 +2508,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "3N6dqSzR-6iRV-EhegS26y5P",
                 "name": "Lesson 2.3",
                 "topics": "- Modeling with Linear Functions",
                 "allowRecycle": true,
@@ -2647,7 +2637,7 @@
                 }
             },
             {
-                "id": "7Eln1Scx-YLCJ-NdepUGhiU3",
+                "id": "1dR7M2F1-hOe6-Ij19Vps7U6",
                 "name": "Lesson 4.3",
                 "topics": "- Logarithmic Functions",
                 "allowRecycle": true,
@@ -2986,7 +2976,7 @@
                 }
             },
             {
-                "id": "4sKmLqrq-68H3-Z6QxNXVJAM",
+                "id": "0yE90nFX-sUiU-BbdAvEoK40",
                 "name": "Lesson 10.4",
                 "topics": "- Rotation of Axes",
                 "allowRecycle": true,
@@ -3137,7 +3127,7 @@
                 }
             },
             {
-                "id": "3cvzMo8M-ay0f-XePBnLT6hk",
+                "id": "6siD7ik3-0lAc-rwdanLYlXa",
                 "name": "Lesson 1.3",
                 "topics": "Add and Subtract Integers",
                 "allowRecycle": true,
@@ -3277,7 +3267,7 @@
                 }
             },
             {
-                "id": "7Z60aZff-ebNp-mHBJpxJc8X",
+                "id": "2CMAzg8P-w62Z-aW0CCTJBfy",
                 "name": "Lesson 2.4",
                 "topics": "Use a General Strategy to Solve Linear Equations",
                 "allowRecycle": true,
@@ -3309,7 +3299,7 @@
                 }
             },
             {
-                "id": "3Vlk054e-VgXM-f56NwZRwkc",
+                "id": "7la5GIVi-ErPo-K60rOgYsp0",
                 "name": "Lesson 2.7",
                 "topics": "Solve Linear Inequalities",
                 "allowRecycle": true,
@@ -3523,7 +3513,7 @@
                 }
             },
             {
-                "id": "0CRIE8QH-xwtt-L4hMdEiSo7",
+                "id": "2ClCvuBn-FvPg-wUvb6XcQUP",
                 "name": "Lesson 6.1",
                 "topics": "Add and Subtract Polynomials",
                 "allowRecycle": true,
@@ -3684,7 +3674,7 @@
                 }
             },
             {
-                "id": "2sav0fjG-Y3Qq-OHoAWhgJ26",
+                "id": "0jhkRYvK-l87t-zDwedAX2Ml",
                 "name": "Lesson 8.3",
                 "topics": "Add and Subtract Rational Expressions with a Common Denominator",
                 "allowRecycle": true,
@@ -3925,7 +3915,7 @@
                 }
             },
             {
-                "id": "47sqrO7C-pNhb-EMHVfpaPOq",
+                "id": "61jHWW6h-F1D1-JxfGUH6Bif",
                 "name": "Lesson 1.3",
                 "topics": "Fractions",
                 "allowRecycle": true,
@@ -5814,7 +5804,7 @@
                 }
             },
             {
-                "id": "5hZp9w4Y-xs7c-y5zb1U0Oh3",
+                "id": "6WZdOG7V-QThZ-6IRlzPQEP8",
                 "name": "Lesson 9.1",
                 "topics": "Null and Alternative Hypotheses",
                 "allowRecycle": true,
@@ -5885,7 +5875,7 @@
                 }
             },
             {
-                "id": "5hZp9w4Y-xs7c-y5zb1U0Oh3",
+                "id": "6v5aaEC5-ge3f-dXZqMIrFTO",
                 "name": "Lesson 10.2",
                 "topics": "Two Population Means with Known Standard Deviations",
                 "allowRecycle": true,
@@ -5999,7 +5989,7 @@
                 }
             },
             {
-                "id": "5hZp9w4Y-xs7c-y5zb1U0Oh3",
+                "id": "1DNwcX1V-KIMo-7pfDL4zVtD",
                 "name": "Lesson 12.4",
                 "topics": "Testing the Significance of the Correlation Coefficient",
                 "allowRecycle": true,
