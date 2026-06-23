@@ -10,6 +10,7 @@
                 "name": "Lesson Disc4",
                 "topics": "",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "functions": 0.85,
                     "visualizations": 0.85
@@ -20,6 +21,7 @@
                 "name": "Lesson Disc5",
                 "topics": "",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "conditionals": 0.85,
                     "iteration": 0.85,
@@ -31,6 +33,7 @@
                 "name": "Lesson Disc6",
                 "topics": "",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "chance": 0.85,
                     "models": 0.85
