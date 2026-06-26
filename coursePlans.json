@@ -33,7 +33,7 @@
                 "name": "Lesson Disc6",
                 "topics": "",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
+                "chat_display_mode": "Avatar",
                 "learningObjectives": {
                     "chance": 0.85,
                     "models": 0.85
@@ -44,6 +44,7 @@
                 "name": "Lesson Disc7",
                 "topics": "",
                 "allowRecycle": true,
+                "chat_display_mode": "Avatar",
                 "learningObjectives": {
                     "models": 0.85
                 }
