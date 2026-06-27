@@ -2014,7 +2014,7 @@
                 "topics": "Review of Functions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg1.txt",
                 "learningObjectives": {
                     "review_of_functions": 0.85,
                     "symmetry_of_functions": 0.85
@@ -2026,7 +2026,7 @@
                 "topics": "Basic Classes of Functions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg2.txt",
                 "learningObjectives": {
                     "linear_functions_and_slope": 0.85,
                     "polynomials": 0.85
@@ -2038,7 +2038,7 @@
                 "topics": "Trigonometric Functions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg3.txt",
                 "learningObjectives": {
                     "radian_measure": 0.85,
                     "trigonometric_identities": 0.85
@@ -2050,7 +2050,7 @@
                 "topics": "Inverse Functions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg4.txt",
                 "learningObjectives": {
                     "inverse_functions": 0.85
                 }
@@ -2061,7 +2061,6 @@
                 "topics": "Exponential and Logarithmic Functions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "exponential_and_logarithmic_functions": 0.85
                 }
@@ -3208,7 +3207,7 @@
                 "topics": "Introduction to Whole Numbers",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg1.txt",
                 "learningObjectives": {
                     "find_prime_factorizations_and_least_common_multiples": 0.85,
                     "identify_multiples_and_apply_divisibility_tests": 0.85,
@@ -3221,7 +3220,7 @@
                 "topics": "Use the Language of Algebra",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg2.txt",
                 "learningObjectives": {
                     "evaluate_an_expression": 0.85,
                     "identify_and_combine_like_terms": 0.85,
@@ -3235,7 +3234,7 @@
                 "topics": "Add and Subtract Integers",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg3.txt",
                 "learningObjectives": {
                     "add_integers": 0.85,
                     "simplify:_expressions_with_absolute_value": 0.85,
@@ -3248,7 +3247,7 @@
                 "topics": "Multiply and Divide Integers",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg4.txt",
                 "learningObjectives": {
                     "divide_integers": 0.85,
                     "evaluate_variable_expressions_with_integers": 0.85,
@@ -3264,7 +3263,6 @@
                 "topics": "Visualize Fractions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_fractions": 0.85,
                     "multiply_fractions": 0.85,
@@ -6290,7 +6288,7 @@
                 "topics": "Units and Measurements",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg1.txt",
                 "learningObjectives": {
                     "dimensional_analysis": 0.85,
                     "estimates_and_fermi_calculations": 0.85,
@@ -6306,7 +6304,7 @@
                 "topics": "Vectors",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg2.txt",
                 "learningObjectives": {
                     "algebra_of_vectors": 0.85,
                     "coordinate_systems_and_components_of_a_vector": 0.85,
@@ -6320,7 +6318,7 @@
                 "topics": "Motion Along a Straight Line",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg3.txt",
                 "learningObjectives": {
                     "and_velocity": 0.85,
                     "average_and_instantaneous_acceleration": 0.85,
@@ -6334,7 +6332,7 @@
                 "topics": "Motion in Two and Three Dimensions",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
+                "chat_prompt": "PROMPTg4.txt",
                 "learningObjectives": {
                     "acceleration_vector": 0.85,
                     "displacement_and_velocity_vectors": 0.85,
@@ -6349,7 +6347,6 @@
                 "topics": "Newton's Laws of Motion",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
-                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "common_forces": 0.85,
                     "forces": 0.85,
