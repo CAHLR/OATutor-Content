@@ -3207,6 +3207,8 @@
                 "name": "Lesson 1.1",
                 "topics": "Introduction to Whole Numbers",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "find_prime_factorizations_and_least_common_multiples": 0.85,
                     "identify_multiples_and_apply_divisibility_tests": 0.85,
@@ -3218,6 +3220,8 @@
                 "name": "Lesson 1.2",
                 "topics": "Use the Language of Algebra",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "evaluate_an_expression": 0.85,
                     "identify_and_combine_like_terms": 0.85,
@@ -3230,6 +3234,8 @@
                 "name": "Lesson 1.3",
                 "topics": "Add and Subtract Integers",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_integers": 0.85,
                     "simplify:_expressions_with_absolute_value": 0.85,
@@ -3241,6 +3247,8 @@
                 "name": "Lesson 1.4",
                 "topics": "Multiply and Divide Integers",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_integers": 0.85,
                     "evaluate_variable_expressions_with_integers": 0.85,
@@ -3255,6 +3263,8 @@
                 "name": "Lesson 1.5",
                 "topics": "Visualize Fractions",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_fractions": 0.85,
                     "multiply_fractions": 0.85,
@@ -3268,6 +3278,8 @@
                 "name": "Lesson 1.6",
                 "topics": "Add and Subtract Fractions",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_or_subtract_fractions_with_a_common_denominator": 0.85,
                     "add_or_subtract_fractions_with_different_denominators": 0.85,
@@ -3280,6 +3292,8 @@
                 "name": "Lesson 1.7",
                 "topics": "Decimals",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_and_subtract_decimals": 0.85,
                     "add_or_subtract_decimals.": 0.85,
@@ -3296,6 +3310,8 @@
                 "name": "Lesson 1.8",
                 "topics": "The Real Numbers",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "and_real_numbers": 0.85,
                     "identify_integers": 0.85,
@@ -3310,6 +3326,8 @@
                 "name": "Lesson 1.9",
                 "topics": "Properties of Real Numbers",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "simplify_expressions_using_the_distributive_property": 0.85,
                     "use_the_commutative_and_associative_properties": 0.85,
@@ -3322,6 +3340,8 @@
                 "name": "Lesson 1.10",
                 "topics": "Systems of Measurement",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "convert_between_fahrenheit_and_celsius_temperatures": 0.85,
                     "convert_between_the_u.s._and_the_metric_systems_of_measurement": 0.85,
@@ -3336,6 +3356,8 @@
                 "name": "Lesson 2.1",
                 "topics": "Solve Equations Using the Subtraction and Addition Properties of Equality",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_equations_that_require_simplification": 0.85,
                     "solve_equations_using_the_subtraction_and_addition_properties_of_equality": 0.85,
@@ -3347,6 +3369,8 @@
                 "name": "Lesson 2.2",
                 "topics": "Solve Equations using the Division and Multiplication Properties of Equality",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_equations_that_require_simplification": 0.85,
                     "solve_equations_using_the_division_and_multiplication_properties_of_equality": 0.85,
@@ -3359,6 +3383,8 @@
                 "name": "Lesson 2.3",
                 "topics": "Solve Equations with Variables and Constants on Both Sides",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_equations_with_constants_on_both_sides": 0.85,
                     "solve_equations_with_variables_and_constants_on_both_sides": 0.85,
@@ -3370,6 +3396,8 @@
                 "name": "Lesson 2.4",
                 "topics": "Use a General Strategy to Solve Linear Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "classify_equations": 0.85,
                     "solve_equations_using_the_general_strategy": 0.85
@@ -3380,6 +3408,8 @@
                 "name": "Lesson 2.5",
                 "topics": "Solve Equations with Fractions or Decimals",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_equations_with_decimal_coefficients": 0.85,
                     "solve_equations_with_fraction_coefficients": 0.85
@@ -3390,6 +3420,8 @@
                 "name": "Lesson 2.6",
                 "topics": "Solve a Formula for a Specific Variable",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "and_time_formula": 0.85,
                     "rate": 0.85,
@@ -3402,6 +3434,8 @@
                 "name": "Lesson 2.7",
                 "topics": "Solve Linear Inequalities",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "graph_inequalities_on_the_number_line": 0.85,
                     "solve_inequalities_that_require_simplification": 0.85,
@@ -3414,6 +3448,8 @@
                 "name": "Lesson 3.1",
                 "topics": "Use a Problem-Solving Strategy",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_number_problems": 0.85,
                     "use_a_problem_solving_strategy_for_word_problems": 0.85
@@ -3424,6 +3460,8 @@
                 "name": "Lesson 3.2",
                 "topics": "Solve Percent Applications",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "find_percent_increase_and_percent_decrease": 0.85,
                     "solve_applications_of_percent": 0.85,
@@ -3436,6 +3474,8 @@
                 "name": "Lesson 3.3",
                 "topics": "Solve Mixture Applications",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_coin_word_problems": 0.85,
                     "solve_mixture_word_problems": 0.85,
@@ -3447,6 +3487,8 @@
                 "name": "Lesson 3.4",
                 "topics": "Solve Geometry Applications: Triangles, Rectangles, and the Pythagorean Theorem",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_applications_using_properties_of_triangles": 0.85,
                     "solve_applications_using_rectangle_properties": 0.85
@@ -3457,6 +3499,8 @@
                 "name": "Lesson 3.5",
                 "topics": "Solve Uniform Motion Applications",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_uniform_motion_applications": 0.85
                 }
@@ -3466,6 +3510,8 @@
                 "name": "Lesson 3.6",
                 "topics": "Solve Applications with Linear Inequalities",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_applications_with_linear_inequalities": 0.85
                 }
@@ -3475,6 +3521,8 @@
                 "name": "Lesson 4.1",
                 "topics": "Use the Rectangular Coordinate System",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "complete_a_table_of_solutions_to_a_linear_equation": 0.85,
                     "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables": 0.85,
@@ -3487,6 +3535,8 @@
                 "name": "Lesson 4.2",
                 "topics": "Graph Linear Equations in Two Variables",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "graph_a_linear_equation_by_plotting_points": 0.85,
                     "graph_vertical_and_horizontal_lines": 0.85,
@@ -3498,6 +3548,8 @@
                 "name": "Lesson 4.3",
                 "topics": "Graph with Intercepts",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "find_the_x__and_y__intercepts_from_an_equation_of_a_line": 0.85,
                     "graph_a_line_using_the_intercepts": 0.85,
@@ -3509,6 +3561,8 @@
                 "name": "Lesson 4.4",
                 "topics": "Understand Slope of a Line",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "use_geoboards_to_model_slope": 0.85,
                     "use_m=rise/run_to_find_the_slope_of_a_line_from_its_graph": 0.85
@@ -3519,6 +3573,8 @@
                 "name": "Lesson 4.5",
                 "topics": "Use the Slope-Intercept Form of an Equation of a Line",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "identify_the_slope_and_y_intercept_from_an_equation_of_a_line": 0.85,
                     "recognize_the_relation_between_the_graph_and_the_slope\u2013intercept_form_of_an_equation_of_a_line": 0.85,
@@ -3531,6 +3587,8 @@
                 "name": "Lesson 4.6",
                 "topics": "Find the Equation of a Line",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "find_an_equation_of_a_line_parallel_to_a_given_line": 0.85,
                     "find_an_equation_of_a_line_perpendicular_to_a_given_line": 0.85,
@@ -3544,6 +3602,8 @@
                 "name": "Lesson 4.7",
                 "topics": "Graphs of Linear Inequalities",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "graph_linear_inequalities": 0.85,
                     "recognize_the_relation_between_the_solutions_of_an_inequality_and_its_graph": 0.85,
@@ -3555,6 +3615,8 @@
                 "name": "Lesson 5.1",
                 "topics": "Solve Systems of Equations by Graphing",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "determine_the_number_of_solutions_of_a_linear_system": 0.85,
                     "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_equations": 0.85,
@@ -3566,6 +3628,8 @@
                 "name": "Lesson 5.2",
                 "topics": "Solving Systems of Equations by Substitution",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_a_system_of_equations_by_substitution": 0.85
                 }
@@ -3575,6 +3639,8 @@
                 "name": "Lesson 5.3",
                 "topics": "Solve Systems of Equations by Elimination",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_a_system_of_equations_by_elimination": 0.85,
                     "solve_applications_of_systems_of_equations_by_elimination": 0.85
@@ -3585,6 +3651,8 @@
                 "name": "Lesson 5.4",
                 "topics": "Solve Applications with Systems of Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_direct_translation_applications": 0.85,
                     "solve_geometry_applications": 0.85,
@@ -3596,6 +3664,8 @@
                 "name": "Lesson 5.5",
                 "topics": "Solve Mixture Applications with Systems of Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_interest_applications": 0.85,
                     "solve_mixture_applications": 0.85
@@ -3606,6 +3676,8 @@
                 "name": "Lesson 5.6",
                 "topics": "Graphing Systems of Linear Inequalities",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "determine_whether_an_ordered_pair_is_a_solution_of_a_system_of_linear_inequalities": 0.85,
                     "solve_a_system_of_linear_inequalities_by_graphing": 0.85
@@ -3616,6 +3688,8 @@
                 "name": "Lesson 6.1",
                 "topics": "Add and Subtract Polynomials",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_and_subtract_monomials": 0.85,
                     "add_and_subtract_polynomials": 0.85,
@@ -3632,6 +3706,8 @@
                 "name": "Lesson 6.2",
                 "topics": "Use Multiplication Properties of Exponents",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "multiply_monomials": 0.85,
                     "simplify_expressions_by_applying_several_properties": 0.85,
@@ -3645,6 +3721,8 @@
                 "name": "Lesson 6.3",
                 "topics": "Multiply Polynomials",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "multiply_a_polynomial_by_a_monomial": 0.85
                 }
@@ -3654,6 +3732,8 @@
                 "name": "Lesson 6.4",
                 "topics": "Special Products",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "multiply_conjugates_using_the_product_of_conjugates_pattern": 0.85,
                     "square_a_binomial_using_the_binomial_squares_pattern": 0.85
@@ -3664,6 +3744,8 @@
                 "name": "Lesson 6.5",
                 "topics": "Divide Monomials",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "simplify_expressions_using_the_quotient_property_for_exponents": 0.85,
                     "simplify_expressions_using_the_quotient_to_a_power_property": 0.85,
@@ -3675,6 +3757,8 @@
                 "name": "Lesson 6.6",
                 "topics": "Divide Polynomials",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_a_polynomial_by_a_binomial": 0.85,
                     "divide_a_polynomial_by_a_monomial": 0.85
@@ -3685,6 +3769,8 @@
                 "name": "Lesson 6.7",
                 "topics": "Integer Exponents and Scientific Notation",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "convert_from_decimal_notation_to_scientific_notation": 0.85,
                     "simplify_expressions_with_integer_exponents": 0.85,
@@ -3696,6 +3782,8 @@
                 "name": "Lesson 7.1",
                 "topics": "Greatest Common Factor and Factor by Grouping",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "factor_the_greatest_common_factor_from_a_polynomial": 0.85,
                     "find_the_greatest_common_factor_of_two_or_more_expressions": 0.85
@@ -3706,6 +3794,8 @@
                 "name": "Lesson 7.2",
                 "topics": "Factor Trinomials with Leading Coefficient 1",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "factor_trinomials_of_the_form_x**2+bx+c": 0.85,
                     "factor_trinomials_of_the_form_x**2_+_bx_+_c": 0.85
@@ -3716,6 +3806,8 @@
                 "name": "Lesson 7.3",
                 "topics": "Factor Trinomials with Leading Coefficient Oth",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf": 0.85,
                     "factor_trinomials_using_the_'ac'_method": 0.85,
@@ -3727,6 +3819,8 @@
                 "name": "Lesson 7.4",
                 "topics": "Factor Special Products",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "factor_differences_of_squares": 0.85,
                     "factor_perfect_square_trinomials": 0.85
@@ -3737,6 +3831,8 @@
                 "name": "Lesson 7.5",
                 "topics": "General Strategy for Factoring Polynomials",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely": 0.85
                 }
@@ -3746,6 +3842,8 @@
                 "name": "Lesson 7.6",
                 "topics": "Quadratic Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_quadratic_equations_by_factoring": 0.85,
                     "solving_systems_with_gaussian_elimination": 0.85
@@ -3756,6 +3854,8 @@
                 "name": "Lesson 8.1",
                 "topics": "Simplify Rational Expressions",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "determine_the_values_for_which_a_rational_expression_is_undefined": 0.85,
                     "evaluate_rational_expressions": 0.85,
@@ -3767,6 +3867,8 @@
                 "name": "Lesson 8.2",
                 "topics": "Multiply and Divide Rational Expressions",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_rational_expressions": 0.85,
                     "multiply_rational_expressions": 0.85
@@ -3777,6 +3879,8 @@
                 "name": "Lesson 8.3",
                 "topics": "Add and Subtract Rational Expressions with a Common Denominator",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_rational_expressions_with_a_common_denominator": 0.85,
                     "subtract_rational_expressions_with_a_common_denominator": 0.85
@@ -3787,6 +3891,8 @@
                 "name": "Lesson 8.4",
                 "topics": "Add and Subtract Rational Expressions with Unlike Denominators",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_rational_expressions_with_different_denominators": 0.85,
                     "find_equivalent_rational_expressions": 0.85
@@ -3797,6 +3903,8 @@
                 "name": "Lesson 8.5",
                 "topics": "Simplify Complex Rational Expressions",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "simplify_a_complex_rational_expression_by_using_the_lcd": 0.85,
                     "simplify_a_complex_rational_expression_by_writing_it_as_division": 0.85
@@ -3807,6 +3915,8 @@
                 "name": "Lesson 8.6",
                 "topics": "Solve Rational Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_rational_equations": 0.85
                 }
@@ -3816,6 +3926,8 @@
                 "name": "Lesson 8.7",
                 "topics": "Solve Proportion and Similar Figure Applications",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_proportions": 0.85
                 }
@@ -3825,6 +3937,8 @@
                 "name": "Lesson 8.8",
                 "topics": "Solve Uniform Motion and Work Applications",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_uniform_motion_applications": 0.85,
                     "solve_work_applications": 0.85
@@ -3835,6 +3949,8 @@
                 "name": "Lesson 8.9",
                 "topics": "Use Direct and Inverse Variation",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_direct_variation_problems": 0.85,
                     "solve_inverse_variation_problems": 0.85
@@ -3845,6 +3961,8 @@
                 "name": "Lesson 9.1",
                 "topics": "Simplify and Use Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "simplify_expressions_with_square_roots": 0.85,
                     "simplify_variable_expressions_with_square_roots": 0.85
@@ -3855,6 +3973,8 @@
                 "name": "Lesson 9.2",
                 "topics": "Simplify Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "use_the_product_property_to_simplify_square_roots": 0.85,
                     "use_the_quotient_property_to_simplify_square_roots": 0.85
@@ -3865,6 +3985,8 @@
                 "name": "Lesson 9.3",
                 "topics": "Add and Subtract Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_and_subtract_like_square_roots": 0.85
                 }
@@ -3874,6 +3996,8 @@
                 "name": "Lesson 9.4",
                 "topics": "Multiply Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "multiply_square_roots": 0.85,
                     "use_polynomial_multiplication_to_multiply_square_roots": 0.85
@@ -3884,6 +4008,8 @@
                 "name": "Lesson 9.5",
                 "topics": "Divide Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "divide_square_roots": 0.85,
                     "rationalize_a_one_term_denominator": 0.85,
@@ -3895,6 +4021,8 @@
                 "name": "Lesson 9.6",
                 "topics": "Solve Equations with Square Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_radical_equations": 0.85,
                     "use_square_roots_in_applications": 0.85
@@ -3905,6 +4033,8 @@
                 "name": "Lesson 9.7",
                 "topics": "Higher Roots",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "add_and_subtract_higher_roots": 0.85,
                     "simplify_expressions_with_higher_roots": 0.85,
@@ -3917,6 +4047,8 @@
                 "name": "Lesson 9.8",
                 "topics": "Rational Exponents",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "simplify_expressions_with_a**(1/n)": 0.85,
                     "simplify_expressions_with_a**(m/n)": 0.85,
@@ -3928,6 +4060,8 @@
                 "name": "Lesson 10.1",
                 "topics": "Solve Quadratic Equations Using the Square Root Property",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_quadratic_equations_of_the_form_a(x___h)**2_=_k_using_the_square_root_property": 0.85,
                     "solve_quadratic_equations_of_the_form_ax**2_=_k_using_the_square_root_property": 0.85
@@ -3938,6 +4072,8 @@
                 "name": "Lesson 10.2",
                 "topics": "Solve Quadratic Equations by Completing the Square",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "complete_the_square_of_a_binomial_expression": 0.85,
                     "solve_quadratic_equations_of_the_form_x**2_+_bx_+_c_=_0_by_completing_the_square": 0.85
@@ -3948,6 +4084,8 @@
                 "name": "Lesson 10.3",
                 "topics": "Solve Quadratic Equations Using the Quadratic Formula",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_quadratic_equations_by_completing_the_square": 0.85,
                     "solve_quadratic_equations_using_the_quadratic_formula": 0.85
@@ -3958,6 +4096,8 @@
                 "name": "Lesson 10.4",
                 "topics": "Solve Applications Modeled by Quadratic Equations",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "solve_applications_of_the_quadratic_formula": 0.85
                 }
@@ -3967,6 +4107,8 @@
                 "name": "Lesson 10.5",
                 "topics": "Graphing Quadratic Equations in Two Variables",
                 "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "find_the_axis_of_symmetry_and_vertex_of_a_parabola": 0.85,
                     "find_the_intercepts_of_a_parabola": 0.85,
