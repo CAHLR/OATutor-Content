@@ -10,6 +10,7 @@
                 "name": "Lesson Disc4",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "functions": 0.85,
@@ -21,6 +22,7 @@
                 "name": "Lesson Disc5",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "conditionals": 0.85,
@@ -33,6 +35,7 @@
                 "name": "Lesson Disc6",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "chat_display_mode": "Avatar",
                 "learningObjectives": {
                     "chance": 0.85,
@@ -44,6 +47,7 @@
                 "name": "Lesson Disc7",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "chat_display_mode": "Avatar",
                 "learningObjectives": {
                     "models": 0.85
@@ -54,6 +58,9 @@
                 "name": "Lesson Disc8",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPTvtest.txt",
                 "learningObjectives": {
                     "review": 0.85
                 }
@@ -63,6 +70,7 @@
                 "name": "Lesson Disc9",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "the_bootstrap": 0.85
                 }
@@ -72,6 +80,7 @@
                 "name": "Lesson Disc10",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "review": 0.85
                 }
@@ -81,6 +90,7 @@
                 "name": "Lesson Disc11",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "correlation_&_regression": 0.85
                 }
@@ -90,6 +100,7 @@
                 "name": "Lesson Disc12",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "residuals": 0.85
                 }
@@ -99,6 +110,7 @@
                 "name": "Lesson Disc13",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "intervals_for_prediction_&_knn_classification": 0.85
                 }
@@ -108,6 +120,7 @@
                 "name": "Lesson Disc14",
                 "topics": "",
                 "allowRecycle": true,
+                "enableTTS": true,
                 "learningObjectives": {
                     "bayes": 0.85
                 }
