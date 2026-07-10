@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Assign signs to each displacement",
-    "stepBody": "Using $$+u$$ for toward the floor and -u for toward the wall, what is the signed value of displacement D2?",
+    "stepBody": "Using $$+\\hat{u}$$ for toward the floor and $$-\\hat{u}$$ for toward the ceiling, what is the signed value of displacement $$D_2$$?",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$-56$$ cm",

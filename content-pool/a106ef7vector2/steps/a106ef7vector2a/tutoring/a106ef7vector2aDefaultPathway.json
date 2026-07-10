@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Direction determines sign",
-        "text": "D2 is $$56$$ cm toward the wall. Since toward the wall is the -u direction, $$D2=-56$$ cm.",
+        "text": "$$D_2$$ is $$56$$ cm toward the ceiling. Since toward the ceiling is the $$-\\hat{u}\\$\\$-direction$$, $$D_2=-56$$ cm.",
         "variabilization": {},
         "oer": "",
         "license": ""
