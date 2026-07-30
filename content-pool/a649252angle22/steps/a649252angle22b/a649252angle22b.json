@@ -4,8 +4,9 @@
         "$$\\frac{\\sqrt{2}}{2}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate $$\\cos(2x)$$ given $$x$$ $$=$$ $$\\frac{pi}{8}$$",
+    "stepTitle": "Evaluate cos(2x) given $$x$$ $$=$$ $$\\frac{\\pi}{8}$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{\\sqrt{2}}{2}$$"
 }

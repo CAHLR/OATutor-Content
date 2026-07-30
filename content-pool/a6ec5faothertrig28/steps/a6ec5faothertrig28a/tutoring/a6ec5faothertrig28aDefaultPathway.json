@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Equation",
-        "text": "Recall that cosine functions follow the form $$h=A cos\\left(B d\\right)$$, where A is the amplitude and B affects the period.",
+        "text": "Recall that cosine functions follow the form $$h$$ $$=$$ $$A cos\\left(B d\\right)$$, where A is the amplitude and B affects the period.",
         "variabilization": {},
         "oer": "",
         "license": ""

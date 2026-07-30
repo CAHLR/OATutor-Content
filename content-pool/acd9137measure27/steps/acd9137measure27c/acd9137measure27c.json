@@ -1,17 +1,18 @@
 {
     "id": "acd9137measure27c",
     "stepAnswer": [
-        "[length]"
+        "$$[\\text{length}]$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Find the dimensions of $$2\\pi r$$",
-    "stepBody": "What are the dimensions of $$2\\pi r$$, where $$r$$ has dimensions of length?",
+    "stepBody": "What are the dimensions of $$2\\pi$$ $$r$$, $$where$$ $$r$$ has dimensions of length?",
     "answerType": "string",
     "variabilization": {},
+    "answerLatex": "$$[\\text{length}]$$",
     "choices": [
-        "[length]",
-        "$${[length]}^2$$",
-        "$${[length]}^3$$",
+        "$$[\\text{length}]$$",
+        "$${[\text{length}]}^2$$",
+        "$${[\text{length}]}^3$$",
         "dimensionless"
     ]
 }

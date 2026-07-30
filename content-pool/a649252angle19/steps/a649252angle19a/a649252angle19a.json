@@ -4,8 +4,9 @@
         "$$\\frac{1}{\\sqrt{2}}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the given value of $$\\cos(2\\theta)$$?",
+    "stepTitle": "What is the given value of cos(2theta)?",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{1}{\\sqrt{2}}$$"
 }

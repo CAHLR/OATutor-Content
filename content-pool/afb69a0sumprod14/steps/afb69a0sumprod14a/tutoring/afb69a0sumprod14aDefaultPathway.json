@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the correct product-to-sum formula",
-        "text": "Recall the product-to-sum formulas. Which one matches the form $$2\\sin(A)\\cos(B)$$?",
+        "text": "Recall the product-to-sum formulas. Which one matches the form 2sin(A)cos(B)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\sin(A+B) + $$\\sin(A-B)$$"
+            "$$sin\\left(A+B\\right)+sin\\left(A-B\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod14a-h1"
         ],
-        "title": "Product-to-sum formula for $$2\\sin(A)\\cos(B)$$?",
-        "text": "What is the product-to-sum formula for $$2\\sin(A)\\cos(B)$$?",
+        "title": "Product-to-sum formula for 2sin(A)cos(B)?",
+        "text": "What is the product-to-sum formula for 2sin(A)cos(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\sin(A+B) + $$\\sin(A-B)$$",
-            "$$\\sin(A+B) $$-$$ $$\\sin(A-B)$$",
-            "$$\\cos(A+B) + $$\\cos(A-B)$$",
-            "$$\\frac{1}{2}(\\sin(A+B) + $$\\sin(A-B))$$"
+            "$$sin\\left(A+B\\right)+sin\\left(A-B\\right)$$",
+            "$$sin\\left(A+B\\right)-sin\\left(A-B\\right)$$",
+            "$$cos\\left(A+B\\right)+cos\\left(A-B\\right)$$",
+            "$$\\frac{1}{2\\left(sin\\left(A+B\\right)+sin\\left(A-B\\right)\\right)}$$"
         ]
     },
     {
@@ -38,7 +38,7 @@
         "dependencies": [
             "afb69a0sumprod14a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "Once you have the formula, identify the values of A and B from the given expression.",
         "variabilization": {},
         "oer": "",
@@ -50,21 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$A=5x$$, $$B=3x$$"
+            "$$A=5x, B=3x$$"
         ],
         "dependencies": [
             "afb69a0sumprod14a-h2"
         ],
-        "title": "Identify $$A$$ and $$B$$ in the expression",
-        "text": "In $$2\\sin(5x)\\cos(3x)$$ what are A and B?",
+        "title": "Identify A and B in the expression",
+        "text": "In 2sin(5x)cos(3x) what are A and B?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$A=5x$$, $$B=3x$$",
-            "$$A=3x$$, $$B=5x$$",
-            "$$A=5$$, $$B=3$$",
-            "$$A=8x$$, $$B=2x$$"
+            "$$A=5x, B=3x$$",
+            "$$A=3x, B=5x$$",
+            "$$A=5, B=3$$",
+            "$$A=8x, B=2x$$"
         ]
     },
     {
@@ -73,21 +73,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$A+B=8x$$, $$A-B=2x$$"
+            "$$A+B=8x, A-B=2x$$"
         ],
         "dependencies": [
             "afb69a0sumprod14a-h2"
         ],
-        "title": "Identify $$A$$ and $$B$$. $$Calculate$$ $$their$$ $$sum$$ $$and$$ $$difference$$.",
+        "title": "Identify A and B. Calculate their sum and difference.",
         "text": "What are $$A+B$$ and A-B?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$A+B=8x$$, $$A-B=2x$$",
-            "$$A+B=2x$$, $$A-B=8x$$",
-            "$$A+B=8x$$, $$A-B=-2x$$",
-            "$$A+B=8$$, $$A-B=2$$"
+            "$$A+B=8x, A-B=2x$$",
+            "$$A+B=2x, A-B=8x$$",
+            "$$A+B=8x, A-B=-2x$$",
+            "$$A+B=8, A-B=2$$"
         ]
     },
     {

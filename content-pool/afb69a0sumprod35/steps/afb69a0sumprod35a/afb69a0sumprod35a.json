@@ -1,10 +1,10 @@
 {
     "id": "afb69a0sumprod35a",
     "stepAnswer": [
-        "$-2\\sin(35**{\\circ})\\sin(23**{\\circ})$"
+        "-2sin(35 degrees)sin(23 degrees)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\cos(58**{\\circ})-\\cos(12**{\\circ})$$",
+    "stepTitle": "cos(58 $$degrees)-cos(12$$ degrees)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

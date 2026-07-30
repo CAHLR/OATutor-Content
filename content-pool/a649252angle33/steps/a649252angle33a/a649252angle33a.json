@@ -1,10 +1,10 @@
 {
     "id": "a649252angle33a",
     "stepAnswer": [
-        "$$2\\sin(\\theta)\\cos(\\theta)$$"
+        "2sin(theta)cos(theta)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "State the double angle formula for $$\\sin(2\\theta)$$.",
+    "stepTitle": "State the double angle formula for sin(2theta).",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

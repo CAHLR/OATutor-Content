@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Positive vs. negative amplitude",
-        "text": "The cosine function has a trough at $$x=0$$, while the general form has a crest at $$x=0$$. This could represent a shifted cosine function, but since we are assuming there is $$0$$ phase shift, instead, we realize it represents a negative cosine function, so the A value is negative.",
+        "text": "The cosine function has a trough at $$x$$ $$=$$ $$0$$, while the general form has a crest at $$x$$ $$=$$ $$0$$. This could represent a shifted cosine function, but since we are assuming there is $$0$$ phase shift, instead, we realize it represents a negative cosine function, so the A value is negative.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -55,7 +55,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{1}{2}$$"
+            "$$0.5$$"
         ],
         "dependencies": [],
         "title": "Finding vertical shift",

@@ -1,17 +1,18 @@
 {
     "id": "af3b50aangles9a",
     "stepAnswer": [
-        "$$-225\\degree$$"
+        "$$-225$$ degrees"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$\\frac{\\left(-5\\pi\\right)}{4}$$ radians",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
+    "answerLatex": "$$-225$$ degrees",
     "choices": [
-        "225\u00b0",
-        "$$-225\\degree$$",
-        "220\u00b0",
-        "$$-220\\degree$$"
+        "$$225$$ degrees",
+        "$$-225$$ degrees",
+        "$$220$$ degrees",
+        "$$-220$$ degrees"
     ]
 }

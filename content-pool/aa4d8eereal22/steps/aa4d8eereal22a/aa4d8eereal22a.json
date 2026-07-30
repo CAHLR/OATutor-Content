@@ -4,7 +4,7 @@
         "2pi,pi/3,-2"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Find the period and horizontal and vertical shift of the function: $$f(x)=-\\operatorname{sec}\\left(x-\\frac{\\pi}{3}\\right)-2$$ (Seperate by comma)",
+    "stepTitle": "Find the period and horizontal and vertical shift of the function: f(x) $$=$$ $$-\\operatorname{sec}\\left(x-\\frac{\\pi}{3}\\right)-2$$ (Seperate by comma)",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

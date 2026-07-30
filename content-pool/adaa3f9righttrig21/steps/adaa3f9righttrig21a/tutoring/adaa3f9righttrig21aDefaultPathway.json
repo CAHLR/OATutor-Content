@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use Cotangent Definition",
-        "text": "Recall that cotangent is the reciprocal of tangent: $$\\cot(A)=\\frac{1}{\\tan(A)}=\\frac{\\text{adjacent}}{\\text{opposite}}.$$",
+        "text": "Cotangent is the reciprocal of tangent: cot(A) $$=$$ $$\\frac{1}tan^$\\left(A\\righ$$ $$=$$ $$\\frac{adjacent}{opposite}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "adaa3f9righttrig21a-h1"
         ],
         "title": "Identify the Sides",
-        "text": "Identify which side is adjacent to angle A (4) and which side is opposite (10), then divide the adjacent by the opposite.",
+        "text": "The side adjacent to angle A is $$8$$ and the opposite side is $$10$$, so cot(A) $$=$$ $$\\frac{8}{10}$$ $$=$$ $$0.8$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

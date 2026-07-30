@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Applying the product-to-sum formula",
-        "text": "Recall the product-to-sum formula for \\cos A \\sin B.",
+        "text": "Recall the product-to-sum formula for cos(A) sin(B).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\sin(A+B) $$-$$ $$\\sin(A-B))$$"
+            "cos(A) $$sin(B)=\\frac{1}{2}$$ $$sin\\left(A+B\\right)-sin\\left(A-B\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod29a-h1"
         ],
         "title": "Identify the correct formula",
-        "text": "Which product-to-sum formula should be used for \\cos A \\sin B?",
+        "text": "Which product-to-sum formula should be used for cos(A) sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\sin(A+B) $$-$$ $$\\sin(A-B))$$",
-            "$$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\sin(A+B) + $$\\sin(A-B))$$",
-            "$$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\cos(A+B) $$-$$ $$\\cos(A-B))$$",
-            "$$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ $$(\\sin(A-B)$$ $$-$$ \\sin(A+B))$$"
+            "cos(A) $$sin(B)=\\frac{1}{2}$$ $$sin\\left(A+B\\right)-sin\\left(A-B\\right)$$",
+            "cos(A) $$sin(B)=\\frac{1}{2}$$ $$sin\\left(A+B\\right)+sin\\left(A-B\\right)$$",
+            "cos(A) $$sin(B)=\\frac{1}{2}$$ $$cos\\left(A+B\\right)-cos\\left(A-B\\right)$$",
+            "cos(A) $$sin(B)=\\frac{1}{2}$$ $$sin\\left(A-B\\right)-sin\\left(A+B\\right)$$"
         ]
     },
     {
@@ -38,7 +38,7 @@
         "dependencies": [
             "afb69a0sumprod29a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "Determine the values of A and B from the given expression.",
         "variabilization": {},
         "oer": "",
@@ -50,13 +50,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$23**{\\circ}$$"
+            "$$23$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod29a-h2"
         ],
         "title": "What is A?",
-        "text": "In \\cos(23**{\\circ})\\sin(17**{\\circ}), what is A?",
+        "text": "In cos(23 degrees)sin(17 degrees), what is A?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -67,13 +67,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$17**{\\circ}$$"
+            "$$17$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod29a-h2"
         ],
         "title": "What is B?",
-        "text": "In \\cos(23**{\\circ})\\sin(17**{\\circ}), what is B?",
+        "text": "In cos(23 degrees)sin(17 degrees), what is B?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -96,13 +96,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$40**{\\circ}$$"
+            "$$40$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod29a-h3"
         ],
         "title": "What is $$A+B$$?",
-        "text": "Calculate 23**{\\circ} + 17**{\\circ}.",
+        "text": "Calculate $$23$$ degrees + $$17$$ degrees.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -113,13 +113,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$6**{\\circ}$$"
+            "$$6$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod29a-h3"
         ],
         "title": "What is A-B?",
-        "text": "Calculate 23**{\\circ} - 17**{\\circ}.",
+        "text": "Calculate $$23$$ degrees - $$17$$ degrees.",
         "variabilization": {},
         "oer": "",
         "license": ""

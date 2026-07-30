@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the correct sum-to-product formula",
-        "text": "Recall the sum-to-product formulas. Which one applies to \\sin A + \\sin B?",
+        "text": "Recall the sum-to-product formulas. Which one applies to sin(A) + sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2\\sin((A+B)/2)\\cos((A-B)/2)$$"
+            "$$2sin\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod34a-h1"
         ],
         "title": "Recall the formula",
-        "text": "What is the sum-to-product formula for \\sin A + \\sin B?",
+        "text": "What is the sum-to-product formula for sin(A) + sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$2\\sin((A+B)/2)\\cos((A-B)/2)$$",
-            "$$2\\cos((A+B)/2)\\sin((A-B)/2)$$",
-            "$$2\\cos((A+B)/2)\\cos((A-B)/2)$$",
-            "$$2\\sin((A+B)/2)\\sin((A-B)/2)$$"
+            "$$2sin\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$",
+            "$$2cos\\left(\\frac{A+B}{2}\\right) sin\\left(\\frac{A-B}{2}\\right)$$",
+            "$$2cos\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$",
+            "$$2sin\\left(\\frac{A+B}{2}\\right) sin\\left(\\frac{A-B}{2}\\right)$$"
         ]
     },
     {
@@ -38,7 +38,7 @@
         "dependencies": [
             "afb69a0sumprod34a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "Determine the values of A and B from the given expression.",
         "variabilization": {},
         "oer": "",
@@ -50,13 +50,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$14**{\\circ}$$"
+            "$$14$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod34a-h2"
         ],
         "title": "What is B?",
-        "text": "In \\sin(76**{\\circ})+\\sin(14**{\\circ}), what is the value of B?",
+        "text": "In sin(76 degrees)+sin(14 degrees), what is the value of B?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -79,7 +79,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$45**{\\circ}$$"
+            "$$45$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod34a-h3"

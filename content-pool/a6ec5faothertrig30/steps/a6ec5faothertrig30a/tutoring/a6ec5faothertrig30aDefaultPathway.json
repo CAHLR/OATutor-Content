@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Equation",
-        "text": "Recall that cosine functions follow the form $$h=\\operatorname{Acos}\\left(x\\right)+C$$, where A is the amplitude and C shifts the function vertically.",
+        "text": "Recall that cosine functions follow the form $$h$$ $$=$$ $$\\operatorname{Acos}\\left(x\\right)+C$$, where A is the amplitude and C shifts the function vertically.",
         "variabilization": {},
         "oer": "",
         "license": ""

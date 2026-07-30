@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Applying the product-to-sum formula",
-        "text": "Recall the product-to-sum formula for \\sin A \\sin B.",
+        "text": "Recall the product-to-sum formula for sin(A) sin(B).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\sin$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ $$(\\cos(A-B)$$ $$-$$ \\cos(A+B))$$"
+            "sin(A) $$sin(B)=\\frac{1}{2}$$ $$cos\\left(A-B\\right)-cos\\left(A+B\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h1"
         ],
         "title": "Identify the correct formula",
-        "text": "Which product-to-sum formula should be used for \\sin A \\sin B?",
+        "text": "Which product-to-sum formula should be used for sin(A) sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\sin$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ $$(\\cos(A-B)$$ $$-$$ \\cos(A+B))$$",
-            "$$\\sin$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ $$(\\cos(A-B)$$ + \\cos(A+B))$$",
-            "$$\\sin$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\sin(A+B) $$-$$ $$\\sin(A-B))$$",
-            "$$\\sin$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ $$\\frac{1}{2}$$ (\\cos(A+B) $$-$$ $$\\cos(A-B))$$"
+            "sin(A) $$sin(B)=\\frac{1}{2}$$ $$cos\\left(A-B\\right)-cos\\left(A+B\\right)$$",
+            "sin(A) $$sin(B)=\\frac{1}{2}$$ $$cos\\left(A-B\\right)+cos\\left(A+B\\right)$$",
+            "sin(A) $$sin(B)=\\frac{1}{2}$$ $$sin\\left(A+B\\right)-sin\\left(A-B\\right)$$",
+            "sin(A) $$sin(B)=\\frac{1}{2}$$ $$cos\\left(A+B\\right)-cos\\left(A-B\\right)$$"
         ]
     },
     {
@@ -50,21 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\cos(A-B)$$ $$-$$ \\cos(A+B)$$"
+            "$$cos\\left(A-B\\right)-cos\\left(A+B\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h2"
         ],
         "title": "Simplify the formula",
-        "text": "If \\sin A \\sin B $$=$$ $$\\frac{1}{2}$$ $$(\\cos(A-B)$$ - \\cos(A+B)), what is $$2$$ \\sin A \\sin B?",
+        "text": "If sin(A) sin(B) $$=$$ $$\\frac{1}{2}$$ $$(cos(A-B)$$ - cos(A+B)), what is $$2$$ sin(A) sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\cos(A-B)$$ $$-$$ \\cos(A+B)$$",
-            "$$\\cos(A-B)$$ + \\cos(A+B)$$",
-            "$$\\sin(A+B) $$-$$ $$\\sin(A-B)$$",
-            "$$\\cos(A+B) $$-$$ $$\\cos(A-B)$$"
+            "$$cos\\left(A-B\\right)-cos\\left(A+B\\right)$$",
+            "$$cos\\left(A-B\\right)+cos\\left(A+B\\right)$$",
+            "$$sin\\left(A+B\\right)-sin\\left(A-B\\right)$$",
+            "$$cos\\left(A+B\\right)-cos\\left(A-B\\right)$$"
         ]
     },
     {
@@ -73,7 +73,7 @@
         "dependencies": [
             "afb69a0sumprod30a-h2"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "Determine the values of A and B from the given expression.",
         "variabilization": {},
         "oer": "",
@@ -85,13 +85,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$100**{\\circ}$$"
+            "$$100$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h3"
         ],
         "title": "What is A?",
-        "text": "In 2\\sin(100**{\\circ})\\sin(20**{\\circ}), what is A?",
+        "text": "In 2sin(100 degrees)sin(20 degrees), what is A?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -102,13 +102,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$20**{\\circ}$$"
+            "$$20$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h3"
         ],
         "title": "What is B?",
-        "text": "In 2\\sin(100**{\\circ})\\sin(20**{\\circ}), what is B?",
+        "text": "In 2sin(100 degrees)sin(20 degrees), what is B?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -131,13 +131,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$120**{\\circ}$$"
+            "$$120$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h4"
         ],
         "title": "What is $$A+B$$?",
-        "text": "Calculate 100**{\\circ} + 20**{\\circ}.",
+        "text": "Calculate $$100$$ degrees + $$20$$ degrees.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -148,13 +148,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$80**{\\circ}$$"
+            "$$80$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod30a-h4"
         ],
         "title": "What is A-B?",
-        "text": "Calculate 100**{\\circ} - 20**{\\circ}.",
+        "text": "Calculate $$100$$ degrees - $$20$$ degrees.",
         "variabilization": {},
         "oer": "",
         "license": ""

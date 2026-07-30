@@ -15,12 +15,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\sin$$ $$x$$"
+            "$$-sin(x)$$"
         ],
         "dependencies": [
             "a649252angle44a-h1"
         ],
-        "title": "What is $$\\sin(-x)$$ equal to?",
+        "title": "What is $$sin(-x)$$ equal to?",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -32,12 +32,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\cos$$ $$x$$"
+            "cos(x)"
         ],
         "dependencies": [
             "a649252angle44a-h1"
         ],
-        "title": "What is $$\\cos(-x)$$ equal to?",
+        "title": "What is $$cos(-x)$$ equal to?",
         "text": "",
         "variabilization": {},
         "oer": "",
@@ -50,7 +50,7 @@
             "a649252angle44a-h1"
         ],
         "title": "Apply the double angle identity for sine",
-        "text": "Substitute the simplified terms and use the identity $$\\sin(2x)$$ $$=$$ $$2\\sin$$ $$x\\cos$$ $$x$$.",
+        "text": "Substitute the simplified terms and use the identity sin(2x) $$=$$ 2sin xcos $$x$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -61,7 +61,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$-2(-\\sin$$ $$x)(\\cos$$ $$x)$$"
+            "$$-2(-sin(x))(cos(x))$$"
         ],
         "dependencies": [
             "a649252angle44a-h2"
@@ -72,10 +72,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$-2(-\\sin$$ $$x)(\\cos$$ $$x)$$",
-            "$$-2(\\sin$$ $$x)(\\cos$$ $$x)$$",
-            "$$2(-\\sin$$ $$x)(\\cos$$ $$x)$$",
-            "$$-2(-\\sin$$ $$x)(-\\cos$$ $$x)$$"
+            "$$-2(-sin(x))(cos(x))$$",
+            "$$-2(sin(x))(cos(x))$$",
+            "$$2(-sin(x))(cos(x))$$",
+            "$$-2(-sin(x))(-cos(x))$$"
         ]
     },
     {
@@ -84,7 +84,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2\\sin$$ $$x\\cos$$ $$x$$ $$=$$ $$\\sin(2x)$$"
+            "2sin xcos $$x=sin(2x)$$"
         ],
         "dependencies": [
             "a649252angle44a-h2"
@@ -95,10 +95,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$2\\sin$$ $$x\\cos$$ $$x$$ $$=$$ $$\\sin(2x)$$",
-            "$$2\\sin$$ $$x\\cos$$ $$x$$ $$=$$ $$\\cos(2x)$$",
-            "$$2\\sin$$ $$x\\cos$$ $$x$$ $$=$$ $$\\sin(x)$$",
-            "$$\\sin$$ $$x\\cos$$ $$x$$ $$=$$ $$\\sin(2x)$$"
+            "2sin xcos $$x=sin(2x)$$",
+            "2sin xcos $$x=cos(2x)$$",
+            "2sin xcos $$x=sin(x)$$",
+            "sin xcos $$x=sin(2x)$$"
         ]
     }
 ]

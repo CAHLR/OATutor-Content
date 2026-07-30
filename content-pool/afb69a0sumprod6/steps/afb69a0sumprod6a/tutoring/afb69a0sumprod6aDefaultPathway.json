@@ -16,7 +16,7 @@
             "afb69a0sumprod6a-h1"
         ],
         "title": "Apply difference of cosines to the numerator.",
-        "text": "How can we simplify the numerator using $$\\cos$$ $$A$$ $$-$$ $$\\cos$$ $$B$$ $$=$$ $$-2$$ \\sin\\left(\\frac{A+B}{2}\\right) $$\\sin\\left(\\frac{A-B}{2}\\right)$$?",
+        "text": "How can we simplify the numerator using cos(A) - cos(B) $$=$$ $$-2$$ $$sin\\left(\\frac{A+B}{2}\\right)$$ $$sin\\left(\\frac{A-B}{2}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-2\\sin(3t)\\sin(t)$$"
+            "$$-2sin(3t)sin(t)$$"
         ],
         "dependencies": [
             "afb69a0sumprod6a-h2"
@@ -45,7 +45,7 @@
             "afb69a0sumprod6a-h2"
         ],
         "title": "Apply sum of sines to the denominator.",
-        "text": "How can we simplify the denominator using $$\\sin$$ $$A$$ + $$\\sin$$ $$B$$ $$=$$ $$2$$ \\sin\\left(\\frac{A+B}{2}\\right) $$\\cos\\left(\\frac{A-B}{2}\\right)$$?",
+        "text": "How can we simplify the denominator using sin(A) + sin(B) $$=$$ $$2$$ $$sin\\left(\\frac{A+B}{2}\\right)$$ $$cos\\left(\\frac{A-B}{2}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -56,7 +56,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$2\\sin(3t)\\cos(t)$$"
+            "2sin(3t)cos(t)"
         ],
         "dependencies": [
             "afb69a0sumprod6a-h3"
@@ -86,7 +86,7 @@
             "afb69a0sumprod6a-h2"
         ],
         "title": "Set up the fraction & cancel common terms.",
-        "text": "Our fraction becomes $$\\frac{-2\\sin(3t)\\sin(t)}{2\\sin(3t)\\cos(t)}$$. $$We$$ $$can$$ $$cancel$$ $$2$$ $$and$$ $$\\$sin(3t)\\$$$ $$from$$ $$the$$ $$top$$ $$and$$ $$bottom$$ $$to$$ $$get$$ $$-\\frac{\\sin(t)}{\\cos(t)}$$. $$Can$$ $$we$$ $$simplify$$ $$further$$?",
+        "text": "Our fraction becomes $$\\frac{\\left(-2sin\\left(3t\\right) sin\\left(t\\right)\\right)}{2sin\\left(3t\\right) cos\\left(t\\right)}$$. We can cancel $$2$$ and sin(3t) from the top and bottom to get $$\\frac{-sin\\left(t\\right)}cos^$\\left(t\\righ$$. Can we simplify further?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -98,7 +98,7 @@
             "afb69a0sumprod6a-h3"
         ],
         "title": "Sine over cosine identity",
-        "text": "Recall that $$\\frac{\\sin$$ $$t}{\\cos$$ $$t$$} $$=$$ $$\\tan$$ $$t$$. $$Can$$ $$we$$ $$use$$ $$this$$?",
+        "text": "Recall that $$\\fracsin^c\\left(t\\right)os\\left(t\\right)}$$ $$=$$ tan(t). Can we use this?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -114,7 +114,7 @@
         "dependencies": [
             "afb69a0sumprod6a-h4"
         ],
-        "title": "Simplify $$-\\frac{\\sin(t)}{\\cos(t)}$$ with the previous identity.",
+        "title": "Simplify $$\\frac{-sin\\left(t\\right)}cos^$\\left(t\\righ$$ with the previous identity.",
         "text": "",
         "variabilization": {},
         "oer": "",

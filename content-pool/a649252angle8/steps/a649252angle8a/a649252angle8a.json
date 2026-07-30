@@ -4,8 +4,9 @@
         "$$\\frac{4\\sqrt{17}}{17}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\sin(\\frac{\\alpha}{2})$$",
+    "stepTitle": "$$sin\\left(\\frac{\\alpha}{2}\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{4\\sqrt{17}}{17}$$"
 }

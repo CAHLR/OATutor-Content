@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\cos(2\\theta)}{sin**{2}\\theta}$$"
+            "$$\\fraccos^s\\left(2\\theta\\right)in^2\\left(\\theta\\right)}$$"
         ],
         "dependencies": [
             "afb69a0sumprod7a-h1"
         ],
         "title": "Identify the more complex side",
-        "text": "Which side of the identity, $$csc**{2}\\theta-2$$ or $$\\frac{\\cos(2\\theta)}{sin**{2}\\theta}$$ appears more complex and might be easier to simplify?",
+        "text": "Which side of the identity, $${\\operatorname{csc}\\left(\\theta\\right)}^2-2$$ or $$\\fraccos^s\\left(2\\theta\\right)in^2\\left(\\theta\\right)}$$ appears more complex and might be easier to simplify?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -56,13 +56,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$csc**{2}\\theta-2$$"
+            "$${\\operatorname{csc}\\left(\\theta\\right)}^2-2$$"
         ],
         "dependencies": [
             "afb69a0sumprod7a-h3"
         ],
         "title": "Final simplification",
-        "text": "Simplify $$\\frac{1-2\\sin**{2}\\theta}{sin**{2}\\theta}$$ by splitting the fraction and applying the reciprocal identity for $$1/sin**{2}\\theta$$.",
+        "text": "Simplify $$\\frac{1-2sin^2\\left(\\theta\\right)}{{ssin^2eft(\\theta\\right)}$$ by splitting the fraction and applying the reciprocal identity for $$\\frac{1}{sin^2\\left(\\theta\\right)}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

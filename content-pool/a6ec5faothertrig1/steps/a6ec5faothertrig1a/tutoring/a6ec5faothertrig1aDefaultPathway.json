@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Tangent and Secant",
-        "text": "Recall that $$\\tan(x)=\\frac{\\sin(x)}{\\cos(x)}$$ and $$\\sec(x)=\\frac{1}{\\cos(x)}.$$",
+        "text": "Recall that tan(x) $$=$$ $$\\fracsin^c\\left(x\\right)os\\left(x\\right)}$$ and sec(x) $$=$$ $$\\frac{1}cos^$\\left(x\\righ$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -21,7 +21,7 @@
             "a6ec5faothertrig1a-h1"
         ],
         "title": "Set Denominator to $$0$$",
-        "text": "When is $$cos(x)=0$$?",
+        "text": "When is cos(x) $$=$$ 0?",
         "variabilization": {},
         "oer": "",
         "license": "",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Pythagorean Identity",
-        "text": "Recall that $$\\sin**2(A) + \\cos**2(A) $$=$$ $$1$$.",
+        "text": "Recall that $$sin^2\\left(A\\right)$$ + $$cos^2\\left(A\\right)$$ $$=$$ $$1$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a649252angle19b-h1"
         ],
-        "title": "Substitute $$\\cos(2\\theta)$$",
-        "text": "Substitute the given $$\\cos(2\\theta)$$ into the identity. What is $$\\sin**2(2\\theta)$$?",
+        "title": "Substitute cos(2theta)",
+        "text": "Substitute the given cos(2theta) into the identity. What is $$sin^2\\left(2\\theta\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a649252angle19b-h1"
         ],
-        "title": "Quadrant of $$2\\theta$$",
-        "text": "Given $$180**{\\circ}\\leq\\theta\\leq270**{\\circ}$$, $$determine$$ $$the$$ $$range$$ $$for$$ $$2\\theta$$ and its effective quadrant.",
+        "title": "Quadrant of 2theta",
+        "text": "Given $$180$$ degrees270 degrees, determine the range for 2theta and its effective quadrant.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a649252angle19b-h2"
         ],
-        "title": "Sign of $$\\sin(2\\theta)$$",
-        "text": "Use the quadrant of $$2\\theta$$ to determine the sign of $$\\sin(2\\theta)$$.",
+        "title": "Sign of sin(2theta)",
+        "text": "Use the quadrant of 2theta to determine the sign of sin(2theta).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -62,7 +62,7 @@
             "a649252angle19b-h3"
         ],
         "title": "Effective Quadrant",
-        "text": "In the range $$360**{\\circ}\\leq2\\theta\\leq540**{\\circ}$$, $$2\\theta$$ is equivalent to an angle in which quadrant?",
+        "text": "In the range $$360$$ degrees2theta540 degrees, 2theta is equivalent to an angle in which quadrant?",
         "variabilization": {},
         "oer": "",
         "license": "",

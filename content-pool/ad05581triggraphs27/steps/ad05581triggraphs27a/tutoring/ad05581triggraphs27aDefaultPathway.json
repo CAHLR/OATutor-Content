@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "General Form of a Sine Function",
-        "text": "To determine the final equation, we first need to identify each value in the general form of the sinusoidal function, which is $$\\operatorname{Asin}\\left(Bx\\right)+D$$.",
+        "text": "To determine the final equation, we first need to identify each value in the general form of the sinusoidal function, which is $$\\operatorname{Asin}\\left(B\\left(x-C\\right)\\right)+D$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -31,7 +31,7 @@
             "ad05581triggraphs27a-h2"
         ],
         "title": "Direction",
-        "text": "The graph direction at (starting from $$x=0)$$ decreases first, then increases, which is the opposite of the general sine function. This tells us our direction is negative and that $$A=-1$$",
+        "text": "The graph direction at (starting from $$x$$ $$=$$ 0) decreases first, then increases, which is the opposite of the general sine function. This tells us our direction is negative and that A $$=$$ $$-1$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -46,7 +46,7 @@
         ],
         "dependencies": [],
         "title": "Finding the period",
-        "text": "To find the period, find the $$x-difference$$ between two troughs or two crests (one full cycle of the graph). What is it? (Using this, you can find B=2pi/period)",
+        "text": "To find the period, find the $$x-difference$$ between two troughs or two crests (one full cycle of the graph). What is it? (Using this, you can find B $$=$$ 2pi/period)",
         "variabilization": {},
         "oer": "",
         "license": ""

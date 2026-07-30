@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall the product-to-sum formula for cosine",
-        "text": "The product-to-sum formula for two cosines is $$2\\cos(A)\\cos(B)$$ $$=$$ $$\\cos(A-B)$$ + \\cos(A+B).$$$$",
+        "text": "The product-to-sum formula for two cosines is 2cos(A)cos(B) $$=$$ $$cos(A-B)$$ + $$cos\\left(A+B\\right)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "afb69a0sumprod1a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$. $$Calculate$$ $$their$$ $$sum$$ $$and$$ $$difference$$.",
+        "title": "Identify A and B. Calculate their sum and difference.",
         "text": "Once you've identified A and B, calculate the sum and difference of these angles.",
         "variabilization": {},
         "oer": "",
@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$4\\theta$$"
+            "$$\\frac{7x}{2}$$"
         ],
         "dependencies": [
             "afb69a0sumprod1a-h2"
         ],
-        "title": "Identify $$A$$.",
-        "text": "Find the value of $$A$$.",
+        "title": "Identify A.",
+        "text": "Find the value of A.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$2\\theta$$"
+            "$$\\frac{3x}{2}$$"
         ],
         "dependencies": [
             "afb69a0sumprod1a-h2"
         ],
-        "title": "Identify $$B$$.",
-        "text": "Find the value of $$B$$.",
+        "title": "Identify B.",
+        "text": "Find the value of B.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -66,8 +66,8 @@
         "dependencies": [
             "afb69a0sumprod1a-h2"
         ],
-        "title": "Calculate $$A-B$$",
-        "text": "What is $$A-B$$?",
+        "title": "Calculate A-B",
+        "text": "What is A-B?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -96,7 +96,7 @@
             "afb69a0sumprod1a-h2"
         ],
         "title": "Substitute into the formula",
-        "text": "Substitute the calculated values of $$A-B$$ and $$A+B$$ into the product-to-sum formula.",
+        "text": "Substitute the calculated values of A-B and $$A+B$$ into the product-to-sum formula.",
         "variabilization": {},
         "oer": "",
         "license": ""

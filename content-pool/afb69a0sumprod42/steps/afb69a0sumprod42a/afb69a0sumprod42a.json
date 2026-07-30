@@ -1,11 +1,12 @@
 {
     "id": "afb69a0sumprod42a",
     "stepAnswer": [
-        "$$4sinxcos**{2}x$$"
+        "$$4sin\\left(x\\right) cos^2\\left(x\\right)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Simplify the expression $$\\sin(x)+\\sin(3x)$$ to verify the identity.",
+    "stepTitle": "Simplify the expression $$sin\\left(x\\right)+sin\\left(3x\\right)$$ to verify the identity.",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$4sin\\left(x\\right) cos^2\\left(x\\right)$$"
 }

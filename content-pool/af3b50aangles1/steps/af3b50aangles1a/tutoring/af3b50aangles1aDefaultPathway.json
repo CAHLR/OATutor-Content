@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Starting Point",
-        "text": "A full rotation (360\u00b0 or $$2\\pi$$ radians) brings you back to the starting point. So, what happens if you add or subtract full rotations from any given angle?",
+        "text": "A full rotation (360 degrees or $$2\\pi$$ radians) brings you back to the starting point. So, what happens if you add or subtract full rotations from any given angle?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -42,7 +42,7 @@
             "af3b50aangles1a-h2"
         ],
         "title": "Number of Coterminal angles",
-        "text": "Considering that you can keep adding or subtracting 360\u00b0 (or 2pi) multiple times, how many coterminal angles can exist?",
+        "text": "Considering that you can keep adding or subtracting $$360$$ degrees (or 2pi) multiple times, how many coterminal angles can exist?",
         "variabilization": {},
         "oer": "",
         "license": "",

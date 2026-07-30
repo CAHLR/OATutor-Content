@@ -4,7 +4,7 @@
         "$$5$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate the transformed functions. If $$cscx=-5$$, find $$csc(-x)$$.",
+    "stepTitle": "Evaluate the transformed functions. If csc(x) $$=$$ $$-5$$, find $$csc(-x)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

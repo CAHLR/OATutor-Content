@@ -16,7 +16,7 @@
             "aa4d8eereal8a-h1"
         ],
         "title": "Apply Even-Odd Identities",
-        "text": "This means that $$cot(-x)=-cot(x)$$, $$cos(-x)=cos(x)$$, and $$sin(-x)=-sin(x)$$.",
+        "text": "This means that $$cot(-x)$$ $$=$$ $$-cot(x)$$, $$cos(-x)$$ $$=$$ cos(x), and $$sin(-x)$$ $$=$$ $$-sin(x)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "aa4d8eereal8a-h2"
         ],
         "title": "Rewrite Each Term",
-        "text": "Apply the identities to each part of the expression: $$cot\\left(-x\\right) cos\\left(-x\\right)+sin\\left(-x\\right)=\\left(-cot}\\left(x\\right)\\right) cos\\left(x\\right)+\\operatorname{\\left(-sin\\left(x\\right)\\right)=-cot(x)cos(x)-sin(x)$$",
+        "text": "Apply the identities to each part of the expression: $$cot\\left(-x\\right) cos\\left(-x\\right)+sin\\left(-x\\right)$$ $$=$$ $$\\left(-cot}\\left(x\\right)\\right) cos\\left(x\\right)+\\operatorname{\\left(-sin\\left(x\\right)\\right)$$ $$=$$ $$-cot(x)cos(x)-sin(x)$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "aa4d8eereal8a-h3"
         ],
-        "title": "Express cotx in Terms of sinx and cosx",
-        "text": "Recall that $$\\cot(x)=\\frac{\\cos(x)}{\\sin(x)}.$$ Substitute this in: $$-\\left(\\frac{\\cos(x)}{\\sin(x)}\\right)\\cos(x)-\\sin(x)=-\\frac{\\cos**2(x)+\\sin**2(x)}{\\sin(x)}=-\\frac{1}{\\sin(x)}=-\\csc(x).$$",
+        "title": "Express cot(x) in Terms of sin(x) and cos(x)",
+        "text": "Recall that cot(x) $$=$$ $$\\fraccos^i\\left(x\\right)n^$\\left(x\\righ$$. Substitute this in: $$-\\left(\\fraccos^i\\left(x\\right)n^r\\left(x\\right)ight) cos\\left(x\\right)-sin\\left(x\\right)$$ $$=$$ $$\\frac{-\\left(cos^2\\left(x\\right)+sin^2\\left(x\\right)\\right)}{ssin^$eft(x\\righ$$ $$=$$ $$\\frac{-1}sin^$\\left(x\\righ$$ $$=$$ $$-csc(x)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

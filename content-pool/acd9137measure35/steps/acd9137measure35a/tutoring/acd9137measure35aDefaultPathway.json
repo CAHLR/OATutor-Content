@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Percent uncertainty formula",
-        "text": "Percent $$uncertainty=(absolute$$ $$\\frac{uncertainty}{measured}$$ value)*100%. Plug in $$0.3$$ and $$5.1$$.",
+        "text": "$$\\text{Percent$$ $$uncertainty$$} $$=$$ $$\\left(\\frac{\\text{absolute$$ $$uncertainty}}{\\text{measured$$ $$value}}\\right)\\times$$ $$100\\\\%$$",
         "variabilization": {},
         "oer": "",
         "license": ""

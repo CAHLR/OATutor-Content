@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Half-angle formula for cosine",
-        "text": "Recall the half-angle formula for cosine: $$\\cos(\\frac{\\theta}{2}) $$=$$ \\pm\\sqrt{\\frac{1+\\cos(\\theta)}{2}}$$",
+        "text": "Recall the half-angle formula for cosine: $$cos\\left(\\frac{\\theta}{2}\\right)$$ $$=$$ $$\\pm \\sqrt{\\frac{1+cos\\left(\\theta\\right)}{2}}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a649252angle25a-h1"
         ],
-        "title": "Identify $$\\theta$$",
-        "text": "If $$\\frac{\\theta}{2} $$=$$ $$\\frac{7\\pi}{8}$$, $$what$$ $$is$$ $$\\theta$$?",
+        "title": "Identify theta",
+        "text": "If $$\\frac{\\theta}{2}$$ $$=$$ $$\\frac{7\\pi}{8}$$, what is theta?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a649252angle25a-h1"
         ],
-        "title": "Evaluate $$\\cos(\\theta)$$",
-        "text": "Determine $$\\theta$$ such that $$\\frac{\\theta}{2} $$=$$ $$\\frac{7\\pi}{8}$$ and evaluate its cosine.",
+        "title": "Evaluate cos(theta)",
+        "text": "Determine theta such that $$\\frac{\\theta}{2}$$ $$=$$ $$\\frac{7\\pi}{8}$$ and evaluate its cosine.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -49,8 +49,8 @@
         "dependencies": [
             "a649252angle25a-h2"
         ],
-        "title": "Evaluate $$\\cos(\\theta)$$ value",
-        "text": "What is the exact value of $$\\cos(\\frac{7\\pi}{4})$$?",
+        "title": "Evaluate cos(theta) value",
+        "text": "What is the exact value of $$cos\\left(\\frac{7\\pi}{4}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

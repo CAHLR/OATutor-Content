@@ -4,7 +4,7 @@
         "$$(\\theta)=\\frac{\\pi}{3}$$, pi"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Write the following trigonometric expression as an algebra expression: $$2cos^2\\left(\\theta\\right)+cos\\left(\\theta\\right)-1$$.",
+    "stepTitle": "Find the zeros of the trigonometric expression: $$2cos^2\\left(\\theta\\right)+cos\\left(\\theta\\right)-1$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
@@ -12,6 +12,6 @@
     "choices": [
         "$$(\\theta)=\\frac{\\pi}{3}$$, pi",
         "$$(\\theta)=\\frac{\\pi}{3}$$, $$2\\pi$$",
-        "$$(\\theta)=\\frac{\\pi}{3}$$, $$2$$"
+        "$$(\\theta)=\\frac{\\pi}{3}$$, $$\\frac{5\\pi}{3}$$"
     ]
 }

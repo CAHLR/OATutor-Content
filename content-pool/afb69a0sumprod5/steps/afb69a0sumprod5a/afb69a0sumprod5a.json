@@ -4,8 +4,9 @@
         "$$\\frac{\\sqrt{2}}{2}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate $$\\cos(15**{\\circ})-\\cos(75**{\\circ}).$$",
+    "stepTitle": "Evaluate cos(15 $$degrees)-cos(75$$ degrees).",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{\\sqrt{2}}{2}$$"
 }

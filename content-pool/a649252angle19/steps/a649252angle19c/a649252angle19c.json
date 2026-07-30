@@ -4,7 +4,7 @@
         "$$1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate $$\\tan(2\\theta)$$ given $$\\cos(2\\theta)=\\frac{1}{\\sqrt{2}}$$ and $$180**{\\circ}\\leq\\theta\\leq270**{\\circ}$$",
+    "stepTitle": "Evaluate tan(2theta) given cos(2theta) $$=$$ $$\\frac{1}{\\sqrt{2}}$$ and $$180$$ degrees270 degrees",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

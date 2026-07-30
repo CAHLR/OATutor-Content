@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Cofunction Identity Reminder",
-        "text": "$$csc(\\theta)=sec(90\\degree-\\theta)$$",
+        "text": "Use the identity csc(theta) $$=$$ sec(90 degrees-theta).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "adaa3f9righttrig7a-h1"
         ],
         "title": "Apply the Identity",
-        "text": "Plug in 21\u00b0 to get $$sec(90\\degree-21\\degree)=sec(69\\degree)$$",
+        "text": "Substitute $$21$$ degrees: sec(90 degrees-21 degrees) $$=$$ sec(69 degrees).",
         "variabilization": {},
         "oer": "",
         "license": ""

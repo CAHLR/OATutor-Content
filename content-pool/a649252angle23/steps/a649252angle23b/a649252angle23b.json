@@ -4,8 +4,9 @@
         "$$\\frac{\\sqrt{3}}{2}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate $$\\cos(2x)$$ given $$x$$ $$=$$ -\\frac{11pi}{12}$$",
+    "stepTitle": "Evaluate cos(2x) given $$x$$ $$=$$ $$\\frac{-\\left(11\\pi\\right)}{12}$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$\\frac{\\sqrt{3}}{2}$$"
 }

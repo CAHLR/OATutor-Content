@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{11pi}{6}$$"
+            "$$\\frac{11\\pi}{6}$$"
         ],
         "dependencies": [
             "a649252angle24c-h1"
         ],
         "title": "Calculate $$2x$$",
-        "text": "If $$x$$ $$=$$ \\frac{11pi}{12}$$, $$what$$ $$is$$ $$2x$$?",
+        "text": "If $$x$$ $$=$$ $$\\frac{11\\pi}{12}$$, what is $$2x$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a649252angle24c-h1"
         ],
         "title": "Find the reference angle",
-        "text": "The angle $$\\frac{11pi}{6}$$ is in Quadrant IV. Find its reference angle.",
+        "text": "The angle $$\\frac{11\\pi}{6}$$ is in Quadrant IV. Find its reference angle.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{pi}{6}$$"
+            "$$\\frac{\\pi}{6}$$"
         ],
         "dependencies": [
             "a649252angle24c-h2"
         ],
         "title": "Reference angle calculation",
-        "text": "Subtract $$\\frac{11pi}{6}$$ from $$2\\pi$$ (or $$\\frac{12pi}{6}$$) $$to$$ $$find$$ $$the$$ $$reference$$ $$angle$$.",
+        "text": "Subtract $$\\frac{11\\pi}{6}$$ from $$2\\pi$$ (or (12pi)/6) to find the reference angle.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -61,8 +61,8 @@
         "dependencies": [
             "a649252angle24c-h2"
         ],
-        "title": "Evaluate $$\\tan(\\frac{11pi}{6})$$",
-        "text": "What is the exact value of $$\\tan(\\frac{11pi}{6})$$? $$Remember$$ $$the$$ $$sign$$ $$in$$ $$Quadrant$$ $$IV$$.",
+        "title": "Evaluate $$tan\\left(\\frac{11\\pi}{6}\\right)$$",
+        "text": "What is the exact value of $$tan\\left(\\frac{11\\pi}{6}\\right)$$? Remember the sign in Quadrant IV.",
         "variabilization": {},
         "oer": "",
         "license": ""

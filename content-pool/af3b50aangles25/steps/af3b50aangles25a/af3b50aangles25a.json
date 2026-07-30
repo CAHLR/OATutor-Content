@@ -1,17 +1,18 @@
 {
     "id": "af3b50aangles25a",
     "stepAnswer": [
-        "340\u00b0"
+        "$$340$$ degrees"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "700\u00b0",
+    "stepTitle": "$$700$$ degrees",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
+    "answerLatex": "$$340$$ degrees",
     "choices": [
-        "1060\u00b0",
-        "$$-1060\\degree$$",
-        "340\u00b0",
-        "$$-340\\degree$$"
+        "$$1060$$ degrees",
+        "$$-1060$$ degrees",
+        "$$340$$ degrees",
+        "$$-340$$ degrees"
     ]
 }

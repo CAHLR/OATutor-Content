@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Metric Prefix Symbol: Micro-",
-    "stepBody": "Which symbol represents the prefix micro- $${10}^{\\left(-6\\right)}$$?",
+    "stepBody": "Which symbol represents the prefix micro- ($$10**{-6}$$)?",
     "answerType": "string",
     "variabilization": {},
     "choices": [

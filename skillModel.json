@@ -686,50 +686,6 @@
     "aade29bmod3b": [
         "models"
     ],
-    "acbe785cha1a": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1b": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1c": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1d": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1e": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1f": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1g": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1h": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1i": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1j": [
-        "chance",
-        "models"
-    ],
-    "acbe785cha1k": [
-        "chance",
-        "models"
-    ],
     "acbe785cha2a": [
         "chance",
         "models"
@@ -18491,123 +18447,6 @@
     "a9cf10atrig9a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
-    "aae56detrig1a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig10a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig11a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig12a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig13a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig15a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig16a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig17a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig18a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig19a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig2a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig20a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig21a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig22a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig23a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig24a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig25a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig26a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig27a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig28a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig29a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig3a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig3b": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig30a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig31a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig31b": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig32a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig32b": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig33a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig34a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig35a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig5a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig6a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig6b": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig6c": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig6d": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig7a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig8a": [
-        "sum_and_difference_identities"
-    ],
-    "aae56detrig9a": [
-        "sum_and_difference_identities"
-    ],
     "a649252angle1a": [
         "double_angle",
         "half_angle",
@@ -18919,6 +18758,11 @@
         "and_reduction_formulas"
     ],
     "a649252angle51a": [
+        "double_angle",
+        "half_angle",
+        "and_reduction_formulas"
+    ],
+    "a649252angle52a": [
         "double_angle",
         "half_angle",
         "and_reduction_formulas"
@@ -45439,6 +45283,12 @@
     "acd9137measure16a": [
         "units_and_standards"
     ],
+    "acd9137measure17a": [
+        "units_and_standards"
+    ],
+    "acd9137measure17b": [
+        "units_and_standards"
+    ],
     "acd9137measure18a": [
         "units_and_standards"
     ],
@@ -47550,5 +47400,2638 @@
     ],
     "a028737sound9c": [
         "speed_of_sound"
+    ],
+    "af9a055chem1a": [
+        "module_a"
+    ],
+    "af9a055chem1b": [
+        "module_a"
+    ],
+    "af9a055chem1c": [
+        "module_a"
+    ],
+    "af9a055chem1d": [
+        "module_a"
+    ],
+    "af9a055chem1e": [
+        "module_a"
+    ],
+    "af9a055chem1f": [
+        "module_a"
+    ],
+    "af9a055chem10a": [
+        "module_a"
+    ],
+    "af9a055chem11a": [
+        "module_a"
+    ],
+    "af9a055chem11b": [
+        "module_a"
+    ],
+    "af9a055chem11c": [
+        "module_a"
+    ],
+    "af9a055chem11d": [
+        "module_a"
+    ],
+    "af9a055chem12a": [
+        "module_a"
+    ],
+    "af9a055chem13a": [
+        "module_a"
+    ],
+    "af9a055chem14a": [
+        "module_a"
+    ],
+    "af9a055chem14b": [
+        "module_a"
+    ],
+    "af9a055chem15a": [
+        "module_a"
+    ],
+    "af9a055chem2a": [
+        "module_a"
+    ],
+    "af9a055chem2b": [
+        "module_a"
+    ],
+    "af9a055chem2c": [
+        "module_a"
+    ],
+    "af9a055chem2d": [
+        "module_a"
+    ],
+    "af9a055chem3a": [
+        "module_a"
+    ],
+    "af9a055chem3b": [
+        "module_a"
+    ],
+    "af9a055chem3c": [
+        "module_a"
+    ],
+    "af9a055chem3d": [
+        "module_a"
+    ],
+    "af9a055chem4a": [
+        "module_a"
+    ],
+    "af9a055chem5a": [
+        "module_a"
+    ],
+    "af9a055chem6a": [
+        "module_a"
+    ],
+    "af9a055chem7a": [
+        "module_a"
+    ],
+    "af9a055chem7b": [
+        "module_a"
+    ],
+    "af9a055chem7c": [
+        "module_a"
+    ],
+    "af9a055chem7d": [
+        "module_a"
+    ],
+    "af9a055chem8a": [
+        "module_a"
+    ],
+    "af9a055chem9a": [
+        "module_a"
+    ],
+    "a0afc81chem1a": [
+        "module_b"
+    ],
+    "a0afc81chem10a": [
+        "module_b"
+    ],
+    "a0afc81chem11a": [
+        "module_b"
+    ],
+    "a0afc81chem12a": [
+        "module_b"
+    ],
+    "a0afc81chem13a": [
+        "module_b"
+    ],
+    "a0afc81chem14a": [
+        "module_b"
+    ],
+    "a0afc81chem15a": [
+        "module_b"
+    ],
+    "a0afc81chem15b": [
+        "module_b"
+    ],
+    "a0afc81chem15c": [
+        "module_b"
+    ],
+    "a0afc81chem15d": [
+        "module_b"
+    ],
+    "a0afc81chem15e": [
+        "module_b"
+    ],
+    "a0afc81chem16a": [
+        "module_b"
+    ],
+    "a0afc81chem17a": [
+        "module_b"
+    ],
+    "a0afc81chem18a": [
+        "module_b"
+    ],
+    "a0afc81chem19a": [
+        "module_b"
+    ],
+    "a0afc81chem2a": [
+        "module_b"
+    ],
+    "a0afc81chem20a": [
+        "module_b"
+    ],
+    "a0afc81chem3a": [
+        "module_b"
+    ],
+    "a0afc81chem4a": [
+        "module_b"
+    ],
+    "a0afc81chem5a": [
+        "module_b"
+    ],
+    "a0afc81chem6a": [
+        "module_b"
+    ],
+    "a0afc81chem7a": [
+        "module_b"
+    ],
+    "a0afc81chem8a": [
+        "module_b"
+    ],
+    "a0afc81chem9a": [
+        "module_b"
+    ],
+    "a16200bc2_1a": [
+        "module_c"
+    ],
+    "a16200bc2_2a": [
+        "module_c"
+    ],
+    "a16200bc2_3a": [
+        "module_c"
+    ],
+    "a16200bc2_4a": [
+        "module_c"
+    ],
+    "a16200bc2_4b": [
+        "module_c"
+    ],
+    "a16200bc2_4c": [
+        "module_c"
+    ],
+    "a16200bc2_4d": [
+        "module_c"
+    ],
+    "a16200bc2_5a": [
+        "module_c"
+    ],
+    "a16200bc2_6a": [
+        "module_c"
+    ],
+    "a16200bc2_7a": [
+        "module_c"
+    ],
+    "a16200bc2_8a": [
+        "module_c"
+    ],
+    "a16200bchemC1a": [
+        "module_c"
+    ],
+    "a16200bchemC1b": [
+        "module_c"
+    ],
+    "a16200bchemC1c": [
+        "module_c"
+    ],
+    "a16200bchemC1d": [
+        "module_c"
+    ],
+    "a16200bchemC1e": [
+        "module_c"
+    ],
+    "a16200bchemC1f": [
+        "module_c"
+    ],
+    "a16200bchemC2a": [
+        "module_c"
+    ],
+    "a16200bchemC3a": [
+        "module_c"
+    ],
+    "a16200bchemC3b": [
+        "module_c"
+    ],
+    "a16200bchemC3c": [
+        "module_c"
+    ],
+    "a16200bchemC3d": [
+        "module_c"
+    ],
+    "a16200bchemC4a": [
+        "module_c"
+    ],
+    "a16200bchemC4b": [
+        "module_c"
+    ],
+    "a16200bchemC4c": [
+        "module_c"
+    ],
+    "a16200bchemC4d": [
+        "module_c"
+    ],
+    "a16200bchemC5a": [
+        "module_c"
+    ],
+    "a16200bchemC6a": [
+        "module_c"
+    ],
+    "a16200bchemC7a": [
+        "module_c"
+    ],
+    "a16200bchemC7b": [
+        "module_c"
+    ],
+    "a16200bchemC8a": [
+        "module_c"
+    ],
+    "a1797b7chem10a": [
+        "module_d"
+    ],
+    "a1797b7chem11a": [
+        "module_d"
+    ],
+    "a1797b7chem12a": [
+        "module_d"
+    ],
+    "a1797b7chem13a": [
+        "module_d"
+    ],
+    "a1797b7chem14a": [
+        "module_d"
+    ],
+    "a1797b7chem15a": [
+        "module_d"
+    ],
+    "a1797b7chem16a": [
+        "module_d"
+    ],
+    "a1797b7chem17a": [
+        "module_d"
+    ],
+    "a1797b7chem18a": [
+        "module_d"
+    ],
+    "a1797b7chem19a": [
+        "module_d"
+    ],
+    "a1797b7chem2a": [
+        "module_d"
+    ],
+    "a1797b7chem2b": [
+        "module_d"
+    ],
+    "a1797b7chem2c": [
+        "module_d"
+    ],
+    "a1797b7chem20a": [
+        "module_d"
+    ],
+    "a1797b7chem20b": [
+        "module_d"
+    ],
+    "a1797b7chem20c": [
+        "module_d"
+    ],
+    "a1797b7chem20d": [
+        "module_d"
+    ],
+    "a1797b7chem21a": [
+        "module_d"
+    ],
+    "a1797b7chem3a": [
+        "module_d"
+    ],
+    "a1797b7chem3b": [
+        "module_d"
+    ],
+    "a1797b7chem3c": [
+        "module_d"
+    ],
+    "a1797b7chem4a": [
+        "module_d"
+    ],
+    "a1797b7chem5a": [
+        "module_d"
+    ],
+    "a1797b7chem5b": [
+        "module_d"
+    ],
+    "a1797b7chem5c": [
+        "module_d"
+    ],
+    "a1797b7chem6a": [
+        "module_d"
+    ],
+    "a1797b7chem7a": [
+        "module_d"
+    ],
+    "a1797b7chem8a": [
+        "module_d"
+    ],
+    "a1797b7chem9a": [
+        "module_d"
+    ],
+    "a1797b7chem9b": [
+        "module_d"
+    ],
+    "a40e287thermo1a": [
+        "module_e"
+    ],
+    "a40e287thermo10a": [
+        "module_e"
+    ],
+    "a40e287thermo10b": [
+        "module_e"
+    ],
+    "a40e287thermo10c": [
+        "module_e"
+    ],
+    "a40e287thermo10d": [
+        "module_e"
+    ],
+    "a40e287thermo10e": [
+        "module_e"
+    ],
+    "a40e287thermo10f": [
+        "module_e"
+    ],
+    "a40e287thermo10g": [
+        "module_e"
+    ],
+    "a40e287thermo10h": [
+        "module_e"
+    ],
+    "a40e287thermo10i": [
+        "module_e"
+    ],
+    "a40e287thermo10j": [
+        "module_e"
+    ],
+    "a40e287thermo11a": [
+        "module_e"
+    ],
+    "a40e287thermo11b": [
+        "module_e"
+    ],
+    "a40e287thermo11c": [
+        "module_e"
+    ],
+    "a40e287thermo12a": [
+        "module_e"
+    ],
+    "a40e287thermo13a": [
+        "module_e"
+    ],
+    "a40e287thermo13b": [
+        "module_e"
+    ],
+    "a40e287thermo14a": [
+        "module_e"
+    ],
+    "a40e287thermo14b": [
+        "module_e"
+    ],
+    "a40e287thermo14c": [
+        "module_e"
+    ],
+    "a40e287thermo2a": [
+        "module_e"
+    ],
+    "a40e287thermo2b": [
+        "module_e"
+    ],
+    "a40e287thermo2c": [
+        "module_e"
+    ],
+    "a40e287thermo3a": [
+        "module_e"
+    ],
+    "a40e287thermo3b": [
+        "module_e"
+    ],
+    "a40e287thermo3c": [
+        "module_e"
+    ],
+    "a40e287thermo4a": [
+        "module_e"
+    ],
+    "a40e287thermo4b": [
+        "module_e"
+    ],
+    "a40e287thermo5a": [
+        "module_e"
+    ],
+    "a40e287thermo6a": [
+        "module_e"
+    ],
+    "a40e287thermo7a": [
+        "module_e"
+    ],
+    "a40e287thermo8a": [
+        "module_e"
+    ],
+    "a40e287thermo9a": [
+        "module_e"
+    ],
+    "ae40a3eacidbase1a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase1b": [
+        "module_g"
+    ],
+    "ae40a3eacidbase1c": [
+        "module_g"
+    ],
+    "ae40a3eacidbase10a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase11a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase12a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase14a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase14b": [
+        "module_g"
+    ],
+    "ae40a3eacidbase14c": [
+        "module_g"
+    ],
+    "ae40a3eacidbase15a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase16a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase2a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase2b": [
+        "module_g"
+    ],
+    "ae40a3eacidbase2c": [
+        "module_g"
+    ],
+    "ae40a3eacidbase3a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase4a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase5a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase6a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase6b": [
+        "module_g"
+    ],
+    "ae40a3eacidbase6c": [
+        "module_g"
+    ],
+    "ae40a3eacidbase6d": [
+        "module_g"
+    ],
+    "ae40a3eacidbase6e": [
+        "module_g"
+    ],
+    "ae40a3eacidbase8a": [
+        "module_g"
+    ],
+    "ae40a3eacidbase9a": [
+        "module_g"
+    ],
+    "a132811electro1a": [
+        "module_h"
+    ],
+    "a132811electro1b": [
+        "module_h"
+    ],
+    "a132811electro10a": [
+        "module_h"
+    ],
+    "a132811electro2a": [
+        "module_h"
+    ],
+    "a132811electro2b": [
+        "module_h"
+    ],
+    "a132811electro2c": [
+        "module_h"
+    ],
+    "a132811electro2d": [
+        "module_h"
+    ],
+    "a132811electro3a": [
+        "module_h"
+    ],
+    "a132811electro3b": [
+        "module_h"
+    ],
+    "a132811electro3c": [
+        "module_h"
+    ],
+    "a132811electro3d": [
+        "module_h"
+    ],
+    "a132811electro3e": [
+        "module_h"
+    ],
+    "a132811electro4a": [
+        "module_h"
+    ],
+    "a132811electro4b": [
+        "module_h"
+    ],
+    "a132811electro4c": [
+        "module_h"
+    ],
+    "a132811electro5a": [
+        "module_h"
+    ],
+    "a132811electro5b": [
+        "module_h"
+    ],
+    "a132811electro5c": [
+        "module_h"
+    ],
+    "a132811electro5d": [
+        "module_h"
+    ],
+    "a132811electro6a": [
+        "module_h"
+    ],
+    "a132811electro6b": [
+        "module_h"
+    ],
+    "a132811electro6c": [
+        "module_h"
+    ],
+    "a132811electro6d": [
+        "module_h"
+    ],
+    "a132811electro7a": [
+        "module_h"
+    ],
+    "a132811electro7b": [
+        "module_h"
+    ],
+    "a132811electro7c": [
+        "module_h"
+    ],
+    "a132811electro7d": [
+        "module_h"
+    ],
+    "a132811electro7e": [
+        "module_h"
+    ],
+    "a132811electro7f": [
+        "module_h"
+    ],
+    "a132811electro8a": [
+        "module_h"
+    ],
+    "a132811electro9a": [
+        "module_h"
+    ],
+    "a132811electro9b": [
+        "module_h"
+    ],
+    "a132811electro9c": [
+        "module_h"
+    ],
+    "a7077a0A111-algdef-P01a": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P01b": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P02a": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P02b": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P03a": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P03b": [
+        "general_vs_specific_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P04a": [
+        "methods_of_verification_of_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P05a": [
+        "methods_of_verification_of_algebraic_equations"
+    ],
+    "a7077a0A111-algdef-P06a": [
+        "methods_of_verification_of_algebraic_equations"
+    ],
+    "a2a30a8A112-algrules-P01a": [
+        "rules_of_addition"
+    ],
+    "a2a30a8A112-algrules-P02a": [
+        "rules_of_addition"
+    ],
+    "a2a30a8A112-algrules-P03a": [
+        "rules_of_addition"
+    ],
+    "a2a30a8A112-algrules-P04a": [
+        "rules_of_multiplication"
+    ],
+    "a2a30a8A112-algrules-P05a": [
+        "rules_of_multiplication"
+    ],
+    "a2a30a8A112-algrules-P06a": [
+        "rules_of_multiplication"
+    ],
+    "a2a30a8A112-algrules-P07a": [
+        "rules_of_algebra:_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P08a": [
+        "rules_of_algebra:_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P09a": [
+        "rules_of_algebra:_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P10a": [
+        "rules_of_algebra:_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P11a": [
+        "rules_of_algebra:_visual_models_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P12a": [
+        "rules_of_algebra:_visual_models_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P13a": [
+        "rules_of_algebra:_visual_models_addition_and_multiplication"
+    ],
+    "a2a30a8A112-algrules-P14a": [
+        "rules_of_algebra:_visual_models_addition_and_multiplication"
+    ],
+    "aaf274fA113-algconseq-P01a": [
+        "algebra_rules_for_subtraction_and_division"
+    ],
+    "aaf274fA113-algconseq-P02a": [
+        "algebra_rules_for_subtraction_and_division"
+    ],
+    "aaf274fA113-algconseq-P03a": [
+        "algebra_rules_for_subtraction_and_division"
+    ],
+    "aaf274fA113-algconseq-P04a": [
+        "algebra_rules_for_subtraction_and_division"
+    ],
+    "aaf274fA113-algconseq-P05a": [
+        "foil"
+    ],
+    "aaf274fA113-algconseq-P06a": [
+        "foil"
+    ],
+    "aaf274fA113-algconseq-P07a": [
+        "foil"
+    ],
+    "aaf274fA113-algconseq-P08a": [
+        "foil"
+    ],
+    "aaf274fA113-algconseq-P09a": [
+        "foil"
+    ],
+    "aaf274fA113-algconseq-P10a": [
+        "difference_of_squares"
+    ],
+    "aaf274fA113-algconseq-P11a": [
+        "difference_of_squares"
+    ],
+    "aaf274fA113-algconseq-P12a": [
+        "foil"
+    ],
+    "a8ce029A121-solveq-P01a": [
+        "solve_one_step_equations_add/subtract"
+    ],
+    "a8ce029A121-solveq-P02a": [
+        "solve_one_step_equations_add/subtract"
+    ],
+    "a8ce029A121-solveq-P03a": [
+        "solve_one_step_equations_add/subtract"
+    ],
+    "a8ce029A121-solveq-P04a": [
+        "solve_one_step_equations_add/subtract"
+    ],
+    "a8ce029A121-solveq-P05a": [
+        "solve_one_step_equations_multiply/divide"
+    ],
+    "a8ce029A121-solveq-P06a": [
+        "solve_one_step_equations_multiply/divide"
+    ],
+    "a8ce029A121-solveq-P07a": [
+        "solve_one_step_equations_multiply/divide"
+    ],
+    "a8ce029A121-solveq-P08a": [
+        "solve_one_step_equations_multiply/divide"
+    ],
+    "a8ce029A121-solveq-P09a": [
+        "solve_two_step_equations"
+    ],
+    "a8ce029A121-solveq-P10a": [
+        "solve_two_step_equations"
+    ],
+    "a8ce029A121-solveq-P11a": [
+        "solve_two_step_equations"
+    ],
+    "a8ce029A121-solveq-P12a": [
+        "solve_two_step_equations"
+    ],
+    "a8ce029A121-solveq-P13a": [
+        "solve_two_step_equations"
+    ],
+    "a02046bA122-zeroprod-P01a": [
+        "zero_product_property_level_1"
+    ],
+    "a02046bA122-zeroprod-P01b": [
+        "zero_product_property_level_1"
+    ],
+    "a02046bA122-zeroprod-P02a": [
+        "zero_product_property_level_1"
+    ],
+    "a02046bA122-zeroprod-P02b": [
+        "zero_product_property_level_1"
+    ],
+    "a02046bA122-zeroprod-P03a": [
+        "zero_product_property_level_1"
+    ],
+    "a02046bA122-zeroprod-P03b": [
+        "zero_product_property_level_1"
+    ],
+    "a3e5a23A123-cancel-P01a": [
+        "cancellation_property_level_1"
+    ],
+    "a3e5a23A123-cancel-P01b": [
+        "cancellation_property_level_1"
+    ],
+    "a3e5a23A123-cancel-P02a": [
+        "cancellation_property_level_1"
+    ],
+    "a3e5a23A123-cancel-P03a": [
+        "cancellation_property_level_2"
+    ],
+    "a3e5a23A123-cancel-P04a": [
+        "cancellation_property_level_2"
+    ],
+    "a3e5a23A123-cancel-P04b": [
+        "cancellation_property_level_2"
+    ],
+    "a3e5a23A123-cancel-P05a": [
+        "cancellation_property_level_3"
+    ],
+    "a3e5a23A123-cancel-P05b": [
+        "cancellation_property_level_3"
+    ],
+    "a3e5a23A123-cancel-P06a": [
+        "cancellation_property_level_3"
+    ],
+    "a3e5a23A123-cancel-P07a": [
+        "cancellation_property_level_3"
+    ],
+    "a6dd06fA131-fracequiv-P01a": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P02a": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P02b": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P03a": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P04a": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P05a": [
+        "fraction_equivalence_and_domains"
+    ],
+    "a6dd06fA131-fracequiv-P06a": [
+        "fraction_equivalence_level_2"
+    ],
+    "a6dd06fA131-fracequiv-P07a": [
+        "fraction_equivalence_level_2"
+    ],
+    "a6dd06fA131-fracequiv-P08a": [
+        "fraction_equivalence_level_2"
+    ],
+    "a6dd06fA131-fracequiv-P08b": [
+        "fraction_equivalence_level_2"
+    ],
+    "a6dd06fA131-fracequiv-P09a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P09b": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P10a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P10b": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P11a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P11b": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P12a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P13a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "a6dd06fA131-fracequiv-P14a": [
+        "solve_equations_using_fraction_equivalence"
+    ],
+    "ac08b9aA132-fracmuldiv-P01a": [
+        "multiply_and_simplify_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P02a": [
+        "multiply_and_simplify_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P02b": [
+        "multiply_and_simplify_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P03a": [
+        "divide_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P04a": [
+        "divide_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P05a": [
+        "divide_rational_expressions"
+    ],
+    "ac08b9aA132-fracmuldiv-P06a": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P06b": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P07a": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P08a": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P09a": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P09b": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P09c": [
+        "fraction_multiplication_visually"
+    ],
+    "ac08b9aA132-fracmuldiv-P09d": [
+        "fraction_multiplication_visually"
+    ],
+    "ad3a47cA133-fracadd-P01a": [
+        "adding_fractions_same_denominator"
+    ],
+    "ad3a47cA133-fracadd-P02a": [
+        "adding_fractions_same_denominator"
+    ],
+    "ad3a47cA133-fracadd-P03a": [
+        "adding_fractions_same_denominator"
+    ],
+    "ad3a47cA133-fracadd-P04a": [
+        "adding_fractions_same_denominator"
+    ],
+    "ad3a47cA133-fracadd-P05a": [
+        "adding_fractions_unequal_denominator"
+    ],
+    "ad3a47cA133-fracadd-P06a": [
+        "adding_fractions_unequal_denominator"
+    ],
+    "a7b6395A141-algprac-P01a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P01b": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P02a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P03a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P04a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P05a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P06a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P07a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P08a": [
+        "zero_product_property_level_3"
+    ],
+    "a7b6395A141-algprac-P09a": [
+        "zero_product_property_level_3"
+    ],
+    "a7b6395A141-algprac-P10a": [
+        "zero_product_property_level_3"
+    ],
+    "a7b6395A141-algprac-P11a": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P11b": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P11c": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P12a": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P12b": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P12c": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P14a": [
+        "fraction_algebra_combined"
+    ],
+    "a7b6395A141-algprac-P15a": [
+        "simplifying_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P16a": [
+        "simplifying_rational_expressions"
+    ],
+    "a7b6395A141-algprac-P17a": [
+        "simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P01a": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P01b": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P01c": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P02a": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P02b": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P02c": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P03a": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P03b": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P03c": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P04a": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P04b": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P04c": [
+        "know_properties_of_algebraic_operations"
+    ],
+    "ace4be0A1-diag-P05a": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P05b": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P05c": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P05d": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P06a": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P06b": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P07a": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P07b": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P08a": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P08b": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ace4be0A1-diag-P09a": [
+        "properties_of_algebraic_operations:_solving_for_x"
+    ],
+    "ace4be0A1-diag-P09b": [
+        "properties_of_algebraic_operations:_solving_for_x"
+    ],
+    "ace4be0A1-diag-P10a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P10b": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P11a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P12a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P13a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P14a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P15a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P16a": [
+        "fraction_algebra_combined"
+    ],
+    "ace4be0A1-diag-P17a": [
+        "zero_product_property_level_3"
+    ],
+    "ace4be0A1-diag-P18a": [
+        "zero_product_property_level_3"
+    ],
+    "ace4be0A1-diag-P19a": [
+        "zero_product_property_level_3"
+    ],
+    "ace4be0A1-diag-P20a": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P20b": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P20c": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P21a": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P21b": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P21c": [
+        "fraction_equivalence_with_rational_expressions"
+    ],
+    "ace4be0A1-diag-P22a": [
+        "properties_of_algebraic_operations:_simplifying_rational_expressions"
+    ],
+    "ac3837fA211-explogdef-P01a": [
+        "exp_log_terminology"
+    ],
+    "ac3837fA211-explogdef-P01b": [
+        "exp_log_terminology"
+    ],
+    "ac3837fA211-explogdef-P02a": [
+        "exp_log_terminology"
+    ],
+    "ac3837fA211-explogdef-P02b": [
+        "exp_log_terminology"
+    ],
+    "ac3837fA211-explogdef-P03a": [
+        "evaluate_logs_from_definition"
+    ],
+    "ac3837fA211-explogdef-P04a": [
+        "evaluate_logs_from_definition"
+    ],
+    "ac3837fA211-explogdef-P05a": [
+        "evaluate_logs_from_definition"
+    ],
+    "ad54ce5A212-explogdomain-P01a": [
+        "recognize_valid_bases_and_powers"
+    ],
+    "ad54ce5A212-explogdomain-P02a": [
+        "recognize_valid_bases_and_powers"
+    ],
+    "ad54ce5A212-explogdomain-P03a": [
+        "recognize_valid_bases_and_powers"
+    ],
+    "ad54ce5A212-explogdomain-P04a": [
+        "recognize_valid_bases_and_powers"
+    ],
+    "ad54ce5A212-explogdomain-P05a": [
+        "recognize_valid_bases_and_log_inputs"
+    ],
+    "ad54ce5A212-explogdomain-P06a": [
+        "recognize_valid_bases_and_log_inputs"
+    ],
+    "a984816test01a": [
+        "test"
+    ],
+    "a984816test02a": [
+        "test"
+    ],
+    "a984816test03a": [
+        "test"
+    ],
+    "a984816test04a": [
+        "test"
+    ],
+    "a984816test04b": [
+        "test"
+    ],
+    "a984816test05a": [
+        "test"
+    ],
+    "a984816test06a": [
+        "test"
+    ],
+    "a984816test07a": [
+        "test"
+    ],
+    "a984816test07b": [
+        "test"
+    ],
+    "a984816test07c": [
+        "test"
+    ],
+    "a666a84A213-exploginverse-P01a": [
+        "estimate_logs"
+    ],
+    "a666a84A213-exploginverse-P01b": [
+        "estimate_logs"
+    ],
+    "a666a84A213-exploginverse-P02a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P03a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P04a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P05a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P06a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P07a": [
+        "apply_log(1)=0"
+    ],
+    "a666a84A213-exploginverse-P08a": [
+        "apply_log(1)=0"
+    ],
+    "a666a84A213-exploginverse-P09a": [
+        "apply_log(1)=0"
+    ],
+    "a666a84A213-exploginverse-P10a": [
+        "cancel_log_with_exp",
+        "apply_log(1)=0"
+    ],
+    "a666a84A213-exploginverse-P11a": [
+        "cancel_log_with_exp",
+        "apply_log(1)=0"
+    ],
+    "a666a84A213-exploginverse-P12a": [
+        "cancel_log_with_exp"
+    ],
+    "a666a84A213-exploginverse-P13a": [
+        "estimate_logs",
+        "cancel_log_with_exp"
+    ],
+    "a666a84A213-exploginverse-P14a": [
+        "cancel_exp_with_logs"
+    ],
+    "a666a84A213-exploginverse-P15a": [
+        "estimate_logs"
+    ],
+    "a666a84A213-exploginverse-P15b": [
+        "estimate_logs"
+    ],
+    "acad659A221-radicalnotation-P01a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P02a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P02b": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P03a": [
+        "evaluate_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P04a": [
+        "evaluate_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P05a": [
+        "evaluate_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P06a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P07a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P08a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P09a": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "acad659A221-radicalnotation-P09b": [
+        "convert_radicals_to_fractional_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P01a": [
+        "laws_of_exp:_products"
+    ],
+    "aeba74cA222-lawsexpsamebase-P02a": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P02b": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P03a": [
+        "laws_of_exp:_products"
+    ],
+    "aeba74cA222-lawsexpsamebase-P04a": [
+        "laws_of_exp:_products"
+    ],
+    "aeba74cA222-lawsexpsamebase-P05a": [
+        "laws_of_exp:_products",
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P06a": [
+        "laws_of_exp:_quotients"
+    ],
+    "aeba74cA222-lawsexpsamebase-P07a": [
+        "laws_of_exp:_quotients"
+    ],
+    "aeba74cA222-lawsexpsamebase-P08a": [
+        "laws_of_exp:_quotients",
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P09a": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P10a": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P11a": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P12a": [
+        "laws_of_exp:_powers"
+    ],
+    "aeba74cA222-lawsexpsamebase-P13a": [
+        "laws_of_exp:_powers"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P01a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P02a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P03a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P04a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P05a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P06a": [
+        "restrictions_on_bases_for_radical_expressions"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P07a": [
+        "finding_roots"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P08a": [
+        "finding_roots"
+    ],
+    "a8b76d1A223-lawsexpmisconcept-P09a": [
+        "finding_roots"
+    ],
+    "a8274f3A231-lawsexpproduct-P01a": [
+        "laws_of_exp:_products_different_bases"
+    ],
+    "a8274f3A231-lawsexpproduct-P02a": [
+        "laws_of_exp:_products_different_bases_with_radicals"
+    ],
+    "a8274f3A231-lawsexpproduct-P03a": [
+        "laws_of_exp:_products_different_bases"
+    ],
+    "a8274f3A231-lawsexpproduct-P04a": [
+        "laws_of_exp:_products_different_bases_with_radicals"
+    ],
+    "a8274f3A231-lawsexpproduct-P05a": [
+        "laws_of_exp:_misconception_exponents_and_sums"
+    ],
+    "a8274f3A231-lawsexpproduct-P05b": [
+        "laws_of_exp:_misconception_exponents_and_sums"
+    ],
+    "a8274f3A231-lawsexpproduct-P07a": [
+        "laws_of_exp:_misconception_exponents_and_sums"
+    ],
+    "a8274f3A231-lawsexpproduct-P07b": [
+        "laws_of_exp:_misconception_exponents_and_sums"
+    ],
+    "a82e37dA232-lawsexpquotient-P01a": [
+        "laws_of_exp:_quotients_same_exponent"
+    ],
+    "a82e37dA232-lawsexpquotient-P02a": [
+        "laws_of_exp:_quotients_same_exponent"
+    ],
+    "a82e37dA232-lawsexpquotient-P03a": [
+        "laws_of_exp:_quotients_same_exponent"
+    ],
+    "a82e37dA232-lawsexpquotient-P04a": [
+        "laws_of_exp:_quotients_same_exponent",
+        "move_between_radicals_and_powers"
+    ],
+    "a82e37dA232-lawsexpquotient-P05a": [
+        "laws_of_exp:_quotients_same_exponent"
+    ],
+    "a82e37dA232-lawsexpquotient-P06a": [
+        "laws_of_exp:_quotients_same_exponent_with_variables"
+    ],
+    "a82e37dA232-lawsexpquotient-P07a": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P07b": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P08a": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P08b": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P09a": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P09b": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P10a": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "a82e37dA232-lawsexpquotient-P10b": [
+        "laws_of_exp:_different_bases_identify_errors"
+    ],
+    "aa167ebA241-logsofproducts-P01a": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01b": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01c": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01d": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01e": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01f": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01g": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P01h": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P02a": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P02b": [
+        "recall_law_of_logarithms:_products"
+    ],
+    "aa167ebA241-logsofproducts-P03a": [
+        "law_of_logarithms:_product_to_sum"
+    ],
+    "aa167ebA241-logsofproducts-P04a": [
+        "law_of_logarithms:_product_to_sum"
+    ],
+    "aa167ebA241-logsofproducts-P05a": [
+        "law_of_logarithms:_product_to_sum"
+    ],
+    "aa167ebA241-logsofproducts-P06a": [
+        "law_of_logarithms:_product_to_sum"
+    ],
+    "aa167ebA241-logsofproducts-P07a": [
+        "law_of_logarithms:_sum_to_product"
+    ],
+    "aa167ebA241-logsofproducts-P08a": [
+        "law_of_logarithms:_sum_to_product"
+    ],
+    "aa167ebA241-logsofproducts-P09a": [
+        "law_of_logarithms:_sum_to_product"
+    ],
+    "aa167ebA241-logsofproducts-P10a": [
+        "law_of_logarithms:_sum_to_product_level_2"
+    ],
+    "aa167ebA241-logsofproducts-P11a": [
+        "law_of_logarithms:_sum_to_product_level_2"
+    ],
+    "a11f6efA242-logsofquotients-P01a": [
+        "laws_of_logarithms:_quotients_concepts"
+    ],
+    "a11f6efA242-logsofquotients-P02a": [
+        "laws_of_logarithms:_quotients_concepts"
+    ],
+    "a11f6efA242-logsofquotients-P02b": [
+        "laws_of_logarithms:_quotients_concepts"
+    ],
+    "a11f6efA242-logsofquotients-P03a": [
+        "laws_of_logarithms:_quotient_to_difference"
+    ],
+    "a11f6efA242-logsofquotients-P04a": [
+        "laws_of_logarithms:_difference_to_quotient"
+    ],
+    "a11f6efA242-logsofquotients-P05a": [
+        "laws_of_logarithms:_difference_to_quotient"
+    ],
+    "a11f6efA242-logsofquotients-P06a": [
+        "laws_of_logarithms:_difference_to_quotient"
+    ],
+    "a11f6efA242-logsofquotients-P07a": [
+        "laws_of_logarithms:_quotient_to_difference"
+    ],
+    "a11f6efA242-logsofquotients-P08a": [
+        "laws_of_logarithms:_quotient_to_difference"
+    ],
+    "a11f6efA242-logsofquotients-P09a": [
+        "laws_of_logarithms:_quotient_to_difference"
+    ],
+    "a11f6efA242-logsofquotients-P10a": [
+        "laws_of_logarithms:_quotient_level_2"
+    ],
+    "a11f6efA242-logsofquotients-P11a": [
+        "laws_of_logarithms:_quotient_level_2"
+    ],
+    "a9d566eA243-logsofpowers-P01a": [
+        "recall_law_of_logarithms:_powers"
+    ],
+    "a9d566eA243-logsofpowers-P02a": [
+        "laws_of_logarithms:_powers_to_coefficients"
+    ],
+    "a9d566eA243-logsofpowers-P03a": [
+        "laws_of_logarithms:_powers_to_coefficients"
+    ],
+    "a9d566eA243-logsofpowers-P04a": [
+        "laws_of_logarithms:_powers_to_coefficients"
+    ],
+    "a9d566eA243-logsofpowers-P05a": [
+        "laws_of_logarithms:_powers_to_coefficients"
+    ],
+    "a9d566eA243-logsofpowers-P06a": [
+        "laws_of_logarithms:_powers_to_coefficients"
+    ],
+    "a9d566eA243-logsofpowers-P07a": [
+        "laws_of_logarithms:_coefficients_to_powers"
+    ],
+    "a9d566eA243-logsofpowers-P08a": [
+        "laws_of_logarithms:_coefficients_to_powers"
+    ],
+    "a9d566eA243-logsofpowers-P09a": [
+        "laws_of_logarithms:_coefficients_to_powers"
+    ],
+    "a9d566eA243-logsofpowers-P09b": [
+        "laws_of_logarithms:_coefficients_to_powers"
+    ],
+    "a9d566eA243-logsofpowers-P09c": [
+        "laws_of_logarithms:_coefficients_to_powers"
+    ],
+    "a9d566eA243-logsofpowers-P10a": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a9d566eA243-logsofpowers-P10b": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a9d566eA243-logsofpowers-P10c": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a9d566eA243-logsofpowers-P11a": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a9d566eA243-logsofpowers-P11b": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a9d566eA243-logsofpowers-P11c": [
+        "laws_of_logarithms:_powers_with_radicals_and_variables"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P01a": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P01b": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P02a": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P03a": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P04a": [
+        "solve_logarithmic_equations"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P05a": [
+        "solve_logarithmic_equations"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P06a": [
+        "solve_logarithmic_equations"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P06b": [
+        "solve_logarithmic_equations"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P07a": [
+        "solve_logarithmic_equations"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P08a": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P09a": [
+        "apply_laws_of_logarithms"
+    ],
+    "a19b4c7A251-simplifylogexpressions-P10a": [
+        "apply_laws_of_logarithms"
+    ],
+    "ac549dbA252-solveexpeqns-P01a": [
+        "solve_exponential_equations",
+        "find_common_bases"
+    ],
+    "ac549dbA252-solveexpeqns-P02a": [
+        "solve_exponential_equations"
+    ],
+    "ac549dbA252-solveexpeqns-P03a": [
+        "solve_exponential_equations",
+        "apply_inverse_property_of_logs_and_exponents"
+    ],
+    "ac549dbA252-solveexpeqns-P04a": [
+        "solve_exponential_equations"
+    ],
+    "ac549dbA252-solveexpeqns-P05a": [
+        "solve_exponential_equations",
+        "apply_inverse_property_of_logs_and_exponents",
+        "find_common_bases"
+    ],
+    "adb5110A253-explogwild-P01a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P01b": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P02a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P02b": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P02c": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P03a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P04a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P04b": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P04c": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P05a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P05b": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P05c": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P06a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P07a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P08a": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P08b": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "adb5110A253-explogwild-P08c": [
+        "apply_exponents_and_logs_in_the_wild"
+    ],
+    "afda852A2-diag-P01a": [
+        "algebra_with_exponents_and_logarithms",
+        "laws_of_logarithms",
+        "laws_of_exponents"
+    ],
+    "afda852A2-diag-P02a": [
+        "algebra_with_exponents_and_logarithms",
+        "simplify_radical_expressions",
+        "evaluate_roots_as_powers"
+    ],
+    "afda852A2-diag-P02b": [
+        "algebra_with_exponents_and_logarithms",
+        "simplify_radical_expressions",
+        "evaluate_roots_as_powers"
+    ],
+    "afda852A2-diag-P02c": [
+        "algebra_with_exponents_and_logarithms",
+        "simplify_radical_expressions",
+        "evaluate_roots_as_powers"
+    ],
+    "afda852A2-diag-P03a": [
+        "basic_algebra",
+        "solving_equations",
+        "simplifying_fractional_expressions",
+        "cancellation"
+    ],
+    "afda852A2-diag-P04a": [
+        "algebra_with_exponents_and_logarithms",
+        "simplify_radical_equations"
+    ],
+    "afda852A2-diag-P05a": [
+        "algebra_with_exponents_and_logarithms",
+        "solve_exponential_equations"
+    ],
+    "afda852A2-diag-P06a": [
+        "algebra_with_exponents_and_logarithms",
+        "solve_radical_equations"
+    ],
+    "afda852A2-diag-P07a": [
+        "algebra_with_exponents_and_logarithms",
+        "simplify_radical_expressions"
+    ],
+    "afda852A2-diag-P08a": [
+        "algebra_with_exponents_and_logarithms"
+    ],
+    "ae9b645T111-unitcirc-P01a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P02a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P03a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P04a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P05a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P06a": [
+        "unit_circle:_point_from_angle"
+    ],
+    "ae9b645T111-unitcirc-P07a": [
+        "unit_circle:_angle_from_point"
+    ],
+    "ae9b645T111-unitcirc-P08a": [
+        "unit_circle:_angle_from_point"
+    ],
+    "ae9b645T111-unitcirc-P09a": [
+        "unit_circle:_angle_from_point"
+    ],
+    "ae9b645T111-unitcirc-P10a": [
+        "unit_circle:_angle_from_point_level_2"
+    ],
+    "ae9b645T111-unitcirc-P11a": [
+        "unit_circle:_angle_from_point"
+    ],
+    "ae9b645T111-unitcirc-P12a": [
+        "unit_circle:_angle_from_point_level_2"
+    ],
+    "ae9b645T111-unitcirc-P13a": [
+        "unit_circle:_angle_from_point"
+    ],
+    "ae9b645T111-unitcirc-P14a": [
+        "unit_circle:_angle_from_point_level_2"
+    ],
+    "a2c5dc0T112-trigdef-P01a": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P01b": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P01c": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P02a": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P02b": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P02c": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P03a": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P03b": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P03c": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P04a": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P04b": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P04c": [
+        "basic_trig_values"
+    ],
+    "a2c5dc0T112-trigdef-P05a": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P05b": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P05c": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P06a": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P06b": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P06c": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P07a": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P07b": [
+        "position_along_unit_circle"
+    ],
+    "a2c5dc0T112-trigdef-P07c": [
+        "position_along_unit_circle"
+    ],
+    "af69612T113-period-P01a": [
+        "periods_of_trig_functions"
+    ],
+    "af69612T113-period-P02a": [
+        "periods_of_trig_functions"
+    ],
+    "af69612T113-period-P03a": [
+        "periods_of_trig_functions"
+    ],
+    "af69612T113-period-P04a": [
+        "minimum_period_of_scaled_trig_functions"
+    ],
+    "af69612T113-period-P05a": [
+        "minimum_period_of_scaled_trig_functions"
+    ],
+    "af69612T113-period-P06a": [
+        "minimum_period_of_scaled_trig_functions"
+    ],
+    "af69612T113-period-P07a": [
+        "relate_frequency_and_period"
+    ],
+    "af69612T113-period-P08a": [
+        "relate_frequency_and_period"
+    ],
+    "af69612T113-period-P09a": [
+        "relate_frequency_and_period"
+    ],
+    "a4d5812T121-trigraph-P01a": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P01b": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P02a": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P02b": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P03a": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P03b": [
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P04a": [
+        "phase_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P04b": [
+        "phase_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P05a": [
+        "phase_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P05b": [
+        "phase_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P06a": [
+        "frequency_and_graphs_of_sinusoid"
+    ],
+    "a4d5812T121-trigraph-P06b": [
+        "frequency_and_graphs_of_sinusoid"
+    ],
+    "a4d5812T121-trigraph-P07a": [
+        "frequency_and_graphs_of_sinusoid"
+    ],
+    "a4d5812T121-trigraph-P07b": [
+        "frequency_and_graphs_of_sinusoid"
+    ],
+    "a4d5812T121-trigraph-P08a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P08b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P08c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P08d": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P09a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P09b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P09c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P09d": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P10a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P10b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P10c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P10d": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P11a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P11b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P11c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P12a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P12b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P12c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P13a": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P13b": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P13c": [
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P14a": [
+        "period_and_phase_shift_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P15a": [
+        "period_and_phase_shift_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P16a": [
+        "period_and_phase_shift_of_sinusoids"
+    ],
+    "a4d5812T121-trigraph-P17a": [
+        "period_and_phase_shift_of_sinusoids"
+    ],
+    "a307ef0T122-trigbound-P01a": [
+        "bounding_sums_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P01b": [
+        "bounding_sums_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P02a": [
+        "bounding_sums_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P03a": [
+        "bounding_rational_expressions_with_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P04a": [
+        "bounding_rational_expressions_with_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P05a": [
+        "bounding_sums_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P06a": [
+        "bounding_differences_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P07a": [
+        "bounding_differences_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P08a": [
+        "bounding_differences_of_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P09a": [
+        "bounding_rational_expressions_with_trig_functions"
+    ],
+    "a307ef0T122-trigbound-P10a": [
+        "bounding_composed_trig_functions"
+    ],
+    "aa008ddT1-diag-P01a": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P01b": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P02a": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P02b": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P03a": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P03b": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P04a": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P04b": [
+        "identify_all_angles_from_a_position_using_periodicity"
+    ],
+    "aa008ddT1-diag-P06a": [
+        "identify_the_graph_of_the_trig_function",
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P06b": [
+        "identify_the_graph_of_the_trig_function",
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P07a": [
+        "identify_the_graph_of_the_trig_function",
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P07b": [
+        "identify_the_graph_of_the_trig_function",
+        "amplitude_and_vertical_shifts_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P08a": [
+        "identify_the_graph_of_the_trig_function",
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P08b": [
+        "identify_the_graph_of_the_trig_function",
+        "frequency_and_graphs_of_sinusoids"
+    ],
+    "aa008ddT1-diag-P09a": [
+        "bound_trig_functions"
+    ],
+    "aa008ddT1-diag-P10a": [
+        "find_all_angles_describing_point_on_restricted_domain"
+    ],
+    "ad053e6T211-righttri-P01a": [
+        "define_secant"
+    ],
+    "ad053e6T211-righttri-P02a": [
+        "define_cosecant"
+    ],
+    "ad053e6T211-righttri-P03a": [
+        "define_cotangent"
+    ],
+    "ad08b92T212-sohcahtoa-P01a": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P01b": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P01c": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P01d": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P01e": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P02a": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P02b": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P02c": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P02d": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P02e": [
+        "compute_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P03a": [
+        "compute_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P03b": [
+        "compute_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P03c": [
+        "compute_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P03d": [
+        "compute_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P03e": [
+        "compute_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P04a": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P04b": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P04c": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P05a": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P05b": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P05c": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_1"
+    ],
+    "ad08b92T212-sohcahtoa-P06a": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P06b": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_2"
+    ],
+    "ad08b92T212-sohcahtoa-P06c": [
+        "compute_reciprocal_trig_function_values_from_right_triangle_2"
+    ],
+    "a8c5fd6T213-trigvals-P01a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P01b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P01c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P02a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P02b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P02c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P03a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P03b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P03c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P04a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P04b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P04c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P05a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P05b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P05c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P06a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P06b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P06c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P07a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P07b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P07c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P08a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P08b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P08c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P09a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P09b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P09c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P10a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P10b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P10c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P11a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P11b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P11c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P12a": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P12b": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P12c": [
+        "important_trig_values"
+    ],
+    "a8c5fd6T213-trigvals-P13a": [
+        "important_trig_values_greater_than_2pi"
+    ],
+    "a8c5fd6T213-trigvals-P14a": [
+        "important_trig_values_greater_than_2pi"
+    ],
+    "a8c5fd6T213-trigvals-P15a": [
+        "important_trig_values_greater_than_2pi"
+    ],
+    "a03ad6fT214-trigeq-P01a": [
+        "solving_trig_functions_level_2"
+    ],
+    "a03ad6fT214-trigeq-P02a": [
+        "solving_trig_functions_level_2"
+    ],
+    "a03ad6fT214-trigeq-P03a": [
+        "solving_trig_functions_level_2"
+    ],
+    "a03ad6fT214-trigeq-P04a": [
+        "solving_trig_functions_level_1"
+    ],
+    "a03ad6fT214-trigeq-P05a": [
+        "solving_trig_functions_level_1"
+    ],
+    "a03ad6fT214-trigeq-P06a": [
+        "solving_trig_functions_level_1"
+    ],
+    "a767c30T221-identpyth-P01a": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P02a": [
+        "pythagorean_trig_identity_with_secant/tangent"
+    ],
+    "a767c30T221-identpyth-P03a": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P04a": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P04b": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P05a": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P05b": [
+        "pythagorean_trig_identity"
+    ],
+    "a767c30T221-identpyth-P06a": [
+        "pythagorean_trig_identity_with_secant/tangent"
+    ],
+    "a6cf981T222-identanglesum-P01a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P02a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P03a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P04a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P05a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P06a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P07a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P08a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P09a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P10a": [
+        "trig_angle_sum_formula"
+    ],
+    "a6cf981T222-identanglesum-P11a": [
+        "trig_angle_sum_formula_with_special_values"
+    ],
+    "a6cf981T222-identanglesum-P12a": [
+        "trig_angle_sum_formula_with_special_values"
+    ],
+    "a6cf981T222-identanglesum-P13a": [
+        "trig_angle_sum_formula_with_special_values"
+    ],
+    "afe03cdT223-dblhalf-P01a": [
+        "double_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P02a": [
+        "double_angle_formula_level_2"
+    ],
+    "afe03cdT223-dblhalf-P03a": [
+        "double_angle_formula_level_2"
+    ],
+    "afe03cdT223-dblhalf-P04a": [
+        "double_angle_formula_level_2"
+    ],
+    "afe03cdT223-dblhalf-P05a": [
+        "double_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P06a": [
+        "double_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P07a": [
+        "double_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P08a": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P09a": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P10a": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P11a": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P11b": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P11c": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P12a": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P12b": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P12c": [
+        "half_angle_formula"
+    ],
+    "afe03cdT223-dblhalf-P13a": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P13b": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P14a": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P14b": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P15a": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P15b": [
+        "power_reducing_formula"
+    ],
+    "afe03cdT223-dblhalf-P15c": [
+        "power_reducing_formula"
+    ],
+    "add398dT2-diag-P01a": [
+        "sohcahtoa"
+    ],
+    "add398dT2-diag-P01b": [
+        "sohcahtoa"
+    ],
+    "add398dT2-diag-P01c": [
+        "sohcahtoa"
+    ],
+    "add398dT2-diag-P01d": [
+        "sohcahtoa"
+    ],
+    "add398dT2-diag-P01e": [
+        "sohcahtoa"
+    ],
+    "add398dT2-diag-P02a": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P02b": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P03a": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P03b": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P04a": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P04b": [
+        "reference_triangles"
+    ],
+    "add398dT2-diag-P05a": [
+        "important_trig_values"
+    ],
+    "add398dT2-diag-P06a": [
+        "important_trig_values"
+    ],
+    "add398dT2-diag-P07a": [
+        "important_trig_values"
+    ],
+    "add398dT2-diag-P08a": [
+        "trig_angle_sum_formulas"
+    ],
+    "add398dT2-diag-P09a": [
+        "trig_angle_sum_formulas"
+    ],
+    "add398dT2-diag-P10a": [
+        "trig_angle_sum_formulas"
+    ],
+    "add398dT2-diag-P11a": [
+        "double_angle_formulas"
+    ],
+    "add398dT2-diag-P12a": [
+        "periodicity",
+        "important_trig_values"
+    ],
+    "add398dT2-diag-P13a": [
+        "bounding_differences_of_trig_functions"
+    ],
+    "a6c1cc5T311-invtrigdef-P01a": [
+        "restricted_domain_of_sine"
+    ],
+    "a6c1cc5T311-invtrigdef-P02a": [
+        "restricted_domain_of_sine"
+    ],
+    "a6c1cc5T311-invtrigdef-P03a": [
+        "restricted_domain_of_cosine"
+    ],
+    "a6c1cc5T311-invtrigdef-P04a": [
+        "restricted_domain_of_cosine"
+    ],
+    "a6c1cc5T311-invtrigdef-P05a": [
+        "restricted_domain_of_cosine"
+    ],
+    "ad30139T312-invtrigeval-P01a": [
+        "evaluate_inverse_sine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P02a": [
+        "evaluate_inverse_cosine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P03a": [
+        "evaluate_inverse_tangent_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P04a": [
+        "evaluate_inverse_sine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P05a": [
+        "evaluate_inverse_cosine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P06a": [
+        "evaluate_inverse_tangent_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P07a": [
+        "evaluate_inverse_sine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P08a": [
+        "evaluate_inverse_cosine_at_special_values"
+    ],
+    "ad30139T312-invtrigeval-P09a": [
+        "evaluate_inverse_tangent_at_special_values"
+    ],
+    "a6deb51T321-invtriggraph-P01a": [
+        "graphs_of_inverse_trig_functions:_end_points_and_asymptotes"
+    ],
+    "a6deb51T321-invtriggraph-P02a": [
+        "graphs_of_inverse_trig_functions:_transformations"
+    ],
+    "a6deb51T321-invtriggraph-P03a": [
+        "graphs_of_inverse_trig_functions:_transformations"
+    ],
+    "a6deb51T321-invtriggraph-P04a": [
+        "graphs_of_inverse_trig_functions:_transformations"
+    ],
+    "a6deb51T321-invtriggraph-P05a": [
+        "graphs_of_inverse_trig_functions:_transformations"
+    ],
+    "a6deb51T321-invtriggraph-P06a": [
+        "graphs_of_inverse_trig_functions:_symmetry"
+    ],
+    "a6deb51T321-invtriggraph-P07a": [
+        "graphs_of_inverse_trig_functions:_symmetry"
+    ],
+    "a6deb51T321-invtriggraph-P07b": [
+        "graphs_of_inverse_trig_functions:_symmetry"
+    ],
+    "a6deb51T321-invtriggraph-P08a": [
+        "graphs_of_inverse_trig_functions:_symmetry"
+    ],
+    "a6deb51T321-invtriggraph-P08b": [
+        "graphs_of_inverse_trig_functions:_symmetry"
+    ],
+    "ac048eeT331-trigcancel-P01a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P02a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P02b": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P03a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P04a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P05a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P06a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "ac048eeT331-trigcancel-P07a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "a2101f5T332-trigcomp-P01a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a2101f5T332-trigcomp-P02a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a2101f5T332-trigcomp-P03a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a2101f5T332-trigcomp-P04a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a2101f5T332-trigcomp-P05a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a2101f5T332-trigcomp-P06a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a736a57T3-diag-P01a": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P01b": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P01c": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P02a": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P02b": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P02c": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P03a": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P03b": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P03c": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P04a": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P04b": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P04c": [
+        "identify_graphs_of_inverse_trig_functions"
+    ],
+    "a736a57T3-diag-P05a": [
+        "evaluate_inverse_sine_at_special_values"
+    ],
+    "a736a57T3-diag-P06a": [
+        "evaluate_inverse_tangent_at_special_values"
+    ],
+    "a736a57T3-diag-P07a": [
+        "evaluate_inverse_cosine_at_special_values"
+    ],
+    "a736a57T3-diag-P08a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "a736a57T3-diag-P09a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "a736a57T3-diag-P10a": [
+        "composed_trig_and_inverse_trig"
+    ],
+    "a736a57T3-diag-P11a": [
+        "composed_trig_and_inverse_trig_with_variables"
+    ],
+    "a736a57T3-diag-P12a": [
+        "identify_the_graph_of_an_inverse_trig_function"
+    ],
+    "a736a57T3-diag-P13a": [
+        "identify_the_graph_of_an_inverse_trig_function"
     ]
 }

@@ -1,11 +1,12 @@
 {
     "id": "a649252angle28a",
     "stepAnswer": [
-        "$$-(1+\\sqrt{2})$$"
+        "$$-\\left(1+\\sqrt{2}\\right)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate the expression: $$\\tan(-\\frac{3pi}{8})$$",
+    "stepTitle": "Evaluate the expression: $$tan\\left(-\\frac{3\\pi}{8}\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "$$-\\left(1+\\sqrt{2}\\right)$$"
 }

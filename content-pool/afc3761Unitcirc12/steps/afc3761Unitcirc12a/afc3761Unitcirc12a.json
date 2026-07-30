@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Sine of angle",
-    "stepBody": "Find sin 135\u00b0",
+    "stepBody": "Find sin $$135$$ degrees",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$\\frac{\\sqrt{2}}{2}$$"

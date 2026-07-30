@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Applying the cosine double angle identity",
-        "text": "Recall the double angle identity for cosine: $$\\cos(2\\theta) $$=$$ \\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$",
+        "text": "Recall the double angle identity for cosine: cos(2theta) $$=$$ $$cos^2\\left(\\theta\\right)$$ - $$sin^2\\left(\\theta\\right)$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\cos(2\\theta) $$=$$ \\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$"
+            "$$cos(2theta)=cos^2\\left(\\theta\\right)-sin^2\\left(\\theta\\right)$$"
         ],
         "dependencies": [
             "a649252angle40a-h1"
         ],
         "title": "Recall the cosine double angle identity",
-        "text": "Which double angle identity involves $$\\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$?",
+        "text": "Which double angle identity involves $$cos^2\\left(\\theta\\right)$$ - $$sin^2\\left(\\theta\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\cos(2\\theta) $$=$$ \\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$",
-            "$$\\cos(2\\theta) $$=$$ \\cos**2(\\theta) + \\sin**2(\\theta)$$",
-            "$$\\sin(2\\theta) $$=$$ \\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$",
-            "$$\\cos(2\\theta) $$=$$ \\sin**2(\\theta) $$-$$ \\cos**2(\\theta)$$"
+            "$$cos(2theta)=cos^2\\left(\\theta\\right)-sin^2\\left(\\theta\\right)$$",
+            "$$cos(2theta)=cos^2\\left(\\theta\\right)+sin^2\\left(\\theta\\right)$$",
+            "$$sin(2theta)=cos^2\\left(\\theta\\right)-sin^2\\left(\\theta\\right)$$",
+            "$$cos(2theta)=sin^2\\left(\\theta\\right)-cos^2\\left(\\theta\\right)$$"
         ]
     },
     {
@@ -39,7 +39,7 @@
             "a649252angle40a-h1"
         ],
         "title": "Identify theta",
-        "text": "Compare the given expression $$\\cos**{2}(9x)-\\sin**{2}(9x)$$ with the identity $$\\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$. $$What$$ $$is$$ $$\\theta$$?",
+        "text": "Compare the given expression $$cos^2\\left(9x\\right)-sin^2\\left(9x\\right)$$ with the identity $$cos^2\\left(\\theta\\right)$$ - $$sin^2\\left(\\theta\\right)$$. What is theta?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -56,7 +56,7 @@
             "a649252angle40a-h2"
         ],
         "title": "Identify the angle",
-        "text": "In the expression $$\\cos**{2}(9x)-\\sin**{2}(9x)$$, $$what$$ $$value$$ $$corresponds$$ $$to$$ $$\\theta$$ in the identity $$\\cos**2(\\theta) $$-$$ \\sin**2(\\theta)$$?",
+        "text": "In the expression $$cos^2\\left(9x\\right)-sin^2\\left(9x\\right)$$, what value corresponds to theta in the identity $$cos^2\\left(\\theta\\right)$$ - $$sin^2\\left(\\theta\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

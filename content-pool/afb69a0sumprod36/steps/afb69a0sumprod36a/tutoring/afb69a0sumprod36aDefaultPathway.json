@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall sum-to-product formula",
-        "text": "Recall the sum-to-product formula for $\\sin(A) - \\sin(B)$.",
+        "text": "Recall the sum-to-product formula for sin(A) - sin(B).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "afb69a0sumprod36a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "Identify the values of A and B from the given expression.",
         "variabilization": {},
         "oer": "",
@@ -28,7 +28,7 @@
             "afb69a0sumprod36a-h2"
         ],
         "title": "Calculate the arguments for the product",
-        "text": "Calculate the values for $(A+B)/2$ and $(A-B)/2$.",
+        "text": "Calculate the values for $$\\frac{A+B}{2}$$ and $$\\frac{A-B}{2}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

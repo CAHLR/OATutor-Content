@@ -1,7 +1,7 @@
 {
     "id": "acd9137measure22",
     "title": "Using Metric Prefixes",
-    "body": "Restate the mass $$1.93\\times{10}^{13}$$ kg using a metric prefix such that the resulting numerical value is bigger than one but less than $$1000$$.",
+    "body": "Restate the mass $$1.93\\times10**{13}\\,\\text{kg}$$ using a metric prefix such that the resulting numerical value is bigger than one but less than $$1000$$.",
     "variabilization": {},
     "oer": "https://openstax.org/books/university-physics-volume-1/pages/1-2-units-and-standards",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

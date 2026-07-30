@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Graph of Tangent Functions",
-        "text": "When $$x=0$$, we have $$tan(x)=tan(0)=0$$. Notice that only graph I passes through $$point(0,0)$$.",
+        "text": "When $$x$$ $$=$$ $$0$$, we have tan(x) $$=$$ tan(0) $$=$$ $$0$$. Notice that only graph I passes through $$point(0,0)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

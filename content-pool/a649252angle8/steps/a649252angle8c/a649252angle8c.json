@@ -4,7 +4,7 @@
         "$$-4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\tan(\\frac{\\alpha}{2})$$",
+    "stepTitle": "$$tan\\left(\\frac{\\alpha}{2}\\right)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

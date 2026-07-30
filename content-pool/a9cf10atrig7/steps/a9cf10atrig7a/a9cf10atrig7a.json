@@ -4,7 +4,7 @@
         "$$cos(\\theta)-sin(\\theta)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is $$\\frac{\\sin(-\\theta)**2-\\cos(-\\theta)**2}{\\sin(-\\theta)-\\cos(-\\theta)}$$",
+    "stepTitle": "What is $$\\frac{sin^2\\left(-\\theta\\right)-cos^2\\left(-\\theta\\right)}{ssin^$eft(-\\theta\\right)-cos\\left(-\\theta\\righ$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

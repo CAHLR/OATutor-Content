@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use Cosine Definition",
-        "text": "Recall that $$cosine=\\frac{adjacent}{hypotenuse}$$. Use the given sides to calculate cos(A).",
+        "text": "Recall that cosine $$=$$ $$\\frac{adjacent}{hypotenuse}$$. Use the given sides to calculate cos(A).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "adaa3f9righttrig17a-h1"
         ],
         "title": "Find the Hypotenuse",
-        "text": "Use the Pythagorean theorem to find the hypotenuse. Then use cosine to calculate cos(A).",
+        "text": "Use the Pythagorean theorem to find the hypotenuse, then calculate cos(A) $$=$$ $$\\frac{adjacent}{hypotenuse}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall the half-angle formula for tangent",
-        "text": "Recall that $$\\tan(\\frac{\\theta}{2}) $$=$$ $$\\frac{1$$ $$-$$ \\cos(\\theta)}{\\sin(\\theta)}$$ or $$\\tan(\\frac{\\theta}{2}) $$=$$ \\frac{\\sin(\\theta)}{1 + \\cos(\\theta)}$$.",
+        "text": "Recall that $$tan\\left(\\frac{\\theta}{2}\\right)$$ $$=$$ (1 - cos(theta))/(sin(theta)) or $$tan\\left(\\frac{\\theta}{2}\\right)$$ $$=$$ (sin(theta))/(1 + cos(theta)).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\frac{3pi}{4}$$"
+            "$$\\frac{-\\left(3\\pi\\right)}{4}$$"
         ],
         "dependencies": [
             "a649252angle28a-h1"
         ],
-        "title": "Identify $$\\theta$$",
-        "text": "In the expression $$\\tan(-\\frac{3pi}{8})$$, $$if$$ $$we$$ $$use$$ $$the$$ $$half-angle$$ $$formula$$ $$\\tan(\\frac{\\theta}{2})$$, $$what$$ $$is$$ $$\\theta$$?",
+        "title": "Identify theta",
+        "text": "In the expression $$tan\\left(-\\frac{3\\pi}{8}\\right)$$, if we use the half-angle formula $$tan\\left(\\frac{\\theta}{2}\\right)$$, what is theta?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a649252angle28a-h2"
         ],
-        "title": "Evaluate trigonometric values for $$\\theta$$",
-        "text": "Find the values of $$\\sin(\\theta)$$ and $$\\cos(\\theta)$$ for $$\\theta$$ $$=$$ -\\frac{3pi}{4}$$.",
+        "title": "Evaluate trigonometric values for theta",
+        "text": "Find the values of sin(theta) and cos(theta) for theta $$=$$ $$\\frac{-\\left(3\\pi\\right)}{4}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\frac{\\sqrt{2}}{2}$$"
+            "$$\\frac{-\\sqrt{2}}{2}$$"
         ],
         "dependencies": [
             "a649252angle28a-h3"
         ],
-        "title": "Find $$\\cos(-\\frac{3pi}{4})$$",
-        "text": "What is the exact value of $$\\cos(-\\frac{3pi}{4})$$?",
+        "title": "Find $$cos\\left(-\\frac{3\\pi}{4}\\right)$$",
+        "text": "What is the exact value of $$cos\\left(-\\frac{3\\pi}{4}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -61,13 +61,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\frac{\\sqrt{2}}{2}$$"
+            "$$\\frac{-\\sqrt{2}}{2}$$"
         ],
         "dependencies": [
             "a649252angle28a-h4"
         ],
-        "title": "Find $$\\sin(-\\frac{3pi}{4})$$",
-        "text": "What is the exact value of $$\\sin(-\\frac{3pi}{4})$$?",
+        "title": "Find $$sin\\left(-\\frac{3\\pi}{4}\\right)$$",
+        "text": "What is the exact value of $$sin\\left(-\\frac{3\\pi}{4}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -79,7 +79,7 @@
             "a649252angle28a-h5"
         ],
         "title": "Substitute and simplify",
-        "text": "Substitute the values of $$\\sin(\\theta)$$ and $$\\cos(\\theta)$$ into the half-angle formula and simplify the expression.",
+        "text": "Substitute the values of sin(theta) and cos(theta) into the half-angle formula and simplify the expression.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -90,13 +90,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$1$$ + \\frac{\\sqrt{2}}{2}$$"
+            "$$1+\\frac{\\sqrt{2}}{2}$$"
         ],
         "dependencies": [
             "a649252angle28a-h6"
         ],
         "title": "Calculate the numerator",
-        "text": "Using $$\\tan(\\frac{\\theta}{2}) $$=$$ $$\\frac{1$$ $$-$$ \\cos(\\theta)}{\\sin(\\theta)}$$, $$what$$ $$is$$ $$the$$ $$value$$ $$of$$ $$1$$ $$-$$ \\cos(-\\frac{3pi}{4})$$?",
+        "text": "Using $$tan\\left(\\frac{\\theta}{2}\\right)$$ $$=$$ (1 - cos(theta))/(sin(theta)), what is the value of $$1$$ - $$cos\\left(-\\frac{3\\pi}{4}\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -107,13 +107,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-(1+\\sqrt{2})$$"
+            "$$-\\left(1+\\sqrt{2}\\right)$$"
         ],
         "dependencies": [
             "a649252angle28a-h7"
         ],
         "title": "Final calculation",
-        "text": "Now, calculate $$\\frac{1$$ + \\frac{\\sqrt{2}}{2}}{-\\frac{\\sqrt{2}}{2}}$$ and simplify.",
+        "text": "Now, calculate (1 + sqrt(2)/2)/(-sqrt(2)/2) and simplify.",
         "variabilization": {},
         "oer": "",
         "license": ""

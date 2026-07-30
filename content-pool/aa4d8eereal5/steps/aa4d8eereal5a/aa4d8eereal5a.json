@@ -4,7 +4,7 @@
         "$$2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate the transformed functions. If $$secx=2$$, find $$sec(-x)$$.",
+    "stepTitle": "Evaluate the transformed functions. If sec(x) $$=$$ $$2$$, find $$sec(-x)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

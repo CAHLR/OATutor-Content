@@ -1,18 +1,18 @@
 {
     "id": "adaa3f9righttrig20a",
     "stepAnswer": [
-        "$$sec(A)\u22482.693$$"
+        "$$sec(A)=1.601$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "sec(A) Calculation",
     "stepBody": "Calculate the secant of angle A in the right triangle.##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$sec(A)\u22482.693$$",
+    "answerLatex": "$$sec(A)=1.601$$",
     "choices": [
-        "$$sec(A)\u22482.693$$",
-        "$$sec(A)\u22480.371$$",
-        "$$sec(A)\u22482.5$$",
-        "$$sec(A)\u22481.5$$"
+        "$$sec(A)=1.601$$",
+        "$$sec(A)=1.8$$",
+        "$$sec(A)=1.4$$",
+        "$$sec(A)=2$$"
     ]
 }

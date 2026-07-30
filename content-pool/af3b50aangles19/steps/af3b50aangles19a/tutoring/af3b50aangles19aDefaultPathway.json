@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formula of arc length",
-        "text": "The formula for the arc length of a sector is the $$radius the$$ central angle in radians (\u03b8).",
+        "text": "s $$=$$ $$r \\theta$$, where $$r$$ is the radius and theta is the central angle in radians",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -21,7 +21,7 @@
             "af3b50aangles19a-h1"
         ],
         "title": "Converting to Radians",
-        "text": "In order to plug the values into the formula, you will need to convert degrees into radians. What do you get when you divide the degrees by 180\u00b0 and multiply by pi?",
+        "text": "In order to plug the values into the formula, you will need to convert degrees into radians. What do you get when you divide the degrees by $$180$$ degrees and multiply by pi?",
         "variabilization": {},
         "oer": "",
         "license": "",

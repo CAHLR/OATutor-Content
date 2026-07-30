@@ -1,18 +1,17 @@
 {
     "id": "adaa3f9righttrig22a",
     "stepAnswer": [
-        "$$sin(A)\u22480.371$$"
+        "sin(A)~=0.781"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "sin(A) Calculation",
     "stepBody": "Calculate the sine of angle A in the right triangle.##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$sin(A)\u22480.371$$",
     "choices": [
-        "$$sin(A)\u22480.371$$",
-        "$$sin(A)\u22480.6$$",
-        "$$sin(A)\u22480.894$$",
-        "$$sin(A)\u22480.447$$"
+        "sin(A)~=0.781",
+        "sin(A)~=0.6",
+        "sin(A)~=0.894",
+        "sin(A)~=0.625"
     ]
 }

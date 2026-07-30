@@ -1,12 +1,12 @@
 {
     "id": "afb69a0sumprod31a",
     "stepAnswer": [
-        "$$\\cos(80**{\\circ}) $$-$$ \\cos(120**{\\circ})$$"
+        "cos(80 $$degrees)-cos(120$$ degrees)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$2\\sin(-100**{\\circ})\\sin(-20**{\\circ})$$",
+    "stepTitle": "2sin(-100 $$degrees)sin(-20$$ degrees)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$\\cos(80**{\\circ}) $$-$$ \\cos(120**{\\circ})$$"
+    "answerLatex": "cos(80 $$degrees)-cos(120$$ degrees)"
 }

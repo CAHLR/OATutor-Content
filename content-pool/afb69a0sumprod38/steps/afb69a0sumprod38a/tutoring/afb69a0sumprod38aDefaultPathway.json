@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sine of a negative angle",
-        "text": "Recall the property of the sine function for negative angles: $$\\sin(-x)$$ $$=$$ $$-\\sin(x)$$. Apply this to each term.",
+        "text": "Recall the property of the sine function for negative angles: $$sin(-x)$$ $$=$$ $$-sin(x)$$. Apply this to each term.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$-\\sin(1**{\\circ})$"
+            "-sin(1 degrees)"
         ],
         "dependencies": [
             "afb69a0sumprod38a-h1"
         ],
         "title": "Apply negative angle identity",
-        "text": "Rewrite \\sin(-1**{\\circ}) using the negative angle identity.",
+        "text": "Rewrite sin(-1 degrees) using the negative angle identity.",
         "variabilization": {},
         "oer": "",
         "license": ""

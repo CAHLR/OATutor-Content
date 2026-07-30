@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the correct product-to-sum formula",
-        "text": "Recall the product-to-sum formulas. Which one applies to \\cos A \\cos B?",
+        "text": "Recall the product-to-sum formulas. Which one applies to cos(A) cos(B)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$1/2(\\cos(A+B) + $$\\cos(A-B))$$"
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)+cos\\left(A-B\\right)\\right)}$$"
         ],
         "dependencies": [
             "afb69a0sumprod33a-h1"
         ],
         "title": "Recall the formula",
-        "text": "What is the product-to-sum formula for \\cos A \\cos B?",
+        "text": "What is the product-to-sum formula for cos(A) cos(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$1/2(\\cos(A+B) + $$\\cos(A-B))$$",
-            "$$1/2(\\cos(A+B) $$-$$ $$\\cos(A-B))$$",
-            "$$1/2(\\sin(A+B) + $$\\sin(A-B))$$",
-            "$$1/2(\\sin(A+B) $$-$$ $$\\sin(A-B))$$"
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)+cos\\left(A-B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)-cos\\left(A-B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(sin\\left(A+B\\right)+sin\\left(A-B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(sin\\left(A+B\\right)-sin\\left(A-B\\right)\\right)}$$"
         ]
     },
     {
@@ -50,21 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\cos(A+B) + $$\\cos(A-B)$$"
+            "$$cos\\left(A+B\\right)+cos\\left(A-B\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod33a-h2"
         ],
         "title": "Simplify the formula",
-        "text": "If the formula for \\cos A \\cos B is 1/2(\\cos(A+B) + $$\\cos(A-B))$$, what is 2\\cos A \\cos B?",
+        "text": "If the formula for cos(A) cos(B) is 1/2(cos(A+B) + $$cos(A-B))$$, what is 2cos(A) cos(B)?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\cos(A+B) + $$\\cos(A-B)$$",
-            "$$\\cos(A+B) $$-$$ $$\\cos(A-B)$$",
-            "$$\\sin(A+B) + $$\\sin(A-B)$$",
-            "$$1/2(\\cos(A+B) + $$\\cos(A-B))$$"
+            "$$cos\\left(A+B\\right)+cos\\left(A-B\\right)$$",
+            "$$cos\\left(A+B\\right)-cos\\left(A-B\\right)$$",
+            "$$sin\\left(A+B\\right)+sin\\left(A-B\\right)$$",
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)+cos\\left(A-B\\right)\\right)}$$"
         ]
     },
     {
@@ -73,8 +73,8 @@
         "dependencies": [
             "afb69a0sumprod33a-h2"
         ],
-        "title": "Identify $$A$$ and $$B$$. $$Calculate$$ $$their$$ $$sum$$ $$and$$ $$difference$$.",
-        "text": "Identify $$A$$ and $$B$$ then calculate their sum and difference.",
+        "title": "Identify A and B. Calculate their sum and difference.",
+        "text": "Identify A and B then calculate their sum and difference.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -85,13 +85,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$9**{\\circ}$$"
+            "$$9$$ degrees"
         ],
         "dependencies": [
             "afb69a0sumprod33a-h3"
         ],
         "title": "What is A-B?",
-        "text": "In 2\\cos(56**{\\circ})\\cos(47**{\\circ}), what is A-B?",
+        "text": "In 2cos(56 degrees)cos(47 degrees), what is A-B?",
         "variabilization": {},
         "oer": "",
         "license": ""

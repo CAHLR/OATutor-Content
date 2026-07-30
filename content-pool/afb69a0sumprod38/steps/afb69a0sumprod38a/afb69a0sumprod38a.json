@@ -1,11 +1,12 @@
 {
     "id": "afb69a0sumprod38a",
     "stepAnswer": [
-        "$-\\sin(1**{\\circ}) - \\sin(2**{\\circ})$"
+        "-sin(1 $$degrees)-sin(2$$ degrees)"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Simplify the expression $$\\sin(-1**{\\circ})+\\sin(-2**{\\circ})$$",
+    "stepTitle": "Simplify the expression sin(-1 degrees)+sin(-2 degrees)",
     "stepBody": "",
     "answerType": "arithmetic",
-    "variabilization": {}
+    "variabilization": {},
+    "answerLatex": "-sin(1 $$degrees)-sin(2$$ degrees)"
 }

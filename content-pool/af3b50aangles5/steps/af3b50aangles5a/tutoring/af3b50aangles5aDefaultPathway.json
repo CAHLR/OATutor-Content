@@ -9,7 +9,7 @@
         ],
         "dependencies": [],
         "title": "Converting to Radians",
-        "text": "The first step is to convert 140\u00b0 to radians. To do so, the formula is (pi/180\u00b0)*140\u00b0. What is 140\u00b0 in radians?",
+        "text": "The first step is to convert $$140$$ degrees to radians. To do so, the formula is (pi/180 degrees)*140 degrees. What is $$140$$ degrees in radians?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -50,7 +50,7 @@
             "af3b50aangles5a-h2"
         ],
         "title": "Convert to inches",
-        "text": "Now convert the area to inches by multiplying by the decimal value of pi. $$(pi=3.14)$$",
+        "text": "Now convert the area to inches by multiplying by the decimal value of pi. (pi $$=$$ $$3.14)$$",
         "variabilization": {},
         "oer": "",
         "license": ""

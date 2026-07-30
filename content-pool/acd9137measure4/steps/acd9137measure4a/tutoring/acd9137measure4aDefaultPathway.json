@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Reasonable Estimation",
-        "text": "$$1$$ gram of hydrogen is about $$1$$ mole of hydrogen atoms, since hydrogen has atomic mass $$\\pm 1$$ $$\\frac{g}{mol}$$.",
+        "text": "$$1$$ gram of hydrogen is about $$1$$ mole of hydrogen atoms, since hydrogen has an atomic mass of about $$1$$ $$\\frac{g}{mol}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acd9137measure4a-h1"
         ],
         "title": "Reasonable Estimation $$2$$",
-        "text": "Avogadro's number is about $$6\\times{10}^{23}$$, which is the number of atoms in $$1$$ mole. So $$1$$ gram of hydrogen contains about $${10}^{23}$$ atoms.",
+        "text": "Avogadro's number is about $$6\\times10**{23}$$, $$which$$ $$is$$ $$the$$ $$number$$ $$of$$ $$atoms$$ $$in$$ $$1$$ $$mole$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

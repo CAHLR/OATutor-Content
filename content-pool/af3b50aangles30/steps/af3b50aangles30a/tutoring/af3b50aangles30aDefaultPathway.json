@@ -16,7 +16,7 @@
             "af3b50aangles30a-h1"
         ],
         "title": "Arc Length Formula",
-        "text": "The formula for arc length is $$r \\theta$$, where $$r$$ is the radius of the Earth and \u03b8 is the central angle between the two cities in radians.",
+        "text": "The formula for arc length is $$r \\theta$$, where $$r$$ is the radius of the Earth and theta is the central angle between the two cities in radians.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,7 +27,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "21\u00b0"
+            "$$21$$ degrees"
         ],
         "dependencies": [
             "af3b50aangles30a-h2"
@@ -38,10 +38,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "55\u00b0",
-            "28\u00b0",
-            "21\u00b0",
-            "73\u00b0"
+            "$$55$$ degrees",
+            "$$28$$ degrees",
+            "$$21$$ degrees",
+            "$$73$$ degrees"
         ]
     },
     {
@@ -56,7 +56,7 @@
             "af3b50aangles30a-h3"
         ],
         "title": "Converting to Radians",
-        "text": "What is the central angle in radians? (divide by 180\u00b0 and multiply by pi)",
+        "text": "What is the central angle in radians? (divide by $$180$$ degrees and multiply by pi)",
         "variabilization": {},
         "oer": "",
         "license": "",

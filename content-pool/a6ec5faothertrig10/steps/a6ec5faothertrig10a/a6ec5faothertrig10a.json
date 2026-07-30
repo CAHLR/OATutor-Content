@@ -4,7 +4,7 @@
         "$$1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Given $$sin\\left(\\frac{\\pi}{4}\\right)=\\frac{\\sqrt{2}}{2}$$, $$cos\\left(\\frac{\\pi}{4}\\right)=\\frac{\\sqrt{2}}{2}$$, evaluate $$tan\\left(\\frac{\\pi}{4}\\right)$$.",
+    "stepTitle": "Given $$sin\\left(\\frac{\\pi}{4}\\right)$$ $$=$$ $$\\frac{\\sqrt{2}}{2}$$, $$cos\\left(\\frac{\\pi}{4}\\right)$$ $$=$$ $$\\frac{\\sqrt{2}}{2}$$, evaluate $$tan\\left(\\frac{\\pi}{4}\\right)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

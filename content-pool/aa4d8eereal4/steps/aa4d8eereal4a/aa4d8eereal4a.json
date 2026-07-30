@@ -4,7 +4,7 @@
         "$$1.5$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate the transformed functions. If $$tanx=-1.5$$, find $$tan(-x)$$.",
+    "stepTitle": "Evaluate the transformed functions. If tan(x) $$=$$ $$-1.5$$, find $$tan(-x)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

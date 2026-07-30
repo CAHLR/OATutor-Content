@@ -4,7 +4,7 @@
         "odd"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Determine whether the function $$f(x)=2sin\\left(x\\right) cos\\left(x\\right)$$ is even, odd, or neither.",
+    "stepTitle": "Determine whether the function f(x) $$=$$ $$2sin\\left(x\\right) cos\\left(x\\right)$$ is even, odd, or neither.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

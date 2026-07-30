@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall product-to-sum formulas.",
-        "text": "Which product-to-sum formula applies to $$\\$\\sin$$ $$A$$ $$\\sin$$ $$B\\$$$?",
+        "text": "Which product-to-sum formula applies to sin(A) sin(B)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,21 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}{2}(\\cos(A-B)$$ $$-$$ \\cos(A+B))$$"
+            "$$\\frac{1}{2\\left(cos\\left(A-B\\right)-cos\\left(A+B\\right)\\right)}$$"
         ],
         "dependencies": [
             "afb69a0sumprod23a-h1"
         ],
         "title": "Identify the correct formula.",
-        "text": "The product $$\\$\\sin$$ $$A$$ $$\\sin$$ $$B\\$$$ can be rewritten as:",
+        "text": "The product sin(A) sin(B) can be rewritten as:",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\frac{1}{2}(\\cos(A-B)$$ $$-$$ \\cos(A+B))$$",
-            "$$\\frac{1}{2}(\\cos(A+B) $$-$$ $$\\cos(A-B))$$",
-            "$$\\frac{1}{2}(\\sin(A+B) + $$\\sin(A-B))$$",
-            "$$\\frac{1}{2}(\\cos(A+B) + $$\\cos(A-B))$$"
+            "$$\\frac{1}{2\\left(cos\\left(A-B\\right)-cos\\left(A+B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)-cos\\left(A-B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(sin\\left(A+B\\right)+sin\\left(A-B\\right)\\right)}$$",
+            "$$\\frac{1}{2\\left(cos\\left(A+B\\right)+cos\\left(A-B\\right)\\right)}$$"
         ]
     },
     {
@@ -38,8 +38,8 @@
         "dependencies": [
             "afb69a0sumprod23a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$.",
-        "text": "What are the values of A and B in $$\\sin(h)\\sin(3h)$$?",
+        "title": "Identify A and B.",
+        "text": "What are the values of A and B in sin(h)sin(3h)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -50,21 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$A=h$$, $$B=3h$$"
+            "$$A=h, B=3h$$"
         ],
         "dependencies": [
             "afb69a0sumprod23a-h2"
         ],
         "title": "State A and B.",
-        "text": "In $$\\sin(h)\\sin(3h)$$ what are A and B?",
+        "text": "In sin(h)sin(3h) what are A and B?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$A=h$$, $$B=3h$$",
-            "$$A=3h$$, $$B=h$$",
-            "$$A=h$$, $$B=h$$",
-            "$$A=3h$$, $$B=3h$$"
+            "$$A=h, B=3h$$",
+            "$$A=3h, B=h$$",
+            "$$A=h, B=h$$",
+            "$$A=3h, B=3h$$"
         ]
     },
     {
@@ -85,21 +85,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$A-B$$ $$=$$ $$-2h$$, $$A+B$$ $$=$$ $$4h$$"
+            "A-B=-2h,A+B=4h"
         ],
         "dependencies": [
             "afb69a0sumprod23a-h3"
         ],
         "title": "Simplify the arguments.",
-        "text": "What are $$A-B$$ and $$A+B$$?",
+        "text": "What are A-B and $$A+B$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$A-B$$ $$=$$ $$-2h$$, $$A+B$$ $$=$$ $$4h$$",
-            "$$A-B$$ $$=$$ $$2h$$, $$A+B$$ $$=$$ $$4h$$",
-            "$$A-B$$ $$=$$ $$-2h$$, $$A+B$$ $$=$$ $$2h$$",
-            "$$A-B$$ $$=$$ $$4h$$, $$A+B$$ $$=$$ $$-2h$$"
+            "A-B=-2h,A+B=4h",
+            "A-B=2h,A+B=4h",
+            "A-B=-2h,A+B=2h",
+            "A-B=4h,A+B=-2h"
         ]
     }
 ]

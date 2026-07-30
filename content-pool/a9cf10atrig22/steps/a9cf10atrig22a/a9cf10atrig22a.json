@@ -4,7 +4,7 @@
         "tanxsec"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Write $$\\frac{1}{\\csc(x)-\\sin(x)}$$ in terms of $$\\sec(x)$$ and $$\\tan(x).$$",
+    "stepTitle": "Write $$\\frac{1}{\\operatorname{csc}\\left(x\\right)-sin\\left(x\\right)}$$ in terms of sec(x) and tan(x).",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

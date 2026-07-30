@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Use powers of $$10$$",
-        "text": "$$milli-={10}^{\\left(-3\\right)}$$ s, $$nano-={10}^{\\left(-9\\right)}$$ s.",
+        "text": "milli- $$=$$ $$10**{-3}$$; $$micro-$$ $$=$$ $$10**{-6}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acd9137measure19a-h1"
         ],
         "title": "Use powers of $$10$$",
-        "text": "Divide: 10**(-3)/10**(-9)=10**? That's your answer.",
+        "text": "Divide $$10**{-3}$$ by $$10**{-6}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

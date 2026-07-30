@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Conversion Formula",
-        "text": "The formula for coverting from radians to degrees is (180\u00b0/pi)*radians.",
+        "text": "The formula for coverting from radians to degrees is (180 degrees/pi)*radians.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "180\u00b0/9"
+            "$$180$$ $$\\frac{degrees}{9}$$"
         ],
         "dependencies": [
             "af3b50aangles10a-h1"
@@ -26,10 +26,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "180\u00b0/18",
-            "360\u00b0/18",
-            "180\u00b0/9",
-            "360\u00b0/9"
+            "$$180$$ $$\\frac{degrees}{18}$$",
+            "$$360$$ $$\\frac{degrees}{18}$$",
+            "$$180$$ $$\\frac{degrees}{9}$$",
+            "$$360$$ $$\\frac{degrees}{9}$$"
         ]
     },
     {

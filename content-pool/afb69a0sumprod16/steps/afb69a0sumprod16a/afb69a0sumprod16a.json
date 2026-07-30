@@ -1,12 +1,12 @@
 {
     "id": "afb69a0sumprod16a",
     "stepAnswer": [
-        "$$1/2\\cos(6x) $$-$$ 1/2\\cos(4x)$$"
+        "$$\\frac{1}{2} cos\\left(6x\\right)-\\frac{1}{2} cos\\left(4x\\right)$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "$$\\sin(-x)\\sin(5x)$$",
+    "stepTitle": "$$sin(-x)sin(5x)$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$1/2\\cos(6x) $$-$$ 1/2\\cos(4x)$$"
+    "answerLatex": "$$\\frac{1}{2} cos\\left(6x\\right)-\\frac{1}{2} cos\\left(4x\\right)$$"
 }

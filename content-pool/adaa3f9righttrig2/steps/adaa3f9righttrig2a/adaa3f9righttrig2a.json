@@ -10,10 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$\\frac{opposite}{adjacent}$$",
     "choices": [
-        "$$\\frac{adjacent}{hypotenuse}$$",
+        "$$\\frac{adjacent}{opposite}$$",
         "$$\\frac{opposite}{adjacent}$$",
         "$$\\frac{opposite}{hypotenuse}$$",
-        "$$\\frac{adjacent}{opposite}$$",
-        "$$\\frac{opposite}{adjacent}$$"
+        "$$\\frac{adjacent}{hypotenuse}$$"
     ]
 }

@@ -3,8 +3,8 @@
         "id": "afb69a0sumprod41a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Recall product-to-sum formula for \\cos A \\sin B",
-        "text": "The product-to-sum formula for \\cos A \\sin B is $$\\cos$$ $$A$$ $$\\sin$$ $$B$$ $$=$$ \\frac{1}{2}(\\sin(A+B) $$-$$ $$\\sin(A-B))$$",
+        "title": "Recall product-to-sum formula for cos(A) sin(B)",
+        "text": "The product-to-sum formula for cos(A) sin(B) is cos(A) sin(B) $$=$$ 1/2(sin(A+B) - $$sin(A-B))$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "afb69a0sumprod41a-h1"
         ],
         "title": "Apply the product-to-sum formula",
-        "text": "Substitute A and B into the formula to rewrite $$\\cos(8x)\\sin(2x)$$.",
+        "text": "Substitute A and B into the formula to rewrite cos(8x)sin(2x).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "afb69a0sumprod41a-h2"
         ],
         "title": "Simplify the denominator",
-        "text": "Recall the $$\\frac{odd}{even}$$ identity for sine: $$\\sin(-x)$$ $$=$$ $$-\\sin(x)$$.",
+        "text": "Recall the $$\\frac{odd}{even}$$ identity for sine: $$sin(-x)$$ $$=$$ $$-sin(x)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -39,13 +39,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\sin(6x)$$"
+            "$$-sin(6x)$$"
         ],
         "dependencies": [
             "afb69a0sumprod41a-h3"
         ],
-        "title": "Simplify $$\\sin(-6x)$$",
-        "text": "What is $$\\sin(-6x)$$?",
+        "title": "Simplify $$sin(-6x)$$",
+        "text": "What is $$sin(-6x)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

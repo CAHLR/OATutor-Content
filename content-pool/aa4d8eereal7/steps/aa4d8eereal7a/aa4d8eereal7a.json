@@ -4,7 +4,7 @@
         "$$2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Evaluate the transformed functions. If $$xsin(x)=2$$, find $$(-x)sin(-x)$$.",
+    "stepTitle": "Evaluate the transformed functions. If xsin(x) $$=$$ $$2$$, find $$(-x)sin(-x)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

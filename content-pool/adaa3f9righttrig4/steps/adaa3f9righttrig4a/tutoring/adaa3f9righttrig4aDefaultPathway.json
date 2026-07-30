@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Complementary Angles",
-        "text": "Cofunction identities relate functions of complementary angles (adding to 90\u00b0).",
+        "text": "Cofunction identities relate functions of complementary angles that add to $$90$$ degrees.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "adaa3f9righttrig4a-h1"
         ],
         "title": "Sine and Cosine Relationship",
-        "text": "Think about how the sine of an angle is the cosine of its complement.",
+        "text": "The sine of an angle equals the cosine of its complement.",
         "variabilization": {},
         "oer": "",
         "license": ""

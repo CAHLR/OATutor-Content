@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "",
-    "stepBody": "Find the coordinates of the point on a circle with radius $$20$$ corresponding to an angle of 120\u00b0.",
+    "stepBody": "Find the coordinates of the point on a circle with radius $$20$$ corresponding to an angle of $$120$$ degrees.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$(-10,10\\sqrt{3})$$",

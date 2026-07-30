@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall the product-to-sum formula for sine and cosine",
-        "text": "The product-to-sum formula for sine and cosine is $$\\sin(A)\\cos(B)$$ $$=$$ \\frac{1}{2}(\\sin(A+B) + $$\\sin(A-B)).$$",
+        "text": "The product-to-sum formula for sine and cosine is sin(A)cos(B) $$=$$ 1/2(sin(A+B) + $$sin(A-B))$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "afb69a0sumprod2a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$. $$Calculate$$ $$their$$ $$sum$$ $$and$$ $$difference$$.",
+        "title": "Identify A and B. Calculate their sum and difference.",
         "text": "Once you've identified A and B, calculate the sum and difference of these angles.",
         "variabilization": {},
         "oer": "",
@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$4\\theta$$"
+            "4theta"
         ],
         "dependencies": [
             "afb69a0sumprod2a-h2"
         ],
-        "title": "Identify $$A$$.",
-        "text": "Find the value of $$A$$.",
+        "title": "Identify A.",
+        "text": "Find the value of A.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$2\\theta$$"
+            "2theta"
         ],
         "dependencies": [
             "afb69a0sumprod2a-h2"
         ],
-        "title": "Identify $$B$$.",
-        "text": "Find the value of $$B$$.",
+        "title": "Identify B.",
+        "text": "Find the value of B.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -61,13 +61,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$2\\theta$$"
+            "2theta"
         ],
         "dependencies": [
             "afb69a0sumprod2a-h2"
         ],
-        "title": "Calculate $$A-B$$",
-        "text": "What is $$A-B$$?",
+        "title": "Calculate A-B",
+        "text": "What is A-B?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -78,7 +78,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$6\\theta$$"
+            "6theta"
         ],
         "dependencies": [
             "afb69a0sumprod2a-h2"
@@ -96,7 +96,7 @@
             "afb69a0sumprod2a-h2"
         ],
         "title": "Substitute into the formula",
-        "text": "Substitute the calculated values of $$A-B$$ and $$A+B$$ into the product-to-sum formula.",
+        "text": "Substitute the calculated values of A-B and $$A+B$$ into the product-to-sum formula.",
         "variabilization": {},
         "oer": "",
         "license": ""

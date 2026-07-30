@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall the sum-to-product formula for difference of cosines.",
-        "text": "Recall the formula for $$\\cos$$ $$A$$ $$-$$ $$\\cos$$ $$B$$ $$=$$ $$2$$ \\sin\\left(\\frac{A+B}{2}\\right) $$\\sin\\left(\\frac{A-B}{2}\\right)$$.",
+        "text": "Recall the formula for cos(A) - cos(B) $$=$$ $$2$$ $$sin\\left(\\frac{A+B}{2}\\right)$$ $$sin\\left(\\frac{A-B}{2}\\right)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "afb69a0sumprod5a-h1"
         ],
         "title": "Apply the formula",
-        "text": "Identify $$A$$ and $$B$$ then substitute them into the formula.",
+        "text": "Identify A and B then substitute them into the formula.",
         "variabilization": {},
         "oer": "",
         "license": ""

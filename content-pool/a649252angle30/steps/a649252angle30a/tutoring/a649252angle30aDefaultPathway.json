@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall the double angle formula for sine",
-        "text": "The double angle formula for sine is $$\\sin(2x)$$ $$=$$ $$2\\sin(x)\\cos(x)$$.",
+        "text": "The double angle formula for sine is sin(2x) $$=$$ 2sin(x)cos(x).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,13 +15,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-\\frac{5}{13}$$"
+            "$$\\frac{-5}{13}$$"
         ],
         "dependencies": [
             "a649252angle30a-h1"
         ],
-        "title": "Find $$\\cos(x)$$",
-        "text": "Given $$\\sin$$ $$x=-\\frac{12}{13}$$ and $$x$$ is in quadrant III, what is $$\\cos(x)$$?",
+        "title": "Find cos(x)",
+        "text": "Given sin(x) $$=$$ $$\\frac{-12}{13}$$ and $$x$$ is in quadrant III, what is cos(x)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -31,7 +31,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Substitute and simplify",
-        "text": "Substitute the values of $$\\sin(x)$$ and $$\\cos(x)$$ into the formula $$\\sin(2x)$$ $$=$$ $$2\\sin(x)\\cos(x)$$.",
+        "text": "Substitute the values of sin(x) and cos(x) into the formula sin(2x) $$=$$ 2sin(x)cos(x).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -47,8 +47,8 @@
         "dependencies": [
             "a649252angle30a-h2"
         ],
-        "title": "Calculate $$2\\sin(x)\\cos(x)$$",
-        "text": "Calculate $$2$$ $$\\cdot$$ $$(-\\frac{12}{13})$$ $$\\cdot$$ $$(-\\frac{5}{13})$$.",
+        "title": "Calculate 2sin(x)cos(x)",
+        "text": "Calculate $$2$$ * $$\\left(-\\frac{12}{13}\\right)$$ * $$\\left(-\\frac{5}{13}\\right)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

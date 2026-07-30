@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Recall sum-to-product formulas",
-        "text": "Which sum-to-product formula applies to $$\\cos(A)+\\cos(B)$$?",
+        "text": "Which sum-to-product formula applies to $$cos\\left(A\\right)+cos\\left(B\\right)$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,22 +15,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$2\\cos\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)$$"
+            "$$2cos\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$"
         ],
         "dependencies": [
             "afb69a0sumprod18a-h1"
         ],
         "title": "Identify the correct formula",
-        "text": "The sum $$\\cos(A)+\\cos(B)$$ can be rewritten using which formula?",
+        "text": "The sum $$cos\\left(A\\right)+cos\\left(B\\right)$$ can be rewritten using which formula?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$-2\\sin\\left(\\frac{A+B}{2}\\right)\\sin\\left(\\frac{A-B}{2}\\right)$$",
-            "$$2\\cos\\left(\\frac{A+B}{2}\\right)\\sin\\left(\\frac{A-B}{2}\\right)$$",
-            "$$2\\sin\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)$$",
-            "$$2\\cos\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)$$",
-            "$$2\\cos\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)$$"
+            "$$2cos\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$",
+            "$$-2sin\\left(\\frac{A+B}{2}\\right) sin\\left(\\frac{A-B}{2}\\right)$$",
+            "$$2sin\\left(\\frac{A+B}{2}\\right) cos\\left(\\frac{A-B}{2}\\right)$$",
+            "$$2cos\\left(\\frac{A+B}{2}\\right) sin\\left(\\frac{A-B}{2}\\right)$$"
         ]
     },
     {
@@ -39,7 +38,7 @@
         "dependencies": [
             "afb69a0sumprod18a-h1"
         ],
-        "title": "Identify $$A$$ and $$B$$",
+        "title": "Identify A and B",
         "text": "What are the values of A and B in the given expression?",
         "variabilization": {},
         "oer": "",
@@ -51,21 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$A=6t$$, $$B=4t$$"
+            "$$A=6t, B=4t$$"
         ],
         "dependencies": [
             "afb69a0sumprod18a-h2"
         ],
         "title": "Determine A and B",
-        "text": "In $$\\cos(6t)+\\cos(4t)$$ what are A and B?",
+        "text": "In $$cos\\left(6t\\right)+cos\\left(4t\\right)$$ what are A and B?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$A=6t$$, $$B=4t$$",
-            "$$A=4t$$, $$B=6t$$",
-            "$$A=6$$, $$B=4$$",
-            "$$A=6t$$, $$B=-4t$$"
+            "$$A=6t, B=4t$$",
+            "$$A=4t, B=6t$$",
+            "$$A=6, B=4$$",
+            "$$A=6t, B=-4t$$"
         ]
     },
     {
@@ -74,7 +73,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{A+B}{2}=5t$$, $$\\frac{A-B}{2}=t$$"
+            "$$\\frac{A+B}{2}=\\frac{5t\\left(A-B\\right)}{2}=t$$"
         ],
         "dependencies": [
             "afb69a0sumprod18a-h2"
@@ -85,10 +84,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\frac{A+B}{2}=5t$$, $$\\frac{A-B}{2}=t$$",
-            "$$\\frac{A+B}{2}=5t$$, $$\\frac{A-B}{2}=-t$$",
-            "$$\\frac{A+B}{2}=t$$, $$\\frac{A-B}{2}=5t$$",
-            "$$\\frac{A+B}{2}=10t$$, $$\\frac{A-B}{2}=2t$$"
+            "$$\\frac{A+B}{2}=\\frac{5t\\left(A-B\\right)}{2}=t$$",
+            "$$\\frac{A+B}{2}=\\frac{5t\\left(A-B\\right)}{2}=-t$$",
+            "$$\\frac{A+B}{2}=\\frac{t\\left(A-B\\right)}{2}=5t$$",
+            "$$\\frac{A+B}{2}=\\frac{10t\\left(A-B\\right)}{2}=2t$$"
         ]
     },
     {

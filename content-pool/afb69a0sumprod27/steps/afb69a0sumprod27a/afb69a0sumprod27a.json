@@ -1,10 +1,10 @@
 {
     "id": "afb69a0sumprod27a",
     "stepAnswer": [
-        "$$\\frac{1}{2}(\\sin(210**\\circ) + \\sin(180**\\circ))$$"
+        "1/2(sin(210 degrees)+sin(180 degrees))"
     ],
     "problemType": "TextBox",
-    "stepTitle": "evaluate the expression $$\\sin(195**{\\circ})\\cos(15**{\\circ})$$",
+    "stepTitle": "evaluate the expression sin(195 degrees)cos(15 degrees)",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}
