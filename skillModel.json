@@ -686,6 +686,50 @@
     "aade29bmod3b": [
         "models"
     ],
+    "acbe785cha1a": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1b": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1c": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1d": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1e": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1f": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1g": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1h": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1i": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1j": [
+        "chance",
+        "models"
+    ],
+    "acbe785cha1k": [
+        "chance",
+        "models"
+    ],
     "acbe785cha2a": [
         "chance",
         "models"
@@ -16032,6 +16076,93 @@
     "a83b2ddmodel1b": [
         "modeling_with_linear_functions"
     ],
+    "a83b2ddmodel10a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel11a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel12a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel13a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel13b": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel14a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel14b": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel15a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel16a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel17a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel18a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel19a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel2a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel2b": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel20a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel21a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel22a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel23a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel24a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel25a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel26a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel3a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel4a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel5a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel6a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel9a": [
+        "modeling_with_linear_functions"
+    ],
+    "a83b2ddmodel9b": [
+        "modeling_with_linear_functions"
+    ],
+    "a01186bfit16a": [
+        "fitting_linear_models_to_data"
+    ],
+    "a01186bfit2a": [
+        "fitting_linear_models_to_data"
+    ],
     "a01186breal10a": [
         "fitting_linear_models_to_data"
     ],
@@ -16050,9 +16181,6 @@
     "a01186breal15a": [
         "fitting_linear_models_to_data"
     ],
-    "a01186breal16a": [
-        "fitting_linear_models_to_data"
-    ],
     "a01186breal17a": [
         "fitting_linear_models_to_data"
     ],
@@ -16060,9 +16188,6 @@
         "fitting_linear_models_to_data"
     ],
     "a01186breal19a": [
-        "fitting_linear_models_to_data"
-    ],
-    "a01186breal2a": [
         "fitting_linear_models_to_data"
     ],
     "a01186breal20a": [
@@ -17715,6 +17840,9 @@
     "af3b50aangles29a": [
         "angles"
     ],
+    "af3b50aangles3a": [
+        "angles"
+    ],
     "af3b50aangles30a": [
         "angles"
     ],
@@ -18447,6 +18575,123 @@
     "a9cf10atrig9a": [
         "simplifying_and_verifying_trigonometric_identities"
     ],
+    "aae56detrig1a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig10a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig11a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig12a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig13a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig15a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig16a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig17a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig18a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig19a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig2a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig20a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig21a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig22a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig23a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig24a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig25a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig26a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig27a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig28a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig29a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig3a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig3b": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig30a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig31a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig31b": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig32a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig32b": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig33a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig34a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig35a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig5a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig6a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig6b": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig6c": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig6d": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig7a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig8a": [
+        "sum_and_difference_identities"
+    ],
+    "aae56detrig9a": [
+        "sum_and_difference_identities"
+    ],
     "a649252angle1a": [
         "double_angle",
         "half_angle",
@@ -18863,6 +19108,9 @@
     "afb69a0sumprod29a": [
         "sum_to_product_and_product_to_sum_formulas"
     ],
+    "afb69a0sumprod3a": [
+        "sum_to_product_and_product_to_sum_formulas"
+    ],
     "afb69a0sumprod30a": [
         "sum_to_product_and_product_to_sum_formulas"
     ],
@@ -18908,6 +19156,12 @@
     "afb69a0sumprod43a": [
         "sum_to_product_and_product_to_sum_formulas"
     ],
+    "afb69a0sumprod44a": [
+        "sum_to_product_and_product_to_sum_formulas"
+    ],
+    "afb69a0sumprod45a": [
+        "sum_to_product_and_product_to_sum_formulas"
+    ],
     "afb69a0sumprod5a": [
         "sum_to_product_and_product_to_sum_formulas"
     ],
@@ -18915,6 +19169,12 @@
         "sum_to_product_and_product_to_sum_formulas"
     ],
     "afb69a0sumprod7a": [
+        "sum_to_product_and_product_to_sum_formulas"
+    ],
+    "afb69a0sumprod8a": [
+        "sum_to_product_and_product_to_sum_formulas"
+    ],
+    "afb69a0sumprod9a": [
         "sum_to_product_and_product_to_sum_formulas"
     ],
     "a590f38trigonometric1a": [
