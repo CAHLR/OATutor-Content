@@ -7286,7 +7286,6 @@
                 "name": "Lesson T1.1.1",
                 "topics": "The Unit Circle",
                 "allowRecycle": true,
-                "enableCompletionMode": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "unit_circle:_angle_from_point": 0.85,
