@@ -853,7 +853,7 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-                }
+                
             },
             {
                 "id": "0cVFGCZw-5vMu-Ahp03eOmqe",
@@ -4281,7 +4281,7 @@
                 "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-                }
+                
             },
             {
                 "id": "4zVoP0OO-B61J-HA99VWEGsP",
@@ -4616,7 +4616,7 @@
                 "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-                }
+                
             },
             {
                 "id": "4mcm5KGn-vKJF-g7STMCjGCn",
@@ -4826,13 +4826,6 @@
                 "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-            }
-        ],
-        "chat_prompt": "PROMPT-precalc-v1a.txt",
-        "chat_penalty_mode": "OnOpen",
-        "hint_penalty_mode": "OnOpen",
-        "chat_model": "gpt-4o"
-                }
             },
             {
                 "id": "3Zsn5Qgy-Qkay-5jp2lEvrbL",
@@ -4844,7 +4837,11 @@
                     "consent": 0.85
                 }
             }
-        ]
+        ],
+        "chat_prompt": "PROMPT-precalc-v1a.txt",
+        "chat_penalty_mode": "OnOpen",
+        "hint_penalty_mode": "OnOpen",
+        "chat_model": "gpt-4o"
     },
     {
         "courseName": "OpenStax: Elementary Algebra",
@@ -9738,7 +9735,7 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-                }
+                
             },
             {
                 "id": "4WkmxbLD-3JLs-JvdkZGQ83A",
