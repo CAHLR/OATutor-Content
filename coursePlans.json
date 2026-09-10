@@ -130,7 +130,7 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
-                }
+                
             },
             {
                 "id": "3TZnnKjM-nRdc-KUycJTxnp7",
