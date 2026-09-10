@@ -6,6 +6,48 @@
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
             {
+                "id": "4GULy8Bk-yEIe-u8BrmlWIqG",
+                "name": "Lesson Disc1",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "by_the_numbers": 0.85
+                }
+            },
+            {
+                "id": "5IvLZSzP-CwsV-YoyknSfnoK",
+                "name": "Lesson Disc2",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "tables_&_causation": 0.85
+                }
+            },
+            {
+                "id": "7Odjp3Xo-WDyk-UDcQuiclaW",
+                "name": "Lesson Disc3",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "data_types": 0.85,
+                    "extending_tables": 0.85,
+                    "visualizations": 0.85
+                }
+            },
+            {
+                "id": "0dJYDToW-hati-SjwIXGncTg",
+                "name": "Lesson Disc4",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "visualizations": 0.85
+                }
+            },
+            {
                 "id": "7IYYDN35-tPVp-P9gwfgQ1wz",
                 "name": "Lesson Disc5",
                 "topics": "",
@@ -88,6 +130,37 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "3TZnnKjM-nRdc-KUycJTxnp7",
+                "name": "Lesson Disc11",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "correlation_&_regression": 0.85
+                }
+            },
+            {
+                "id": "5sBIx72F-VjTj-x4iSm0Uu5H",
+                "name": "Lesson Disc12",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "residuals": 0.85
+                }
+            },
+            {
+                "id": "7WwWhy9L-Ccrd-IGXsCA7Slk",
+                "name": "Lesson Disc13",
+                "topics": "",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "intervals_for_prediction_&_knn_classification": 0.85
+                }
             },
             {
                 "id": "50dMOnSd-wuK3-4P45cwRWSM",
@@ -405,7 +478,6 @@
                 "learningObjectives": {
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
-                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
                     "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
                     "solve_linear_inequalities": 0.85,
                     "solving_compound_inequalities": 0.85
@@ -452,7 +524,7 @@
                     "identifying_power_functions": 0.85,
                     "identifying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85,
                     "monomials": 0.85
-                },
+              },
                 "chat_prompt": "PROMPTv2a.txt",
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
@@ -486,8 +558,6 @@
                     "graph_inequalities_on_the_number_line": 0.85,
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
-                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
-                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
                     "solve_linear_inequalities": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -783,6 +853,21 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "0cVFGCZw-5vMu-Ahp03eOmqe",
+                "name": "Lesson Quiz",
+                "topics": "4",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "factor_perfect_square_trinomials": 0.85,
+                    "factor_trinomials_of_the_form_ax**2_+_bx_+_c_with_a_gcf": 0.85,
+                    "factor_trinomials_of_the_form_x**2_+_bx_+_c": 0.85,
+                    "find_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
+                    "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely": 0.85
+                }
             },
             {
                 "id": "6HKd6XSD-ukoc-a3a9fwUDZJ",
@@ -1197,8 +1282,6 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "finding_the_power_of_a_product": 0.85,
-                    "finding_the_quotient_of_a_product": 0.85,
                     "using_scientific_notation": 0.85,
                     "using_the_negative_exponent_rule_of_exponents": 0.85,
                     "using_the_power_rule_of_exponents": 0.85,
@@ -4198,6 +4281,17 @@
                 "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "4zVoP0OO-B61J-HA99VWEGsP",
+                "name": "Lesson 6.3",
+                "topics": "- Inverse Trigonometric Functions",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "inverse_trigonometric_functions": 0.85
+                }
             },
             {
                 "id": "6Kln1Scx-YLCJ-NdepUGhiU3",
@@ -4286,7 +4380,7 @@
                 "chat_model": "gpt-4o"
             },
             {
-                "id": "3TAjgK1l-XNSM-EOgpvOVHEY",
+                "id": "0amFA3Pe-GWiF-kexRcQMF0i",
                 "name": "Lesson 8.1",
                 "topics": "- Non-right Triangles: Law of Sines",
                 "allowRecycle": true,
@@ -4522,6 +4616,17 @@
                 "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "4mcm5KGn-vKJF-g7STMCjGCn",
+                "name": "Lesson 10.2",
+                "topics": "Hyperbola",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "the_hyperbola": 0.85
+                }
             },
             {
                 "id": "0KUD6ck8-CFRF-Soww7npNJ8",
@@ -4727,6 +4832,19 @@
         "chat_penalty_mode": "OnOpen",
         "hint_penalty_mode": "OnOpen",
         "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "3Zsn5Qgy-Qkay-5jp2lEvrbL",
+                "name": "Lesson Consent",
+                "topics": "Form",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "consent": 0.85
+                }
+            }
+        ]
     },
     {
         "courseName": "OpenStax: Elementary Algebra",
@@ -9620,6 +9738,17 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+                }
+            },
+            {
+                "id": "4WkmxbLD-3JLs-JvdkZGQ83A",
+                "name": "Lesson Chemical",
+                "topics": "Equilibrium (Module F)",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "module_f": 0.85
+                }
             },
             {
                 "id": "6HOEluOC-9OWI-PXB3LmHnGc",
