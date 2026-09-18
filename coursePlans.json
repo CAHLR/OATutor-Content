@@ -1,6 +1,7 @@
 [
     {
         "courseName": "Data 8 Discussion Worksheets",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://drive.google.com/file/d/1WXuGyAe3OtZTxrddc6aqCVoiR8KpkFSV/view?usp=drive_link",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -184,6 +185,7 @@
     },
     {
         "courseName": "Combined Data100 Worksheets",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://ds100.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -326,6 +328,7 @@
     },
     {
         "courseName": "SJSU 1019S",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -802,6 +805,7 @@
     },
     {
         "courseName": "SJSU Calculus 1 (Quiz Collection)",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -1257,6 +1261,7 @@
     },
     {
         "courseName": "SJSU 1018",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -1737,6 +1742,7 @@
     },
     {
         "courseName": "Mission College: Introductory Statistics",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -2647,6 +2653,7 @@
     },
     {
         "courseName": "Matematik 4",
+        "office_hours": false,
         "language": "se",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -2743,6 +2750,7 @@
     },
     {
         "courseName": "Pre-Calculus Essentials (UC Berkeley Math 1B)",
+        "office_hours": false,
         "language": "en",
         "courseOER": 0,
         "courseLicense": 0,
@@ -2935,6 +2943,7 @@
     },
     {
         "courseName": "OpenStax: College Physics",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -3138,6 +3147,7 @@
     },
     {
         "courseName": "OpenStax: Calculus Volume 1",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -3769,6 +3779,7 @@
     },
     {
         "courseName": "OpenStax: Pre-Calculus",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -4845,6 +4856,7 @@
     },
     {
         "courseName": "OpenStax: Elementary Algebra",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/elementary-algebra-2e <OpenStax: Elementary Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -5984,6 +5996,7 @@
     },
     {
         "courseName": "OpenStax: Intermediate Algebra",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/intermediate-algebra-2e <OpenStax: Intermediate Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -7082,6 +7095,7 @@
     },
     {
         "courseName": "OpenStax: College Algebra",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -8149,6 +8163,7 @@
     },
     {
         "courseName": "OpenStax: Introductory Stats",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9106,6 +9121,7 @@
     },
     {
         "courseName": "OpenStax: University Physics",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9569,6 +9585,7 @@
     },
     {
         "courseName": "Math Basics for Physics",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9649,6 +9666,7 @@
     },
     {
         "courseName": "Chemistry 1A Summer Content",
+        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9783,6 +9801,7 @@
     },
     {
         "courseName": "Solid Foundations: Algebra",
+        "office_hours": false,
         "language": "en",
         "courseOER": 0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -10246,6 +10265,7 @@
     },
     {
         "courseName": "Solid Foundations: Trigonometry",
+        "office_hours": false,
         "language": "en",
         "courseOER": 0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -10587,6 +10607,7 @@
     },
     {
         "courseName": "Solid Foundations: Calculus Part 1",
+        "office_hours": false,
         "language": "en",
         "courseOER": 0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
