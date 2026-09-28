@@ -1,0 +1,16 @@
+{
+    "id": "ab1ad7fGenStr35a",
+    "stepAnswer": [
+        "Contradiction"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$\\frac{1}{4} \\left(20h+8\\right)=\\frac{1}{2} \\left(10h+16\\right)$$",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Conditional Equation",
+        "Identity",
+        "Contradiction"
+    ]
+}
