@@ -288,6 +288,9 @@
                 "name": "Lesson Consent",
                 "topics": "",
                 "allowRecycle": true,
+                "enableCompletionMode": true,
+                "doMasteryUpdate": false,
+                "giveHintOnIncorrect": false,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "consent": 0.85
