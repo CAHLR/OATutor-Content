@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the pattern of the data points. Consider how the function f(x) might transform the x-values to fit the y-values.",
+        "text": "Look at the pattern of the points in the scatterplot. Consider how the function f(x) might transform the x-values to fit the y-values. What kind of transformation does $$f(x)=-x$$ represent?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp19-final-Q3a-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp19-final-Q3a-h1"
-        ],
-        "title": "Considering $$f(x)=-x$$",
-        "text": "If $$f(x)=-x$$, then the transformation would involve flipping the x-values. Consider how this affects the linearity of the data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp19-final-Q3a-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a8c8399ds100-sp19-final-Q3a-h2"
+            "a8c8399ds100-sp19-final-Q3a-h1"
         ],
-        "title": "Checking Linearity",
-        "text": "Does applying $$f(x)=-x$$ to the x-values create a linear relationship with the y-values?",
+        "title": "Analyzing $$f(x)=-x$$",
+        "text": "If $$f(x)=-x$$, how does this affect the x-values? Does this transformation align with the pattern you see in the scatterplot?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

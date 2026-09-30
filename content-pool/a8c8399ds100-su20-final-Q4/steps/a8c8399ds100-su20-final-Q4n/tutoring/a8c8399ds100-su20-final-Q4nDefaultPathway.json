@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Models",
-        "text": "The first model uses the original design matrix X, while the second model uses the mean-centered design matrix X\u0307. This affects the predictions as \u03bb approaches $$\\infty$$.",
+        "text": "The first equation represents the un-regularized linear regression model using the original design matrix. The second equation uses the mean-centered design matrix. Consider how centering affects the intercept term.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a8c8399ds100-su20-final-Q4n-h1"
         ],
-        "title": "Effect of Regularization",
-        "text": "As \u03bb approaches $$\\infty$$, the regularization term dominates the cost function, pushing the coefficients towards zero.",
+        "title": "Effect of Lambda on Predictions",
+        "text": "As lambda approaches $$\\infty$$, the regularization term dominates the cost function. Think about what happens to the coefficients in this scenario.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su20-final-Q4n-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4n-h2"
-        ],
-        "title": "Predictions with Large \u03bb",
-        "text": "With large \u03bb, the coefficients \u03b8 shrink towards zero, leading the predictions to also approach zero.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-su20-final-Q4n-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "$$0$$"
         ],
         "dependencies": [
-            "a8c8399ds100-su20-final-Q4n-h3"
+            "a8c8399ds100-su20-final-Q4n-h2"
         ],
-        "title": "Final Prediction Value",
-        "text": "What value do the predictions of the first model approach as \u03bb approaches positive $$\\infty$$?",
+        "title": "Choosing the Correct Prediction",
+        "text": "What happens to the coefficients when the regularization term becomes very large?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

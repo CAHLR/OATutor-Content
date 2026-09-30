@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Invertibility",
-        "text": "To determine if a matrix is invertible, we need to check if its determinant is non-zero. If the determinant is zero, the matrix is not invertible.",
+        "text": "To determine if a matrix is invertible, you need to check if its determinant is non-zero. If the determinant is zero, the matrix is not invertible. Try calculating the determinant of the matrix X'**{T}X'.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,36 @@
     {
         "id": "a1bb75eds100-su21-final-Q6e-h2",
         "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-su21-final-Q6e-h1"
-        ],
-        "title": "Matrix $X'$",
-        "text": "The matrix $X'$ is formed by adding a column of ones to the original matrix $X$. This is done to account for the intercept in the linear regression model.",
+        "dependencies": [],
+        "title": "Matrix Dimensions",
+        "text": "Consider the dimensions of the matrix X'**{T}X'. If the matrix is square, it might be invertible. What are the dimensions of X'**{T}X' in this problem?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-su21-final-Q6e-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$a$$ $$d-b$$ $$c$$"
+        ],
         "dependencies": [
-            "a1bb75eds100-su21-final-Q6e-h2"
+            "a1bb75eds100-su21-final-Q6e-h1"
         ],
         "title": "Checking Determinant",
-        "text": "Calculate the determinant of $X'**T*X'$. If the determinant is non-zero, then $X'**T*X'$ is invertible.",
+        "text": "What is the determinant of a 2x2 matrix $$\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$a$$ $$d-b$$ $$c$$",
+            "$$a b c d$$",
+            "$$a d-b c$$",
+            "$$a+b+c+d$$",
+            "$$a-b+c-d$$"
+        ]
     },
     {
         "id": "a1bb75eds100-su21-final-Q6e-h4",
@@ -42,10 +52,10 @@
             "Yes"
         ],
         "dependencies": [
-            "a1bb75eds100-su21-final-Q6e-h3"
+            "a1bb75eds100-su21-final-Q6e-h2"
         ],
-        "title": "Calculate $X'**T*X'$",
-        "text": "Compute the product $X'**T*X'$ and find its determinant.",
+        "title": "Square Matrix",
+        "text": "Is the matrix X'**{T}X' a square matrix?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

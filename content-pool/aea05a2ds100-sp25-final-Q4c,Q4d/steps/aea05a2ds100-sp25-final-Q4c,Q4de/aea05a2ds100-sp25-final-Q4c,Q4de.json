@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For a fixed dataset and a fixed value of K, K-means clustering always produces the same final cluster assignments, regardless of the initial placement of centroids.",
-    "stepBody": "Which of the following statements are true about clustering?",
+    "stepTitle": "Which of the following statements are true about clustering?",
+    "stepBody": "For a fixed dataset and a fixed value of K, K-means clustering always produces the same final cluster assignments, regardless of the initial placement of centroids.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

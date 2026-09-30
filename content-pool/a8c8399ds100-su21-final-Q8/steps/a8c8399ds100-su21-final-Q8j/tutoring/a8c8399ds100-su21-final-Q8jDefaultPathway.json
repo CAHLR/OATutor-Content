@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding One-Hot Encoding",
-        "text": "When you one-hot encode a categorical variable, you create a binary column for each category. For example, if you have a column 'class' with values {First, Second, Third}, you will create three new columns: $$'class_{First'}$$, $$'class_{Second'}$$, and $$'class_{Third'}$$.",
+        "text": "When you one-hot encode a categorical variable, each category becomes a separate binary column. For example, if you have a column with three categories, you will create three new columns, each representing one of the categories.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,29 +12,15 @@
     {
         "id": "a8c8399ds100-su21-final-Q8j-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su21-final-Q8j-h1"
-        ],
-        "title": "Intercept Term and One-Hot Encoding",
-        "text": "Including an intercept term in a model with one-hot encoded variables can lead to linear dependence. This is because the intercept can be represented as a combination of the one-hot encoded columns.",
+        "dependencies": [],
+        "title": "Intercept Term in Regression",
+        "text": "An intercept term in a regression model is a constant that allows the model to fit the data better by shifting the regression line up or down. It is often represented as a column of ones in the design matrix.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su21-final-Q8j-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su21-final-Q8j-h2"
-        ],
-        "title": "Full Rank Matrix",
-        "text": "A matrix is full rank if all its columns are linearly independent. If there is a linear dependence among the columns, the matrix is not full rank.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-su21-final-Q8j-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +28,10 @@
             "Linear dependence due to one hot encoded columns with an intercept term"
         ],
         "dependencies": [
-            "a8c8399ds100-su21-final-Q8j-h3"
+            "a8c8399ds100-su21-final-Q8j-h1"
         ],
-        "title": "Identify the Linear Dependence",
-        "text": "Consider the one-hot encoded columns and the intercept term. How might they be linearly dependent?",
+        "title": "Identifying Linear Dependence",
+        "text": "Consider how one-hot encoding and the intercept term might create linear dependence. If you have a one-hot encoded column for each category, what happens when you add an intercept term?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

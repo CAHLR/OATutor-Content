@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Hat Matrix",
-        "text": "The hat matrix $H$ is defined as $H=X(X**TX)**{-1}X**T$. It is used in linear regression to project the observed values onto the fitted values.",
+        "text": "The hat matrix $H$ is used in linear regression to project the observed values onto the fitted values. It is defined as $H=X(X**TX)**{-1}X**T$. This matrix has some special properties that can help in understanding its behavior.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,22 +16,33 @@
             "aba1299row9p2i-h1"
         ],
         "title": "Properties of the Hat Matrix",
-        "text": "One key property of the hat matrix $H$ is that it is idempotent, meaning $H**2=H$. This means that applying the hat matrix twice is the same as applying it once.",
+        "text": "One important property of the hat matrix $H$ is that it is idempotent. This means that when you multiply it by itself, you get the same matrix back: $$\\$HH=H\\$$$. This property is crucial in understanding how the matrix behaves in projections.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row9p2i-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "It means that when the matrix is multiplied by itself, the result is the same matrix."
+        ],
         "dependencies": [
             "aba1299row9p2i-h2"
         ],
-        "title": "Idempotent Matrices",
-        "text": "An idempotent matrix is a matrix which, when multiplied by itself, yields itself. This is a characteristic property of the hat matrix in linear regression.",
+        "title": "Checking Idempotency",
+        "text": "What does it mean for a matrix to be idempotent?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "It means the matrix is symmetric.",
+            "It means the matrix is invertible.",
+            "It means that when the matrix is multiplied by itself, the result is the same matrix.",
+            "It means the matrix is diagonal."
+        ]
     },
     {
         "id": "aba1299row9p2i-h4",
@@ -39,19 +50,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "H"
         ],
         "dependencies": [
             "aba1299row9p2i-h3"
         ],
-        "title": "Checking Idempotency",
-        "text": "To check if $H$ is idempotent, compute $H**2$ and see if it equals $H$.",
+        "title": "Matrix Multiplication",
+        "text": "If $H$ is idempotent, what is $HH$ equal to?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "H",
+            "I",
+            "$$0$$",
+            "2H"
         ]
     }
 ]

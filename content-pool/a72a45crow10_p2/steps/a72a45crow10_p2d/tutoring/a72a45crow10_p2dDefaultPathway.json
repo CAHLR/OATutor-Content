@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Variable Types",
-        "text": "Consider what 'num\\_times' represents in the context of the data. Is it counting something, or is it a category?",
+        "text": "Think about what kind of data $$'num_{times'}$$ represents. Is it something that can be counted or measured?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a72a45crow10_p2d-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Discrete vs Continuous",
-        "text": "Think about whether 'num\\_times' can take any value within a range or if it is limited to specific values.",
+        "dependencies": [
+            "a72a45crow10_p2d-h1"
+        ],
+        "title": "Discrete vs. Continuous",
+        "text": "Consider whether $$'num_{times'}$$ can take any value within a range or if it is limited to specific values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,33 +30,10 @@
             "Quantitative Discrete"
         ],
         "dependencies": [
-            "a72a45crow10_p2d-h1"
-        ],
-        "title": "Identifying 'num\\_times'",
-        "text": "The 'num\\_times' column counts how many times Angela has gotten each drink. What type of variable is this?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Qualitative Nominal",
-            "Qualitative Ordinal",
-            "Quantitative Continuous",
-            "Quantitative Discrete"
-        ]
-    },
-    {
-        "id": "a72a45crow10_p2d-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Quantitative Discrete"
-        ],
-        "dependencies": [
             "a72a45crow10_p2d-h2"
         ],
-        "title": "Characteristics of 'num\\_times'",
-        "text": "Since 'num\\_times' represents a count, it can only take whole number values. What does this imply about its variable type?",
+        "title": "Choosing the Right Type",
+        "text": "Which of the following best describes $$'num_{times'}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

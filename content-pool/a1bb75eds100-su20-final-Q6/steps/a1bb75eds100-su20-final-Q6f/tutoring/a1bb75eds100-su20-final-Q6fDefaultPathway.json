@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-su20-final-Q6f-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Code",
-        "text": "The code `consoles.groupby('generation').size().loc[7]` is used to find the number of consoles in the seventh generation. Let's break it down:\\n\\n$$1$$. **`consoles.groupby('generation')`**: This groups the DataFrame by the 'generation' column.\\n$$2$$. **`.size()`**: This returns the size of each group, i.e., the number of entries in each generation.\\n$$3$$. **`.loc[7]`**: This selects the size of the group corresponding to generation $$7$$.",
+        "title": "Understanding groupby and size",
+        "text": "The `groupby` function in pandas is used to split the data into groups based on some criteria. The `size` function then counts the number of entries in each group. What do you think `groupby('generation').size()` will return?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1bb75eds100-su20-final-Q6f-h1"
         ],
-        "title": "Checking the Data",
-        "text": "Look at the data provided:\\n- Playstation 2: generation $$6$$\\n- Xbox 360: generation $$7$$\\n- Nintendo DS: generation $$7$$\\n- Atari 2600: generation $$2$$\\n- Dreamcast: generation $$6$$\\n- Playstation 4: generation $$8$$\\n\\nHow many consoles belong to generation 7?",
+        "title": "Accessing specific group data",
+        "text": "After using `groupby` and `size`, you can access the size of a specific group using `.loc[]`. What does `.loc[7]` refer to in this context?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,30 +24,22 @@
     {
         "id": "a1bb75eds100-su20-final-Q6f-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$2$$"
+            "TRUE"
         ],
         "dependencies": [
             "a1bb75eds100-su20-final-Q6f-h2"
         ],
-        "title": "Counting Generation $$7$$ Consoles",
-        "text": "Based on the data provided, count the number of consoles that belong to generation $$7$$.",
+        "title": "Checking the group size",
+        "text": "What does the expression `consoles.groupby('generation').size().loc[7]` return?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-su20-final-Q6f-h4",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-su20-final-Q6f-h3"
-        ],
-        "title": "Verifying the Code",
-        "text": "The code `consoles.groupby('generation').size().loc[7]` should return the number of consoles in generation $$7$$. Based on the data, there are $$2$$ consoles in generation $$7$$. Does the code correctly return this value?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     }
 ]

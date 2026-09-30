@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The weight corresponding to the intercept term is positive.",
-    "stepBody": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepTitle": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepBody": "The weight corresponding to the intercept term is positive.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

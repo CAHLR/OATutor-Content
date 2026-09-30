@@ -4,8 +4,8 @@
         "Increase and Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Remove one feature from Model A: effect on MSE on held-out test data",
-    "stepBody": "Change to Model A: Remove one feature from Model A. Select all possible effects on MSE on held-out test data.",
+    "stepTitle": "Change to Model A: Remove one feature from Model A. Select all possible effects on MSE on held-out test data.",
+    "stepBody": "Remove one feature from Model A: effect on MSE on held-out test data",
     "answerType": "string",
     "variabilization": {},
     "choices": [

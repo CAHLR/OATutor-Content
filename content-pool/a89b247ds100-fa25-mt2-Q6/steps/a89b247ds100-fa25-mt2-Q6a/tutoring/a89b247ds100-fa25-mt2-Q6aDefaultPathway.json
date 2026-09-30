@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Bias",
-        "text": "Adding a new feature to a model can affect its bias. Consider how adding a feature that is a transformation of an existing feature might impact the model's ability to fit the data.",
+        "text": "When you add a new feature to a model, think about how it might affect the model's ability to capture the true relationship between the input features and the output. Consider whether the new feature could potentially introduce more error in the model's predictions.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a89b247ds100-fa25-mt2-Q6a-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6a-h1"
-        ],
-        "title": "Effect on Model Bias",
-        "text": "Adding a feature that is a transformation of an existing feature can potentially decrease the model bias if it captures additional information about the data. However, it might also increase bias if it introduces noise.",
+        "dependencies": [],
+        "title": "Impact on Model Variance",
+        "text": "Adding a new feature can increase the complexity of the model. Reflect on how this complexity might affect the model's sensitivity to fluctuations in the training data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,21 +25,38 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "both"
+            "Increase|Decrease"
         ],
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6a-h2"
-        ],
-        "title": "Analyzing the Impact",
-        "text": "Consider the effect of adding a feature that is the square of an existing feature on the model bias. Is it possible for the model bias to increase, decrease, or both?",
+        "dependencies": [],
+        "title": "Effect on Training MSE",
+        "text": "Consider how adding a new feature might affect the model's performance on the training data. Could it potentially fit the training data better or worse?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Both",
             "Decrease",
             "Increase",
-            "both"
+            "Increase|Decrease"
+        ]
+    },
+    {
+        "id": "a89b247ds100-fa25-mt2-Q6a-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Increase|Decrease"
+        ],
+        "dependencies": [],
+        "title": "Effect on Test MSE",
+        "text": "Think about how the addition of a new feature might impact the model's performance on unseen data. Could it lead to overfitting or underfitting?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Decrease",
+            "Increase",
+            "Increase|Decrease"
         ]
     }
 ]

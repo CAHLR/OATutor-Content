@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Linear Independence",
-        "text": "To determine if the columns are linearly independent, consider if any column can be expressed as a linear combination of the others.",
+        "text": "To determine if a set of columns is linearly independent, consider if any column can be expressed as a linear combination of the others. Think about the relationships between height in inches and centimeters, and weight in pounds and kilograms.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,47 +12,61 @@
     {
         "id": "a8c8399ds100-fa20-final-Q12b-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa20-final-Q12b-h1"
-        ],
-        "title": "Checking for Linear Combinations",
-        "text": "Check if the new columns (height in inches and weight in pounds) can be expressed as linear combinations of the original columns (height in cm, weight in kg, and BMI).",
+        "dependencies": [],
+        "title": "Conversion Relationships",
+        "text": "Remember that height in inches is calculated from height in centimeters using the formula: height (in) $$=$$ height (cm) / $$2.54$$. Similarly, weight in pounds is calculated from weight in kilograms using: weight (lb) $$=$$ weight (kg) * $$2.2$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa20-final-Q12b-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa20-final-Q12b-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
         ],
-        "title": "Conversion Formulas",
-        "text": "Remember the conversion formulas: height (in) $$=$$ height (cm) / $$2.54$$ and weight (lb) $$=$$ weight (kg) * $$2.2$$. Use these to check for linear dependence.",
+        "dependencies": [
+            "a8c8399ds100-fa20-final-Q12b-h1"
+        ],
+        "title": "Checking Linear Independence",
+        "text": "Can height (in) be expressed as a linear combination of height (cm)?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "a8c8399ds100-fa20-final-Q12b-h4",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa20-final-Q12b-h3"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
         ],
-        "title": "Conclusion on Linear Independence",
-        "text": "Since height (in) and weight (lb) can be expressed as linear combinations of height (cm) and weight (kg), the columns are not linearly independent.",
+        "dependencies": [
+            "a8c8399ds100-fa20-final-Q12b-h1"
+        ],
+        "title": "Checking Linear Independence for Weight",
+        "text": "Can weight (lb) be expressed as a linear combination of weight (kg)?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "a8c8399ds100-fa20-final-Q12b-h5",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa20-final-Q12b-h4"
-        ],
+        "dependencies": [],
         "title": "Span of the Columns",
-        "text": "The span of the columns of humans is the same as the span of the original columns because the new columns are linear combinations of the original ones.",
+        "text": "The span of a set of vectors is the set of all possible linear combinations of those vectors. Consider how the conversion formulas affect the span of the columns.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

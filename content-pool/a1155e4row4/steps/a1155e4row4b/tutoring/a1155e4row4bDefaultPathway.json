@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the DataFrame",
-        "text": "Look at the columns of the 'nuggets' DataFrame. Which column would help you identify the fast food chain?",
+        "text": "Look at the columns in the `nuggets` DataFrame. Which column would help you filter nuggets with weight less than $$0.6$$ ounces?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a1155e4row4b-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a1155e4row4b-h1"
+        ],
         "title": "Filtering the Data",
-        "text": "Consider how you can filter the DataFrame to only include nuggets with a weight less than $$0.6$$ ounces.",
+        "text": "To find nuggets with weight less than $$0.6$$ ounces, you need to filter the DataFrame using a condition on the `weight` column. How would you write this condition?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -22,29 +24,34 @@
     {
         "id": "a1155e4row4b-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "chain"
         ],
-        "dependencies": [],
+        "dependencies": [
+            "a1155e4row4b-h2"
+        ],
         "title": "Selecting the Column",
-        "text": "Which column should you select to identify the chain?",
+        "text": "Which column should you select to count the number of nuggets sold by each chain?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "chain",
+            ">weight",
+            ">shape",
+            ">location"
+        ]
     },
     {
         "id": "a1155e4row4b-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$nuggets[primesymbolweightprimesymbol]<0.6$$"
+        "type": "hint",
+        "dependencies": [
+            "a1155e4row4b-h3"
         ],
-        "dependencies": [],
-        "title": "Applying the Filter",
-        "text": "How would you filter the DataFrame to only include rows where the weight is less than $$0.6$$ ounces?",
+        "title": "Counting Values",
+        "text": "After filtering the DataFrame and selecting the `chain` column, use the $$`\\operatorname{value_{counts}}\\left(\\right)`$$ method to count the occurrences of each chain. This will help you find which chain sold the most nuggets with weight less than $$0.6$$ ounces.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

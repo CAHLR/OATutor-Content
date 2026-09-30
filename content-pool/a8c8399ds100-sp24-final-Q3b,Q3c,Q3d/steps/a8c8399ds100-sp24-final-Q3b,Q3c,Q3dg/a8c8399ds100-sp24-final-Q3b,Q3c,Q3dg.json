@@ -4,8 +4,8 @@
         "$$m$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "blank (first dimension): dimensionality of $$\\hat{\\theta}$$",
-    "stepBody": "If there are $$m$$ different genres in genre, what is the dimensionality of $$\\hat{\\theta}$$ in Milad's model? Leave your answer in terms of $$m$$.\\n\\nDimensionality of $$\\hat{\\theta}$$ $$=$$ [blank] $$x$$ [blank]",
+    "stepTitle": "If there are $$m$$ different genres in genre, what is the dimensionality of $$\\hat{\\theta}$$ in Milad's model? Leave your answer in terms of $$m$$.\\n\\nDimensionality of $$\\hat{\\theta}$$ $$=$$ [blank] $$x$$ [blank]",
+    "stepBody": "blank (first dimension): dimensionality of $$\\hat{\\theta}$$",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$m$$",

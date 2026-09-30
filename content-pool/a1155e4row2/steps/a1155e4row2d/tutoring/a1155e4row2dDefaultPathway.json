@@ -3,8 +3,8 @@
         "id": "a1155e4row2d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the DataFrame",
-        "text": "Look at the columns in the DataFrame. Which column contains the year of renovation?",
+        "title": "Understanding Box Plots",
+        "text": "Box plots are useful for showing the distribution of data and identifying outliers. They are not typically used for showing totals or counts over time. Consider what type of plot might better show the total number of renovations by year.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1155e4row2d-h1"
         ],
-        "title": "Identifying Relevant Columns",
-        "text": "The 'renovated' column contains the year each room was last renovated. This is crucial for visualizing renovations by year.",
+        "title": "Choosing the Right Visualization",
+        "text": "Think about what kind of plot is best for showing changes over time. Line plots or bar charts are often used to display trends or totals over time. How might these be more appropriate than box plots for this data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,62 +27,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Box plot"
+            "FALSE"
         ],
-        "dependencies": [],
-        "title": "Choosing the Right Visualization",
-        "text": "What type of plot is suitable for showing the distribution of a numerical variable across different categories?",
+        "dependencies": [
+            "a1155e4row2d-h2"
+        ],
+        "title": "Evaluating Box Plots for Time Series Data",
+        "text": "Are box plots typically used to show totals or counts over time?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Box plot",
-            "Line plot",
-            "Scatter plot",
-            "Bar chart"
+            "TRUE",
+            "FALSE"
         ]
-    },
-    {
-        "id": "a1155e4row2d-h4",
-        "type": "hint",
-        "dependencies": [
-            "a1155e4row2d-h3"
-        ],
-        "title": "Box Plot Characteristics",
-        "text": "Box plots are useful for visualizing the distribution of data and identifying outliers. They show the median, quartiles, and potential outliers.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row2d-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "No"
-        ],
-        "dependencies": [],
-        "title": "Evaluating Overplotting",
-        "text": "Is overplotting a concern when using box plots to visualize data?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Yes",
-            "No"
-        ]
-    },
-    {
-        "id": "a1155e4row2d-h6",
-        "type": "hint",
-        "dependencies": [
-            "a1155e4row2d-h5"
-        ],
-        "title": "Understanding Overplotting",
-        "text": "Overplotting occurs when too many data points overlap, making it difficult to see individual points. Box plots summarize data, reducing this issue.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

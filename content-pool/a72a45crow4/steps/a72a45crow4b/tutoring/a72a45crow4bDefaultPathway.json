@@ -3,8 +3,8 @@
         "id": "a72a45crow4b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Stratification",
-        "text": "Oski stratifies the sample based on high school location. This means the sample should reflect the proportions of attendees from each location.",
+        "title": "Understanding Stratified Sampling",
+        "text": "Stratified sampling involves dividing the population into distinct subgroups and then sampling from each subgroup. In this case, the subgroups are based on high school location. Can you identify how many subgroups are within California?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a72a45crow4b-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Proportion of Attendees from California",
-        "text": "Remember that Southern and Northern California are both part of California. Combine these two groups to find the total number of attendees from California.",
+        "dependencies": [
+            "a72a45crow4b-h1"
+        ],
+        "title": "Calculating the Total from California",
+        "text": "To find out how many attendees went to high school in California, consider the sum of those from Southern and Northern California. What is the sum of these two groups?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,30 +27,46 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$500+400$$"
+            "$$0.9$$"
         ],
-        "dependencies": [],
-        "title": "Calculate Total California Attendees",
-        "text": "Add the number of attendees from Southern California and Northern California to find the total number of attendees from California.",
+        "dependencies": [
+            "a72a45crow4b-h2"
+        ],
+        "title": "Proportion of California Attendees",
+        "text": "What proportion of the total attendees went to high school in California?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0.9$$",
+            "$$0.6$$",
+            "$$0.7$$",
+            "$$0.8$$",
+            "$$0.9$$"
+        ]
     },
     {
         "id": "a72a45crow4b-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$100\\frac{500+400}{1000}$$"
+            "$$90$$"
         ],
         "dependencies": [
             "a72a45crow4b-h3"
         ],
-        "title": "Calculate Sample Proportion",
-        "text": "Calculate the proportion of attendees from California in the total attendee list. Use this proportion to find how many of the $$100$$ sampled email addresses are from California.",
+        "title": "Sample Calculation",
+        "text": "If 90% of the attendees went to high school in California, how many of the $$100$$ sampled email addresses would you expect to be from California?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$90$$",
+            "$$100$$",
+            "$$50$$",
+            "$$0$$",
+            "$$80$$"
+        ]
     }
 ]

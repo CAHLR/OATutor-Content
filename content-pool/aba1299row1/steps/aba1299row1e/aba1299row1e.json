@@ -4,8 +4,8 @@
         "Orthogonal to"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Residual Direction vs. Predictions",
-    "stepBody": "Using the setup above, fill in the blank: $$\\hat{Y}$$ - Y is [blank] $$\\hat{Y}.$$",
+    "stepTitle": "Using the setup above, fill in the blank: $$\\hat{Y}$$ - Y is [blank] $$\\hat{Y}.$$",
+    "stepBody": "Residual Direction vs. Predictions",
     "answerType": "string",
     "variabilization": {},
     "choices": [

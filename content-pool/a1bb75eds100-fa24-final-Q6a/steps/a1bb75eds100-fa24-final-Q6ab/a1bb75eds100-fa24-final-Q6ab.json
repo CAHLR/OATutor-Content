@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For all linearly separable datasets, there exists a finite number of optimal solutions for model parameters.",
-    "stepBody": "Evaluate the following statements about training a logistic regression model on a linearly separable dataset.",
+    "stepTitle": "Evaluate the following statements about training a logistic regression model on a linearly separable dataset.",
+    "stepBody": "For all linearly separable datasets, there exists a finite number of optimal solutions for model parameters.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

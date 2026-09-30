@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding L2 Regularization",
-        "text": "L2 regularization, also known as Ridge Regression, adds a penalty equal to the square of the magnitude of coefficients to the loss function. This helps in reducing overfitting and ensures a unique solution.",
+        "text": "L2 regularization, also known as Ridge Regression, adds a penalty equal to the square of the magnitude of coefficients to the loss function. This helps in reducing overfitting by shrinking the coefficients. Can you think about how this might affect the uniqueness of the solution?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aba1299row4d-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row4d-h1"
-        ],
-        "title": "Why is the solution unique?",
-        "text": "The addition of the L2 penalty term makes the optimization problem strictly convex, which guarantees a unique solution for the coefficients.",
+        "dependencies": [],
+        "title": "Degrees of Freedom in the Model",
+        "text": "In your model, you have $$30$$ observations and $$29$$ features. Consider how the number of observations compared to the number of features might impact the model's ability to find a unique solution.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,19 +25,42 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "L2 regularization ensures a unique solution by adding a penalty term that prevents coefficients from becoming too large."
         ],
         "dependencies": [
-            "aba1299row4d-h2"
+            "aba1299row4d-h1"
         ],
-        "title": "Understanding the Model",
-        "text": "The model has $$30$$ parameters, including the intercept. With L2 regularization, the solution is unique because the optimization problem becomes strictly convex.",
+        "title": "Effect of Regularization on Uniqueness",
+        "text": "Which of the following statements is true about the effect of L2 regularization on the uniqueness of the OLS solution?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "L2 regularization ensures a unique solution by adding a penalty term that prevents coefficients from becoming too large.",
+            "L2 regularization does not affect the uniqueness of the solution.",
+            "L2 regularization makes the solution less unique by adding complexity."
+        ]
+    },
+    {
+        "id": "aba1299row4d-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The model can find a unique solution because the number of observations is greater than the number of features."
+        ],
+        "dependencies": [
+            "aba1299row4d-h2"
+        ],
+        "title": "Understanding the Role of Observations and Features",
+        "text": "Given that there are $$30$$ observations and $$29$$ features, what can be inferred about the model's ability to find a unique solution?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "The model can find a unique solution because the number of observations is greater than the number of features.",
+            "The model cannot find a unique solution because the number of features is too high.",
+            "The model's ability to find a unique solution is not affected by the number of observations."
         ]
     }
 ]

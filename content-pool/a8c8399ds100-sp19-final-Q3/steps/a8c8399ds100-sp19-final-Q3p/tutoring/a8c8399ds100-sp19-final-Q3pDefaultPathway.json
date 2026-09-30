@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the pattern of the data points. How do they relate to the functions provided?",
+        "text": "Observe the pattern of the data points in the scatterplot. Notice how the y-values change as $$x$$ increases. This can give you a clue about the type of function that might fit the data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3p-h1"
         ],
-        "title": "Considering Absolute Value",
-        "text": "Consider the function $$f(x)=|x|$$. How does this function transform the x-values? Does it fit the pattern of the data points?",
+        "title": "Consider the Function Options",
+        "text": "Think about how each function option (A, B, C, D) transforms the x-values. Which transformation seems to match the pattern of the y-values in the scatterplot?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3p-h2"
         ],
-        "title": "Checking the Fit",
-        "text": "Does the function $$f(x)=|x|$$ allow for a linear combination with $$x$$ to fit the data points?",
+        "title": "Analyzing Absolute Value",
+        "text": "What happens to the y-values when you apply the absolute value function to $$x$$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

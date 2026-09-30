@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Objective Function",
-        "text": "The objective function $R(\\theta)=1/3*sum{i\\=1}{3}{(x_i-\\theta)**2}$ is a measure of how far the data points are from the value $\\theta$. To minimize this function, we need to find a $\\theta$ that makes the sum of squared differences as small as possible.",
+        "text": "The objective function given is a type of mean squared error. It measures how far each data point is from your chosen value of theta, squared, and then averaged. Think about what kind of value would minimize these squared differences.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "abf3684ds100-sp25-mt-Q3ea-h1"
         ],
-        "title": "Mean as a Minimizer",
-        "text": "The mean of a dataset is often used to minimize the sum of squared differences. Calculate the mean of the data points {1, $$6$$, 17} to see if it minimizes the objective function.",
+        "title": "Exploring the Mean",
+        "text": "Consider the role of the mean in minimizing squared differences. The mean of a dataset is often used as a measure of central tendency. How does it relate to minimizing the sum of squared deviations?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,8 +24,8 @@
     {
         "id": "abf3684ds100-sp25-mt-Q3ea-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$8$$"
         ],
@@ -33,10 +33,16 @@
             "abf3684ds100-sp25-mt-Q3ea-h2"
         ],
         "title": "Calculate the Mean",
-        "text": "Find the mean of the data points {1, $$6$$, 17}.",
+        "text": "Calculate the mean of the dataset {1, $$6$$, 17}.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\frac{8}{3}$$",
+            "$$\\frac{6}{3}$$",
+            "$$6$$",
+            "$$8$$"
+        ]
     },
     {
         "id": "abf3684ds100-sp25-mt-Q3ea-h4",
@@ -44,8 +50,8 @@
         "dependencies": [
             "abf3684ds100-sp25-mt-Q3ea-h3"
         ],
-        "title": "Verify the Minimization",
-        "text": "Substitute $\\theta=8$ into the objective function $R(\\theta)=1/3*sum{i\\=1}{3}{(x_i-\\theta)**2}$ and calculate the value to verify that it is minimized.",
+        "title": "Why the Mean?",
+        "text": "The mean minimizes the sum of squared deviations because it balances the data points around it. Each point's deviation from the mean is squared, and the mean is the point where these squared deviations are smallest.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

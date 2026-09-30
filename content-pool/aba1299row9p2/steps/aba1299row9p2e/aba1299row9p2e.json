@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "If $$X$$ is not invertible, then $$\\hat{\\theta}$$ cannot be calculated using the normal equation.|",
-    "stepBody": "Is this true about the ordinary least squares estimate $$\\hat{\\theta}?$$ Select all that apply.",
+    "stepTitle": "Is this true about the ordinary least squares estimate $$\\hat{\\theta}?$$ Select all that apply.",
+    "stepBody": "If $$X$$ is not invertible, then $$\\hat{\\theta}$$ cannot be calculated using the normal equation.|",
     "answerType": "string",
     "variabilization": {},
     "choices": [

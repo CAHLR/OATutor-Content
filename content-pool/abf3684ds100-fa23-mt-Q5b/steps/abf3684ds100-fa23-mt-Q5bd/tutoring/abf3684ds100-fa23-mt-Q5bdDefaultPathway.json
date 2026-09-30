@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Loss Functions",
-        "text": "Loss functions are used to measure how well a model's predictions match the actual data. They help in optimizing the model parameters.",
+        "text": "When considering loss functions, think about how they handle differences between predicted and actual values. A higher power in the loss function can amplify these differences, especially for larger errors.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,22 +15,73 @@
         "dependencies": [
             "abf3684ds100-fa23-mt-Q5bd-h1"
         ],
-        "title": "Mean Squared Error (MSE)",
-        "text": "MSE is a common loss function that calculates the average of the squares of the errors. It is sensitive to outliers because squaring the errors increases the penalty for larger errors.",
+        "title": "Comparing Powers in Loss Functions",
+        "text": "Consider how the power of the difference term affects the sensitivity of the loss function to outliers. Higher powers tend to increase sensitivity to larger errors.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-fa23-mt-Q5bd-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
+        ],
         "dependencies": [
             "abf3684ds100-fa23-mt-Q5bd-h2"
         ],
-        "title": "Penalizing Outliers",
-        "text": "To penalize outliers more harshly than MSE, consider using loss functions that involve higher powers or absolute values of the errors.",
+        "title": "Analyzing the Cubic Loss Function",
+        "text": "Does the function sum{i\\=1}{n}{(y_i-\\hat{y}_i)**3} penalize larger errors more than the mean squared error (MSE)?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
+    },
+    {
+        "id": "abf3684ds100-fa23-mt-Q5bd-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
+        ],
+        "dependencies": [
+            "abf3684ds100-fa23-mt-Q5bd-h3"
+        ],
+        "title": "Exploring Absolute Cubic Loss",
+        "text": "Consider the function sum{i\\=1}{n}{abs(y_i-\\hat{y}_i)**3}. How does the absolute value affect the treatment of errors compared to the cubic loss without absolute value?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
+    },
+    {
+        "id": "abf3684ds100-fa23-mt-Q5bd-h5",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
+        ],
+        "dependencies": [
+            "abf3684ds100-fa23-mt-Q5bd-h4"
+        ],
+        "title": "Evaluating Quartic Loss",
+        "text": "Does the function sum{i\\=1}{n}{(y_i-\\hat{y}_i)**4} penalize outliers more harshly than MSE?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     }
 ]

@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The choice of linkage type in agglomeration clustering can impact the final result.",
-    "stepBody": "Which of the following statements are correct?",
+    "stepTitle": "Which of the following statements are correct?",
+    "stepBody": "The choice of linkage type in agglomeration clustering can impact the final result.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

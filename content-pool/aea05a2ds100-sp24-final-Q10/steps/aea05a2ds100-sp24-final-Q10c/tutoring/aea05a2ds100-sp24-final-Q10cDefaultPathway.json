@@ -3,8 +3,8 @@
         "id": "aea05a2ds100-sp24-final-Q10c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding k-Medians Clustering",
-        "text": "In k-Medians clustering, the center of each cluster is the median of the data points in that cluster, not the mean. This can affect how clusters are formed and whether they converge.",
+        "title": "Understanding k-Medians",
+        "text": "In k-Medians clustering, the center of each cluster is the median of the data points in that cluster. This is different from k-Means, where the center is the mean. Think about how the median is calculated and how it might affect the cluster centers.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,59 +12,45 @@
     {
         "id": "aea05a2ds100-sp24-final-Q10c-h2",
         "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp24-final-Q10c-h1"
-        ],
-        "title": "Initial Cluster Centers",
-        "text": "The initial cluster centers are set at $$2$$ and $$7$$. Consider how the data points might be assigned to these clusters based on their proximity to these centers.",
+        "dependencies": [],
+        "title": "First Iteration Check",
+        "text": "To determine if k-Medians has converged, check if the cluster centers have changed after assigning data points to the nearest center. If they remain the same, it has converged. Otherwise, it hasn't.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp24-final-Q10c-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$3$$ and $$5.5$$"
+        ],
         "dependencies": [
             "aea05a2ds100-sp24-final-Q10c-h2"
         ],
-        "title": "Assigning Data Points to Clusters",
-        "text": "Data points are assigned to the cluster whose center is closest to them. Calculate the distance of each data point from the initial centers $$2$$ and $$7$$.",
+        "title": "Calculating New Medians",
+        "text": "After assigning each data point to the nearest cluster center, calculate the median of each cluster. What are the new medians?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$2$$ and $$7$$",
+            "$$3$$ and $$5.5$$",
+            "$$1$$ and $$8$$"
+        ]
     },
     {
         "id": "aea05a2ds100-sp24-final-Q10c-h4",
         "type": "hint",
         "dependencies": [
-            "aea05a2ds100-sp24-final-Q10c-h3"
+            "aea05a2ds100-sp24-final-Q10c-h1"
         ],
-        "title": "Calculating New Medians",
-        "text": "Once data points are assigned to clusters, calculate the median of each cluster to determine the new cluster centers.",
+        "title": "Assigning Data Points",
+        "text": "Assign each data point to the nearest cluster center. For example, data point $$1$$ is closer to center $$2$$ than to center $$7$$. Do this for all data points.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp24-final-Q10c-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "No"
-        ],
-        "dependencies": [
-            "aea05a2ds100-sp24-final-Q10c-h4"
-        ],
-        "title": "Checking for Convergence",
-        "text": "After calculating the new medians, compare them to the initial centers. If they are the same, the clustering has converged.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Yes",
-            "No",
-            "Impossible to tell"
-        ]
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding k-fold Cross-Validation",
-        "text": "In k-fold cross-validation, the dataset is divided into k subsets, and the model is trained k times, each time using a different subset as the validation set and the remaining subsets as the training set.",
+        "text": "In k-fold cross-validation, the dataset is divided into k subsets, and the model is trained k times, each time using a different subset as the validation set and the remaining as the training set. What do you think happens if we use the entire training set for each fold?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a9edaf5ds100-fa20-final-Q7c-h1"
         ],
-        "title": "Effect of Using Entire Training Set",
-        "text": "Consider what happens when you use the entire training set for training in each fold. Does this align with the purpose of cross-validation?",
+        "title": "Impact of Using Entire Training Set",
+        "text": "Consider what happens to the model's ability to generalize if it sees the entire training set every time. Does it learn to adapt too closely to the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-fa20-final-Q7c-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-fa20-final-Q7c-h2"
-        ],
-        "title": "Purpose of Cross-Validation",
-        "text": "The purpose of cross-validation is to assess how the results of a statistical analysis will generalize to an independent data set. It helps in detecting overfitting.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a9edaf5ds100-fa20-final-Q7c-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a9edaf5ds100-fa20-final-Q7c-h3"
+            "a9edaf5ds100-fa20-final-Q7c-h2"
         ],
-        "title": "Analyzing the Modification",
-        "text": "If you use the entire training set for training in each fold, are you still validating the model's performance on unseen data?",
+        "title": "Evaluating Overfitting",
+        "text": "If a model is trained on the entire training set for each fold, will it likely perform better on unseen data or just on the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Each data point is in the validation set exactly once across the $$4$$ folds.",
-    "stepBody": "The Raising Cane's team uses 4-fold cross-validation for hyperparameter tuning.\\nWhich of the following is always true?",
+    "stepTitle": "The Raising Cane's team uses 4-fold cross-validation for hyperparameter tuning.\\nWhich of the following is always true?",
+    "stepBody": "Each data point is in the validation set exactly once across the $$4$$ folds.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

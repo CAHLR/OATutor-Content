@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Linear Models",
-        "text": "A linear model is one where the relationship between the dependent variable and the independent variables is linear with respect to the parameters (coefficients).",
+        "text": "A linear model is one where the relationship between the dependent variable and the independent variables is linear in the parameters. This means that the parameters (theta) are not multiplied together, raised to a power, or involved in any non-linear transformations.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3di-h1"
         ],
         "title": "Identifying Linear Models",
-        "text": "Consider whether the model can be expressed in the form $$y=\\theta_1 x_1+\\theta_2 x_2+...+\\theta_n x_n$$, where thetas are the parameters.",
+        "text": "Consider the structure of the equation. If the equation can be expressed as a linear combination of the parameters, it is a linear model. For example, $$y=\\theta_1 x_1+\\theta_2 x_2$$ is linear because it is a sum of terms, each of which is a parameter multiplied by a variable.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,42 +27,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yes, it is a linear model with respect to theta."
+            "TRUE"
         ],
         "dependencies": [
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3di-h2"
         ],
-        "title": "Example of a Linear Model",
-        "text": "Is the model $$y=\\theta_1 x_1+\\theta_2 x_2$$ a linear model with respect to theta?",
+        "title": "Checking Linearity",
+        "text": "Is the equation $$y=\\theta_1 x_1+\\theta_2 x_2$$ a linear model with respect to theta?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "Yes",
-            "Yes, it is a linear model with respect to theta."
-        ]
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3di-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Yes, it is still a linear model with respect to theta because the parameters are not raised to any power."
-        ],
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3di-h2"
-        ],
-        "title": "Non-linear Model Example",
-        "text": "Is the model $$y=\\theta_1 {x_1}^2+\\theta_2 x_2$$ a linear model with respect to theta?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "No",
-            "Yes",
-            "Yes, it is still a linear model with respect to theta because the parameters are not raised to any power."
+            "TRUE",
+            "FALSE"
         ]
     }
 ]

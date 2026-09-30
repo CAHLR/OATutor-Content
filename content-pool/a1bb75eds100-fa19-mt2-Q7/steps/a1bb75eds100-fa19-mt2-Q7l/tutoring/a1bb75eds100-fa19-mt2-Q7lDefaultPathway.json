@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-fa19-mt2-Q7l-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Odds",
-        "text": "The odds of survival for a male passenger is given by the model as $$m$$. This is calculated based on the logistic regression equation.",
+        "title": "Understanding Odds",
+        "text": "Odds are a way of expressing the likelihood of an event happening compared to it not happening. If the odds of an event are $$4$$, it means the event is $$4$$ times more likely to happen than not happen. Can you think about how this relates to probabilities?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,56 +15,34 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7l-h1"
         ],
-        "title": "Logistic Regression Equation",
-        "text": "The logistic regression equation is given by: $$\\ln\\left(odds\\right)=intercept+beta1 age+beta2 sex$$. Here, sex is a binary variable (0 for female, $$1$$ for male).",
+        "title": "Interpreting the Coefficients",
+        "text": "The coefficients in a logistic regression model tell us how the log-odds of the outcome change with a one-unit change in the predictor variable. What does the coefficient for sex tell you about the odds of survival for males versus females?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7l-h3",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7l-h2"
-        ],
-        "title": "Calculating Odds for Females",
-        "text": "For a female passenger, the sex variable is $$0$$. Substitute this into the logistic regression equation to find the odds for females.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7l-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$\\ln\\left(f\\right)=-1.2-0.005age$$"
-        ],
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7l-h3"
-        ],
-        "title": "Substitute Values",
-        "text": "Substitute the values into the logistic regression equation: $$\\ln\\left(f\\right)=intercept+beta1 age+0beta2$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7l-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$f={me}^{2.5}$$"
         ],
         "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7l-h4"
+            "a1bb75eds100-fa19-mt2-Q7l-h2"
         ],
-        "title": "Relate Male and Female Odds",
-        "text": "Use the relationship between male and female odds: $$f={me}^{beta2}$$.",
+        "title": "Calculating Odds for Females",
+        "text": "If the odds of survival for a male passenger are $$m$$, how would you express the odds for a female passenger using the coefficient for sex?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$f={me}^{-2.5}$$",
+            "$$f=m+e^{2.5}$$",
+            "$$f={me}^{2.5}$$",
+            "$$f=2.5m$$",
+            "$$f=m+2.5$$"
+        ]
     }
 ]

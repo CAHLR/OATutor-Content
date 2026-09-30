@@ -3,8 +3,8 @@
         "id": "a640c04S25M1Q2Bc-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Code",
-        "text": "The code uses the `str.match()` function. What does this function do?",
+        "title": "Understanding the Regular Expression",
+        "text": "The regular expression `**510$` is used to match strings that start and end with '510'. Consider how this might affect the matching of phone numbers that start with '510'.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a640c04S25M1Q2Bc-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Regular Expression Basics",
-        "text": "The regular expression `**510$` is used in the code. What does this pattern match?",
+        "dependencies": [
+            "a640c04S25M1Q2Bc-h1"
+        ],
+        "title": "Correct Regular Expression",
+        "text": "To match phone numbers that start with '510', you need a regular expression that checks the beginning of the string. Think about how you can use `**` to indicate the start of a string and what should follow '510'.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -22,35 +24,23 @@
     {
         "id": "a640c04S25M1Q2Bc-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "**510-"
+            "**510"
         ],
         "dependencies": [
             "a640c04S25M1Q2Bc-h2"
         ],
-        "title": "Correct Regular Expression",
-        "text": "What regular expression should be used to match phone numbers starting with 510?",
+        "title": "Choosing the Correct Pattern",
+        "text": "Which of the following regular expressions correctly matches phone numbers that start with '510'?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a640c04S25M1Q2Bc-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "dishes[dishes['phone number'].str.match('**510-')]"
-        ],
-        "dependencies": [
-            "a640c04S25M1Q2Bc-h3"
-        ],
-        "title": "Fixing the Code",
-        "text": "How would you modify the code to correctly filter phone numbers starting with 510?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "**510$",
+            "**510",
+            "510$"
+        ]
     }
 ]

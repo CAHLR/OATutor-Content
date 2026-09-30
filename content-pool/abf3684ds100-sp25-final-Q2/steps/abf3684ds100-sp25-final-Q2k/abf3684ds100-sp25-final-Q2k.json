@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Cross-validation folds are created by sampling with replacement from the original data.",
-    "stepBody": "The Raising Cane's team uses 4-fold cross-validation for hyperparameter tuning.\\nWhich of the following is always true?",
+    "stepTitle": "The Raising Cane's team uses 4-fold cross-validation for hyperparameter tuning.\\nWhich of the following is always true?",
+    "stepBody": "Cross-validation folds are created by sampling with replacement from the original data.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

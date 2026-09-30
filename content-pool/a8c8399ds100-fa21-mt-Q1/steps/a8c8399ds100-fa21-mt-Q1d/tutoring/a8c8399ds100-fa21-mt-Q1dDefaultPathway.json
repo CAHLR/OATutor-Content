@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-fa21-mt-Q1d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding One-hot Encoding",
-        "text": "One-hot encoding is a way to represent categorical data as binary vectors. Each unique category is represented by a vector where one element is '1' (hot) and all others are '0'.",
+        "title": "Understanding One-Hot Encoding",
+        "text": "When you one-hot encode, each unique item in your data gets its own dimension. For example, if you have $$4$$ unique items, your encoding will have $$4$$ dimensions. Think about how many unique 6-letter combinations can be formed from the DNA letters.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1d-h1"
         ],
-        "title": "Calculate the Number of 6-letter Combos",
-        "text": "To find the number of possible 6-letter combinations, consider that each position in the 6-letter sequence can be one of $$4$$ letters (T, G, C, A).",
+        "title": "Calculating Unique Combinations",
+        "text": "Consider how many different letters are in the DNA alphabet. Then, think about how many different ways you can arrange these letters in a sequence of $$6$$. This will give you the number of unique 6-letter combinations.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,19 +24,25 @@
     {
         "id": "a8c8399ds100-fa21-mt-Q1d-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$4^6$$"
+            "$$4096$$"
         ],
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1d-h2"
         ],
-        "title": "Compute the Total Number of Combinations",
-        "text": "Calculate the total number of 6-letter combinations using the formula for permutations with repetition: $$4$$ to the power of $$6$$.",
+        "title": "Calculate the Number of Unique 6-Letter Combinations",
+        "text": "How many unique 6-letter combinations can be formed from the DNA letters T, G, C, and A?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$4096$$",
+            "$$64$$",
+            "$$256$$",
+            "$$1024$$"
+        ]
     },
     {
         "id": "a8c8399ds100-fa21-mt-Q1d-h4",
@@ -44,42 +50,8 @@
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1d-h3"
         ],
-        "title": "Determine the Dimensionality",
-        "text": "Each 6-letter combination is a unique feature in the one-hot encoded vector. Multiply the number of 6-letter combinations by the number of positions in the DNA string that can start a 6-letter sequence.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa21-mt-Q1d-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$2995$$"
-        ],
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1d-h4"
-        ],
-        "title": "Calculate the Number of Positions",
-        "text": "A DNA string of $$3000$$ letters can have $$2995$$ starting positions for a 6-letter sequence $$3000-6+1$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa21-mt-Q1d-h6",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$4^6\\times2995$$"
-        ],
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1d-h5"
-        ],
-        "title": "Final Dimensionality Calculation",
-        "text": "Multiply the number of 6-letter combinations by the number of starting positions to get the total dimensionality.",
+        "title": "Connecting to Dimensionality",
+        "text": "Once you know the number of unique 6-letter combinations, remember that each combination gets its own dimension in one-hot encoding. Multiply the number of combinations by the number of DNA strings to find the total dimensions.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

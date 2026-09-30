@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding PCA Components",
-        "text": "In PCA, we often refer to the principal components. These are essentially the directions in which the data varies the most. When plotting, we usually focus on the first few components.",
+        "text": "Think about what PCA does. It transforms the original data into a new set of variables. These new variables are called principal components. What do you think these components are derived from?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a98a015ds100-fa19-final-Q8d-h2",
-        "type": "hint",
-        "dependencies": [
-            "a98a015ds100-fa19-final-Q8d-h1"
-        ],
-        "title": "Identifying the Correct Term",
-        "text": "Think about the structure of a dataset. It consists of rows and columns. Which of these do you think represents the principal components in PCA?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a98a015ds100-fa19-final-Q8d-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "columns"
         ],
         "dependencies": [
-            "a98a015ds100-fa19-final-Q8d-h2"
+            "a98a015ds100-fa19-final-Q8d-h1"
         ],
-        "title": "Choosing Between Rows and Columns",
-        "text": "In the context of PCA, the principal components are derived from the features of the dataset. Features are typically represented as what in a dataset?",
+        "title": "Identifying the Source",
+        "text": "When we perform PCA, we are transforming the data. Are we transforming the rows or the columns of the data matrix?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

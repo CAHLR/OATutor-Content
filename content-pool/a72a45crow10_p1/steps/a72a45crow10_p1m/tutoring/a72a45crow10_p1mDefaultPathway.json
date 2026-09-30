@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Deterministic Sampling",
-        "text": "Deterministic sampling involves selecting samples based on a fixed rule or pattern. Consider how Zekai's method compares to this definition.",
+        "text": "Think about what makes a sampling method deterministic. Does it involve a fixed rule or pattern that doesn't change?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a72a45crow10_p1m-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Random Selection in Sampling",
-        "text": "Think about whether Zekai's method involves any element of randomness in selecting students. How does this affect the classification of the sampling method?",
+        "dependencies": [
+            "a72a45crow10_p1m-h1"
+        ],
+        "title": "Random Selection",
+        "text": "Consider the role of randomness in the sampling method proposed by Zekai. How does selecting a student randomly from each group of seven affect the predictability of the sample?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,36 +27,22 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No"
+            "FALSE"
         ],
-        "dependencies": [],
-        "title": "Analyzing the Sampling Process",
-        "text": "Does Zekai's method involve selecting students based on a predetermined rule or pattern?",
+        "dependencies": [
+            "a72a45crow10_p1m-h2"
+        ],
+        "title": "Evaluating the Sampling Scheme",
+        "text": "Which of the following best describes the sampling method proposed by Zekai?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Yes",
-            "No"
-        ]
-    },
-    {
-        "id": "a72a45crow10_p1m-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Yes"
-        ],
-        "dependencies": [],
-        "title": "Randomness in Zekai's Method",
-        "text": "Is there an element of randomness in how students are selected in Zekai's method?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Yes",
-            "No"
+            "Cluster",
+            "Deterministic",
+            "FALSE",
+            "Random",
+            "Systematic"
         ]
     }
 ]

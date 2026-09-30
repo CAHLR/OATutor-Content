@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For a fixed model specification, training dataset, and validation dataset, the optimal choice of $$\\lambda$$ hyperparameter is always the same for L1 and L2 regularization.",
-    "stepBody": "Select all statements below that are true.",
+    "stepTitle": "Select all statements below that are true.",
+    "stepBody": "For a fixed model specification, training dataset, and validation dataset, the optimal choice of $$\\lambda$$ hyperparameter is always the same for L1 and L2 regularization.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

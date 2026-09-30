@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Consider the average of the estimated gradients computed over one epoch of stochastic gradient descent. This value is always equal to the true gradient of the loss surface at the initial values of the model parameters.",
-    "stepBody": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepTitle": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepBody": "Consider the average of the estimated gradients computed over one epoch of stochastic gradient descent. This value is always equal to the true gradient of the loss surface at the initial values of the model parameters.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

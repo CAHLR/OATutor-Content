@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "Residuals are the differences between the observed values and the predicted values from a model. In this case, the residuals are calculated as $$e=Y-\\hat{Y$$.}",
+        "text": "Residuals are the differences between the observed values and the predicted values from a model. They tell us how far off our predictions are from the actual data points.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "aba1299row5_part2b-h1"
         ],
-        "title": "OLS Property",
-        "text": "One of the properties of the Ordinary Least Squares (OLS) method is that the sum of the residuals is zero. This means that the average of the residuals is also zero.",
+        "title": "Average of Residuals",
+        "text": "The average of the residuals in a well-fitted model is typically zero. This is because the model aims to minimize the sum of squared residuals, balancing positive and negative errors.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row5_part2b-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row5_part2b-h2"
-        ],
-        "title": "Effect of $$\\theta_0$$ on Residuals",
-        "text": "The intercept $$\\theta_0$$ does not affect the average of the residuals. The average of the residuals is always zero, regardless of the value of $$\\theta_0$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row5_part2b-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "aba1299row5_part2b-h3"
+            "aba1299row5_part2b-h2"
         ],
-        "title": "Checking the Statement",
-        "text": "Given the property of OLS that the average of the residuals is zero, is the statement 'If $$\\theta_0$$ is positive, the average of the residuals is also positive' true or false?",
+        "title": "Effect of $$\\Theta_0$$ on Residuals",
+        "text": "Consider the role of $$\\theta_0$$ in the model. Does it directly affect the average of the residuals?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,8 +4,8 @@
         "Increase only"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Remove one feature from Model A: effect on (Model Bias)**2",
-    "stepBody": "Change to Model A: Remove one feature from Model A. Select all possible effects on (Model Bias)**2.",
+    "stepTitle": "Change to Model A: Remove one feature from Model A. Select all possible effects on (Model Bias)**2.",
+    "stepBody": "Remove one feature from Model A: effect on (Model Bias)**2",
     "answerType": "string",
     "variabilization": {},
     "choices": [

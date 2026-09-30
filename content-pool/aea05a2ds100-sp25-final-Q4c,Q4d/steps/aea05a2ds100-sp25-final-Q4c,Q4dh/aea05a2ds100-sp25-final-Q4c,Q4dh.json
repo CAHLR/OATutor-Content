@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "K-Means requires specifying the number of clusters in advance.",
-    "stepBody": "Which of the following statements are true about clustering?",
+    "stepTitle": "Which of the following statements are true about clustering?",
+    "stepBody": "K-Means requires specifying the number of clusters in advance.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

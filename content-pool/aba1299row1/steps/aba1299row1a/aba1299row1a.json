@@ -4,8 +4,8 @@
         "NOT orthogonal to and NOT in the span of"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Comparing Outcomes and Predictions",
-    "stepBody": "Using the setup above, fill in the blank: Y is [blank] $$\\hat{Y}.$$",
+    "stepTitle": "Using the setup above, fill in the blank: Y is [blank] $$\\hat{Y}.$$",
+    "stepBody": "Comparing Outcomes and Predictions",
     "answerType": "string",
     "variabilization": {},
     "choices": [

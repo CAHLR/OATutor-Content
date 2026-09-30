@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "In a linear regression model, the residuals are the differences between the observed values and the predicted values. The sum of these residuals can tell us something about the model's fit.",
+        "text": "Residuals are the differences between the observed values and the values predicted by the model. In a well-fitted linear regression model, these residuals have some interesting properties.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aba1299row4b-h1"
         ],
-        "title": "OLS Model Properties",
-        "text": "One of the properties of an Ordinary Least Squares (OLS) model is that the sum of the residuals is always zero. This is because the OLS method minimizes the sum of squared residuals, ensuring that the average of the residuals is zero.",
+        "title": "Sum of Residuals in OLS",
+        "text": "One key property of the Ordinary Least Squares (OLS) regression is that the sum of the residuals is always zero. This is because the OLS method minimizes the sum of squared residuals, ensuring that the average of the residuals is zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "aba1299row4b-h2"
         ],
-        "title": "Checking the Sum of Residuals",
-        "text": "Given that the OLS model minimizes the sum of squared residuals, what can we say about the sum of the residuals?",
+        "title": "Checking the Property",
+        "text": "Given the property of OLS, which of the following statements is true about the sum of residuals?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "In a linear regression model, the residuals are the differences between the observed values and the predicted values. The sum of these residuals can tell us something about the model's fit.",
+        "text": "Residuals are the differences between the observed values and the values predicted by the model. In a well-fitted linear regression model, these residuals have some interesting properties. Can you think of what happens to the sum of these differences?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "abf3684ds100-sp25-final-Q2b-h1"
         ],
         "title": "OLS Model Properties",
-        "text": "One of the key properties of an Ordinary Least Squares (OLS) model is related to the sum of the residuals. Think about what happens when you fit a line to data points.",
+        "text": "One key property of the Ordinary Least Squares (OLS) model is related to the residuals. Consider how the model minimizes the sum of squared residuals. What does this imply about the sum of the residuals themselves?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,14 +32,17 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2b-h2"
         ],
-        "title": "Sum of Residuals in OLS",
-        "text": "In an OLS model, the sum of the residuals is always zero. This is because the model minimizes the sum of squared residuals, ensuring that the average residual is zero.",
+        "title": "Exploring Residuals",
+        "text": "Which of the following statements is true about the sum of residuals in an OLS model?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "TRUE",
-            "FALSE"
+            "The sum of the residuals is $$0$$",
+            "The sum of the residuals is equal to the number of observations",
+            "The sum of the residuals is negative",
+            "The sum of the residuals is positive"
         ]
     }
 ]

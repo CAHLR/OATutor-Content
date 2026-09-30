@@ -16,7 +16,7 @@
             "aba1299row1_part3j-h1"
         ],
         "title": "Effect on Model Variance",
-        "text": "Consider how reducing the number of features (by setting some coefficients to zero) might affect the model's variance.",
+        "text": "Consider how reducing the number of features by setting some coefficients to zero might affect the model's sensitivity to fluctuations in the training data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "aba1299row1_part3j-h2"
         ],
-        "title": "Impact of LASSO on Variance",
-        "text": "What happens to the model variance when LASSO regularization is applied?",
+        "title": "Possible Effects on Variance",
+        "text": "What happens to model variance when the model complexity is reduced by LASSO regularization?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

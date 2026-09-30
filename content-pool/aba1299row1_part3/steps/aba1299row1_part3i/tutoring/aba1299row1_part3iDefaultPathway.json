@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding LASSO Regularization",
-        "text": "LASSO regularization adds a penalty equal to the absolute value of the magnitude of coefficients. This can lead to some coefficients being exactly zero, effectively removing some features from the model.",
+        "text": "LASSO regularization adds a penalty equal to the absolute value of the magnitude of coefficients. This can lead to some coefficients being exactly zero, effectively selecting a simpler model. How might this affect the bias of the model?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row1_part3i-h2",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row1_part3i-h1"
-        ],
-        "title": "Effect on Model Bias",
-        "text": "When LASSO regularization is applied, the model becomes simpler as some coefficients are reduced to zero. This simplification can lead to an increase in bias.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row1_part3i-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "Increase"
         ],
         "dependencies": [
-            "aba1299row1_part3i-h2"
+            "aba1299row1_part3i-h1"
         ],
-        "title": "Analyzing Bias with LASSO",
-        "text": "Consider how reducing the complexity of the model by setting some coefficients to zero might affect the model's ability to fit the training data.",
+        "title": "Effect of LASSO on Model Bias",
+        "text": "Consider how reducing the complexity of a model by setting some coefficients to zero might affect the model's bias. What is a possible effect on model bias squared when using LASSO regularization?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

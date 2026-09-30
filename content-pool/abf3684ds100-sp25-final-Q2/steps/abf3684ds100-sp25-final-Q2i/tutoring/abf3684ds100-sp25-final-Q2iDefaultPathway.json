@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. This penalty term is often a function of the model parameters, theta.",
+        "text": "Regularization is a technique used to prevent overfitting in models by adding a penalty term to the loss function. This penalty term is controlled by the parameter lambda. Think about how increasing or decreasing lambda might affect the penalty term and, consequently, the model complexity.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,46 +15,34 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2i-h1"
         ],
-        "title": "Role of Lambda",
-        "text": "The parameter lambda controls the strength of the penalty term. A larger lambda increases the penalty for large theta values, which can lead to simpler models.",
+        "title": "Effect of Lambda on Model Complexity",
+        "text": "Consider what happens to the penalty term when lambda is increased. Does it make the penalty term larger or smaller? How might this affect the model's parameters and its complexity?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp25-final-Q2i-h3",
-        "type": "hint",
-        "dependencies": [
-            "abf3684ds100-sp25-final-Q2i-h2"
-        ],
-        "title": "Effect of Increasing Lambda",
-        "text": "Increasing lambda will increase the penalty on the magnitude of theta, encouraging smaller theta values and thus reducing model complexity.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp25-final-Q2i-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Increasing lambda."
+            "Increasing lambda increases the regularization term, which can reduce model complexity by shrinking the parameters."
         ],
         "dependencies": [
-            "abf3684ds100-sp25-final-Q2i-h3"
+            "abf3684ds100-sp25-final-Q2i-h2"
         ],
-        "title": "Choosing the Correct Option",
-        "text": "Which option correctly describes the effect of increasing lambda on model complexity?",
+        "title": "Exploring Lambda's Impact",
+        "text": "What happens to the regularization term when lambda is increased?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Decreasing lambda.",
-            "Increasing lambda.",
-            "Changing lambda has no effect on model complexity.",
-            "Both increasing and decreasing lambda reduce complexity.",
-            "The effect depends on the choice of g(theta)."
+            "Increasing lambda increases the regularization term, which can reduce model complexity by shrinking the parameters.",
+            "The effect depends on the choice of g(theta).",
+            "The regularization term decreases.",
+            "The regularization term increases.",
+            "The regularization term remains unchanged."
         ]
     }
 ]

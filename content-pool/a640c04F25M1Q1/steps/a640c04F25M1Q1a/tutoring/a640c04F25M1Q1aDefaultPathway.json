@@ -4,51 +4,35 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding DataFrame Indexing",
-        "text": "The DataFrame has two columns: 'a' and 'b'. Each column has three rows indexed from $$0$$ to $$2$$.",
+        "text": "In a DataFrame, you can access elements using the column name and the row index. For example, df['a'][1] accesses the element in column 'a' at row index $$1$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a640c04F25M1Q1a-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Accessing DataFrame Elements",
-        "text": "To access an element in a DataFrame, use the syntax df['column'][row].",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a640c04F25M1Q1a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "Column 'a' Row $$1$$"
-        ],
-        "dependencies": [],
-        "title": "Identify the Column and Row",
-        "text": "Which column and row are you accessing with df['a'][1]?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a640c04F25M1Q1a-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$6$$"
         ],
         "dependencies": [
-            "a640c04F25M1Q1a-h3"
+            "a640c04F25M1Q1a-h1"
         ],
-        "title": "Find the Value",
-        "text": "What is the value in column 'a' at row 1?",
+        "title": "Accessing the Element",
+        "text": "What is the value at column 'a' and row index $$1$$ in the DataFrame?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$5$$",
+            "$$4$$",
+            "$$6$$",
+            "$$3$$",
+            "$$8$$",
+            "$$7$$",
+            "NA"
+        ]
     }
 ]

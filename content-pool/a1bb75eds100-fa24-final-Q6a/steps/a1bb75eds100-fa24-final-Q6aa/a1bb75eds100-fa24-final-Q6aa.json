@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "It is possible to find a classifier that achieves 100% accuracy.",
-    "stepBody": "Evaluate the following statements about training a logistic regression model on a linearly separable dataset.",
+    "stepTitle": "Evaluate the following statements about training a logistic regression model on a linearly separable dataset.",
+    "stepBody": "It is possible to find a classifier that achieves 100% accuracy.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

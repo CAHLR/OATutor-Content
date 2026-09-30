@@ -4,8 +4,8 @@
         "(x) is $$0.1$$, (y) is $$0.5$$, (z) is $$1.5$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Which of the following sequences correctly fills blanks (x), (y), (z) in the above plot\u2019s labels?",
-    "stepBody": "Answer the following questions about Kernel Density Estimation (KDE).",
+    "stepTitle": "Answer the following questions about Kernel Density Estimation (KDE).",
+    "stepBody": "Which of the following sequences correctly fills blanks (x), (y), (z) in the above plot\u2019s labels?",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "(x) is $$0.1$$, (y) is $$0.5$$, (z) is $$1.5$$",

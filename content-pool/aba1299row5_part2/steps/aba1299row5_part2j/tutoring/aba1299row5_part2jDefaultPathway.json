@@ -3,8 +3,8 @@
         "id": "aba1299row5_part2j-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Condition",
-        "text": "To ensure a unique solution in an OLS model, the matrix involved in the calculations must meet a specific condition. Think about the properties of matrices that allow for unique solutions.",
+        "title": "Understanding Matrix Invertibility",
+        "text": "To determine if a matrix is invertible, consider its determinant. If the determinant is zero, the matrix is not invertible. Think about how this applies to the matrix $$X^T$$ X.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aba1299row5_part2j-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row5_part2j-h1"
-        ],
-        "title": "Matrix Invertibility",
-        "text": "Consider the role of the matrix $$X^T$$ X in the OLS solution. What does it mean for a matrix to be invertible, and why is this important for finding a unique solution?",
+        "dependencies": [],
+        "title": "Full Column Rank",
+        "text": "A matrix has full column rank if all its columns are linearly independent. How does this relate to the invertibility of $$X^T$$ X?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -29,11 +27,9 @@
         "hintAnswer": [
             "$$X^T$$ X must be invertible."
         ],
-        "dependencies": [
-            "aba1299row5_part2j-h2"
-        ],
+        "dependencies": [],
         "title": "Matrix Properties",
-        "text": "What property must the matrix $$X^T$$ X have to ensure it is invertible?",
+        "text": "Which property of X ensures that $$X^T$$ X is invertible?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,8 +4,8 @@
         "Decreases it"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Complexity?",
-    "stepBody": "Recall that we discussed the technique of pruning a decision tree, which involves removing certain branches. What effect does pruning a decision tree have on its",
+    "stepTitle": "Recall that we discussed the technique of pruning a decision tree, which involves removing certain branches. What effect does pruning a decision tree have on its",
+    "stepBody": "Complexity?",
     "answerType": "string",
     "variabilization": {},
     "choices": [

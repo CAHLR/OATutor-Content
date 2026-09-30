@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-su21-final-Q6f-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "To find the optimal value of theta using mean square error, we need to understand that theta represents the predicted values for each color. The goal is to minimize the difference between the predicted values and the actual values.",
+        "title": "Understanding Mean Square Error",
+        "text": "Mean Square Error (MSE) is a way to measure how close a predicted value is to the actual value. It is calculated by taking the average of the squares of the differences between predicted and actual values. Can you think of how this might apply to our problem?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,39 +15,106 @@
         "dependencies": [
             "a1bb75eds100-su21-final-Q6f-h1"
         ],
-        "title": "Mean Square Error Formula",
-        "text": "The mean square error (MSE) is calculated as the average of the squares of the differences between the predicted values and the actual values. The formula is: $$MSE=\\frac{\\sum \\left(y_{pred}-y_{actual}\\right)^2}{n}$$, where $$y_{pred}$$ is the predicted value, $$y_{actual}$$ is the actual value, and $$n$$ is the number of data points.",
+        "title": "Calculating MSE",
+        "text": "To calculate the MSE, you need to find the difference between each predicted value and the actual value, square those differences, and then find the average of those squared differences. What would be the first step in this process?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-su21-final-Q6f-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0-0$$"
+        ],
         "dependencies": [
             "a1bb75eds100-su21-final-Q6f-h2"
         ],
-        "title": "Identifying the Predicted Values",
-        "text": "In this problem, the predicted values (theta) should match the actual values to minimize the mean square error. Therefore, the optimal theta is the same as the actual values given in the problem.",
+        "title": "First Step in MSE Calculation",
+        "text": "What is the difference between the first predicted value and the actual value?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$0-0$$",
+            "$$-1$$",
+            "$$0$$",
+            "$$1$$",
+            "$$2$$"
+        ]
+    },
+    {
+        "id": "a1bb75eds100-su21-final-Q6f-h4",
+        "type": "hint",
+        "dependencies": [
+            "a1bb75eds100-su21-final-Q6f-h3"
+        ],
+        "title": "Squaring the Differences",
+        "text": "Once you have the differences between the predicted and actual values, the next step is to square each of these differences. Why do you think squaring is necessary?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "a1bb75eds100-su21-final-Q6f-s1",
+        "id": "a1bb75eds100-su21-final-Q6f-h5",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "string",
+        "answerType": "arithmetic",
         "hintAnswer": [
-            "(0,1,1,1,0)"
+            "$$0^2$$"
         ],
         "dependencies": [
-            "a1bb75eds100-su21-final-Q6f-h3"
+            "a1bb75eds100-su21-final-Q6f-h4"
         ],
-        "title": "Calculate the Optimal Theta",
-        "text": "Given the actual values $$y=(0, 1, 1, 1, 0)$$, what should the predicted values (theta) be to minimize the mean square error?",
+        "title": "Squaring the First Difference",
+        "text": "What is the square of the difference you calculated in the previous step?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$0^2$$",
+            "$$0$$",
+            "$$1$$",
+            "$$2$$",
+            "$$4$$"
+        ]
+    },
+    {
+        "id": "a1bb75eds100-su21-final-Q6f-h6",
+        "type": "hint",
+        "dependencies": [
+            "a1bb75eds100-su21-final-Q6f-h5"
+        ],
+        "title": "Averaging the Squared Differences",
+        "text": "After squaring all the differences, the final step is to find the average of these squared differences. How would you calculate this average?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
+    },
+    {
+        "id": "a1bb75eds100-su21-final-Q6f-h7",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$\\frac{0+1+1+1+0}{5}$$"
+        ],
+        "dependencies": [
+            "a1bb75eds100-su21-final-Q6f-h6"
+        ],
+        "title": "Calculating the Average",
+        "text": "If you have squared differences of $$0$$, $$1$$, $$1$$, $$1$$, and $$0$$, what is their average?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$\\frac{0+1+1+1+0}{5}$$",
+            "$$0.2$$",
+            "$$0.4$$",
+            "$$0.6$$",
+            "$$1$$"
+        ]
     }
 ]

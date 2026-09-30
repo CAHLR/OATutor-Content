@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "With the same initialization and number of epochs, stochastic gradient descent can find lower loss than batch gradient descent.",
-    "stepBody": "Evaluate the following statements about the advantages of using stochastic gradient descent on a convex loss function.",
+    "stepTitle": "Evaluate the following statements about the advantages of using stochastic gradient descent on a convex loss function.",
+    "stepBody": "With the same initialization and number of epochs, stochastic gradient descent can find lower loss than batch gradient descent.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

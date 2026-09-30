@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Mean Cubed Error",
-        "text": "The Mean Cubed Error is calculated as the average of the cubed differences between the actual and predicted values. This means that the error is raised to the power of $$3$$.",
+        "text": "The Mean Cubed Error is calculated by taking the average of the cube of the differences between the actual and predicted values. Think about how cubing a number affects its magnitude, especially when the number is negative.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,39 +15,32 @@
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5i-h1"
         ],
-        "title": "Impact of Cubing the Error",
-        "text": "Cubing the error means that the sign of the error (whether positive or negative) will affect the result. Consider how this impacts underpredictions and overpredictions.",
+        "title": "Impact of Cubing on Errors",
+        "text": "When you cube a negative number, the result is negative, but its magnitude increases. Consider how this might affect the penalty for underpredictions compared to overpredictions.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp24-mt-Q5i-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Cubing a negative error results in a larger negative value than cubing a positive error of the same magnitude."
+        ],
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5i-h2"
         ],
         "title": "Comparing Underpredictions and Overpredictions",
-        "text": "When the error is negative (underprediction), cubing it will result in a larger negative value compared to a positive error (overprediction) of the same magnitude.",
+        "text": "Which of the following statements is true about the effect of cubing on negative and positive errors?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp24-mt-Q5i-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "Underpredictions result in larger negative values."
-        ],
-        "dependencies": [
-            "abf3684ds100-sp24-mt-Q5i-h3"
-        ],
-        "title": "Analyzing the Loss Function",
-        "text": "Consider the expression (y_i-hat{y}_i)**3. What happens when $$y_i$$ is less than hat{y}_i compared to when $$y_i$$ is greater than hat{y}_i?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Cubing a negative error results in a larger negative value than cubing a positive error of the same magnitude.",
+            "Cubing a positive error results in a larger positive value than cubing a negative error of the same magnitude.",
+            "Cubing affects positive and negative errors equally."
+        ]
     }
 ]

@@ -3,8 +3,8 @@
         "id": "aea05a2ds100-sp25-final-Q4c,Q4db-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Agglomerative Clustering",
-        "text": "Agglomerative clustering starts with each data point as its own cluster and merges the closest clusters step by step. In single linkage, the distance between two clusters is defined as the shortest distance between any two points in the clusters.",
+        "title": "Understanding Single Linkage",
+        "text": "Single linkage clustering merges clusters based on the shortest distance between any two points in the clusters. Think about how this might affect which pandas get grouped together.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aea05a2ds100-sp25-final-Q4c,Q4db-h2",
         "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4db-h1"
-        ],
-        "title": "Single Linkage Clustering",
-        "text": "In single linkage clustering, the distance between two clusters is the minimum distance between any single point in one cluster and any single point in the other cluster. This can lead to elongated clusters.",
+        "dependencies": [],
+        "title": "Visualizing the Clusters",
+        "text": "Try sketching a simple diagram of the pandas in the PC space. Mark the distances between them to see which ones are closest. This can help you visualize how the clusters might form.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,20 +25,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Panda1 and Panda2"
+            "Pandas $$1$$ and $$2$$"
         ],
-        "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4db-h2"
-        ],
-        "title": "Step $$1$$ of Clustering",
-        "text": "Identify the two pandas that are closest to each other in the initial step. Which pandas are merged first?",
+        "dependencies": [],
+        "title": "Step 1: Initial Clustering",
+        "text": "Which pandas are closest to each other initially?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Panda1 and Panda2",
-            "Panda3 and Panda4",
-            "Panda5 and Panda6"
+            "Pandas $$1$$ and $$2$$",
+            "Pandas $$3$$ and $$4$$",
+            "Pandas $$5$$ and $$6$$"
         ]
     },
     {
@@ -49,20 +45,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Panda3 and Panda4"
+            "Panda $$3$$"
         ],
         "dependencies": [
             "aea05a2ds100-sp25-final-Q4c,Q4db-h3"
         ],
-        "title": "Step $$2$$ of Clustering",
-        "text": "After the first merge, identify the next two closest clusters or pandas. Which pandas or clusters are merged next?",
+        "title": "Step 2: Second Clustering",
+        "text": "After the first merge, which panda is closest to the newly formed cluster?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Panda1 and Panda3",
-            "Panda3 and Panda4",
-            "Panda5 and Panda6"
+            "Panda $$3$$",
+            "Panda $$4$$",
+            "Panda $$5$$"
         ]
     },
     {
@@ -71,32 +67,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Cluster(Panda1,Panda2) and Panda5"
+            "Panda $$4$$"
         ],
         "dependencies": [
             "aea05a2ds100-sp25-final-Q4c,Q4db-h4"
         ],
-        "title": "Step $$3$$ of Clustering",
-        "text": "After the second merge, identify the next two closest clusters or pandas. Which pandas or clusters are merged next?",
+        "title": "Step 3: Third Clustering",
+        "text": "Which panda or cluster is closest to the cluster formed in the second step?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Cluster(Panda1,Panda2) and Panda5",
-            "Cluster(Panda3,Panda4) and Panda6",
-            "Panda5 and Panda6"
+            "Panda $$4$$",
+            "Panda $$5$$",
+            "Panda $$6$$"
         ]
-    },
-    {
-        "id": "aea05a2ds100-sp25-final-Q4c,Q4db-h6",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4db-h5"
-        ],
-        "title": "Checking Panda 4's Cluster",
-        "text": "After three steps of clustering, check if Panda $$4$$ is in the same cluster as Panda $$5$$. Remember, Panda $$4$$ was initially merged with Panda $$3$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

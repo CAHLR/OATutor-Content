@@ -4,8 +4,8 @@
         "In the span of"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Interpreting the Intercept Column",
-    "stepBody": "Using the setup above, fill in the blank: $$1$$ is [blank] X.",
+    "stepTitle": "Using the setup above, fill in the blank: $$1$$ is [blank] X.",
+    "stepBody": "Interpreting the Intercept Column",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bias",
-        "text": "Bias in an estimator is a measure of how far off the estimator is from the true parameter value on average.",
+        "text": "Think about what bias means in the context of statistics. It's not just about a single sample, but rather how an estimator behaves across many samples.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a89b247ds100-sp19-final-Q8a-h1"
         ],
-        "title": "Bias vs. Variance",
-        "text": "Remember that bias is different from variance. Bias refers to the systematic error, while variance refers to the variability of the estimator.",
+        "title": "Average Difference",
+        "text": "Consider how you might calculate the average difference between the true parameter and the estimator. What does this tell you about the estimator's performance?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,21 +27,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "The average difference between theta and hat{theta} over all possible simple random samples from the population."
+            "The average difference between theta and hat(theta) over all possible simple random samples from the population."
         ],
         "dependencies": [
             "a89b247ds100-sp19-final-Q8a-h2"
         ],
-        "title": "Defining Bias",
-        "text": "What is the definition of bias in the context of an estimator?",
+        "title": "Bias Definition",
+        "text": "Which of the following best describes the bias of an estimator?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "The difference between theta and the value of hat{theta} for a particular sample.",
-            "The average difference between theta and hat{theta} computed for each element of the sample.",
-            "The average difference between theta and hat{theta} over all possible simple random samples from the population.",
-            "The difference between the expected value of theta and the value of hat{theta} for a particular sample."
+            "The difference between theta and the value of hat(theta) for a particular sample.",
+            "The average difference between theta and hat(theta) computed for each element of the sample.",
+            "The average difference between theta and hat(theta) over all possible simple random samples from the population.",
+            "The difference between the expected value of theta and the value of hat(theta) for a particular sample."
         ]
     }
 ]

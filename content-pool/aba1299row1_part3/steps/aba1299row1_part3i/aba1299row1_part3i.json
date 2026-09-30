@@ -4,8 +4,8 @@
         "Increase"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "LASSO Regularization: Bias",
-    "stepBody": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepTitle": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepBody": "LASSO Regularization: Bias",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "We drew random samples from some larger population when we built our training set.",
-    "stepBody": "Is this one of the reasons we are taking an expectation? In other words, is it one of the sources of randomness that we are considering in the derivation of the bias-variance tradeoff?",
+    "stepTitle": "Is this one of the reasons we are taking an expectation? In other words, is it one of the sources of randomness that we are considering in the derivation of the bias-variance tradeoff?",
+    "stepBody": "We drew random samples from some larger population when we built our training set.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

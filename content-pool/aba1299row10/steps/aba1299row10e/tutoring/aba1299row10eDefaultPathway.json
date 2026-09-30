@@ -3,8 +3,8 @@
         "id": "aba1299row10e-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding MAE and MSE",
-        "text": "Mean Absolute Error (MAE) and Mean Squared Error (MSE) are both measures of prediction accuracy. However, they have different properties and implications for model parameters.",
+        "title": "Understanding MSE and MAE",
+        "text": "Mean Squared Error (MSE) and Mean Absolute Error (MAE) are both used to measure the accuracy of a model. MSE squares the differences between predicted and actual values, while MAE takes the absolute value of these differences. Think about how squaring affects the error values compared to taking the absolute value.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aba1299row10e-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row10e-h1"
-        ],
-        "title": "Unique Solutions in Linear Regression",
-        "text": "In linear regression, the uniqueness of the solution depends on the properties of the data and the error metric used. Consider how MAE and MSE might affect this.",
+        "dependencies": [],
+        "title": "Exploring Solutions for MAE",
+        "text": "When minimizing MAE, consider how the absolute value function behaves. Does it have a unique minimum point, or could there be multiple points that yield the same minimum error?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,20 +25,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No, MAE does not always lead to a unique solution."
+            "MSE is more sensitive to outliers than MAE|MAE is more sensitive to outliers than MSE|Both are equally sensitive to outliers"
         ],
-        "dependencies": [
-            "aba1299row10e-h2"
-        ],
-        "title": "Properties of MAE",
-        "text": "Does MAE always lead to a unique solution for the parameters in linear regression?",
+        "dependencies": [],
+        "title": "Comparing MSE and MAE",
+        "text": "Which of the following statements is true about MSE and MAE?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "No, MAE does not always lead to a unique solution.",
-            "Yes"
+            "Both are equally sensitive to outliers",
+            "MAE is more sensitive to outliers than MSE",
+            "MSE is more sensitive to outliers than MAE",
+            "MSE is more sensitive to outliers than MAE|MAE is more sensitive to outliers than MSE|Both are equally sensitive to outliers"
         ]
     },
     {
@@ -49,32 +46,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yes, MSE typically leads to a unique solution when the design matrix is full rank."
+            "It is linear and has a single minimum point|It is $$non-linear$$ and can have multiple minimum points|It is $$non-linear$$ and has a single minimum point"
         ],
-        "dependencies": [
-            "aba1299row10e-h3"
-        ],
-        "title": "Properties of MSE",
-        "text": "Does MSE always lead to a unique solution for the parameters in linear regression?",
+        "dependencies": [],
+        "title": "Behavior of Absolute Value Function",
+        "text": "What is a characteristic of the absolute value function that affects the uniqueness of solutions?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "Yes",
-            "Yes, MSE typically leads to a unique solution when the design matrix is full rank."
+            "It is linear and has a single minimum point",
+            "It is linear and has a single minimum point|It is $$non-linear$$ and can have multiple minimum points|It is $$non-linear$$ and has a single minimum point",
+            "It is $$non-linear$$ and can have multiple minimum points",
+            "It is $$non-linear$$ and has a single minimum point"
         ]
-    },
-    {
-        "id": "aba1299row10e-h5",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row10e-h4"
-        ],
-        "title": "Conclusion on Uniqueness",
-        "text": "Given the properties of MAE and MSE, can we conclude that there is never a unique solution to the optimal parameters that minimize MAE?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

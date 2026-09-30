@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. It helps in reducing the variance of the model.",
+        "text": "Regularization is a technique used to prevent overfitting in machine learning models. It adds a penalty to the loss function to discourage complex models. Can you think of how this might affect bias?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aba1299row6p2k-h1"
         ],
-        "title": "Bias-Variance Tradeoff",
-        "text": "The bias-variance tradeoff is a fundamental concept in machine learning. Regularization primarily affects the variance of the model.",
+        "title": "Types of Regularization",
+        "text": "There are different types of regularization, such as L1 and L2. L1 regularization adds a penalty equal to the absolute value of the magnitude of coefficients, while L2 adds a penalty equal to the square of the magnitude. How might these affect the model's complexity?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,19 +27,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "increase"
+            "Increase"
         ],
         "dependencies": [
             "aba1299row6p2k-h2"
         ],
-        "title": "Effect of Regularization on Bias",
-        "text": "Does regularization increase or decrease the bias of a model?",
+        "title": "Effect on Bias",
+        "text": "Does regularization increase or decrease model bias?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "increase",
-            "decrease"
+            "Increase",
+            "Decrease"
         ]
     },
     {
@@ -48,31 +48,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "decrease"
+            "Increase bias and decrease variance"
         ],
         "dependencies": [
             "aba1299row6p2k-h3"
         ],
-        "title": "Effect of Regularization on Variance",
-        "text": "Does regularization increase or decrease the variance of a model?",
+        "title": "Regularization and Bias-Variance Tradeoff",
+        "text": "Regularization affects the bias-variance tradeoff. Does it typically increase bias and decrease variance, or decrease bias and increase variance?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "increase",
-            "decrease"
+            "Increase bias and decrease variance",
+            "Decrease bias and increase variance"
         ]
-    },
-    {
-        "id": "aba1299row6p2k-h5",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6p2k-h4"
-        ],
-        "title": "Conclusion on Bias Squared",
-        "text": "Since regularization increases bias and decreases variance, it does not reduce the bias squared of the model.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the pattern of the data points. How do they relate to the functions provided?",
+        "text": "Look at the pattern of the data points in the scatterplot. Consider how the function f(x) might transform the x-values to fit the y-values shown.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3m-h1"
         ],
-        "title": "Analyzing Function Options",
-        "text": "Consider each function: $$\\(f(x)=-x\\)$$, $$\\(f(x)=x\\)$$, \\(f(x)=x**2\\), \\(f(x)=abs(x)\\). Which one can transform the x-values to fit the y-values in the scatterplot?",
+        "title": "Exploring Function $$f(x)=-x$$",
+        "text": "Think about how the function $$f(x)=-x$$ would affect the x-values. What happens to the y-values when you apply this transformation?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3m-h2"
         ],
-        "title": "Testing Function \\(f(x)=x**2\\)",
-        "text": "If \\(f(x)=x**2\\), can you find \\(\\beta_0\\), \\(\\beta_1\\), and \\(\\beta_2\\) such that \\(y_i=\\beta_0+x_i*\\beta_1+f(x_i)*\\beta_2\\) fits the data?",
+        "title": "Checking Function $$f(x)=-x$$",
+        "text": "Does the transformation $$f(x)=-x$$ create a linear relationship between $$x$$ and $$y$$ in the scatterplot?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

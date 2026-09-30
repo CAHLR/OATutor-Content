@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Reduce Phase",
-        "text": "In the reduce phase of MapReduce, the goal is to aggregate or summarize the data. Each reducer processes all records associated with a particular key.",
+        "text": "In the reduce phase of MapReduce, think about how data is grouped and processed. Consider what happens to records with the same key and how they are handled by the system.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp18-final-Q15c-h2",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp18-final-Q15c-h1"
-        ],
-        "title": "Key-Value Pair Distribution",
-        "text": "During the reduce phase, all records with the same key are sent to the same reducer. This ensures that all related data is processed together.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp18-final-Q15c-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "aea05a2ds100-sp18-final-Q15c-h2"
+            "aea05a2ds100-sp18-final-Q15c-h1"
         ],
-        "title": "Confirming the Statement",
-        "text": "Is it true that during the reduce phase of MapReduce, all records associated with a given key are sent to the same machine?",
+        "title": "Key Grouping in MapReduce",
+        "text": "During the reduce phase of MapReduce, what happens to all the records associated with a given key?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

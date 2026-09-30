@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Their sum is equal to zero.",
-    "stepBody": "Is this true about the residuals in any Ordinary Least Squares (OLS) regression?",
+    "stepTitle": "Is this true about the residuals in any Ordinary Least Squares (OLS) regression?",
+    "stepBody": "Their sum is equal to zero.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

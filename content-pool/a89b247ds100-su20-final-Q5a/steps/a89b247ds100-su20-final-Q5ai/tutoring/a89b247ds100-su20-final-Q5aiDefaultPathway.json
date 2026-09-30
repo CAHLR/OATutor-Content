@@ -4,22 +4,32 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Ridge Regression",
-        "text": "Ridge regression is a type of linear regression that includes a regularization term. This term is controlled by the hyperparameter lambda (\u03bb).",
+        "text": "Ridge regression adds a penalty term to the loss function to prevent overfitting. This penalty term is proportional to the square of the magnitude of the coefficients. Can you think about how increasing this penalty might affect the values of the coefficients?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-su20-final-Q5ai-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The penalty term increases"
+        ],
         "dependencies": [
             "a89b247ds100-su20-final-Q5ai-h1"
         ],
         "title": "Effect of Increasing Lambda",
-        "text": "Increasing the value of lambda (\u03bb) in ridge regression affects the estimated parameters. Consider how the regularization term impacts the model complexity.",
+        "text": "When you increase the regularization parameter lambda, what happens to the penalty term in the ridge regression loss function?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The penalty term increases",
+            "The penalty term decreases",
+            "The penalty term stays the same"
+        ]
     },
     {
         "id": "a89b247ds100-su20-final-Q5ai-h3",
@@ -27,8 +37,8 @@
         "dependencies": [
             "a89b247ds100-su20-final-Q5ai-h2"
         ],
-        "title": "Regularization Term in Ridge Regression",
-        "text": "The regularization term in ridge regression is \u03bb times the sum of the squares of the coefficients. Increasing \u03bb penalizes larger coefficients more heavily.",
+        "title": "Impact on Coefficients",
+        "text": "Think about how the increase in the penalty term affects the coefficients. If the penalty term becomes larger, what might happen to the magnitude of the coefficients to minimize the loss function?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,19 +49,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "The magnitude of the coefficients decreases"
         ],
         "dependencies": [
             "a89b247ds100-su20-final-Q5ai-h3"
         ],
-        "title": "Impact on Estimated Parameters",
-        "text": "As \u03bb increases, the penalty on the size of the coefficients increases, leading to smaller estimated coefficients. This means the estimated parameter \\hat{\\theta} becomes smaller.",
+        "title": "Magnitude of Coefficients",
+        "text": "As the penalty term increases, what happens to the magnitude of the coefficients in ridge regression?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The magnitude of the coefficients increases",
+            "The magnitude of the coefficients decreases",
+            "The magnitude of the coefficients stays the same"
         ]
     }
 ]

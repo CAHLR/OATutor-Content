@@ -3,8 +3,8 @@
         "id": "aba1299row3b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Graph",
-        "text": "The graph shows the relationship between temperature and tip amount. The line represents the fitted least squares regression model.",
+        "title": "Understanding MSE",
+        "text": "To calculate the Mean Squared Error (MSE), you need to find the difference between the observed values and the predicted values from the regression line. Then, square these differences and find their average.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,55 +15,38 @@
         "dependencies": [
             "aba1299row3b-h1"
         ],
-        "title": "Identifying Data Points",
-        "text": "Identify the three data points on the graph. These are the actual observations used to fit the regression line.",
+        "title": "Identifying Residuals",
+        "text": "Look at the graph and identify the observed tip values and the corresponding predicted values on the line for each temperature. The residuals are the differences between these observed and predicted values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row3b-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row3b-h2"
-        ],
-        "title": "Calculating Residuals",
-        "text": "For each data point, calculate the residual, which is the difference between the observed tip and the predicted tip from the regression line.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row3b-h4",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row3b-h3"
-        ],
-        "title": "Formula for MSE",
-        "text": "The Mean Squared Error (MSE) is calculated as the average of the squared residuals.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row3b-h5",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$2$$"
+            "$$30-28$$"
         ],
         "dependencies": [
-            "aba1299row3b-h3"
+            "aba1299row3b-h2"
         ],
-        "title": "Compute Residuals",
-        "text": "Calculate the residuals for each data point. If the observed tip is $$30$$ and the predicted tip is $$28$$, the residual is $$30-28$$.",
+        "title": "Calculating a Residual",
+        "text": "What is the residual for the data point at temperature 69?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$30-28$$",
+            "$$2$$",
+            ">3",
+            ">4",
+            ">5"
+        ]
     },
     {
-        "id": "aba1299row3b-h6",
+        "id": "aba1299row3b-h4",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -71,16 +54,23 @@
             "$$4$$"
         ],
         "dependencies": [
-            "aba1299row3b-h5"
+            "aba1299row3b-h3"
         ],
-        "title": "Calculate Squared Residuals",
-        "text": "Square each residual. If the residual is $$2$$, the squared residual is $$2^2$$.",
+        "title": "Squaring the Residuals",
+        "text": "What is the square of the residual for the data point at temperature 69?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$4$$",
+            "$$4$$",
+            ">10",
+            ">6",
+            ">8"
+        ]
     },
     {
-        "id": "aba1299row3b-h7",
+        "id": "aba1299row3b-h5",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -88,12 +78,19 @@
             "$$8$$"
         ],
         "dependencies": [
-            "aba1299row3b-h6"
+            "aba1299row3b-h4"
         ],
-        "title": "Compute MSE",
-        "text": "Sum the squared residuals and divide by the number of observations to find the MSE.",
+        "title": "Finding the Average of Squared Residuals",
+        "text": "After calculating the squared residuals for all data points, what is the average of these squared residuals?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$8$$",
+            "$$6$$",
+            ">7",
+            ">8",
+            ">9"
+        ]
     }
 ]

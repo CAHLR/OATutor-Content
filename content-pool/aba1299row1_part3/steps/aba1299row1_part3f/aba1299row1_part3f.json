@@ -4,8 +4,8 @@
         "Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Removing a Feature: Variance",
-    "stepBody": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on model variance?",
+    "stepTitle": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on model variance?",
+    "stepBody": "Removing a Feature: Variance",
     "answerType": "string",
     "variabilization": {},
     "choices": [

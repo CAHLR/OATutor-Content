@@ -3,8 +3,8 @@
         "id": "a89b247ds100-fa18-final-Q13g-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding $h(x)$",
-        "text": "In the context of the bias-variance tradeoff, $h(x)$ represents the true function that we are trying to estimate. It is considered fixed because it does not change with different samples or models.",
+        "title": "Understanding the Components",
+        "text": "The expected squared error can be broken down into three main components: variance, bias squared, and irreducible error. Can you identify which part of the equation represents each of these components?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a89b247ds100-fa18-final-Q13g-h1"
         ],
-        "title": "Fixed or Variable?",
-        "text": "When we say something is 'fixed', it means that it does not change with different samples or models. Consider whether $h(x)$ changes when you use different datasets or models.",
+        "title": "Focus on h(x)",
+        "text": "Consider the role of h(x) in the equation. Is it something that changes with different datasets, or is it a fixed function of $$x$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a89b247ds100-fa18-final-Q13g-h2"
         ],
-        "title": "Is $h(x)$ Fixed?",
-        "text": "Based on the definition of $h(x)$ as the true function, do we treat it as fixed?",
+        "title": "Fixed or Variable?",
+        "text": "When thinking about h(x), should it be treated as a fixed function or a variable one?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

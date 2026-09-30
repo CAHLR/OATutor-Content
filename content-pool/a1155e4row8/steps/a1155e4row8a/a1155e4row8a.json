@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Bar chart",
-    "stepBody": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepTitle": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepBody": "Bar chart",
     "answerType": "string",
     "variabilization": {},
     "choices": [

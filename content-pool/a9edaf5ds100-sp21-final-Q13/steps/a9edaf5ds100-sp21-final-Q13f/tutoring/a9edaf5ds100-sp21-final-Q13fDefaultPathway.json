@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. This penalty term is controlled by the regularization coefficient, lambda.",
+        "text": "When you increase the regularization coefficient, you're essentially adding a penalty to the model's complexity. Think about how this might affect the model's ability to fit the training data closely.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,23 +15,33 @@
         "dependencies": [
             "a9edaf5ds100-sp21-final-Q13f-h1"
         ],
-        "title": "Effect of Increasing Lambda",
-        "text": "As the regularization coefficient lambda increases, the penalty for large weights in the model also increases. This can lead to a reduction in model complexity.",
+        "title": "Effect on Variance",
+        "text": "Consider how adding a penalty for complexity might influence the model's variance. Does it make the model more or less sensitive to fluctuations in the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-sp21-final-Q13f-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The model's complexity decreases."
+        ],
         "dependencies": [
             "a9edaf5ds100-sp21-final-Q13f-h2"
         ],
-        "title": "Impact on Variance",
-        "text": "Increasing lambda typically reduces the variance of the model because it discourages the model from fitting the noise in the training data.",
+        "title": "Regularization and Model Complexity",
+        "text": "As the regularization coefficient increases, what happens to the model's complexity?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The model's complexity increases.",
+            "The model's complexity decreases.",
+            "The model's complexity remains the same."
+        ]
     },
     {
         "id": "a9edaf5ds100-sp21-final-Q13f-h4",
@@ -39,19 +49,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "The model is less likely to overfit."
         ],
         "dependencies": [
             "a9edaf5ds100-sp21-final-Q13f-h3"
         ],
-        "title": "True or False: Variance Increases",
-        "text": "Does increasing the regularization coefficient lambda increase the variance of the model?",
+        "title": "Regularization and Overfitting",
+        "text": "How does increasing the regularization coefficient affect the model's tendency to overfit?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The model is more likely to overfit.",
+            "The model is less likely to overfit.",
+            "The model's tendency to overfit remains unchanged."
         ]
     }
 ]

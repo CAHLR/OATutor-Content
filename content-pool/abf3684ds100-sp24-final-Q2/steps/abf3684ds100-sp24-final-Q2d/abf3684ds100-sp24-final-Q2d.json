@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The choice of loss function can impact whether gradient descent converges to the true optimal weights.",
-    "stepBody": "Which of the following statements are true? Select all that apply.",
+    "stepTitle": "Which of the following statements are true? Select all that apply.",
+    "stepBody": "The choice of loss function can impact whether gradient descent converges to the true optimal weights.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

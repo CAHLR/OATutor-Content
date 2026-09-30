@@ -4,8 +4,8 @@
         "$$7$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Recovering the Current Parameter",
-    "stepBody": "For entry (f), $$\\theta**{(t+1)}$$ $$=$$ $$9$$ and the gradient $$\\frac{d}{d{\\theta}}L(\\theta**{(t)})$$ $$=$$ $$-2$$ at $$t$$ $$=$$ $$2$$. With $$\\alpha$$ $$=$$ $$1$$, what is $$\\theta**{(2)}?$$",
+    "stepTitle": "For entry (f), $$\\theta**{(t+1)}$$ $$=$$ $$9$$ and the gradient $$\\frac{d}{d{\\theta}}L(\\theta**{(t)})$$ $$=$$ $$-2$$ at $$t$$ $$=$$ $$2$$. With $$\\alpha$$ $$=$$ $$1$$, what is $$\\theta**{(2)}?$$",
+    "stepBody": "Recovering the Current Parameter",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$7$$"

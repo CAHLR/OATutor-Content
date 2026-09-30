@@ -3,23 +3,32 @@
         "id": "abf3684ds100-sp25-final-Q2r-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Gradient Descent",
-        "text": "Gradient Descent (GD) is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent direction. The learning rate determines the size of the steps taken towards the minimum.",
+        "title": "Understanding Learning Rate",
+        "text": "The learning rate in gradient descent determines how big of a step we take towards the minimum. If the learning rate is too high, what do you think might happen to the path of the updates?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp25-final-Q2r-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
+        ],
         "dependencies": [
             "abf3684ds100-sp25-final-Q2r-h1"
         ],
-        "title": "Effect of Learning Rate",
-        "text": "A higher learning rate can cause the algorithm to overshoot the minimum, leading to divergence or oscillation around the minimum.",
+        "title": "Effect of Increasing Learning Rate",
+        "text": "What could happen to the gradient descent path if the learning rate is increased significantly?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "abf3684ds100-sp25-final-Q2r-h3",
@@ -27,33 +36,10 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2r-h2"
         ],
-        "title": "Observing the Plot",
-        "text": "In the plot, the GD path oscillates and does not converge to the minimum. This indicates that the learning rate might be too high.",
+        "title": "Oscillation and Divergence",
+        "text": "When the learning rate is too high, the updates can overshoot the minimum, causing the path to oscillate. This can lead to divergence, where the updates move further away from the minimum. How does this relate to the plot you see?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp25-final-Q2r-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The GD path could diverge further or oscillate more widely."
-        ],
-        "dependencies": [
-            "abf3684ds100-sp25-final-Q2r-h3"
-        ],
-        "title": "Possible Outcomes of Increasing Learning Rate",
-        "text": "What could happen if the learning rate is increased further?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "The GD path could converge faster",
-            "The GD path could diverge further or oscillate more widely",
-            "The GD path could diverge further or oscillate more widely.",
-            "The GD path could remain unchanged"
-        ]
     }
 ]

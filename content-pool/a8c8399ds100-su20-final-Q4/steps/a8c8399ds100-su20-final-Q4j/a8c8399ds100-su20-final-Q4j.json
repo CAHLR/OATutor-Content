@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "There is a unique solution to the normal equations.",
-    "stepBody": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepTitle": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepBody": "There is a unique solution to the normal equations.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

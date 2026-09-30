@@ -83,6 +83,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+    "consent": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "pandas": {
         "probMastery": 0.1,
         "probTransit": 0.1,
@@ -132,6 +138,12 @@
         "probGuess": 0.1
     },
     "bias_and_variance": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "https://ds100.org/su26/past_exams/": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -2574,12 +2586,6 @@
         "probGuess": 0.1
     },
     "using_the_theorem_of_pappus_for_volume": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "consent": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

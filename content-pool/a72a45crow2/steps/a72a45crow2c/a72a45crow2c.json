@@ -4,8 +4,8 @@
         "Smaller than"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The non-response bias of the updated survey is likely $$___$$ the non-response bias of the original survey.",
-    "stepBody": "Assume that Josh could go back in time and make both updates suggested by Jake, and no other changes, where the two updates are: emailing an SRS of $$200$$ UC Berkeley student emails instead of $$100$$, and sending a reminder email to all students who did not open the initial email within one week.",
+    "stepTitle": "Assume that Josh could go back in time and make both updates suggested by Jake, and no other changes, where the two updates are: emailing an SRS of $$200$$ UC Berkeley student emails instead of $$100$$, and sending a reminder email to all students who did not open the initial email within one week.",
+    "stepBody": "The non-response bias of the updated survey is likely $$___$$ the non-response bias of the original survey.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The mean of the residuals is $$0$$.",
-    "stepBody": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepTitle": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepBody": "The mean of the residuals is $$0$$.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

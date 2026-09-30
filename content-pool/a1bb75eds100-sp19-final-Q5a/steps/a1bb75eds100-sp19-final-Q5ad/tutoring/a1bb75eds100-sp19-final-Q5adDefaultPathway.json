@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-sp19-final-Q5ad-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Logistic Regression",
-        "text": "In logistic regression, the probability of the binary outcome is modeled using the logistic function, which is denoted as \u03c3. This function maps any real-valued number into the $$(0,1)$$ interval, making it suitable for probability estimation.",
+        "title": "Understanding the Logistic Function",
+        "text": "The logistic function, denoted as sigma, maps any real-valued number into the range $$(0,1)$$. This is crucial for logistic regression as it helps in predicting probabilities. Consider how the function behaves when the input value increases.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5ad-h1"
         ],
-        "title": "Comparing Logistic Functions",
-        "text": "Consider the properties of the logistic function \u03c3. How does the function behave when the input to the function is doubled?",
+        "title": "Comparing Exponents",
+        "text": "When comparing $$\\operatorname{\\sigma}\\left(X^T \\beta\\right)$$ and $$\\operatorname{\\sigma}\\left(X^T 2\\beta\\right)$$, think about how doubling the coefficients in the exponent affects the value of the logistic function. Does it always increase, decrease, or vary?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-sp19-final-Q5ad-h3",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-sp19-final-Q5ad-h2"
-        ],
-        "title": "Behavior of the Logistic Function",
-        "text": "The logistic function \u03c3(x) is defined as $$\\frac{1}{1+e^{\\left(-x\\right)}}$$. As $$x$$ increases, \u03c3(x) approaches $$1$$, and as $$x$$ decreases, \u03c3(x) approaches $$0$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-sp19-final-Q5ad-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "Sometimes"
         ],
         "dependencies": [
-            "a1bb75eds100-sp19-final-Q5ad-h3"
+            "a1bb75eds100-sp19-final-Q5ad-h2"
         ],
-        "title": "Analyzing the Inequality",
-        "text": "Given the inequality $$\\operatorname{\\sigma}\\left(X^T \\beta\\right) \\leq \\operatorname{\\sigma}\\left(X^T 2\\beta\\right)$$, consider the behavior of the logistic function when the input is doubled. Is the inequality always true, sometimes true, or never true?",
+        "title": "Effect of Doubling Coefficients",
+        "text": "What happens to the value of $$X^T \\beta$$ when beta is doubled?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -54,5 +42,17 @@
             "Sometimes",
             "Never"
         ]
+    },
+    {
+        "id": "a1bb75eds100-sp19-final-Q5ad-h4",
+        "type": "hint",
+        "dependencies": [
+            "a1bb75eds100-sp19-final-Q5ad-h3"
+        ],
+        "title": "Behavior of the Logistic Function",
+        "text": "The logistic function is non-linear and its rate of change depends on the input value. Consider how this non-linearity might affect the comparison between $$\\operatorname{\\sigma}\\left(X^T \\beta\\right)$$ and $$\\operatorname{\\sigma}\\left(X^T 2\\beta\\right)$$.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

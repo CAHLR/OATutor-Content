@@ -3,8 +3,8 @@
         "id": "abf3684ds100-sp25-final-Q2g-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Bias and Variance",
-        "text": "When the training error increases but the validation error decreases, it suggests a change in the model's bias and variance. Consider how reducing the number of features might affect these two components.",
+        "title": "Understanding Training and Validation Errors",
+        "text": "When the training error increases but the validation error decreases, it suggests a change in the model's complexity. Think about how this might affect the model's ability to generalize to new data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,51 +15,52 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2g-h1"
         ],
-        "title": "Effect of Reducing Features",
-        "text": "Reducing the number of features in a model can lead to an increase in bias because the model becomes simpler and may not capture all the complexities of the data. However, it can also reduce variance, as the model is less likely to overfit the training data.",
+        "title": "Bias-Variance Tradeoff",
+        "text": "Consider the bias-variance tradeoff. A decrease in validation error might indicate a change in the model's variance or bias. Which one do you think is more likely to have changed?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp25-final-Q2g-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The model's bias is likely lower."
+        ],
         "dependencies": [
             "abf3684ds100-sp25-final-Q2g-h2"
         ],
-        "title": "Training vs. Validation Error",
-        "text": "If the training error increases, it indicates that the model is not fitting the training data as well as before. However, if the validation error decreases, it suggests that the model is generalizing better to unseen data.",
+        "title": "Analyzing Bias",
+        "text": "If the validation error decreases, what does this imply about the model's bias?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The model's bias is likely lower.",
+            "The model's bias is likely higher."
+        ]
     },
     {
         "id": "abf3684ds100-sp25-final-Q2g-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "The bias is likely higher and the variance is likely lower in the new model."
+            "The model's variance is likely higher."
         ],
         "dependencies": [
             "abf3684ds100-sp25-final-Q2g-h3"
         ],
-        "title": "Analyzing the Scenario",
-        "text": "Given that the training error increases and the validation error decreases, what can we infer about the bias and variance of the new model compared to the old one?",
+        "title": "Analyzing Variance",
+        "text": "If the training error increases, what does this imply about the model's variance?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp25-final-Q2g-h5",
-        "type": "hint",
-        "dependencies": [
-            "abf3684ds100-sp25-final-Q2g-h4"
-        ],
-        "title": "Conclusion on Bias and Variance",
-        "text": "The scenario suggests that the new model has a higher bias but lower variance compared to the model in part (a). This is consistent with the observed increase in training error and decrease in validation error.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The model's variance is likely lower.",
+            "The model's variance is likely higher."
+        ]
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting in models by adding a penalty term to the loss function. This penalty discourages complex models.",
+        "text": "Regularization is a technique used to prevent overfitting in models. It adds a penalty to the loss function to discourage complex models. Can you think of how this might affect the model's variance?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a9edaf5ds100-su25-final-Q2dc-h1"
         ],
-        "title": "Types of Regularization",
-        "text": "There are two common types of regularization: L1 (Lasso) and L2 (Ridge). L1 regularization adds the absolute value of the coefficients as a penalty term, while L2 adds the square of the coefficients.",
+        "title": "L2 Regularization and Variance",
+        "text": "L2 regularization, also known as Ridge regression, adds a penalty equal to the square of the magnitude of coefficients. Consider how this might impact the flexibility of the model and its variance.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-su25-final-Q2dc-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su25-final-Q2dc-h2"
-        ],
-        "title": "Effect of L2 Regularization",
-        "text": "L2 regularization tends to shrink the coefficients of the model, which can help reduce variance but may not necessarily increase it.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a9edaf5ds100-su25-final-Q2dc-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "a9edaf5ds100-su25-final-Q2dc-h3"
+            "a9edaf5ds100-su25-final-Q2dc-h2"
         ],
-        "title": "Analyzing Variance with L2 Regularization",
-        "text": "Consider how L2 regularization affects the model's complexity and variance. Does it typically increase or decrease variance?",
+        "title": "Effect of L2 Regularization",
+        "text": "What is the effect of L2 regularization on model variance?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

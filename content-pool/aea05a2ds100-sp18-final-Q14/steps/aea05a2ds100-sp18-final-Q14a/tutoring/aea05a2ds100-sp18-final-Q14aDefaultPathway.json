@@ -3,8 +3,8 @@
         "id": "aea05a2ds100-sp18-final-Q14a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "The file is divided into $$800$$ fragments, and each fragment is replicated $$4$$ times. This means each fragment will be stored on $$4$$ different nodes.",
+        "title": "Understanding Replication",
+        "text": "Think about what 4-way replication means. If each fragment is replicated $$4$$ times, how many total fragments do you have now?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aea05a2ds100-sp18-final-Q14a-h1"
         ],
-        "title": "Calculate Total Fragments",
-        "text": "Since each of the $$800$$ fragments is replicated $$4$$ times, calculate the total number of fragments that need to be stored.",
+        "title": "Calculating Total Fragments",
+        "text": "If you have $$800$$ fragments and each is replicated $$4$$ times, how many fragments are there in total? Try calculating $$800$$ times $$4$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,64 +24,24 @@
     {
         "id": "aea05a2ds100-sp18-final-Q14a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$800\\times4$$"
-        ],
-        "dependencies": [
-            "aea05a2ds100-sp18-final-Q14a-h2"
-        ],
-        "title": "Total Fragments Calculation",
-        "text": "Calculate the total number of fragments by multiplying the number of fragments by the replication factor.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp18-final-Q14a-h4",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp18-final-Q14a-h3"
-        ],
-        "title": "Distribute Fragments Across Nodes",
-        "text": "Now that you know the total number of fragments, distribute them evenly across the $$8$$ nodes.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp18-final-Q14a-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$\\frac{3200}{8}$$"
-        ],
-        "dependencies": [
-            "aea05a2ds100-sp18-final-Q14a-h4"
-        ],
-        "title": "Fragments Per Node Calculation",
-        "text": "Divide the total number of fragments by the number of nodes to find out how many fragments each node will store.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp18-final-Q14a-h6",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$400$$"
         ],
         "dependencies": [
-            "aea05a2ds100-sp18-final-Q14a-h5"
+            "aea05a2ds100-sp18-final-Q14a-h2"
         ],
-        "title": "Final Answer",
-        "text": "Each node will store $$400$$ fragments.",
+        "title": "Distributing Fragments",
+        "text": "Now that you know the total number of fragments, how would you distribute them evenly across $$8$$ nodes?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$100$$",
+            "$$400$$",
+            "$$800$$",
+            "$$3200$$"
+        ]
     }
 ]

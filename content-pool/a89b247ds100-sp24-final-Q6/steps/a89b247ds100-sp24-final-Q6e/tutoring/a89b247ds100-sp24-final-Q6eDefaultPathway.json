@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Risk",
-        "text": "Model risk is the sum of bias squared, variance, and observational variance. When Ishani adds more features, the model risk decreases. This suggests changes in bias and variance.",
+        "text": "Model risk is the sum of model variance and observational variance. Can you calculate the model risk for the new model using the given variances?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,54 +12,58 @@
     {
         "id": "a89b247ds100-sp24-final-Q6e-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6e-h1"
-        ],
-        "title": "Effect of Adding Features",
-        "text": "Adding more features to a model typically decreases bias but can increase variance. Consider how this affects the model risk.",
+        "dependencies": [],
+        "title": "Model Variance and Observational Variance",
+        "text": "Remember that adding more features can reduce model variance, but it might not affect observational variance. How does this relate to the changes in model risk?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-sp24-final-Q6e-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6e-h2"
-        ],
-        "title": "Calculating New Model Risk",
-        "text": "The new model risk is $$17$$. Use the formula: Model Risk $$=$$ $${Bias}^2$$ + Variance + Observational Variance to find possible values for bias and variance.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-sp24-final-Q6e-h4",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$${Bias}^2+Variance=14$$"
+            "$$7$$"
         ],
         "dependencies": [
-            "a89b247ds100-sp24-final-Q6e-h3"
+            "a89b247ds100-sp24-final-Q6e-h1"
         ],
-        "title": "Determine New Bias and Variance",
-        "text": "Given the new model risk is $$17$$, and the observational variance is $$3$$, calculate possible values for bias squared and variance.",
+        "title": "Calculate New Model Risk",
+        "text": "Given the new model variance of $$5$$ and observational variance of $$2$$, what is the new model risk?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$7$$",
+            "$$10$$",
+            "$$12$$",
+            "$$5$$",
+            "$$7$$"
+        ]
     },
     {
-        "id": "a89b247ds100-sp24-final-Q6e-h5",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6e-h4"
+        "id": "a89b247ds100-sp24-final-Q6e-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Model Variance"
         ],
-        "title": "Possible Values for Bias and Variance",
-        "text": "Consider combinations of bias squared and variance that sum to $$14$$. Remember, both values must be non-negative.",
+        "dependencies": [
+            "a89b247ds100-sp24-final-Q6e-h2"
+        ],
+        "title": "Impact of Adding Features",
+        "text": "When features are added to a model, which of the following is most likely to decrease?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Model Variance",
+            "Observational Variance",
+            "Both",
+            "Neither"
+        ]
     }
 ]

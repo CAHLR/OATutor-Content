@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "The residual vector e is calculated as the difference between the observed values Y and the predicted values \\hat{Y}.",
+        "text": "The residual vector e represents the difference between the observed values Y and the predicted values hat{Y}. Think about what this means for the dimensions of e compared to Y.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aba1299row5_part2d-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row5_part2d-h1"
-        ],
+        "dependencies": [],
         "title": "Dimensions of Vectors",
-        "text": "The residual vector e has the same number of elements as the number of observations in the dataset. The parameter vector \\hat{\\theta} has the same number of elements as the number of predictors plus one (for the intercept).",
+        "text": "Consider the dimensions of the parameter vector hat{theta}. How many parameters are there in the model $$hat{s}=\\theta_0+\\theta_1 h+\\theta_2 t$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,47 +22,25 @@
     {
         "id": "aba1299row5_part2d-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$n$$"
+            "FALSE"
         ],
         "dependencies": [
-            "aba1299row5_part2d-h2"
+            "aba1299row5_part2d-h1"
         ],
         "title": "Comparing Dimensions",
-        "text": "If there are $$n$$ observations and $$p$$ predictors, what is the dimension of the residual vector e?",
+        "text": "Which of the following statements is true about the dimensions of the residual vector e and the parameter vector hat{theta}?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row5_part2d-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$p+1$$"
-        ],
-        "dependencies": [
-            "aba1299row5_part2d-h3"
-        ],
-        "title": "Parameter Vector Dimension",
-        "text": "If there are $$p$$ predictors, what is the dimension of the parameter vector \\hat{\\theta}?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row5_part2d-h5",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row5_part2d-h4"
-        ],
-        "title": "Conclusion",
-        "text": "The residual vector e and the parameter vector \\hat{\\theta} do not have the same dimension. The residual vector has a dimension equal to the number of observations, while the parameter vector has a dimension equal to the number of predictors plus one.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "FALSE",
+            "The parameter vector hat{theta} is a scalar.",
+            "The residual vector e has a different dimension than the parameter vector hat{theta}.",
+            "The residual vector e has the same dimension as the parameter vector hat{theta}.",
+            "The residual vector e is a scalar."
+        ]
     }
 ]

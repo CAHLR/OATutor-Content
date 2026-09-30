@@ -4,83 +4,67 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Probability Sampling",
-        "text": "Probability sampling involves selecting a sample in such a way that each member of the population has a known, non-zero chance of being selected. Can you identify how this applies to Zekai's proposal?",
+        "text": "Think about what it means to randomly select individuals from a group. How does this differ from selecting every nth person?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a72a45crow10_p1k-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Random Selection in Groups",
-        "text": "Consider how Zekai's method involves random selection within groups of students. How does this contribute to the probability sampling method?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a72a45crow10_p1k-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "Probability Sampling"
         ],
-        "dependencies": [],
+        "dependencies": [
+            "a72a45crow10_p1k-h1"
+        ],
         "title": "Identifying the Sampling Method",
-        "text": "Zekai's method involves selecting one student randomly from each group of seven. What type of sampling method does this represent?",
+        "text": "Which of the following best describes the sampling method Zekai is proposing?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Probability Sampling",
+            "Systematic Sampling",
+            "Convenience Sampling",
+            "Stratified Sampling"
         ]
     },
     {
+        "id": "a72a45crow10_p1k-h3",
+        "type": "hint",
+        "dependencies": [
+            "a72a45crow10_p1k-h1"
+        ],
+        "title": "Random Selection Process",
+        "text": "Consider how the process of randomly selecting one student from a group of seven might ensure that each student has an equal chance of being chosen.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
+    },
+    {
         "id": "a72a45crow10_p1k-h4",
-        "type": "hint",
-        "dependencies": [
-            "a72a45crow10_p1k-h3"
-        ],
-        "title": "Characteristics of Probability Sampling",
-        "text": "Probability sampling ensures that every individual has a chance of being selected. How does Zekai's method ensure this?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a72a45crow10_p1k-h5",
-        "type": "hint",
-        "dependencies": [
-            "a72a45crow10_p1k-h3"
-        ],
-        "title": "Randomness in Sampling",
-        "text": "Why is randomness important in Zekai's sampling method? Consider how it affects the representativeness of the sample.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a72a45crow10_p1k-h6",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "Each member of the population has an equal chance of being selected."
         ],
         "dependencies": [
             "a72a45crow10_p1k-h3"
         ],
-        "title": "Evaluating the Sampling Process",
-        "text": "Does Zekai's method ensure that each student has an equal chance of being selected?",
+        "title": "Equal Chance of Selection",
+        "text": "What is the key characteristic of a probability sample?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Each member of the population has an equal chance of being selected.",
+            "Only certain members of the population are selected.",
+            "Selection is based on convenience.",
+            "Selection is based on a fixed interval."
         ]
     }
 ]

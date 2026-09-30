@@ -3,24 +3,14 @@
         "id": "a72a45crow10_p2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Variable Types",
-        "text": "Consider what type of data each column represents. Is it categorical or numerical?",
+        "title": "Understanding Qualitative Data",
+        "text": "Qualitative data describes categories or qualities. Think about whether the 'drink' column represents categories or numerical values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a72a45crow10_p2a-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Qualitative vs Quantitative",
-        "text": "Qualitative data describes categories or qualities, while quantitative data involves numbers and measurements.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a72a45crow10_p2a-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,31 +20,8 @@
         "dependencies": [
             "a72a45crow10_p2a-h1"
         ],
-        "title": "Identifying 'drink' Column Type",
+        "title": "Identifying the Type of Data",
         "text": "What type of data does the 'drink' column represent?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Qualitative Nominal",
-            "Qualitative Ordinal",
-            "Quantitative Continuous",
-            "Quantitative Discrete"
-        ]
-    },
-    {
-        "id": "a72a45crow10_p2a-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Qualitative Nominal"
-        ],
-        "dependencies": [
-            "a72a45crow10_p2a-h3"
-        ],
-        "title": "Understanding 'drink' as Nominal",
-        "text": "The 'drink' column lists names of drinks. Is this a category or a measurement?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

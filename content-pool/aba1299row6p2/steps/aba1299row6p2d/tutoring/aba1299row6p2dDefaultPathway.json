@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding One-Hot Encoding",
-        "text": "One-hot encoding transforms categorical variables into a form that could be provided to ML algorithms to do a better job in prediction. Each category value is converted into a new categorical column and assigned a $$1$$ or $$0$$ (True/False).",
+        "text": "One-hot encoding transforms categorical variables into a form that could be provided to ML algorithms to do a better job in prediction. For each category, a new binary column is created. How many new columns will be created for the 'weather' variable?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,58 +12,54 @@
     {
         "id": "aba1299row6p2d-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row6p2d-h1"
-        ],
-        "title": "One-Hot Encoding Weather",
-        "text": "If you one-hot encode the 'weather' column, you will create three new columns: 'sunny', 'cloudy', and 'rainy'. Each row will have a $$1$$ in the column corresponding to its weather and $$0$$ in the others.",
+        "dependencies": [],
+        "title": "Model Complexity",
+        "text": "Consider how adding more features to a model affects its complexity. If you add too many features, especially if they are not independent, what might happen to the model's ability to find a unique solution?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row6p2d-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6p2d-h2"
-        ],
-        "title": "Understanding Multicollinearity",
-        "text": "Multicollinearity occurs when two or more independent variables are highly correlated. This can cause problems in estimating the coefficients of the model.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6p2d-h4",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6p2d-h3"
-        ],
-        "title": "Checking for Multicollinearity",
-        "text": "When you one-hot encode a categorical variable with $$n$$ categories, you create $$n$$ binary variables. Including all $$n$$ variables in a regression model along with an intercept can lead to multicollinearity.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6p2d-h5",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "No"
         ],
         "dependencies": [
-            "aba1299row6p2d-h4"
+            "aba1299row6p2d-h1"
         ],
-        "title": "Evaluating the Statement",
-        "text": "If Sam adds all three one-hot encoded features to his current model, will a unique OLS solution exist?",
+        "title": "Checking for Multicollinearity",
+        "text": "If you add all three one-hot encoded features for 'weather', will they be independent?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "id": "aba1299row6p2d-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "It makes the solution $$non-unique$$"
+        ],
+        "dependencies": [
+            "aba1299row6p2d-h3"
+        ],
+        "title": "Understanding the Impact of Multicollinearity",
+        "text": "What is the impact of multicollinearity on the OLS solution?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "It makes the solution $$non-unique$$",
+            "It improves the solution",
+            "It has no effect"
         ]
     }
 ]

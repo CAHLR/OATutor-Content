@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Qualitative continious",
-    "stepBody": "Is the variable type present in Kippa's DataFrame?",
+    "stepTitle": "Is the variable type present in Kippa's DataFrame?",
+    "stepBody": "Qualitative continious",
     "answerType": "string",
     "variabilization": {},
     "choices": [

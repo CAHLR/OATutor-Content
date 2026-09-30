@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-su21-final-Q6g-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "To find the mean squared error (MSE), we need to understand the relationship between the input colors and the output predictions. The task is to predict whether someone is a night owl (0) or an early bird (1) based on their favorite color.",
+        "title": "Understanding Mean Squared Error",
+        "text": "Mean squared error (MSE) is a measure of how well a model's predictions match the actual data. It is calculated by taking the average of the squares of the differences between the predicted and actual values. Can you identify the predicted values for each color in the dataset?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1bb75eds100-su21-final-Q6g-h1"
         ],
-        "title": "Optimal Value of Theta",
-        "text": "The optimal value of theta minimizes the mean squared error between the predicted values and the actual values. In this case, theta represents the parameter that best fits the data.",
+        "title": "Calculating Differences",
+        "text": "To find the differences between the predicted and actual values, subtract each actual value from its corresponding predicted value. What are the differences for each data point?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,61 +27,34 @@
         "dependencies": [
             "a1bb75eds100-su21-final-Q6g-h2"
         ],
-        "title": "Calculating Mean Squared Error",
-        "text": "The mean squared error is calculated as the average of the squares of the differences between the predicted values and the actual values. Use the formula: $$MSE=\\frac{\\sum \\left(y_{pred}-y_{actual}\\right)^2}{n}$$, where $$n$$ is the number of data points.",
+        "title": "Squaring the Differences",
+        "text": "Once you have the differences, square each one. This will help eliminate negative values and emphasize larger errors. What are the squared differences for each data point?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "a1bb75eds100-su21-final-Q6g-s1",
+        "id": "a1bb75eds100-su21-final-Q6g-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
+        "problemType": "MultipleChoice",
         "answerType": "string",
-        "hintAnswer": [
-            "0,1,1,1,0"
-        ],
-        "dependencies": [
-            "a1bb75eds100-su21-final-Q6g-h3"
-        ],
-        "title": "Compute the Predictions",
-        "text": "Assume the optimal theta gives predictions that perfectly match the actual values. What would the predictions be for the given data points?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-su21-final-Q6g-s2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "string",
-        "hintAnswer": [
-            "0,0,0,0,0"
-        ],
-        "dependencies": [
-            "a1bb75eds100-su21-final-Q6g-s1"
-        ],
-        "title": "Calculate the Squared Differences",
-        "text": "Calculate the squared differences between the predicted values and the actual values for each data point.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-su21-final-Q6g-s3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
         "hintAnswer": [
             "$$0$$"
         ],
         "dependencies": [
-            "a1bb75eds100-su21-final-Q6g-s2"
+            "a1bb75eds100-su21-final-Q6g-h3"
         ],
-        "title": "Compute the Mean Squared Error",
-        "text": "Using the squared differences, compute the mean squared error by averaging them.",
+        "title": "Finding the Mean of Squared Differences",
+        "text": "Now, calculate the mean of the squared differences. This involves summing all the squared differences and dividing by the number of data points. What is the mean squared error?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0$$",
+            "$$\\frac{1}{5}$$",
+            "$$\\frac{2}{5}$$",
+            "$$\\frac{3}{5}$$",
+            "$$1$$"
+        ]
     }
 ]

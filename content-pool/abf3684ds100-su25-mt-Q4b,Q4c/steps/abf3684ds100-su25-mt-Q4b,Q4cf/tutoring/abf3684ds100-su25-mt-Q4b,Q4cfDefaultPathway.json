@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding MSE",
-        "text": "The Mean Squared Error (MSE) is calculated by taking the average of the squares of the differences between the observed and predicted values.",
+        "text": "To calculate the Mean Squared Error (MSE), you need to find the difference between the observed values and the predicted values from the regression line, square those differences, and then find the average of those squared differences.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,49 +15,66 @@
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4cf-h1"
         ],
-        "title": "Identify Observed Values",
-        "text": "From the graph, identify the observed tip values for the given temperatures.",
+        "title": "Identifying Points",
+        "text": "Look at the graph and identify the three data points. These points are where the observed values are plotted. You'll need these to calculate the differences from the predicted values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-su25-mt-Q4b,Q4cf-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$30-28$$"
+        ],
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4cf-h2"
         ],
-        "title": "Identify Predicted Values",
-        "text": "Use the regression line to find the predicted tip values for the given temperatures.",
+        "title": "Calculating Differences",
+        "text": "What is the difference between the observed tip and the predicted tip for the first data point?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$30-28$$",
+            "$$28-30$$",
+            "$$30+28$$",
+            "$$28+30$$"
+        ]
     },
     {
         "id": "abf3684ds100-su25-mt-Q4b,Q4cf-h4",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$\\left(30-28\\right)^2$$"
+        ],
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4cf-h3"
         ],
-        "title": "Calculate Squared Differences",
-        "text": "Calculate the squared differences between the observed and predicted values for each data point.",
+        "title": "Squaring Differences",
+        "text": "What is the square of the difference you calculated for the first data point?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\left(30-28\\right)^2$$",
+            "$$\\left(28-30\\right)^2$$",
+            "$$\\left(30+28\\right)^2$$",
+            "$$\\left(28+30\\right)^2$$"
+        ]
     },
     {
         "id": "abf3684ds100-su25-mt-Q4b,Q4cf-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$8$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4cf-h4"
         ],
-        "title": "Calculate MSE",
-        "text": "Sum the squared differences and divide by the number of observations to find the MSE.",
+        "title": "Averaging Squared Differences",
+        "text": "After calculating and squaring the differences for all data points, sum them up and divide by the number of data points to find the MSE.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

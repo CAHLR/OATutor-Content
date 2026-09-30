@@ -4,8 +4,8 @@
         "$$82$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "blank (i)",
-    "stepBody": "Given the following statistics of $$\\text{critic\\_1}:$$\\nMean: $$85$$, Standard Deviation: $$13$$, Median: $$82$$\\n\\nFor a constant model that predicts $$\\text{critic\\_1},$$ what is the model's optimal predicted value with L1 loss?##figure1.gif## ",
+    "stepTitle": "Given the following statistics of $$\\text{critic\\_1}:$$\\nMean: $$85$$, Standard Deviation: $$13$$, Median: $$82$$\\n\\nFor a constant model that predicts $$\\text{critic\\_1},$$ what is the model's optimal predicted value with L1 loss?",
+    "stepBody": "blank (i)##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$82$$",

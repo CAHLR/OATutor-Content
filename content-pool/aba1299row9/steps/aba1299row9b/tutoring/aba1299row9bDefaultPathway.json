@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Model",
-        "text": "The model given is hat{y}_i=f_{theta}(x_i)=theta*e**(sqrt(abs(x_i))). This means that the prediction for each observation is based on the parameter theta and the exponential function of the square root of the absolute value of $$x_i$$.",
+        "text": "Consider how the model function \\( \\hat{y}_i=f_{\\theta}(x_i)=\\theta e**{\\sqrt{|x_i|}} \\) behaves. What happens to \\( \\hat{y}_i \\) when \\( $$x_i$$ \\) is negative or positive? Think about the role of the absolute value and the exponential function.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,59 +12,51 @@
     {
         "id": "aba1299row9b-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row9b-h1"
-        ],
+        "dependencies": [],
         "title": "Ordinary Least Squares (OLS)",
-        "text": "OLS is a method used to estimate the parameters in a linear regression model by minimizing the sum of the squared differences between the observed and predicted values.",
+        "text": "OLS is a method used to estimate the parameters in a linear regression model. Consider how the model \\( \\hat{y}_i=f_{\\theta}(x_i)=\\theta e**{\\sqrt{|x_i|}} \\) might be linear in terms of \\( $$\\theta$$ \\).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row9b-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row9b-h2"
-        ],
-        "title": "Sum of Residuals",
-        "text": "The sum of residuals in a linear regression model is the sum of the differences between the observed values and the predicted values. In OLS, this sum is always zero.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row9b-h4",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row9b-h3"
-        ],
-        "title": "Model Predictions",
-        "text": "Consider the form of the model: hat{y}_i=theta*e**(sqrt(abs(x_i))). Since $$e^{\\sqrt{|x_i|}}$$ is always positive, the sign of hat{y}_i depends on theta.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row9b-h5",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "We can use ordinary least squares (OLS) to estimate the optimal hat{theta}."
+            "The sum of residuals of our model will always be $$0$$."
         ],
-        "dependencies": [
-            "aba1299row9b-h4"
-        ],
-        "title": "Applying OLS",
-        "text": "Given the model hat{y}_i=theta*e**(sqrt(abs(x_i))), can we apply OLS to estimate theta?",
+        "dependencies": [],
+        "title": "Exploring Residuals",
+        "text": "Which of the following is true about the sum of residuals in a model estimated using OLS?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "The sum of residuals of our model will always be $$0$$.",
+            "The sum of residuals of our model will always be positive.",
+            "The sum of residuals of our model will always be negative."
+        ]
+    },
+    {
+        "id": "aba1299row9b-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The predictions of our model can never be negative."
+        ],
+        "dependencies": [],
+        "title": "Model Predictions",
+        "text": "Consider the expression \\( \\hat{y}_i=\\theta e**{\\sqrt{|x_i|}} \\). Which of the following statements about the predictions is true?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
             "The predictions of our model can never be negative.",
-            "We can use ordinary least squares (OLS) to estimate the optimal hat{theta}."
+            "The predictions of our model can be negative.",
+            "The predictions of our model are always positive."
         ]
     }
 ]

@@ -4,8 +4,8 @@
         "Orthogonal to"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Residual vs. Feature Column",
-    "stepBody": "Using the setup above, fill in the blank: Y - $$\\hat{Y}$$ is [blank] $$\\text{X\\_p}.$$",
+    "stepTitle": "Using the setup above, fill in the blank: Y - $$\\hat{Y}$$ is [blank] $$\\text{X\\_p}.$$",
+    "stepBody": "Residual vs. Feature Column",
     "answerType": "string",
     "variabilization": {},
     "choices": [

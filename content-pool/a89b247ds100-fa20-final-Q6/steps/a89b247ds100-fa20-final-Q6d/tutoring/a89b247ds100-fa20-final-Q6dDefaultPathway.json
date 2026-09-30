@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bias-Variance Decomposition",
-        "text": "The bias-variance decomposition is a way to understand the error in a model's predictions. It breaks down the error into three components: the variance of the noise, the bias of the model, and the variance of the model's predictions.",
+        "text": "The bias-variance decomposition is a way to express the error of a model in terms of bias, variance, and irreducible error (noise). It is typically used in regression problems. Consider how classification problems might differ.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6d-h1"
         ],
-        "title": "Conditions for Bias-Variance Decomposition",
-        "text": "The decomposition holds under certain conditions, such as when the model is trained on data with a known underlying function and noise is independent and identically distributed.",
+        "title": "Zero-One Loss in Classification",
+        "text": "Zero-one loss is a metric used in classification tasks. It measures the accuracy of predictions by assigning a loss of $$1$$ for incorrect predictions and $$0$$ for correct ones. Think about how this might affect the applicability of bias-variance decomposition.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa20-final-Q6d-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa20-final-Q6d-h2"
-        ],
-        "title": "Classification Decision Trees and Zero-One Loss",
-        "text": "Consider how classification decision trees work and how zero-one loss is calculated. Does the bias-variance decomposition apply in this context?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-fa20-final-Q6d-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "No"
         ],
         "dependencies": [
-            "a89b247ds100-fa20-final-Q6d-h3"
+            "a89b247ds100-fa20-final-Q6d-h2"
         ],
-        "title": "Analyzing Zero-One Loss",
-        "text": "Zero-one loss is a binary loss function that assigns a loss of $$1$$ for incorrect predictions and $$0$$ for correct predictions. How does this affect the bias-variance decomposition?",
+        "title": "Consider the Nature of Decision Trees",
+        "text": "Decision trees are often used for classification tasks. They split data into branches to make predictions. How might this structure impact the bias and variance in a classification context?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-sp19-final-Q3j-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Model",
-        "text": "The model is given by the equation: $$y_i=\\beta_0+x_i \\beta_1+f{\\left(x_i\\right)} \\beta_2$$. We need to determine if $$f(x)=x$$ can fit the data in the scatterplot.",
+        "title": "Understanding the Scatterplot",
+        "text": "Look at the pattern of the data points in the scatterplot. Do they form a linear pattern, or do they suggest a different type of relationship?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3j-h1"
         ],
-        "title": "Analyzing the Scatterplot",
-        "text": "Observe the scatterplot. Does the data appear to follow a linear trend? If so, $$f(x)=x$$ might be a suitable function.",
+        "title": "Linear Function Check",
+        "text": "Consider if a linear function like $$f(x)=x$$ could fit the data. Does the pattern of the points suggest a straight line?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp19-final-Q3j-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp19-final-Q3j-h2"
-        ],
-        "title": "Linear Relationship",
-        "text": "If the data points form a straight line or can be approximated by a straight line, then $$f(x)=x$$ is likely a good fit.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp19-final-Q3j-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a8c8399ds100-sp19-final-Q3j-h3"
+            "a8c8399ds100-sp19-final-Q3j-h2"
         ],
-        "title": "Conclusion",
-        "text": "Based on the scatterplot, does $$f(x)=x$$ allow the model to fit the data?",
+        "title": "Choosing the Right Function",
+        "text": "Which function would best fit a linear pattern in the data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "Residuals are the differences between the observed values and the predicted values. If all residuals are negative, it means that the predicted values are consistently higher than the observed values.",
+        "text": "Residuals are the differences between the observed values and the predicted values from your model. If all residuals are negative, what does that tell you about the relationship between your predictions and the actual data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aba1299row7e-h1"
         ],
-        "title": "Intercept Term in OLS",
-        "text": "The intercept term in a regression model accounts for the baseline level of the dependent variable when all predictors are zero. Without it, the model may not accurately capture the relationship between the predictors and the target variable.",
+        "title": "Role of the Intercept",
+        "text": "The intercept term in a regression model accounts for the baseline level of the dependent variable when all predictors are zero. What might happen to your predictions if this term is missing?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,15 +32,15 @@
         "dependencies": [
             "aba1299row7e-h2"
         ],
-        "title": "Checking the Model Specification",
-        "text": "Consider whether the model includes an intercept term. If not, this could lead to systematic bias in the predictions.",
+        "title": "Checking Model Components",
+        "text": "Which of the following is a common issue when all residuals are negative?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "One or more of the features is a linear combination of other features.",
-            "hat{Y} is not a linear combination of the columns of X.",
-            "The prediction vector hat{Y} is not in the span of the design matrix.",
+            "$\\hat{Y}$ is not a linear combination of the columns of $X$.",
+            "The prediction vector $\\hat{Y}$ is not in the span of the design matrix.",
             "The model does not have an intercept term."
         ]
     }

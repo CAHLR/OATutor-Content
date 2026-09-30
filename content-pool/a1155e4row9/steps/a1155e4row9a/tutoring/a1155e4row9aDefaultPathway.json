@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Missing Data",
-        "text": "Consider the impact of missing data on your analysis. How might missing dates affect your ability to analyze trends over time?",
+        "text": "When dealing with missing data, it's important to consider how the missing values might affect your analysis. Think about whether the missing dates are random or if there's a pattern.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Options for Handling Missing Data",
-        "text": "Think about the different methods available for handling missing data. What are the pros and cons of each method?",
+        "text": "Consider the different methods for handling missing data: dropping rows, imputing values, or using interpolation. Each method has its pros and cons depending on the context.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,19 +25,22 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Dropping rows reduces the dataset size, potentially losing valuable information."
+            "Interpolation can estimate missing values based on surrounding data points, maintaining the chronological order."
         ],
-        "dependencies": [],
-        "title": "Evaluating the Impact of Dropping Rows",
-        "text": "What happens if you drop all rows with missing values? How does this affect the size of your dataset?",
+        "dependencies": [
+            "a1155e4row9a-h2"
+        ],
+        "title": "Evaluating Interpolation",
+        "text": "Why might interpolation be a good choice for handling missing dates in a chronological dataset?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Dropping rows reduces the dataset size, potentially losing valuable information.",
-            "It has no effect on the dataset size.",
-            "It increases the dataset size.",
-            "It reduces the dataset size."
+            "Interpolation can estimate missing values based on surrounding data points, maintaining the chronological order.",
+            "It deletes missing entries.",
+            "It maintains the chronological order.",
+            "It randomly assigns dates.",
+            "It uses the most common date."
         ]
     },
     {
@@ -46,19 +49,22 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Interpolation uses existing data to estimate missing values, maintaining trends."
+            "Dropping rows can lead to loss of valuable data and potential bias."
         ],
-        "dependencies": [],
-        "title": "Considering Interpolation",
-        "text": "How does interpolation help in estimating missing values? What information does it use?",
+        "dependencies": [
+            "a1155e4row9a-h2"
+        ],
+        "title": "Considering Other Options",
+        "text": "What could be a downside of simply dropping rows with missing dates?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Interpolation uses existing data to estimate missing values, maintaining trends.",
-            "It leaves missing values unchanged.",
-            "It randomly fills missing values.",
-            "It uses existing data to estimate missing values."
+            "Dropping rows can lead to loss of valuable data and potential bias.",
+            "Improved data quality.",
+            "Increased data accuracy.",
+            "Loss of valuable data.",
+            "No effect on analysis."
         ]
     }
 ]

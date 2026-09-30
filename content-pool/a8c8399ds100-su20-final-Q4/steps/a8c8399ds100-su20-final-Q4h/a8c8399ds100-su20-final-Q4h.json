@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The mean of the fitted values equals the mean of the observed values $$y$$.",
-    "stepBody": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepTitle": "Which of the following are guaranteed to be true regarding un-regularized ordinary least squares linear regression with an intercept term? Select all that apply.",
+    "stepBody": "The mean of the fitted values equals the mean of the observed values $$y$$.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

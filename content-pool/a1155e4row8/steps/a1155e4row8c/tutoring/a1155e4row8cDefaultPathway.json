@@ -4,43 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Box Plots",
-        "text": "A box plot is a graphical representation of data that shows the distribution through their quartiles. It can help visualize the spread and identify outliers.",
+        "text": "A box plot is useful for visualizing the distribution of a dataset. It shows the median, quartiles, and potential outliers. Consider how this might apply to the prices of the drinks.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row8c-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Visualizing Price Data",
-        "text": "When considering visualizations for price data, think about how you can represent the distribution and spread of the prices.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row8c-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Box plot"
-        ],
-        "dependencies": [],
-        "title": "Identifying Suitable Visualizations",
-        "text": "Which visualization method can show the distribution of prices effectively?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Box plot",
-            "Line graph",
-            "Pie chart"
-        ]
-    },
-    {
-        "id": "a1155e4row8c-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -48,17 +18,18 @@
             "Box plot"
         ],
         "dependencies": [
-            "a1155e4row8c-h3"
+            "a1155e4row8c-h1"
         ],
-        "title": "Choosing the Right Plot",
-        "text": "What type of plot is best for showing the spread and quartiles of a dataset?",
+        "title": "Identifying Suitable Visualizations",
+        "text": "Which of the following visualizations can effectively display the distribution of numerical data like price?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "Box plot",
             "Bar chart",
-            "Histogram"
+            "Pie chart",
+            "Line graph"
         ]
     }
 ]

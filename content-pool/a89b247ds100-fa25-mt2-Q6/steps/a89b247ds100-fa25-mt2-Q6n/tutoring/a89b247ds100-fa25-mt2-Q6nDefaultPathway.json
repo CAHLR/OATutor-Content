@@ -4,43 +4,65 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding MSE on Training Data",
-        "text": "When you remove a feature from a model, it can affect the model's ability to fit the training data. Consider how this might impact the Mean Squared Error (MSE) on the training data.",
+        "text": "When you remove a feature from a model, think about how it might affect the model's ability to fit the training data. Consider what happens to the complexity of the model and how that might influence the Mean Squared Error (MSE) on the training data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6n-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The complexity decreases."
+        ],
         "dependencies": [
             "a89b247ds100-fa25-mt2-Q6n-h1"
         ],
-        "title": "Effect of Removing a Feature",
-        "text": "Removing a feature can lead to a simpler model. Think about how this simplification might affect the model's performance on the training data.",
+        "title": "Effect of Feature Removal on Model Complexity",
+        "text": "What happens to the complexity of a model when you remove a feature?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "The complexity increases.",
+            "The complexity decreases.",
+            "The complexity stays the same."
+        ]
+    },
+    {
+        "id": "a89b247ds100-fa25-mt2-Q6n-h3",
+        "type": "hint",
+        "dependencies": [
+            "a89b247ds100-fa25-mt2-Q6n-h2"
+        ],
+        "title": "Linking Complexity to MSE",
+        "text": "With a decrease in model complexity, consider how the model's ability to fit the training data might change. Does a simpler model fit the training data better or worse?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "a89b247ds100-fa25-mt2-Q6n-h3",
+        "id": "a89b247ds100-fa25-mt2-Q6n-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Increase"
+            "The MSE might increase."
         ],
         "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6n-h2"
+            "a89b247ds100-fa25-mt2-Q6n-h3"
         ],
-        "title": "Impact on Training MSE",
-        "text": "If a feature is removed, the model might not fit the training data as closely. What could be a possible effect on the MSE on the training data?",
+        "title": "Impact on MSE with Reduced Complexity",
+        "text": "How might a decrease in model complexity affect the MSE on the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Increase",
-            "Decrease",
-            "Both"
+            "The MSE might increase.",
+            "The MSE might decrease.",
+            "The MSE will stay the same."
         ]
     }
 ]

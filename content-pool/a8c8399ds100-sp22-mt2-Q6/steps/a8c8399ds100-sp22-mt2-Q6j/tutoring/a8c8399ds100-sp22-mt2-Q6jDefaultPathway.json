@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Dataset",
-        "text": "The dataset contains information about what students ate for lunch, including the foods, servings, and total calories. Each row represents a student's lunch on a specific day.",
+        "text": "Look at the columns in the dataset: 'name', 'day', 'foods', 'servings', and $$'total_{calories'}$$. Consider which columns might be relevant for selecting features for $$boot_X$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-sp22-mt2-Q6j-h1"
         ],
-        "title": "Identifying Relevant Columns",
-        "text": "To complete the bootstrap code, identify which columns are relevant for the analysis. Consider what data is needed to calculate the parameter of interest.",
+        "title": "Column Selection for $$boot_X$$",
+        "text": "Think about which columns might provide information about past calorie intake. This could help in predicting future calorie consumption.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a8c8399ds100-sp22-mt2-Q6j-h2"
         ],
-        "title": "Selecting Columns for $$boot_X$$",
-        "text": "Which columns should be selected for $$boot_X$$ in the bootstrap code?",
+        "title": "Choose the Correct Columns",
+        "text": "Which columns should be selected for $$boot_X$$ to include past calorie information?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

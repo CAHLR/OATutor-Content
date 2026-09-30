@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "As $$\\lambda$$ decreases, observational variance tends to $$0.$$",
-    "stepBody": "Consider training a ridge regression model with regularization hyper-parameter $$\\lambda$$\\nEvaluate the following statement:",
+    "stepTitle": "Consider training a ridge regression model with regularization hyper-parameter $$\\lambda$$\\nEvaluate the following statement:",
+    "stepBody": "As $$\\lambda$$ decreases, observational variance tends to $$0.$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

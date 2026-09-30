@@ -4,58 +4,24 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Variable Types",
-        "text": "Consider what kind of data the 'item' column represents. Is it a number, a category, or something else?",
+        "text": "Think about the nature of the data in the 'item' column. Each entry is a name of a fruit, which doesn't have a specific order or ranking. What type of variable does this suggest?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row3_p1b-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Qualitative nominal"
+        ],
         "dependencies": [
             "a1155e4row3_p1b-h1"
         ],
-        "title": "Nature of 'item' Column",
-        "text": "The 'item' column contains names of fruits. Think about whether these names have a natural order or ranking.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row3_p1b-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Qualitative nominal"
-        ],
-        "dependencies": [
-            "a1155e4row3_p1b-h2"
-        ],
-        "title": "Identifying the Type",
-        "text": "Does the 'item' column represent categories that can be named but not ordered?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Qualitative ordinal",
-            "Qualitative nominal",
-            "Quantitative"
-        ]
-    },
-    {
-        "id": "a1155e4row3_p1b-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Qualitative nominal"
-        ],
-        "dependencies": [
-            "a1155e4row3_p1b-h3"
-        ],
-        "title": "Final Decision",
-        "text": "Based on your understanding, what is the most representative variable type for the 'item' column?",
+        "title": "Identifying the Variable Type",
+        "text": "Consider the 'item' column. Is it best described as qualitative ordinal, qualitative nominal, or quantitative?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

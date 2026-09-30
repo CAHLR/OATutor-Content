@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "K-Means optimizes the silhouette score.",
-    "stepBody": "Which of the following statements are true about clustering?",
+    "stepTitle": "Which of the following statements are true about clustering?",
+    "stepBody": "K-Means optimizes the silhouette score.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

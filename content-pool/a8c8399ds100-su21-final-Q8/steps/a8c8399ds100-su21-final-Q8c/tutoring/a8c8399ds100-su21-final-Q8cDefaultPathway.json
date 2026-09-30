@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding One-Hot Encoding",
-        "text": "One-hot encoding transforms categorical variables into a set of binary variables. For the 'sex' column, this means creating two new columns: $$'sex_{male'}$$ and $$'sex_{female'}$$. Each row will have a $$1$$ in one of these columns and a $$0$$ in the other.",
+        "text": "One-hot encoding transforms categorical variables into a form that can be provided to ML algorithms to do a better job in prediction. For the 'sex' column, each unique category becomes a column with binary values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,35 @@
     {
         "id": "a8c8399ds100-su21-final-Q8c-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su21-final-Q8c-h1"
-        ],
-        "title": "Properties of the Design Matrix",
-        "text": "The design matrix \\( \\Phi_1 \\) will have two columns corresponding to $$'sex_{male'}$$ and $$'sex_{female'}$$. Each row will have a $$1$$ in one column and a $$0$$ in the other, ensuring that the sum of each row is $$1$$.",
+        "dependencies": [],
+        "title": "Matrix Properties",
+        "text": "A matrix is invertible if it is square and its determinant is non-zero. Consider the dimensions of $$\\Phi_1$$ and what $${\\Phi_1}^T$$ $$\\Phi_1$$ would look like.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su21-final-Q8c-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su21-final-Q8c-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "20x2"
         ],
-        "title": "Invertibility of a Matrix",
-        "text": "A matrix is invertible if it is square and has full rank. For \\( \\Phi_1**T \\Phi_1 \\) to be invertible, \\( \\Phi_1 \\) must have full column rank.",
+        "dependencies": [
+            "a8c8399ds100-su21-final-Q8c-h1"
+        ],
+        "title": "Dimensions of $$\\Phi_1$$",
+        "text": "What are the dimensions of $$\\Phi_1$$ if there are $$20$$ rows and $$2$$ columns?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "20x2",
+            "2x20",
+            "20x20",
+            "2x2"
+        ]
     },
     {
         "id": "a8c8399ds100-su21-final-Q8c-h4",
@@ -39,20 +48,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yes, \\( \\Phi_1 \\) has full column rank because the columns are linearly independent."
+            "2x2"
         ],
         "dependencies": [
             "a8c8399ds100-su21-final-Q8c-h3"
         ],
-        "title": "Checking Full Column Rank",
-        "text": "Does the design matrix \\( \\Phi_1 \\) have full column rank? Consider the columns $$'sex_{male'}$$ and $$'sex_{female'}$$.",
+        "title": "Dimensions of $${\\Phi_1}^T$$ $$\\Phi_1$$",
+        "text": "What are the dimensions of $${\\Phi_1}^T$$ $$\\Phi_1$$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "Yes",
-            "Yes, \\( \\Phi_1 \\) has full column rank because the columns are linearly independent."
+            "20x2",
+            "2x20",
+            "20x20",
+            "2x2"
         ]
     },
     {
@@ -61,20 +71,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "\\( \\Phi_1**T \\Phi_1 \\) is invertible because \\( \\Phi_1 \\) has full column rank."
+            "$$Non-zero$$ determinant"
         ],
         "dependencies": [
             "a8c8399ds100-su21-final-Q8c-h4"
         ],
-        "title": "Conclusion on Invertibility",
-        "text": "Given that \\( \\Phi_1 \\) has full column rank, what can we conclude about \\( \\Phi_1**T \\Phi_1 \\)?",
+        "title": "Determinant of $${\\Phi_1}^T$$ $$\\Phi_1$$",
+        "text": "If $${\\Phi_1}^T$$ $$\\Phi_1$$ is a 2x2 matrix, what condition must be met for it to be invertible?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Invertible",
-            "Not Invertible",
-            "\\( \\Phi_1**T \\Phi_1 \\) is invertible because \\( \\Phi_1 \\) has full column rank."
+            "Zero determinant",
+            "$$Non-zero$$ determinant",
+            "Square matrix",
+            "Symmetric matrix"
         ]
     }
 ]

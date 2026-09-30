@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "L1 regularization typically increases model bias.",
-    "stepBody": "Select all statements below that are true.",
+    "stepTitle": "Select all statements below that are true.",
+    "stepBody": "L1 regularization typically increases model bias.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

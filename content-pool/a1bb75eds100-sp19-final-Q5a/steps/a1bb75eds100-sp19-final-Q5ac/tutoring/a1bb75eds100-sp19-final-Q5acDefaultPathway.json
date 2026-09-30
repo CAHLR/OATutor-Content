@@ -4,22 +4,32 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Logistic Regression",
-        "text": "In logistic regression, the probability of the binary outcome is modeled using the logistic function. This function maps any real-valued number into the $$(0,1)$$ interval.",
+        "text": "In logistic regression, the probability $$\\$P(Y=1|X)\\$$$ is modeled using the logistic function, which outputs values between $$0$$ and $$1$$. This means that $$\\$P(Y=1|X)\\$$$ can never be exactly $$1$$ or $$0$$, but it can get very close to these values. Think about how this affects the statement $P(Y=1|X)<1$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-sp19-final-Q5ac-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$0$$ to $$1$$"
+        ],
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5ac-h1"
         ],
-        "title": "Properties of the Logistic Function",
-        "text": "The logistic function, denoted as sigma, is defined as $$sigma(z)=\\frac{1}{1+e^{\\left(-z\\right)}}$$. It always outputs a value between $$0$$ and $$1$$, exclusive of $$1$$.",
+        "title": "Exploring the Logistic Function",
+        "text": "Consider the logistic function $\\sigma(X**{T}{\\beta})$. What is the range of values that this function can output?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0$$ to $$1$$",
+            "$$0$$ to infinity",
+            "negative infinity to infinity"
+        ]
     },
     {
         "id": "a1bb75eds100-sp19-final-Q5ac-h3",
@@ -27,8 +37,8 @@
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5ac-h2"
         ],
-        "title": "Evaluating $$P(Y=1|X)$$",
-        "text": "Since $$P(Y=1|X)=\\operatorname{\\sigma}\\left(X^T \\beta\\right)$$, and sigma(z) is always less than $$1$$, $$P(Y=1|X)$$ is always less than $$1$$.",
+        "title": "Behavior of the Logistic Function",
+        "text": "The logistic function $\\sigma(z)=1/(1+e**{-z})$ is always less than $$1$$ because the denominator $1+e**{-z}$ is always greater than $$1$$. How does this relate to the probability $$\\$P(Y=1|X)\\$$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,20 +49,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Always"
+            "Because $e**{-z}$ is always positive."
         ],
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5ac-h3"
         ],
-        "title": "Conclusion",
-        "text": "Based on the properties of the logistic function, when is P(Y=1|X)<1 true?",
+        "title": "Analyzing the Denominator",
+        "text": "Why is the denominator $1+e**{-z}$ always greater than 1?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Always",
-            "Sometimes",
-            "Never"
+            "Because $e**{-z}$ is always positive.",
+            "Because $e**{-z}$ can be negative.",
+            "Because $e**{-z}$ is always zero."
         ]
     }
 ]

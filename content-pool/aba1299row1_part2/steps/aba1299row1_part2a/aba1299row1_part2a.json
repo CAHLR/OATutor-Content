@@ -4,8 +4,8 @@
         "$$11$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Updating the Parameter with Gradient Descent",
-    "stepBody": "Fill in blank for part a.",
+    "stepTitle": "Fill in blank for part a.",
+    "stepBody": "Updating the Parameter with Gradient Descent",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$11$$"

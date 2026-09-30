@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bimodal Distribution",
-        "text": "A bimodal distribution has two different modes or peaks. Consider how you might identify these peaks in a plot.",
+        "text": "A bimodal distribution has two different modes, or peaks. Look at the distribution of weights for each shape. Do you see two distinct peaks in any of them?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a1155e4row4g-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Alternative Plot Types",
-        "text": "Think about plot types that can show the distribution of data, such as box plots or density plots.",
+        "title": "Using Overlaid Histograms",
+        "text": "Overlaid histograms can help visualize the distribution of data by showing multiple datasets on the same plot. This can make it easier to compare the distributions and identify features like bimodality.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -22,31 +22,22 @@
     {
         "id": "a1155e4row4g-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "Two peaks"
+            "TRUE"
         ],
-        "dependencies": [],
-        "title": "Identifying Bimodal Distribution",
-        "text": "What characteristic of a plot indicates a bimodal distribution?",
+        "dependencies": [
+            "a1155e4row4g-h1"
+        ],
+        "title": "Analyzing the Plot",
+        "text": "Based on the plot, do you think overlaid histograms would help determine if the distribution of nugget weights is bimodal for a given shape?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row4g-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "Density plot"
-        ],
-        "dependencies": [],
-        "title": "Choosing the Right Plot",
-        "text": "Which plot type can help visualize the distribution of nugget weights to identify bimodal characteristics?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     }
 ]

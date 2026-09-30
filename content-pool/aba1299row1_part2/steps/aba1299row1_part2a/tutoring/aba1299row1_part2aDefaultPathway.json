@@ -3,8 +3,8 @@
         "id": "aba1299row1_part2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Table",
-        "text": "The table represents several iterations of batch gradient descent. Each row corresponds to a time step $$t$$, and the columns represent different values at that step.",
+        "title": "Understanding Gradient Descent",
+        "text": "Gradient descent updates the parameter by moving in the direction opposite to the gradient. The update rule is: $$new_{\\theta}$$ $$=$$ $$old_{\\theta}$$ - alpha * gradient.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,39 +15,57 @@
         "dependencies": [
             "aba1299row1_part2a-h1"
         ],
-        "title": "Gradient Descent Formula",
-        "text": "The update rule for gradient descent is given by: $$\\operatorname{\\theta}\\left(t+1\\right)$$ $$=$$ \u03b8(t) - \\alpha * $$\\frac{dL}{dtheta} \\operatorname{\\theta}\\left(t\\right)$$. Here, \\alpha is the learning rate.",
+        "title": "Using the Learning Rate",
+        "text": "The learning rate (alpha) is $$1$$ in this problem. This means the update rule simplifies to: $$new_{\\theta}$$ $$=$$ $$old_{\\theta}$$ - gradient.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row1_part2a-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$1$$"
+        ],
         "dependencies": [
             "aba1299row1_part2a-h2"
         ],
-        "title": "Using the Learning Rate",
-        "text": "The learning rate \\alpha is given as $$1$$. This simplifies the update rule to: $$\\operatorname{\\theta}\\left(t+1\\right)$$ $$=$$ \u03b8(t) - $$\\frac{dL}{dtheta} \\operatorname{\\theta}\\left(t\\right)$$.",
+        "title": "Calculate the Gradient",
+        "text": "What is the gradient at $$t=0$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1$$",
+            ">2",
+            ">3",
+            ">4"
+        ]
     },
     {
         "id": "aba1299row1_part2a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$11$$"
+            "$$9$$"
         ],
         "dependencies": [
             "aba1299row1_part2a-h3"
         ],
-        "title": "Calculate $$\\operatorname{\\theta}\\left(t+1\\right)$$ for $$t=0$$",
-        "text": "Given \u03b8(t) $$=$$ $$10$$ and $$\\frac{dL}{dtheta} \\operatorname{\\theta}\\left(t\\right)$$ $$=$$ (b), use the update rule to find $$\\operatorname{\\theta}\\left(t+1\\right)$$.",
+        "title": "Update the Parameter",
+        "text": "Using the update rule, what is $$\\operatorname{\\theta}\\left(t+1\\right)$$ at $$t=0$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$8$$",
+            "$$9$$",
+            ">10",
+            ">11",
+            ">9"
+        ]
     }
 ]

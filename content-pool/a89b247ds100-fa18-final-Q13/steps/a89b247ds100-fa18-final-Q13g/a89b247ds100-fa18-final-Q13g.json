@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$h(x)$$",
-    "stepBody": "Do we treat the following as fixed?",
+    "stepTitle": "Do we treat the following as fixed?",
+    "stepBody": "$$h(x)$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "We chose arbitrary features when doing feature engineering.",
-    "stepBody": "Is this one of the reasons we are taking an expectation? In other words, is it one of the sources of randomness that we are considering in the derivation of the bias-variance tradeoff?",
+    "stepTitle": "Is this one of the reasons we are taking an expectation? In other words, is it one of the sources of randomness that we are considering in the derivation of the bias-variance tradeoff?",
+    "stepBody": "We chose arbitrary features when doing feature engineering.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

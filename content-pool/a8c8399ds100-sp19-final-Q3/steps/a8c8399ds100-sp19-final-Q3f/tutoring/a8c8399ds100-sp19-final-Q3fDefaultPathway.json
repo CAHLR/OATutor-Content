@@ -3,38 +3,14 @@
         "id": "a8c8399ds100-sp19-final-Q3f-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Model",
-        "text": "The model is given by the equation: $$y_i=\\beta_0+x_i \\beta_1+f{\\left(x_i\\right)} \\beta_2$$. We need to determine if $$f(x)=x$$ can fit the data in the scatterplot.",
+        "title": "Understanding the Scatterplot",
+        "text": "Look at the pattern of the data points in the scatterplot. Consider how the function $$f(x)=x$$ might affect the linearity of the model. Does the pattern suggest a linear relationship?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp19-final-Q3f-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp19-final-Q3f-h1"
-        ],
-        "title": "Analyzing the Scatterplot",
-        "text": "Observe the scatterplot. Does the relationship between $$x$$ and $$y$$ appear to be linear? If so, $$f(x)=x$$ might be a suitable choice.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp19-final-Q3f-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp19-final-Q3f-h2"
-        ],
-        "title": "Linear Relationship",
-        "text": "If the points in the scatterplot can be approximated by a straight line, then $$f(x)=x$$ is likely a good fit.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp19-final-Q3f-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a8c8399ds100-sp19-final-Q3f-h3"
+            "a8c8399ds100-sp19-final-Q3f-h1"
         ],
-        "title": "Conclusion",
-        "text": "Based on the scatterplot, can $$f(x)=x$$ fit the data using the given model?",
+        "title": "Analyzing $$f(x)=x$$",
+        "text": "If $$f(x)=x$$, how does this affect the equation $$y_i=\\beta_0+x_i \\beta_1+f{\\left(x_i\\right)} \\beta_2$$? Does it simplify to a linear equation?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,8 +4,8 @@
         "Always"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$P(Y=1|X)<1$$",
-    "stepBody": "Select always, sometimes, or never to describe when each statement below is true about a logistic regression model\\n$$P(Y=1|X)=\\sigma(X**{T}{\\beta})$$\\nwhere $$Y$$ is binary and $$X$$ is vector-valued. $$X$$ and $$\\beta$$ are finite.",
+    "stepTitle": "Select always, sometimes, or never to describe when each statement below is true about a logistic regression model\\n$$P(Y=1|X)=\\sigma(X**{T}{\\beta})$$\\nwhere $$Y$$ is binary and $$X$$ is vector-valued. $$X$$ and $$\\beta$$ are finite.",
+    "stepBody": "$$P(Y=1|X)<1$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

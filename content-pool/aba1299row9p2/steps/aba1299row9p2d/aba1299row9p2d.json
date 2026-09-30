@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Qualitative nominal",
-    "stepBody": "Is the variable type present in Kippa's DataFrame?",
+    "stepTitle": "Is the variable type present in Kippa's DataFrame?",
+    "stepBody": "Qualitative nominal",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -3,49 +3,65 @@
         "id": "aba1299row8p2b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Dimensions of Y",
-        "text": "The vector $Y$ represents the dependent variable in the OLS regression. It contains the values of the variable you are trying to predict.",
+        "title": "Understanding the Dimensions of a Vector",
+        "text": "When considering the dimensions of a vector, think about how many entries it has and how they are arranged. A vector typically has one column and multiple rows. Can you visualize how this applies to the vector $Y$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row8p2b-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$m$$"
+        ],
         "dependencies": [
             "aba1299row8p2b-h1"
         ],
-        "title": "Relation Between X and Y",
-        "text": "The design matrix $X$ has $m$ rows, each corresponding to an observation. The vector $Y$ should have the same number of rows as $X$ to match each observation.",
+        "title": "Identifying the Number of Rows",
+        "text": "If $Y$ is a vector that contains the heights of $m$ individuals, how many rows would it have?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$m$$",
+            ">n",
+            ">1"
+        ]
     },
     {
         "id": "aba1299row8p2b-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$1$$"
+        ],
         "dependencies": [
             "aba1299row8p2b-h2"
         ],
-        "title": "Column Count of Y",
-        "text": "Since $Y$ is a vector, it has only one column.",
+        "title": "Identifying the Number of Columns",
+        "text": "A vector typically has how many columns?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1$$",
+            ">1",
+            ">n",
+            "$$m$$"
+        ]
     },
     {
         "id": "aba1299row8p2b-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$1m$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "aba1299row8p2b-h3"
         ],
-        "title": "Determine the Dimensions of Y",
-        "text": "Given that $Y$ is a vector with $m$ rows and $$1$$ column, what are its dimensions?",
+        "title": "Putting It All Together",
+        "text": "Now that you know the number of rows and columns for the vector $Y$, can you determine its dimensions? Remember, the format is $a$ by $b$, where $a$ is the number of rows and $b$ is the number of columns.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

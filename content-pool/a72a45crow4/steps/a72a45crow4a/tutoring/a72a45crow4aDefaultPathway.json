@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Sampling Frame",
-        "text": "Consider where Oski is conducting the survey and who might be included in it.",
+        "text": "Think about where Oski is conducting the survey and who might be missing from that location.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Defining Population of Interest",
-        "text": "Think about who Oski wants to gather opinions from regarding the fruit-eating event.",
+        "text": "Consider who Oski wants to gather opinions from. Is it just the people at Memorial Glade or a broader group?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,40 +25,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Memorial Glade"
+            "No, it is not since not all attendees are necessarily at Memorial Glade."
         ],
         "dependencies": [],
-        "title": "Identifying the Sampling Frame",
-        "text": "Where is Oski conducting the survey?",
+        "title": "Comparing Sampling Frame and Population",
+        "text": "Which of the following best describes the relationship between Oski's sampling frame and population of interest?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Memorial Glade",
-            "Sproul Plaza",
-            "Doe Library",
-            "Sather Gate"
-        ]
-    },
-    {
-        "id": "a72a45crow4a-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "All attendees of the $$fruit-eating$$ event"
-        ],
-        "dependencies": [],
-        "title": "Identifying the Population of Interest",
-        "text": "Who does Oski want to survey about the fruit-eating event?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "All attendees of the $$fruit-eating$$ event",
-            "Only current UC Berkeley students",
-            "Only admitted applicants",
-            "All people at Memorial Glade"
+            "No, it is not, since all attendees are at Memorial Glade.",
+            "Yes, since all people in the population are the sample",
+            "No, it is not since not all attendees are necessarily at Memorial Glade.",
+            "Yes, because the sampling frame and population are always the same."
         ]
     }
 ]

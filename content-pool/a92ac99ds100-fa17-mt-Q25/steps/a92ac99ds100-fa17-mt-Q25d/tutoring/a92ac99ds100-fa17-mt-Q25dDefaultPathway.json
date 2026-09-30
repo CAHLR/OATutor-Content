@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bootstrapping",
-        "text": "Bootstrapping is a resampling method that involves repeatedly drawing samples from a data set and calculating a statistic for each sample. This helps in estimating the sampling distribution of the statistic.",
+        "text": "Bootstrapping involves resampling with replacement from a dataset to estimate the sampling distribution of a statistic. Think about how the shape of this distribution might change as you increase the sample size.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a92ac99ds100-fa17-mt-Q25d-h1"
         ],
-        "title": "Sample Size and Distribution Shape",
-        "text": "As the sample size increases, the Central Limit Theorem suggests that the sampling distribution of the sample mean will become approximately normal, regardless of the shape of the population distribution.",
+        "title": "Normal Distribution and Sample Size",
+        "text": "Consider what happens to the distribution of sample means as the sample size increases. Does it always become normal, or are there conditions that affect this?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a92ac99ds100-fa17-mt-Q25d-h3",
-        "type": "hint",
-        "dependencies": [
-            "a92ac99ds100-fa17-mt-Q25d-h2"
-        ],
-        "title": "Bootstrapped Sampling Distribution",
-        "text": "The bootstrapped sampling distribution of a statistic may not always become normal as the sample size increases. It depends on the original data distribution and the statistic being calculated.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a92ac99ds100-fa17-mt-Q25d-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "a92ac99ds100-fa17-mt-Q25d-h3"
+            "a92ac99ds100-fa17-mt-Q25d-h2"
         ],
-        "title": "Evaluating the Statement",
-        "text": "Consider whether the bootstrapped sampling distribution of a statistic will always become roughly normal as the sample size increases.",
+        "title": "Sample Size and Distribution Shape",
+        "text": "As the sample size increases, does the distribution of the sample mean always become normal?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

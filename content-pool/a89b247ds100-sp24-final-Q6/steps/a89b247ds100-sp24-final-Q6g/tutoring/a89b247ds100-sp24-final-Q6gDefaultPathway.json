@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Risk",
-        "text": "Model risk is the sum of bias squared, variance, and observational variance. When Ishani adds more features, the model risk decreases. This suggests a change in bias and/or variance.",
+        "text": "Model risk is the sum of model variance and observational variance. Can you calculate the model risk for the new model using the given variances?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a89b247ds100-sp24-final-Q6g-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6g-h1"
-        ],
-        "title": "Effect of Adding Features",
-        "text": "Adding more features to a model can reduce bias but may increase variance. Consider how this tradeoff affects the model risk.",
+        "dependencies": [],
+        "title": "Model Variance and Observational Variance",
+        "text": "Remember, when you add more features to a model, it can affect both the model variance and the observational variance. Think about how these changes might impact the overall model risk.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,13 +25,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$21$$"
+            "$$17$$"
         ],
         "dependencies": [
-            "a89b247ds100-sp24-final-Q6g-h2"
+            "a89b247ds100-sp24-final-Q6g-h1"
         ],
-        "title": "Calculate New Bias",
-        "text": "Given the initial model risk of $$32$$, model variance of $$8$$, and observational variance of $$3$$, calculate the initial bias squared.",
+        "title": "Calculate New Model Risk",
+        "text": "Given the new model variance of $$15$$ and observational variance of $$2$$, what is the new model risk?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -41,47 +39,23 @@
     {
         "id": "a89b247ds100-sp24-final-Q6g-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$14$$"
+            "Model variance may increase, but observational variance may decrease."
         ],
         "dependencies": [
-            "a89b247ds100-sp24-final-Q6g-h3"
+            "a89b247ds100-sp24-final-Q6g-h2"
         ],
-        "title": "New Model Risk Components",
-        "text": "With the new model risk of $$17$$ and observational variance of $$3$$, calculate the sum of the new bias squared and variance.",
+        "title": "Impact of Adding Features",
+        "text": "When features are added to a model, which of the following is likely to happen?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-sp24-final-Q6g-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$-1$$"
-        ],
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6g-h4"
-        ],
-        "title": "Determine New Variance",
-        "text": "If the new model variance is $$15$$, what is the new bias squared?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-sp24-final-Q6g-h6",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6g-h5"
-        ],
-        "title": "Check Reasonableness",
-        "text": "Consider if a negative bias squared is reasonable. What does this imply about the new variance value?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Model variance may increase, but observational variance may decrease.",
+            "Both model variance and observational variance will increase.",
+            "Model variance will decrease, but observational variance will increase."
+        ]
     }
 ]

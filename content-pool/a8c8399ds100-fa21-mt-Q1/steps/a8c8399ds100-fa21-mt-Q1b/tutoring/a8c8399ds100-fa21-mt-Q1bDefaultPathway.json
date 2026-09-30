@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-fa21-mt-Q1b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding One-hot Encoding",
-        "text": "One-hot encoding is a method of representing categorical data as binary vectors. Each category is represented by a vector with a single high (1) bit and all other bits low (0).",
+        "title": "Understanding One-Hot Encoding",
+        "text": "When you one-hot encode a sequence, each unique element in the sequence is represented as a separate dimension. Think about how many unique elements are in a DNA sequence and how this affects the dimensionality.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a8c8399ds100-fa21-mt-Q1b-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Calculating Dimensions for One-hot Encoding",
-        "text": "To calculate the dimensions for one-hot encoding, consider the number of unique categories you need to represent. For DNA strings, each letter (T, G, C, A) is a category.",
+        "title": "Exploring Codons",
+        "text": "A codon is a sequence of $$3$$ DNA letters. Consider how many possible combinations of these $$3$$ letters exist. This will help you determine the number of dimensions when one-hot encoding codons.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -22,41 +22,57 @@
     {
         "id": "a8c8399ds100-fa21-mt-Q1b-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$4$$"
+            "$$64$$"
         ],
-        "dependencies": [],
-        "title": "Determine the Number of Unique Categories",
-        "text": "How many unique categories (letters) are there in a DNA string?",
+        "dependencies": [
+            "a8c8399ds100-fa21-mt-Q1b-h2"
+        ],
+        "title": "Calculating Codon Combinations",
+        "text": "How many different codons can be formed from the DNA letters T, G, C, and A?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$64$$",
+            "$$16$$",
+            "$$256$$",
+            "$$4$$"
+        ]
     },
     {
         "id": "a8c8399ds100-fa21-mt-Q1b-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$4^{3000}$$"
-        ],
+        "type": "hint",
         "dependencies": [],
-        "title": "Calculate the Total Number of Dimensions",
-        "text": "If each DNA string has $$3000$$ letters and each letter can be one of $$4$$ categories, how many dimensions will the one-hot encoded vector have?",
+        "title": "Understanding 6-Letter Combinations",
+        "text": "When considering 6-letter combinations, think about how many unique sequences of $$6$$ letters can be formed from the DNA alphabet. This will guide you in determining the dimensionality for one-hot encoding these combinations.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa21-mt-Q1b-h5",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Understanding the Exponential Growth",
-        "text": "The number of dimensions grows exponentially with the length of the DNA string when using one-hot encoding. This is because each position in the string can independently be one of $$4$$ categories.",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$4096$$"
+        ],
+        "dependencies": [
+            "a8c8399ds100-fa21-mt-Q1b-h4"
+        ],
+        "title": "Calculating 6-Letter Combinations",
+        "text": "How many different 6-letter combinations can be formed from the DNA letters T, G, C, and A?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$4096$$",
+            "$$64$$",
+            "$$256$$",
+            "$$1024$$"
+        ]
     }
 ]

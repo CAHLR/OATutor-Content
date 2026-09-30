@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "consoles[(consoles['generation'] $$==$$ 6) & (consoles['year'] < 2000)]['name']",
-    "stepBody": "Is the line of code correctly finding the names of all sixth generation consoles that were released before the year 2000?",
+    "stepTitle": "Is the line of code correctly finding the names of all sixth generation consoles that were released before the year 2000?",
+    "stepBody": "consoles[(consoles['generation'] $$==$$ 6) & (consoles['year'] < 2000)]['name']",
     "answerType": "string",
     "variabilization": {},
     "choices": [

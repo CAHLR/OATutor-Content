@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-su20-final-Q4m-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Models",
-        "text": "The first image shows two different models for linear regression. The first model uses the original design matrix, while the second uses the mean-centered design matrix. Consider how centering affects the regression coefficients.",
+        "title": "Understanding Mean-Centering",
+        "text": "Mean-centering involves subtracting the mean of each feature from the data points in that feature. This process does not affect the intercept term but can influence the slope of the regression line.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,33 @@
     {
         "id": "a8c8399ds100-su20-final-Q4m-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4m-h1"
-        ],
-        "title": "Analyzing the Scatter Plot",
-        "text": "The scatter plot shows a clear negative linear trend. This indicates that as the feature value increases, the response value decreases. Consider how this trend affects the choice of parameter for minimizing test MSE.",
+        "dependencies": [],
+        "title": "Effect of Regularization",
+        "text": "Regularization adds a penalty to the loss function to prevent overfitting. It can affect the coefficients of the model, especially when features are correlated.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su20-final-Q4m-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4m-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Negative linear trend"
         ],
-        "title": "Effect of Centering on Coefficients",
-        "text": "Centering the data can affect the intercept but not the slope of the regression line. Since the scatter plot shows a linear trend, focus on how centering impacts the slope and test MSE.",
+        "dependencies": [],
+        "title": "Analyzing the Scatter Plot",
+        "text": "Look at the scatter plot. What kind of trend do you observe?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Positive linear trend",
+            "Negative linear trend",
+            "No trend",
+            "Exponential trend"
+        ]
     },
     {
         "id": "a8c8399ds100-su20-final-Q4m-h4",
@@ -44,8 +51,8 @@
         "dependencies": [
             "a8c8399ds100-su20-final-Q4m-h3"
         ],
-        "title": "Choosing the Parameter",
-        "text": "Given the negative linear trend in the scatter plot, which parameter (theta_A or theta_B) is likely to achieve a lower test MSE?",
+        "title": "Comparing Models",
+        "text": "Consider the effect of mean-centering on the model's performance. Which model is likely to perform better on test data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

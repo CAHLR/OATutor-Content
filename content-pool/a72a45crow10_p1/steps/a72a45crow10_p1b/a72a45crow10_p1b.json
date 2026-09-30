@@ -4,8 +4,8 @@
         "All Data $$100$$ students that attend discussion section this week."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "What is the sampling frame of this method?",
-    "stepBody": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepTitle": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepBody": "What is the sampling frame of this method?",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "All Data $$100$$ students that attend discussion section this week.",

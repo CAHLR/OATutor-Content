@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Logistic Regression",
-        "text": "In logistic regression, the probability of the binary outcome Y given the input vector X is modeled using the logistic function. This function is defined as \\( \\sigma(z) $$=$$ \\frac{1}{1+e**{-z}} \\), where \\( $$z$$ $$=$$ X**{T}\\beta \\).",
+        "text": "In logistic regression, the probability $$\\$P(Y=1|X)\\$$$ is modeled using the logistic function, which is a type of sigmoid function. This function maps any real-valued number into the $$(0,1)$$ interval, making it suitable for binary classification.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,23 +15,33 @@
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5aa-h1"
         ],
-        "title": "Interpreting the Logistic Function",
-        "text": "The logistic function \\( \\sigma(X**{T}\\beta) \\) maps any real-valued number into the $$(0,1)$$ interval, which represents the probability of Y being $$1$$ given X.",
+        "title": "Comparing Probabilities and Linear Combinations",
+        "text": "Consider the logistic function $\\sigma(X**T\\beta)$, which outputs a value between $$0$$ and $$1$$. Compare this with the linear combination $X**T\\beta$, which can take any real value. Think about how these two expressions relate to each other in terms of their range and behavior.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-sp19-final-Q5aa-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "All real numbers"
+        ],
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5aa-h2"
         ],
-        "title": "When is \\( $$P(Y=1|X)$$ > X**{T}\\beta \\)?",
-        "text": "Consider the range of values that \\( \\sigma(X**{T}\\beta) \\) can take. Since \\( \\sigma(X**{T}\\beta) \\) is always between $$0$$ and $$1$$, think about when it might be greater than \\( X**{T}\\beta \\).",
+        "title": "Exploring the Range of $X**T\\beta$",
+        "text": "What is the range of values that $X**T\\beta$ can take?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "All real numbers",
+            "Only positive numbers",
+            "Only negative numbers"
+        ]
     },
     {
         "id": "a1bb75eds100-sp19-final-Q5aa-h4",
@@ -39,20 +49,32 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Sometimes"
+            "Between $$0$$ and $$1$$"
         ],
         "dependencies": [
             "a1bb75eds100-sp19-final-Q5aa-h3"
         ],
-        "title": "Comparing \\( \\sigma(X**{T}\\beta) \\) and \\( X**{T}\\beta \\)",
-        "text": "Given that \\( \\sigma(X**{T}\\beta) \\) is always between $$0$$ and $$1$$, and \\( X**{T}\\beta \\) can be any real number, under what conditions is \\( \\sigma(X**{T}\\beta) > X**{T}\\beta \\)?",
+        "title": "Exploring the Range of $\\sigma(X**T\\beta)$",
+        "text": "What is the range of values that $\\sigma(X**T\\beta)$ can take?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Always",
-            "Sometimes",
-            "Never"
+            "Between $$0$$ and $$1$$",
+            "Between $$-1$$ and $$1$$",
+            "All real numbers"
         ]
+    },
+    {
+        "id": "a1bb75eds100-sp19-final-Q5aa-h5",
+        "type": "hint",
+        "dependencies": [
+            "a1bb75eds100-sp19-final-Q5aa-h4"
+        ],
+        "title": "Understanding the Inequality",
+        "text": "To determine when $P(Y=1|X)>X**T\\beta$, consider the behavior of the logistic function $\\sigma(X**T\\beta)$ and how it compares to the linear combination $X**T\\beta$. Think about the conditions under which the logistic function might output a value greater than the linear combination.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

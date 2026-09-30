@@ -3,23 +3,34 @@
         "id": "aea05a2ds100-sp25-final-Q4c,Q4dg-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Clustering",
-        "text": "Clustering is a method of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups.",
+        "title": "Understanding K-Means Objective",
+        "text": "K-Means clustering aims to minimize the within-cluster variance. Think about what this means in terms of how data points are grouped together.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp25-final-Q4c,Q4dg-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Silhouette Score"
+        ],
         "dependencies": [
             "aea05a2ds100-sp25-final-Q4c,Q4dg-h1"
         ],
-        "title": "Silhouette Score",
-        "text": "The silhouette score is a measure of how similar an object is to its own cluster compared to other clusters. It ranges from $$-1$$ to $$1$$, where a high value indicates that the object is well matched to its own cluster and poorly matched to neighboring clusters.",
+        "title": "Evaluating Clustering Performance",
+        "text": "Which metric is commonly used to evaluate the compactness and separation of clusters?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Silhouette Score",
+            "Mean Squared Error",
+            "Accuracy",
+            "Precision"
+        ]
     },
     {
         "id": "aea05a2ds100-sp25-final-Q4c,Q4dg-h3",
@@ -27,8 +38,8 @@
         "dependencies": [
             "aea05a2ds100-sp25-final-Q4c,Q4dg-h2"
         ],
-        "title": "K-Means Clustering",
-        "text": "K-Means is a popular clustering algorithm that partitions data into K clusters, where each data point belongs to the cluster with the nearest mean.",
+        "title": "Silhouette Score Insight",
+        "text": "The silhouette score measures how similar an object is to its own cluster compared to other clusters. Consider how this might relate to the goal of K-Means.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -44,8 +55,8 @@
         "dependencies": [
             "aea05a2ds100-sp25-final-Q4c,Q4dg-h3"
         ],
-        "title": "Evaluating Clustering",
-        "text": "Does K-Means always optimize the silhouette score?",
+        "title": "K-Means Objective Clarification",
+        "text": "Does K-Means directly optimize the silhouette score during its clustering process?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

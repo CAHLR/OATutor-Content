@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Variance",
-        "text": "When you add a new feature to a model, especially one that is a transformation of an existing feature, it can affect the model's variance. Consider how adding a feature might increase the model's flexibility and how that could impact variance.",
+        "text": "When you add a new feature to a model, especially one that is a transformation of an existing feature, think about how it might affect the model's flexibility. More flexibility can sometimes lead to increased variance. Consider how this new feature might interact with the existing ones.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6d-h2",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6d-h1"
-        ],
-        "title": "Effect of Adding Features",
-        "text": "Adding a new feature, such as the square of an existing feature, can increase the model's complexity. Think about how this complexity might affect the model's ability to fit the training data and how it might generalize to new data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-fa25-mt2-Q6d-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,28 +18,17 @@
             "Increase"
         ],
         "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6d-h2"
+            "a89b247ds100-fa25-mt2-Q6d-h1"
         ],
-        "title": "Analyzing Variance",
-        "text": "Consider the impact of adding a feature on the model's variance. Does increasing the number of features generally increase or decrease variance?",
+        "title": "Effect of Adding a Feature",
+        "text": "What happens to model variance when you add a new feature that is a transformation of an existing feature?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "Increase",
-            "Decrease"
+            "Decrease",
+            "Both"
         ]
-    },
-    {
-        "id": "a89b247ds100-fa25-mt2-Q6d-h4",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6d-h3"
-        ],
-        "title": "Variance and Flexibility",
-        "text": "Increasing the number of features typically increases the model's flexibility. More flexibility can lead to higher variance because the model might fit the noise in the training data more closely.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

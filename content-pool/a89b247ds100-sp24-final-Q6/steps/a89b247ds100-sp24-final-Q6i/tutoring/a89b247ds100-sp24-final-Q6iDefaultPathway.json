@@ -3,8 +3,8 @@
         "id": "a89b247ds100-sp24-final-Q6i-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Bias and Variance",
-        "text": "Bias refers to the error introduced by approximating a real-world problem, which may be complex, by a simplified model. Variance refers to the model's sensitivity to fluctuations in the training data.",
+        "title": "Understanding Overfitting",
+        "text": "Overfitting occurs when a model captures noise in the data rather than the underlying pattern. Consider how the variance of a model might influence its tendency to overfit.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,52 +12,59 @@
     {
         "id": "a89b247ds100-sp24-final-Q6i-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6i-h1"
-        ],
-        "title": "Comparing Bias and Variance",
-        "text": "Model A has a bias squared of $$2$$ and a variance of $$12$$, while Model B has a bias squared of $$4$$ and a variance of $$1$$. Which model has higher variance?",
+        "dependencies": [],
+        "title": "Bias and Variance",
+        "text": "Remember that bias and variance are two components of the error in a model. High variance can lead to overfitting, while high bias can lead to underfitting. Think about how these components are balanced in each model.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-sp24-final-Q6i-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6i-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Model A"
         ],
-        "title": "Impact of High Variance",
-        "text": "A model with high variance is more likely to overfit the training data. Overfitting occurs when a model captures noise in the training data rather than the intended outputs.",
+        "dependencies": [],
+        "title": "Comparing Variance",
+        "text": "Which model has a higher variance?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Model A",
+            "Model B"
+        ]
     },
     {
         "id": "a89b247ds100-sp24-final-Q6i-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
+        "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Model A: 2+12=14, Model B: 4+1=5"
+            "Overfit"
         ],
         "dependencies": [
             "a89b247ds100-sp24-final-Q6i-h3"
         ],
-        "title": "Calculating Total Error",
-        "text": "The total error of a model can be calculated as the sum of bias squared and variance. Calculate the total error for both models.",
+        "title": "Impact of Variance on Overfitting",
+        "text": "If a model has higher variance, is it more likely to overfit or underfit?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Overfit",
+            "Underfit"
+        ]
     },
     {
         "id": "a89b247ds100-sp24-final-Q6i-h5",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp24-final-Q6i-h4"
-        ],
-        "title": "Conclusion on Overfitting",
-        "text": "Based on the total error calculated, which model is more likely to overfit the data?",
+        "dependencies": [],
+        "title": "Connecting Bias and Variance",
+        "text": "Consider how the combination of bias and variance affects the overall error of a model. A model with low bias and high variance might perform differently than one with high bias and low variance.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

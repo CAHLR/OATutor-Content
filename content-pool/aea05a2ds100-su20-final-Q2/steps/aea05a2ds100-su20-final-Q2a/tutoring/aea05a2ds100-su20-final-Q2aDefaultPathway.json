@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Agglomerative Clustering",
-        "text": "Agglomerative clustering is a type of hierarchical clustering that starts with each point as its own cluster and merges them step by step based on a linkage criterion.",
+        "text": "Agglomerative clustering is a type of hierarchical clustering that builds nested clusters by merging or splitting them successively. It starts with each point as its own cluster and merges them step by step. Can you think about how randomness in tie-breaking might affect the final clustering?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "aea05a2ds100-su20-final-Q2a-h1"
         ],
-        "title": "Linkage Criteria",
-        "text": "In average linkage clustering, the distance between two clusters is defined as the average distance between each point in one cluster and each point in the other cluster.",
+        "title": "Tie-breaking in Clustering",
+        "text": "When distances between points are unique, the order of merging clusters is determined by these distances. However, if tie-breaking is random, consider how this might introduce variability in the clustering process. What does this imply about the consistency of the results?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-su20-final-Q2a-h3",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-su20-final-Q2a-h2"
-        ],
-        "title": "Effect of Random Tie-breaking",
-        "text": "Since tie-breaking is done randomly, the clustering result can vary if there are ties in the distances between clusters.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-su20-final-Q2a-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "Sometimes"
         ],
         "dependencies": [
-            "aea05a2ds100-su20-final-Q2a-h3"
+            "aea05a2ds100-su20-final-Q2a-h2"
         ],
-        "title": "Considering Randomness in Clustering",
-        "text": "Given that tie-breaking is random and no two points have the same distance, will the clustering result always be the same?",
+        "title": "Impact of Random Tie-breaking",
+        "text": "If tie-breaking is done randomly, will the clustering result be:",
         "variabilization": {},
         "oer": "openai",
         "license": "",

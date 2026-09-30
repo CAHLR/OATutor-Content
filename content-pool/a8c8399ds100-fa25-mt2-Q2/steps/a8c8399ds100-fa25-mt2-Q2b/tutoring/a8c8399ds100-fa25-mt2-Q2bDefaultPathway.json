@@ -3,23 +3,33 @@
         "id": "a8c8399ds100-fa25-mt2-Q2b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Role of the Vector $$1$$",
-        "text": "Consider the role of the vector $$1$$ in the context of the design matrix X. What does it mean for a vector to be in the span of a matrix?",
+        "title": "Understanding the Span",
+        "text": "Think about what it means for a vector to be \"in the span of\" a matrix. If a vector is in the span of a matrix, it can be expressed as a linear combination of the columns of that matrix. Consider how the vector of ones might relate to the columns of the design matrix.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa25-mt2-Q2b-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "NOT orthogonal to and NOT in the span of"
+        ],
         "dependencies": [
             "a8c8399ds100-fa25-mt2-Q2b-h1"
         ],
-        "title": "Span of a Matrix",
-        "text": "The span of a matrix consists of all possible linear combinations of its columns. If a vector is in the span of a matrix, it can be expressed as a linear combination of the matrix's columns.",
+        "title": "Exploring Orthogonality",
+        "text": "Consider the relationship between the vector of ones and the columns of the design matrix. Is it possible for the vector of ones to be orthogonal to any of the columns of the design matrix?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Orthogonal to",
+            "In the span of",
+            "NOT orthogonal to and NOT in the span of"
+        ]
     },
     {
         "id": "a8c8399ds100-fa25-mt2-Q2b-h3",
@@ -27,8 +37,8 @@
         "dependencies": [
             "a8c8399ds100-fa25-mt2-Q2b-h2"
         ],
-        "title": "The Role of the Intercept",
-        "text": "The intercept column in the design matrix X is a column of ones. How does this relate to the vector 1?",
+        "title": "Linear Combinations",
+        "text": "A linear combination involves multiplying each column of the matrix by a scalar and summing the results. Can you express the vector of ones as such a combination using the columns of the design matrix?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,32 +49,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yes, because the intercept column is a column of ones."
+            "In the span of"
         ],
         "dependencies": [
             "a8c8399ds100-fa25-mt2-Q2b-h3"
         ],
-        "title": "Expressing $$1$$ as a Linear Combination",
-        "text": "Can the vector $$1$$ be expressed as a linear combination of the columns of X?",
+        "title": "Checking the Span",
+        "text": "If the vector of ones is in the span of the design matrix, it can be written as a linear combination of its columns. Which option best describes this relationship?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "Yes",
-            "Yes, because the intercept column is a column of ones."
+            "Orthogonal to",
+            "In the span of",
+            "NOT orthogonal to and NOT in the span of"
         ]
-    },
-    {
-        "id": "a8c8399ds100-fa25-mt2-Q2b-h5",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa25-mt2-Q2b-h4"
-        ],
-        "title": "Conclusion",
-        "text": "Since the vector $$1$$ can be expressed as a linear combination of the columns of X, it is in the span of X.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

@@ -3,43 +3,46 @@
         "id": "a8c8399ds100-sp19-final-Q3h-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the symmetry of the points around the y-axis. This symmetry can give you a clue about which function might fit the data.",
+        "title": "Understanding the Model",
+        "text": "Consider the model equation: $$y_i=\\beta_0+x_i \\beta_1+f{\\left(x_i\\right)} \\beta_2$$. Think about how the function $$f(x)=|x|$$ might affect the values of $$y_i$$. How does the absolute value function transform $$x$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp19-final-Q3h-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp19-final-Q3h-h1"
-        ],
-        "title": "Considering Absolute Value",
-        "text": "The function $$f(x)=|x|$$, or absolute value, creates a V-shape which can fit data that is symmetric around the y-axis. Does this match the pattern you see in the scatterplot?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp19-final-Q3h-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "The pattern suggests a $$V-shape$$, which is characteristic of an absolute value function."
         ],
         "dependencies": [
-            "a8c8399ds100-sp19-final-Q3h-h2"
+            "a8c8399ds100-sp19-final-Q3h-h1"
         ],
-        "title": "Checking the Fit",
-        "text": "Would the function $$f(x)=|x|$$ allow you to choose scalars \u03b20, \u03b21, and \u03b22 such that the model $$y_i=beta0+x_i beta1+f{\\left(x_i\\right)} beta2$$ holds for every data pair in the dataset?",
+        "title": "Analyzing the Scatterplot",
+        "text": "Look at the scatterplot. Does the pattern of the data suggest a linear relationship, or does it seem to have a different shape?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Linear",
+            "Parabolic",
+            "Random",
+            "The pattern suggests a $$V-shape$$, which is characteristic of an absolute value function.",
+            "$$V-shape$$"
         ]
+    },
+    {
+        "id": "a8c8399ds100-sp19-final-Q3h-h3",
+        "type": "hint",
+        "dependencies": [
+            "a8c8399ds100-sp19-final-Q3h-h2"
+        ],
+        "title": "Effect of Absolute Value",
+        "text": "The absolute value function, $$f(x)=|x|$$, creates a V-shape in the graph. This means that for both positive and negative $$x$$, the output is positive, which can fit data that has symmetry around the y-axis.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

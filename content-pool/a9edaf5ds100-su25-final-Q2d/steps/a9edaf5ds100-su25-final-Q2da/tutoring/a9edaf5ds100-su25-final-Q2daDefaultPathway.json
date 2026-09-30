@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. The two most common types are L1 (Lasso) and L2 (Ridge) regularization.",
+        "text": "Regularization helps prevent overfitting by adding a penalty to the model's complexity. L1 regularization adds the absolute value of the coefficients, while L2 adds the square of the coefficients. Think about how these differences might affect the choice of the hyperparameter lambda.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,32 @@
     {
         "id": "a9edaf5ds100-su25-final-Q2da-h2",
         "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su25-final-Q2da-h1"
-        ],
-        "title": "L1 vs L2 Regularization",
-        "text": "L1 regularization adds the absolute value of the coefficients as a penalty term, while L2 regularization adds the square of the coefficients.",
+        "dependencies": [],
+        "title": "Exploring Lambda's Role",
+        "text": "The lambda hyperparameter controls the strength of the regularization. A larger lambda means more regularization. Consider how the effect of lambda might differ between L1 and L2 regularization.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-su25-final-Q2da-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su25-final-Q2da-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "L1 regularization can lead to sparse solutions, while L2 regularization tends to shrink coefficients evenly."
         ],
-        "title": "Effect of Lambda",
-        "text": "The lambda (\u03bb) hyperparameter controls the strength of the penalty term. A higher \u03bb means more regularization, which can lead to simpler models.",
+        "dependencies": [],
+        "title": "Comparing L1 and L2 Regularization",
+        "text": "Which of the following statements is true about L1 and L2 regularization?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "L1 regularization can lead to sparse solutions, while L2 regularization tends to shrink coefficients evenly.",
+            "L1 and L2 regularization always result in the same model complexity.",
+            "L1 regularization is always better than L2 regularization."
+        ]
     },
     {
         "id": "a9edaf5ds100-su25-final-Q2da-h4",
@@ -39,20 +45,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "The optimal \u03bb is not always the same for L1 and L2 regularization because they penalize coefficients differently."
+            "Increasing lambda increases the penalty on model complexity, leading to simpler models."
         ],
-        "dependencies": [
-            "a9edaf5ds100-su25-final-Q2da-h3"
-        ],
-        "title": "Comparing L1 and L2",
-        "text": "Consider how the penalty terms differ between L1 and L2 regularization. How might this affect the choice of \u03bb?",
+        "dependencies": [],
+        "title": "Effect of Lambda on Regularization",
+        "text": "How does increasing the lambda value affect L1 and L2 regularization?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "FALSE",
-            "TRUE",
-            "The optimal \u03bb is not always the same for L1 and L2 regularization because they penalize coefficients differently."
+            "Increasing lambda increases the penalty on model complexity, leading to simpler models.",
+            "Increasing lambda decreases the penalty on model complexity, leading to more complex models.",
+            "Lambda has no effect on model complexity."
         ]
     }
 ]

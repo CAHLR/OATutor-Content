@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Sampling Scheme",
-        "text": "In this sampling scheme, the TA selects one student from every group of seven students. How many groups of seven students can be formed from $$35$$ students?",
+        "text": "Think about how many students are selected from each group of seven. How does this relate to the total number of students?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a72a45crow10_p1j-h1"
         ],
-        "title": "Calculating the Probability",
-        "text": "Once you know how many groups of seven there are, think about the probability of a student being selected from one group. What is the probability of being chosen from a group of seven?",
+        "title": "Breaking Down the Probability",
+        "text": "Consider the probability of selecting one student from a group of seven. What fraction represents this selection?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,33 +24,48 @@
     {
         "id": "a72a45crow10_p1j-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$5$$"
         ],
-        "dependencies": [],
-        "title": "Determine the Number of Groups",
-        "text": "Divide the total number of students by the group size: $$35$$ students divided by $$7$$ students per group.",
+        "dependencies": [
+            "a72a45crow10_p1j-h2"
+        ],
+        "title": "Calculating the Probability",
+        "text": "If you have $$35$$ students and you select $$1$$ student from every $$7$$, how many students will be in your sample?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$5$$",
+            "$$7$$",
+            "$$35$$",
+            "$$1$$"
+        ]
     },
     {
         "id": "a72a45crow10_p1j-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\frac{1}{7}$$"
         ],
         "dependencies": [
             "a72a45crow10_p1j-h3"
         ],
-        "title": "Calculate the Probability for One Group",
-        "text": "The probability of selecting one student from a group of seven is $$1$$ divided by $$7$$.",
+        "title": "Final Probability Calculation",
+        "text": "What is the probability of a student being selected if $$5$$ students are chosen from a total of 35?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\frac{1}{7}$$",
+            "$$\\frac{1}{5}$$",
+            "$$\\frac{1}{35}$$",
+            "$$\\frac{7}{35}$$",
+            "$$\\frac{1}{2}$$"
+        ]
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Ridge Regression",
-        "text": "Ridge regression is a type of linear regression that includes a regularization term. This term helps prevent overfitting by penalizing large coefficients.",
+        "text": "Ridge regression is a type of linear regression that includes a penalty term. This penalty term is controlled by the hyperparameter lambda. Can you think about how adding a penalty might affect the values of the parameters?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a89b247ds100-su20-final-Q5ah-h1"
         ],
         "title": "Effect of Increasing Lambda",
-        "text": "Increasing the regularization parameter lambda in ridge regression affects the estimated parameters. Consider how the penalty term impacts the coefficients.",
+        "text": "When you increase lambda, the penalty on the size of the coefficients increases. This means that the model will try to keep the coefficients smaller. How might this affect the estimated parameters?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,14 +32,29 @@
         "dependencies": [
             "a89b247ds100-su20-final-Q5ah-h2"
         ],
-        "title": "Analyzing the Impact of Lambda",
-        "text": "As lambda increases, the penalty on large coefficients becomes stronger. This typically results in smaller coefficient estimates.",
+        "title": "Impact on Coefficients",
+        "text": "As lambda increases, what happens to the estimated coefficients in ridge regression?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "FALSE",
+            "They become zero",
+            "They decrease",
+            "They increase",
+            "They remain the same"
         ]
+    },
+    {
+        "id": "a89b247ds100-su20-final-Q5ah-h4",
+        "type": "hint",
+        "dependencies": [
+            "a89b247ds100-su20-final-Q5ah-h2"
+        ],
+        "title": "Balancing Fit and Complexity",
+        "text": "Ridge regression aims to balance the fit of the model with the complexity of the model. Increasing lambda emphasizes simplicity over fit. How does this trade-off manifest in the parameter estimates?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

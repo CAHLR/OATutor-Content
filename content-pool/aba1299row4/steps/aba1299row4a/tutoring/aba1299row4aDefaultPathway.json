@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Linear Independence",
-        "text": "To determine if the OLS solution is unique, consider the concept of linear independence. If the columns of the design matrix are linearly independent, what does this imply about the matrix?",
+        "text": "Linear independence means that no column in the design matrix can be written as a combination of the others. This ensures that each feature contributes uniquely to the model.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,64 +15,44 @@
         "dependencies": [
             "aba1299row4a-h1"
         ],
-        "title": "Full Rank Matrix",
-        "text": "A matrix with linearly independent columns is said to be of full rank. What does this mean for the invertibility of the matrix?",
+        "title": "Unique Solutions in OLS",
+        "text": "In an OLS model, if the columns of the design matrix are linearly independent, it means that the matrix is full rank. This is crucial for ensuring a unique solution.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row4a-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The matrix is full rank."
+        ],
         "dependencies": [
             "aba1299row4a-h2"
         ],
-        "title": "Invertibility and Uniqueness",
-        "text": "If a matrix is of full rank, it is invertible. How does this relate to the uniqueness of the OLS solution?",
+        "title": "Checking for Linear Independence",
+        "text": "Which of the following statements is true about a matrix with linearly independent columns?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The matrix is full rank.",
+            "The matrix is not full rank.",
+            "The matrix has dependent columns."
+        ]
     },
     {
         "id": "aba1299row4a-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The matrix is invertible."
-        ],
+        "type": "hint",
         "dependencies": [
             "aba1299row4a-h3"
         ],
-        "title": "Matrix Invertibility",
-        "text": "Given that the design matrix is of full rank, what can we say about its invertibility?",
+        "title": "OLS and Full Rank",
+        "text": "When the design matrix is full rank, it means that the inverse of the matrix can be computed, which is necessary for finding the unique OLS solution.",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "The matrix is invertible.",
-            "The matrix is not invertible."
-        ]
-    },
-    {
-        "id": "aba1299row4a-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The OLS solution is unique."
-        ],
-        "dependencies": [
-            "aba1299row4a-h4"
-        ],
-        "title": "Unique OLS Solution",
-        "text": "If the design matrix is invertible, what can we conclude about the OLS solution?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "The OLS solution is unique.",
-            "The OLS solution is not unique."
-        ]
+        "license": ""
     }
 ]

@@ -4,53 +4,33 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Condition",
-        "text": "Consider what condition you need to apply to filter nuggets with weight less than $$0.6$$ ounces.",
+        "text": "To find the nuggets with weight less than $$0.6$$ ounces, you need to filter the DataFrame using a condition. Think about how you can use a comparison operator to achieve this.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row4a-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Column to Filter",
-        "text": "Which column in the DataFrame represents the weight of the nuggets?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row4a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$nuggets[\"weight\"]<0.6$$"
         ],
         "dependencies": [
             "a1155e4row4a-h1"
         ],
-        "title": "Filter the DataFrame",
-        "text": "Write the condition to filter the DataFrame for nuggets with weight less than $$0.6$$ ounces.",
+        "title": "Choosing the Correct Condition",
+        "text": "Which condition would correctly filter the nuggets with weight less than $$0.6$$ ounces?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row4a-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "nuggets[nuggets[\"weight\"]<0.6][\"chain\"].value\\_counts().idxmax()"
-        ],
-        "dependencies": [
-            "a1155e4row4a-h3"
-        ],
-        "title": "Apply the Filter",
-        "text": "Use the condition to filter the DataFrame and find the chain with the most nuggets under $$0.6$$ ounces.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$nuggets[\"weight\"]<0.6$$",
+            "$$nuggets[\"weight\"]>0.6$$",
+            "$$nuggets[\"chain\"]<0.6$$",
+            "$$nuggets[\"weight\"] \\leq 0.6$$",
+            "\"weight\"<0.6"
+        ]
     }
 ]

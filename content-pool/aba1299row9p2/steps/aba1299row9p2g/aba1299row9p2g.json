@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\hat{\\theta}$$ minimizes the distance between the true output $$Y$$ and predictions $$\\hat{Y}.$$",
-    "stepBody": "Is this true about the ordinary least squares estimate $$\\hat{\\theta}?$$ Select all that apply.",
+    "stepTitle": "Is this true about the ordinary least squares estimate $$\\hat{\\theta}?$$ Select all that apply.",
+    "stepBody": "$$\\hat{\\theta}$$ minimizes the distance between the true output $$Y$$ and predictions $$\\hat{Y}.$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [
