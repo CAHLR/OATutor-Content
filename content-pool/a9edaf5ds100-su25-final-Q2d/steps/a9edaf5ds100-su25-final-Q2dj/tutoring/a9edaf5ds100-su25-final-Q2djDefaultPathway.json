@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Mini-Batch Gradient Descent",
-        "text": "Mini-batch gradient descent involves dividing the dataset into smaller batches and updating the model parameters for each batch. This is done to speed up the training process and reduce memory usage.",
+        "text": "In mini-batch gradient descent, the dataset is divided into smaller batches. Each batch is used to calculate the gradient once per epoch. Think about how many times the entire dataset is processed in $$5$$ epochs.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a9edaf5ds100-su25-final-Q2dj-h1"
         ],
         "title": "Calculating Total Gradients",
-        "text": "Milena calculated a total of $$125$$ gradients after $$5$$ epochs. This means that in each epoch, a certain number of gradients were calculated. Can you determine how many gradients were calculated per epoch?",
+        "text": "If $$125$$ gradients were calculated over $$5$$ epochs, how many gradients were calculated per epoch? This will help you determine the size of each mini-batch.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,19 +24,25 @@
     {
         "id": "a9edaf5ds100-su25-final-Q2dj-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{125}{5}$$"
+            "$$25$$"
         ],
         "dependencies": [
             "a9edaf5ds100-su25-final-Q2dj-h2"
         ],
-        "title": "Gradients Per Epoch",
-        "text": "To find the number of gradients calculated per epoch, divide the total number of gradients by the number of epochs.",
+        "title": "Determine Gradients Per Epoch",
+        "text": "How many gradients are calculated per epoch if $$125$$ gradients are calculated over $$5$$ epochs?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$25$$",
+            "$$20$$",
+            "$$10$$",
+            "$$50$$"
+        ]
     },
     {
         "id": "a9edaf5ds100-su25-final-Q2dj-h4",
@@ -44,8 +50,8 @@
         "dependencies": [
             "a9edaf5ds100-su25-final-Q2dj-h3"
         ],
-        "title": "Relating Gradients to Mini-Batches",
-        "text": "The number of gradients calculated per epoch is equal to the number of mini-batches processed per epoch. Use this information to find the size of each mini-batch.",
+        "title": "Linking Gradients to Mini-Batch Size",
+        "text": "Once you know the number of gradients per epoch, consider how this relates to the number of mini-batches. Each gradient corresponds to one mini-batch.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -53,18 +59,25 @@
     {
         "id": "a9edaf5ds100-su25-final-Q2dj-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{500}{25}$$"
+            "$$20$$"
         ],
         "dependencies": [
             "a9edaf5ds100-su25-final-Q2dj-h4"
         ],
-        "title": "Mini-Batch Size Calculation",
-        "text": "If there are $$25$$ mini-batches per epoch and the dataset contains $$500$$ data points, how many data points are in each mini-batch?",
+        "title": "Calculate Mini-Batch Size",
+        "text": "If there are $$25$$ gradients per epoch and $$500$$ data points in total, how many data points are in each mini-batch?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$20$$",
+            "$$25$$",
+            "$$100$$",
+            "$$50$$",
+            "$$10$$"
+        ]
     }
 ]

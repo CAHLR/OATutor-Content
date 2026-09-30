@@ -3,8 +3,8 @@
         "id": "a98a015ds100-fa19-final-Q8a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Dimensions of $$V^T$$",
-        "text": "The matrix $$V^T$$ is part of the decomposition of X in PCA. It is important to understand the role of $$V^T$$ in this decomposition.",
+        "title": "Understanding Matrix Dimensions",
+        "text": "When you decompose a matrix using PCA, the matrix $$V^T$$ is a transformation matrix. Its dimensions are determined by the number of features in the original matrix X. How many columns does X have?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,51 +15,56 @@
         "dependencies": [
             "a98a015ds100-fa19-final-Q8a-h1"
         ],
-        "title": "Role of $$V^T$$ in PCA",
-        "text": "In PCA, $$V^T$$ is the matrix of eigenvectors of the covariance matrix of X. It is used to transform the data into the principal component space.",
+        "title": "Relating Dimensions",
+        "text": "The matrix $$V^T$$ is derived from the original matrix X. Consider how the number of columns in X relates to the dimensions of $$V^T$$. What does this tell you about the number of rows in $$V^T$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a98a015ds100-fa19-final-Q8a-h3",
-        "type": "hint",
-        "dependencies": [
-            "a98a015ds100-fa19-final-Q8a-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$3$$"
         ],
-        "title": "Dimensions of $$V^T$$",
-        "text": "The dimensions of $$V^T$$ are determined by the number of features in the original data matrix X.",
+        "dependencies": [],
+        "title": "Counting Columns",
+        "text": "How many columns does the matrix X have?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1$$",
+            "$$2$$",
+            "$$3$$",
+            "$$4$$",
+            "$$5$$"
+        ]
     },
     {
         "id": "a98a015ds100-fa19-final-Q8a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$3$$"
         ],
         "dependencies": [
             "a98a015ds100-fa19-final-Q8a-h3"
         ],
-        "title": "Determine the Number of Features",
-        "text": "How many features (columns) does the original matrix X have?",
+        "title": "Determining Rows in $$V^T$$",
+        "text": "Given that the number of columns in X is the same as the number of rows in $$V^T$$, what is $$r$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a98a015ds100-fa19-final-Q8a-h5",
-        "type": "hint",
-        "dependencies": [
-            "a98a015ds100-fa19-final-Q8a-h4"
-        ],
-        "title": "Conclusion on Dimensions of $$V^T$$",
-        "text": "Since the original matrix X has $$3$$ features, the dimensions of $$V^T$$ will be $$3$$ by $$3$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1$$",
+            "$$2$$",
+            "$$3$$",
+            "$$4$$",
+            "$$5$$"
+        ]
     }
 ]

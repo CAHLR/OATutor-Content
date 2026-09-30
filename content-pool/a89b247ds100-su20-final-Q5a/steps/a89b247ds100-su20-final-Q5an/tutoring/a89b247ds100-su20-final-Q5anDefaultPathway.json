@@ -3,8 +3,8 @@
         "id": "a89b247ds100-su20-final-Q5an-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Bias-Variance Decomposition",
-        "text": "The bias-variance decomposition is a way to express the expected error of a model as the sum of three components: bias, variance, and irreducible error. In this context, we are interested in understanding what $E[Y-f_{\\hat{\\theta}}(x)]$ represents.",
+        "title": "Understanding Bias-Variance Decomposition",
+        "text": "In the context of bias-variance decomposition, the risk is the expected squared difference between the true response and the predicted response. Think about how bias and variance contribute to this risk.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a89b247ds100-su20-final-Q5an-h1"
         ],
-        "title": "What is Model Bias?",
-        "text": "Model bias refers to the error introduced by approximating a real-world problem, which may be complex, by a simplified model. It is the difference between the expected prediction of our model and the true value we are trying to predict.",
+        "title": "Exploring Model Bias",
+        "text": "Model bias refers to the error introduced by approximating a real-world problem, which may be complex, by a simplified model. Consider how this bias affects the expected prediction error.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-su20-final-Q5an-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-su20-final-Q5an-h2"
-        ],
-        "title": "Relating Bias to the Expression",
-        "text": "In the bias-variance decomposition, the term $E[Y-f_{\\hat{\\theta}}(x)]$ is related to the bias of the model. Consider how the expected prediction of the model compares to the true value.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-su20-final-Q5an-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "The negative of model bias"
         ],
         "dependencies": [
-            "a89b247ds100-su20-final-Q5an-h3"
+            "a89b247ds100-su20-final-Q5an-h2"
         ],
-        "title": "Identify the Expression",
-        "text": "Given the definition of model bias, what does $E[Y-f_{\\hat{\\theta}}(x)]$ represent?",
+        "title": "Identifying the Expression",
+        "text": "Which of the following expressions represents the expected difference between the true response and the predicted response?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

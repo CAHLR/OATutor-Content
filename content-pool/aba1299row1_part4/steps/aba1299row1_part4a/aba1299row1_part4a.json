@@ -4,8 +4,8 @@
         "Predicted GPA for a student who gets $$0$$ hours of sleep and does not have a CDSS affiliated major."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Interpreting the Intercept",
-    "stepBody": "Choose the correct interpretation of $$\\theta_0$$ in the fitted regression model.",
+    "stepTitle": "Choose the correct interpretation of $$\\theta_0$$ in the fitted regression model.",
+    "stepBody": "Interpreting the Intercept",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "Predicted GPA for a student who gets $$0$$ hours of sleep and does not have a CDSS affiliated major.",

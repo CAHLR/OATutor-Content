@@ -4,8 +4,8 @@
         "Decrease only"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Use LASSO regularization to fit the model, with $$\\lambda$$ > 0: effect on Model Variance",
-    "stepBody": "Change to Model A: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. Select all possible effects on Model Variance.",
+    "stepTitle": "Change to Model A: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. Select all possible effects on Model Variance.",
+    "stepBody": "Use LASSO regularization to fit the model, with $$\\lambda$$ > 0: effect on Model Variance",
     "answerType": "string",
     "variabilization": {},
     "choices": [

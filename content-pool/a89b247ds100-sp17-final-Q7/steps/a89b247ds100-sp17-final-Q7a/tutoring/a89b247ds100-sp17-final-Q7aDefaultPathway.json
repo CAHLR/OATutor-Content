@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bernoulli Sampling",
-        "text": "Bernoulli sampling is a probabilistic method where each row in the table has a fixed probability of being included in the sample. This method can be slower because it evaluates each row individually.",
+        "text": "Bernoulli sampling involves randomly selecting each row with a certain probability. This means that each row is independently chosen to be part of the sample or not. Can you think about how this might affect the speed of the query?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a89b247ds100-sp17-final-Q7a-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-sp17-final-Q7a-h1"
-        ],
-        "title": "Why LIMIT is Faster",
-        "text": "The LIMIT clause allows the database to stop processing after retrieving a specified number of rows, making it faster than evaluating each row for inclusion as in Bernoulli sampling.",
+        "dependencies": [],
+        "title": "Exploring the LIMIT Clause",
+        "text": "The LIMIT clause allows you to specify the number of rows you want to retrieve from the table. Consider how this might be more efficient than evaluating each row individually, as in Bernoulli sampling.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,19 +25,36 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "TABLESAMPLE query"
         ],
-        "dependencies": [
-            "a89b247ds100-sp17-final-Q7a-h2"
-        ],
-        "title": "Evaluating the Statement",
-        "text": "Consider how the database engine processes the LIMIT query compared to the TABLESAMPLE query. Which one requires less computation?",
+        "dependencies": [],
+        "title": "Comparing Query Execution",
+        "text": "Which query do you think requires the database to evaluate each row individually?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "TABLESAMPLE query",
+            "LIMIT query"
+        ]
+    },
+    {
+        "id": "a89b247ds100-sp17-final-Q7a-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "LIMIT query"
+        ],
+        "dependencies": [],
+        "title": "Evaluating Query Speed",
+        "text": "Which query is likely to be faster if the database can directly access a specific number of rows without evaluating each one?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "TABLESAMPLE query",
+            "LIMIT query"
         ]
     }
 ]

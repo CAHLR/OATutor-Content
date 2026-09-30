@@ -4,8 +4,8 @@
         "Predicted increase of $$0.23$$ GPA points for one additional hour of sleep, holding CDSS major status constant."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Interpreting the Sleep Coefficient",
-    "stepBody": "Choose the correct interpretation of $$\\theta_1$$ in the fitted regression model.",
+    "stepTitle": "Choose the correct interpretation of $$\\theta_1$$ in the fitted regression model.",
+    "stepBody": "Interpreting the Sleep Coefficient",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "Predicted increase of $$0.23$$ GPA points for one additional hour of sleep, holding CDSS major status constant.",

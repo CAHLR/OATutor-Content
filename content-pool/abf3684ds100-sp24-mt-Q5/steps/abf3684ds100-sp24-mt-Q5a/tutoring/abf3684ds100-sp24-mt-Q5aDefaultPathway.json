@@ -3,8 +3,8 @@
         "id": "abf3684ds100-sp24-mt-Q5a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Mean Squared Error (MSE)",
-        "text": "The Mean Squared Error (MSE) is a common measure used to evaluate the accuracy of a model. It is calculated as the average of the squares of the differences between the observed and predicted values.",
+        "title": "Understanding Mean Squared Error",
+        "text": "The Mean Squared Error (MSE) is a measure of how well a model predicts the actual data. It is calculated by taking the average of the squares of the differences between the predicted values and the actual values. Can you express this in terms of $$y_i$$ and hat{y}_i?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5a-h1"
         ],
-        "title": "Formulating the MSE for Angela's Model",
-        "text": "For Angela's model, the predicted value is given by \\( \\hat{y}_i=1/\\theta_1*x_i \\). The MSE can be expressed as: \\( MSE=1/n*sum{i\\=1}{n}{(y_i-\\hat{y}_i)**2} \\).",
+        "title": "Expressing Angela's Model",
+        "text": "Angela's model is given by hat{y}_i=1/theta_1*x_i. How would you express the error for each data point i in terms of $$y_i$$ and hat{y}_i?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,23 +27,35 @@
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5a-h2"
         ],
-        "title": "Substitute the Predicted Value",
-        "text": "Substitute \\( \\hat{y}_i=1/\\theta_1*x_i \\) into the MSE formula: \\( MSE=1/n*sum{i\\=1}{n}{(y_i-1/\\theta_1*x_i)**2} \\).",
+        "title": "Differentiating the MSE",
+        "text": "To find the derivative of the MSE with respect to $$\\theta_1$$, consider how the MSE changes as $$\\theta_1$$ changes. What happens to the expression for hat{y}_i when you take the derivative with respect to $$\\theta_1$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp24-mt-Q5a-h4",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$\\frac{-2\\left(y_i-\\frac{x_i}{\\theta_1}\\right) x_i}{{\\theta_1}**2}$$"
+        ],
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5a-h3"
         ],
-        "title": "Differentiate the MSE with Respect to \\( $$\\theta_1$$ \\)",
-        "text": "To find the derivative of the MSE with respect to \\( $$\\theta_1$$ \\), apply the chain rule and simplify the expression.",
+        "title": "Partial Derivative Step",
+        "text": "What is the partial derivative of (y_i-hat{y}_i)**2 with respect to $$\\theta_1$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\frac{-2\\left(y_i-\\frac{x_i}{\\theta_1}\\right) x_i}{{\\theta_1}**2}$$",
+            "$$\\frac{-2\\left(y_i-\\frac{x_i}{\\theta_1}\\right) x_i}{\\theta_1}$$",
+            "$$\\frac{-2\\left(y_i-\\frac{x_i}{\\theta_1}\\right) x_i}{{\\theta_1}^2}$$",
+            "$$\\frac{-2\\left(y_i-\\frac{x_i}{\\theta_1}\\right)}{{\\theta_1}^2}$$",
+            "$$\\frac{2\\left(y_i-\\frac{x_i}{\\theta_1}\\right) x_i}{{\\theta_1}^2}$$"
+        ]
     },
     {
         "id": "abf3684ds100-sp24-mt-Q5a-h5",
@@ -51,15 +63,21 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "1/n*sum{i\\=1}{n}{(2*y_i*x_i/\\theta_1**2-2*x_i**2/\\theta_1**3)}"
+            "1/n*sum{i\\=1}{n}{-2*(y_i-x_i/theta_1)*x_i/theta_1**2}"
         ],
         "dependencies": [
             "abf3684ds100-sp24-mt-Q5a-h4"
         ],
-        "title": "Calculate the Derivative",
-        "text": "Differentiate \\( MSE=1/n*sum{i\\=1}{n}{(y_i-1/\\theta_1*x_i)**2} \\) with respect to \\( $$\\theta_1$$ \\).",
+        "title": "Summing Over All Data Points",
+        "text": "How would you express the derivative of the MSE over all data points?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "1/n*sum{i\\=1}{n}{-2*(y_i-x_i/theta_1)*x_i/theta_1**2}",
+            "1/n*sum{i\\=1}{n}{2*(y_i-x_i/theta_1)*x_i/theta_1**2}",
+            "1/n*sum{i\\=1}{n}{-2*(y_i-x_i/theta_1)*x_i/theta_1}",
+            "1/n*sum{i\\=1}{n}{-2*(y_i-x_i/theta_1)/theta_1**2}"
+        ]
     }
 ]

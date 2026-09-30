@@ -4,8 +4,8 @@
         "columns"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the first blank, what is the appropriate word?",
-    "stepBody": "Consider the statement: \"When we created 2D PCA scatter plots in this class, we were usually plotting the first $$2$$ [blank] of [blank]\"?",
+    "stepTitle": "Consider the statement: \"When we created 2D PCA scatter plots in this class, we were usually plotting the first $$2$$ [blank] of [blank]\"?",
+    "stepBody": "For the first blank, what is the appropriate word?",
     "answerType": "string",
     "variabilization": {},
     "choices": [

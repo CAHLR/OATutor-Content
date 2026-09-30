@@ -3,64 +3,45 @@
         "id": "aba1299row9p2b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Variable Types",
-        "text": "Consider the types of variables present in the dataset. Are there any variables that can be considered qualitative ordinal?",
+        "title": "Understanding Data Types",
+        "text": "Look at the data types in the table. Consider what each column represents and how the data is stored. Which columns contain numerical data, and which contain categorical data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row9p2b-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "League"
+        ],
         "dependencies": [
             "aba1299row9p2b-h1"
         ],
-        "title": "Qualitative Ordinal Variables",
-        "text": "Qualitative ordinal variables are categorical variables with a clear ordering. Check if any of the variables in the dataset fit this description.",
+        "title": "Identifying Ordinal Data",
+        "text": "Which column could potentially represent qualitative ordinal data?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Player",
+            "Dis",
+            "League",
+            "Goals"
+        ]
     },
     {
         "id": "aba1299row9p2b-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "FALSE"
-        ],
+        "type": "hint",
         "dependencies": [
             "aba1299row9p2b-h2"
         ],
-        "title": "Identifying Variable Types",
-        "text": "Look at the 'League' variable. Is it a qualitative ordinal variable?",
+        "title": "Qualitative Ordinal Data",
+        "text": "Qualitative ordinal data is categorical data with a meaningful order or ranking. Does the 'League' column fit this description?",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "TRUE",
-            "FALSE"
-        ]
-    },
-    {
-        "id": "aba1299row9p2b-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "FALSE"
-        ],
-        "dependencies": [
-            "aba1299row9p2b-h3"
-        ],
-        "title": "Conclusion on Variable Types",
-        "text": "Based on your analysis, is there a qualitative ordinal variable in the dataset?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "TRUE",
-            "FALSE"
-        ]
+        "license": ""
     }
 ]

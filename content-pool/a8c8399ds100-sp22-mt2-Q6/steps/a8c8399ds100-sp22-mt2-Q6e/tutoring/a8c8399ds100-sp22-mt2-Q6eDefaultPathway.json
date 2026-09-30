@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Design Matrix",
-        "text": "The design matrix X is constructed with rows representing individuals' lunches and columns representing the number of servings of each food item. Each column corresponds to a specific food item.",
+        "text": "The design matrix X is constructed with rows representing each individual's lunch and columns representing the servings of each food item. Each entry in the matrix corresponds to the number of servings of a particular food item.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -23,18 +23,6 @@
     },
     {
         "id": "a8c8399ds100-sp22-mt2-Q6e-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp22-mt2-Q6e-h2"
-        ],
-        "title": "Relating Coefficients to Calories",
-        "text": "Since the features represent servings of food, the coefficient for a food item represents the typical calories per serving of that food.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp22-mt2-Q6e-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "Typical calories consumed through food j per serving size"
         ],
         "dependencies": [
-            "a8c8399ds100-sp22-mt2-Q6e-h3"
+            "a8c8399ds100-sp22-mt2-Q6e-h2"
         ],
-        "title": "Identify the Correct Interpretation",
-        "text": "What does the optimal coefficient \\( \\hat{\\theta}_j \\) represent in terms of calories and servings?",
+        "title": "Coefficient Interpretation",
+        "text": "What does the coefficient for a food item represent in terms of servings and calories?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

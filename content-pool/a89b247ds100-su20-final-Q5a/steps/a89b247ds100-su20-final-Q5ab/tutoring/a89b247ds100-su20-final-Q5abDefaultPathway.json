@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Role of Epsilon",
-        "text": "In the context of the true linear model, epsilon (\u03b5) represents the error term. It accounts for the variability in the response variable that cannot be explained by the linear relationship with the predictors.",
+        "text": "Think about what epsilon represents in the context of a linear model. It's a random variable that accounts for the noise or error in the model. Consider whether this noise is something that is fixed or if it varies with each observation.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-su20-final-Q5ab-h2",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-su20-final-Q5ab-h1"
-        ],
-        "title": "Properties of Epsilon",
-        "text": "Epsilon (\u03b5) is a random variable with an expected value of zero and a variance of sigma squared (\u03c3\u00b2). This means that, on average, epsilon does not systematically overestimate or underestimate the true response.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-su20-final-Q5ab-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "a89b247ds100-su20-final-Q5ab-h2"
+            "a89b247ds100-su20-final-Q5ab-h1"
         ],
-        "title": "Is Epsilon Fixed?",
-        "text": "Consider whether epsilon is a fixed quantity or a random variable in the true model.",
+        "title": "Nature of Epsilon",
+        "text": "Is epsilon a fixed value in the true model, or does it vary?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Codons and Amino Acids",
-        "text": "Each DNA string is made up of codons, which are sequences of $$3$$ letters. These codons are translated into amino acids. There are $$64$$ possible codons but only $$20$$ amino acids. How can this information help in creating a more compact encoding?",
+        "text": "Remember that each codon, a sequence of $$3$$ DNA letters, translates into an amino acid. There are $$64$$ possible codons but only $$20$$ amino acids. Think about how this relationship can help reduce the dimensionality of your data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1j-h1"
         ],
-        "title": "Using Amino Acids for Encoding",
-        "text": "Instead of encoding each letter or codon, consider encoding the amino acids directly. Since there are only $$20$$ amino acids, this can significantly reduce the dimensionality of your data.",
+        "title": "Compact Representation",
+        "text": "Consider using the $$20$$ amino acids as your features instead of the $$64$$ codons. This will significantly reduce the number of features you need to work with.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,30 +24,26 @@
     {
         "id": "a8c8399ds100-fa21-mt-Q1j-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$20$$"
         ],
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1j-h2"
         ],
-        "title": "Calculating Dimensionality",
-        "text": "If you encode using 3-grams of amino acids, how many possible combinations are there?",
+        "title": "Choosing the Right Dimensionality",
+        "text": "If you encode using amino acids, what would be the dimensionality of your data?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa21-mt-Q1j-h4",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1j-h3"
-        ],
-        "title": "Dimensionality of 3-grams",
-        "text": "When using 3-grams of amino acids, the dimensionality is determined by the number of possible combinations of $$3$$ amino acids. Since there are $$20$$ amino acids, the dimensionality is $$20$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$1000$$ (one codon index per position)",
+            "$$128$$ (pairs of amino acids)",
+            "$$20$$",
+            "$$20$$ (3 gram of amino acids)",
+            "$$3000$$ (one value per letter)",
+            "$$64$$ (bag of words over codons)"
+        ]
     }
 ]

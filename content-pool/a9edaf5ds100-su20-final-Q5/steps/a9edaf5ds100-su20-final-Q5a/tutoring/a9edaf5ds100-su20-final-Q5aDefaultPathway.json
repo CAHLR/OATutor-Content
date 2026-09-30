@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Loss Function",
-        "text": "The loss function is defined as the residuals of the model. For a single observation, it is given by:\\n\\n$$L(theta)=y_i-\\operatorname{f_{\\theta}}\\left(x_i\\right)$$\\n\\nThis means the loss is the difference between the actual value $$y_i$$ and the predicted value $$\\operatorname{f_{\\theta}}\\left(x_i\\right)$$.",
+        "text": "The loss function here is the difference between the actual value \\(y_i\\) and the predicted value \\(f_{\\theta}(x_i)\\). Think about how this difference affects the gradient descent update.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,47 +15,80 @@
         "dependencies": [
             "a9edaf5ds100-su20-final-Q5a-h1"
         ],
-        "title": "Model Function",
-        "text": "The model function is given by:\\n\\n$$\\operatorname{f_{\\theta}}\\left(x\\right)=0.5\\theta_0+\\theta_0 \\theta_1 x_1+sin\\left(\\theta_1\\right) x_2$$\\n\\nThis function is used to predict the value based on the parameters $$\\theta_0$$ and $$\\theta_1$$.",
+        "title": "Partial Derivative with Respect to \\(\\theta_0\\)",
+        "text": "To find \\(A\\), consider the partial derivative of the loss function \\(L(\\theta)\\) with respect to \\(\\theta_0\\). Remember, \\(f_{\\theta}(x)=\\theta_0*0.5+\\theta_0*\\theta_1*x_1+\\sin(\\theta_1)*x_2\\).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-su20-final-Q5a-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$0.5+\\theta_1 x_1$$"
+        ],
         "dependencies": [
             "a9edaf5ds100-su20-final-Q5a-h2"
         ],
-        "title": "Gradient Descent Update Rule",
-        "text": "The gradient descent update rule for parameters is:\\n\\n(theta_0**(t+1),theta_1**(t+1))=(theta_0**(t),theta_1**(t))-(A,B)\\n\\nWhere A and B are the partial derivatives of the loss function with respect to $$\\theta_0$$ and $$\\theta_1$$, respectively.",
+        "title": "Calculate the Partial Derivative",
+        "text": "What is the partial derivative of \\(f_{\\theta}(x)\\) with respect to \\(\\theta_0\\)?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$0.5+\\theta_1 x_1$$",
+            "$$0.5$$",
+            "$$\\theta_1 x_1$$",
+            "\\sin(\\theta_1)*x_2"
+        ]
+    },
+    {
+        "id": "a9edaf5ds100-su20-final-Q5a-h4",
+        "type": "hint",
+        "dependencies": [
+            "a9edaf5ds100-su20-final-Q5a-h3"
+        ],
+        "title": "Substitute Values for \\(x_1\\) and \\(x_2\\)",
+        "text": "Now that you have the partial derivative, substitute \\(x_1=1\\) and \\(x_2=2\\) into your expression to simplify it further.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "a9edaf5ds100-su20-final-Q5a-h4",
+        "id": "a9edaf5ds100-su20-final-Q5a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$-0.5-{\\theta_1}**t$$"
+            "$$0.5+\\theta_1$$"
         ],
         "dependencies": [
-            "a9edaf5ds100-su20-final-Q5a-h3"
+            "a9edaf5ds100-su20-final-Q5a-h4"
         ],
-        "title": "Calculate A",
-        "text": "To find A, we need to calculate the partial derivative of the loss function with respect to $$\\theta_0$$. Start by substituting the model function into the loss function and then differentiate with respect to $$\\theta_0$$.",
+        "title": "Simplify the Expression",
+        "text": "What is the simplified expression for the partial derivative when \\(x_1=1\\) and \\(x_2=2\\)?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "$$-0.5-{\\theta_1}**t$$",
-            "$$-0.5-{\\theta_0}^t$$",
-            "$$-0.5-{\\theta_1}^t$$",
-            "$$-{\\theta_0}^t-2cos\\left({\\theta_1}^t\\right)$$",
-            "$$0.5+{\\theta_1}^t$$",
-            "$${\\theta_1}^t-0.5$$"
+            "$$0.5+\\theta_1$$",
+            "$$0.5$$",
+            "$$\\theta_1$$",
+            "\\sin(\\theta_1)*2"
         ]
+    },
+    {
+        "id": "a9edaf5ds100-su20-final-Q5a-h6",
+        "type": "hint",
+        "dependencies": [
+            "a9edaf5ds100-su20-final-Q5a-h5"
+        ],
+        "title": "Determine \\(A\\)",
+        "text": "Remember, \\(A\\) is the negative of the partial derivative of the loss function with respect to \\(\\theta_0\\). Use your simplified expression to find \\(A\\).",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

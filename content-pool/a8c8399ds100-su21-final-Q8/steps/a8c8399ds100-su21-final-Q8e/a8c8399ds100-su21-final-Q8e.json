@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\Phi_2$$ is full column rank",
-    "stepBody": "Suppose we one-hot encode the sex and $$\\text{embark\\_town}$$ column and include an intercept term in the model. This results in a design matrix $$\\Phi_2$$ with $$8$$ columns.\\n\\nSelect all of the following statements that are true about $$\\Phi_2.$$",
+    "stepTitle": "Suppose we one-hot encode the sex and $$\\text{embark\\_town}$$ column and include an intercept term in the model. This results in a design matrix $$\\Phi_2$$ with $$8$$ columns.\\n\\nSelect all of the following statements that are true about $$\\Phi_2.$$",
+    "stepBody": "$$\\Phi_2$$ is full column rank",
     "answerType": "string",
     "variabilization": {},
     "choices": [

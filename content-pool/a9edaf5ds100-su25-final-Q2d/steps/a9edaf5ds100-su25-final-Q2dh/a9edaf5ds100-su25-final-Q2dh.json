@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The gradient descent algorithm can compute gradient updates using both convex and non-convex functions.",
-    "stepBody": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepTitle": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepBody": "The gradient descent algorithm can compute gradient updates using both convex and non-convex functions.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Pruning",
-        "text": "Pruning a decision tree involves removing branches that have little importance. This can help in simplifying the model.",
+        "text": "Pruning a decision tree involves removing branches that have little importance. Think about how this might affect the tree's complexity and its ability to adapt to different datasets.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6f-h1"
         ],
-        "title": "Effect on Variance",
-        "text": "Consider how reducing the complexity of a model might affect its variance. A simpler model tends to have lower variance.",
+        "title": "Variance in Decision Trees",
+        "text": "Consider how a simpler model, with fewer branches, might respond to variations in the data. Would it be more or less sensitive to changes?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6f-h2"
         ],
-        "title": "Pruning and Variance",
-        "text": "When you prune a decision tree, you are effectively reducing its complexity. How does this affect the variance of the model?",
+        "title": "Effect of Pruning on Variance",
+        "text": "What happens to the variance of a decision tree when it is pruned?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

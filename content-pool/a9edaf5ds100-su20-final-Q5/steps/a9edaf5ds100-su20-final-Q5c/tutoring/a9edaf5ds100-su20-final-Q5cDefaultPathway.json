@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Loss Function",
-        "text": "The loss function is given by $$L(theta)=y_i-\\operatorname{f_{\\theta}}\\left(x_i\\right)$$. This means the loss is the difference between the actual value $$y_i$$ and the predicted value $$\\operatorname{f_{\\theta}}\\left(x_i\\right)$$.",
+        "text": "The loss function is defined as the difference between the observed value $$y_i$$ and the predicted value $$\\operatorname{f_{\\theta}}\\left(x_i\\right)$$. Think about how this difference can guide the adjustment of theta values.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h2",
         "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su20-final-Q5c-h1"
-        ],
+        "dependencies": [],
         "title": "Gradient Descent Basics",
-        "text": "Gradient descent is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent direction. In this case, we want to minimize the loss function.",
+        "text": "In gradient descent, we update the parameters by moving in the direction that reduces the loss. This involves calculating the derivative of the loss with respect to each parameter.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,11 +22,9 @@
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h3",
         "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su20-final-Q5c-h2"
-        ],
-        "title": "Partial Derivatives",
-        "text": "To perform gradient descent, we need to compute the partial derivatives of the loss function with respect to each parameter, $$\\theta_0$$ and $$\\theta_1$$.",
+        "dependencies": [],
+        "title": "Partial Derivative with Respect to $$\\Theta_0$$",
+        "text": "To find the partial derivative of the loss with respect to $$\\theta_0$$, consider how the term $$0.5\\theta_0$$ affects the loss function. What happens when you differentiate this term?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -36,62 +32,67 @@
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$-0.5$$"
         ],
         "dependencies": [
             "a9edaf5ds100-su20-final-Q5c-h3"
         ],
-        "title": "Compute Partial Derivative with Respect to $$\\theta_0$$",
-        "text": "Calculate the partial derivative of the loss function L(theta) with respect to $$\\theta_0$$.",
+        "title": "Calculate the Partial Derivative",
+        "text": "What is the partial derivative of the loss function L(theta) with respect to $$\\theta_0$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0.5$$",
+            "$$-0.5$$",
+            "$$0$$",
+            "$$1$$",
+            "$$-1$$"
+        ]
     },
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$-x_1$$"
-        ],
-        "dependencies": [
-            "a9edaf5ds100-su20-final-Q5c-h3"
-        ],
-        "title": "Compute Partial Derivative with Respect to $$\\theta_1$$",
-        "text": "Calculate the partial derivative of the loss function L(theta) with respect to $$\\theta_1$$.",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Partial Derivative with Respect to $$\\Theta_1$$",
+        "text": "For $$\\theta_1$$, consider the terms $$\\theta_0 \\theta_1 x_1$$ and $$sin\\left(\\theta_1\\right) x_2$$ in the model. How do these terms contribute to the loss when differentiated with respect to $$\\theta_1$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h6",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$-x_1-cos\\left(\\theta_1\\right) x_2$$"
+        ],
         "dependencies": [
             "a9edaf5ds100-su20-final-Q5c-h5"
         ],
-        "title": "Update Rule for Gradient Descent",
-        "text": "The update rule for gradient descent is $$\\theta_{new}=\\theta_{old}-\\alpha gradient$$, where alpha is the learning rate.",
+        "title": "Calculate the Partial Derivative for $$\\Theta_1$$",
+        "text": "What is the partial derivative of the loss function L(theta) with respect to $$\\theta_1$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$-x_1-cos\\left(\\theta_1\\right) x_2$$",
+            "$$x_1+cos\\left(\\theta_1\\right) x_2$$",
+            "$$x_1-cos\\left(\\theta_1\\right) x_2$$",
+            "$$-x_1+cos\\left(\\theta_1\\right) x_2$$",
+            "$$0$$"
+        ]
     },
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h7",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$0.05$$"
-        ],
-        "dependencies": [
-            "a9edaf5ds100-su20-final-Q5c-h6"
-        ],
-        "title": "Update $$\\theta_0$$",
-        "text": "Using the update rule, calculate $${\\theta_0}^1$$ given that $${\\theta_0}^0=0$$ and the learning rate $$alpha=0.1$$.",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Update Rule for $$\\Theta_0$$",
+        "text": "The update rule for $$\\theta_0$$ involves subtracting the product of the learning rate and the partial derivative of the loss with respect to $$\\theta_0$$ from the current value of $$\\theta_0$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -99,18 +100,59 @@
     {
         "id": "a9edaf5ds100-su20-final-Q5c-h8",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$0.1x_1$$"
+            "$$0.05$$"
         ],
         "dependencies": [
             "a9edaf5ds100-su20-final-Q5c-h7"
         ],
-        "title": "Update $$\\theta_1$$",
-        "text": "Using the update rule, calculate $${\\theta_1}^1$$ given that $${\\theta_1}^0=0$$ and the learning rate $$alpha=0.1$$.",
+        "title": "First Update for $$\\Theta_0$$",
+        "text": "If the learning rate is $$0.1$$, what is the updated value of $$\\theta_0$$ after one iteration?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$0.05$$",
+            "$$0.1$$",
+            "$$0$$",
+            "$$-0.05$$",
+            "$$-0.1$$"
+        ]
+    },
+    {
+        "id": "a9edaf5ds100-su20-final-Q5c-h9",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Update Rule for $$\\Theta_1$$",
+        "text": "The update rule for $$\\theta_1$$ is similar to that for $$\\theta_0$$. Consider how the learning rate and the partial derivative with respect to $$\\theta_1$$ affect the update.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
+    },
+    {
+        "id": "a9edaf5ds100-su20-final-Q5c-h10",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "$$0.1\\left(x_1+cos\\left(\\theta_1\\right) x_2\\right)$$"
+        ],
+        "dependencies": [
+            "a9edaf5ds100-su20-final-Q5c-h9"
+        ],
+        "title": "First Update for $$\\Theta_1$$",
+        "text": "If the learning rate is $$0.1$$, what is the updated value of $$\\theta_1$$ after one iteration?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$0.1\\left(x_1+cos\\left(\\theta_1\\right) x_2\\right)$$",
+            "$$0.1\\left(-x_1-cos\\left(\\theta_1\\right) x_2\\right)$$",
+            "$$0.1\\left(x_1-cos\\left(\\theta_1\\right) x_2\\right)$$",
+            "$$0.1\\left(-x_1+cos\\left(\\theta_1\\right) x_2\\right)$$",
+            "$$0$$"
+        ]
     }
 ]

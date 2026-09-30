@@ -4,8 +4,8 @@
     "body": "Suriya and Meghna are Data $$100$$ students, and they have a prediction task where we wish to predict whether people are night owls or early birds using their favorite color. They're given a shortened training set with $$5$$ data points where $$X$$ is the list of colors blue, green, pink, purple, red, and they wish to predict\\n$$y=(0, 1, 1, 1, 0)$$",
     "variabilization": {},
     "oer": "https://ds100.org/su26/past-exams/",
-    "license": "",
+    "license": "https://ds100.org/su26/past-exams/",
     "lesson": "MT3 - Logistic Regression and Classification",
-    "lessonId": "12br4D60-LD86-5FdJ1CoLfC",
+    "lessonId": "37QoNGpo-nJrw-pJtlPmZcsK",
     "courseName": "Combined Data100 Worksheets"
 }

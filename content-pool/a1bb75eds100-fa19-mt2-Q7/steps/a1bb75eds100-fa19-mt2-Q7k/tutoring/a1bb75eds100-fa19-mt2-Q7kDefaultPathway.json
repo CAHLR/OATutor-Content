@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-fa19-mt2-Q7k-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Cross-Entropy Loss",
-        "text": "Cross-entropy loss is used to measure the performance of a classification model whose output is a probability value between $$0$$ and $$1$$. It increases as the predicted probability diverges from the actual label.",
+        "title": "Understanding the Logistic Function",
+        "text": "To calculate the probability of survival, we use the logistic function, which is defined as \\( \\sigma(z) $$=$$ \\frac{1}{1+e**{-z}} \\). Here, \\( $$z$$ \\) is the linear combination of the parameters and features. Can you identify what \\( $$z$$ \\) would be for a 20-year-old female passenger?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7k-h1"
         ],
-        "title": "Logistic Function",
-        "text": "The logistic function, also known as the sigmoid function, is defined as \\( \\sigma(x) $$=$$ \\frac{1}{1+e**{-x}} \\). It outputs a value between $$0$$ and $$1$$, which can be interpreted as a probability.",
+        "title": "Calculating the Linear Combination",
+        "text": "The linear combination \\( $$z$$ \\) is calculated using the formula \\( $$z$$ $$=$$ \\beta_0 + \\beta_1 \\times \\text{age} + \\beta_2 \\times \\text{sex} \\). Given the values \\( $$\\beta=(-1.2, -0.005, 2.5)$$ \\), what would \\( $$z$$ \\) be for a 20-year-old female?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7k-h2"
         ],
-        "title": "Calculate the Linear Combination",
-        "text": "For the given passenger, calculate the linear combination of the features and parameters: \\( $$z$$ $$=$$ $$-1.2$$ + $$(-0.005$$ \\times 20) + $$(2.5$$ \\times 1) \\).",
+        "title": "Substituting Values into the Formula",
+        "text": "Substitute the values into the formula: \\( $$z$$ $$=$$ $$-1.2$$ + $$(-0.005)$$ \\times $$20$$ + $$2.5$$ \\times $$1$$ \\). Simplify this expression to find \\( $$z$$ \\).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,16 +39,23 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$1.2$$"
+            "$$\\sigma(1.2)$$"
         ],
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7k-h3"
         ],
-        "title": "Compute the Linear Combination",
-        "text": "Calculate \\( $$z$$ $$=$$ $$-1.2$$ + $$(-0.005$$ \\times 20) + $$(2.5$$ \\times 1) \\).",
+        "title": "Calculating the Probability",
+        "text": "Once you have \\( $$z$$ \\), use the logistic function \\( \\sigma(z) $$=$$ \\frac{1}{1+e**{-z}} \\) to find the probability of survival. What is \\( \\sigma(z) \\)?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\sigma(1.2)$$",
+            "$$\\sigma(-1.2)$$",
+            "\\sigma(0)",
+            "$$\\sigma(1.2)$$",
+            "$$\\sigma(2.5)$$"
+        ]
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7k-h5",
@@ -56,8 +63,8 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7k-h4"
         ],
-        "title": "Apply the Sigmoid Function",
-        "text": "Use the logistic function to find the predicted probability: \\( \\sigma(z) $$=$$ \\frac{1}{1+e**{-z}} \\).",
+        "title": "Understanding Cross-Entropy Loss",
+        "text": "Cross-entropy loss is calculated using the formula \\( -\\log(\\sigma(z)) \\) for a positive class (survived). Why do you think this formula is used?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -65,47 +72,25 @@
     {
         "id": "a1bb75eds100-fa19-mt2-Q7k-h6",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$0.7685$$"
+            "-log(\\sigma(1.2))"
         ],
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7k-h5"
         ],
-        "title": "Calculate the Predicted Probability",
-        "text": "Compute \\( $$\\sigma(1.2)$$ $$=$$ \\frac{1}{1+e**{-1.2}} \\).",
+        "title": "Calculating Cross-Entropy Loss",
+        "text": "Using the probability you calculated, what is the cross-entropy loss for the prediction?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7k-h7",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7k-h6"
-        ],
-        "title": "Cross-Entropy Loss Formula",
-        "text": "The cross-entropy loss for a true label \\( $$y$$ \\) and predicted probability \\( \\hat{y} \\) is given by \\( -[y \\cdot \\log(\\hat{y}) + $$(1-y)$$ \\cdot \\log(1-\\hat{y})] \\).",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7k-h8",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$-\\ln\\left(0.7685\\right)$$"
-        ],
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7k-h7"
-        ],
-        "title": "Calculate the Cross-Entropy Loss",
-        "text": "Since the passenger survived, \\( $$y$$ $$=$$ $$1$$ \\). Compute the loss: \\( -\\log(\\sigma(1.2)) \\).",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "log(\\sigma(1.2))",
+            "-log(1-\\sigma(1.2))",
+            "-log(\\sigma(1.2))",
+            "-log(\\sigma(1.2))-log(1-\\sigma(1.2))",
+            "Not enough information"
+        ]
     }
 ]

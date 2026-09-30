@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bootstrap Sampling",
-        "text": "Bootstrap sampling involves drawing samples with replacement from the dataset. This means that each sample can have repeated entries from the original dataset.",
+        "text": "Bootstrap sampling involves drawing samples with replacement from the original dataset. This means that each sample can have repeated entries from the dataset. Why do you think this method is used in statistical $$inference$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,25 +12,17 @@
     {
         "id": "aba1299row6b-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Null Hypothesis in Context",
-        "text": "The null hypothesis states that the parameter of interest, in this case, $$\\theta_0$$, is equal to zero. We are testing if there is no intercept in the relationship between $$critic_{1's}$$ rating and the skater's self-rating.",
+        "dependencies": [
+            "aba1299row6b-h1"
+        ],
+        "title": "Purpose of Bootstrap Sampling",
+        "text": "Bootstrap sampling is used to estimate the distribution of a statistic by resampling with replacement. This helps in understanding the variability of the statistic. How might this be useful in testing hypotheses?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row6b-h3",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Using L2 Loss",
-        "text": "L2 loss, also known as least squares loss, is used to minimize the sum of the squares of the differences between the observed and predicted values.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6b-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -38,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "aba1299row6b-h1"
+            "aba1299row6b-h2"
         ],
-        "title": "Evaluating the Statement",
-        "text": "Given the use of bootstrap samples and the null hypothesis that $$\\theta_0=0$$, is the statement about the inference process true or false?",
+        "title": "Bootstrap Sampling Process",
+        "text": "When creating bootstrap samples, are the samples drawn with or without replacement?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

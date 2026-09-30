@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Model",
-        "text": "The model is given by the equation: \\( \\hat{y}=\\hat{\\theta}_0+\\hat{\\theta}_1(\\text{critic\\_1})**{2} \\). Here, \\( \\hat{\\theta}_0=2 \\) and \\( \\hat{\\theta}_1=1 \\).",
+        "text": "The model we are using is $$y_{hat}=\\theta_0+\\theta_1 {critic_1}^2$$. With $$\\theta_0=2$$ and $$\\theta_1=1$$, try substituting the values of $$critic_1$$ from the dataset to predict $$y_{hat}$$ for each row.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,25 +15,20 @@
         "dependencies": [
             "aba1299row6a-h1"
         ],
-        "title": "Calculate Predictions",
-        "text": "For each data point, calculate the predicted self rating using the model: \\( \\hat{y}=2+(\\text{critic\\_1})**{2} \\).",
+        "title": "Calculating Predictions",
+        "text": "For Datapoint A, substitute $$critic_1=2$$ into the model equation. Calculate $$y_{hat}=2+1\\times2^2$$. What is the predicted value?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row6a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$6$$"
-        ],
+        "type": "hint",
         "dependencies": [
             "aba1299row6a-h2"
         ],
-        "title": "Prediction for Datapoint A",
-        "text": "Calculate the predicted self rating for Datapoint A where $$critic_1$$ $$=$$ $$2$$.",
+        "title": "Calculating Errors",
+        "text": "Once you have the predicted values, calculate the error for each datapoint by finding the difference between the predicted value and the actual $$self_{rating}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -41,144 +36,47 @@
     {
         "id": "aba1299row6a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$3$$"
+            "It adds a regularization term to the loss function."
         ],
         "dependencies": [
-            "aba1299row6a-h2"
+            "aba1299row6a-h3"
         ],
-        "title": "Prediction for Datapoint B",
-        "text": "Calculate the predicted self rating for Datapoint B where $$critic_1$$ $$=$$ $$1$$.",
+        "title": "Understanding Ridge Regression",
+        "text": "Ridge regression adds a penalty to the loss function. The penalty is lambda times the square of the coefficients. How does this affect the calculation of empirical risk?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "It adds a regularization term to the loss function.",
+            ">It changes the model equation.",
+            ">It affects the intercept.",
+            ">It removes the need for calculating errors."
+        ]
     },
     {
         "id": "aba1299row6a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "$$6$$"
+            "$$\\sum {errors}^2+\\lambda {\\theta_1}^2$$"
         ],
         "dependencies": [
-            "aba1299row6a-h2"
+            "aba1299row6a-h4"
         ],
-        "title": "Prediction for Datapoint C",
-        "text": "Calculate the predicted self rating for Datapoint C where $$critic_1$$ $$=$$ $$2$$.",
+        "title": "Calculating Empirical Risk",
+        "text": "To calculate the empirical risk, sum the squared errors for each datapoint and add the regularization term. What is the formula for the empirical risk in this case?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h6",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6a-h5"
-        ],
-        "title": "Calculate Errors",
-        "text": "For each data point, calculate the error as the difference between the actual self rating and the predicted self rating.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h7",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$3$$"
-        ],
-        "dependencies": [
-            "aba1299row6a-h6"
-        ],
-        "title": "Error for Datapoint A",
-        "text": "Calculate the error for Datapoint A.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h8",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$1$$"
-        ],
-        "dependencies": [
-            "aba1299row6a-h6"
-        ],
-        "title": "Error for Datapoint B",
-        "text": "Calculate the error for Datapoint B.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h9",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$5$$"
-        ],
-        "dependencies": [
-            "aba1299row6a-h6"
-        ],
-        "title": "Error for Datapoint C",
-        "text": "Calculate the error for Datapoint C.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h10",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6a-h9"
-        ],
-        "title": "Calculate Empirical Risk",
-        "text": "The empirical risk is the average of the squared errors. Calculate the squared errors and then find their average.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h11",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$35$$"
-        ],
-        "dependencies": [
-            "aba1299row6a-h10"
-        ],
-        "title": "Squared Errors",
-        "text": "Calculate the squared errors for each data point.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6a-h12",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$12$$"
-        ],
-        "dependencies": [
-            "aba1299row6a-h11"
-        ],
-        "title": "Empirical Risk",
-        "text": "Calculate the empirical risk by averaging the squared errors.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\sum {errors}^2+\\lambda {\\theta_1}^2$$",
+            ">sum(errors)+lambda*(theta_1**2)",
+            ">sum(errors**2)",
+            ">sum(errors)+lambda*(theta_0**2)"
+        ]
     }
 ]

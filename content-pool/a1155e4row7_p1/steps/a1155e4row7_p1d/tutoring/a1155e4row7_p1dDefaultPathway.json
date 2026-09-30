@@ -3,35 +3,42 @@
         "id": "a1155e4row7_p1d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Grouping",
-        "text": "To fill in blank A, think about how you can group the data to calculate the mode for each activity type. Which column should you use to group the data?",
+        "title": "Understanding the Code Structure",
+        "text": "Look at how the `groupby` function is used. It groups the data based on a specific column. Which column do you think is relevant for grouping activities?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row7_p1d-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Using the Mode",
-        "text": "The mode is the most frequently occurring value in a dataset. For each activity type, you need to find the mode of the hour\\_of\\_visit. How can you achieve this using the groupby function?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1d-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "activity"
         ],
         "dependencies": [
             "a1155e4row7_p1d-h1"
         ],
-        "title": "Filling Blank A",
-        "text": "Which column should you use to group the data to calculate the mode for each activity type?",
+        "title": "Choosing the Correct Column for Grouping",
+        "text": "Which column should be used to group the data to find the mode of $$`hour_{of,visit}`$$ for each activity?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "$$hour_{of,visit}$$",
+            "activity",
+            "$$visitor_{id}$$",
+            "mode",
+            "$$replacement_{values}$$"
+        ]
+    },
+    {
+        "id": "a1155e4row7_p1d-h3",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Filling in the Blank for Replacement",
+        "text": "Consider what needs to be replaced in the $$`portal_{traffic}`$$ DataFrame. Which column's missing values are we trying to fill?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,72 +46,25 @@
     {
         "id": "a1155e4row7_p1d-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "portal\\_traffic"
-        ],
-        "dependencies": [],
-        "title": "Filling Blank B",
-        "text": "To fill in blank B, consider which column you need to check for missing values. Which column are you imputing?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1d-h5",
-        "type": "hint",
-        "dependencies": [
-            "a1155e4row7_p1d-h4"
-        ],
-        "title": "Identifying Missing Values",
-        "text": "To identify missing values, you need to check which entries in the hour\\_of\\_visit column are NaN. How can you do this using pandas?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1d-h6",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "isna"
+            "$$hour_{of,visit}$$"
         ],
         "dependencies": [
-            "a1155e4row7_p1d-h5"
+            "a1155e4row7_p1d-h3"
         ],
-        "title": "Filling Blank C",
-        "text": "Which function can you use to identify missing values in pandas?",
+        "title": "Identifying the Column to Replace",
+        "text": "Which column's missing values are being replaced with the mode values?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1d-h7",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Locating the Correct Column",
-        "text": "For blank D, consider which column you are updating with the replacement values. Which column are you imputing?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1d-h8",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "hour\\_of\\_visit"
-        ],
-        "dependencies": [
-            "a1155e4row7_p1d-h7"
-        ],
-        "title": "Filling Blank D",
-        "text": "Which column are you updating with the replacement values?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$hour_{of,visit}$$",
+            "activity",
+            "$$visitor_{id}$$",
+            "mode",
+            "$$replacement_{values}$$"
+        ]
     }
 ]

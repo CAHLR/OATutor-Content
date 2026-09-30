@@ -3,8 +3,8 @@
         "id": "a72a45crow2b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Consider the impact of a larger sample size",
-        "text": "Think about how increasing the sample size from $$100$$ to $$200$$ might affect the response bias. Would it make the survey results more or less representative of the entire student population?",
+        "title": "Understanding Response Bias",
+        "text": "Think about what response bias means. It's related to how the responses you get might not accurately reflect the true preferences of the entire group you're studying. Consider how increasing the sample size or sending reminders might affect this bias.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,36 +12,26 @@
     {
         "id": "a72a45crow2b-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Think about the effect of reminder emails",
-        "text": "Consider how sending a reminder email to students who didn't respond initially might influence the response rate and bias. Would this change the likelihood of getting a more representative sample?",
+        "dependencies": [
+            "a72a45crow2b-h1"
+        ],
+        "title": "Impact of Sample Size",
+        "text": "Increasing the sample size from $$100$$ to $$200$$ could potentially give you more responses, but does it necessarily change the nature of the responses you get? Consider if the bias is about the number of responses or the type of responses.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a72a45crow2b-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The same as"
-        ],
+        "type": "hint",
         "dependencies": [
-            "a72a45crow2b-h1"
+            "a72a45crow2b-h2"
         ],
-        "title": "Analyzing the effect of a larger sample size",
-        "text": "If Josh increases the sample size from $$100$$ to $$200$$, how might this affect the response bias?",
+        "title": "Effect of Reminder Emails",
+        "text": "Sending a reminder email might encourage more students to respond. Think about whether this affects the bias in the responses or just the number of responses.",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "Larger than",
-            "Smaller than",
-            "The same as",
-            "Impossible to determine",
-            "Exactly half of"
-        ]
+        "license": ""
     },
     {
         "id": "a72a45crow2b-h4",
@@ -52,10 +42,10 @@
             "The same as"
         ],
         "dependencies": [
-            "a72a45crow2b-h2"
+            "a72a45crow2b-h3"
         ],
-        "title": "Evaluating the impact of reminder emails",
-        "text": "How might sending a reminder email to non-respondents affect the response bias of the survey?",
+        "title": "Evaluating Changes in Response Bias",
+        "text": "Consider the changes suggested: increasing the sample size and sending reminders. How do these changes affect the likelihood of response bias?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

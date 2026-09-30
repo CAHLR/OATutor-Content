@@ -4,45 +4,33 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Groupby",
-        "text": "To fill in blank A, think about how you can group the data by a specific column to calculate the mode for each group.",
+        "text": "To fill in blank A, think about how you can group the data by a specific column to calculate the mode for each group. Which column should you use to group the data so that you can find the mode of $$'hour_{of,visit'}$$ for each activity?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row7_p1a-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "(\"activity\")[\"hour_of_visit\"]"
+        ],
         "dependencies": [
             "a1155e4row7_p1a-h1"
         ],
-        "title": "Choosing the Correct Column",
-        "text": "Consider which column you need to group by to calculate the mode of hour\\_of\\_visit for each activity type.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "(\"activity\")"
-        ],
-        "dependencies": [
-            "a1155e4row7_p1a-h2"
-        ],
-        "title": "Fill in Blank A",
-        "text": "What column should you use to group the data to calculate the mode of hour\\_of\\_visit for each activity type?",
+        "title": "Choosing the Correct Column for Groupby",
+        "text": "Which column should you use to group the data to find the mode of $$'hour_{of,visit'}$$ for each activity?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
+            "(\"activity\")[\"hour_of_visit\"]",
+            "(\"hour_of_visit\")[\"activity\"]",
             "(\"activity\")",
-            "(\"hour\\_of\\_visit\")",
-            "(\"activity\")",
-            "(\"hour\\_of\\_visit\")",
-            "([\"activity\", \"hour\\_of\\_visit\"])"
+            "(\"hour_of_visit\")",
+            "([\"activity\", \"hour_of_visit\"])"
         ]
     }
 ]

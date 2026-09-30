@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the pattern of the data points. Consider how the function $$f(x)=x$$ might fit this pattern.",
+        "text": "Look at how the y-values change as $$x$$ increases. Consider which function f(x) could transform $$x$$ to match this pattern.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3n-h1"
         ],
-        "title": "Linear Relationship",
-        "text": "The function $$f(x)=x$$ represents a linear relationship. Check if the data points in the scatterplot can be aligned with a straight line when using this function.",
+        "title": "Analyzing Function Behavior",
+        "text": "Think about the behavior of each function option: linear, quadratic, absolute value, and negative linear. Which one aligns with the pattern in the scatterplot?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3n-h2"
         ],
-        "title": "Checking the Fit",
-        "text": "Does the function $$f(x)=x$$ allow the data points to be expressed as a linear combination in the form $$y_i=\\beta_0+x_i \\beta_1+f{\\left(x_i\\right)} \\beta_2$$?",
+        "title": "Choosing the Right Function",
+        "text": "Which function f(x) would create a linear relationship with the y-values as shown in the scatterplot?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

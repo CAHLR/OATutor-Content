@@ -4,42 +4,31 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Linear Models",
-        "text": "A linear model is one where the parameters (like theta) appear linearly. This means they are not multiplied together, raised to a power, or involved in any non-linear operations.",
+        "text": "A linear model with respect to a parameter means that the model is linear in terms of that parameter. Consider how each term in the equation relates to the parameter theta.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl-h1"
-        ],
-        "title": "Identifying Linear Models",
-        "text": "Check if the model can be expressed in the form of a linear combination of parameters. If the parameters are only multiplied by constants or variables, it is linear.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "The term \\( $$\\theta_{0theta,1} x_1$$ \\) makes it $$non-linear$$."
         ],
         "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl-h2"
+            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl-h1"
         ],
-        "title": "Analyzing the Given Model",
-        "text": "Consider the model \\( $$\\hat{y}=\\theta_0+\\theta_{0theta,1} x_1$$ \\). Is this a linear model with respect to \\( $$\\theta$$ \\)?",
+        "title": "Analyzing the Equation",
+        "text": "Look at the equation \\( \\hat{y}=\\theta_0+\\theta_{0}\\theta_1x_1 \\). Which part of this equation makes it non-linear with respect to \\( $$\\theta$$ \\)?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The term \\( $$\\theta_{0theta,1} x_1$$ \\) makes it $$non-linear$$.",
+            "The term \\( $$\\theta_0$$ \\) makes it $$non-linear$$.",
+            "The term \\( $$x_1$$ \\) makes it $$non-linear$$."
         ]
     }
 ]

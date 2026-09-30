@@ -4,8 +4,8 @@
         "$$-1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Solving for the Gradient",
-    "stepBody": "For entry (b), $$\\theta**{(0)}$$ $$=$$ $$10$$ and $$\\theta**{(1)}$$ $$=$$ $$11$$. With $$\\alpha$$ $$=$$ $$1$$, what gradient value at $$t$$ $$=$$ $$0$$ makes this update true?",
+    "stepTitle": "For entry (b), $$\\theta**{(0)}$$ $$=$$ $$10$$ and $$\\theta**{(1)}$$ $$=$$ $$11$$. With $$\\alpha$$ $$=$$ $$1$$, what gradient value at $$t$$ $$=$$ $$0$$ makes this update true?",
+    "stepBody": "Solving for the Gradient",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-1$$"

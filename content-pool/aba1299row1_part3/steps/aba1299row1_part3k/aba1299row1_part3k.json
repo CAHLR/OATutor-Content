@@ -4,8 +4,8 @@
         "Increase"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "LASSO Regularization: Training MSE",
-    "stepBody": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on MSE on training data?",
+    "stepTitle": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on MSE on training data?",
+    "stepBody": "LASSO Regularization: Training MSE",
     "answerType": "string",
     "variabilization": {},
     "choices": [

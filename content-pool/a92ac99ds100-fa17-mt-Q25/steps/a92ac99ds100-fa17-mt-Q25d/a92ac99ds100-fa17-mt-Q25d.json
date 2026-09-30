@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "As the sample size increases, the bootstrapped sampling distribution of a statistic will always become roughly normal.",
-    "stepBody": "For each of the following statements select true or false.",
+    "stepTitle": "For each of the following statements select true or false.",
+    "stepBody": "As the sample size increases, the bootstrapped sampling distribution of a statistic will always become roughly normal.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,61 +4,40 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Response Bias",
-        "text": "Consider what response bias means. It occurs when the responses collected do not accurately reflect the true opinions of the population.",
+        "text": "Response bias occurs when the responses collected in a survey are influenced by the way questions are asked or the environment in which they are asked. Think about whether the TAs asking the questions could influence the students' answers.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a72a45crow10_p1i-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Sampling Method",
-        "text": "Think about how the sampling method might influence the responses. Are there any factors that could lead to biased results?",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "FALSE"
+        ],
+        "dependencies": [
+            "a72a45crow10_p1i-h1"
+        ],
+        "title": "Evaluating the Sampling Method",
+        "text": "Consider the method of selecting every fifth student. Does this method introduce any bias in the selection process?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "a72a45crow10_p1i-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The sample may not be representative of the entire student population."
-        ],
+        "type": "hint",
         "dependencies": [],
-        "title": "Evaluating the Sampling Scheme",
-        "text": "What is the potential issue with selecting every fifth student in a discussion section?",
+        "title": "Sampling Method Considerations",
+        "text": "When using systematic sampling, like selecting every fifth student, it's important to consider if the order of students has any pattern that could affect the results. What do you think about the order in which students arrive at discussion sections?",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "The sample is too large",
-            "The sample is too small",
-            "The sample may not be representative",
-            "The sample may not be representative of the entire student population."
-        ]
-    },
-    {
-        "id": "a72a45crow10_p1i-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "TAs might unintentionally select students they know, leading to biased results."
-        ],
-        "dependencies": [],
-        "title": "Impact of TA Selection",
-        "text": "How might the fact that TAs are selecting students affect the results?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "TAs have no impact on selection",
-            "TAs might select students they know",
-            "TAs might unintentionally select students they know, leading to biased results.",
-            "TAs will select randomly"
-        ]
+        "license": ""
     }
 ]

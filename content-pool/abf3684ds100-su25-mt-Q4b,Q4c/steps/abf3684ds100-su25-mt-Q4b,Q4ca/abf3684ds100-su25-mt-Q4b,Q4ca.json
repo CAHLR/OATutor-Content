@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "If Michael were to randomly shuffle the order of the rows in his data without replacement, it is possible for the minimum value of the MAE to change.",
-    "stepBody": "Michael decides to fit the following constant model: $$\\hat{y}=\\theta_0.$$ He first considers using the mean absolute error (MAE) as the objective function. Select the statements below that are true.",
+    "stepTitle": "Michael decides to fit the following constant model: $$\\hat{y}=\\theta_0.$$ He first considers using the mean absolute error (MAE) as the objective function. Select the statements below that are true.",
+    "stepBody": "If Michael were to randomly shuffle the order of the rows in his data without replacement, it is possible for the minimum value of the MAE to change.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

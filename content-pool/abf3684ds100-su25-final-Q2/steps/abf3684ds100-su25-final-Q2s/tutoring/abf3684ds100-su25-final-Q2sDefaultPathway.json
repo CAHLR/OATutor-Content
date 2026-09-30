@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Gradient Descent",
-        "text": "Gradient descent is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent direction. It is commonly used in machine learning to find the optimal parameters for a model.",
+        "text": "Gradient descent is an iterative optimization algorithm used to find the minimum of a function. It updates parameters by moving in the direction of the negative gradient. What do you think happens if the learning rate is too high or too low?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,36 @@
     {
         "id": "abf3684ds100-su25-final-Q2s-h2",
         "type": "hint",
-        "dependencies": [
-            "abf3684ds100-su25-final-Q2s-h1"
-        ],
+        "dependencies": [],
         "title": "Convergence of Gradient Descent",
-        "text": "Gradient descent can converge to a local minimum, but this depends on several factors such as the learning rate, the nature of the function, and the starting point. It does not guarantee convergence to a global minimum.",
+        "text": "Convergence in gradient descent depends on several factors, including the learning rate and the nature of the function being minimized. Consider how these factors might affect whether the algorithm reaches a local or global minimum.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-su25-final-Q2s-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "It may overshoot the minimum and fail to converge."
+        ],
         "dependencies": [
             "abf3684ds100-su25-final-Q2s-h1"
         ],
-        "title": "Role of Learning Rate",
-        "text": "The learning rate is a crucial hyperparameter in gradient descent. If it's too large, the algorithm may overshoot the minimum. If it's too small, the convergence can be very slow.",
+        "title": "Exploring Learning Rates",
+        "text": "What might happen if the learning rate is set too high in gradient descent?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "It may overshoot the minimum and fail to converge",
+            "It may overshoot the minimum and fail to converge.",
+            "It will always find the global minimum",
+            "It will converge faster",
+            "It will not affect convergence"
+        ]
     },
     {
         "id": "abf3684ds100-su25-final-Q2s-h4",
@@ -39,19 +49,22 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "No, it may converge to a local minimum depending on the function."
         ],
         "dependencies": [
             "abf3684ds100-su25-final-Q2s-h2"
         ],
-        "title": "Analyzing the Statement",
-        "text": "Consider the statement: 'With an infinite number of updates and a fixed learning rate, gradient descent will always converge to a local minimum.' Is this statement true or false?",
+        "title": "Local vs. Global Minimum",
+        "text": "Does gradient descent always find the global minimum?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "No, it may converge to a local minimum depending on the function",
+            "No, it may converge to a local minimum depending on the function.",
+            "Only if the function is convex",
+            "Only if the learning rate is optimal",
+            "Yes, always"
         ]
     }
 ]

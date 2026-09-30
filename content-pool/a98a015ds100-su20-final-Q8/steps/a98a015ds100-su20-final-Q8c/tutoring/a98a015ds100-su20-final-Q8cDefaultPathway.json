@@ -3,8 +3,8 @@
         "id": "a98a015ds100-su20-final-Q8c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "The problem asks if the combination of values of $$u_1$$ and $$u_2$$ is invalid. Consider what it means for a combination of vectors to be invalid.",
+        "title": "Understanding Orthogonality",
+        "text": "Remember that in the context of SVD, the columns of the matrix U are orthogonal to each other. What does it mean for two vectors to be orthogonal?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,64 +15,46 @@
         "dependencies": [
             "a98a015ds100-su20-final-Q8c-h1"
         ],
-        "title": "Properties of $$u_1$$ and $$u_2$$",
-        "text": "$$u_1$$ and $$u_2$$ are columns of a matrix U from the SVD. What properties do these columns have?",
+        "title": "Checking Orthogonality",
+        "text": "To check if two vectors are orthogonal, you can calculate their dot product. If the dot product is zero, the vectors are orthogonal. Try calculating the dot product of $$u_1$$ and $$u_2$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a98a015ds100-su20-final-Q8c-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "$$0$$"
+        ],
         "dependencies": [
             "a98a015ds100-su20-final-Q8c-h2"
         ],
-        "title": "Orthogonality of Columns",
-        "text": "In the SVD, the columns of U are orthogonal. Does this affect the validity of the combination of $$u_1$$ and $$u_2$$?",
+        "title": "Calculate the Dot Product",
+        "text": "What is the dot product of $$u_1=(1, 0, 0, 0, 0, 0)$$ and $$u_2=(0, 1, 0, 0, 0, 0)$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0$$",
+            "$$0$$",
+            "$$1$$",
+            "$$2$$",
+            "$$3$$"
+        ]
     },
     {
         "id": "a98a015ds100-su20-final-Q8c-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "TRUE"
-        ],
+        "type": "hint",
         "dependencies": [
             "a98a015ds100-su20-final-Q8c-h3"
         ],
-        "title": "Checking Orthogonality",
-        "text": "Are $$u_1$$ and $$u_2$$ orthogonal?",
+        "title": "Understanding Validity",
+        "text": "In the context of SVD, a valid combination of $$u_1$$ and $$u_2$$ should maintain orthogonality. If the dot product is zero, the combination is valid. What did you find from your calculation?",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "TRUE",
-            "FALSE"
-        ]
-    },
-    {
-        "id": "a98a015ds100-su20-final-Q8c-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "FALSE"
-        ],
-        "dependencies": [
-            "a98a015ds100-su20-final-Q8c-h4"
-        ],
-        "title": "Conclusion on Validity",
-        "text": "Given that $$u_1$$ and $$u_2$$ are orthogonal, is the combination of their values invalid?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "TRUE",
-            "FALSE"
-        ]
+        "license": ""
     }
 ]

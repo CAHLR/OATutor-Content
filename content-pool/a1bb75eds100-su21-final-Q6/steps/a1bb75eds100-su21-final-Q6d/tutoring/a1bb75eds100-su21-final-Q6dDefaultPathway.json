@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding L0 Regularization",
-        "text": "L0 regularization limits the number of non-zero parameters in the model. In this case, only one parameter in the vector \\( $$\\theta$$ \\) can be non-zero.",
+        "text": "L0 regularization limits the number of non-zero parameters in the model. Think about how this constraint affects the model's ability to fit the data. What happens when only one parameter can be non-zero?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a1bb75eds100-su21-final-Q6d-h2",
         "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-su21-final-Q6d-h1"
-        ],
+        "dependencies": [],
         "title": "Logistic Regression Basics",
-        "text": "Logistic regression predicts probabilities using the logistic function \\( \\sigma(z)=1/(1+e**{-z}) \\). The predicted class is $$1$$ if the probability is greater than $$0.5$$, and $$0$$ otherwise.",
+        "text": "In logistic regression, the output is a probability that a given input point belongs to a particular class. The logistic function, or sigmoid function, is used to map predicted values to probabilities. Remember that the sigmoid function is defined as $$\\frac{1}{1+e^{\\left(-z\\right)}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,11 +22,9 @@
     {
         "id": "a1bb75eds100-su21-final-Q6d-h3",
         "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-su21-final-Q6d-h2"
-        ],
-        "title": "Applying L0 Regularization",
-        "text": "With \\( $$k=1$$ \\), only one feature can have a non-zero weight. Consider each feature individually to determine which one minimizes the misclassification error.",
+        "dependencies": [],
+        "title": "Rounding Probabilities",
+        "text": "Once you have the predicted probabilities from the logistic regression model, you need to round them to the nearest whole number to make a classification decision. Consider how this rounding affects the classification of each data point.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -36,18 +32,47 @@
     {
         "id": "a1bb75eds100-su21-final-Q6d-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "green"
+        ],
+        "dependencies": [],
+        "title": "Choosing the Non-Zero Parameter",
+        "text": "If you can only have one non-zero parameter, which color should you choose to minimize misclassification?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "blue",
+            "green",
+            "pink",
+            "purple",
+            "red"
+        ]
+    },
+    {
+        "id": "a1bb75eds100-su21-final-Q6d-h5",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$1$$"
         ],
         "dependencies": [
-            "a1bb75eds100-su21-final-Q6d-h3"
+            "a1bb75eds100-su21-final-Q6d-h4"
         ],
-        "title": "Calculate Predictions",
-        "text": "Calculate the predicted probabilities for each color using the logistic function with each feature having a non-zero weight one at a time. Which feature results in the least misclassification?",
+        "title": "Calculating Misclassifications",
+        "text": "After choosing the non-zero parameter, calculate how many data points are misclassified. Remember to round the predicted probabilities to the nearest whole number.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$0$$",
+            "$$1$$",
+            "$$2$$",
+            "$$3$$",
+            "$$5$$"
+        ]
     }
 ]

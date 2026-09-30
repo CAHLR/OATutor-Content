@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "MAE is less sensitive to outliers than MSE.",
-    "stepBody": "For a linear regression model with parameter(s) $$\\theta=[\\theta_0,\\theta_1,\\dots,\\theta_p],$$ Is this true regarding Mean Squared Error (MSE) and Mean Absolute Error (MAE)? Select all that apply.",
+    "stepTitle": "For a linear regression model with parameter(s) $$\\theta=[\\theta_0,\\theta_1,\\dots,\\theta_p],$$ Is this true regarding Mean Squared Error (MSE) and Mean Absolute Error (MAE)? Select all that apply.",
+    "stepBody": "MAE is less sensitive to outliers than MSE.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

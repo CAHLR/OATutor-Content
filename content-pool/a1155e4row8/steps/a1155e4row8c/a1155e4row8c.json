@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Box plot",
-    "stepBody": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepTitle": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepBody": "Box plot",
     "answerType": "string",
     "variabilization": {},
     "choices": [

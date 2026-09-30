@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Both batch and stochastic gradient descent compute the true gradient of the loss surface during each iteration.",
-    "stepBody": "Which of the following statements are true? Select all that apply.",
+    "stepTitle": "Which of the following statements are true? Select all that apply.",
+    "stepBody": "Both batch and stochastic gradient descent compute the true gradient of the loss surface during each iteration.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

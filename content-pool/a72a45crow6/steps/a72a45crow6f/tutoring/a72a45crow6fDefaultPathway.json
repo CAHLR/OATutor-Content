@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Sampling Bias",
-        "text": "Consider whether offering extra credit might influence the type of students who choose to participate in the survey.",
+        "text": "Consider how the method of inviting students might influence who chooses to respond. Are there any groups of students who might be more likely to participate in the survey?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a72a45crow6f-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Target Population Representation",
-        "text": "Think about whether the students who respond to the survey are representative of all UC Berkeley students.",
+        "title": "Target Population vs. Sample",
+        "text": "Think about the difference between the entire group of UC Berkeley students and those who actually take the survey. What factors could cause these two groups to differ?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,36 +25,18 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yes"
+            "The method of invitation and the incentive offered"
         ],
         "dependencies": [],
-        "title": "Incentive Impact",
-        "text": "Does offering extra credit as an incentive affect the randomness of the sample?",
+        "title": "Evaluating Representativeness",
+        "text": "Which of the following factors could affect whether the survey respondents are representative of all UC Berkeley students?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Yes",
-            "No"
-        ]
-    },
-    {
-        "id": "a72a45crow6f-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "No"
-        ],
-        "dependencies": [],
-        "title": "Sample Representation",
-        "text": "Are students who are motivated by extra credit likely to represent the entire student body?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Yes",
-            "No"
+            "The method of invitation and the incentive offered",
+            "The time of day the survey is sent",
+            "The color of the survey form"
         ]
     }
 ]

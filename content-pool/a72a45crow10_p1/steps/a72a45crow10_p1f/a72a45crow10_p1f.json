@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "It is possible that a sampled student is not in the population of interest and is not in the sampling frame.",
-    "stepBody": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepTitle": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepBody": "It is possible that a sampled student is not in the population of interest and is not in the sampling frame.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-su20-final-Q4b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "The problem involves comparing two linear regression models: one using the original design matrix X and the other using the mean-centered design matrix X\u0303. Both models aim to minimize the sum of squared errors.",
+        "title": "Understanding Mean-Centering",
+        "text": "Mean-centering involves subtracting the mean of each column from the respective column values, except for the intercept column. This process ensures that the mean of each column is zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a8c8399ds100-su20-final-Q4b-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4b-h1"
-        ],
-        "title": "Mean-Centering Effect",
-        "text": "Mean-centering affects the intercept term in the regression model. When the data is mean-centered, the intercept term becomes zero, but the slopes (coefficients) remain unchanged.",
+        "dependencies": [],
+        "title": "Interpreting the Equations",
+        "text": "The equations provided represent the optimization problems for finding the coefficients in linear regression. The first equation uses the original design matrix, while the second uses the mean-centered design matrix.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,11 +22,9 @@
     {
         "id": "a8c8399ds100-su20-final-Q4b-h3",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4b-h2"
-        ],
-        "title": "Comparing Coefficients",
-        "text": "Since mean-centering does not affect the slopes, the coefficients for the predictors (excluding the intercept) remain the same in both models.",
+        "dependencies": [],
+        "title": "Effect of Mean-Centering on Coefficients",
+        "text": "Mean-centering affects the coefficients of the linear regression model. Specifically, it can change the interpretation of the intercept term, but the slopes (coefficients of other variables) remain the same.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,19 +35,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "The intercept term changes, but the slopes remain the same."
         ],
         "dependencies": [
             "a8c8399ds100-su20-final-Q4b-h3"
         ],
-        "title": "Conclusion on Coefficients",
-        "text": "Given that mean-centering does not change the slopes, are the coefficients for the predictors in both models equal?",
+        "title": "Comparing Coefficients",
+        "text": "What happens to the intercept term when you mean-center the data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The intercept term changes, but the slopes remain the same.",
+            "Both the intercept and slopes change.",
+            "Neither the intercept nor the slopes change."
         ]
     }
 ]

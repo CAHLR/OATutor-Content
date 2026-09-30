@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Cross-Validation",
-        "text": "Cross-validation is a technique used to assess the performance of a model by partitioning the original sample into a training set to train the model, and a test set to evaluate it. It helps in understanding how the model will generalize to an independent dataset.",
+        "text": "Think about why we use cross-validation in the first place. What advantage does it offer over using a single validation set?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,49 +12,33 @@
     {
         "id": "a8c8399ds100-fa21-mt-Q1p-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1p-h1"
-        ],
-        "title": "Bias and Variance in Cross-Validation",
-        "text": "Increasing the number of folds (k) in k-fold cross-validation generally reduces the bias of the model because it allows the model to be trained on a larger portion of the dataset each time.",
+        "dependencies": [],
+        "title": "Bias and k-Fold Cross-Validation",
+        "text": "Consider how increasing the number of folds (k) in k-fold cross-validation might affect the model's bias. What happens to the training and validation sets as k increases?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa21-mt-Q1p-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1p-h1"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
         ],
-        "title": "Computational Intensity of Cross-Validation",
-        "text": "Cross-validation is typically more computationally intensive than regular validation because it involves training and validating the model multiple times (once for each fold).",
+        "dependencies": [],
+        "title": "Evaluating Cross-Validation Statements",
+        "text": "Which of the following statements is true about cross-validation?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa21-mt-Q1p-h4",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1p-h1"
-        ],
-        "title": "Using the Entire Dataset",
-        "text": "One of the advantages of cross-validation is that it allows the model to be trained and validated on different subsets of the data, ensuring that every data point is used for both training and validation at some point.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa21-mt-Q1p-h5",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa21-mt-Q1p-h1"
-        ],
-        "title": "Cross-Validation in Production",
-        "text": "In production, cross-validation is not typically used because it involves multiple training processes, which can be computationally expensive and time-consuming. Instead, a single model is usually trained on the entire dataset.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            ">Cross-validation cannot be used in production, as the model is cheating by looking at validation samples.",
+            ">We use cross validation because it is less computationally intensive than regular validation.",
+            ">We use cross validation over regular validation because cross validation allows us to use the entire training data set to test the model.",
+            "Increasing k in $$k-fold$$ cross validation decreases the bias of the model.",
+            "TRUE"
+        ]
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Sampling Methods",
-        "text": "Consider how Rachel is dividing the students into groups based on their year. What does this tell you about the sampling method?",
+        "text": "Think about how Rachel is organizing the students into groups based on their year. This organization is key to identifying the type of sampling method used. What does it mean when you divide a population into distinct groups before sampling?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a72a45crow6g-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a72a45crow6g-h1"
+        ],
         "title": "Proportional Sampling",
-        "text": "Rachel is taking a sample size that is proportional to the number of students in each group. How does this influence the type of sampling method?",
+        "text": "Rachel is taking a sample size from each group that is proportional to the number of students in that group. How does this affect the representation of each group in the sample?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,9 +29,11 @@
         "hintAnswer": [
             "Stratified random sample"
         ],
-        "dependencies": [],
-        "title": "Identifying the Sampling Method",
-        "text": "What is the sampling method called when the population is divided into groups and a random sample is taken from each group?",
+        "dependencies": [
+            "a72a45crow6g-h2"
+        ],
+        "title": "Identify the Sampling Method",
+        "text": "Based on the information given, which sampling method is Rachel using?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -39,29 +43,6 @@
             "Uniform random sample with replacement",
             "Post stratification",
             "Cluster sample"
-        ]
-    },
-    {
-        "id": "a72a45crow6g-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "To ensure representation from each subgroup"
-        ],
-        "dependencies": [
-            "a72a45crow6g-h3"
-        ],
-        "title": "Characteristics of Stratified Sampling",
-        "text": "In stratified sampling, the population is divided into subgroups, and samples are taken from each subgroup. What is the purpose of this method?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "To ensure representation from each subgroup",
-            "To simplify data collection",
-            "To reduce costs",
-            "To increase sample size"
         ]
     }
 ]

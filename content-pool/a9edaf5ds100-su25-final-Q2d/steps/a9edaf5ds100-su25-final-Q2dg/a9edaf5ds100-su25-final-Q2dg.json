@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "With an infinite number of updates and a fixed learning rate, gradient descent will always converge to a local minimum.",
-    "stepBody": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepTitle": "Milena uses gradient descent to find the optimal parameters. Select all statements below that are true.",
+    "stepBody": "With an infinite number of updates and a fixed learning rate, gradient descent will always converge to a local minimum.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,8 +4,8 @@
         "Increase"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Adding a Squared Feature: Variance",
-    "stepBody": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on model variance?",
+    "stepTitle": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on model variance?",
+    "stepBody": "Adding a Squared Feature: Variance",
     "answerType": "string",
     "variabilization": {},
     "choices": [

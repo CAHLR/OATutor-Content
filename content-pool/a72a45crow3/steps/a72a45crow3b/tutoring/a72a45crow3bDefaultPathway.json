@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the DataFrame",
-        "text": "Look at the columns in the DataFrame. What information does each column provide about the buildings?",
+        "text": "Take a look at the columns in the DataFrame. Each column represents a different attribute of the buildings. Consider how these attributes might relate to each other.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a72a45crow3b-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Column Details",
-        "text": "The 'renovated' column shows the year a building was renovated. How might this information be useful?",
+        "dependencies": [
+            "a72a45crow3b-h1"
+        ],
+        "title": "Focus on the 'renovated' Column",
+        "text": "Notice the 'renovated' column. It contains years when the buildings were renovated. How might this information be useful in analyzing the data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,32 +27,13 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Soda, Gateway"
-        ],
-        "dependencies": [],
-        "title": "Identifying Patterns",
-        "text": "Which buildings belong to the 'CDSS' college?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Evans, Cory",
-            "Soda, Gateway",
-            "Evans, Soda",
-            "Gateway, Cory"
-        ]
-    },
-    {
-        "id": "a72a45crow3b-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
             "Gateway"
         ],
-        "dependencies": [],
-        "title": "Renovation Analysis",
-        "text": "Which building was renovated most recently?",
+        "dependencies": [
+            "a72a45crow3b-h2"
+        ],
+        "title": "Identify the Building with the Most Recent Renovation",
+        "text": "Which building has the most recent renovation year?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -59,6 +42,28 @@
             "Soda",
             "Gateway",
             "Cory"
+        ]
+    },
+    {
+        "id": "a72a45crow3b-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "CDSS"
+        ],
+        "dependencies": [
+            "a72a45crow3b-h3"
+        ],
+        "title": "Consider the College Affiliation",
+        "text": "Which college is associated with the building that has the most recent renovation?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "LNS",
+            "CDSS",
+            "CoE"
         ]
     }
 ]

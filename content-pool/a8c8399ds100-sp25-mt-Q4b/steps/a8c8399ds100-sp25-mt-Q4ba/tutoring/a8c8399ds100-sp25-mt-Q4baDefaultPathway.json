@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatter Plot",
-        "text": "Observe the scatter plot. It shows a non-linear relationship between humidity and the number of students. The curve appears to follow a logarithmic pattern.",
+        "text": "Observe how the number of students increases with humidity but at a decreasing rate. This suggests a logarithmic relationship. Think about how you can transform the humidity data to make this relationship linear.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp25-mt-Q4ba-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp25-mt-Q4ba-h1"
-        ],
-        "title": "Choosing the Right Transformation",
-        "text": "To linearize a logarithmic relationship, consider using a logarithmic transformation on the independent variable.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp25-mt-Q4ba-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "$$h_i=\\ln\\left(x_i\\right)$$"
         ],
         "dependencies": [
-            "a8c8399ds100-sp25-mt-Q4ba-h2"
+            "a8c8399ds100-sp25-mt-Q4ba-h1"
         ],
-        "title": "Applying the Transformation",
-        "text": "What transformation should be applied to the humidity level to linearize the data?",
+        "title": "Choosing the Right Transformation",
+        "text": "Which transformation would help linearize a logarithmic relationship between humidity and the number of students?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

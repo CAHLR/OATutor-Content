@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Granularity",
-        "text": "Granularity refers to the level of detail in the data. Consider what unique combinations of columns define a single entry in the DataFrame.",
+        "text": "Granularity refers to the level of detail represented by the data. Consider what unique combinations of columns would define a single entry in the DataFrame.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a1155e4row3_p1a-h1"
         ],
         "title": "Identifying Unique Combinations",
-        "text": "Look at the columns that can uniquely identify each row. Which columns, when combined, make each row distinct?",
+        "text": "Look at the columns 'address' and 'item'. How do these columns together define a unique entry in the DataFrame?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,35 +24,25 @@
     {
         "id": "a1155e4row3_p1a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "address and item"
-        ],
-        "dependencies": [
-            "a1155e4row3_p1a-h2"
-        ],
-        "title": "Analyzing Columns",
-        "text": "Which columns in the DataFrame are necessary to uniquely identify each fruit at a specific location?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row3_p1a-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "Each unique combination of address and item."
         ],
         "dependencies": [
-            "a1155e4row3_p1a-h3"
+            "a1155e4row3_p1a-h2"
         ],
-        "title": "Combining Columns",
-        "text": "Combine the columns that uniquely identify each entry. What is the result?",
+        "title": "Choosing the Correct Granularity",
+        "text": "Which of the following best describes the granularity of the DataFrame?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Each unique combination of address and item.",
+            "Each grocery chain",
+            "Each individual fruit type",
+            "Each store location",
+            "Each individual unit of fruit"
+        ]
     }
 ]

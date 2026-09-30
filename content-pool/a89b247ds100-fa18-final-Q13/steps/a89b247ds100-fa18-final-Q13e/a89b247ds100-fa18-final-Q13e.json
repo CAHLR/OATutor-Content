@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\hat{\\theta}$$",
-    "stepBody": "Do we treat the following as fixed?",
+    "stepTitle": "Do we treat the following as fixed?",
+    "stepBody": "$$\\hat{\\theta}$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

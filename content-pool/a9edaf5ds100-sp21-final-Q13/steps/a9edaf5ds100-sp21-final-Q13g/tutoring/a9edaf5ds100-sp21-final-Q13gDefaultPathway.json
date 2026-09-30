@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. This penalty term is controlled by the regularization coefficient, lambda.",
+        "text": "Regularization is a technique used to prevent overfitting by adding a penalty to the model's complexity. Can you think about how increasing this penalty might affect the model's ability to fit the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,25 +16,13 @@
             "a9edaf5ds100-sp21-final-Q13g-h1"
         ],
         "title": "Effect of Increasing Lambda",
-        "text": "As the regularization coefficient lambda increases, the penalty on large coefficients in the model increases, which can lead to a reduction in model complexity.",
+        "text": "As the regularization coefficient lambda increases, the penalty for complexity becomes larger. Consider how this might influence the model's flexibility and its variance.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-sp21-final-Q13g-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-sp21-final-Q13g-h2"
-        ],
-        "title": "Impact on Variance",
-        "text": "Increasing lambda typically reduces the variance of the model because it discourages the model from fitting the noise in the training data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a9edaf5ds100-sp21-final-Q13g-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a9edaf5ds100-sp21-final-Q13g-h3"
+            "a9edaf5ds100-sp21-final-Q13g-h2"
         ],
-        "title": "Selecting the Correct Statements",
-        "text": "Which of the following statements are true when lambda is increased?",
+        "title": "Variance and Regularization",
+        "text": "What happens to the variance of a model when you increase the regularization coefficient lambda?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

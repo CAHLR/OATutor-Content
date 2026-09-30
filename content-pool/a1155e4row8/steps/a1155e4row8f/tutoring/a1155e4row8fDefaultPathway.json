@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding KDE",
-        "text": "A Kernel Density Estimate (KDE) is a way to estimate the probability density function of a random variable. It should be smooth and the area under the curve should be $$1$$.",
+        "text": "A Kernel Density Estimate (KDE) is a way to estimate the probability density function of a random variable. It should be smooth and the area under the curve should equal $$1$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a1155e4row8f-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a1155e4row8f-h1"
+        ],
         "title": "Checking the Area Under the Curve",
-        "text": "To determine if the KDE is valid, check if the area under the curve equals $$1$$. This is a key property of probability density functions.",
+        "text": "To determine if the KDE is valid, consider whether the total area under the curve equals $$1$$. This is a key property of probability density functions.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,17 +27,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No"
+            "No, because the curve has negative density values."
         ],
-        "dependencies": [],
+        "dependencies": [
+            "a1155e4row8f-h2"
+        ],
         "title": "Analyzing the Curve",
-        "text": "Look at the plot. Does the curve appear to have an area under it that sums to 1?",
+        "text": "Does the curve appear to have any negative values, or does it stay above the x-axis?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "No",
-            "Yes"
+            "Yes, because the curve is smooth and unimodal.",
+            "No, because the curve has negative density values.",
+            "Yes, because the area under the curve is $$1$$.",
+            "Not enough information to determine."
         ]
     },
     {
@@ -49,16 +55,14 @@
         "dependencies": [
             "a1155e4row8f-h3"
         ],
-        "title": "Properties of a Valid KDE",
-        "text": "A valid KDE should not have negative values and should integrate to $$1$$ over its domain. Does the curve meet these criteria?",
+        "title": "Evaluating the Area",
+        "text": "Consider the shape of the curve. Does it seem like the area under the curve could be 1?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "No, because the area under the curve is not $$1$$.",
-            "Yes, because the curve is smooth and unimodal.",
             "Yes, because the area under the curve is $$1$$.",
-            "No, because the curve has negative density values.",
             "Not enough information to determine."
         ]
     }

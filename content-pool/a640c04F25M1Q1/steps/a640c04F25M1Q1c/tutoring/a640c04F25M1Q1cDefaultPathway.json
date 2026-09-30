@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding iloc",
-        "text": "The iloc function is used to access a group of rows and columns by integer index. It uses the format iloc[row\\_index, column\\_index].",
+        "text": "The iloc function is used to access a group of rows and columns by integer index. The first number is the row index, and the second is the column index.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a640c04F25M1Q1c-h1"
         ],
         "title": "Accessing Elements with iloc",
-        "text": "When using df.iloc[1, 2], you are trying to access the element in the second row and third column. Does the DataFrame have a third column?",
+        "text": "When you use df.iloc[1,2], you're trying to access the element in the second row and third column. Check if the DataFrame has a third column.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,37 +24,23 @@
     {
         "id": "a640c04F25M1Q1c-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$2$$"
-        ],
-        "dependencies": [],
-        "title": "Checking Column Index",
-        "text": "How many columns does the DataFrame have?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a640c04F25M1Q1c-h4",
-        "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No"
+            "NA"
         ],
         "dependencies": [
-            "a640c04F25M1Q1c-h3"
+            "a640c04F25M1Q1c-h2"
         ],
-        "title": "Determining Valid Index",
-        "text": "Is column index $$2$$ valid for a DataFrame with $$2$$ columns?",
+        "title": "Checking Column Index",
+        "text": "Does the DataFrame have a column index 2?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "Yes",
-            "No"
+            "No",
+            "NA"
         ]
     }
 ]

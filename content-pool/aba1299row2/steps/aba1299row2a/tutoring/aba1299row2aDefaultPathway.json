@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Model",
-        "text": "The model shown is a polynomial regression with a logarithmic term. It includes a cubic term for the first feature and a logarithmic term for the second feature.",
+        "text": "The model shown is a linear regression model with transformations applied to the features. Notice that one feature is raised to the power of $$3$$ and the other is transformed using a natural logarithm. These transformations can help in capturing non-linear relationships.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,50 +12,44 @@
     {
         "id": "aba1299row2a-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row2a-h1"
-        ],
+        "dependencies": [],
         "title": "Unique Solution in OLS",
-        "text": "In OLS, a unique solution exists if the design matrix X has full column rank. With $$30$$ data points and $$2$$ features, the rank condition is satisfied.",
+        "text": "In ordinary least squares (OLS), a unique solution exists if the design matrix X has full column rank. This means the columns of X are linearly independent.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row2a-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row2a-h2"
-        ],
-        "title": "Effect of Ridge Regularization",
-        "text": "Ridge regularization (L2) adds a penalty term to the loss function, which helps in obtaining a unique solution even if the design matrix does not have full rank.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row2a-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "If Wesley refits the same model using L2 (Ridge) regularization with $$lambda=1$$, a unique solution will still exist."
+            "Ridge regularization ensures a unique solution by adding a penalty term that prevents multicollinearity issues."
         ],
         "dependencies": [
-            "aba1299row2a-h3"
+            "aba1299row2a-h2"
         ],
-        "title": "Analyzing the Statements",
-        "text": "Consider the effect of adding a regularization term on the uniqueness of the solution.",
+        "title": "Ridge Regularization",
+        "text": "What effect does adding L2 regularization (Ridge) have on the existence of a unique solution?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "It is highly likely, but not guaranteed, that the sum of the residuals is $$0$$.",
-            "The rank of the design matrix X must be less than $$3$$.",
-            "The vector of outcomes Y must be in the span of X.",
-            "The vector of predictions hat{Y} must be a linear combination of the outcomes Y.",
-            "If Wesley refits the same model with (x_{i1})**{6} as an additional feature, a unique solution will no longer exist.",
-            "If Wesley refits the same model using L2 (Ridge) regularization with $$lambda=1$$, a unique solution will still exist."
+            "Ridge regularization does not affect the existence of a unique solution.",
+            "Ridge regularization ensures a unique solution by adding a penalty term that prevents multicollinearity issues.",
+            "Ridge regularization ensures a unique solution.",
+            "Ridge regularization makes it harder to find a unique solution."
         ]
+    },
+    {
+        "id": "aba1299row2a-h4",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Effect of Adding Features",
+        "text": "Adding a new feature to a model can affect the rank of the design matrix. If the new feature is a linear combination of existing features, it may lead to multicollinearity, affecting the uniqueness of the solution.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

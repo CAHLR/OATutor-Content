@@ -3,8 +3,8 @@
         "id": "a1155e4row4i-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Bimodal Distributions",
-        "text": "A bimodal distribution has two different modes or peaks. Consider how this might appear in a plot.",
+        "title": "Understanding KDE",
+        "text": "Kernel Density Estimates (KDEs) are useful for visualizing the distribution of data. They can help identify patterns such as bimodality, where a distribution has two distinct peaks.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a1155e4row4i-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Alternative Plot Types",
-        "text": "Think about plot types that can show the distribution of data, such as histograms or box plots.",
+        "dependencies": [
+            "a1155e4row4i-h1"
+        ],
+        "title": "Analyzing the Plot",
+        "text": "Look at the distribution of nugget weights for each shape in the plot. Consider whether there are multiple peaks or clusters in the data for any shape.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -22,31 +24,22 @@
     {
         "id": "a1155e4row4i-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "Two peaks"
+            "TRUE"
         ],
-        "dependencies": [],
-        "title": "Identifying Bimodal Distributions",
-        "text": "What characteristic of a plot indicates a bimodal distribution?",
+        "dependencies": [
+            "a1155e4row4i-h2"
+        ],
+        "title": "Using KDEs for Bimodality",
+        "text": "Can overlaid KDEs help determine if the distribution of nugget weights is bimodal for a given shape?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row4i-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "Histogram"
-        ],
-        "dependencies": [],
-        "title": "Choosing the Right Plot",
-        "text": "Which plot type can help identify the number of peaks in a distribution?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     }
 ]

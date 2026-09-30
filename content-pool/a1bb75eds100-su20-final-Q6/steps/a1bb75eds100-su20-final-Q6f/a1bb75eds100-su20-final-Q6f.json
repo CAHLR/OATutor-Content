@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "consoles.groupby('generation').size().loc[7]",
-    "stepBody": "Is the line of code correctly finding the number of seventh generation consoles?",
+    "stepTitle": "Is the line of code correctly finding the number of seventh generation consoles?",
+    "stepBody": "consoles.groupby('generation').size().loc[7]",
     "answerType": "string",
     "variabilization": {},
     "choices": [

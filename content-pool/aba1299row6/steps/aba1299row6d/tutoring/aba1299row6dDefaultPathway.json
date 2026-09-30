@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Collinearity",
-        "text": "Collinearity occurs when two or more predictor variables in a regression model are highly correlated, meaning they contain similar information about the variance in the response variable.",
+        "text": "Collinearity occurs when two or more predictor variables in a regression model are highly correlated, meaning they provide redundant information about the response variable. Look at the correlation values between $$critic_1$$ and $$critic_2$$. What do you notice?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "aba1299row6d-h1"
         ],
-        "title": "Correlation Matrix Analysis",
-        "text": "Look at the correlation values between $$critic_1$$ and $$critic_2$$. A high absolute value indicates strong correlation, which can lead to collinearity issues.",
+        "title": "Correlation Matrix Insights",
+        "text": "In the correlation matrix, a high absolute value indicates a strong relationship between variables. Check the correlation between $$critic_1$$ and $$critic_2$$. How might this affect the model?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row6d-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row6d-h2"
-        ],
-        "title": "Impact of Collinearity",
-        "text": "Collinearity can make it difficult to determine the individual effect of each predictor on the response variable, as they may be explaining the same variance.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row6d-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "aba1299row6d-h3"
+            "aba1299row6d-h2"
         ],
-        "title": "Evaluating the Statement",
-        "text": "Given the correlation matrix, is it true that the selected features make the model prone to collinearity?",
+        "title": "Evaluating Collinearity",
+        "text": "Based on the correlation matrix, do $$critic_1$$ and $$critic_2$$ show signs of collinearity?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

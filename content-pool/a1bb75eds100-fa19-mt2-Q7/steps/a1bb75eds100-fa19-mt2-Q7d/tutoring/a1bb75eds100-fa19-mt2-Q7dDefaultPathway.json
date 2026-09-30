@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Precision",
-        "text": "Precision is the ratio of true positive predictions to the total number of positive predictions (true positives + false positives).",
+        "text": "Precision is the ratio of true positive predictions to the total number of positive predictions (true positives plus false positives). Think about how changing the threshold might affect the number of false positives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,63 +15,96 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7d-h1"
         ],
-        "title": "Effect of Increasing Threshold",
-        "text": "Increasing the threshold generally means that fewer instances are classified as positive. This can affect precision, recall, and accuracy.",
+        "title": "Threshold and Precision",
+        "text": "Increasing the threshold generally means that the model becomes more selective in classifying a positive case. Consider how this selectivity might impact the number of false positives and true positives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7d-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Decreases"
+        ],
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7d-h2"
         ],
-        "title": "Precision and Threshold Relationship",
-        "text": "When the threshold is increased, the number of false positives usually decreases, which can lead to an increase in precision.",
+        "title": "Effect on Precision",
+        "text": "If the threshold is increased, what happens to the number of false positives?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7d-s1",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$0.8$$"
-        ],
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7d-h3"
-        ],
-        "title": "Precision Calculation",
-        "text": "If the number of true positives is $$80$$ and false positives is $$20$$, what is the precision?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Increases",
+            "Decreases",
+            "Stays the same"
+        ]
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7d-h4",
         "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7d-h3"
-        ],
-        "title": "Recall and Threshold Relationship",
-        "text": "Increasing the threshold can decrease recall because fewer true positives are identified.",
+        "dependencies": [],
+        "title": "Recall and Threshold",
+        "text": "Recall is the ratio of true positive predictions to the total number of actual positives (true positives plus false negatives). Consider how increasing the threshold might affect the number of true positives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7d-h5",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Decreases"
+        ],
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7d-h4"
         ],
-        "title": "Accuracy and Threshold Relationship",
-        "text": "Accuracy can either increase or decrease depending on how the true positives, false positives, true negatives, and false negatives change.",
+        "title": "Effect on Recall",
+        "text": "If the threshold is increased, what happens to the number of true positives?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Increases",
+            "Decreases",
+            "Stays the same"
+        ]
+    },
+    {
+        "id": "a1bb75eds100-fa19-mt2-Q7d-h6",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Accuracy and Threshold",
+        "text": "Accuracy is the ratio of correct predictions (both true positives and true negatives) to the total number of predictions. Think about how changing the threshold might affect both true positives and true negatives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
+    },
+    {
+        "id": "a1bb75eds100-fa19-mt2-Q7d-h7",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Increases"
+        ],
+        "dependencies": [
+            "a1bb75eds100-fa19-mt2-Q7d-h6"
+        ],
+        "title": "Effect on Accuracy",
+        "text": "If the threshold is increased, what happens to the number of true negatives?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Increases",
+            "Decreases",
+            "Stays the same"
+        ]
     }
 ]

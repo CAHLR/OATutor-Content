@@ -3,8 +3,8 @@
         "id": "a1bb75eds100-su20-final-Q6b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Code",
-        "text": "The code snippet `consoles[consoles['generation'] $$==$$ 6].loc[:2000, 'name']` is intended to filter the DataFrame for consoles of generation $$6$$ and released before the year $$2000$$. Let's break it down.",
+        "title": "Understanding DataFrame Filtering",
+        "text": "When filtering a DataFrame, ensure that the condition inside the brackets is correctly specified. For example, to filter rows where the 'generation' is $$6$$, you would use $$`consoles['generation']==6`$$. This condition should be inside the brackets of the DataFrame.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,37 +15,42 @@
         "dependencies": [
             "a1bb75eds100-su20-final-Q6b-h1"
         ],
-        "title": "Filtering by Generation",
-        "text": "The first part of the code `consoles[consoles['generation'] $$==$$ 6]` correctly filters the DataFrame to include only those rows where the generation is $$6$$. This part is correct.",
+        "title": "Using loc for Row Selection",
+        "text": "The `loc` method is used to select rows and columns by labels. If you want to select rows based on a condition, ensure that the condition is applied before using `loc`. For example, to select rows where the 'year' is less than $$2000$$, you should apply this condition before using `loc`.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-su20-final-Q6b-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "consoles.loc[consoles['year']<2000, 'name']"
+        ],
         "dependencies": [
             "a1bb75eds100-su20-final-Q6b-h2"
         ],
-        "title": "Locating by Year",
-        "text": "The second part of the code `.loc[:2000, 'name']` is intended to filter by year. However, this syntax is incorrect for filtering by year. The `.loc` method is used for label-based indexing, not for filtering by conditions like year < $$2000$$.",
+        "title": "Correcting the loc Usage",
+        "text": "Which of the following correctly uses `loc` to filter consoles released before the year 2000?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "consoles.loc[consoles['year']<2000, 'name']",
+            "consoles.loc[:2000, 'name']",
+            "consoles.loc[consoles['year']>2000, 'name']"
+        ]
     },
     {
         "id": "a1bb75eds100-su20-final-Q6b-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "consoles[(consoles['generation'] $$==$$ 6) & (consoles['year'] < 2000)]['name']"
-        ],
+        "type": "hint",
         "dependencies": [
             "a1bb75eds100-su20-final-Q6b-h3"
         ],
-        "title": "Correcting the Year Filter",
-        "text": "To correctly filter consoles released before the year $$2000$$, you should use a condition within the DataFrame indexing. How would you modify the code to achieve this?",
+        "title": "Combining Conditions",
+        "text": "To filter data based on multiple conditions, you can combine them using the `&` operator. Ensure each condition is enclosed in parentheses. For example, to filter for generation $$6$$ and year less than $$2000$$, you would use $$`(consoles['generation']==6)$$ & $$consoles[primesymbolyearprimesymbol]<2000`$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

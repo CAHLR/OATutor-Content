@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Recall",
-        "text": "Recall is the ratio of true positive predictions to the total actual positives. It measures how well the classifier identifies positive instances.",
+        "text": "Recall is a measure of how many actual positive cases were correctly predicted by the classifier. It is calculated as the number of true positives divided by the sum of true positives and false negatives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7c-h1"
         ],
-        "title": "Identify True Positives",
-        "text": "True positives are the cases where the prediction is $$1$$ and the true label is also $$1$$. Count these instances from the given data.",
+        "title": "Identifying True Positives",
+        "text": "Look at the predictions and true labels. A true positive is when both the prediction and the true label are $$1$$. Count how many true positives there are in the given data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,10 +25,10 @@
         "id": "a1bb75eds100-fa19-mt2-Q7c-h3",
         "type": "hint",
         "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7c-h2"
+            "a1bb75eds100-fa19-mt2-Q7c-h1"
         ],
-        "title": "Identify Actual Positives",
-        "text": "Actual positives are the cases where the true label is $$1$$, regardless of the prediction. Count these instances from the given data.",
+        "title": "Identifying False Negatives",
+        "text": "A false negative occurs when the prediction is $$0$$, but the true label is $$1$$. Count the number of false negatives in the data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -42,10 +42,11 @@
             "$$1$$"
         ],
         "dependencies": [
+            "a1bb75eds100-fa19-mt2-Q7c-h2",
             "a1bb75eds100-fa19-mt2-Q7c-h3"
         ],
-        "title": "Calculate Recall",
-        "text": "Use the formula for recall: true positives divided by actual positives. Calculate this using the counts from the previous hints.",
+        "title": "Calculating Recall",
+        "text": "Using the formula for recall, calculate the value using the true positives and false negatives you identified.",
         "variabilization": {},
         "oer": "openai",
         "license": "",

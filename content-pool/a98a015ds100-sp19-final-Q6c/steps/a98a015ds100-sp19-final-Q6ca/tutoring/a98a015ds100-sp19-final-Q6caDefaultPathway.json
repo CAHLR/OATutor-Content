@@ -3,8 +3,8 @@
         "id": "a98a015ds100-sp19-final-Q6ca-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding PCA and SVD",
-        "text": "Principal Component Analysis (PCA) is a technique used to emphasize variation and bring out strong patterns in a dataset. It uses Singular Value Decomposition (SVD) to achieve this. The singular values in SVD represent the amount of variance captured by each principal component.",
+        "title": "Understanding Singular Values",
+        "text": "When you apply PCA, the singular values represent the amount of variance captured by each principal component. Think about how these values relate to the total variance in the dataset.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,21 +16,30 @@
             "a98a015ds100-sp19-final-Q6ca-h1"
         ],
         "title": "Total Variance in PCA",
-        "text": "In PCA, the total variance of the dataset is equal to the sum of the variances of all the principal components. This is equivalent to the sum of the squares of the singular values in the SVD.",
+        "text": "Consider how the total variance of a dataset is distributed among the principal components. How does this relate to the sum of the singular values?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a98a015ds100-sp19-final-Q6ca-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "FALSE"
+        ],
         "dependencies": [
             "a98a015ds100-sp19-final-Q6ca-h2"
         ],
-        "title": "Interpreting the Statement",
-        "text": "The statement suggests that the sum of the singular values (not their squares) will be the total variance of the dataset. Consider whether this aligns with the properties of PCA and SVD.",
+        "title": "Exploring the Relationship",
+        "text": "If the singular values represent the variance captured by each component, what does their sum represent?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     }
 ]

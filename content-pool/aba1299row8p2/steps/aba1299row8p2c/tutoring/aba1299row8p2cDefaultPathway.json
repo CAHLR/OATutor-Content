@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Parameter Vector",
-        "text": "The parameter vector \\(\\hat{\\theta}\\) is derived from the design matrix \\(X\\). Consider how the dimensions of \\(X\\) influence the length of \\(\\hat{\\theta}\\).",
+        "text": "The parameter vector, often denoted as theta, contains the coefficients that multiply each column of the design matrix X. Think about how many columns X has and how that relates to the length of theta.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,47 +13,73 @@
         "id": "aba1299row8p2c-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Invertibility of X",
-        "text": "For a unique solution in OLS, \\(X\\) does not need to be invertible. Instead, \\(X**TX\\) should be invertible. Consider why this is the case.",
+        "title": "Intercept in the Design Matrix",
+        "text": "Remember that the design matrix X includes a column for the intercept. This means that even if you have $$n$$ predictors, X will have $$n+1$$ columns.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row8p2c-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "X must be invertible to achieve a unique solution."
+        ],
         "dependencies": [],
-        "title": "Loss Function Options",
-        "text": "OLS typically uses the Mean Squared Error (MSE) as the loss function. However, consider if Mean Absolute Error (MAE) could also be used in this context.",
+        "title": "Exploring Matrix Invertibility",
+        "text": "Consider the conditions under which a matrix is invertible. Does X need to be invertible for OLS to work?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "X must be invertible to achieve a unique solution.",
+            "Tina can use either MSE or MAE as her loss function.",
+            "The parameter vector theta minimizes the sum of the residuals $$(Y-hatY)$$.",
+            "The length of the parameter vector theta is equal to $$n$$."
+        ]
     },
     {
         "id": "aba1299row8p2c-h4",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Tina can use either MSE or MAE as her loss function."
+        ],
         "dependencies": [],
-        "title": "Minimizing Residuals",
-        "text": "OLS minimizes the sum of squared residuals, not just the sum of residuals. Think about the difference between these two concepts.",
+        "title": "Choosing a Loss Function",
+        "text": "Think about the common loss functions used in OLS. Which one is typically used to minimize the error in predictions?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "X must be invertible to achieve a unique solution.",
+            "Tina can use either MSE or MAE as her loss function.",
+            "The parameter vector theta minimizes the sum of the residuals $$(Y-hatY)$$.",
+            "The length of the parameter vector theta is equal to $$n$$."
+        ]
     },
     {
         "id": "aba1299row8p2c-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "The length of the parameter vector \\(\\hat{\\theta}\\) is equal to \\(n\\)."
+            "The parameter vector theta minimizes the sum of the residuals $$(Y-hatY)$$."
         ],
-        "dependencies": [
-            "aba1299row8p2c-h1"
-        ],
-        "title": "Determining the Length of \\(\\hat{\\theta}\\)",
-        "text": "Given that \\(X\\) is an \\(m\\) by \\(n\\) matrix, what is the length of the parameter vector \\(\\hat{\\theta}\\)?",
+        "dependencies": [],
+        "title": "Understanding Residuals",
+        "text": "Residuals are the differences between the observed values and the predicted values. What does OLS aim to minimize in terms of residuals?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "X must be invertible to achieve a unique solution.",
+            "Tina can use either MSE or MAE as her loss function.",
+            "The parameter vector theta minimizes the sum of the residuals $$(Y-hatY)$$.",
+            "The length of the parameter vector theta is equal to $$n$$."
+        ]
     }
 ]

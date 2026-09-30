@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Use $$\\text{dist\\_from\\_bell}$$ as an additional predictor variable.",
-    "stepBody": "Can the above suggestion reduce model bias squared?",
+    "stepTitle": "Can the above suggestion reduce model bias squared?",
+    "stepBody": "Use $$\\text{dist\\_from\\_bell}$$ as an additional predictor variable.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

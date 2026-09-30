@@ -4,42 +4,95 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Star Schema",
-        "text": "In a star schema, the dimension tables are used to store attributes related to the facts in the fact table. They do not contain relationships between different facts.",
+        "text": "In a star schema, the dimension tables are used to describe the attributes of the data stored in the fact tables. Think about how these tables might relate to each other.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp18-final-Q15a-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "To describe attributes of the data in fact tables"
+        ],
         "dependencies": [
             "aea05a2ds100-sp18-final-Q15a-h1"
         ],
         "title": "Role of Dimension Tables",
-        "text": "Dimension tables provide descriptive information for the facts in the fact table, such as time, location, or product details.",
+        "text": "What is the primary role of dimension tables in a star schema?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "To store facts",
+            "To describe attributes of the data in fact tables",
+            "To store relationships between facts"
+        ]
+    },
+    {
+        "id": "aea05a2ds100-sp18-final-Q15a-h3",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Fact Tables in Star Schema",
+        "text": "Fact tables in a star schema typically contain quantitative data. Consider what kind of information might be stored in these tables.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "aea05a2ds100-sp18-final-Q15a-h3",
+        "id": "aea05a2ds100-sp18-final-Q15a-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "Quantitative data"
         ],
         "dependencies": [
-            "aea05a2ds100-sp18-final-Q15a-h2"
+            "aea05a2ds100-sp18-final-Q15a-h3"
         ],
-        "title": "Correct Statement Identification",
-        "text": "Based on the role of dimension tables in a star schema, is the statement 'In the star schema, the dimension table contains the relationships between different facts in the separate fact tables' true or false?",
+        "title": "Content of Fact Tables",
+        "text": "What type of data do fact tables usually contain in a star schema?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Qualitative data",
+            "Quantitative data",
+            "Metadata"
+        ]
+    },
+    {
+        "id": "aea05a2ds100-sp18-final-Q15a-h5",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Relationships in Star Schema",
+        "text": "In a star schema, relationships are not stored in dimension tables. Think about where these relationships might be represented instead.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
+    },
+    {
+        "id": "aea05a2ds100-sp18-final-Q15a-h6",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "In the structure of the schema itself"
+        ],
+        "dependencies": [
+            "aea05a2ds100-sp18-final-Q15a-h5"
+        ],
+        "title": "Where are Relationships Stored?",
+        "text": "Where are the relationships between different facts typically represented in a star schema?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "In dimension tables",
+            "In fact tables",
+            "In the structure of the schema itself"
         ]
     }
 ]

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Overfitting",
-        "text": "Overfitting occurs when a model learns the training data too well, including its noise and outliers, which may not generalize well to new data.",
+        "text": "Overfitting occurs when a model learns the training data too well, capturing noise along with the underlying pattern. Think about how using the entire training set for each fold might affect the model's ability to generalize.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,21 +13,30 @@
         "id": "a9edaf5ds100-fa20-final-Q7a-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Cross-Validation Basics",
-        "text": "In k-fold cross-validation, the dataset is divided into k subsets. The model is trained on k-1 subsets and validated on the remaining subset. This process is repeated k times.",
+        "title": "Role of the Test Set",
+        "text": "Consider the purpose of a test set in cross-validation. How does using a subset of the test set for validation differ from using a subset of the training set?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-fa20-final-Q7a-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "To estimate the model's performance on unseen data"
+        ],
         "dependencies": [],
-        "title": "Training and Validation Sets",
-        "text": "Typically, the training set is used to train the model, and the validation set is used to evaluate its performance. Using the test set for validation can lead to overfitting.",
+        "title": "Evaluating the Modification",
+        "text": "What is the primary goal of cross-validation? Is it to minimize training error or to estimate the model's performance on unseen data?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "To minimize training error",
+            "To estimate the model's performance on unseen data"
+        ]
     },
     {
         "id": "a9edaf5ds100-fa20-final-Q7a-h4",
@@ -35,19 +44,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "It may lead to overfitting as the model might learn noise from the training data."
         ],
         "dependencies": [
             "a9edaf5ds100-fa20-final-Q7a-h3"
         ],
-        "title": "Analyzing the Modification",
-        "text": "Consider what happens when the test set is used for validation instead of a separate validation set. Does this affect the model's ability to generalize?",
+        "title": "Impact of Using the Entire Training Set",
+        "text": "If the entire training set is used for each fold, how might this affect the model's ability to generalize to new data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "It may lead to overfitting as the model might learn noise from the training data.",
+            "It will improve the model's ability to generalize to new data."
         ]
     }
 ]

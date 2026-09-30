@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Bias and Variance",
-        "text": "In machine learning, bias refers to the error due to overly simplistic assumptions in the learning algorithm. Variance refers to the error due to excessive sensitivity to small fluctuations in the training set.",
+        "text": "When the training error increases and the validation error decreases, it often indicates a change in the model's complexity. Think about how bias and variance are affected by model complexity.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,34 +15,54 @@
         "dependencies": [
             "aba1299row4g-h1"
         ],
-        "title": "Effect of Reducing Features",
-        "text": "When you reduce the number of features in a model, it can lead to a simpler model. This often results in increased bias but decreased variance.",
+        "title": "Model Complexity and Error",
+        "text": "Consider how adding more features to a model might affect its ability to generalize to new data. What happens to the bias and variance when you increase the number of features?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row4g-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Bias decreases"
+        ],
         "dependencies": [
             "aba1299row4g-h2"
         ],
-        "title": "Training vs. Validation Error",
-        "text": "If the training error increases but the validation error decreases, it suggests that the model is generalizing better to unseen data.",
+        "title": "Bias and Variance Relationship",
+        "text": "If a model's complexity increases, what typically happens to the bias?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Bias increases",
+            "Bias decreases",
+            "Bias remains the same"
+        ]
     },
     {
         "id": "aba1299row4g-h4",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The model generalizes better"
+        ],
         "dependencies": [
             "aba1299row4g-h3"
         ],
-        "title": "Conclusion",
-        "text": "The statement that the model's bias squared is lower relative to the model in part (a) is false because reducing features typically increases bias.",
+        "title": "Validation Error and Model Complexity",
+        "text": "When the validation error decreases, what does it suggest about the model's ability to generalize?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The model generalizes better",
+            "The model overfits",
+            "The model underfits"
+        ]
     }
 ]

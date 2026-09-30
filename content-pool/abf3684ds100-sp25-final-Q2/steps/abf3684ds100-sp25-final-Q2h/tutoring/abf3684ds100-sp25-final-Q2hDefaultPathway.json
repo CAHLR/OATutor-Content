@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Variance",
-        "text": "When the training error increases but the validation error decreases, it suggests a change in the model's complexity. Consider how reducing the number of features might affect the model's ability to generalize.",
+        "text": "When the training error increases but the validation error decreases, it suggests a change in the model's complexity. Think about how this affects the model's ability to generalize to new data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,43 +15,44 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2h-h1"
         ],
-        "title": "Feature Selection Impact",
-        "text": "By selecting only $$10$$ features, the model becomes simpler. A simpler model might not fit the training data as well, leading to increased training error. However, it might generalize better to unseen data, reducing validation error.",
+        "title": "Training vs. Validation Error",
+        "text": "Consider what it means for a model to have a higher training error but a lower validation error. How does this relate to the model's ability to fit the training data versus new data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp25-final-Q2h-h3",
-        "type": "hint",
-        "dependencies": [
-            "abf3684ds100-sp25-final-Q2h-h2"
-        ],
-        "title": "Bias-Variance Tradeoff",
-        "text": "The increase in training error and decrease in validation error is indicative of the bias-variance tradeoff. A simpler model has higher bias but lower variance, which can lead to better generalization.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp25-final-Q2h-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "Variance decreases"
         ],
         "dependencies": [
-            "abf3684ds100-sp25-final-Q2h-h3"
+            "abf3684ds100-sp25-final-Q2h-h2"
         ],
-        "title": "Conclusion on Model Variance",
-        "text": "Given the changes in training and validation errors, what can we conclude about the model's variance?",
+        "title": "Model Complexity and Variance",
+        "text": "If a model's complexity is reduced, what happens to its variance?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Variance increases",
+            "Variance decreases",
+            "Variance remains the same"
         ]
+    },
+    {
+        "id": "abf3684ds100-sp25-final-Q2h-h4",
+        "type": "hint",
+        "dependencies": [
+            "abf3684ds100-sp25-final-Q2h-h3"
+        ],
+        "title": "Connecting Errors and Variance",
+        "text": "A decrease in validation error with an increase in training error often indicates a reduction in overfitting. How does this relate to the model's variance?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

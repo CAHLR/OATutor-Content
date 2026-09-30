@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the DataFrame",
-        "text": "Look at the 'renovated' column in the DataFrame. Some entries are 'None', which means those rooms have never been renovated.",
+        "text": "Look at the 'renovated' column in the DataFrame. Notice that some entries have a value of 'None'. These represent rooms that have never been renovated.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a640c04S25FQ1Ba-h1"
         ],
-        "title": "Filtering Non-Renovated Rooms",
-        "text": "To focus on rooms with renovation data, you need to remove rows where 'renovated' is 'None'.",
+        "title": "Filtering Non-None Values",
+        "text": "To filter out rows where 'renovated' is 'None', you can use the `isna()` function to identify these rows and then use the `~` operator to select the opposite.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,30 +24,25 @@
     {
         "id": "a640c04S25FQ1Ba-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "rooms[~rooms['renovated'].isna()]"
+            "rooms[~rooms[\"renovated\"].isna()]"
         ],
         "dependencies": [
             "a640c04S25FQ1Ba-h2"
         ],
-        "title": "Removing Non-Renovated Rooms",
-        "text": "Use the DataFrame method to filter out rows where 'renovated' is 'None'.",
+        "title": "Choose the Correct Filtering Method",
+        "text": "Which of the following options correctly filters out rows where 'renovated' is 'None'?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a640c04S25FQ1Ba-h4",
-        "type": "hint",
-        "dependencies": [
-            "a640c04S25FQ1Ba-h2"
-        ],
-        "title": "Using the isna() Method",
-        "text": "The 'isna()' method helps identify 'None' values in a DataFrame. Use it to filter out unwanted rows.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$rooms[rooms[\"renovated\"] \\neq None]$$",
+            "rooms[~rooms[\"renovated\"].isna()]",
+            "rooms[rooms[\"renovated\"].isna()]",
+            "rooms.dropna()",
+            "$$rooms.drop(columns=[\"renovated\"])$$"
+        ]
     }
 ]

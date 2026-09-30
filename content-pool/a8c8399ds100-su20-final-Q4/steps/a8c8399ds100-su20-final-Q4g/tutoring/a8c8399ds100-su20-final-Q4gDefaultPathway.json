@@ -3,32 +3,39 @@
         "id": "a8c8399ds100-su20-final-Q4g-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Equations",
-        "text": "The equations represent the optimization problems for finding the coefficients in linear regression. The first equation uses the original design matrix, while the second uses the mean-centered design matrix.",
+        "title": "Understanding Residuals",
+        "text": "The residuals in a linear regression model are the differences between the observed values and the predicted values. Think about how centering the data might affect these residuals.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su20-final-Q4g-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "TRUE"
+        ],
         "dependencies": [
             "a8c8399ds100-su20-final-Q4g-h1"
         ],
         "title": "Mean of Residuals",
-        "text": "In ordinary least squares regression, the mean of the residuals is always zero when an intercept is included in the model.",
+        "text": "What is the mean of the residuals in a linear regression model with an intercept term?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "a8c8399ds100-su20-final-Q4g-h3",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4g-h2"
-        ],
-        "title": "Effect of Centering",
-        "text": "Centering the data does not affect the mean of the residuals. It only affects the interpretation of the intercept term.",
+        "dependencies": [],
+        "title": "Effect of Centering on Coefficients",
+        "text": "Consider how centering the data affects the coefficients in the regression model. Does it change the intercept or the slope?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -44,8 +51,8 @@
         "dependencies": [
             "a8c8399ds100-su20-final-Q4g-h3"
         ],
-        "title": "Conclusion",
-        "text": "Based on the properties of ordinary least squares regression, what can we conclude about the mean of the residuals?",
+        "title": "Intercept Term",
+        "text": "Does centering the data affect the intercept term in a linear regression model?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

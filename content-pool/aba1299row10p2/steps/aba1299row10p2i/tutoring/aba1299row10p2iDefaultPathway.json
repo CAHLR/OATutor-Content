@@ -3,8 +3,8 @@
         "id": "aba1299row10p2i-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Residuals in OLS",
-        "text": "In an Ordinary Least Squares (OLS) regression, the residuals have specific properties related to the design matrix and the predictions.",
+        "title": "Understanding Residuals",
+        "text": "Residuals are the differences between the observed values and the predicted values in a regression model. Think about how these differences relate to the design matrix.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "aba1299row10p2i-h1"
         ],
-        "title": "Residuals and the Design Matrix",
-        "text": "Consider the relationship between the residuals and the columns of the design matrix. What does it mean for them to be orthogonal?",
+        "title": "Orthogonality in OLS",
+        "text": "In the context of OLS regression, orthogonality refers to the residuals being perpendicular to certain vectors. Consider what vectors in the model might have this relationship with the residuals.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row10p2i-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row10p2i-h1"
-        ],
-        "title": "Sum of Residuals",
-        "text": "Think about the sum of the residuals in the context of the regression model. What is a common property of this sum?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row10p2i-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -44,8 +32,8 @@
         "dependencies": [
             "aba1299row10p2i-h2"
         ],
-        "title": "Orthogonality of Residuals",
-        "text": "The residuals are orthogonal to the column space of the design matrix (X). This means that the dot product of the residuals and any column of X is zero.",
+        "title": "Exploring Orthogonality",
+        "text": "Which of the following statements about residuals in OLS regression is true?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the True Model",
-        "text": "In the context of the problem, $f_{\\theta**{*}}(x)$ represents the true underlying linear model that generates the response vector $Y$ from the design matrix $X$. This model is fixed and does not change.",
+        "text": "Think about what $f_{\\theta**{*}}(x)$ represents in the context of the problem. It's the true underlying relationship between $X$ and $Y$. Consider whether this relationship changes or remains constant when generating $X$ and $Y$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-su20-final-Q5aa-h2",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-su20-final-Q5aa-h1"
-        ],
-        "title": "Role of $\\theta**{*}$",
-        "text": "The parameter $\\theta**{*}$ is a fixed parameter in the true model. It does not change with different datasets or splits.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-su20-final-Q5aa-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a89b247ds100-su20-final-Q5aa-h2"
+            "a89b247ds100-su20-final-Q5aa-h1"
         ],
-        "title": "Fixed Nature of $f_{\\theta**{*}}(x)$",
-        "text": "Given that $f_{\\theta**{*}}(x)$ is the true model used to generate $X$ and $Y$, is it fixed?",
+        "title": "Fixed or Variable?",
+        "text": "Is $f_{\\theta**{*}}(x)$ a fixed quantity in the true model used to generate $X$ and $Y$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

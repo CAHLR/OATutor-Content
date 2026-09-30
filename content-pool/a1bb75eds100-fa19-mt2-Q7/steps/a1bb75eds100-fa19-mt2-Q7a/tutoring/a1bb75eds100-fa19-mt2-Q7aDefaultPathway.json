@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Accuracy",
-        "text": "Accuracy is the ratio of correctly predicted observations to the total observations. It is a measure of how often the classifier is correct.",
+        "text": "Accuracy is the ratio of correctly predicted observations to the total observations. Think about how many predictions match the true labels.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7a-h1"
         ],
-        "title": "Identify Correct Predictions",
-        "text": "Compare each prediction with the true label. Count how many predictions match the true labels.",
+        "title": "Counting Correct Predictions",
+        "text": "Count how many times the predicted value matches the true label. This will give you the number of correct predictions.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,47 +24,25 @@
     {
         "id": "a1bb75eds100-fa19-mt2-Q7a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$7$$"
-        ],
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7a-h2"
-        ],
-        "title": "Count Correct Predictions",
-        "text": "How many predictions match the true labels?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7a-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$\\frac{7}{10}$$"
         ],
         "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7a-h3"
+            "a1bb75eds100-fa19-mt2-Q7a-h2"
         ],
-        "title": "Calculate Accuracy",
-        "text": "Use the formula: Accuracy $$=$$ (Number of Correct Predictions) / (Total Number of Predictions). What is the accuracy?",
+        "title": "Calculate the Accuracy",
+        "text": "Now that you know the number of correct predictions, divide it by the total number of predictions to find the accuracy.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1bb75eds100-fa19-mt2-Q7a-h5",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7a-h4"
-        ],
-        "title": "Choose the Correct Answer",
-        "text": "Select the correct accuracy from the given choices.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$\\frac{6}{10}$$",
+            "$$\\frac{7}{10}$$",
+            "$$\\frac{8}{10}$$",
+            "$$\\frac{2}{3}$$",
+            "$$\\frac{6}{9}$$"
+        ]
     }
 ]

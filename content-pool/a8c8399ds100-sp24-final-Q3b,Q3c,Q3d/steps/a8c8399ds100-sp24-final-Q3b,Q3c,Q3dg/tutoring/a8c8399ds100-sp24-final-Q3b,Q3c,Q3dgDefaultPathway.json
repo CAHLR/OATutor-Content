@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "To determine the dimensionality of \\( \\hat{\\theta} \\), consider how many parameters are needed for the model. Each genre will have its own parameter.",
+        "title": "Understanding Dimensionality",
+        "text": "To determine the dimensionality of the parameter vector in a regression model, consider the number of features used. Each unique genre can be a feature in the model.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,38 +16,33 @@
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h1"
         ],
         "title": "One-Hot Encoding",
-        "text": "When using one-hot encoding for categorical variables like genre, each genre gets its own column. How does this affect the number of parameters?",
+        "text": "When dealing with categorical variables like genre, one common approach is to use one-hot encoding. This means creating a binary variable for each category.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h2"
-        ],
-        "title": "Dimensionality of Parameters",
-        "text": "If there are \\( $$m$$ \\) genres, and each genre is represented by a parameter, what is the dimensionality of the parameter vector?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$m$$"
         ],
         "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h3"
+            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg-h2"
         ],
-        "title": "Calculate Dimensionality",
-        "text": "Given \\( $$m$$ \\) genres, what is the dimensionality of \\( \\hat{\\theta} \\)?",
+        "title": "Calculating Dimensionality",
+        "text": "If you have $$m$$ different genres, how many binary variables will you create using one-hot encoding?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$m$$",
+            "$$m-1$$",
+            "$$m+1$$",
+            "$$2m$$",
+            "$$d$$"
+        ]
     }
 ]

@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\sigma**{2}$$",
-    "stepBody": "We increase $$\\lambda$$ our estimated parameter $$\\hat{\\theta}$$ changes. Does the value change as we increase this hyperparameter?",
+    "stepTitle": "We increase $$\\lambda$$ our estimated parameter $$\\hat{\\theta}$$ changes. Does the value change as we increase this hyperparameter?",
+    "stepBody": "$$\\sigma**{2}$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

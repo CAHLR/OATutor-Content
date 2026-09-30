@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\sigma**{2}$$",
-    "stepBody": "Do we treat the following as fixed?",
+    "stepTitle": "Do we treat the following as fixed?",
+    "stepBody": "$$\\sigma**{2}$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

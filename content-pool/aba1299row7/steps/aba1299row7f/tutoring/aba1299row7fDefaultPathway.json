@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Residuals",
-        "text": "Residuals are the differences between observed and predicted values. A residual plot helps us understand how well a model fits the data.",
+        "text": "Residuals are the differences between the observed values and the values predicted by the model. A residual plot helps us see how well the model fits the data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,25 +16,13 @@
             "aba1299row7f-h1"
         ],
         "title": "Analyzing the Residual Plot",
-        "text": "Look at the pattern of the residuals. If they show a clear pattern, it might indicate a problem with the model.",
+        "text": "Look at the pattern of the residuals. If they show a clear trend or pattern, it might indicate a problem with the model's fit.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row7f-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row7f-h2"
-        ],
-        "title": "Pattern in Residuals",
-        "text": "The residuals seem to increase as $$x$$ increases. This suggests that the model is consistently underpredicting as $$x$$ increases.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row7f-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "The model is consistently underpredicting."
         ],
         "dependencies": [
-            "aba1299row7f-h3"
+            "aba1299row7f-h2"
         ],
-        "title": "Conclusion from Residual Plot",
-        "text": "Based on the residual plot, what can you conclude about the model's predictions?",
+        "title": "Identifying Patterns",
+        "text": "What does it mean if the residuals are consistently above or below zero?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -55,5 +43,17 @@
             "As $$x$$ increases, the model performs worse.",
             "A linear model works well for this data."
         ]
+    },
+    {
+        "id": "aba1299row7f-h4",
+        "type": "hint",
+        "dependencies": [
+            "aba1299row7f-h2"
+        ],
+        "title": "Interpreting the Trend",
+        "text": "If the residuals increase as $$x$$ increases, it suggests that the model's predictions are getting worse as $$x$$ increases.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

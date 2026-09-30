@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Test error",
-    "stepBody": "We increase $$\\lambda$$ our estimated parameter $$\\hat{\\theta}$$ changes. Does the value change as we increase this hyperparameter?",
+    "stepTitle": "We increase $$\\lambda$$ our estimated parameter $$\\hat{\\theta}$$ changes. Does the value change as we increase this hyperparameter?",
+    "stepBody": "Test error",
     "answerType": "string",
     "variabilization": {},
     "choices": [

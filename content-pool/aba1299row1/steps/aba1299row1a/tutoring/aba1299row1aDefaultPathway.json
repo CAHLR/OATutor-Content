@@ -3,8 +3,8 @@
         "id": "aba1299row1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Orthogonality",
-        "text": "Orthogonality in the context of vectors means that the dot product of the vectors is zero. Consider what it means for Y and \\hat{Y} to be orthogonal.",
+        "title": "Understanding the Relationship",
+        "text": "Think about the relationship between the true outcomes Y and the predictions \\hat{Y}. What does it mean for two vectors to be orthogonal or for one to be in the span of another?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,34 +12,26 @@
     {
         "id": "aba1299row1a-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Understanding Span",
-        "text": "The span of a set of vectors is the set of all possible linear combinations of those vectors. Consider what it means for Y to be in the span of \\hat{Y}.",
+        "dependencies": [
+            "aba1299row1a-h1"
+        ],
+        "title": "Exploring Orthogonality",
+        "text": "If two vectors are orthogonal, their dot product is zero. Consider whether Y and \\hat{Y} have this property.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row1a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "No, it is not zero."
-        ],
+        "type": "hint",
         "dependencies": [
-            "aba1299row1a-h1"
+            "aba1299row1a-h2"
         ],
-        "title": "Checking Orthogonality",
-        "text": "Calculate the dot product of Y and \\hat{Y}. Is it zero?",
+        "title": "Span of a Vector",
+        "text": "The span of a vector set is the collection of all possible linear combinations of those vectors. Is Y a linear combination of the columns of X?",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "No",
-            "No, it is not zero.",
-            "Yes"
-        ]
+        "license": ""
     },
     {
         "id": "aba1299row1a-h4",
@@ -47,36 +39,13 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No, it cannot be expressed as such."
-        ],
-        "dependencies": [
-            "aba1299row1a-h2"
-        ],
-        "title": "Checking Span",
-        "text": "Can Y be expressed as a linear combination of the columns of \\hat{Y}?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "No",
-            "No, it cannot be expressed as such.",
-            "Yes"
-        ]
-    },
-    {
-        "id": "aba1299row1a-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
             "NOT orthogonal to and NOT in the span of"
         ],
         "dependencies": [
-            "aba1299row1a-h3",
-            "aba1299row1a-h4"
+            "aba1299row1a-h3"
         ],
-        "title": "Conclusion",
-        "text": "Based on your answers to the previous questions, determine the relationship between Y and \\hat{Y}.",
+        "title": "Choose the Correct Relationship",
+        "text": "Based on your understanding, which of the following best describes the relationship between Y and \\hat{Y}?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

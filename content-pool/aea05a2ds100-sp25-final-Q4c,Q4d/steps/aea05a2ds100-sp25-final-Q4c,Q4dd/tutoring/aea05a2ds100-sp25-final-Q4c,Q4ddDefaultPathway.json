@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Agglomerative Clustering",
-        "text": "Agglomerative clustering starts with each data point as its own cluster and iteratively merges the closest clusters until all points are in a single cluster.",
+        "text": "Agglomerative clustering starts with each data point as its own cluster and merges them step by step. Think about how many clusters you start with and how many you want to end up with.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,42 +12,35 @@
     {
         "id": "aea05a2ds100-sp25-final-Q4c,Q4dd-h2",
         "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4dd-h1"
-        ],
-        "title": "What is Average Linkage?",
-        "text": "Average linkage calculates the average distance between all pairs of points in two clusters. This average distance is used to determine which clusters to merge.",
+        "dependencies": [],
+        "title": "Linkage Method",
+        "text": "Average linkage considers the average distance between all pairs of data points in two clusters. How might this affect the merging process compared to other linkage methods?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp25-final-Q4c,Q4dd-h3",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4dd-h2"
-        ],
-        "title": "Counting Iterations",
-        "text": "In agglomerative clustering, the number of iterations needed to merge all points into one cluster is equal to the number of points minus one.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp25-final-Q4c,Q4dd-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$5$$"
         ],
         "dependencies": [
-            "aea05a2ds100-sp25-final-Q4c,Q4dd-h3"
+            "aea05a2ds100-sp25-final-Q4c,Q4dd-h1"
         ],
-        "title": "Calculate the Number of Iterations",
-        "text": "Given that there are $$6$$ pandas, calculate the number of iterations needed to merge them all into one cluster using the formula: number of points minus one.",
+        "title": "Counting Iterations",
+        "text": "If you start with $$6$$ pandas, how many merges do you need to end up with $$1$$ cluster?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$3$$",
+            "$$4$$",
+            "$$5$$",
+            "$$6$$",
+            "$$7$$"
+        ]
     }
 ]

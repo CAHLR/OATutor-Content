@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Pruning",
-        "text": "Pruning a decision tree involves removing branches that have little importance. This can help in simplifying the model.",
+        "text": "Pruning a decision tree involves removing branches that have little importance. Think about how this might affect the tree's ability to fit the training data closely.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6e-h1"
         ],
-        "title": "Effect on Bias",
-        "text": "Consider how removing branches might affect the model's ability to fit the training data. Does it make the model more or less flexible?",
+        "title": "Bias and Complexity",
+        "text": "Consider how reducing the complexity of a model, like pruning a decision tree, might affect its bias. Does a simpler model tend to have higher or lower bias?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6e-h2"
         ],
-        "title": "Bias and Flexibility",
-        "text": "When a model is less flexible, it tends to have higher bias. Does pruning increase or decrease the model's flexibility?",
+        "title": "Effect of Pruning on Bias",
+        "text": "When you prune a decision tree, does it generally increase or decrease the bias of the model?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

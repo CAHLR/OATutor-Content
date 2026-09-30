@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Orthogonality",
-        "text": "Orthogonality in linear algebra refers to vectors being perpendicular to each other. If two vectors are orthogonal, their dot product is zero.",
+        "text": "Think about what it means for two vectors to be orthogonal. If two vectors are orthogonal, their dot product is zero. Consider the vector $$1$$ and the vector Y-hat. What does their dot product tell you?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,21 +13,31 @@
         "id": "a8c8399ds100-fa25-mt2-Q2d-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Vector of Ones",
-        "text": "The vector \\( \\mathbf{1} \\) is a special vector where all elements are $$1$$. It is often used in linear algebra to represent constant terms or to check orthogonality with other vectors.",
+        "title": "Exploring the Span",
+        "text": "The span of a set of vectors is the set of all possible linear combinations of those vectors. If a vector is in the span of another set of vectors, it can be expressed as a linear combination of them. Can the vector $$1$$ be expressed as a linear combination of the vectors in Y-hat?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa25-mt2-Q2d-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Orthogonal to"
+        ],
         "dependencies": [],
-        "title": "Residuals in OLS",
-        "text": "In an OLS model, the residuals are the differences between the true outcomes \\( Y \\) and the predicted outcomes \\( \\hat{Y} \\).",
+        "title": "Checking Orthogonality",
+        "text": "What is the dot product of the vector $$1$$ and the vector Y-hat?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Orthogonal to",
+            "In the span of",
+            "NOT orthogonal to and NOT in the span of"
+        ]
     },
     {
         "id": "a8c8399ds100-fa25-mt2-Q2d-h4",
@@ -37,11 +47,9 @@
         "hintAnswer": [
             "Orthogonal to"
         ],
-        "dependencies": [
-            "a8c8399ds100-fa25-mt2-Q2d-h1"
-        ],
-        "title": "Checking Orthogonality",
-        "text": "To determine if \\( \\mathbf{1} \\) is orthogonal to \\( Y-\\hat{Y} \\), consider the dot product of \\( \\mathbf{1} \\) and \\( Y-\\hat{Y} \\). If the dot product is zero, they are orthogonal.",
+        "dependencies": [],
+        "title": "Understanding the Span",
+        "text": "Can the vector $$1$$ be written as a linear combination of the vectors in Y-hat?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding LASSO Regularization",
-        "text": "LASSO (Least Absolute Shrinkage and Selection Operator) is a type of linear regression that uses shrinkage. Shrinkage is where data values are shrunk towards a central point, like the mean. The LASSO procedure encourages simple, sparse models (i.e., models with fewer parameters).",
+        "text": "LASSO regularization adds a penalty equal to the absolute value of the magnitude of coefficients. This can lead to some coefficients being exactly zero, effectively selecting a simpler model. How might this affect the model's performance on unseen data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,47 +12,32 @@
     {
         "id": "a89b247ds100-fa25-mt2-Q6w-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6w-h1"
-        ],
-        "title": "Effect of LASSO on Model Complexity",
-        "text": "LASSO regularization can reduce the complexity of a model by setting some coefficients to zero, effectively selecting a simpler model.",
+        "dependencies": [],
+        "title": "Impact on Model Complexity",
+        "text": "Consider how reducing the number of features by setting some coefficients to zero might influence the model's complexity. What are the potential benefits and drawbacks of a simpler model when it comes to generalizing to new data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6w-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6w-h2"
-        ],
-        "title": "Impact on MSE on Held-out Test Data",
-        "text": "Consider how reducing model complexity with LASSO might affect the model's performance on unseen data. A simpler model might generalize better, potentially reducing the MSE on held-out test data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-fa25-mt2-Q6w-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Decrease"
+            "TRUE"
         ],
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6w-h3"
-        ],
-        "title": "Possible Effects on MSE",
-        "text": "When using LASSO regularization, what are the possible effects on the MSE of held-out test data?",
+        "dependencies": [],
+        "title": "Effect on Test MSE",
+        "text": "When LASSO regularization is applied, which of the following is a possible effect on the MSE of held-out test data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Increase",
+            "Both",
             "Decrease",
-            "Both"
+            "Increase",
+            "TRUE"
         ]
     }
 ]

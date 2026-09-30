@@ -3,8 +3,8 @@
         "id": "a1155e4row2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the DataFrame",
-        "text": "Look at the 'renovated' column. It contains the years when rooms were last renovated. Some entries might be 'None', indicating no renovation.",
+        "title": "Understanding the Data",
+        "text": "Look at the 'renovated' column. It shows the year each room was last renovated. Some entries might be 'None', indicating no renovation.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,9 +12,11 @@
     {
         "id": "a1155e4row2a-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a1155e4row2a-h1"
+        ],
         "title": "Choosing the Right Visualization",
-        "text": "Consider what kind of data you have: categorical or numerical. The 'renovated' column is numerical, representing years.",
+        "text": "Consider what a line plot represents. It is useful for showing trends over time. Think about how this applies to the renovation data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,59 +27,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Numerical"
-        ],
-        "dependencies": [],
-        "title": "Identifying the Data Type",
-        "text": "What type of data is in the 'renovated' column?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Numerical",
-            "Categorical"
-        ]
-    },
-    {
-        "id": "a1155e4row2a-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Line plot"
+            "TRUE"
         ],
         "dependencies": [
-            "a1155e4row2a-h3"
+            "a1155e4row2a-h2"
         ],
-        "title": "Selecting a Visualization Type",
-        "text": "Which type of plot is suitable for showing trends over time?",
+        "title": "Evaluating the Line Plot",
+        "text": "Why might a line plot be appropriate for visualizing renovations by year?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Line plot",
-            "Bar chart",
-            "Pie chart"
+            "TRUE",
+            "FALSE"
         ]
-    },
-    {
-        "id": "a1155e4row2a-h5",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Understanding Line Plots",
-        "text": "Line plots are useful for showing changes over time. They can help visualize trends in the data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row2a-h6",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Considering Overplotting",
-        "text": "Since the x-axis represents years, and there are no issues with overplotting, a line plot is appropriate.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

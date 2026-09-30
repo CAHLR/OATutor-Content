@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding MSE on Training Data",
-        "text": "When you remove a feature from a model, how does it affect the model's ability to fit the training data? Consider the flexibility of the model.",
+        "text": "When you remove a feature from a model, think about how the model's complexity changes. A simpler model might fit the training data less closely. How does this affect the MSE on the training data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row1_part3g-h2",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row1_part3g-h1"
-        ],
-        "title": "Effect of Removing a Feature",
-        "text": "Removing a feature can reduce the model's complexity. How might this impact the MSE on the training data?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row1_part3g-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "Increase"
         ],
         "dependencies": [
-            "aba1299row1_part3g-h2"
+            "aba1299row1_part3g-h1"
         ],
-        "title": "Impact on Training MSE",
-        "text": "If a model becomes less complex by removing a feature, what is a possible effect on the MSE on training data?",
+        "title": "Effect of Removing a Feature",
+        "text": "Consider what happens to the model's ability to fit the training data when a feature is removed. Does the MSE on the training data increase, decrease, or can it do both?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

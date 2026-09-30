@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Variable Types",
-        "text": "Consider the nature of the data in the 'ranking' column. How is it different from other columns?",
+        "text": "Consider what the column 'ranking' represents. It's a personal rating system with values like $$1$$, $$2$$, and $$3$$. Think about whether these numbers have a meaningful order or if they are just labels.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a1155e4row3_p1c-h1"
         ],
         "title": "Qualitative vs Quantitative",
-        "text": "Think about whether the 'ranking' column represents a quality or a quantity. Does it measure something or categorize it?",
+        "text": "Qualitative data describes qualities or characteristics, while quantitative data involves numbers that can be measured. Does the 'ranking' column describe a quality or a measurable quantity?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,30 +32,8 @@
         "dependencies": [
             "a1155e4row3_p1c-h2"
         ],
-        "title": "Identifying the Nature of 'Ranking'",
-        "text": "The 'ranking' column uses numbers to represent categories. What does this imply about its variable type?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Qualitative ordinal",
-            "Qualitative nominal",
-            "Quantitative"
-        ]
-    },
-    {
-        "id": "a1155e4row3_p1c-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Qualitative ordinal"
-        ],
-        "dependencies": [
-            "a1155e4row3_p1c-h3"
-        ],
-        "title": "Ordinal vs Nominal",
-        "text": "If the numbers in 'ranking' indicate a specific order or preference, what type of qualitative variable is it?",
+        "title": "Identifying the Type",
+        "text": "What type of data is represented by the 'ranking' column?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

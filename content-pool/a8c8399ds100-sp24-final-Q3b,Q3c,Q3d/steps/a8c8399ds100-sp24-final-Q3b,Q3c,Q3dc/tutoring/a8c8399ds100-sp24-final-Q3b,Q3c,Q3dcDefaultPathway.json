@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the DataFrame",
-        "text": "The DataFrame $$'song_{sample'}$$ contains columns for song title, artist, genre, and streams. The 'streams' column is the target variable, and 'genre' is used to create features.",
+        "title": "Understanding One-Hot Encoding",
+        "text": "Notice how the code creates new columns for each unique genre. This process is known as one-hot encoding. It transforms categorical data into a format that can be provided to ML algorithms to do a better job in prediction.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,59 +12,34 @@
     {
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h1"
-        ],
-        "title": "Feature Engineering Process",
-        "text": "The code snippet creates binary features for each unique genre in the 'genre' column. This is a common technique called one-hot encoding.",
+        "dependencies": [],
+        "title": "Checking for Unique Solutions",
+        "text": "In linear regression, a unique solution exists if the matrix of features is full rank. Consider how one-hot encoding affects the rank of the feature matrix.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The feature matrix must be full rank."
+        ],
         "dependencies": [
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h2"
         ],
-        "title": "Model Fitting",
-        "text": "The LinearRegression model is fitted without an intercept. This means the solution is unique if the feature matrix is full rank.",
+        "title": "Matrix Rank and Unique Solutions",
+        "text": "What condition must the feature matrix satisfy to ensure a unique solution in linear regression?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "The feature matrix is full rank if all columns are linearly independent."
-        ],
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h3"
-        ],
-        "title": "Checking Full Rank",
-        "text": "How can you determine if the feature matrix is full rank?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "The feature matrix must be full rank for the OLS solution to be unique."
-        ],
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc-h4"
-        ],
-        "title": "Unique Solution Condition",
-        "text": "What condition must be met for the OLS solution to be unique?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The feature matrix must be full rank.",
+            "The feature matrix must be square.",
+            "The feature matrix must have more rows than columns.",
+            "The feature matrix must be symmetric."
+        ]
     }
 ]

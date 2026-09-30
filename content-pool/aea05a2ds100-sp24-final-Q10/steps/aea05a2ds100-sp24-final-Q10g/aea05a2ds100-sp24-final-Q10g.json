@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "In k-Means clustering, distortion can converge to the true minimum for any starting configuration.",
-    "stepBody": "Which of the following statements are correct?",
+    "stepTitle": "Which of the following statements are correct?",
+    "stepBody": "In k-Means clustering, distortion can converge to the true minimum for any starting configuration.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

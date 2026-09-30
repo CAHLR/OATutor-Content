@@ -4,34 +4,52 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding MSE on Test Data",
-        "text": "When you remove a feature from a model, it can affect the model's ability to generalize to new data. Consider how this might impact the Mean Squared Error (MSE) on held-out test data.",
+        "text": "When you remove a feature from a model, think about how it might affect the model's ability to generalize to new data. Consider how the model's complexity changes and how that might impact the error on unseen data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6o-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Decrease"
+        ],
         "dependencies": [
             "a89b247ds100-fa25-mt2-Q6o-h1"
         ],
-        "title": "Effect of Feature Removal on Bias",
-        "text": "Removing a feature can increase the bias of the model because the model might lose some information that was useful for making predictions.",
+        "title": "Effect of Feature Removal on Complexity",
+        "text": "How does removing a feature affect the complexity of the model?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Increase",
+            "Decrease"
+        ]
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6o-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Improve"
+        ],
         "dependencies": [
             "a89b247ds100-fa25-mt2-Q6o-h2"
         ],
-        "title": "Effect of Feature Removal on Variance",
-        "text": "Removing a feature can decrease the variance of the model because the model becomes simpler and less sensitive to fluctuations in the training data.",
+        "title": "Complexity and Generalization",
+        "text": "If a model becomes less complex, how might that affect its ability to generalize to new data?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Improve",
+            "Worsen"
+        ]
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6o-h4",
@@ -39,13 +57,13 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Increase"
+            "Decrease"
         ],
         "dependencies": [
             "a89b247ds100-fa25-mt2-Q6o-h3"
         ],
-        "title": "Possible Effects on MSE",
-        "text": "Consider the trade-off between bias and variance when a feature is removed. How might this trade-off affect the MSE on held-out test data?",
+        "title": "Possible Effects on Test MSE",
+        "text": "Given that removing a feature can decrease complexity and potentially improve generalization, what are the possible effects on the MSE of held-out test data?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

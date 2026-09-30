@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "A data point with a high silhouette score is far from other points in its cluster.",
-    "stepBody": "Evaluate the following statements regarding assessments of clustering outcomes.",
+    "stepTitle": "Evaluate the following statements regarding assessments of clustering outcomes.",
+    "stepBody": "A data point with a high silhouette score is far from other points in its cluster.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

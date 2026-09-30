@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Line Plot",
-    "stepBody": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepTitle": "Which of the following are possible visualizations for price only? Select all that apply.",
+    "stepBody": "Line Plot",
     "answerType": "string",
     "variabilization": {},
     "choices": [

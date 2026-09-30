@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding OLS",
-        "text": "In an Ordinary Least Squares (OLS) model, the goal is to minimize the sum of the squared differences between the observed values and the values predicted by the model.",
+        "text": "In an Ordinary Least Squares (OLS) model, the goal is to minimize the sum of the squared differences between the observed values and the values predicted by the model. This is achieved by finding the optimal weight vector, often denoted as theta.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,48 +12,32 @@
     {
         "id": "aba1299row7c-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row7c-h1"
-        ],
-        "title": "Residuals in OLS",
-        "text": "The residual vector, often denoted as $e$, represents the difference between the observed values and the predicted values in the model.",
+        "dependencies": [],
+        "title": "Residuals and Orthogonality",
+        "text": "The residual vector, often denoted as e, represents the difference between the observed values and the predicted values. In OLS, this residual vector is orthogonal to the span of the design matrix X. This means that the dot product of e with any vector in the span of X is zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row7c-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row7c-h2"
-        ],
-        "title": "Orthogonality in OLS",
-        "text": "In the context of OLS, orthogonality refers to the residual vector being perpendicular to the span of the design matrix $X$. This is a key property of the OLS solution.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row7c-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
             "The residual vector e is orthogonal to the span of X."
         ],
-        "dependencies": [
-            "aba1299row7c-h3"
-        ],
-        "title": "Identifying True Statements",
-        "text": "Which statement about the residual vector $e$ is true in the context of OLS?",
+        "dependencies": [],
+        "title": "Dimensionality Check",
+        "text": "Consider the dimensions of Y and the weight vector theta. Which of the following statements is true?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "Y and hat{theta} have the same dimensionality.",
+            "Y and theta have the same dimensionality.",
             "The residual vector e is orthogonal to the span of X.",
-            "The prediction vector hat{Y} is orthogonal to the span of X.",
-            "hat{Y} has a shape of $$n$$ by $$1$$"
+            "The prediction vector $$Y_{hat}$$ is orthogonal to the span of X.",
+            "$$Y_{hat}$$ has a shape of $$n$$ by $$1$$"
         ]
     }
 ]

@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-su20-final-Q4f-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Equations",
-        "text": "The equations represent the optimization problems for finding the coefficients in linear regression. The first equation is for the original data, and the second is for the mean-centered data.",
+        "title": "Understanding Mean Squared Error (MSE)",
+        "text": "Mean Squared Error (MSE) is a measure of the average of the squares of the errors. It is calculated as the average of the squared differences between the predicted and actual values. Consider how centering the data might affect these differences.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,22 +15,31 @@
         "dependencies": [
             "a8c8399ds100-su20-final-Q4f-h1"
         ],
-        "title": "Mean-Centering Effect",
-        "text": "Mean-centering the data affects the intercept term but not the other coefficients. This is because centering the data shifts it to have a mean of zero, which changes the intercept but not the slope.",
+        "title": "Effect of Centering on MSE",
+        "text": "When you center the data, you subtract the mean from each feature. This affects the intercept term but not the slope of the regression line. Think about how this might influence the MSE calculation.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su20-final-Q4f-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "No"
+        ],
         "dependencies": [
             "a8c8399ds100-su20-final-Q4f-h2"
         ],
-        "title": "MSE Comparison",
-        "text": "The mean squared error (MSE) measures the average squared difference between the observed actual outcomes and the outcomes predicted by the model. When data is mean-centered, the MSE remains the same because the centering does not affect the variance of the errors.",
+        "title": "Comparing MSE of Original and Centered Models",
+        "text": "Does centering the data change the variance of the errors?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Yes",
+            "No"
+        ]
     }
 ]

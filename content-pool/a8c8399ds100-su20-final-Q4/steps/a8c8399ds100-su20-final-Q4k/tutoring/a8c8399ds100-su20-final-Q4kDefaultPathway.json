@@ -3,8 +3,8 @@
         "id": "a8c8399ds100-su20-final-Q4k-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Problem",
-        "text": "The problem involves comparing two ridge regression models, \\( \\hat{\\theta}_A \\) and \\( \\hat{\\theta}_B \\), where the difference lies in whether the intercept term is regularized. We need to determine if \\( \\hat{\\theta}_A $$=$$ \\hat{\\theta}_B \\) when using a mean-centered design matrix.",
+        "title": "Understanding Mean-Centering",
+        "text": "Mean-centering involves subtracting the mean of each column from the respective column values, except for the intercept column. This process ensures that the mean of each column is zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a8c8399ds100-su20-final-Q4k-h2",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4k-h1"
-        ],
-        "title": "Mean-Centering Effect",
-        "text": "Mean-centering the design matrix \\( \\tilde{\\mathbb{X}} \\) implies that all columns except the intercept have a mean of zero. This affects the regularization of the intercept term.",
+        "dependencies": [],
+        "title": "Regularization in Ridge Regression",
+        "text": "In ridge regression, regularization adds a penalty to the loss function to prevent overfitting. The penalty is proportional to the square of the magnitude of coefficients.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,11 +22,9 @@
     {
         "id": "a8c8399ds100-su20-final-Q4k-h3",
         "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4k-h2"
-        ],
-        "title": "Impact of Regularizing the Intercept",
-        "text": "When the design matrix is mean-centered, the intercept term does not affect the mean of the predictors. Therefore, regularizing the intercept term has no impact on the solution.",
+        "dependencies": [],
+        "title": "Effect of Centering on Intercept",
+        "text": "When data is mean-centered, the intercept term is not affected by the centering process. This is because the intercept is the mean of the response variable when all predictors are zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -41,11 +37,9 @@
         "hintAnswer": [
             "Always true"
         ],
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4k-h3"
-        ],
-        "title": "Conclusion",
-        "text": "Given that mean-centering nullifies the effect of regularizing the intercept, what can we conclude about \\( \\hat{\\theta}_A \\) and \\( \\hat{\\theta}_B \\)?",
+        "dependencies": [],
+        "title": "Comparing Models A and B",
+        "text": "Consider how the regularization of the intercept term affects the models. Does centering the data change the impact of regularizing the intercept?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -53,7 +47,7 @@
             "Always true",
             "Sometimes true",
             "Never true",
-            "Depends on the value of \\( \\lambda \\)",
+            "Depends on the value of lambda",
             "Cannot be determined"
         ]
     }

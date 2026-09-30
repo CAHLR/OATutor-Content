@@ -4,8 +4,8 @@
         "Increase and Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Adding a Squared Feature: Test MSE",
-    "stepBody": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepTitle": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepBody": "Adding a Squared Feature: Test MSE",
     "answerType": "string",
     "variabilization": {},
     "choices": [

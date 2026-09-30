@@ -4,8 +4,8 @@
         "$$2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\theta_1**{(1)}$$",
-    "stepBody": "Assume we initialize both $$\\theta_0**{(0)}$$ and $$\\theta_1**{(0)}$$ to $$0$$. Determine $$\\theta_0**{(1)}$$ and $$\\theta_1**{(1)}$$ (i.e. the guesses for $$\\theta_0$$ and $$\\theta_1$$ after one iteration of gradient descent).",
+    "stepTitle": "Assume we initialize both $$\\theta_0**{(0)}$$ and $$\\theta_1**{(0)}$$ to $$0$$. Determine $$\\theta_0**{(1)}$$ and $$\\theta_1**{(1)}$$ (i.e. the guesses for $$\\theta_0$$ and $$\\theta_1$$ after one iteration of gradient descent).",
+    "stepBody": "$$\\theta_1**{(1)}$$",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$2$$",

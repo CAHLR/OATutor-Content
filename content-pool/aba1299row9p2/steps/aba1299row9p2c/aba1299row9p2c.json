@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Quantitative discrete",
-    "stepBody": "Is the variable type present in Kippa's DataFrame?",
+    "stepTitle": "Is the variable type present in Kippa's DataFrame?",
+    "stepBody": "Quantitative discrete",
     "answerType": "string",
     "variabilization": {},
     "choices": [

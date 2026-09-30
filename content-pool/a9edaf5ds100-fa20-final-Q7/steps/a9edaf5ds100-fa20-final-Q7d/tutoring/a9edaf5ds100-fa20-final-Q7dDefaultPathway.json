@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Standardization",
-        "text": "Standardization is a preprocessing step where we adjust the features of the training data to have a mean of $$0$$ and a variance of $$1$$. This is done to ensure that each feature contributes equally to the model's learning process.",
+        "text": "Standardizing a dataset means adjusting the values so that the mean of each column is $$0$$ and the variance is $$1$$. This process helps in comparing different datasets on a similar scale. Think about how this might affect the model's ability to generalize.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "a9edaf5ds100-fa20-final-Q7d-h1"
         ],
-        "title": "Effect of Standardization on Overfitting",
-        "text": "Overfitting occurs when a model learns the noise in the training data rather than the actual signal. Consider whether standardizing the training data would cause the model to learn noise instead of the underlying patterns.",
+        "title": "Impact of Standardization on Overfitting",
+        "text": "Consider how standardizing the training set might influence the model's performance on unseen data. Does it make the model more flexible or more rigid? How does this relate to overfitting?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-fa20-final-Q7d-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-fa20-final-Q7d-h2"
-        ],
-        "title": "Impact of Standardization on Cross-Validation",
-        "text": "In k-fold cross-validation, the model is trained and validated on different subsets of the data. Standardizing the training data ensures that each fold is on the same scale, which helps in consistent model evaluation.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a9edaf5ds100-fa20-final-Q7d-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "a9edaf5ds100-fa20-final-Q7d-h3"
+            "a9edaf5ds100-fa20-final-Q7d-h2"
         ],
-        "title": "Analyzing the Modification",
-        "text": "Does standardizing the training data after the train-test split introduce any bias or variance that could lead to overfitting?",
+        "title": "Evaluating the Effect of Standardization",
+        "text": "When you standardize the training set, does it change the underlying patterns in the data? Think about whether this process introduces any bias or variance that could lead to overfitting.",
         "variabilization": {},
         "oer": "openai",
         "license": "",

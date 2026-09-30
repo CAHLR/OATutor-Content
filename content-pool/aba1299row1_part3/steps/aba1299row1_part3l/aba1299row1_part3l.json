@@ -4,8 +4,8 @@
         "Increase and Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "LASSO Regularization: Test MSE",
-    "stepBody": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepTitle": "Proposed change: Use LASSO regularization to fit the model, with $$\\lambda$$ > $$0$$. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepBody": "LASSO Regularization: Test MSE",
     "answerType": "string",
     "variabilization": {},
     "choices": [

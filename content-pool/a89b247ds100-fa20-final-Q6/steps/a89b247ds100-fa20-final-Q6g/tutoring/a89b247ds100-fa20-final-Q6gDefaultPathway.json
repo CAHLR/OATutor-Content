@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Pruning",
-        "text": "Pruning a decision tree involves removing branches that have little importance. This can help in simplifying the model.",
+        "text": "Pruning a decision tree involves removing branches that have little importance. Think about how this might affect the overall structure of the tree.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6g-h1"
         ],
-        "title": "Effect on Complexity",
-        "text": "Consider how removing branches from a decision tree might affect the overall complexity of the model.",
+        "title": "Complexity and Pruning",
+        "text": "Consider how the complexity of a decision tree is related to the number of branches it has. What happens to the complexity when you remove some branches?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a89b247ds100-fa20-final-Q6g-h2"
         ],
-        "title": "Impact on Complexity",
-        "text": "When you prune a decision tree, does it increase or decrease the complexity of the model?",
+        "title": "Effect of Pruning on Complexity",
+        "text": "When you prune a decision tree, does it:",
         "variabilization": {},
         "oer": "openai",
         "license": "",

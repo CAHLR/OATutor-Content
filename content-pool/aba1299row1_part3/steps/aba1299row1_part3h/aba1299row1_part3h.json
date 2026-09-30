@@ -4,8 +4,8 @@
         "Increase and Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Removing a Feature: Test MSE",
-    "stepBody": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepTitle": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on MSE on held-out test data?",
+    "stepBody": "Removing a Feature: Test MSE",
     "answerType": "string",
     "variabilization": {},
     "choices": [

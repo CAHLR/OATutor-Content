@@ -3,8 +3,8 @@
         "id": "a1155e4row4j-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Bimodal Distribution",
-        "text": "A bimodal distribution has two different modes or peaks. Consider what kind of plot would help you identify these peaks in the data.",
+        "title": "Understanding Bimodal Distributions",
+        "text": "A bimodal distribution has two distinct peaks. Look at the spread of data points for each shape. Do you see two separate clusters of weights for any shape?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a1155e4row4j-h2",
         "type": "hint",
-        "dependencies": [
-            "a1155e4row4j-h1"
-        ],
-        "title": "Alternative Plot Types",
-        "text": "Think about plots that show the frequency of data points, such as histograms or density plots. These can help identify multiple peaks in the data.",
+        "dependencies": [],
+        "title": "Interpreting Box Plots",
+        "text": "Box plots show the median, quartiles, and potential outliers. They help visualize the spread and central tendency of data. Consider how this information might reveal a bimodal distribution.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,42 +25,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Histogram"
-        ],
-        "dependencies": [],
-        "title": "Identifying Plot Types",
-        "text": "Which plot type is commonly used to show the frequency distribution of a dataset?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Histogram",
-            "Boxplot",
-            "Scatter plot",
-            "Line plot"
-        ]
-    },
-    {
-        "id": "a1155e4row4j-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Two peaks"
+            "FALSE"
         ],
         "dependencies": [
-            "a1155e4row4j-h3"
+            "a1155e4row4j-h1"
         ],
-        "title": "Analyzing Distribution",
-        "text": "What feature of a histogram would indicate a bimodal distribution?",
+        "title": "Analyzing the Plot",
+        "text": "Does the plot show two distinct clusters of nugget weights for any shape?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "One peak",
-            "Two peaks",
-            "No peaks",
-            "Flat distribution"
+            "TRUE",
+            "FALSE"
         ]
     }
 ]

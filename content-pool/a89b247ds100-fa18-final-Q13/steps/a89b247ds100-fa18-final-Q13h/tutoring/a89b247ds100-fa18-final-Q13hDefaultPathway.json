@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Complexity",
-        "text": "Model complexity refers to the number of parameters or the flexibility of a model. A more complex model can fit the training data more closely.",
+        "text": "When we talk about model complexity, we're referring to how flexible a model is in fitting the data. A more complex model can fit the training data very closely, but what might be a downside of this?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "a89b247ds100-fa18-final-Q13h-h2",
         "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa18-final-Q13h-h1"
-        ],
-        "title": "Impact of Model Complexity on Variance",
-        "text": "As model complexity increases, the model can fit the training data more closely, which can lead to higher variance.",
+        "dependencies": [],
+        "title": "Exploring Variance",
+        "text": "Variance in a model refers to how much the model's predictions change when using different training data. Can you think of how model complexity might affect variance?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,23 +23,31 @@
         "id": "a89b247ds100-fa18-final-Q13h-h3",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Sigma Squared",
-        "text": "Sigma squared (\u03c3\u00b2) represents the variance of the irreducible error, which is the noise inherent in the data.",
+        "title": "Bias in Models",
+        "text": "Bias is the error introduced by approximating a real-world problem, which may be complex, by a simplified model. How might decreasing model complexity affect bias?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa18-final-Q13h-h4",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa18-final-Q13h-h3"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Variance decreases"
         ],
-        "title": "Effect of Model Complexity on Sigma Squared",
-        "text": "Model complexity does not affect the irreducible error (\u03c3\u00b2) because this error is inherent in the data and cannot be reduced by changing the model.",
+        "dependencies": [],
+        "title": "Model Complexity and Variance",
+        "text": "If you decrease model complexity, what happens to the variance of the model?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Variance increases",
+            "Variance decreases",
+            "Variance stays the same"
+        ]
     },
     {
         "id": "a89b247ds100-fa18-final-Q13h-h5",
@@ -49,19 +55,38 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "Bias increases"
         ],
-        "dependencies": [
-            "a89b247ds100-fa18-final-Q13h-h4"
-        ],
-        "title": "Evaluating the Statement",
-        "text": "Consider whether decreasing model complexity can reduce the irreducible error (\u03c3\u00b2).",
+        "dependencies": [],
+        "title": "Model Complexity and Bias",
+        "text": "If you decrease model complexity, what happens to the bias of the model?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Bias increases",
+            "Bias decreases",
+            "Bias stays the same"
+        ]
+    },
+    {
+        "id": "a89b247ds100-fa18-final-Q13h-h6",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Balancing bias and variance"
+        ],
+        "dependencies": [],
+        "title": "Understanding the Tradeoff",
+        "text": "What is the tradeoff when adjusting model complexity?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Balancing bias and variance",
+            "Balancing bias and error",
+            "Balancing variance and error"
         ]
     }
 ]

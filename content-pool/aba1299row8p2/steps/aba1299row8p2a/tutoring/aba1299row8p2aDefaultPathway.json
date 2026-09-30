@@ -4,38 +4,33 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Design Matrix",
-        "text": "The design matrix $X$ includes all the features used in the model, plus an additional column for the intercept. How does this affect the number of features?",
+        "text": "The design matrix $X$ includes all the features of the data set plus an additional column for the intercept. If $X$ has $n$ columns, how many of these columns represent the actual features of the data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row8p2a-h2",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row8p2a-h1"
-        ],
-        "title": "Counting the Features",
-        "text": "If the design matrix $X$ has $n$ columns, and one of these columns is for the intercept, how many columns represent the actual features?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row8p2a-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$n-1$$"
         ],
         "dependencies": [
-            "aba1299row8p2a-h2"
+            "aba1299row8p2a-h1"
         ],
-        "title": "Calculating the Number of Features",
-        "text": "Given that the design matrix $X$ has $n$ columns, and one column is for the intercept, calculate the number of features in the original data set.",
+        "title": "Counting the Features",
+        "text": "If the design matrix $X$ has $n$ columns, and one of these columns is for the intercept, how many columns are left for the features?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "> $$n+1$$",
+            "> $$n-1$$",
+            "> $$n-2$$",
+            "$$n$$",
+            "$$n-1$$"
+        ]
     }
 ]

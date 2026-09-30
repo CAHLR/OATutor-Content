@@ -4,8 +4,8 @@
         "Increase"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Removing a Feature: Bias",
-    "stepBody": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepTitle": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepBody": "Removing a Feature: Bias",
     "answerType": "string",
     "variabilization": {},
     "choices": [

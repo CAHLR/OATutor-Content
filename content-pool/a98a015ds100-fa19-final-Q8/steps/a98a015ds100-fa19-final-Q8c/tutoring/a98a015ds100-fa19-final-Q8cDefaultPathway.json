@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Principal Component Matrix",
-        "text": "The principal component matrix $P$ is derived from the original matrix $X$ using singular value decomposition (SVD).",
+        "text": "The principal component matrix, P, is derived from the original matrix X. It involves the singular value decomposition (SVD) of X. Can you recall what the SVD of a matrix involves?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,38 +16,33 @@
             "a98a015ds100-fa19-final-Q8c-h1"
         ],
         "title": "Decomposing the Principal Component Matrix",
-        "text": "When decomposing $P$ into its principal components, we use the formula $P=U_P*Sigma_P*V_P**T$.",
+        "text": "When you decompose the principal component matrix P into its components, you are essentially performing another SVD. What are the components of an SVD?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a98a015ds100-fa19-final-Q8c-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "The $$3$$ by $$3$$ identity matrix, with rows (1,0,0), (0,1,0) and (0,0,1)"
+        ],
         "dependencies": [
             "a98a015ds100-fa19-final-Q8c-h2"
         ],
-        "title": "Understanding $V_P**T$",
-        "text": "In the context of PCA, $V_P**T$ represents the rotation matrix that aligns the principal components with the original axes.",
+        "title": "Identifying $${V_P}^T$$",
+        "text": "Consider the properties of the matrices involved in the SVD. What is the role of $${V_P}^T$$ in the decomposition?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a98a015ds100-fa19-final-Q8c-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$\\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$$"
-        ],
-        "dependencies": [
-            "a98a015ds100-fa19-final-Q8c-h3"
-        ],
-        "title": "Identifying $V_P**T$",
-        "text": "Given that $P$ is already aligned with the principal components, what would $V_P**T$ be?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "The $$5$$ by $$5$$ identity matrix, with rows (1,0,0,0,0), (0,1,0,0,0), (0,0,1,0,0), (0,0,0,1,0) and (0,0,0,0,1)",
+            "The $$3$$ by $$3$$ identity matrix, with rows (1,0,0), (0,1,0) and (0,0,1)",
+            "The $$3$$ by $$3$$ matrix of all zeros, with rows (0,0,0), (0,0,0) and (0,0,0)",
+            "The $$2$$ by $$2$$ identity matrix, with rows $$(1,0)$$ and $$(0,1)$$",
+            "The same matrix as $$V^T$$ obtained from the decomposition of X"
+        ]
     }
 ]

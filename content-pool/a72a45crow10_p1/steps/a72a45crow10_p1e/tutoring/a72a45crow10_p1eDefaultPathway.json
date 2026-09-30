@@ -3,8 +3,8 @@
         "id": "a72a45crow10_p1e-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Sampling Frame",
-        "text": "Consider what the sampling frame is in this scenario. The sampling frame is the list or method used to select individuals from the population. In this case, what is the sampling frame?",
+        "title": "Understanding Sampling Frame",
+        "text": "Think about what a sampling frame is. It's the list or group from which you draw your sample. In this case, who are the TAs selecting from?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a72a45crow10_p1e-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Identifying the Population of Interest",
-        "text": "Think about who the population of interest is. Aditi and Zekai want to know about the chocolate milk preferences of a specific group. Who are they interested in?",
+        "title": "Population of Interest",
+        "text": "Consider who Aditi and Zekai are interested in studying. What characteristics define the population they want to learn about?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -25,17 +25,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "Students attending Data $$100$$ discussion sections"
         ],
-        "dependencies": [],
-        "title": "Analyzing the Sampling Method",
-        "text": "Aditi suggests selecting every fifth student in discussion sections. Is this method likely to include students who are in the population of interest?",
+        "dependencies": [
+            "a72a45crow10_p1e-h1"
+        ],
+        "title": "Sampling Frame and Population",
+        "text": "Which of the following best describes the sampling frame in this scenario?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "All UC Berkeley students",
+            "Students attending Data $$100$$ discussion sections",
+            "All students who drink chocolate milk",
+            "All TAs in Data $$100$$"
         ]
     },
     {
@@ -44,17 +48,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "$$Above-average$$ spenders on chocolate milk"
         ],
-        "dependencies": [],
-        "title": "Evaluating the Sampling Frame",
-        "text": "Does the sampling frame (every fifth student in discussion sections) overlap with the population of interest (above-average spenders)?",
+        "dependencies": [
+            "a72a45crow10_p1e-h2"
+        ],
+        "title": "Population of Interest",
+        "text": "Who are Aditi and Zekai primarily interested in surveying?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "All UC Berkeley students",
+            "$$Above-average$$ spenders on chocolate milk",
+            "Students attending Data $$100$$ discussion sections",
+            "All students who drink chocolate milk"
         ]
     }
 ]

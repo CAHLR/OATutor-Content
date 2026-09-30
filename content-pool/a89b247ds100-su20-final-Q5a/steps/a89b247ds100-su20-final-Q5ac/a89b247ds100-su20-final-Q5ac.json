@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$\\sigma**{2}$$",
-    "stepBody": "Is the quantity fixed in our true model to generate $$X$$ and $$Y$$",
+    "stepTitle": "Is the quantity fixed in our true model to generate $$X$$ and $$Y$$",
+    "stepBody": "$$\\sigma**{2}$$",
     "answerType": "string",
     "variabilization": {},
     "choices": [

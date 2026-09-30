@@ -4,8 +4,8 @@
         "Qualitative ordinal"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The most representative variable type for the column ranking is:",
-    "stepBody": "For each column of fruit, choose the most representative variable type.",
+    "stepTitle": "For each column of fruit, choose the most representative variable type.",
+    "stepBody": "The most representative variable type for the column ranking is:",
     "answerType": "string",
     "variabilization": {},
     "choices": [

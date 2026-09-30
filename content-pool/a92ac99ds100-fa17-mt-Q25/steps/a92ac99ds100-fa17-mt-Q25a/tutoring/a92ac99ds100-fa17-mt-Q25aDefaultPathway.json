@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Confidence Intervals",
-        "text": "A confidence interval gives a range of values that is likely to contain the population parameter with a certain level of confidence. In this case, a 95% confidence interval means that if we were to take many samples and construct a confidence interval from each sample, we expect 95% of those intervals to contain the true population mean.",
+        "text": "A 95% confidence interval means that if we were to take many samples and construct a confidence interval for each one, about 95% of those intervals would contain the true population mean, not the sample mean.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a92ac99ds100-fa17-mt-Q25a-h1"
         ],
         "title": "Sample Mean vs. Population Mean",
-        "text": "The statement refers to the sample mean, not the population mean. Remember, a confidence interval is constructed to estimate the population mean, not the sample mean.",
+        "text": "Remember, the sample mean is an estimate of the population mean. Confidence intervals are used to estimate where the true population mean lies, not the sample mean.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "a92ac99ds100-fa17-mt-Q25a-h2"
         ],
         "title": "Clarifying the Statement",
-        "text": "The statement suggests that $$95$$ out of $$100$$ confidence intervals will include the sample mean. Is this true or false?",
+        "text": "What does a 95% confidence interval actually tell us about the sample mean?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

@@ -4,37 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Ordinary Least Squares",
-        "text": "Ordinary Least Squares (OLS) is a method for estimating the parameters in a linear regression model. It minimizes the sum of the squared differences between the observed and predicted values.",
+        "text": "The ordinary least squares (OLS) method is used to estimate the parameters in a linear regression model. It works by minimizing the sum of the squared differences between the observed values and the values predicted by the model. This is known as minimizing the mean squared error (MSE).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row9p2h-h2",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row9p2h-h1"
-        ],
-        "title": "Mean Squared Error (MSE)",
-        "text": "Mean Squared Error is a measure of the average of the squares of the errors. It is used to evaluate the accuracy of a model.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row9p2h-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row9p2h-h2"
-        ],
-        "title": "OLS and MSE Relationship",
-        "text": "The OLS estimate minimizes the Mean Squared Error (MSE) by finding the best-fitting line through the data points.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aba1299row9p2h-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "aba1299row9p2h-h3"
+            "aba1299row9p2h-h1"
         ],
-        "title": "Conclusion about OLS and MSE",
-        "text": "Based on the relationship between OLS and MSE, does the OLS estimate minimize the MSE?",
+        "title": "What Does Minimizing MSE Mean?",
+        "text": "When we say that OLS minimizes the mean squared error, what does that imply about the relationship between the observed and predicted values?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -53,5 +29,17 @@
             "TRUE",
             "FALSE"
         ]
+    },
+    {
+        "id": "aba1299row9p2h-h3",
+        "type": "hint",
+        "dependencies": [
+            "aba1299row9p2h-h1"
+        ],
+        "title": "Role of MSE in Model Accuracy",
+        "text": "Minimizing the mean squared error (MSE) is crucial because it directly affects the accuracy of the model. A lower MSE indicates that the model's predictions are closer to the actual data points.",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

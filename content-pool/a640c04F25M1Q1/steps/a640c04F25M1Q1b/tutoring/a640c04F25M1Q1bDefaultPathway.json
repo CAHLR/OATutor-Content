@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding df.loc",
-        "text": "The df.loc method is used to access a group of rows and columns by labels or a boolean array.",
+        "text": "The `df.loc` method is used to access a group of rows and columns by labels or a boolean array. In this case, 'b' is a column label. What does `df.loc['b', :]` mean in this context?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a640c04F25M1Q1b-h1"
         ],
-        "title": "Accessing Rows with df.loc",
-        "text": "When using df.loc['b', :], you are trying to access the row with the label 'b'.",
+        "title": "Accessing DataFrame Elements",
+        "text": "When you use `df.loc['b', :]`, you're trying to access a row with the label 'b'. Does the DataFrame have a row labeled 'b'?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,40 +27,32 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "No"
-        ],
-        "dependencies": [],
-        "title": "Checking Row Labels",
-        "text": "Does the DataFrame have a row labeled 'b'?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Yes",
-            "No"
-        ]
-    },
-    {
-        "id": "a640c04F25M1Q1b-h4",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
             "NA"
         ],
         "dependencies": [
-            "a640c04F25M1Q1b-h3"
+            "a640c04F25M1Q1b-h2"
         ],
-        "title": "Result of Accessing Non-existent Row",
-        "text": "What happens if you try to access a row that doesn't exist in the DataFrame?",
+        "title": "Checking for Errors",
+        "text": "Given the DataFrame, does it contain a row labeled 'b'?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
             "NA",
-            "Returns NA",
-            "Returns a value",
-            "Throws an error"
+            "No",
+            "Yes"
         ]
+    },
+    {
+        "id": "a640c04F25M1Q1b-h4",
+        "type": "hint",
+        "dependencies": [
+            "a640c04F25M1Q1b-h3"
+        ],
+        "title": "Understanding the Error",
+        "text": "If you try to access a row that doesn't exist, what kind of result or error might you expect?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

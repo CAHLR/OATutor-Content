@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Gradient Descent",
-        "text": "Gradient descent is an optimization algorithm used to minimize the loss function by iteratively moving towards the steepest descent as defined by the negative of the gradient.",
+        "text": "When using stochastic gradient descent, the estimated gradient is calculated using a subset of the data. How might this affect the accuracy of the gradient compared to using the entire dataset?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,25 +16,13 @@
             "a9edaf5ds100-su25-final-Q2di-h1"
         ],
         "title": "True Gradient vs. Estimated Gradient",
-        "text": "The true gradient is the exact derivative of the loss function with respect to the parameters, while the estimated gradient is an approximation based on a subset of data.",
+        "text": "Consider how the true gradient is calculated. It involves the entire dataset, while the estimated gradient in stochastic gradient descent uses only a sample. What implications does this have for their equality?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a9edaf5ds100-su25-final-Q2di-h3",
-        "type": "hint",
-        "dependencies": [
-            "a9edaf5ds100-su25-final-Q2di-h2"
-        ],
-        "title": "Stochastic Gradient Descent (SGD)",
-        "text": "SGD uses a single or a few training examples to compute the gradient, which introduces noise and makes it an approximation of the true gradient.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a9edaf5ds100-su25-final-Q2di-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,16 +30,19 @@
             "FALSE"
         ],
         "dependencies": [
-            "a9edaf5ds100-su25-final-Q2di-h3"
+            "a9edaf5ds100-su25-final-Q2di-h2"
         ],
-        "title": "Analyzing the Statement",
-        "text": "Consider whether the average of the estimated gradients over one epoch in SGD equals the true gradient at the initial parameter values.",
+        "title": "Comparing Gradients",
+        "text": "Which of the following statements is true about the estimated gradient in stochastic gradient descent?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "FALSE",
+            "The estimated gradient is always equal to the true gradient",
+            "The estimated gradient is always greater than the true gradient",
+            "The estimated gradient is always less than the true gradient",
+            "The estimated gradient is an approximation of the true gradient"
         ]
     }
 ]

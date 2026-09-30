@@ -4,8 +4,8 @@
         "Decrease"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Adding a Squared Feature: Bias",
-    "stepBody": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepTitle": "Proposed change: Add one new feature that is the square of an existing feature. What possible effect(s) can this have on model $${bias}^2$$?",
+    "stepBody": "Adding a Squared Feature: Bias",
     "answerType": "string",
     "variabilization": {},
     "choices": [

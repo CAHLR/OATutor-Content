@@ -4,8 +4,8 @@
         "Increase"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Removing a Feature: Training MSE",
-    "stepBody": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on MSE on training data?",
+    "stepTitle": "Proposed change: Remove one feature from Model A. What possible effect(s) can this have on MSE on training data?",
+    "stepBody": "Removing a Feature: Training MSE",
     "answerType": "string",
     "variabilization": {},
     "choices": [

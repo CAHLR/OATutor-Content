@@ -3,8 +3,8 @@
         "id": "aba1299row4c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding OLS",
-        "text": "The Ordinary Least Squares (OLS) method is used to estimate the parameters in a linear regression model. It minimizes the sum of the squared differences between the observed and predicted values.",
+        "title": "Understanding OLS Solutions",
+        "text": "When you have more features than observations, think about what happens to the system of equations you're trying to solve. Can you always find a unique solution?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,26 +12,33 @@
     {
         "id": "aba1299row4c-h2",
         "type": "hint",
-        "dependencies": [
-            "aba1299row4c-h1"
-        ],
-        "title": "Number of Parameters vs. Observations",
-        "text": "In a linear regression model, having more parameters than observations can lead to overfitting and a lack of a unique solution. Consider the relationship between the number of observations and parameters.",
+        "dependencies": [],
+        "title": "Features vs. Observations",
+        "text": "Consider the relationship between the number of features and the number of observations. What happens if the number of features exceeds the number of observations?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aba1299row4c-h3",
-        "type": "hint",
-        "dependencies": [
-            "aba1299row4c-h2"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "FALSE"
         ],
-        "title": "Unique Solution in OLS",
-        "text": "For a unique OLS solution, the number of observations should be greater than the number of parameters. This ensures that the matrix used in calculations is invertible.",
+        "dependencies": [
+            "aba1299row4c-h1"
+        ],
+        "title": "Linear Dependence",
+        "text": "If you have more features than observations, what can you say about the linear dependence of the features?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "aba1299row4c-h4",
@@ -42,10 +49,10 @@
             "FALSE"
         ],
         "dependencies": [
-            "aba1299row4c-h3"
+            "aba1299row4c-h2"
         ],
-        "title": "Checking the Condition",
-        "text": "Given that there are $$30$$ observations and $$30$$ parameters (including the intercept), does this satisfy the condition for a unique OLS solution?",
+        "title": "Unique Solutions in OLS",
+        "text": "In an OLS model, when the number of features exceeds the number of observations, is it possible to have a unique solution?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

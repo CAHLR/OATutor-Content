@@ -3,51 +3,34 @@
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Task",
-        "text": "You need to add a column $$`has_{feat}`$$ to the DataFrame $$`song_{sample}`$$. This column should indicate whether the artist string contains the substring \"feat.\"",
+        "title": "Understanding the $$'has_{feat'}$$ Column",
+        "text": "To create the $$'has_{feat'}$$ column, you need to check if the 'artist' column contains the substring 'feat.'. If it does, the value should be 1; otherwise, it should be $$0$$. Think about how you can use string operations to achieve this.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h1"
-        ],
-        "title": "Using String Methods",
-        "text": "Consider using the `str.contains()` method to check if the artist string contains \"feat.\".",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h2"
-        ],
-        "title": "Converting Boolean to Integer",
-        "text": "The `str.contains()` method returns a boolean value. You can convert this to an integer using `astype(int)`.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "song_sample[\"artist\"].str.contains(\"feat.\").astype(int)"
         ],
         "dependencies": [
-            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h3"
+            "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da-h1"
         ],
-        "title": "Constructing the Expression",
-        "text": "Write the expression to create the $$`has_{feat}`$$ column using `str.contains()` and `astype(int)`.",
+        "title": "Choosing the Right String Method",
+        "text": "Which string method would you use to check if a substring exists within a string?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "song_sample[\"artist\"].str.contains(\"feat.\").astype(int)",
+            "song_sample[\"artist\"].str.match(\"feat.\").astype(int)",
+            "song_sample[\"artist\"].str.startswith(\"feat.\").astype(int)",
+            "song_sample[\"artist\"].str.count(\"feat.\").astype(int)",
+            "song_sample[\"artist\"].str.find(\"feat.\").astype(int)"
+        ]
     }
 ]

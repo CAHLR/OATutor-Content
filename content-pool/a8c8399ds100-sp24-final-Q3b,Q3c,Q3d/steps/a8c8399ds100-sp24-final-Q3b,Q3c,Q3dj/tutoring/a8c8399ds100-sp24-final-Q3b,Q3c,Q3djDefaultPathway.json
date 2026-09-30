@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Linear Models",
-        "text": "A linear model is linear in terms of the parameters (coefficients) that we are estimating. This means that the model should be a linear combination of the parameters.",
+        "text": "A model is considered linear with respect to its parameters if the parameters appear linearly in the equation. This means that the parameters are not multiplied together, raised to a power, or involved in any non-linear functions like exponentials or logarithms.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dj-h1"
         ],
-        "title": "Identifying Linear Models",
-        "text": "Check if the model can be expressed as a linear combination of the parameters. For example, $$y=\\theta_0+\\theta_1 {x_1}^2$$ is linear in theta because it is a linear combination of $$\\theta_0$$ and $$\\theta_1$$.",
+        "title": "Analyzing the Given Model",
+        "text": "In the model \\( \\hat{y}=\\theta_0+\\theta_1x_1**{2} \\), observe how the parameters \\( $$\\theta_0$$ \\) and \\( $$\\theta_1$$ \\) are used. Are they involved in any non-linear operations?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dj-h2"
         ],
-        "title": "Analyzing the Given Model",
-        "text": "Is the model $$y=\\theta_0+\\theta_1 {x_1}^2$$ linear with respect to theta?",
+        "title": "Identifying Linear Models",
+        "text": "Is the model \\( \\hat{y}=\\theta_0+\\theta_1x_1**{2} \\) linear with respect to \\( $$\\theta$$ \\)?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

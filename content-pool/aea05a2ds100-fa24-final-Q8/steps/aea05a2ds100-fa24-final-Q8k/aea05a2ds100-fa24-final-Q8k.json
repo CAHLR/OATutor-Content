@@ -4,8 +4,8 @@
         "TRUE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "The elbow method can be used to choose a value for $$k$$ in k-Means clustering.",
-    "stepBody": "Evaluate the following statements regarding assessments of clustering outcomes.",
+    "stepTitle": "Evaluate the following statements regarding assessments of clustering outcomes.",
+    "stepBody": "The elbow method can be used to choose a value for $$k$$ in k-Means clustering.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

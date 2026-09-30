@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Regularization",
-        "text": "Regularization is a technique used to prevent overfitting in models by adding a penalty term to the loss function. The two most common types are L1 (Lasso) and L2 (Ridge) regularization.",
+        "text": "Regularization helps prevent overfitting by adding a penalty to the model's complexity. L1 regularization (Lasso) and L2 regularization (Ridge) apply different penalties. Can you think about how these penalties might affect the choice of the lambda hyperparameter?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,23 +15,33 @@
         "dependencies": [
             "abf3684ds100-su25-final-Q2m-h1"
         ],
-        "title": "L1 vs L2 Regularization",
-        "text": "L1 regularization adds the absolute value of the coefficients as a penalty term, while L2 regularization adds the square of the coefficients.",
+        "title": "Exploring Lambda's Role",
+        "text": "The lambda hyperparameter controls the strength of the penalty in regularization. A larger lambda means a stronger penalty. Consider how this might influence the model's coefficients differently in L1 and L2 regularization.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-su25-final-Q2m-h3",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "L1 regularization can lead to sparse solutions, while L2 regularization tends to shrink coefficients evenly."
+        ],
         "dependencies": [
             "abf3684ds100-su25-final-Q2m-h2"
         ],
-        "title": "Effect of Lambda on Regularization",
-        "text": "The lambda (\u03bb) hyperparameter controls the strength of the penalty term in regularization. A higher \u03bb increases the penalty, leading to simpler models.",
+        "title": "Comparing L1 and L2 Regularization",
+        "text": "Which of the following statements is true about L1 and L2 regularization?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "L1 regularization can lead to sparse solutions, while L2 regularization tends to shrink coefficients evenly.",
+            "L1 and L2 regularization always result in the same model coefficients.",
+            "L1 regularization is always better than L2 regularization."
+        ]
     },
     {
         "id": "abf3684ds100-su25-final-Q2m-h4",
@@ -39,31 +49,10 @@
         "dependencies": [
             "abf3684ds100-su25-final-Q2m-h3"
         ],
-        "title": "Optimal Lambda for L1 and L2",
-        "text": "The optimal \u03bb for L1 and L2 regularization may differ because they penalize the coefficients differently. L1 tends to produce sparse models, while L2 tends to shrink coefficients evenly.",
+        "title": "Lambda's Consistency",
+        "text": "Think about whether the optimal lambda for minimizing error is influenced by the type of regularization used. Does the penalty type affect the model's performance on the validation dataset?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "abf3684ds100-su25-final-Q2m-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "FALSE"
-        ],
-        "dependencies": [
-            "abf3684ds100-su25-final-Q2m-h4"
-        ],
-        "title": "Evaluating the Statement",
-        "text": "Given the differences in how L1 and L2 regularization work, is it true that the optimal \u03bb is always the same for both?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "TRUE",
-            "FALSE"
-        ]
     }
 ]

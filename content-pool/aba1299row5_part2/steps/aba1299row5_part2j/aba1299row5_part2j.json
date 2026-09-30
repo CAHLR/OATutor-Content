@@ -4,8 +4,8 @@
         "$$X^T$$ X must be invertible."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Condition for a Unique OLS Solution",
-    "stepBody": "Which of the following best explains the condition required for the OLS model to produce a unique solution?",
+    "stepTitle": "Which of the following best explains the condition required for the OLS model to produce a unique solution?",
+    "stepBody": "Condition for a Unique OLS Solution",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$X^T$$ X must be invertible.",

@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Stochastic gradient descent is computationally more expensive per update than batch gradient descent.",
-    "stepBody": "Evaluate the following statements about the advantages of using stochastic gradient descent on a convex loss function.",
+    "stepTitle": "Evaluate the following statements about the advantages of using stochastic gradient descent on a convex loss function.",
+    "stepBody": "Stochastic gradient descent is computationally more expensive per update than batch gradient descent.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

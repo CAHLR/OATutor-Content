@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Train the model with regularization instead.",
-    "stepBody": "Can the above suggestion reduce model bias squared?",
+    "stepTitle": "Can the above suggestion reduce model bias squared?",
+    "stepBody": "Train the model with regularization instead.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Complete Linkage",
-        "text": "Complete linkage clustering considers the maximum distance between elements of two clusters. This means that the distance between two clusters is defined by the distance between the farthest pair of elements, one from each cluster.",
+        "text": "Complete linkage in hierarchical clustering considers the maximum distance between elements in two clusters. Think about how this might affect which teams are grouped together.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,11 +12,9 @@
     {
         "id": "aea05a2ds100-fa24-final-Q8j-h2",
         "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-fa24-final-Q8j-h1"
-        ],
+        "dependencies": [],
         "title": "Calculating Distances",
-        "text": "Calculate the Euclidean distance between Team O-Ski and the other teams. Use the formula: distance $$=$$ $$\\sqrt{\\left(x2-x1\\right)^2+\\left(y2-y1\\right)^2}$$.",
+        "text": "To determine which teams cluster together, calculate the Euclidean distance between Team O-Ski and the other teams. Remember, the formula for distance between two points (x1,y1) and (x2,y2) is $$\\sqrt{\\left(x2-x1\\right)^2+\\left(y2-y1\\right)^2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,10 +31,17 @@
             "aea05a2ds100-fa24-final-Q8j-h2"
         ],
         "title": "Distance from Team O-Ski to Team SantaQlaus",
-        "text": "Calculate the distance between Team O-Ski $$(1,1)$$ and Team SantaQlaus $$(3,1)$$.",
+        "text": "What is the Euclidean distance between Team O-Ski $$(1,1)$$ and Team SantaQlaus $$(3,1)$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$2$$",
+            "$$1$$",
+            "$$2$$",
+            "$$3$$",
+            "$$4$$"
+        ]
     },
     {
         "id": "aea05a2ds100-fa24-final-Q8j-h4",
@@ -50,10 +55,17 @@
             "aea05a2ds100-fa24-final-Q8j-h2"
         ],
         "title": "Distance from Team O-Ski to Team Pandas",
-        "text": "Calculate the distance between Team O-Ski $$(1,1)$$ and Team Pandas $$(5,4)$$.",
+        "text": "What is the Euclidean distance between Team O-Ski $$(1,1)$$ and Team Pandas $$(5,4)$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$5$$",
+            "$$3$$",
+            "$$4$$",
+            "$$5$$",
+            "$$6$$"
+        ]
     },
     {
         "id": "aea05a2ds100-fa24-final-Q8j-h5",
@@ -67,43 +79,28 @@
             "aea05a2ds100-fa24-final-Q8j-h2"
         ],
         "title": "Distance from Team O-Ski to Team Ice-berk",
-        "text": "Calculate the distance between Team O-Ski $$(1,1)$$ and Team Ice-berk $$(1,5)$$.",
+        "text": "What is the Euclidean distance between Team O-Ski $$(1,1)$$ and Team Ice-berk $$(1,5)$$?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$4$$",
+            "$$2$$",
+            "$$3$$",
+            "$$4$$",
+            "$$5$$"
+        ]
     },
     {
         "id": "aea05a2ds100-fa24-final-Q8j-h6",
         "type": "hint",
         "dependencies": [
-            "aea05a2ds100-fa24-final-Q8j-h5"
+            "aea05a2ds100-fa24-final-Q8j-h3"
         ],
-        "title": "Forming Clusters",
-        "text": "Based on the distances calculated, determine which teams are closest to Team O-Ski using complete linkage.",
+        "title": "Comparing Distances",
+        "text": "Now that you have the distances, consider which team is closest to Team O-Ski. This will help you determine which teams are likely to cluster together first.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "aea05a2ds100-fa24-final-Q8j-h7",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Team SantaQlaus"
-        ],
-        "dependencies": [
-            "aea05a2ds100-fa24-final-Q8j-h6"
-        ],
-        "title": "Final Clustering Decision",
-        "text": "Which team is in the same cluster as Team O-Ski when there are two clusters left?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "Team SantaQlaus",
-            "Team Pandas",
-            "Team $$Ice-berk$$"
-        ]
     }
 ]

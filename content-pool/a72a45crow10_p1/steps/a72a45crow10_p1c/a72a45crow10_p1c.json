@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "This sampling scheme is a probability sample whereby everyone in the sampling frame has the same probability of ending up in the sample.",
-    "stepBody": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepTitle": "Aditi suggests that all TAs in Data $$100$$ select every fifth student in the order that they show up to discussion sections this week and ask them for their favorite chocolate milk brand.",
+    "stepBody": "This sampling scheme is a probability sample whereby everyone in the sampling frame has the same probability of ending up in the sample.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

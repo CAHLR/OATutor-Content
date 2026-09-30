@@ -4,37 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Model Variance",
-        "text": "Model variance refers to how much the model's predictions would change if we used a different training dataset. It is related to the model's complexity.",
+        "text": "When you remove a feature from a model, think about how it affects the model's flexibility. A less flexible model might have less variance because it doesn't fit the training data as closely. Consider how this change might impact the model's ability to adapt to new data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-fa25-mt2-Q6l-h2",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6l-h1"
-        ],
-        "title": "Effect of Removing a Feature",
-        "text": "When you remove a feature from a model, you are effectively reducing the model's complexity. This can have various effects on the model's performance metrics.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-fa25-mt2-Q6l-h3",
-        "type": "hint",
-        "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6l-h2"
-        ],
-        "title": "Variance and Model Complexity",
-        "text": "Reducing the number of features typically decreases the model's variance because the model becomes less complex and less sensitive to fluctuations in the training data.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a89b247ds100-fa25-mt2-Q6l-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +18,10 @@
             "Decrease"
         ],
         "dependencies": [
-            "a89b247ds100-fa25-mt2-Q6l-h3"
+            "a89b247ds100-fa25-mt2-Q6l-h1"
         ],
-        "title": "Possible Effects on Variance",
-        "text": "Given that removing a feature reduces model complexity, what is a possible effect on model variance?",
+        "title": "Effect on Model Variance",
+        "text": "What happens to the model variance when you remove a feature?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

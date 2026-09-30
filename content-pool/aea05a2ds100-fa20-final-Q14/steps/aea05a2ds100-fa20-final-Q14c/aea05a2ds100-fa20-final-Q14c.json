@@ -4,8 +4,8 @@
         "FALSE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Hadoop, Spark, and Modin were all created at Berkeley.",
-    "stepBody": "True or False:",
+    "stepTitle": "True or False:",
+    "stepBody": "Hadoop, Spark, and Modin were all created at Berkeley.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -4,8 +4,8 @@
         "A kernel function has an area under the curve of $$1$$."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Select the correct statement about kernel functions in a KDE process.",
-    "stepBody": "Answer the following questions about Kernel Density Estimation (KDE).",
+    "stepTitle": "Answer the following questions about Kernel Density Estimation (KDE).",
+    "stepBody": "Select the correct statement about kernel functions in a KDE process.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "A kernel function has an area under the curve of $$1$$.",

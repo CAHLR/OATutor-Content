@@ -4,32 +4,24 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Code Structure",
-        "text": "The code is structured to group the data by activity and calculate the mode for each group. This mode is then used to fill in missing values in the 'hour\\_of\\_visit' column.",
+        "text": "The code is using the `groupby` function to group the data by a specific column. This is followed by an aggregation function to find the mode of $$`hour_{of,visit}`$$ for each activity category. Think about which column is used to categorize the activities.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1155e4row7_p1c-h2",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Identifying Missing Values",
-        "text": "The function used to identify missing values in a DataFrame is crucial here. It helps in selecting the rows where 'hour\\_of\\_visit' is missing.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1c-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
             "isna"
         ],
-        "dependencies": [],
-        "title": "Filling in Blank C",
-        "text": "What function is used to check for missing values in a DataFrame?",
+        "dependencies": [
+            "a1155e4row7_p1c-h1"
+        ],
+        "title": "Identifying Missing Values",
+        "text": "Which function is used to identify missing values in a DataFrame?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -42,71 +34,13 @@
         ]
     },
     {
-        "id": "a1155e4row7_p1c-h4",
+        "id": "a1155e4row7_p1c-h3",
         "type": "hint",
-        "dependencies": [],
-        "title": "Using Groupby Correctly",
-        "text": "The 'groupby' function is used to group the DataFrame by a specific column. In this case, it should be grouped by 'activity'.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1c-h5",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "activity"
+        "dependencies": [
+            "a1155e4row7_p1c-h2"
         ],
-        "dependencies": [],
-        "title": "Filling in Blank A",
-        "text": "Which column should the DataFrame be grouped by to calculate the mode for each activity?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "visitor\\_id",
-            "hour\\_of\\_visit",
-            "activity"
-        ]
-    },
-    {
-        "id": "a1155e4row7_p1c-h6",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Locating Missing Values",
-        "text": "The 'loc' function is used to access a group of rows and columns by labels or a boolean array. It helps in selecting the rows where 'hour\\_of\\_visit' is missing.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a1155e4row7_p1c-h7",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "hour\\_of\\_visit"
-        ],
-        "dependencies": [],
-        "title": "Filling in Blank B",
-        "text": "Which column's missing values are we trying to locate and fill?",
-        "variabilization": {},
-        "oer": "openai",
-        "license": "",
-        "choices": [
-            "visitor\\_id",
-            "hour\\_of\\_visit",
-            "activity"
-        ]
-    },
-    {
-        "id": "a1155e4row7_p1c-h8",
-        "type": "hint",
-        "dependencies": [],
-        "title": "Assigning Replacement Values",
-        "text": "The replacement values are assigned to the missing entries in 'hour\\_of\\_visit' based on the mode of each activity group.",
+        "title": "Using the Mode for Imputation",
+        "text": "The mode is the most frequently occurring value in a dataset. In this context, it is used to fill in missing $$`hour_{of,visit}`$$ values based on the activity type. Consider how the mode is calculated for each group.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

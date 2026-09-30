@@ -3,23 +3,32 @@
         "id": "a89b247ds100-sp25-final-Q2ba-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Model Complexity",
-        "text": "When you reduce the number of features in a model, what happens to the model's complexity?",
+        "title": "Understanding Training and Validation Error",
+        "text": "When you reduce the number of features in a model, it often becomes simpler. A simpler model might not fit the training data as closely, which can increase the training error. However, it might generalize better to new data, potentially reducing the validation error. Think about why a simpler model might perform better on unseen data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a89b247ds100-sp25-final-Q2ba-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Less complex"
+        ],
         "dependencies": [
             "a89b247ds100-sp25-final-Q2ba-h1"
         ],
-        "title": "Training Error vs. Validation Error",
-        "text": "Consider how training error and validation error are affected by model complexity. What does an increase in training error and a decrease in validation error suggest?",
+        "title": "Feature Selection Impact",
+        "text": "Consider the impact of reducing the number of features on the model's complexity. Does reducing features make the model more or less complex?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "More complex",
+            "Less complex"
+        ]
     },
     {
         "id": "a89b247ds100-sp25-final-Q2ba-h3",
@@ -28,7 +37,7 @@
             "a89b247ds100-sp25-final-Q2ba-h2"
         ],
         "title": "Bias-Variance Tradeoff",
-        "text": "Think about the bias-variance tradeoff. How does reducing the number of features affect bias and variance?",
+        "text": "Reducing the number of features can affect the bias and variance of a model. A model with fewer features might have higher bias but lower variance. How does this tradeoff relate to training and validation errors?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,19 +48,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "The model's variance is lower"
         ],
         "dependencies": [
             "a89b247ds100-sp25-final-Q2ba-h3"
         ],
-        "title": "Analyzing the Effects of Feature Reduction",
-        "text": "Reducing the number of features typically increases bias and decreases variance. This can lead to an increase in training error but a decrease in validation error. Is this consistent with the observations?",
+        "title": "Observational Variance",
+        "text": "If the validation error decreases when reducing features, what does this suggest about the model's variance?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The model's variance is higher",
+            "The model's variance is lower"
         ]
     }
 ]

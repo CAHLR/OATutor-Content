@@ -4,42 +4,63 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Scatterplot",
-        "text": "Observe the scatterplot carefully. Notice the pattern of the data points. Does it resemble any common function shape, such as linear, quadratic, or absolute value?",
+        "text": "Look at the pattern of the data points in the scatterplot. Consider how the function $$f(x)=x^2$$ might affect the shape of the data when applied. Does it seem like a quadratic relationship could fit the data?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-sp19-final-Q3g-h2",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Parabola"
+        ],
         "dependencies": [
             "a8c8399ds100-sp19-final-Q3g-h1"
         ],
-        "title": "Quadratic Function",
-        "text": "A quadratic function has the form of a parabola. Check if the data points can be fitted by a parabola, which would suggest a quadratic relationship.",
+        "title": "Analyzing Quadratic Fit",
+        "text": "If $$f(x)=x^2$$, what kind of curve would you expect the data to follow?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Line",
+            "Parabola",
+            "Exponential",
+            "None of these"
+        ]
+    },
+    {
+        "id": "a8c8399ds100-sp19-final-Q3g-h3",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Checking for Symmetry",
+        "text": "Consider whether the data points are symmetric around a vertical line. This can help determine if a quadratic function like $$f(x)=x^2$$ is appropriate.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
-        "id": "a8c8399ds100-sp19-final-Q3g-h3",
+        "id": "a8c8399ds100-sp19-final-Q3g-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "No"
         ],
         "dependencies": [
-            "a8c8399ds100-sp19-final-Q3g-h2"
+            "a8c8399ds100-sp19-final-Q3g-h3"
         ],
-        "title": "Checking for Quadratic Fit",
-        "text": "Does the scatterplot resemble a parabolic shape, indicating a quadratic relationship?",
+        "title": "Symmetry in Data",
+        "text": "Do the data points appear symmetric around a vertical line?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Yes",
+            "No"
         ]
     }
 ]

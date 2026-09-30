@@ -3,8 +3,8 @@
         "id": "aba1299row5_part2k-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding OLS Prediction Vector",
-        "text": "The OLS prediction vector, denoted as hat{Y}, is a key concept in linear regression. It represents the predicted values of the dependent variable based on the independent variables.",
+        "title": "Understanding Orthogonal Projection",
+        "text": "Think about what it means for a vector to be projected onto a space. How does this relate to the concept of orthogonality?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aba1299row5_part2k-h1"
         ],
-        "title": "Orthogonal Projection",
-        "text": "In the context of linear regression, the orthogonal projection of a vector Y onto the span of another vector X is a way to find the closest point in the span of X to the vector Y.",
+        "title": "Span of X",
+        "text": "Consider what the 'span of X' refers to in the context of vectors and matrices. How does this span relate to the vectors in X?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "aba1299row5_part2k-h2"
         ],
-        "title": "Identifying the Correct Interpretation",
-        "text": "Consider the relationship between the vectors Y and X in the context of OLS. What does it mean for hat{Y} to be the orthogonal projection of Y onto the span of X?",
+        "title": "Choosing the Correct Interpretation",
+        "text": "Which of the following best describes the geometric interpretation of the OLS prediction vector hat{Y}?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

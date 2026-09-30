@@ -3,26 +3,14 @@
         "id": "a8c8399ds100-su20-final-Q4h-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding the Equations",
-        "text": "The equations represent the optimization problems for finding the coefficients in linear regression. The first equation is for the uncentered data, and the second is for the mean-centered data.",
+        "title": "Understanding Mean of Fitted Values",
+        "text": "In un-regularized linear regression with an intercept, the mean of the fitted values is equal to the mean of the observed values. This is because the intercept term adjusts to ensure this equality.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-su20-final-Q4h-h2",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-su20-final-Q4h-h1"
-        ],
-        "title": "Mean of Fitted Values",
-        "text": "In ordinary least squares regression with an intercept, the mean of the fitted values is equal to the mean of the observed values. This is a property of the regression model.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-su20-final-Q4h-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a8c8399ds100-su20-final-Q4h-h2"
+            "a8c8399ds100-su20-final-Q4h-h1"
         ],
-        "title": "Checking the Property",
-        "text": "Does the property that the mean of the fitted values equals the mean of the observed values hold for both centered and uncentered data?",
+        "title": "Checking the Mean Equality",
+        "text": "Why does the intercept term in linear regression ensure that the mean of the fitted values equals the mean of the observed values?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

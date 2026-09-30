@@ -4,8 +4,8 @@
         "$$h_i=\\log(x_i)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Choosing a Humidity Transformation",
-    "stepBody": "Sarah observes a non-linear relationship between humidity and $$\\text{num\\_students},$$ as shown below: Let $$x_{i}$$ represent humidity for the i-th data point. Let $$h_{i}$$ represent the transformed value of the humidity level used in the model. Which of the following transformations should Sarah apply to linearize the data?##figure1.gif## ",
+    "stepTitle": "Sarah observes a non-linear relationship between humidity and $$\\text{num\\_students},$$ as shown below: Let $$x_{i}$$ represent humidity for the i-th data point. Let $$h_{i}$$ represent the transformed value of the humidity level used in the model. Which of the following transformations should Sarah apply to linearize the data?",
+    "stepBody": "Choosing a Humidity Transformation##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},
     "choices": [

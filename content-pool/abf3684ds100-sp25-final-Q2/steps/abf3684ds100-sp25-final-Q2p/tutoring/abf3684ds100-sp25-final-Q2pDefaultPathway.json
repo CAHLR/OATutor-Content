@@ -3,8 +3,8 @@
         "id": "abf3684ds100-sp25-final-Q2p-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding Gradient Descent",
-        "text": "Gradient Descent (GD) is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent direction. The learning rate determines the size of the steps taken towards the minimum.",
+        "title": "Understanding Learning Rate",
+        "text": "The learning rate in gradient descent determines the size of the steps taken towards the minimum. If the learning rate is too small, convergence can be slow. If it's too large, it might overshoot the minimum.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,26 +15,14 @@
         "dependencies": [
             "abf3684ds100-sp25-final-Q2p-h1"
         ],
-        "title": "Effect of Increasing Learning Rate",
-        "text": "Increasing the learning rate in Gradient Descent can lead to larger steps. This might cause the algorithm to converge faster, but it also risks overshooting the minimum.",
+        "title": "Effects of Increasing Learning Rate",
+        "text": "Increasing the learning rate can lead to faster convergence, but it can also cause the algorithm to overshoot the minimum or even diverge. Consider how this affects the path on the graph.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "abf3684ds100-sp25-final-Q2p-h3",
-        "type": "hint",
-        "dependencies": [
-            "abf3684ds100-sp25-final-Q2p-h2"
-        ],
-        "title": "Possible Outcomes of Increasing Learning Rate",
-        "text": "If the learning rate is too high, the algorithm might diverge instead of converging. However, if it's increased moderately, it might still converge but with fewer steps.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "abf3684ds100-sp25-final-Q2p-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,16 +30,19 @@
             "TRUE"
         ],
         "dependencies": [
-            "abf3684ds100-sp25-final-Q2p-h3"
+            "abf3684ds100-sp25-final-Q2p-h2"
         ],
-        "title": "Analyzing the Plot",
-        "text": "Observe the plot and consider what happens if the learning rate increases. Would the steps become larger, and how might that affect convergence?",
+        "title": "Possible Outcomes of Increasing Learning Rate",
+        "text": "What could happen if the learning rate is increased?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "All of the above",
+            "Converges faster",
+            "Diverges",
+            "Overshoots the minimum",
+            "TRUE"
         ]
     }
 ]

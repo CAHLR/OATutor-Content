@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Ridge Regression",
-        "text": "Ridge regression is a type of linear regression that includes a regularization term. This term is controlled by the hyperparameter lambda (\u03bb).",
+        "text": "Ridge regression adds a penalty term to the loss function to prevent overfitting. This penalty term is proportional to the square of the magnitude of the coefficients. Can you think about how increasing this penalty might affect the flexibility of the model?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a89b247ds100-su20-final-Q5ak-h1"
         ],
         "title": "Effect of Increasing Lambda",
-        "text": "Increasing the value of lambda (\u03bb) in ridge regression affects the estimated parameters. Consider how regularization impacts the model's complexity.",
+        "text": "When you increase the value of lambda, the penalty on large coefficients becomes stronger. Consider how this might influence the model's ability to fit the training data closely.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a89b247ds100-su20-final-Q5ak-h2"
         ],
-        "title": "Impact on Estimated Parameters",
-        "text": "As lambda (\u03bb) increases, the regularization term becomes more significant. This affects the estimated parameters (\u03b8).",
+        "title": "Model Variance and Lambda",
+        "text": "As lambda increases, what happens to the model variance?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

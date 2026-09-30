@@ -3,8 +3,8 @@
         "id": "a72a45crow2d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Consider the Impact of a Larger Sample Size",
-        "text": "Think about how increasing the sample size from $$100$$ to $$200$$ might affect the selection bias. Would it make the sample more representative of the entire population?",
+        "title": "Understanding Selection Bias",
+        "text": "Selection bias occurs when the sample collected is not representative of the population. Think about how increasing the sample size and sending reminders might affect the representativeness of the sample.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -12,36 +12,26 @@
     {
         "id": "a72a45crow2d-h2",
         "type": "hint",
-        "dependencies": [],
-        "title": "Effect of Reminder Emails",
-        "text": "Consider how sending a reminder email to non-respondents might influence the selection bias. Would it encourage more students to respond, potentially reducing bias?",
+        "dependencies": [
+            "a72a45crow2d-h1"
+        ],
+        "title": "Impact of Sample Size",
+        "text": "Increasing the sample size from $$100$$ to $$200$$ can help reduce variability in the sample. Consider how this might influence the selection bias.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a72a45crow2d-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "The same as"
-        ],
+        "type": "hint",
         "dependencies": [
-            "a72a45crow2d-h1"
+            "a72a45crow2d-h2"
         ],
-        "title": "Analyzing the Impact of Both Changes",
-        "text": "If Josh implements both changes, how would the combination of a larger sample size and reminder emails affect the selection bias compared to the original survey?",
+        "title": "Effect of Reminder Emails",
+        "text": "Sending reminder emails can increase the response rate. Think about how a higher response rate might affect the selection bias.",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "Larger than",
-            "Smaller than",
-            "The same as",
-            "Impossible to determine",
-            "Exactly half of"
-        ]
+        "license": ""
     },
     {
         "id": "a72a45crow2d-h4",
@@ -52,10 +42,10 @@
             "The same as"
         ],
         "dependencies": [
-            "a72a45crow2d-h2"
+            "a72a45crow2d-h3"
         ],
-        "title": "Understanding Selection Bias",
-        "text": "Selection bias occurs when certain groups are overrepresented or underrepresented in a sample. How might the changes suggested by Jake address this issue?",
+        "title": "Comparing Bias Levels",
+        "text": "If Josh implements both updates, how would the selection bias of the updated survey compare to the original survey?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

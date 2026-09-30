@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Model Equation",
-        "text": "The model equation is $$self_{rating}=\\theta_0+\\theta_1 critic_1$$. This equation predicts the $$self_{rating}$$ based on the value of $$critic_1$$.",
+        "text": "The model equation given is $$self_{rating}=\\theta_0+\\theta_1 critic_1$$. This means that the predicted $$self_{rating}$$ is a linear function of $$critic_1$$. Think about how changes to $$critic_1$$ might affect the coefficients in this equation.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,25 +16,13 @@
             "a8c8399ds100-fa24-final-Q3db-h1"
         ],
         "title": "Effect of Dividing $$critic_1$$ by $$2$$",
-        "text": "If you divide $$critic_1$$ by $$2$$, the equation becomes $$self_{rating}=\\theta_0+\\theta_1 \\frac{critic_1}{2}$$.",
+        "text": "If you divide all values of $$critic_1$$ by $$2$$, consider how this affects the term $$\\theta_1 critic_1$$ in the equation. What happens to the slope of the line represented by this equation?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a8c8399ds100-fa24-final-Q3db-h3",
-        "type": "hint",
-        "dependencies": [
-            "a8c8399ds100-fa24-final-Q3db-h2"
-        ],
-        "title": "Impact on $$\\theta_1$$",
-        "text": "Dividing $$critic_1$$ by $$2$$ effectively changes the slope of the line in the equation, which is represented by $$\\theta_1$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a8c8399ds100-fa24-final-Q3db-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,10 +30,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "a8c8399ds100-fa24-final-Q3db-h3"
+            "a8c8399ds100-fa24-final-Q3db-h2"
         ],
-        "title": "Conclusion on $$\\theta_1$$",
-        "text": "Does dividing $$critic_1$$ by $$2$$ change the value of $$\\theta_1$$ in the equation?",
+        "title": "Analyzing the Impact",
+        "text": "What happens to the value of $$\\theta_1$$ if you divide $$critic_1$$ by 2?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

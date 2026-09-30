@@ -3,8 +3,8 @@
         "id": "aea05a2ds100-sp24-final-Q10f-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Understanding k-Means Clustering",
-        "text": "In k-Means clustering, the algorithm aims to partition the data into k clusters by minimizing the sum of squared distances between data points and their respective cluster centroids.",
+        "title": "Understanding Inertia in k-Means",
+        "text": "Inertia in k-Means clustering measures how tightly the clusters are packed. It is the sum of squared distances between each point and its assigned cluster center. Think about how the initial placement of cluster centers might affect this measure.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "aea05a2ds100-sp24-final-Q10f-h1"
         ],
         "title": "Convergence in k-Means",
-        "text": "The convergence of k-Means depends on the initial placement of centroids. It may not always reach the global minimum, but it will converge to a local minimum.",
+        "text": "k-Means clustering can converge to a local minimum, but not necessarily the global minimum. Consider how different starting points for the cluster centers might lead to different final configurations.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,13 +33,16 @@
             "aea05a2ds100-sp24-final-Q10f-h2"
         ],
         "title": "Evaluating the Statement",
-        "text": "Consider whether k-Means can always find the true minimum inertia regardless of the starting configuration.",
+        "text": "Which of the following statements is true about k-Means clustering?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "FALSE",
+            "$$k-Means$$ always finds the global minimum",
+            "$$k-Means$$ can converge to a local minimum",
+            "$$k-Means$$ guarantees the best clustering solution",
+            "$$k-Means$$ is not affected by initial cluster placement"
         ]
     }
 ]

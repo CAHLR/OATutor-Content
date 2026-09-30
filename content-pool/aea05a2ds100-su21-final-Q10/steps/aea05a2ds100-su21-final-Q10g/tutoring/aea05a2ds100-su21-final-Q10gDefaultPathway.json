@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Spectral Clustering",
-        "text": "Spectral clustering involves transforming the data into a new space using eigenvectors of a matrix derived from the data. Once in this new space, a clustering algorithm is applied to group the data points.",
+        "text": "Spectral clustering involves transforming the data into a new space using eigenvectors. Once in this new space, we need a method to group the data points into clusters. Think about a common clustering algorithm that works well with numerical data.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-su21-final-Q10g-h2",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-su21-final-Q10g-h1"
-        ],
-        "title": "Choosing the Right Clustering Algorithm",
-        "text": "After transforming the data into spectral coordinates, we need a clustering algorithm that can effectively partition the data into distinct groups. Consider algorithms that are commonly used for partitioning data into a specified number of clusters.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-su21-final-Q10g-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "k means clustering"
         ],
         "dependencies": [
-            "aea05a2ds100-su21-final-Q10g-h2"
+            "aea05a2ds100-su21-final-Q10g-h1"
         ],
-        "title": "Applying Clustering to Spectral Coordinates",
-        "text": "Which clustering algorithm is typically used after calculating spectral coordinates to determine the clusters?",
+        "title": "Choosing the Right Clustering Method",
+        "text": "Which clustering method is typically used after calculating spectral coordinates?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

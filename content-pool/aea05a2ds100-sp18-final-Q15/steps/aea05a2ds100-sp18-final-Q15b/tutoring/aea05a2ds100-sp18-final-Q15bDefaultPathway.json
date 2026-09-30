@@ -4,25 +4,13 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Star Schemas",
-        "text": "Star schemas are a type of database schema that organizes data into fact tables and dimension tables. This structure helps in reducing data redundancy.",
+        "text": "Think about how star schemas organize data. They often centralize data in a way that reduces redundancy. How might this help with update errors?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "aea05a2ds100-sp18-final-Q15b-h2",
-        "type": "hint",
-        "dependencies": [
-            "aea05a2ds100-sp18-final-Q15b-h1"
-        ],
-        "title": "Data Duplication and Update Errors",
-        "text": "Data duplication can lead to update errors because if the same data is stored in multiple places, updating one instance but not the others can cause inconsistencies.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "aea05a2ds100-sp18-final-Q15b-h3",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -30,10 +18,10 @@
             "TRUE"
         ],
         "dependencies": [
-            "aea05a2ds100-sp18-final-Q15b-h2"
+            "aea05a2ds100-sp18-final-Q15b-h1"
         ],
-        "title": "How Star Schemas Reduce Duplication",
-        "text": "Star schemas reduce duplication by centralizing data in a single fact table, with related data stored in dimension tables. This minimizes the need to store the same data in multiple places.",
+        "title": "Evaluating Data Duplication",
+        "text": "Consider the role of data duplication in update errors. If data is duplicated across multiple tables, what happens when an update is made?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
@@ -41,5 +29,17 @@
             "TRUE",
             "FALSE"
         ]
+    },
+    {
+        "id": "aea05a2ds100-sp18-final-Q15b-h3",
+        "type": "hint",
+        "dependencies": [
+            "aea05a2ds100-sp18-final-Q15b-h2"
+        ],
+        "title": "Centralized Data",
+        "text": "In a star schema, data is often centralized in a fact table. How does this centralization affect the need to update data in multiple places?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
     }
 ]

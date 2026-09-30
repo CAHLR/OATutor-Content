@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Thresholds",
-        "text": "When you increase the threshold in a classification model, you are essentially making it harder for the model to classify a positive instance. This can affect precision, recall, and accuracy.",
+        "text": "When you increase the threshold in a classification model, you're essentially making it harder for the model to classify a positive instance. Think about how this might affect the number of true positives and false positives.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -15,35 +15,53 @@
         "dependencies": [
             "a1bb75eds100-fa19-mt2-Q7i-h1"
         ],
-        "title": "Effect on Precision",
-        "text": "Precision is the ratio of true positive predictions to the total positive predictions (true positives + false positives). Increasing the threshold can reduce false positives, potentially increasing precision.",
+        "title": "Precision and Recall",
+        "text": "Precision is the ratio of true positives to the sum of true positives and false positives. Recall is the ratio of true positives to the sum of true positives and false negatives. Consider how changing the threshold might affect these ratios.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7i-h3",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7i-h1"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Precision can increase."
         ],
-        "title": "Effect on Recall",
-        "text": "Recall is the ratio of true positive predictions to the total actual positives (true positives + false negatives). Increasing the threshold can increase false negatives, potentially decreasing recall.",
+        "dependencies": [
+            "a1bb75eds100-fa19-mt2-Q7i-h2"
+        ],
+        "title": "Effect on Precision",
+        "text": "If the threshold is increased, what happens to precision?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Precision can increase.",
+            "Precision can decrease."
+        ]
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7i-h4",
-        "type": "hint",
-        "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7i-h1"
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Recall can decrease."
         ],
-        "title": "Effect on Accuracy",
-        "text": "Accuracy is the ratio of correct predictions (true positives + true negatives) to the total number of predictions. Increasing the threshold can affect both false positives and false negatives, impacting accuracy.",
+        "dependencies": [
+            "a1bb75eds100-fa19-mt2-Q7i-h2"
+        ],
+        "title": "Effect on Recall",
+        "text": "If the threshold is increased, what happens to recall?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "Recall can increase.",
+            "Recall can decrease."
+        ]
     },
     {
         "id": "a1bb75eds100-fa19-mt2-Q7i-h5",
@@ -51,19 +69,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "TRUE"
+            "Accuracy can decrease."
         ],
         "dependencies": [
-            "a1bb75eds100-fa19-mt2-Q7i-h4"
+            "a1bb75eds100-fa19-mt2-Q7i-h2"
         ],
-        "title": "Analyzing Accuracy",
-        "text": "Consider how changes in false positives and false negatives affect the overall accuracy of the model. Can accuracy decrease when the threshold is increased?",
+        "title": "Effect on Accuracy",
+        "text": "If the threshold is increased, what happens to accuracy?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "Accuracy can increase.",
+            "Accuracy can decrease."
         ]
     }
 ]

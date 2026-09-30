@@ -4,8 +4,8 @@
         "$$\\hat{Y}$$ is the orthogonal projection of Y onto the span of X."
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Geometric Interpretation of $$\\hat{Y}$$",
-    "stepBody": "Which of the following best describes the geometric interpretation of the OLS prediction vector $$\\hat{Y}?$$",
+    "stepTitle": "Which of the following best describes the geometric interpretation of the OLS prediction vector $$\\hat{Y}?$$",
+    "stepBody": "Geometric Interpretation of $$\\hat{Y}$$",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$\\hat{Y}$$ is the orthogonal projection of Y onto the span of X.",

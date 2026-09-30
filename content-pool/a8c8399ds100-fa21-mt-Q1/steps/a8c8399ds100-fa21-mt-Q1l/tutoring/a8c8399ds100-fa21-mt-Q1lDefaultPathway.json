@@ -16,7 +16,7 @@
             "a8c8399ds100-fa21-mt-Q1l-h1"
         ],
         "title": "L1 vs L2 Regularization",
-        "text": "L1 regularization, also known as Lasso, tends to produce sparse models by driving some coefficients to zero. L2 regularization, also known as Ridge, tends to shrink coefficients but usually keeps them non-zero.",
+        "text": "L1 regularization, also known as Lasso, tends to produce sparse models by driving some coefficients to zero. L2 regularization, or Ridge, tends to shrink coefficients but rarely makes them exactly zero.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,10 +27,33 @@
         "dependencies": [
             "a8c8399ds100-fa21-mt-Q1l-h2"
         ],
-        "title": "Choosing the Right Regularization",
-        "text": "Consider the nature of the data and the problem. If there are many redundant features or if you want to encourage sparsity in the model, L1 regularization might be more suitable.",
+        "title": "High Dimensionality and Sparsity",
+        "text": "In high-dimensional datasets, many features may not contribute significantly to the model's prediction. Regularization can help in identifying and reducing the impact of these less important features.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
+    },
+    {
+        "id": "a8c8399ds100-fa21-mt-Q1l-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": [
+            "Apply L1 regularization, due to the redundancies in codon meaning."
+        ],
+        "dependencies": [
+            "a8c8399ds100-fa21-mt-Q1l-h3"
+        ],
+        "title": "Choosing the Right Regularization",
+        "text": "Which regularization technique is more suitable for handling feature sparsity by reducing the number of non-zero coefficients?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": "",
+        "choices": [
+            "Apply L2 regularization, due to the redundancies in codon meaning.",
+            "Apply L1 regularization, due to the redundancies in codon meaning.",
+            "Apply L2 regularization, due to the high dimensionality of the samples.",
+            "Apply L1 regularization, due to the high dimensionality of the samples."
+        ]
     }
 ]

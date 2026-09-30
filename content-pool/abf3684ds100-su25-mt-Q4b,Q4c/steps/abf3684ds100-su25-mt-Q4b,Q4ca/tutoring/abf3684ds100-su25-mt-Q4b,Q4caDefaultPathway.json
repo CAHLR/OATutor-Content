@@ -16,7 +16,7 @@
             "abf3684ds100-su25-mt-Q4b,Q4ca-h1"
         ],
         "title": "Effect of Shuffling Data",
-        "text": "Consider how shuffling the data might affect the calculation of the MAE. Does the order of the data impact the mean absolute error when using a constant model?",
+        "text": "Consider what happens to the mean of a dataset when you shuffle the data. Does the mean change? How does this relate to the MAE?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -24,19 +24,23 @@
     {
         "id": "abf3684ds100-su25-mt-Q4b,Q4ca-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "The MAE is calculated as the average of the absolute differences between the constant predicted value and the actual values."
+            "FALSE"
         ],
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4ca-h2"
         ],
-        "title": "Constant Model and MAE",
-        "text": "When using a constant model, the predicted value is the same for all observations. How does this affect the calculation of the MAE?",
+        "title": "Shuffling and Mean",
+        "text": "If you shuffle the order of the rows in a dataset, does the mean of the dataset change?",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
     },
     {
         "id": "abf3684ds100-su25-mt-Q4b,Q4ca-h4",
@@ -44,8 +48,8 @@
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4ca-h3"
         ],
-        "title": "Impact of Shuffling on MAE",
-        "text": "Since the MAE is based on the absolute differences between the predicted and actual values, and the predicted value is constant, shuffling the data does not change the MAE.",
+        "title": "MAE and Constant Model",
+        "text": "In a constant model where the prediction is always the same value, think about how the MAE is calculated. What role does the mean of the dataset play in this calculation?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -56,19 +60,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "FALSE"
+            "The mean of the observed values"
         ],
         "dependencies": [
             "abf3684ds100-su25-mt-Q4b,Q4ca-h4"
         ],
-        "title": "Conclusion on Shuffling and MAE",
-        "text": "Given that the MAE is calculated using a constant predicted value, does shuffling the data change the minimum value of the MAE?",
+        "title": "MAE Calculation",
+        "text": "When using a constant model, what value minimizes the MAE?",
         "variabilization": {},
         "oer": "openai",
         "license": "",
         "choices": [
-            "TRUE",
-            "FALSE"
+            "The mean of the observed values",
+            "The median of the observed values",
+            "The mode of the observed values"
         ]
     }
 ]
