@@ -199,6 +199,10 @@
                 "learningObjectives": {
                     "pandas": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc01"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -210,6 +214,10 @@
                 "learningObjectives": {
                     "eda": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc02"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -221,6 +229,10 @@
                 "learningObjectives": {
                     "sampling": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc04"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -232,6 +244,10 @@
                 "learningObjectives": {
                     "modeling_and_regression": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc05"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -243,6 +259,10 @@
                 "learningObjectives": {
                     "feature_engineering_and_dimensionality": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc06"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -254,6 +274,10 @@
                 "learningObjectives": {
                     "loss_functions_and_gradient_descent": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc07"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -265,6 +289,10 @@
                 "learningObjectives": {
                     "regularization_and_cross_validation": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc08"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -276,6 +304,10 @@
                 "learningObjectives": {
                     "pca": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc09"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -288,6 +320,10 @@
                     "bias_and_variance": 0.85,
                     "https://ds100.org/su26/past_exams/": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc10"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -299,6 +335,10 @@
                 "learningObjectives": {
                     "clustering_and_big_data": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc11"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -310,6 +350,10 @@
                 "learningObjectives": {
                     "logistic_regression_and_classification": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc12"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -321,6 +365,10 @@
                 "learningObjectives": {
                     "inference": 0.85
                 },
+                "chat_prompt": "PROMPT-data-100-v1a.txt",
+                "chat_documents": [
+                    "data100-disc13"
+                ],
                 "chat_model": "gpt-4o"
             },
             {
@@ -9253,6 +9301,19 @@
                     "newton's_second_law": 0.85,
                     "newton's_third_law": 0.85
                 },
+                "chat_prompt": "PROMPT-physics-7a-v1a.txt",
+                "chat_documents": [
+                    "physics7a-ch05-intro",
+                    "physics7a-5.1",
+                    "physics7a-5.2",
+                    "physics7a-5.3",
+                    "physics7a-5.4",
+                    "physics7a-5.5",
+                    "physics7a-5.6",
+                    "physics7a-5.7"
+                ],
+                "chat_penalty_mode": "Never",
+                "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
             },
             {
@@ -10727,6 +10788,32 @@
                     "deriving_an_inverse_function": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
+                "chat_penalty_mode": "Never",
+                "hint_penalty_mode": "OnOpen",
+                "chat_model": "gpt-4o"
+            }
+        ],
+        "chat_model": "gpt-4o"
+    },
+    {
+        "courseName": "Anthropology: Reading Review",
+        "office_hours": true,
+        "office_hours_prompt": "PROMPT-anthro-reading-review.txt",
+        "office_hours_greeting": "Hi! I'm Oski. Let's review the reading together. I can quiz you on the overall structure of the text, its key arguments, or its key terms. Which would you like to start with? (Or say \"mix\" and I'll vary it.)",
+        "language": "en",
+        "courseOER": 0,
+        "courseLicense": 0,
+        "lessons": [
+            {
+                "id": "ytvZcb5Y-HOwd-ManBq9Y5xzr9",
+                "name": "Lesson Reading",
+                "topics": "Structure of the text, key arguments, and key terms",
+                "allowRecycle": false,
+                "chat_display_mode": "Window",
+                "learningObjectives": {},
+                "chat_documents": [
+                    "anthropology-reading"
+                ],
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
