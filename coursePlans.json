@@ -10799,7 +10799,7 @@
         "courseName": "Anthropology: Reading Review",
         "office_hours": true,
         "office_hours_prompt": "PROMPT-anthro-reading-review.txt",
-        "office_hours_greeting": "Hi! I'm Oski. Let's review the reading together. I can quiz you on the overall structure of the text, its key arguments, or its key terms. Which would you like to start with? (Or say \"mix\" and I'll vary it.)",
+        "office_hours_greeting": "Hi! I'm Oski. Let's review the reading together.\n\n**What would you like to practice?**",
         "language": "en",
         "courseOER": 0,
         "courseLicense": 0,
