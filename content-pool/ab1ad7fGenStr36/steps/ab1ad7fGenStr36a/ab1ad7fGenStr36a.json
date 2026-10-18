@@ -1,0 +1,16 @@
+{
+    "id": "ab1ad7fGenStr36a",
+    "stepAnswer": [
+        "Identity"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$3\\left(2k+4\\right)-6=6k+6$$",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Conditional Equation",
+        "Identity",
+        "Contradiction"
+    ]
+}

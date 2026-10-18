@@ -1,0 +1,12 @@
+{
+    "id": "ab1ad7fGenStr32a",
+    "stepAnswer": [
+        "$$2$$"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "$$6\\left(e+1\\right)-4=2e+10$$",
+    "stepBody": "",
+    "answerType": "arithmetic",
+    "variabilization": {},
+    "answerLatex": "$$2$$"
+}
