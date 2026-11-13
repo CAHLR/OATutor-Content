@@ -21,7 +21,7 @@
             "abaea60linmom1a-h1"
         ],
         "title": "Calculate the Momentum of the Box",
-        "text": "Use the formula for momentum: momentum $$=$$ mass * velocity. What is the momentum of the box?",
+        "text": "Use the formula for momentum: momentum $$=$$ mass \u00d7 velocity. What is the momentum of the box?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "abaea60linmom1a-h2"
         ],
         "title": "Mass and Velocity of the Box",
-        "text": "The mass of the box is $$5\\, \\text{kg}$$ and the velocity of the skater (and thus the box) is $$5\\, \\tfrac{\\text{m}}{\\text{s}}$$. $$ \\cup se$$ $$these$$ $$values$$ $$to$$ $$calculate$$ $$the$$ $$momentum$$.",
+        "text": "The mass of the box is $$5\\, \\text{kg}$$ and the velocity of the skater (and thus the box) is $$5\\, \\tfrac{\\text{m}}{\\text{s}}.$$ Use these values to calculate the momentum.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -50,7 +50,7 @@
             "abaea60linmom1a-h3"
         ],
         "title": "Final Calculation",
-        "text": "Multiply the mass of the box ($$5\\,\\text{kg}$$) by the velocity ($$5\\,\\tfrac{\\text{m}}{\\text{s}}$$) to find the momentum.",
+        "text": "Multiply the mass of the box $$(5\\, \\text{kg})$$ by the velocity $$(5\\, \\tfrac{\\text{m}}{\\text{s}})$$ to find the momentum.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -33,7 +33,7 @@
             "ace918bnlaws26a-h2"
         ],
         "title": "Calculate Net Acceleration",
-        "text": "Calculate the net acceleration using the formula: $$a_{\\text{net}}$$=sqrt((5.0)**2+(3.8)**2).",
+        "text": "Calculate the net acceleration using the formula: $$a_{\\text{net}}=\\sqrt{(5.0)**{2}+(3.8)**{2}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "ace918bnlaws26a-h4"
         ],
         "title": "Calculate the Force",
-        "text": "Use the formula $$F=ma$$ with $$\\, \\text{m}\\$\\$=120$$ and $$a=6.3$$ to find the force.",
+        "text": "Use the formula $$F=ma$$ with $$m=120$$ and $$a=6.3$$ to find the force.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
