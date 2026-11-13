@@ -20,51 +20,5 @@
         "variabilization": {},
         "oer": "",
         "license": ""
-    },
-    {
-        "id": "a005bd5real3a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$x+3$$"
-        ],
-        "dependencies": [
-            "a005bd5real3a-h2"
-        ],
-        "title": "What is g(f(x)), given $$f(x)=x^2+1$$ and $$g(x)=\\sqrt{x+2}$$?",
-        "text": "",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
-    },
-    {
-        "id": "a005bd5real3a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a005bd5real3a-h3"
-        ],
-        "title": "Substitute",
-        "text": "Plug in f(x) for $$x$$ in g(x): $$g(f(x))=\\sqrt{x^2+1+2}$$",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
-    },
-    {
-        "id": "a005bd5real3a-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$g(f(x))=\\sqrt{x^2+3}$$"
-        ],
-        "dependencies": [
-            "a005bd5real3a-h4"
-        ],
-        "title": "Simplify",
-        "text": "$$\\sqrt{x^2+1+2}$$ simplifies to $$\\sqrt{x^2+3}$$, which we can't simplify further.",
-        "variabilization": {},
-        "oer": "",
-        "license": ""
     }
 ]

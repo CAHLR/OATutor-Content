@@ -1,0 +1,14 @@
+{
+    "id": "affa3b5domain5",
+    "title": "Describing Sets on the Real-Number Line",
+    "body": "\\n##figure1.gif",
+    "variabilization": {},
+    "oer": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "4.5 Domain and range restrictio",
+    "lessonId": "1z6a8nZj-xmpz-2mmBnmBsux",
+    "courseName": "SJSU 1019S",
+    "figureAlts": {
+        "figure1.gif": "A number line from -2 to 7. A blue segment is drawn from 1 to 3, with filled dots at 1 and 3 showing both endpoints are included. Another blue ray starts at 5 and extends to the right with an arrow showing it continues forever, with an open dot at 5 showing 5 is excluded."
+    }
+}

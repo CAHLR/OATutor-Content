@@ -16,7 +16,7 @@
             "ace918bnlaws7a-h1"
         ],
         "title": "Calculate the Net Force",
-        "text": "Use Newton's second law to calculate the net force required to accelerate the motorcycle. The formula is $$F=ma$$, where $$F$$ is the force, \\,\\text{m} is the mass, and $$a$$ is the acceleration.",
+        "text": "Use Newton's second law to calculate the net force required to accelerate the motorcycle. The formula is $$F=ma$$, where $$F$$ is the force, $$m$$ is the mass, and $$a$$ is the acceleration.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "ace918bnlaws7a-h4"
         ],
         "title": "Calculate the Total Force",
-        "text": "Add the force needed to overcome resistance (400 N) to the force needed for acceleration $$(857.5$$ N).",
+        "text": "Add the force needed to overcome resistance $$(400\\, \\text{N})$$ to the force needed for acceleration $$(857.5\\, \\text{N}).$$",
         "variabilization": {},
         "oer": "openai",
         "license": ""

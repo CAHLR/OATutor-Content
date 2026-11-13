@@ -1,7 +1,6 @@
 [
     {
         "courseName": "Data 8 Discussion Worksheets",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://drive.google.com/file/d/1WXuGyAe3OtZTxrddc6aqCVoiR8KpkFSV/view?usp=drive_link",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -45,6 +44,7 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
+                    "review": 0.85,
                     "visualizations": 0.85
                 }
             },
@@ -91,12 +91,13 @@
                 "chat_model": "gpt-4o"
             },
             {
-                "id": "5GdmdaBp-BBke-crZ5GxO2hO",
+                "id": "7dw8HjLH-wSxb-4z25gNKkoM",
                 "name": "Lesson Disc8",
                 "topics": "",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
+                    "the_bootstrap": 0.85,
                     "review": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -105,12 +106,13 @@
                 "chat_model": "gpt-4o"
             },
             {
-                "id": "7dw8HjLH-wSxb-4z25gNKkoM",
+                "id": "3VPojrSX-AJ4B-DHNPyCLuWw",
                 "name": "Lesson Disc9",
                 "topics": "",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
+                    "review": 0.85,
                     "the_bootstrap": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -126,12 +128,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "review": 0.85
-                },
-                "chat_prompt": "PROMPTv2a.txt",
-                "chat_penalty_mode": "Never",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-                
+                }
             },
             {
                 "id": "3TZnnKjM-nRdc-KUycJTxnp7",
@@ -185,7 +182,6 @@
     },
     {
         "courseName": "Combined Data100 Worksheets",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://ds100.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -393,7 +389,6 @@
     },
     {
         "courseName": "SJSU 1019S",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -546,6 +541,7 @@
                 "learningObjectives": {
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
+                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
                     "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
                     "solve_linear_inequalities": 0.85,
                     "solving_compound_inequalities": 0.85
@@ -626,6 +622,8 @@
                     "graph_inequalities_on_the_number_line": 0.85,
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
+                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
+                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
                     "solve_linear_inequalities": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -764,7 +762,8 @@
                     "finding_domain_and_range_from_graphs": 0.85,
                     "finding_domains_and_ranges_of_the_toolkit_functions": 0.85,
                     "finding_the_domain_of_a_function_defined_by_an_equation": 0.85,
-                    "graphing_piecewise_defined_functions": 0.85
+                    "graphing_piecewise_defined_functions": 0.85,
+                    "using_notations_to_specify_domain_and_range": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "chat_penalty_mode": "Never",
@@ -869,7 +868,6 @@
     },
     {
         "courseName": "SJSU Calculus 1 (Quiz Collection)",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -916,12 +914,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "determine_the_values_for_which_a_rational_expression_is_undefined": 0.85
-                },
-                "chat_prompt": "PROMPTv2a.txt",
-                "chat_penalty_mode": "Never",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-                
+                }
             },
             {
                 "id": "0cVFGCZw-5vMu-Ahp03eOmqe",
@@ -1325,7 +1318,6 @@
     },
     {
         "courseName": "SJSU 1018",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -1551,7 +1543,6 @@
                 "learningObjectives": {
                     "solve_compound_inequalities_with_and": 0.85,
                     "solve_compound_inequalities_with_or": 0.85,
-                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
                     "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -1799,7 +1790,6 @@
     },
     {
         "courseName": "Mission College: Introductory Statistics",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -2710,7 +2700,6 @@
     },
     {
         "courseName": "Matematik 4",
-        "office_hours": false,
         "language": "se",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -2807,7 +2796,6 @@
     },
     {
         "courseName": "Pre-Calculus Essentials (UC Berkeley Math 1B)",
-        "office_hours": false,
         "language": "en",
         "courseOER": 0.0,
         "courseLicense": 0.0,
@@ -3000,7 +2988,6 @@
     },
     {
         "courseName": "OpenStax: College Physics",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -3204,7 +3191,6 @@
     },
     {
         "courseName": "OpenStax: Calculus Volume 1",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -3412,20 +3398,6 @@
                     "changes_in_cost_and_revenue": 0.85,
                     "motion_along_a_line": 0.85,
                     "population_change": 0.85
-                },
-                "chat_prompt": "PROMPTv2a.txt",
-                "chat_penalty_mode": "Never",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-            },
-            {
-                "id": "6N3ft8kv-lqtL-jDHtR701sR",
-                "name": "Lesson 3.5",
-                "topics": "Derivatives of Trigonometric Functions",
-                "allowRecycle": true,
-                "chat_display_mode": "Window",
-                "learningObjectives": {
-                    "derivatives_of_trigonometric_functions": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "chat_penalty_mode": "Never",
@@ -3762,7 +3734,8 @@
                     "solids_of_revolution": 0.85,
                     "the_disk_method": 0.85,
                     "the_slicing_method": 0.85,
-                    "the_washer_method": 0.85
+                    "the_washer_method": 0.85,
+                    "volume_and_the_slicing_method": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "chat_penalty_mode": "Never",
@@ -3836,7 +3809,6 @@
     },
     {
         "courseName": "OpenStax: Pre-Calculus",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -4344,12 +4316,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "graphs_of_the_other_trigonometric_functions": 0.85
-                },
-                "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "OnOpen",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-                
+                }
             },
             {
                 "id": "4zVoP0OO-B61J-HA99VWEGsP",
@@ -4679,12 +4646,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "the_ellipse": 0.85
-                },
-                "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "OnOpen",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-                
+                }
             },
             {
                 "id": "4mcm5KGn-vKJF-g7STMCjGCn",
@@ -4889,11 +4851,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "derivatives": 0.85
-                },
-                "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "OnOpen",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
+                }
             },
             {
                 "id": "3Zsn5Qgy-Qkay-5jp2lEvrbL",
@@ -4905,15 +4863,10 @@
                     "consent": 0.85
                 }
             }
-        ],
-        "chat_prompt": "PROMPT-precalc-v1a.txt",
-        "chat_penalty_mode": "OnOpen",
-        "hint_penalty_mode": "OnOpen",
-        "chat_model": "gpt-4o"
+        ]
     },
     {
         "courseName": "OpenStax: Elementary Algebra",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/elementary-algebra-2e <OpenStax: Elementary Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -6053,7 +6006,6 @@
     },
     {
         "courseName": "OpenStax: Intermediate Algebra",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/intermediate-algebra-2e <OpenStax: Intermediate Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -6897,9 +6849,6 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "graph_quadratic_functions_of_the_form_f(x)=(x_h)**2": 0.85,
-                    "graph_quadratic_functions_of_the_form_f(x)=ax**2": 0.85,
-                    "graph_quadratic_functions_of_the_form_f(x)=x**2+k": 0.85,
                     "graph_quadratic_functions_using_transformations": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -6962,7 +6911,6 @@
                 "learningObjectives": {
                     "convert_between_exponential_and_logarithmic_form": 0.85,
                     "evaluate_logarithmic_functions": 0.85,
-                    "graph_logarithmic_functions": 0.85,
                     "use_logarithmic_models_in_applications": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -7054,8 +7002,6 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "0)": 0.85,
-                    "graph_a_hyperbola_with_center_at_(0": 0.85,
                     "graph_a_hyperbola_with_center_at_(h": 0.85,
                     "k)": 0.85
                 },
@@ -7152,7 +7098,6 @@
     },
     {
         "courseName": "OpenStax: College Algebra",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/details/books/college-algebra-2e <OpenStax: College Algebra>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -7518,7 +7463,6 @@
                     "interpreting_slope_as_rate_of_change": 0.85,
                     "modeling_real_world_problems_with_linear_functions": 0.85,
                     "or_constant": 0.85,
-                    "representing_linear_functions": 0.85,
                     "writing_and_interpreting_an_equation_for_a_linear_function": 0.85,
                     "writing_the_equation_for_a_function_from_the_graph_of_a_line": 0.85,
                     "writing_the_equation_of_a_line_parallel_or_perpendicular_to_a_given_line": 0.85
@@ -7571,7 +7515,6 @@
                     "determining_the_maximum_and_minimum_values_of_quadratic_functions": 0.85,
                     "finding_the_domain_and_range_of_a_quadratic_function": 0.85,
                     "finding_the_x__and_y_intercepts_of_a_quadratic_function": 0.85,
-                    "recognizing_characteristics_of_parabolas": 0.85,
                     "rewriting_quadratics_in_standard_form": 0.85,
                     "understanding_how_the_graphs_of_parabolas_are_related_to_their_quadratic_functions": 0.85
                 },
@@ -7623,8 +7566,6 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "using_long_division_to_divide_polynomials": 0.85,
-                    "using_polynomial_division_in_application_problems": 0.85,
                     "using_synthetic_division_to_divide_polynomials": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -7640,11 +7581,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
-                    "finding_the_zeros_of_polynomial_functions": 0.85,
                     "solving_real_world_applications": 0.85,
-                    "using_descartes\u2019_rule_of_signs": 0.85,
-                    "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85,
-                    "using_the_fundamental_theorem_of_algebra": 0.85,
                     "using_the_linear_factorization_theorem_to_find_polynomials_with_given_zeros": 0.85,
                     "using_the_rational_zero_theorem_to_find_rational_zeros": 0.85
                 },
@@ -7992,12 +7929,7 @@
                 "learningObjectives": {
                     "evaluating_the_determinant_of_a_2x2_matrix": 0.85,
                     "evaluating_the_determinant_of_a_2\u00d72_matrix": 0.85,
-                    "evaluating_the_determinant_of_a_3x3_matrix": 0.85,
-                    "understanding_properties_of_determinants": 0.85,
-                    "using_cramer's_rule_to_solve_a_dependent_system": 0.85,
-                    "using_cramer's_rule_to_solve_a_system_of_three_equations_in_three_variable": 0.85,
                     "using_cramer's_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85,
-                    "using_cramer's_rule_to_solve_an_inconsistent_system": 0.85,
                     "using_cramer\u2019s_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -8030,8 +7962,6 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "locating_the_vertices_and_foci_of_a_hyperbola": 0.85,
-                    "solving_applied_problems_involving_hyperbolas": 0.85,
                     "writing_equations_of_hyperbolas_in_standard_form": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -8098,7 +8028,6 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "finding_an_explicit_formula": 0.85,
-                    "investigating_piecewise_explicit_formulas": 0.85,
                     "using_factorial_notation": 0.85,
                     "writing_the_terms_of_a_sequence_defined_by_a_recursive_formula": 0.85,
                     "writing_the_terms_of_a_sequence_defined_by_an_explicit_formula": 0.85
@@ -8220,7 +8149,6 @@
     },
     {
         "courseName": "OpenStax: Introductory Stats",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9178,7 +9106,6 @@
     },
     {
         "courseName": "OpenStax: University Physics",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9655,7 +9582,6 @@
     },
     {
         "courseName": "Math Basics for Physics",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9736,7 +9662,6 @@
     },
     {
         "courseName": "Chemistry 1A Summer Content",
-        "office_hours": false,
         "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -9818,12 +9743,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "module_e": 0.85
-                },
-                "chat_prompt": "PROMPT-chem-1a-v1a.txt",
-                "chat_penalty_mode": "Never",
-                "hint_penalty_mode": "OnOpen",
-                "chat_model": "gpt-4o"
-                
+                }
             },
             {
                 "id": "4WkmxbLD-3JLs-JvdkZGQ83A",
@@ -9871,7 +9791,6 @@
     },
     {
         "courseName": "Solid Foundations: Algebra",
-        "office_hours": false,
         "language": "en",
         "courseOER": 0.0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -10335,7 +10254,6 @@
     },
     {
         "courseName": "Solid Foundations: Trigonometry",
-        "office_hours": false,
         "language": "en",
         "courseOER": 0.0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -10677,7 +10595,6 @@
     },
     {
         "courseName": "Solid Foundations: Calculus Part 1",
-        "office_hours": false,
         "language": "en",
         "courseOER": 0.0,
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -10817,6 +10734,266 @@
                 "chat_penalty_mode": "Never",
                 "hint_penalty_mode": "OnOpen",
                 "chat_model": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "courseName": "Calculus Volume 2",
+        "language": "en",
+        "courseOER": 0.0,
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "3NE6LjiN-uxeI-IcQO16p83r",
+                "name": "Lesson Ch",
+                "topics": "2.1",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "areas_between_curves": 0.85
+                }
+            },
+            {
+                "id": "0yTJ2hk8-0jaM-lLqCa8vkDl",
+                "name": "Lesson Ch",
+                "topics": "2.5",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "physical_applications": 0.85
+                }
+            },
+            {
+                "id": "18Tm5k8F-4FAG-vKACYnrtNk",
+                "name": "Lesson Ch",
+                "topics": "2.6",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "moments_and_centers_of_mass": 0.85
+                }
+            },
+            {
+                "id": "0tlNE1NB-KiOz-IIvBP3sx5m",
+                "name": "Lesson Ch",
+                "topics": "2.7",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "and_logarithms": 0.85,
+                    "exponential_functions": 0.85,
+                    "integrals": 0.85
+                }
+            },
+            {
+                "id": "2shczj7U-epdh-4JFSjvesSJ",
+                "name": "Lesson Ch",
+                "topics": "2.8",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "exponential_growth_and_decay": 0.85
+                }
+            },
+            {
+                "id": "2356pSp2-QeSR-dZSgcolDNN",
+                "name": "Lesson Ch",
+                "topics": "2.9",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "calculus_of_the_hyperbolic_functions": 0.85
+                }
+            },
+            {
+                "id": "61APp224-WCok-gtZD43a9Nz",
+                "name": "Lesson Ch",
+                "topics": "3.1",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "integration_by_parts": 0.85
+                }
+            },
+            {
+                "id": "5YiGl4aM-DdSL-g0OrCPgnYx",
+                "name": "Lesson Ch",
+                "topics": "3.2",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "trigonometric_integrals": 0.85
+                }
+            },
+            {
+                "id": "0FnZOEky-oxmW-vRTDjHrXj7",
+                "name": "Lesson Ch",
+                "topics": "3.3",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "trigonometric_substitution": 0.85
+                }
+            },
+            {
+                "id": "6JrQvBLx-zPvf-YIRPAuw7Gp",
+                "name": "Lesson Ch",
+                "topics": "3.4",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "partial_fractions": 0.85
+                }
+            },
+            {
+                "id": "7S3NFjwf-XPCA-ychJYDNpR0",
+                "name": "Lesson Ch",
+                "topics": "3.5",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "other_strategies_for_integration": 0.85
+                }
+            },
+            {
+                "id": "1jqCqrLU-uSoS-NthCyjI0eZ",
+                "name": "Lesson Ch",
+                "topics": "3.6",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "numerical_integration": 0.85
+                }
+            },
+            {
+                "id": "3hFwZ4Oq-HORp-hHXh8zfWz7",
+                "name": "Lesson Ch",
+                "topics": "3.7",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "improper_integrals": 0.85
+                }
+            },
+            {
+                "id": "0T8JsUao-6PN6-cBpAJXbhOY",
+                "name": "Lesson Ch",
+                "topics": "5.1",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "sequences": 0.85
+                }
+            },
+            {
+                "id": "6W1staYn-j6q9-4yyTTFPFzX",
+                "name": "Lesson Ch",
+                "topics": "5.2",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "infinite_series": 0.85
+                }
+            },
+            {
+                "id": "0KpxbFgl-itES-AswmV0Grkn",
+                "name": "Lesson Ch",
+                "topics": "5.3",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "the_divergence_and_integral_tests": 0.85
+                }
+            },
+            {
+                "id": "0E5J4YDy-OVQ0-6aWFgAEnvC",
+                "name": "Lesson Ch",
+                "topics": "5.4",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "comparison_tests": 0.85
+                }
+            },
+            {
+                "id": "3U0egEVz-QRXh-YNhVaK8o6j",
+                "name": "Lesson Ch",
+                "topics": "5.5",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "alternating_series": 0.85
+                }
+            },
+            {
+                "id": "2Rztj9ON-YUDx-S3DCwtQYrK",
+                "name": "Lesson Ch",
+                "topics": "5.6",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "ratio_and_root_tests": 0.85
+                }
+            },
+            {
+                "id": "1ohBf51K-susY-HU0jPuqTK8",
+                "name": "Lesson Ch",
+                "topics": "6.1",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "power_series_and_functions": 0.85
+                }
+            },
+            {
+                "id": "39P0uguP-O747-JmzCVcICP9",
+                "name": "Lesson Ch",
+                "topics": "6.2",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "properties_of_power_series": 0.85
+                }
+            },
+            {
+                "id": "19QPOPQu-dPB2-x3AHwDQJgw",
+                "name": "Lesson Ch",
+                "topics": "6.3",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "taylor_and_maclaurin_series": 0.85
+                }
+            },
+            {
+                "id": "6Sz90gUv-yh10-bqMfAujlil",
+                "name": "Lesson Ch",
+                "topics": "6.4",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "working_with_taylor_series": 0.85
+                }
+            },
+            {
+                "id": "053nc6UE-DZRb-5WRhW1F95e",
+                "name": "Lesson Ch",
+                "topics": "7.3",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "polar_coordinates": 0.85
+                }
+            },
+            {
+                "id": "2NEBOZqD-lkhA-pjKWdOv7UY",
+                "name": "Lesson Ch",
+                "topics": "7.4",
+                "allowRecycle": true,
+                "chat_display_mode": "Window",
+                "learningObjectives": {
+                    "area_and_arc_length_in_polar_coordinates": 0.85
+                }
             }
         ],
         "chat_model": "gpt-4o"
