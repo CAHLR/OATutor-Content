@@ -1,7 +1,7 @@
 {
     "id": "afdfbd3vector14a",
     "stepAnswer": [
-        "10i/\u221a101-j/\u221a101"
+        "$$\\frac{10}{\\sqrt{101}}i-\\frac{1}{\\sqrt{101}}j$$"
     ],
     "problemType": "TextBox",
     "stepTitle": "Find a unit vector in the same direction as $$c=10i-j$$.",
