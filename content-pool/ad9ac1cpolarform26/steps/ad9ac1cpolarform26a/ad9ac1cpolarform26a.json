@@ -1,10 +1,10 @@
 {
     "id": "ad9ac1cpolarform26a",
     "stepAnswer": [
-        "(-4sqrt(3)/2)+(-4/2)i)"
+        "$$-2\\sqrt{3}-2i$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Convert the polar form of the given complex number to rectangular form: $$2\\operatorname{cis}\\left(\\frac{\\pi}{3}\\right)$$.",
+    "stepTitle": "Convert the polar form of the given complex number to rectangular form: $$4\\operatorname{cis}\\left(\\frac{7\\pi}{6}\\right)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

@@ -1,7 +1,7 @@
 {
     "id": "afdfbd3vector21a",
     "stepAnswer": [
-        "v=3\u221a2i+3\u221a2j"
+        "$$3\\sqrt{2}i+3\\sqrt{2}j$$"
     ],
     "problemType": "TextBox",
     "stepTitle": "Use the given magnitude and direction in standard position to write the vector in component form: $$|v|=6$$, $$\\theta=45\\degree$$.",
